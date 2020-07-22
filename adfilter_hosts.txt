@@ -1,11 +1,11 @@
-# Checksum: MTU5NTM3ODc0Nwo=
+# Checksum: MTU5NTM4NzM4NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200722-0
-# TimeUpdated: 2020-07-22T00:45:47+00:00
+# Version: 1.0.0-20200722-1
+# TimeUpdated: 2020-07-22T03:09:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26641
+# Total: 26675
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -523,6 +523,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 22lm.cc
 127.0.0.1 2311.oadz.com
 127.0.0.1 233wo.com
+127.0.0.1 2341.a.dlads.cn
 127.0.0.1 2345.cn
 127.0.0.1 23456dj.com
 127.0.0.1 2345api.dftoutiao.com
@@ -2380,6 +2381,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 adrunnr.com
 127.0.0.1 ads-a.juicyads.com
 127.0.0.1 ads-api.videojj.com
+127.0.0.1 ads-pixiv.net
 127.0.0.1 ads-twitter.com
 127.0.0.1 ads-union.jd.com
 127.0.0.1 ads-west-colo.adsymptotic.com
@@ -2578,6 +2580,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 adsmogo.mobi
 127.0.0.1 adsmogo.net
 127.0.0.1 adsmogo.org
+127.0.0.1 adsmoloco.com
 127.0.0.1 adsnative.com
 127.0.0.1 adsolution.imtt.qq.com
 127.0.0.1 adson.awempire.com
@@ -3246,6 +3249,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 api.dreamfull.cn
 127.0.0.1 api.dsp.yhd.com
 127.0.0.1 api.e-cg.cn
+127.0.0.1 api.e.mi.com
 127.0.0.1 api.ethereum.hashvault.pro
 127.0.0.1 api.exc.mob.com
 127.0.0.1 api.g1.junfull.com
@@ -3601,6 +3605,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 at-img1.tdimg.com
 127.0.0.1 at-img2.tdimg.com
 127.0.0.1 at-img3.tdimg.com
+127.0.0.1 at.amfuwu.com
 127.0.0.1 at.atwola.com
 127.0.0.1 at.mct01.com
 127.0.0.1 at.umeng.com
@@ -5060,6 +5065,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 cdn.sp.rizhao9.com
 127.0.0.1 cdn.static-cnt.bi
 127.0.0.1 cdn.static-cnt.bid
+127.0.0.1 cdn.static.biqudu.la
 127.0.0.1 cdn.steepto.com
 127.0.0.1 cdn.streambeam.io
 127.0.0.1 cdn.surroundtm.com
@@ -7517,6 +7523,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 e.jyvlpg.cn
 127.0.0.1 e.jzvog.cn
 127.0.0.1 e.k079j.cn
+127.0.0.1 e.k2wx5.cn
 127.0.0.1 e.k9wz7.cn
 127.0.0.1 e.kafka8.com
 127.0.0.1 e.kcenu.com
@@ -7647,6 +7654,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 e.s0o5g.cn
 127.0.0.1 e.s76xid.cn
 127.0.0.1 e.s7ww2.cn
+127.0.0.1 e.s9wp1.cn
 127.0.0.1 e.sanitwealth.com
 127.0.0.1 e.sansch.com.cn
 127.0.0.1 e.sbaoe.com
@@ -8122,6 +8130,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 eo.cyhr992.top
 127.0.0.1 eo.cymn296.top
 127.0.0.1 eo.cyrc793.top
+127.0.0.1 eo.dybx992.top
 127.0.0.1 eo.dymr697.top
 127.0.0.1 eo.euwyc.xyz
 127.0.0.1 eo.h7t2f.xyz
@@ -8323,8 +8332,10 @@ ff02::3 ip6-allhosts
 127.0.0.1 ezucods.cn
 127.0.0.1 ezuon.com
 127.0.0.1 f.520tingshu.com
+127.0.0.1 f.5q63n.cn
 127.0.0.1 f.91byy.cn
 127.0.0.1 f.aty.sohu.com
+127.0.0.1 f.com.5q63n.cn
 127.0.0.1 f.dashaowu.com
 127.0.0.1 f.dianwenwang.com
 127.0.0.1 f.domob.cn
@@ -8581,6 +8592,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 firehouse651.com
 127.0.0.1 firmware.center
 127.0.0.1 fishinglovely.com
+127.0.0.1 fivecdm.com
 127.0.0.1 fix.hpplay.cn
 127.0.0.1 fixpub.com
 127.0.0.1 fj95560.com
@@ -8853,6 +8865,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 g.163.com
 127.0.0.1 g.3lian.com
 127.0.0.1 g.51network.com
+127.0.0.1 g.5q63n.cn
 127.0.0.1 g.6sfg.com
 127.0.0.1 g.711983.com
 127.0.0.1 g.ad8.cc
@@ -8866,6 +8879,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 g.brothersoft.com
 127.0.0.1 g.chuiyao.com
 127.0.0.1 g.cn.miaozhen.com
+127.0.0.1 g.com.5q63n.cn
 127.0.0.1 g.d.yoyi.tv
 127.0.0.1 g.daman.cc
 127.0.0.1 g.domob.cn
@@ -9159,6 +9173,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ggg.zj.com
 127.0.0.1 gghh486.cn
 127.0.0.1 gghh493.cn
+127.0.0.1 ggic.cmvideo.cn
 127.0.0.1 ggjs.d17.cc
 127.0.0.1 ggle.lywf.me
 127.0.0.1 ggmm777.com
@@ -9238,6 +9253,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 go-quicky.com
 127.0.0.1 go.adinfuse.com
 127.0.0.1 go.bestmobiworld.com
+127.0.0.1 go.dlads.cn
 127.0.0.1 go.gogolm.xyz
 127.0.0.1 go.gotourl.xyz
 127.0.0.1 go.gotourls.bid
@@ -10571,7 +10587,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 img.zsj18.com
 127.0.0.1 img.zuowen8.com
 127.0.0.1 img.zuowenwang.net
-127.0.0.1 img.zuoyebang.cc
 127.0.0.1 img.zx590.com
 127.0.0.1 img0.egou.com
 127.0.0.1 img001.com
@@ -10636,6 +10651,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 imgg.marketgid.com
 127.0.0.1 imgg.mgid.com
 127.0.0.1 imgp.cymzc.com
+127.0.0.1 imgs.dlads.cn
 127.0.0.1 imgs.wangketuan.com
 127.0.0.1 imgsreview.dftoutiao.com
 127.0.0.1 imgstat.baidu.com
@@ -11075,6 +11091,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 jfqkj.com
 127.0.0.1 jfsdiwmnbsk003.top
 127.0.0.1 jfy-stone.cn
+127.0.0.1 jg.bjpengyi.com
 127.0.0.1 jg1668.com
 127.0.0.1 jgchq.com
 127.0.0.1 jghcy.com
@@ -13305,6 +13322,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 m.jzvog.cn
 127.0.0.1 m.k079j.cn
 127.0.0.1 m.k2d98mi.cn
+127.0.0.1 m.k2wx5.cn
 127.0.0.1 m.k9wz7.cn
 127.0.0.1 m.kafka8.com
 127.0.0.1 m.kanghuaixin.cn
@@ -13565,6 +13583,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 m.s69zl.cn
 127.0.0.1 m.s76xid.cn
 127.0.0.1 m.s7ww2.cn
+127.0.0.1 m.s9wp1.cn
 127.0.0.1 m.sanitwealth.com
 127.0.0.1 m.sanjiangge.com
 127.0.0.1 m.sansch.com.cn
@@ -13960,6 +13979,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 m2374.oadz.com
 127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 m2u.376710.com
+127.0.0.1 m3.aigou023.com
 127.0.0.1 m3.cdn-jquery.host
 127.0.0.1 m3bnqqqw.com
 127.0.0.1 m4.cd
@@ -14590,6 +14610,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 mo.cyrc793.top
 127.0.0.1 mo.dfnbyn.top
 127.0.0.1 mo.drzd9.cn
+127.0.0.1 mo.dybx992.top
 127.0.0.1 mo.dymr697.top
 127.0.0.1 mo.euwyc.xyz
 127.0.0.1 mo.grqf.com.cn
@@ -16052,11 +16073,13 @@ ff02::3 ip6-allhosts
 127.0.0.1 pbvxtgn.cn
 127.0.0.1 pc.107788.com
 127.0.0.1 pc.5151gj.com
+127.0.0.1 pc.cathaycentury.com
 127.0.0.1 pc.ctsywy.com
 127.0.0.1 pc.da.mgtv.com
 127.0.0.1 pc.gutouwang.net
 127.0.0.1 pc.quansj.cn
 127.0.0.1 pc.videoclick.baidu.com
+127.0.0.1 pc.ziyuewentao.com
 127.0.0.1 pc1.da.mgtv.com
 127.0.0.1 pcaoo.com
 127.0.0.1 pcauto.irs01.com
@@ -17707,6 +17730,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 s.jghcy.com
 127.0.0.1 s.jgtamgt.top
 127.0.0.1 s.jimdo.com
+127.0.0.1 s.jjcclc.top
 127.0.0.1 s.jlminte.com
 127.0.0.1 s.jpush.cn
 127.0.0.1 s.jtdxz.top
@@ -19053,6 +19077,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 sm2.todgo.com
 127.0.0.1 sm3na.com
 127.0.0.1 sm51shai.allyes.com
+127.0.0.1 smaato.net
 127.0.0.1 smallmovieapp.com
 127.0.0.1 smart-789.image.mucang.cn
 127.0.0.1 smart-789.kakamobi.cn
@@ -20059,6 +20084,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 t.pingzei.com
 127.0.0.1 t.pzclw.cn
 127.0.0.1 t.qiuqiuqipai.com
+127.0.0.1 t.quandangdang.net
 127.0.0.1 t.sdpaji.com
 127.0.0.1 t.sj.qq.com
 127.0.0.1 t.srcode.top
@@ -20464,6 +20490,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 tj.g.pptv.com
 127.0.0.1 tj.jinyuewang.cn
 127.0.0.1 tj.kugou.com
+127.0.0.1 tj.playcvn.com
 127.0.0.1 tj.tongjiwo.com
 127.0.0.1 tj.tt1386.com
 127.0.0.1 tj.u17t.com
@@ -20512,6 +20539,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 tmp.hnshanju.com
 127.0.0.1 tmrmixer.cn
 127.0.0.1 tmuseum.com.cn
+127.0.0.1 tn.inxjguc.cn
 127.0.0.1 tnarzc.com
 127.0.0.1 tngmn.com
 127.0.0.1 tnlby.com
@@ -20747,6 +20775,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ttzq88.com
 127.0.0.1 tu.baixing.com
 127.0.0.1 tu.biddingx.com
+127.0.0.1 tu.cvnad.com
 127.0.0.1 tu.njflfd.com
 127.0.0.1 tu.szefe.com
 127.0.0.1 tu.zx110.org
@@ -21368,6 +21397,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 v.e7002.com
 127.0.0.1 v.esvlqmd.cn
 127.0.0.1 v.gdt.qq.com
+127.0.0.1 v.heygugu.com
 127.0.0.1 v.iche88.cn
 127.0.0.1 v.inigsplan.ru
 127.0.0.1 v.irs01.com
@@ -21392,6 +21422,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 v.xinshide.cn
 127.0.0.1 v.xiuzhenjewelry.cn
 127.0.0.1 v.xrooxeo.cn
+127.0.0.1 v.yahgxog.cn
 127.0.0.1 v0.stat.ku6.com
 127.0.0.1 v00087.com
 127.0.0.1 v02u9.cn
@@ -22996,6 +23027,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.aba.ae
 127.0.0.1 www.abbyychina.com
 127.0.0.1 www.abedsetz.com
+127.0.0.1 www.abie18.top
+127.0.0.1 www.abie19.top
 127.0.0.1 www.abie20.top
 127.0.0.1 www.ablen01.tk
 127.0.0.1 www.ablen02.tk
@@ -25164,6 +25197,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 x.vamaker.com
 127.0.0.1 x.vipergirls.to
 127.0.0.1 x.wvez.cn
+127.0.0.1 x.xxyxmdq.cn
 127.0.0.1 x.zhuyuanp.top
 127.0.0.1 x01.aidata.io
 127.0.0.1 x0lh.cn
@@ -27164,6 +27198,7 @@ ff02::3 ip6-allhosts
 ::1 22lm.cc
 ::1 2311.oadz.com
 ::1 233wo.com
+::1 2341.a.dlads.cn
 ::1 2345.cn
 ::1 23456dj.com
 ::1 2345api.dftoutiao.com
@@ -29021,6 +29056,7 @@ ff02::3 ip6-allhosts
 ::1 adrunnr.com
 ::1 ads-a.juicyads.com
 ::1 ads-api.videojj.com
+::1 ads-pixiv.net
 ::1 ads-twitter.com
 ::1 ads-union.jd.com
 ::1 ads-west-colo.adsymptotic.com
@@ -29219,6 +29255,7 @@ ff02::3 ip6-allhosts
 ::1 adsmogo.mobi
 ::1 adsmogo.net
 ::1 adsmogo.org
+::1 adsmoloco.com
 ::1 adsnative.com
 ::1 adsolution.imtt.qq.com
 ::1 adson.awempire.com
@@ -29887,6 +29924,7 @@ ff02::3 ip6-allhosts
 ::1 api.dreamfull.cn
 ::1 api.dsp.yhd.com
 ::1 api.e-cg.cn
+::1 api.e.mi.com
 ::1 api.ethereum.hashvault.pro
 ::1 api.exc.mob.com
 ::1 api.g1.junfull.com
@@ -30242,6 +30280,7 @@ ff02::3 ip6-allhosts
 ::1 at-img1.tdimg.com
 ::1 at-img2.tdimg.com
 ::1 at-img3.tdimg.com
+::1 at.amfuwu.com
 ::1 at.atwola.com
 ::1 at.mct01.com
 ::1 at.umeng.com
@@ -31701,6 +31740,7 @@ ff02::3 ip6-allhosts
 ::1 cdn.sp.rizhao9.com
 ::1 cdn.static-cnt.bi
 ::1 cdn.static-cnt.bid
+::1 cdn.static.biqudu.la
 ::1 cdn.steepto.com
 ::1 cdn.streambeam.io
 ::1 cdn.surroundtm.com
@@ -34158,6 +34198,7 @@ ff02::3 ip6-allhosts
 ::1 e.jyvlpg.cn
 ::1 e.jzvog.cn
 ::1 e.k079j.cn
+::1 e.k2wx5.cn
 ::1 e.k9wz7.cn
 ::1 e.kafka8.com
 ::1 e.kcenu.com
@@ -34288,6 +34329,7 @@ ff02::3 ip6-allhosts
 ::1 e.s0o5g.cn
 ::1 e.s76xid.cn
 ::1 e.s7ww2.cn
+::1 e.s9wp1.cn
 ::1 e.sanitwealth.com
 ::1 e.sansch.com.cn
 ::1 e.sbaoe.com
@@ -34763,6 +34805,7 @@ ff02::3 ip6-allhosts
 ::1 eo.cyhr992.top
 ::1 eo.cymn296.top
 ::1 eo.cyrc793.top
+::1 eo.dybx992.top
 ::1 eo.dymr697.top
 ::1 eo.euwyc.xyz
 ::1 eo.h7t2f.xyz
@@ -34964,8 +35007,10 @@ ff02::3 ip6-allhosts
 ::1 ezucods.cn
 ::1 ezuon.com
 ::1 f.520tingshu.com
+::1 f.5q63n.cn
 ::1 f.91byy.cn
 ::1 f.aty.sohu.com
+::1 f.com.5q63n.cn
 ::1 f.dashaowu.com
 ::1 f.dianwenwang.com
 ::1 f.domob.cn
@@ -35222,6 +35267,7 @@ ff02::3 ip6-allhosts
 ::1 firehouse651.com
 ::1 firmware.center
 ::1 fishinglovely.com
+::1 fivecdm.com
 ::1 fix.hpplay.cn
 ::1 fixpub.com
 ::1 fj95560.com
@@ -35494,6 +35540,7 @@ ff02::3 ip6-allhosts
 ::1 g.163.com
 ::1 g.3lian.com
 ::1 g.51network.com
+::1 g.5q63n.cn
 ::1 g.6sfg.com
 ::1 g.711983.com
 ::1 g.ad8.cc
@@ -35507,6 +35554,7 @@ ff02::3 ip6-allhosts
 ::1 g.brothersoft.com
 ::1 g.chuiyao.com
 ::1 g.cn.miaozhen.com
+::1 g.com.5q63n.cn
 ::1 g.d.yoyi.tv
 ::1 g.daman.cc
 ::1 g.domob.cn
@@ -35800,6 +35848,7 @@ ff02::3 ip6-allhosts
 ::1 ggg.zj.com
 ::1 gghh486.cn
 ::1 gghh493.cn
+::1 ggic.cmvideo.cn
 ::1 ggjs.d17.cc
 ::1 ggle.lywf.me
 ::1 ggmm777.com
@@ -35879,6 +35928,7 @@ ff02::3 ip6-allhosts
 ::1 go-quicky.com
 ::1 go.adinfuse.com
 ::1 go.bestmobiworld.com
+::1 go.dlads.cn
 ::1 go.gogolm.xyz
 ::1 go.gotourl.xyz
 ::1 go.gotourls.bid
@@ -37212,7 +37262,6 @@ ff02::3 ip6-allhosts
 ::1 img.zsj18.com
 ::1 img.zuowen8.com
 ::1 img.zuowenwang.net
-::1 img.zuoyebang.cc
 ::1 img.zx590.com
 ::1 img0.egou.com
 ::1 img001.com
@@ -37277,6 +37326,7 @@ ff02::3 ip6-allhosts
 ::1 imgg.marketgid.com
 ::1 imgg.mgid.com
 ::1 imgp.cymzc.com
+::1 imgs.dlads.cn
 ::1 imgs.wangketuan.com
 ::1 imgsreview.dftoutiao.com
 ::1 imgstat.baidu.com
@@ -37716,6 +37766,7 @@ ff02::3 ip6-allhosts
 ::1 jfqkj.com
 ::1 jfsdiwmnbsk003.top
 ::1 jfy-stone.cn
+::1 jg.bjpengyi.com
 ::1 jg1668.com
 ::1 jgchq.com
 ::1 jghcy.com
@@ -39946,6 +39997,7 @@ ff02::3 ip6-allhosts
 ::1 m.jzvog.cn
 ::1 m.k079j.cn
 ::1 m.k2d98mi.cn
+::1 m.k2wx5.cn
 ::1 m.k9wz7.cn
 ::1 m.kafka8.com
 ::1 m.kanghuaixin.cn
@@ -40206,6 +40258,7 @@ ff02::3 ip6-allhosts
 ::1 m.s69zl.cn
 ::1 m.s76xid.cn
 ::1 m.s7ww2.cn
+::1 m.s9wp1.cn
 ::1 m.sanitwealth.com
 ::1 m.sanjiangge.com
 ::1 m.sansch.com.cn
@@ -40601,6 +40654,7 @@ ff02::3 ip6-allhosts
 ::1 m2374.oadz.com
 ::1 m2m1.inner-active.mobi
 ::1 m2u.376710.com
+::1 m3.aigou023.com
 ::1 m3.cdn-jquery.host
 ::1 m3bnqqqw.com
 ::1 m4.cd
@@ -41231,6 +41285,7 @@ ff02::3 ip6-allhosts
 ::1 mo.cyrc793.top
 ::1 mo.dfnbyn.top
 ::1 mo.drzd9.cn
+::1 mo.dybx992.top
 ::1 mo.dymr697.top
 ::1 mo.euwyc.xyz
 ::1 mo.grqf.com.cn
@@ -42693,11 +42748,13 @@ ff02::3 ip6-allhosts
 ::1 pbvxtgn.cn
 ::1 pc.107788.com
 ::1 pc.5151gj.com
+::1 pc.cathaycentury.com
 ::1 pc.ctsywy.com
 ::1 pc.da.mgtv.com
 ::1 pc.gutouwang.net
 ::1 pc.quansj.cn
 ::1 pc.videoclick.baidu.com
+::1 pc.ziyuewentao.com
 ::1 pc1.da.mgtv.com
 ::1 pcaoo.com
 ::1 pcauto.irs01.com
@@ -44348,6 +44405,7 @@ ff02::3 ip6-allhosts
 ::1 s.jghcy.com
 ::1 s.jgtamgt.top
 ::1 s.jimdo.com
+::1 s.jjcclc.top
 ::1 s.jlminte.com
 ::1 s.jpush.cn
 ::1 s.jtdxz.top
@@ -45694,6 +45752,7 @@ ff02::3 ip6-allhosts
 ::1 sm2.todgo.com
 ::1 sm3na.com
 ::1 sm51shai.allyes.com
+::1 smaato.net
 ::1 smallmovieapp.com
 ::1 smart-789.image.mucang.cn
 ::1 smart-789.kakamobi.cn
@@ -46700,6 +46759,7 @@ ff02::3 ip6-allhosts
 ::1 t.pingzei.com
 ::1 t.pzclw.cn
 ::1 t.qiuqiuqipai.com
+::1 t.quandangdang.net
 ::1 t.sdpaji.com
 ::1 t.sj.qq.com
 ::1 t.srcode.top
@@ -47105,6 +47165,7 @@ ff02::3 ip6-allhosts
 ::1 tj.g.pptv.com
 ::1 tj.jinyuewang.cn
 ::1 tj.kugou.com
+::1 tj.playcvn.com
 ::1 tj.tongjiwo.com
 ::1 tj.tt1386.com
 ::1 tj.u17t.com
@@ -47153,6 +47214,7 @@ ff02::3 ip6-allhosts
 ::1 tmp.hnshanju.com
 ::1 tmrmixer.cn
 ::1 tmuseum.com.cn
+::1 tn.inxjguc.cn
 ::1 tnarzc.com
 ::1 tngmn.com
 ::1 tnlby.com
@@ -47388,6 +47450,7 @@ ff02::3 ip6-allhosts
 ::1 ttzq88.com
 ::1 tu.baixing.com
 ::1 tu.biddingx.com
+::1 tu.cvnad.com
 ::1 tu.njflfd.com
 ::1 tu.szefe.com
 ::1 tu.zx110.org
@@ -48009,6 +48072,7 @@ ff02::3 ip6-allhosts
 ::1 v.e7002.com
 ::1 v.esvlqmd.cn
 ::1 v.gdt.qq.com
+::1 v.heygugu.com
 ::1 v.iche88.cn
 ::1 v.inigsplan.ru
 ::1 v.irs01.com
@@ -48033,6 +48097,7 @@ ff02::3 ip6-allhosts
 ::1 v.xinshide.cn
 ::1 v.xiuzhenjewelry.cn
 ::1 v.xrooxeo.cn
+::1 v.yahgxog.cn
 ::1 v0.stat.ku6.com
 ::1 v00087.com
 ::1 v02u9.cn
@@ -49637,6 +49702,8 @@ ff02::3 ip6-allhosts
 ::1 www.aba.ae
 ::1 www.abbyychina.com
 ::1 www.abedsetz.com
+::1 www.abie18.top
+::1 www.abie19.top
 ::1 www.abie20.top
 ::1 www.ablen01.tk
 ::1 www.ablen02.tk
@@ -51805,6 +51872,7 @@ ff02::3 ip6-allhosts
 ::1 x.vamaker.com
 ::1 x.vipergirls.to
 ::1 x.wvez.cn
+::1 x.xxyxmdq.cn
 ::1 x.zhuyuanp.top
 ::1 x01.aidata.io
 ::1 x0lh.cn
