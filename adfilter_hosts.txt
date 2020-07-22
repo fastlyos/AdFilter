@@ -1,11 +1,11 @@
-# Checksum: MTU5NTQxOTg1OAo=
+# Checksum: MTU5NTQzMDUzMQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200722-4
-# TimeUpdated: 2020-07-22T12:10:58+00:00
+# Version: 1.0.0-20200722-5
+# TimeUpdated: 2020-07-22T15:08:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26677
+# Total: 26682
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2874,6 +2874,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ait240.analysys.cn
 127.0.0.1 ait7ee.win
 127.0.0.1 aiwen.cc
+127.0.0.1 aixiutui.com
 127.0.0.1 aiyouji.xyz
 127.0.0.1 aiyyu.com
 127.0.0.1 aj-gb.mgid.com
@@ -4294,6 +4295,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 bjbrtc.com
 127.0.0.1 bjcass.com
 127.0.0.1 bjcathay.com
+127.0.0.1 bjcgbc.cn
 127.0.0.1 bjcu.u3.ucweb.com
 127.0.0.1 bjdianyue.com
 127.0.0.1 bjdnserror1.wo.com.cn
@@ -4311,6 +4313,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 bjhuhangjy.com
 127.0.0.1 bjlmok.com
 127.0.0.1 bjmcmj.cn
+127.0.0.1 bjmxcy.cn
 127.0.0.1 bjorksta.me
 127.0.0.1 bjorksta.men
 127.0.0.1 bjqftcty.com
@@ -18176,6 +18179,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 sanjinma.com
 127.0.0.1 sankezhi.cn
 127.0.0.1 santacruzsuspension.com
+127.0.0.1 sanxueshufa.cn
 127.0.0.1 sanya.vipc2f.com
 127.0.0.1 sanya1.com
 127.0.0.1 sape.ru
@@ -20382,6 +20386,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 tgbrfv.cn
 127.0.0.1 tgd.a1eg07.cn
 127.0.0.1 tgdlekikqbdc.com
+127.0.0.1 tglzqw.cn
 127.0.0.1 tgtvbngp.ru
 127.0.0.1 th21333.com
 127.0.0.1 th7.cn
@@ -29551,6 +29556,7 @@ ff02::3 ip6-allhosts
 ::1 ait240.analysys.cn
 ::1 ait7ee.win
 ::1 aiwen.cc
+::1 aixiutui.com
 ::1 aiyouji.xyz
 ::1 aiyyu.com
 ::1 aj-gb.mgid.com
@@ -30971,6 +30977,7 @@ ff02::3 ip6-allhosts
 ::1 bjbrtc.com
 ::1 bjcass.com
 ::1 bjcathay.com
+::1 bjcgbc.cn
 ::1 bjcu.u3.ucweb.com
 ::1 bjdianyue.com
 ::1 bjdnserror1.wo.com.cn
@@ -30988,6 +30995,7 @@ ff02::3 ip6-allhosts
 ::1 bjhuhangjy.com
 ::1 bjlmok.com
 ::1 bjmcmj.cn
+::1 bjmxcy.cn
 ::1 bjorksta.me
 ::1 bjorksta.men
 ::1 bjqftcty.com
@@ -44853,6 +44861,7 @@ ff02::3 ip6-allhosts
 ::1 sanjinma.com
 ::1 sankezhi.cn
 ::1 santacruzsuspension.com
+::1 sanxueshufa.cn
 ::1 sanya.vipc2f.com
 ::1 sanya1.com
 ::1 sape.ru
@@ -47059,6 +47068,7 @@ ff02::3 ip6-allhosts
 ::1 tgbrfv.cn
 ::1 tgd.a1eg07.cn
 ::1 tgdlekikqbdc.com
+::1 tglzqw.cn
 ::1 tgtvbngp.ru
 ::1 th21333.com
 ::1 th7.cn
