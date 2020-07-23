@@ -1,11 +1,11 @@
-# Checksum: MTU5NTQzMDUzMQo=
+# Checksum: MTU5NTQ4NDU5OQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200722-5
-# TimeUpdated: 2020-07-22T15:08:51+00:00
+# Version: 1.0.0-20200723-2
+# TimeUpdated: 2020-07-23T06:09:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26682
+# Total: 26676
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1741,7 +1741,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 abckzo.cn
 127.0.0.1 abctcqq.top
 127.0.0.1 abds.pingpingw.com
-127.0.0.1 abedsetz.com
 127.0.0.1 abeij.com
 127.0.0.1 abfirst.cn
 127.0.0.1 abie10.top
@@ -2780,6 +2779,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ag-gb.marketgid.com
 127.0.0.1 ag.nukefans.net
 127.0.0.1 ag.qq.com
+127.0.0.1 ag1.zuszw.com
 127.0.0.1 aganj.com
 127.0.0.1 agd.p.360.cn
 127.0.0.1 agd2.p.360.cn
@@ -19670,7 +19670,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 storage.29293.com
 127.0.0.1 store-aleteia.org
 127.0.0.1 store.1sttheworld.co
-127.0.0.1 store.abedsetz.com
 127.0.0.1 store.aliyaoberbrunnergreg21.myshopify.com
 127.0.0.1 store.army-shop.onshopbase.com
 127.0.0.1 store.arnoldgloverruss58.myshopify.com
@@ -19725,7 +19724,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 store.startuplatte.com
 127.0.0.1 store.stingcool-com.myshopify.com
 127.0.0.1 store.stoeki.com
-127.0.0.1 store.supercutestuff.com
 127.0.0.1 store.swellsup.com
 127.0.0.1 store.tartannewzealand.myshopify.com
 127.0.0.1 store.thecabinas.com
@@ -19833,10 +19831,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 super.kdnet.net
 127.0.0.1 superbay.li
 127.0.0.1 supercounters.com
-127.0.0.1 supercutestuff.com
 127.0.0.1 superfastcdn.com
 127.0.0.1 superiorcoin.crypto-webminer.com
-127.0.0.1 superitee.com
 127.0.0.1 superli666.top
 127.0.0.1 superofferte.shop
 127.0.0.1 supersonicads.com
@@ -23033,7 +23029,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.aafanke.cc
 127.0.0.1 www.aba.ae
 127.0.0.1 www.abbyychina.com
-127.0.0.1 www.abedsetz.com
 127.0.0.1 www.abie18.top
 127.0.0.1 www.abie19.top
 127.0.0.1 www.abie20.top
@@ -24605,7 +24600,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.sunleaftravel.com
 127.0.0.1 www.sunsetstore.net
 127.0.0.1 www.super8service.de
-127.0.0.1 www.supercutestuff.com
 127.0.0.1 www.superiorcoin.crypto-webminer.com
 127.0.0.1 www.superofferte.shop
 127.0.0.1 www.supportxmr.com
@@ -28423,7 +28417,6 @@ ff02::3 ip6-allhosts
 ::1 abckzo.cn
 ::1 abctcqq.top
 ::1 abds.pingpingw.com
-::1 abedsetz.com
 ::1 abeij.com
 ::1 abfirst.cn
 ::1 abie10.top
@@ -29462,6 +29455,7 @@ ff02::3 ip6-allhosts
 ::1 ag-gb.marketgid.com
 ::1 ag.nukefans.net
 ::1 ag.qq.com
+::1 ag1.zuszw.com
 ::1 aganj.com
 ::1 agd.p.360.cn
 ::1 agd2.p.360.cn
@@ -46352,7 +46346,6 @@ ff02::3 ip6-allhosts
 ::1 storage.29293.com
 ::1 store-aleteia.org
 ::1 store.1sttheworld.co
-::1 store.abedsetz.com
 ::1 store.aliyaoberbrunnergreg21.myshopify.com
 ::1 store.army-shop.onshopbase.com
 ::1 store.arnoldgloverruss58.myshopify.com
@@ -46407,7 +46400,6 @@ ff02::3 ip6-allhosts
 ::1 store.startuplatte.com
 ::1 store.stingcool-com.myshopify.com
 ::1 store.stoeki.com
-::1 store.supercutestuff.com
 ::1 store.swellsup.com
 ::1 store.tartannewzealand.myshopify.com
 ::1 store.thecabinas.com
@@ -46515,10 +46507,8 @@ ff02::3 ip6-allhosts
 ::1 super.kdnet.net
 ::1 superbay.li
 ::1 supercounters.com
-::1 supercutestuff.com
 ::1 superfastcdn.com
 ::1 superiorcoin.crypto-webminer.com
-::1 superitee.com
 ::1 superli666.top
 ::1 superofferte.shop
 ::1 supersonicads.com
@@ -49715,7 +49705,6 @@ ff02::3 ip6-allhosts
 ::1 www.aafanke.cc
 ::1 www.aba.ae
 ::1 www.abbyychina.com
-::1 www.abedsetz.com
 ::1 www.abie18.top
 ::1 www.abie19.top
 ::1 www.abie20.top
@@ -51287,7 +51276,6 @@ ff02::3 ip6-allhosts
 ::1 www.sunleaftravel.com
 ::1 www.sunsetstore.net
 ::1 www.super8service.de
-::1 www.supercutestuff.com
 ::1 www.superiorcoin.crypto-webminer.com
 ::1 www.superofferte.shop
 ::1 www.supportxmr.com
