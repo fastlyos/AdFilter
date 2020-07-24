@@ -1,11 +1,11 @@
-# Checksum: MTU5NTU5Mjc2NQo=
+# Checksum: MTU5NTYwMzMzOAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200724-4
-# TimeUpdated: 2020-07-24T12:12:45+00:00
+# Version: 1.0.0-20200724-5
+# TimeUpdated: 2020-07-24T15:08:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23926
+# Total: 23928
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4209,6 +4209,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 ccmdgg.com
 127.0.0.1 ccr.yxdown.com
 127.0.0.1 cctg.cc
+127.0.0.1 cctole.com
 127.0.0.1 cctv.adsunion.com
 127.0.0.1 cctyly.com
 127.0.0.1 ccv.jiumishow.com
@@ -13691,6 +13692,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 nwejs.alcryp.com
 127.0.0.1 nwejs.myzcoffice.com
 127.0.0.1 nwffx.xyz
+127.0.0.1 nwpuis.top
 127.0.0.1 nwwap.com
 127.0.0.1 nxh2h.cn
 127.0.0.1 nxkycx.com
@@ -28135,6 +28137,7 @@ ff02::3 ip6-allhosts
 ::1 ccmdgg.com
 ::1 ccr.yxdown.com
 ::1 cctg.cc
+::1 cctole.com
 ::1 cctv.adsunion.com
 ::1 cctyly.com
 ::1 ccv.jiumishow.com
@@ -37617,6 +37620,7 @@ ff02::3 ip6-allhosts
 ::1 nwejs.alcryp.com
 ::1 nwejs.myzcoffice.com
 ::1 nwffx.xyz
+::1 nwpuis.top
 ::1 nwwap.com
 ::1 nxh2h.cn
 ::1 nxkycx.com
