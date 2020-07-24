@@ -1,11 +1,11 @@
-# Checksum: MTU5NTU3MTAxMwo=
+# Checksum: MTU5NTU5Mjc2NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200724-2
-# TimeUpdated: 2020-07-24T06:10:13+00:00
+# Version: 1.0.0-20200724-4
+# TimeUpdated: 2020-07-24T12:12:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23924
+# Total: 23926
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10275,6 +10275,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 kanghuaixin.cn
 127.0.0.1 kanjiaqun.cn
 127.0.0.1 kantv.pub
+127.0.0.1 kanwby.com
 127.0.0.1 kapcotool.com
 127.0.0.1 karbowanec.crypto-webminer.com
 127.0.0.1 karma.mdpcdn.com
@@ -17750,6 +17751,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 sxying.top
 127.0.0.1 sxympy.com
 127.0.0.1 sxz67.com
+127.0.0.1 sxzcrq.com
 127.0.0.1 sxzmj.cn
 127.0.0.1 sxzzhj.com
 127.0.0.1 sy-cdnres.unionsy.com
@@ -34199,6 +34201,7 @@ ff02::3 ip6-allhosts
 ::1 kanghuaixin.cn
 ::1 kanjiaqun.cn
 ::1 kantv.pub
+::1 kanwby.com
 ::1 kapcotool.com
 ::1 karbowanec.crypto-webminer.com
 ::1 karma.mdpcdn.com
@@ -41674,6 +41677,7 @@ ff02::3 ip6-allhosts
 ::1 sxying.top
 ::1 sxympy.com
 ::1 sxz67.com
+::1 sxzcrq.com
 ::1 sxzmj.cn
 ::1 sxzzhj.com
 ::1 sy-cdnres.unionsy.com
