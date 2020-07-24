@@ -1,11 +1,11 @@
-# Checksum: MTU5NTU1MDI0Ngo=
+# Checksum: MTU5NTU2MDE3MAo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200724-0
-# TimeUpdated: 2020-07-24T00:24:06+00:00
+# Version: 1.0.0-20200724-1
+# TimeUpdated: 2020-07-24T03:09:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23921
+# Total: 23922
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,000.0x1f4b0.com
@@ -23380,6 +23380,7 @@ DOMAIN-SUFFIX,youhm.cn
 DOMAIN-SUFFIX,youhuomeishi.com
 DOMAIN-SUFFIX,youjia2016.com
 DOMAIN-SUFFIX,youka.la
+DOMAIN-SUFFIX,youkete.cn
 DOMAIN-SUFFIX,youku-dtv.m.cn.miaozhen.com
 DOMAIN-SUFFIX,youle.tom.com
 DOMAIN-SUFFIX,youle55.com
