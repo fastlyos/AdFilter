@@ -1,11 +1,11 @@
-# Checksum: MTU5NTU2MDE3MAo=
+# Checksum: MTU5NTU3MTAxMwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200724-1
-# TimeUpdated: 2020-07-24T03:09:30+00:00
+# Version: 1.0.0-20200724-2
+# TimeUpdated: 2020-07-24T06:10:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23922
+# Total: 23924
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -8230,6 +8230,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 groupa.onlylady.com
 127.0.0.1 growingio.com
 127.0.0.1 grtnahd.cn
+127.0.0.1 grubfast.com
 127.0.0.1 gs.m.cn.miaozhen.com
 127.0.0.1 gs307.com
 127.0.0.1 gshtrl.top
@@ -17580,6 +17581,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 store.thecabinas.com
 127.0.0.1 store.thechildhooddream.com
 127.0.0.1 store.thevitic.onshopbase.com
+127.0.0.1 store.timebestbuy.com
 127.0.0.1 store.tiskomarket.com
 127.0.0.1 store.tobiascelebritymusicevents.com
 127.0.0.1 store.tomadamsenergy.com
@@ -18200,7 +18202,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 thepiratebay.wtf
 127.0.0.1 thersprens.com
 127.0.0.1 thescenseproject.com
-127.0.0.1 theshiny.store
 127.0.0.1 theta.sogoucdn.com
 127.0.0.1 thetestpage.39.net
 127.0.0.1 thevideo.ch
@@ -22151,8 +22152,10 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.tee24h.com
 127.0.0.1 www.teechip.online
 127.0.0.1 www.teefoody.com
+127.0.0.1 www.teelegendary.com
 127.0.0.1 www.teemarko.com
 127.0.0.1 www.teepro.life
+127.0.0.1 www.teeslegendary.com
 127.0.0.1 www.teesunshine.com
 127.0.0.1 www.teezill.com
 127.0.0.1 www.template-download.top
@@ -22174,7 +22177,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.thepiratebay.cr
 127.0.0.1 www.thepiratebay.org
 127.0.0.1 www.thepiratebay.wtf
-127.0.0.1 www.theshiny.store
 127.0.0.1 www.thesparkmachine.com
 127.0.0.1 www.thevitic.com
 127.0.0.1 www.thevitic.onshopbase.com
@@ -32152,6 +32154,7 @@ ff02::3 ip6-allhosts
 ::1 groupa.onlylady.com
 ::1 growingio.com
 ::1 grtnahd.cn
+::1 grubfast.com
 ::1 gs.m.cn.miaozhen.com
 ::1 gs307.com
 ::1 gshtrl.top
@@ -41502,6 +41505,7 @@ ff02::3 ip6-allhosts
 ::1 store.thecabinas.com
 ::1 store.thechildhooddream.com
 ::1 store.thevitic.onshopbase.com
+::1 store.timebestbuy.com
 ::1 store.tiskomarket.com
 ::1 store.tobiascelebritymusicevents.com
 ::1 store.tomadamsenergy.com
@@ -42122,7 +42126,6 @@ ff02::3 ip6-allhosts
 ::1 thepiratebay.wtf
 ::1 thersprens.com
 ::1 thescenseproject.com
-::1 theshiny.store
 ::1 theta.sogoucdn.com
 ::1 thetestpage.39.net
 ::1 thevideo.ch
@@ -46073,8 +46076,10 @@ ff02::3 ip6-allhosts
 ::1 www.tee24h.com
 ::1 www.teechip.online
 ::1 www.teefoody.com
+::1 www.teelegendary.com
 ::1 www.teemarko.com
 ::1 www.teepro.life
+::1 www.teeslegendary.com
 ::1 www.teesunshine.com
 ::1 www.teezill.com
 ::1 www.template-download.top
@@ -46096,7 +46101,6 @@ ff02::3 ip6-allhosts
 ::1 www.thepiratebay.cr
 ::1 www.thepiratebay.org
 ::1 www.thepiratebay.wtf
-::1 www.theshiny.store
 ::1 www.thesparkmachine.com
 ::1 www.thevitic.com
 ::1 www.thevitic.onshopbase.com
