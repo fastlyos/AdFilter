@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.0
+# Current Version: 1.0.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -38,22 +38,22 @@ function GetData() {
     )
     rm -rf ./Temp && mkdir ./Temp && cd ./Temp
     for adblock_list_unchecked_task in "${!adblock_list_unchecked[@]}"; do
-        echo "Downloading adblock list (($((${adblock_list_unchecked_task} + 1)) / ${#adblock_list_unchecked[@]})"
+        echo "Downloading adblock list ($((${adblock_list_unchecked_task} + 1)) / ${#adblock_list_unchecked[@]})"
         curl -s --connect-timeout 15 "${adblock_list_unchecked[$adblock_list_unchecked_task]}" >> ./adblock_list_unchecked.tmp
         sleep 3s
     done
     for domains_list_unchecked_task in "${!domains_list_unchecked[@]}"; do
-        echo "Downloading domains list (($((${domains_list_unchecked_task} + 1)) / ${#domains_list_unchecked[@]})"
+        echo "Downloading domains list ($((${domains_list_unchecked_task} + 1)) / ${#domains_list_unchecked[@]})"
         curl -s --connect-timeout 15 "${domains_list_unchecked[$domains_list_unchecked_task]}" >> ./domains_list_unchecked.tmp
         sleep 3s
     done
     for hosts_list_unchecked_task in "${!hosts_list_unchecked[@]}"; do
-        echo "Downloading hosts list (($((${hosts_list_unchecked_task} + 1)) / ${#hosts_list_unchecked[@]})"
+        echo "Downloading hosts list ($((${hosts_list_unchecked_task} + 1)) / ${#hosts_list_unchecked[@]})"
         curl -s --connect-timeout 15 "${hosts_list_unchecked[$hosts_list_unchecked_task]}" >> ./hosts_list_unchecked.tmp
         sleep 3s
     done
     for other_list_unchecked_task in "${!other_list_unchecked[@]}"; do
-        echo "Downloading other list (($((${other_list_unchecked_task} + 1)) / ${#other_list_unchecked[@]})"
+        echo "Downloading other list ($((${other_list_unchecked_task} + 1)) / ${#other_list_unchecked[@]})"
         curl -s --connect-timeout 15 "${other_list_unchecked[$other_list_unchecked_task]}" >> ./other_list_unchecked.tmp
         sleep 3s
     done
