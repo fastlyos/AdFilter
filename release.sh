@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.2
+# Current Version: 1.0.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -148,9 +148,9 @@ function GenerateInformation() {
 # Output Data
 function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
-        #GenerateInformation
+        GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt >> ../adfilter_adblock.txt
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
             echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
             echo "${filter_data[$filter_data_task]}" | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
             echo "${filter_data[$filter_data_task]}" | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
@@ -169,9 +169,9 @@ function OutputData() {
             cd .. && rm -rf ./Temp
             exit 0
         else
-            #GenerateInformation
+            GenerateInformation
             for filter_data_task in "${!filter_data[@]}"; do
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt >> ../adfilter_adblock.txt
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
                 echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
                 echo "${filter_data[$filter_data_task]}" | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
                 echo "${filter_data[$filter_data_task]}" | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
