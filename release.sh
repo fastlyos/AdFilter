@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -55,7 +55,7 @@ function GenerateInformation() {
     adfilter_homepage="https://github.com/hezhijie0327/AdFilter"
     adfilter_timeupdated=$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y-%m-%dT%H:%M:%S%:z")
     adfilter_title="Zhijie's Ad Filter"
-    adfilter_total=$(sed -n '$=' ./checklist.tmp)
+    adfilter_total=$(cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq | awk "{ print $2 }" > ./checklist.tmp && sed -n '$=' ./checklist.tmp)
     adfilter_version=$(cat ../release.sh | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$(($(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
     function adfilter_adblock() {
         echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adblock.txt
@@ -162,7 +162,6 @@ function OutputData() {
         cd .. && rm -rf ./Temp
         exit 0
     else
-        cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq | awk "{ print $2 }" > ./checklist.tmp
         cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./checklist.old
         if [ "$(diff ./checklist.tmp ./checklist.old)" = "" ]; then
             cd .. && rm -rf ./Temp
