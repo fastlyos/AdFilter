@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -8,7 +8,7 @@
 ## Function
 # Get Data
 function GetData() {
-    adblock_list_unchecked=(
+    filter_adblock=(
         "https://easylist-downloads.adblockplus.org/easylistchina.txt"
         "https://filters.adtidy.org/extension/chromium/filters/224.txt"
         "https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt"
@@ -17,12 +17,12 @@ function GetData() {
         "https://gitee.com/halflife/list/raw/master/ad.txt"
         "https://raw.githubusercontent.com/VeleSila/VELE-SILA-List/gh-pages/KaFanList.txt"
     )
-    domains_list_unchecked=(
+    filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
     )
-    hosts_list_unchecked=(
+    filter_hosts=(
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_browser"
         "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
         "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt"
@@ -32,39 +32,20 @@ function GetData() {
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts"
         "https://www.malwaredomainlist.com/hostslist/hosts.txt"
     )
-    other_list_unchecked=(
-        "https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list"
-        "https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list"
-    )
-    rm -rf ./Temp && mkdir ./Temp && cd ./Temp
-    for adblock_list_unchecked_task in "${!adblock_list_unchecked[@]}"; do
-        echo "Downloading adblock list ($((${adblock_list_unchecked_task} + 1)) / ${#adblock_list_unchecked[@]})"
-        curl -s --connect-timeout 15 "${adblock_list_unchecked[$adblock_list_unchecked_task]}" >> ./adblock_list_unchecked.tmp
-        sleep 3s
+    rm -rf *.txt *.conf ./Temp && mkdir ./Temp && cd ./Temp
+    for filter_adblock_task in "${!filter_adblock[@]}"; do
+        curl -s --connect-timeout 15 "${filter_adblock[$filter_adblock_task]}" >> ./filter_adblock.tmp
     done
-    for domains_list_unchecked_task in "${!domains_list_unchecked[@]}"; do
-        echo "Downloading domains list ($((${domains_list_unchecked_task} + 1)) / ${#domains_list_unchecked[@]})"
-        curl -s --connect-timeout 15 "${domains_list_unchecked[$domains_list_unchecked_task]}" >> ./domains_list_unchecked.tmp
-        sleep 3s
+    for filter_domain_task in "${!filter_domain[@]}"; do
+        curl -s --connect-timeout 15 "${filter_domain[$filter_domain_task]}" >> ./filter_domain.tmp
     done
-    for hosts_list_unchecked_task in "${!hosts_list_unchecked[@]}"; do
-        echo "Downloading hosts list ($((${hosts_list_unchecked_task} + 1)) / ${#hosts_list_unchecked[@]})"
-        curl -s --connect-timeout 15 "${hosts_list_unchecked[$hosts_list_unchecked_task]}" >> ./hosts_list_unchecked.tmp
-        sleep 3s
-    done
-    for other_list_unchecked_task in "${!other_list_unchecked[@]}"; do
-        echo "Downloading other list ($((${other_list_unchecked_task} + 1)) / ${#other_list_unchecked[@]})"
-        curl -s --connect-timeout 15 "${other_list_unchecked[$other_list_unchecked_task]}" >> ./other_list_unchecked.tmp
-        sleep 3s
+    for filter_hosts_task in "${!filter_hosts[@]}"; do
+        curl -s --connect-timeout 15 "${filter_hosts[$filter_hosts_task]}" >> ./filter_hosts.tmp
     done
 }
-# Check Data
-function CheckData() {
-    cat ./adblock_list_unchecked.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./adblock_list_checked.tmp
-    cat ./domains_list_unchecked.tmp | grep -v "\!\|\#\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" > ./domains_list_checked.tmp
-    cat ./hosts_list_unchecked.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\://g" > ./hosts_list_checked.tmp
-    cat ./other_list_unchecked.tmp | grep -v "\#" | grep "DOMAIN-SUFFIX\|HOST-SUFFIX" | sed "s/DOMAIN\-SUFFIX\,//g;s/HOST\-SUFFIX\,//g;s/\,AdBlock//g" > ./other_list_checked.tmp
-    cat ./*_list_checked.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq > list.tmp
+# Analyse Data
+function AnalyseData() {
+    filter_data=($(cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
 function GenerateInformation() {
@@ -167,32 +148,39 @@ function GenerateInformation() {
 # Output Data
 function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
-        GenerateInformation
-        cat ./list.tmp | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
-        cat ./list.tmp | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
-        cat ./list.tmp | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
-        cat ./list.tmp | sed "s/^/127\.0\.0\.1\ /g;s/$//g" >> ../adfilter_hosts.txt
-        cat ./list.tmp | sed "s/^/\:\:1\ /g;s/$//g" >> ../adfilter_hosts.txt
-        cat ./list.tmp | sed "s/^/address\ \//g;s/$/\/\#/g" >> ../adfilter_smartdns.conf
-        cat ./list.tmp | sed "s/^/DOMAIN\-SUFFIX\,/g;s/$//g" >> ../adfilter_surge.txt
-        cat ./list.tmp | sed "s/^/local\-zone\:\ \"/g;s/$/\.\"\ redirect/g" >> ../adfilter_unbound.conf
+        #GenerateInformation
+        for filter_data_task in "${!filter_data[@]}"; do
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt >> ../adfilter_adblock.txt
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
+            echo "${filter_data[$filter_data_task]}" | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/127\.0\.0\.1\ /g;s/$//g" >> ../adfilter_hosts.txt
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/\:\:1\ /g;s/$//g" >> ../adfilter_hosts.txt
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/address\ \//g;s/$/\/\#/g" >> ../adfilter_smartdns.conf
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/DOMAIN\-SUFFIX\,/g;s/$//g" >> ../adfilter_surge.txt
+            echo "${filter_data[$filter_data_task]}" | sed "s/^/local\-zone\:\ \"/g;s/$/\.\"\ redirect/g" >> ../adfilter_unbound.conf
+        done
         cd .. && rm -rf ./Temp
         exit 0
     else
-        cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./list.old
-        if [ "$(diff ./list.tmp ./list.old)" = "" ]; then
+        cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq | awk "{ print $2 }" > ./checklist.tmp
+        cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./checklist.old
+        if [ "$(diff ./checklist.tmp ./checklist.old)" = "" ]; then
             cd .. && rm -rf ./Temp
             exit 0
         else
-            GenerateInformation
-            cat ./list.tmp | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
-            cat ./list.tmp | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
-            cat ./list.tmp | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
-            cat ./list.tmp | sed "s/^/127\.0\.0\.1\ /g;s/$//g" >> ../adfilter_hosts.txt
-            cat ./list.tmp | sed "s/^/\:\:1\ /g;s/$//g" >> ../adfilter_hosts.txt
-            cat ./list.tmp | sed "s/^/address\ \//g;s/$/\/\#/g" >> ../adfilter_smartdns.conf
-            cat ./list.tmp | sed "s/^/DOMAIN\-SUFFIX\,/g;s/$//g" >> ../adfilter_surge.txt
-            cat ./list.tmp | sed "s/^/local\-zone\:\ \"/g;s/$/\.\"\ redirect/g" >> ../adfilter_unbound.conf
+            #GenerateInformation
+            for filter_data_task in "${!filter_data[@]}"; do
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt >> ../adfilter_adblock.txt
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
+                echo "${filter_data[$filter_data_task]}" | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/127\.0\.0\.1\ /g;s/$//g" >> ../adfilter_hosts.txt
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/\:\:1\ /g;s/$//g" >> ../adfilter_hosts.txt
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/address\ \//g;s/$/\/\#/g" >> ../adfilter_smartdns.conf
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/DOMAIN\-SUFFIX\,/g;s/$//g" >> ../adfilter_surge.txt
+                echo "${filter_data[$filter_data_task]}" | sed "s/^/local\-zone\:\ \"/g;s/$/\.\"\ redirect/g" >> ../adfilter_unbound.conf
+            done
             cd .. && rm -rf ./Temp
             exit 0
         fi
@@ -202,7 +190,7 @@ function OutputData() {
 ## Process
 # Call GetData
 GetData
-# Call CheckData
-CheckData
+# Call AnalyseData
+AnalyseData
 # Call OutputData
 OutputData
