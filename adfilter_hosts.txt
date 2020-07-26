@@ -1,11 +1,11 @@
-# Checksum: MTU5NTcyMzA5Mgo=
+# Checksum: MTU5NTc0MzgwMQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200726-0
-# TimeUpdated: 2020-07-26T00:24:52+00:00
+# Version: 1.0.1-20200726-2
+# TimeUpdated: 2020-07-26T06:10:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23933
+# Total: 23939
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5284,6 +5284,7 @@ ff02::3 ip6-allhosts
 127.0.0.1 cxcxt.com
 127.0.0.1 cxfzw.cn
 127.0.0.1 cxslchkb.cn
+127.0.0.1 cxy88.friok.com
 127.0.0.1 cy-block.cn
 127.0.0.1 cy123.cc
 127.0.0.1 cyacc.com
@@ -17500,6 +17501,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 stdl.qq.com
 127.0.0.1 stdst.cn
 127.0.0.1 steadfastsystem.com
+127.0.0.1 steamgateways.com
+127.0.0.1 steamunlock.com
+127.0.0.1 steamunlock.gifts
 127.0.0.1 steelhousemedia.com
 127.0.0.1 stellite.crypto-webminer.com
 127.0.0.1 stervapoimenialena.info
@@ -21596,7 +21600,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.mengyuanwei.com
 127.0.0.1 www.meowpinky.com
 127.0.0.1 www.merchbeebee.com
-127.0.0.1 www.merchvips.com
 127.0.0.1 www.mercyzone.com
 127.0.0.1 www.mfio.cf
 127.0.0.1 www.mgid.com
@@ -22099,6 +22102,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 www.static.reasedoper.pw
 127.0.0.1 www.stats.cryptotab.net
 127.0.0.1 www.stats.infogenservice.com
+127.0.0.1 www.steamgateways.com
+127.0.0.1 www.steamunlock.com
+127.0.0.1 www.steamunlock.gifts
 127.0.0.1 www.steepto.com
 127.0.0.1 www.stellite.crypto-webminer.com
 127.0.0.1 www.stingcool-com.myshopify.com
@@ -29217,6 +29223,7 @@ ff02::3 ip6-allhosts
 ::1 cxcxt.com
 ::1 cxfzw.cn
 ::1 cxslchkb.cn
+::1 cxy88.friok.com
 ::1 cy-block.cn
 ::1 cy123.cc
 ::1 cyacc.com
@@ -41433,6 +41440,9 @@ ff02::3 ip6-allhosts
 ::1 stdl.qq.com
 ::1 stdst.cn
 ::1 steadfastsystem.com
+::1 steamgateways.com
+::1 steamunlock.com
+::1 steamunlock.gifts
 ::1 steelhousemedia.com
 ::1 stellite.crypto-webminer.com
 ::1 stervapoimenialena.info
@@ -45529,7 +45539,6 @@ ff02::3 ip6-allhosts
 ::1 www.mengyuanwei.com
 ::1 www.meowpinky.com
 ::1 www.merchbeebee.com
-::1 www.merchvips.com
 ::1 www.mercyzone.com
 ::1 www.mfio.cf
 ::1 www.mgid.com
@@ -46032,6 +46041,9 @@ ff02::3 ip6-allhosts
 ::1 www.static.reasedoper.pw
 ::1 www.stats.cryptotab.net
 ::1 www.stats.infogenservice.com
+::1 www.steamgateways.com
+::1 www.steamunlock.com
+::1 www.steamunlock.gifts
 ::1 www.steepto.com
 ::1 www.stellite.crypto-webminer.com
 ::1 www.stingcool-com.myshopify.com

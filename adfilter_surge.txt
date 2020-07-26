@@ -1,11 +1,11 @@
-# Checksum: MTU5NTcyMzA5Mgo=
+# Checksum: MTU5NTc0MzgwMQo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.0-20200726-0
-# TimeUpdated: 2020-07-26T00:24:52+00:00
+# Version: 1.0.1-20200726-2
+# TimeUpdated: 2020-07-26T06:10:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23933
+# Total: 23939
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,000.0x1f4b0.com
@@ -5274,6 +5274,7 @@ DOMAIN-SUFFIX,cxb4.cn
 DOMAIN-SUFFIX,cxcxt.com
 DOMAIN-SUFFIX,cxfzw.cn
 DOMAIN-SUFFIX,cxslchkb.cn
+DOMAIN-SUFFIX,cxy88.friok.com
 DOMAIN-SUFFIX,cy-block.cn
 DOMAIN-SUFFIX,cy123.cc
 DOMAIN-SUFFIX,cyacc.com
@@ -17490,6 +17491,9 @@ DOMAIN-SUFFIX,status.minexmr.com
 DOMAIN-SUFFIX,stdl.qq.com
 DOMAIN-SUFFIX,stdst.cn
 DOMAIN-SUFFIX,steadfastsystem.com
+DOMAIN-SUFFIX,steamgateways.com
+DOMAIN-SUFFIX,steamunlock.com
+DOMAIN-SUFFIX,steamunlock.gifts
 DOMAIN-SUFFIX,steelhousemedia.com
 DOMAIN-SUFFIX,stellite.crypto-webminer.com
 DOMAIN-SUFFIX,stervapoimenialena.info
@@ -21586,7 +21590,6 @@ DOMAIN-SUFFIX,www.memotero.com
 DOMAIN-SUFFIX,www.mengyuanwei.com
 DOMAIN-SUFFIX,www.meowpinky.com
 DOMAIN-SUFFIX,www.merchbeebee.com
-DOMAIN-SUFFIX,www.merchvips.com
 DOMAIN-SUFFIX,www.mercyzone.com
 DOMAIN-SUFFIX,www.mfio.cf
 DOMAIN-SUFFIX,www.mgid.com
@@ -22089,6 +22092,9 @@ DOMAIN-SUFFIX,www.static-net.nut.cc
 DOMAIN-SUFFIX,www.static.reasedoper.pw
 DOMAIN-SUFFIX,www.stats.cryptotab.net
 DOMAIN-SUFFIX,www.stats.infogenservice.com
+DOMAIN-SUFFIX,www.steamgateways.com
+DOMAIN-SUFFIX,www.steamunlock.com
+DOMAIN-SUFFIX,www.steamunlock.gifts
 DOMAIN-SUFFIX,www.steepto.com
 DOMAIN-SUFFIX,www.stellite.crypto-webminer.com
 DOMAIN-SUFFIX,www.stingcool-com.myshopify.com
