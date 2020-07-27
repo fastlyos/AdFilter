@@ -1,11 +1,11 @@
-# Checksum: MTU5NTgzMDE3MAo=
+# Checksum: MTU5NTg2MjQ5Ngo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.9-20200727-2
-# TimeUpdated: 2020-07-27T06:09:30+00:00
+# Version: 1.1.0-20200727-5
+# TimeUpdated: 2020-07-27T15:08:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21500
+# Total: 21481
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1498,8 +1498,6 @@ ff02::3 ip6-allhosts
 :: 91cy.top
 0.0.0.0 91luopan.com
 :: 91luopan.com
-0.0.0.0 91p20.space
-:: 91p20.space
 0.0.0.0 91sanguo.cn
 :: 91sanguo.cn
 0.0.0.0 91xry.com
@@ -1846,6 +1844,8 @@ ff02::3 ip6-allhosts
 :: a.xuezizhai.com
 0.0.0.0 a.xywy.com
 :: a.xywy.com
+0.0.0.0 a.xzzsjz.com
+:: a.xzzsjz.com
 0.0.0.0 a.yangshengtang123.com
 :: a.yangshengtang123.com
 0.0.0.0 a.yellowurl.cn
@@ -3364,8 +3364,6 @@ ff02::3 ip6-allhosts
 :: adserviceretry.kugou.com
 0.0.0.0 adserving.favorit-network.com
 :: adserving.favorit-network.com
-0.0.0.0 adsfactor.net
-:: adsfactor.net
 0.0.0.0 adsfile.qq.com
 :: adsfile.qq.com
 0.0.0.0 adsfs.oppomobile.com
@@ -3560,8 +3558,6 @@ ff02::3 ip6-allhosts
 :: adxxx.org
 0.0.0.0 adytx.com
 :: adytx.com
-0.0.0.0 adzerk.net
-:: adzerk.net
 0.0.0.0 adzjvnet.allyes.com
 :: adzjvnet.allyes.com
 0.0.0.0 adzjzewsma.cf
@@ -3760,8 +3756,6 @@ ff02::3 ip6-allhosts
 :: aid.send.microad.jp
 0.0.0.0 aider-res.meizu.com
 :: aider-res.meizu.com
-0.0.0.0 aidigua.com
-:: aidigua.com
 0.0.0.0 aidps.atdmt.com
 :: aidps.atdmt.com
 0.0.0.0 aigou023.com
@@ -4074,8 +4068,6 @@ ff02::3 ip6-allhosts
 :: amu.helpyourselfinstall.info
 0.0.0.0 amu.twobox4addon.info
 :: amu.twobox4addon.info
-0.0.0.0 amung.us
-:: amung.us
 0.0.0.0 amznhoodies.com
 :: amznhoodies.com
 0.0.0.0 amznshirts.com
@@ -6152,8 +6144,6 @@ ff02::3 ip6-allhosts
 :: blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
 :: blogad02.myweb.hinet.net
-0.0.0.0 blogamethu.com
-:: blogamethu.com
 0.0.0.0 blogdaka.cc
 :: blogdaka.cc
 0.0.0.0 blogdaka.xyz
@@ -8328,8 +8318,6 @@ ff02::3 ip6-allhosts
 :: com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 comberry.cn
 :: comberry.cn
-0.0.0.0 comgnnyx.com
-:: comgnnyx.com
 0.0.0.0 comm.app.autohome.com.cn
 :: comm.app.autohome.com.cn
 0.0.0.0 commercial.shouji.360.cn
@@ -8800,8 +8788,6 @@ ff02::3 ip6-allhosts
 :: creative.jdkic.com
 0.0.0.0 creative.ltheanine.cn
 :: creative.ltheanine.cn
-0.0.0.0 creative.xtendmedia.com
-:: creative.xtendmedia.com
 0.0.0.0 creative1cdn.mobfox.com
 :: creative1cdn.mobfox.com
 0.0.0.0 creatives.ftchinese.com
@@ -12368,8 +12354,6 @@ ff02::3 ip6-allhosts
 :: ermaseuc.ru
 0.0.0.0 erny.jxinyue.top
 :: erny.jxinyue.top
-0.0.0.0 ero-advertising.com
-:: ero-advertising.com
 0.0.0.0 erocw.com
 :: erocw.com
 0.0.0.0 eroov.iptvdeals.com
@@ -16348,8 +16332,6 @@ ff02::3 ip6-allhosts
 :: inside.bitcomet.com
 0.0.0.0 inside.rtbasia.com
 :: inside.rtbasia.com
-0.0.0.0 insightexpressai.com
-:: insightexpressai.com
 0.0.0.0 inst.360safe.com
 :: inst.360safe.com
 0.0.0.0 install.kugou.com
@@ -17276,8 +17258,6 @@ ff02::3 ip6-allhosts
 :: js.feitian001.com
 0.0.0.0 js.fengniao.com
 :: js.fengniao.com
-0.0.0.0 js.fhxiaoshuo.com
-:: js.fhxiaoshuo.com
 0.0.0.0 js.firefang.cn
 :: js.firefang.cn
 0.0.0.0 js.flpjc.com
@@ -17614,8 +17594,6 @@ ff02::3 ip6-allhosts
 :: juedische-kammerphilharmonie.de
 0.0.0.0 juiceads.net
 :: juiceads.net
-0.0.0.0 juicyads.com
-:: juicyads.com
 0.0.0.0 juicypussyclips.com
 :: juicypussyclips.com
 0.0.0.0 jujumuqu123.com
@@ -22346,6 +22324,8 @@ ff02::3 ip6-allhosts
 :: minghui.com
 0.0.0.0 minghui.org
 :: minghui.org
+0.0.0.0 minglongtea.cn
+:: minglongtea.cn
 0.0.0.0 mingysh.com
 :: mingysh.com
 0.0.0.0 minhdz.com
@@ -24026,8 +24006,6 @@ ff02::3 ip6-allhosts
 :: nsclickvideo.baidu.com
 0.0.0.0 nsdsok.cn
 :: nsdsok.cn
-0.0.0.0 nsimg.net
-:: nsimg.net
 0.0.0.0 nsjpu.com
 :: nsjpu.com
 0.0.0.0 nstat.tudou.com
@@ -24320,8 +24298,6 @@ ff02::3 ip6-allhosts
 :: okkkk.com
 0.0.0.0 okm918.com
 :: okm918.com
-0.0.0.0 okmuxdbq.com
-:: okmuxdbq.com
 0.0.0.0 oknarai.ru
 :: oknarai.ru
 0.0.0.0 okshishi.com
@@ -24388,8 +24364,6 @@ ff02::3 ip6-allhosts
 :: onclickads.net
 0.0.0.0 onclickmax.com
 :: onclickmax.com
-0.0.0.0 onclickpredictiv.com
-:: onclickpredictiv.com
 0.0.0.0 onclkds.com
 :: onclkds.com
 0.0.0.0 onemobile.yahoo.com
@@ -24478,8 +24452,6 @@ ff02::3 ip6-allhosts
 :: optiker-michelmann.de
 0.0.0.0 optilogus.com
 :: optilogus.com
-0.0.0.0 optimix.asia
-:: optimix.asia
 0.0.0.0 optimization-methods.com
 :: optimization-methods.com
 0.0.0.0 optimized-by.rubiconproject.com
@@ -29300,8 +29272,6 @@ ff02::3 ip6-allhosts
 :: servicer.mgid.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 :: services.wes.df.telemetry.microsoft.com
-0.0.0.0 serving-sys.com
-:: serving-sys.com
 0.0.0.0 serving.bepolite.eu
 :: serving.bepolite.eu
 0.0.0.0 seryna.co
@@ -30390,8 +30360,6 @@ ff02::3 ip6-allhosts
 :: ssl.hp-china.biz
 0.0.0.0 ssl.hyhzy.cn
 :: ssl.hyhzy.cn
-0.0.0.0 ssl.trace.zhiziyun.com
-:: ssl.trace.zhiziyun.com
 0.0.0.0 ssl.ymapp.com
 :: ssl.ymapp.com
 0.0.0.0 ssl.youkag.com
@@ -31942,6 +31910,8 @@ ff02::3 ip6-allhosts
 :: tao.37wan.com
 0.0.0.0 taobaoaliyun.cn
 :: taobaoaliyun.cn
+0.0.0.0 taobaocoupon.cn
+:: taobaocoupon.cn
 0.0.0.0 taobaojx.com
 :: taobaojx.com
 0.0.0.0 taobayun.cn
@@ -32722,8 +32692,6 @@ ff02::3 ip6-allhosts
 :: traffichaus.com
 0.0.0.0 trafficjunky.net
 :: trafficjunky.net
-0.0.0.0 trafficstars.com
-:: trafficstars.com
 0.0.0.0 trahic.ru
 :: trahic.ru
 0.0.0.0 tralog.ganji.com
@@ -32766,8 +32734,6 @@ ff02::3 ip6-allhosts
 :: trial.alcohol-soft.com
 0.0.0.0 triangleservicesltd.com
 :: triangleservicesltd.com
-0.0.0.0 tribalfusion.com
-:: tribalfusion.com
 0.0.0.0 trifle.ernstenco.be
 :: trifle.ernstenco.be
 0.0.0.0 tritino.net
@@ -34686,8 +34652,6 @@ ff02::3 ip6-allhosts
 :: watson.telemetry.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 :: watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0 waust.at
-:: waust.at
 0.0.0.0 wavetshirt.com
 :: wavetshirt.com
 0.0.0.0 wb.brand.sogou.com
@@ -41960,8 +41924,6 @@ ff02::3 ip6-allhosts
 :: yljmeishi.cn
 0.0.0.0 ylkqw.com
 :: ylkqw.com
-0.0.0.0 yllix.com
-:: yllix.com
 0.0.0.0 ylog.hiido.com
 :: ylog.hiido.com
 0.0.0.0 ylpzt.juzojossai.net
