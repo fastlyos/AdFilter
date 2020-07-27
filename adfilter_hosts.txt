@@ -1,11 +1,11 @@
-# Checksum: MTU5NTgwOTY3NQo=
+# Checksum: MTU5NTgxMDU3MAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.8-20200727-0
-# TimeUpdated: 2020-07-27T00:27:55+00:00
+# Version: 1.0.9-20200727-0
+# TimeUpdated: 2020-07-27T00:42:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21482
+# Total: 21500
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -318,6 +318,8 @@ ff02::3 ip6-allhosts
 :: 1.zw3e.com
 0.0.0.0 100.admin5.com
 :: 100.admin5.com
+0.0.0.0 100.adsina.allyes.com
+:: 100.adsina.allyes.com
 0.0.0.0 100.pncdn.cn
 :: 100.pncdn.cn
 0.0.0.0 1000dy.com
@@ -352,6 +354,8 @@ ff02::3 ip6-allhosts
 :: 114so.cn
 0.0.0.0 114study.adsame.com
 :: 114study.adsame.com
+0.0.0.0 116.oadz.com
+:: 116.oadz.com
 0.0.0.0 116zhuce.com
 :: 116zhuce.com
 0.0.0.0 1178.shucong.com
@@ -410,14 +414,22 @@ ff02::3 ip6-allhosts
 :: 13wnjs.com
 0.0.0.0 13yg.cn
 :: 13yg.cn
+0.0.0.0 14.allyes.com
+:: 14.allyes.com
 0.0.0.0 144.dragonparking.com
 :: 144.dragonparking.com
+0.0.0.0 148.adsina.allyes.com
+:: 148.adsina.allyes.com
 0.0.0.0 1480876790.rsc.cdn77.org
 :: 1480876790.rsc.cdn77.org
 0.0.0.0 1494.top
 :: 1494.top
 0.0.0.0 1495039.com
 :: 1495039.com
+0.0.0.0 14so.cn
+:: 14so.cn
+0.0.0.0 14study.adsame.com
+:: 14study.adsame.com
 0.0.0.0 15.taboola.com
 :: 15.taboola.com
 0.0.0.0 15257dddaccde96.com
@@ -662,6 +674,8 @@ ff02::3 ip6-allhosts
 :: 222im.com
 0.0.0.0 228pu.cn
 :: 228pu.cn
+0.0.0.0 23.sogou.com
+:: 23.sogou.com
 0.0.0.0 2311.oadz.com
 :: 2311.oadz.com
 0.0.0.0 2341.a.dlads.cn
@@ -680,6 +694,8 @@ ff02::3 ip6-allhosts
 :: 24200.luvbr.com
 0.0.0.0 24haitao.net
 :: 24haitao.net
+0.0.0.0 251.adsina.allyes.com
+:: 251.adsina.allyes.com
 0.0.0.0 2526game.com
 :: 2526game.com
 0.0.0.0 258580w.cn
@@ -698,6 +714,8 @@ ff02::3 ip6-allhosts
 :: 272829.cc
 0.0.0.0 272xb.com
 :: 272xb.com
+0.0.0.0 276.adsina.allyes.com
+:: 276.adsina.allyes.com
 0.0.0.0 27f35.cn
 :: 27f35.cn
 0.0.0.0 280dp.com
@@ -936,6 +954,8 @@ ff02::3 ip6-allhosts
 :: 4336wang.cn
 0.0.0.0 44.adsina.allyes.com
 :: 44.adsina.allyes.com
+0.0.0.0 44.dragonparking.com
+:: 44.dragonparking.com
 0.0.0.0 4480dy.net
 :: 4480dy.net
 0.0.0.0 45.adsina.allyes.com
@@ -1060,6 +1080,8 @@ ff02::3 ip6-allhosts
 :: 53s.kuk8.com
 0.0.0.0 53txs.com
 :: 53txs.com
+0.0.0.0 54.adsina.allyes.com
+:: 54.adsina.allyes.com
 0.0.0.0 550tg.com
 :: 550tg.com
 0.0.0.0 5535aibo.com
@@ -1140,12 +1162,16 @@ ff02::3 ip6-allhosts
 :: 606w.cn
 0.0.0.0 609623.com
 :: 609623.com
+0.0.0.0 61.adsina.allyes.com
+:: 61.adsina.allyes.com
 0.0.0.0 614514.com
 :: 614514.com
 0.0.0.0 61kx.uk-insolvencydirect.com
 :: 61kx.uk-insolvencydirect.com
 0.0.0.0 626uc.com
 :: 626uc.com
+0.0.0.0 63.wrating.com
+:: 63.wrating.com
 0.0.0.0 631.dlads.cn
 :: 631.dlads.cn
 0.0.0.0 643226.com
@@ -1254,6 +1280,8 @@ ff02::3 ip6-allhosts
 :: 70yst.cn
 0.0.0.0 711kk.com
 :: 711kk.com
+0.0.0.0 7173im.allyes.com
+:: 7173im.allyes.com
 0.0.0.0 71sem.com
 :: 71sem.com
 0.0.0.0 7208853.hitslink.com
@@ -1418,6 +1446,8 @@ ff02::3 ip6-allhosts
 :: 89h8.com
 0.0.0.0 8ao8ao.com
 :: 8ao8ao.com
+0.0.0.0 8av.mm-cg.co
+:: 8av.mm-cg.co
 0.0.0.0 8b4pea.c.admaster.com.cn
 :: 8b4pea.c.admaster.com.cn
 0.0.0.0 8b6dfa.v.admaster.com.cn
@@ -26368,6 +26398,12 @@ ff02::3 ip6-allhosts
 :: q1scv.vov0.com
 0.0.0.0 q28840.nb.host127-0-0-1.com
 :: q28840.nb.host127-0-0-1.com
+0.0.0.0 q2w3.fun
+:: q2w3.fun
+0.0.0.0 q2w3.me
+:: q2w3.me
+0.0.0.0 q2w3.website
+:: q2w3.website
 0.0.0.0 q671e.cn
 :: q671e.cn
 0.0.0.0 qajypx.com

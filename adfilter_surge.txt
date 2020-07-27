@@ -1,11 +1,11 @@
-# Checksum: MTU5NTgwOTY3NQo=
+# Checksum: MTU5NTgxMDU3MAo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.8-20200727-0
-# TimeUpdated: 2020-07-27T00:27:55+00:00
+# Version: 1.0.9-20200727-0
+# TimeUpdated: 2020-07-27T00:42:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21482
+# Total: 21500
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,000.0x1f4b0.com
@@ -157,6 +157,7 @@ DOMAIN-SUFFIX,1.zou114.com
 DOMAIN-SUFFIX,1.zuowenjun.com
 DOMAIN-SUFFIX,1.zw3e.com
 DOMAIN-SUFFIX,100.admin5.com
+DOMAIN-SUFFIX,100.adsina.allyes.com
 DOMAIN-SUFFIX,100.pncdn.cn
 DOMAIN-SUFFIX,1000dy.com
 DOMAIN-SUFFIX,1002.men
@@ -174,6 +175,7 @@ DOMAIN-SUFFIX,1148.adsina.allyes.com
 DOMAIN-SUFFIX,114com.cc
 DOMAIN-SUFFIX,114so.cn
 DOMAIN-SUFFIX,114study.adsame.com
+DOMAIN-SUFFIX,116.oadz.com
 DOMAIN-SUFFIX,116zhuce.com
 DOMAIN-SUFFIX,1178.shucong.com
 DOMAIN-SUFFIX,118ex.cn
@@ -203,10 +205,14 @@ DOMAIN-SUFFIX,138lm.com
 DOMAIN-SUFFIX,13wn.com
 DOMAIN-SUFFIX,13wnjs.com
 DOMAIN-SUFFIX,13yg.cn
+DOMAIN-SUFFIX,14.allyes.com
 DOMAIN-SUFFIX,144.dragonparking.com
+DOMAIN-SUFFIX,148.adsina.allyes.com
 DOMAIN-SUFFIX,1480876790.rsc.cdn77.org
 DOMAIN-SUFFIX,1494.top
 DOMAIN-SUFFIX,1495039.com
+DOMAIN-SUFFIX,14so.cn
+DOMAIN-SUFFIX,14study.adsame.com
 DOMAIN-SUFFIX,15.taboola.com
 DOMAIN-SUFFIX,15257dddaccde96.com
 DOMAIN-SUFFIX,154.adsina.allyes.com
@@ -329,6 +335,7 @@ DOMAIN-SUFFIX,21xsk.com
 DOMAIN-SUFFIX,2227q.com
 DOMAIN-SUFFIX,222im.com
 DOMAIN-SUFFIX,228pu.cn
+DOMAIN-SUFFIX,23.sogou.com
 DOMAIN-SUFFIX,2311.oadz.com
 DOMAIN-SUFFIX,2341.a.dlads.cn
 DOMAIN-SUFFIX,23456dj.com
@@ -338,6 +345,7 @@ DOMAIN-SUFFIX,23dsf.top
 DOMAIN-SUFFIX,24200.h5ixp.com
 DOMAIN-SUFFIX,24200.luvbr.com
 DOMAIN-SUFFIX,24haitao.net
+DOMAIN-SUFFIX,251.adsina.allyes.com
 DOMAIN-SUFFIX,2526game.com
 DOMAIN-SUFFIX,258580w.cn
 DOMAIN-SUFFIX,258ydh.com
@@ -347,6 +355,7 @@ DOMAIN-SUFFIX,268mob.cn
 DOMAIN-SUFFIX,26gg.bnq86.com
 DOMAIN-SUFFIX,272829.cc
 DOMAIN-SUFFIX,272xb.com
+DOMAIN-SUFFIX,276.adsina.allyes.com
 DOMAIN-SUFFIX,27f35.cn
 DOMAIN-SUFFIX,280dp.com
 DOMAIN-SUFFIX,282l1.cn
@@ -466,6 +475,7 @@ DOMAIN-SUFFIX,4171764.fls.doubleclick.net
 DOMAIN-SUFFIX,43242.zh1144.com
 DOMAIN-SUFFIX,4336wang.cn
 DOMAIN-SUFFIX,44.adsina.allyes.com
+DOMAIN-SUFFIX,44.dragonparking.com
 DOMAIN-SUFFIX,4480dy.net
 DOMAIN-SUFFIX,45.adsina.allyes.com
 DOMAIN-SUFFIX,45le.cn
@@ -528,6 +538,7 @@ DOMAIN-SUFFIX,52zfl.com
 DOMAIN-SUFFIX,53m.kuk8.com
 DOMAIN-SUFFIX,53s.kuk8.com
 DOMAIN-SUFFIX,53txs.com
+DOMAIN-SUFFIX,54.adsina.allyes.com
 DOMAIN-SUFFIX,550tg.com
 DOMAIN-SUFFIX,5535aibo.com
 DOMAIN-SUFFIX,555b2b.com
@@ -568,9 +579,11 @@ DOMAIN-SUFFIX,60.adsina.allyes.com
 DOMAIN-SUFFIX,605296.com
 DOMAIN-SUFFIX,606w.cn
 DOMAIN-SUFFIX,609623.com
+DOMAIN-SUFFIX,61.adsina.allyes.com
 DOMAIN-SUFFIX,614514.com
 DOMAIN-SUFFIX,61kx.uk-insolvencydirect.com
 DOMAIN-SUFFIX,626uc.com
+DOMAIN-SUFFIX,63.wrating.com
 DOMAIN-SUFFIX,631.dlads.cn
 DOMAIN-SUFFIX,643226.com
 DOMAIN-SUFFIX,644446.com
@@ -625,6 +638,7 @@ DOMAIN-SUFFIX,70e.me
 DOMAIN-SUFFIX,70lm.com
 DOMAIN-SUFFIX,70yst.cn
 DOMAIN-SUFFIX,711kk.com
+DOMAIN-SUFFIX,7173im.allyes.com
 DOMAIN-SUFFIX,71sem.com
 DOMAIN-SUFFIX,7208853.hitslink.com
 DOMAIN-SUFFIX,73.sinawap.com
@@ -707,6 +721,7 @@ DOMAIN-SUFFIX,89.8ox.cn
 DOMAIN-SUFFIX,892155.com
 DOMAIN-SUFFIX,89h8.com
 DOMAIN-SUFFIX,8ao8ao.com
+DOMAIN-SUFFIX,8av.mm-cg.co
 DOMAIN-SUFFIX,8b4pea.c.admaster.com.cn
 DOMAIN-SUFFIX,8b6dfa.v.admaster.com.cn
 DOMAIN-SUFFIX,8bq898.73miqb.cn
@@ -13182,6 +13197,9 @@ DOMAIN-SUFFIX,q12.cnzz.com
 DOMAIN-SUFFIX,q14.cnzz.com
 DOMAIN-SUFFIX,q1scv.vov0.com
 DOMAIN-SUFFIX,q28840.nb.host127-0-0-1.com
+DOMAIN-SUFFIX,q2w3.fun
+DOMAIN-SUFFIX,q2w3.me
+DOMAIN-SUFFIX,q2w3.website
 DOMAIN-SUFFIX,q671e.cn
 DOMAIN-SUFFIX,qajypx.com
 DOMAIN-SUFFIX,qapm.baidu.com

@@ -1,11 +1,11 @@
-! Checksum: MTU5NTgwOTY3NQo=
+! Checksum: MTU5NTgxMDU3MAo=
 ! Title: Zhijie's Ad Filter for Adblock
 ! Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-! Version: 1.0.8-20200727-0
-! TimeUpdated: 2020-07-27T00:27:55+00:00
+! Version: 1.0.9-20200727-0
+! TimeUpdated: 2020-07-27T00:42:50+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 21482
+! Total: 21500
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||000.0x1f4b0.com^
@@ -157,6 +157,7 @@
 ||1.zuowenjun.com^
 ||1.zw3e.com^
 ||100.admin5.com^
+||100.adsina.allyes.com^
 ||100.pncdn.cn^
 ||1000dy.com^
 ||1002.men^
@@ -174,6 +175,7 @@
 ||114com.cc^
 ||114so.cn^
 ||114study.adsame.com^
+||116.oadz.com^
 ||116zhuce.com^
 ||1178.shucong.com^
 ||118ex.cn^
@@ -203,10 +205,14 @@
 ||13wn.com^
 ||13wnjs.com^
 ||13yg.cn^
+||14.allyes.com^
 ||144.dragonparking.com^
+||148.adsina.allyes.com^
 ||1480876790.rsc.cdn77.org^
 ||1494.top^
 ||1495039.com^
+||14so.cn^
+||14study.adsame.com^
 ||15.taboola.com^
 ||15257dddaccde96.com^
 ||154.adsina.allyes.com^
@@ -329,6 +335,7 @@
 ||2227q.com^
 ||222im.com^
 ||228pu.cn^
+||23.sogou.com^
 ||2311.oadz.com^
 ||2341.a.dlads.cn^
 ||23456dj.com^
@@ -338,6 +345,7 @@
 ||24200.h5ixp.com^
 ||24200.luvbr.com^
 ||24haitao.net^
+||251.adsina.allyes.com^
 ||2526game.com^
 ||258580w.cn^
 ||258ydh.com^
@@ -347,6 +355,7 @@
 ||26gg.bnq86.com^
 ||272829.cc^
 ||272xb.com^
+||276.adsina.allyes.com^
 ||27f35.cn^
 ||280dp.com^
 ||282l1.cn^
@@ -466,6 +475,7 @@
 ||43242.zh1144.com^
 ||4336wang.cn^
 ||44.adsina.allyes.com^
+||44.dragonparking.com^
 ||4480dy.net^
 ||45.adsina.allyes.com^
 ||45le.cn^
@@ -528,6 +538,7 @@
 ||53m.kuk8.com^
 ||53s.kuk8.com^
 ||53txs.com^
+||54.adsina.allyes.com^
 ||550tg.com^
 ||5535aibo.com^
 ||555b2b.com^
@@ -568,9 +579,11 @@
 ||605296.com^
 ||606w.cn^
 ||609623.com^
+||61.adsina.allyes.com^
 ||614514.com^
 ||61kx.uk-insolvencydirect.com^
 ||626uc.com^
+||63.wrating.com^
 ||631.dlads.cn^
 ||643226.com^
 ||644446.com^
@@ -625,6 +638,7 @@
 ||70lm.com^
 ||70yst.cn^
 ||711kk.com^
+||7173im.allyes.com^
 ||71sem.com^
 ||7208853.hitslink.com^
 ||73.sinawap.com^
@@ -707,6 +721,7 @@
 ||892155.com^
 ||89h8.com^
 ||8ao8ao.com^
+||8av.mm-cg.co^
 ||8b4pea.c.admaster.com.cn^
 ||8b6dfa.v.admaster.com.cn^
 ||8bq898.73miqb.cn^
@@ -13182,6 +13197,9 @@
 ||q14.cnzz.com^
 ||q1scv.vov0.com^
 ||q28840.nb.host127-0-0-1.com^
+||q2w3.fun^
+||q2w3.me^
+||q2w3.website^
 ||q671e.cn^
 ||qajypx.com^
 ||qapm.baidu.com^
