@@ -1,8 +1,8 @@
-# Checksum: MTU5NTgxOTI5MAo=
+# Checksum: MTU5NTgzMDE3MAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.0.9-20200727-1
-# TimeUpdated: 2020-07-27T03:08:10+00:00
+# Version: 1.0.9-20200727-2
+# TimeUpdated: 2020-07-27T06:09:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 21500
@@ -25830,8 +25830,6 @@ ff02::3 ip6-allhosts
 :: popme.163.com
 0.0.0.0 popmyads.com
 :: popmyads.com
-0.0.0.0 poppee.online
-:: poppee.online
 0.0.0.0 poptm.com
 :: poptm.com
 0.0.0.0 popup.jointreport-switch.com
@@ -26416,6 +26414,8 @@ ff02::3 ip6-allhosts
 :: qarsza.cn
 0.0.0.0 qaz.wdou168.com
 :: qaz.wdou168.com
+0.0.0.0 qbczpo.cn
+:: qbczpo.cn
 0.0.0.0 qbj8.com
 :: qbj8.com
 0.0.0.0 qbr.sharethrough.com
@@ -31028,6 +31028,8 @@ ff02::3 ip6-allhosts
 :: store.bltskins.com
 0.0.0.0 store.bradcroninnapo82.myshopify.com
 :: store.bradcroninnapo82.myshopify.com
+0.0.0.0 store.celebtoysshop.com
+:: store.celebtoysshop.com
 0.0.0.0 store.crossfiterada.com
 :: store.crossfiterada.com
 0.0.0.0 store.easyliving4you.com
@@ -39210,8 +39212,6 @@ ff02::3 ip6-allhosts
 :: www.pool2.coinimp.com
 0.0.0.0 www.popeurope.com
 :: www.popeurope.com
-0.0.0.0 www.poppee.online
-:: www.poppee.online
 0.0.0.0 www.poravoda.com
 :: www.poravoda.com
 0.0.0.0 www.potterheads.co
