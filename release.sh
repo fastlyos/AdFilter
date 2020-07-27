@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.9
+# Current Version: 1.1.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -32,7 +32,7 @@ function GetData() {
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts"
         "https://www.malwaredomainlist.com/hostslist/hosts.txt"
     )
-    rm -rf *.txt *.conf ./Temp && mkdir ./Temp && cd ./Temp
+    rm -rf ./Temp && mkdir ./Temp && cd ./Temp
     for filter_adblock_task in "${!filter_adblock[@]}"; do
         curl -s --connect-timeout 15 "${filter_adblock[$filter_adblock_task]}" >> ./filter_adblock.tmp
     done
@@ -164,7 +164,7 @@ function OutputData() {
     else
         cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq > ./checklist.tmp
         cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./checklist.old
-        if [ "$(diff ./checklist.tmp ./checklist.old)" = "" ]; then
+        if [ "$(diff ./checklist.tmp ./checklist.old)" == "" ]; then
             cd .. && rm -rf ./Temp
             exit 0
         else
