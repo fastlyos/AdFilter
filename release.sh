@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.1
+# Current Version: 1.1.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -32,6 +32,12 @@ function GetData() {
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts"
         "https://www.malwaredomainlist.com/hostslist/hosts.txt"
     )
+    filter_white=(
+        "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt"
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
+        "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
+    )
     rm -rf ./Temp && mkdir ./Temp && cd ./Temp
     for filter_adblock_task in "${!filter_adblock[@]}"; do
         curl -s --connect-timeout 15 "${filter_adblock[$filter_adblock_task]}" >> ./filter_adblock.tmp
@@ -42,10 +48,13 @@ function GetData() {
     for filter_hosts_task in "${!filter_hosts[@]}"; do
         curl -s --connect-timeout 15 "${filter_hosts[$filter_hosts_task]}" >> ./filter_hosts.tmp
     done
+    for filter_white_task in "${!filter_white[@]}"; do
+        curl -s --connect-timeout 15 "${filter_white[$filter_white_task]}" >> ./filter_white.tmp
+    done
 }
 # Analyse Data
 function AnalyseData() {
-    filter_data=($(cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq | awk "{ print $2 }"))
+    filter_data=($(cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_block.tmp && cat ./filter_white.tmp | grep -v "\!\|\&\|\/\|\=\|\?\|\_" | sed "s/[[:space:]]//g" > ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_allow.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
 function GenerateInformation() {
@@ -55,8 +64,8 @@ function GenerateInformation() {
     adfilter_homepage="https://github.com/hezhijie0327/AdFilter"
     adfilter_timeupdated=$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y-%m-%dT%H:%M:%S%:z")
     adfilter_title="Zhijie's Ad Filter"
-    adfilter_total=$(cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq > ./checklist.tmp && sed -n '$=' ./checklist.tmp)
-    adfilter_version=$(cat ../release.sh | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$(($(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
+    adfilter_total=$(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq > ./checklist.tmp && sed -n '$=' ./checklist.tmp)
+    adfilter_version=$(cat ../release.sh | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$((10#$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
     function adfilter_adblock() {
         echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adblock.txt
         echo "! Title: ${adfilter_title} for Adblock" >> ../adfilter_adblock.txt
@@ -162,7 +171,7 @@ function OutputData() {
         cd .. && rm -rf ./Temp
         exit 0
     else
-        cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" | sort | uniq > ./checklist.tmp
+        awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq > ./checklist.tmp
         cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./checklist.old
         if [ "$(diff ./checklist.tmp ./checklist.old)" == "" ]; then
             cd .. && rm -rf ./Temp
