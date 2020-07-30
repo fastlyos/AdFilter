@@ -1,11 +1,11 @@
-# Checksum: MTU5NjA4OTM3NAo=
+# Checksum: MTU5NjEwMDA5NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-2
-# TimeUpdated: 2020-07-30T06:09:34+00:00
+# Version: 1.1.6-20200730-3
+# TimeUpdated: 2020-07-30T09:08:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21984
+# Total: 21987
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -12044,6 +12044,8 @@ ff02::3 ip6-allhosts
 :: e.cuomm.com
 0.0.0.0 e.czggcj.com
 :: e.czggcj.com
+0.0.0.0 e.d1wn3.cn
+:: e.d1wn3.cn
 0.0.0.0 e.dbeii.com
 :: e.dbeii.com
 0.0.0.0 e.dcaij.com
@@ -20806,6 +20808,8 @@ ff02::3 ip6-allhosts
 :: m.cuoss.com
 0.0.0.0 m.czxjx.cn
 :: m.czxjx.cn
+0.0.0.0 m.d1wn3.cn
+:: m.d1wn3.cn
 0.0.0.0 m.d6s2pn5t.cn
 :: m.d6s2pn5t.cn
 0.0.0.0 m.d8qu.com
@@ -23758,6 +23762,8 @@ ff02::3 ip6-allhosts
 :: n.yfi8.com
 0.0.0.0 n0h8g.cn
 :: n0h8g.cn
+0.0.0.0 n5.q2ws3.cn
+:: n5.q2ws3.cn
 0.0.0.0 n8n7.me
 :: n8n7.me
 0.0.0.0 na-ab21.marketo.com
