@@ -1,11 +1,11 @@
-# Checksum: MTU5NjA2ODYyMAo=
+# Checksum: MTU5NjA3ODQ4OAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-0
-# TimeUpdated: 2020-07-30T00:23:40+00:00
+# Version: 1.1.6-20200730-1
+# TimeUpdated: 2020-07-30T03:08:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21987
+# Total: 21985
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -666,8 +666,6 @@ ff02::3 ip6-allhosts
 :: 181lm.net
 0.0.0.0 181ue.com
 :: 181ue.com
-0.0.0.0 183pu.cn
-:: 183pu.cn
 0.0.0.0 188xiaoba.net
 :: 188xiaoba.net
 0.0.0.0 18av.mm-cg.co
@@ -2518,8 +2516,6 @@ ff02::3 ip6-allhosts
 :: a.baiy.net
 0.0.0.0 a.bake818.cn
 :: a.bake818.cn
-0.0.0.0 a.beilamusi.com
-:: a.beilamusi.com
 0.0.0.0 a.benshiw.net
 :: a.benshiw.net
 0.0.0.0 a.bjhuajing.com.cn
@@ -2688,6 +2684,8 @@ ff02::3 ip6-allhosts
 :: a.wifi33.com
 0.0.0.0 a.xixiyishu.com
 :: a.xixiyishu.com
+0.0.0.0 a.xmdly.com
+:: a.xmdly.com
 0.0.0.0 a.xuezizhai.com
 :: a.xuezizhai.com
 0.0.0.0 a.xxdy8.cn
@@ -5854,8 +5852,6 @@ ff02::3 ip6-allhosts
 :: as.bjmama.net
 0.0.0.0 as.casalemedia.com
 :: as.casalemedia.com
-0.0.0.0 as.cf
-:: as.cf
 0.0.0.0 as.cfcdist.loan
 :: as.cfcdist.loan
 0.0.0.0 as.cfcnet.to
@@ -5866,6 +5862,8 @@ ff02::3 ip6-allhosts
 :: as.g4.ifeng.com
 0.0.0.0 as.g5s.ifeng.com
 :: as.g5s.ifeng.com
+0.0.0.0 as.jdkic.com
+:: as.jdkic.com
 0.0.0.0 as.kejet.com
 :: as.kejet.com
 0.0.0.0 as.kejet.net
@@ -11902,8 +11900,6 @@ ff02::3 ip6-allhosts
 :: dyssir.com
 0.0.0.0 dywjcc.top
 :: dywjcc.top
-0.0.0.0 dz2017.zdzxyplyt.com
-:: dz2017.zdzxyplyt.com
 0.0.0.0 dzais.com
 :: dzais.com
 0.0.0.0 dzgg.com
@@ -13060,6 +13056,8 @@ ff02::3 ip6-allhosts
 :: eqx.smartadserver.com
 0.0.0.0 er.5ykj.com
 :: er.5ykj.com
+0.0.0.0 er.com.q2ws3.cn
+:: er.com.q2ws3.cn
 0.0.0.0 er.dlhygj.com
 :: er.dlhygj.com
 0.0.0.0 erabaru.net
@@ -14792,6 +14790,8 @@ ff02::3 ip6-allhosts
 :: gmuqa.cn
 0.0.0.0 gmxyorg.cn
 :: gmxyorg.cn
+0.0.0.0 gn.lalaqky.cn
+:: gn.lalaqky.cn
 0.0.0.0 gneusqa.cn
 :: gneusqa.cn
 0.0.0.0 gng5.cn
@@ -16442,6 +16442,8 @@ ff02::3 ip6-allhosts
 :: hzuok.com
 0.0.0.0 hzvs1.cnzz.com
 :: hzvs1.cnzz.com
+0.0.0.0 hzxfmc.com
+:: hzxfmc.com
 0.0.0.0 hzxma.com
 :: hzxma.com
 0.0.0.0 hzyd.cdn.bcebos.com
@@ -17450,8 +17452,6 @@ ff02::3 ip6-allhosts
 :: ip-182-50-129-181.ip.secureserver.net
 0.0.0.0 ip.120ask.com
 :: ip.120ask.com
-0.0.0.0 ip.hivps.xyz
-:: ip.hivps.xyz
 0.0.0.0 ip.tianqiapi.com
 :: ip.tianqiapi.com
 0.0.0.0 ip.webstats.bid
@@ -17502,8 +17502,6 @@ ff02::3 ip6-allhosts
 :: iqiyi.pub
 0.0.0.0 iqiyi.space
 :: iqiyi.space
-0.0.0.0 iqu-operation.com
-:: iqu-operation.com
 0.0.0.0 iquue.com
 :: iquue.com
 0.0.0.0 ir.mail.163.com
@@ -18210,6 +18208,8 @@ ff02::3 ip6-allhosts
 :: jnxz88.cn
 0.0.0.0 jnyngg.cn
 :: jnyngg.cn
+0.0.0.0 job.510mall.com
+:: job.510mall.com
 0.0.0.0 johtzj.com
 :: johtzj.com
 0.0.0.0 jointreport-switch.com
@@ -19708,8 +19708,6 @@ ff02::3 ip6-allhosts
 :: lg2.jointreport-switch.com
 0.0.0.0 lg4.jointreport-switch.com
 :: lg4.jointreport-switch.com
-0.0.0.0 lgjygg.com
-:: lgjygg.com
 0.0.0.0 lglady.cn
 :: lglady.cn
 0.0.0.0 lglkqm.cn
@@ -21406,6 +21404,8 @@ ff02::3 ip6-allhosts
 :: m.ou96i.cn
 0.0.0.0 m.oulvtrip.com
 :: m.oulvtrip.com
+0.0.0.0 m.p7wj8.cn
+:: m.p7wj8.cn
 0.0.0.0 m.panda.voiceads.cn
 :: m.panda.voiceads.cn
 0.0.0.0 m.panwenjun.top
@@ -21896,6 +21896,8 @@ ff02::3 ip6-allhosts
 :: m.zhengzhoupengbo.com
 0.0.0.0 m.zhide-edu.cn
 :: m.zhide-edu.cn
+0.0.0.0 m.zhipianwu.com
+:: m.zhipianwu.com
 0.0.0.0 m.zhongfujiaoyu.cn
 :: m.zhongfujiaoyu.cn
 0.0.0.0 m.zhuanyule.cn
@@ -22118,8 +22120,6 @@ ff02::3 ip6-allhosts
 :: mairuan.net
 0.0.0.0 mairuanwang.com
 :: mairuanwang.com
-0.0.0.0 maisoncherry.com
-:: maisoncherry.com
 0.0.0.0 maizhenai.cn
 :: maizhenai.cn
 0.0.0.0 makeding.com
@@ -22258,8 +22258,6 @@ ff02::3 ip6-allhosts
 :: max.mediav.com
 0.0.0.0 maxfull.info
 :: maxfull.info
-0.0.0.0 maxisoft.co.uk
-:: maxisoft.co.uk
 0.0.0.0 maxreturn.cn
 :: maxreturn.cn
 0.0.0.0 maxsys.adsame.com
@@ -22904,8 +22902,6 @@ ff02::3 ip6-allhosts
 :: mlog.hiido.com
 0.0.0.0 mlog.m1905.cn
 :: mlog.m1905.cn
-0.0.0.0 mlpoint.pt
-:: mlpoint.pt
 0.0.0.0 mlt01.com
 :: mlt01.com
 0.0.0.0 mm-cgnews.com
@@ -23200,6 +23196,8 @@ ff02::3 ip6-allhosts
 :: monad.network
 0.0.0.0 monarchslo.com
 :: monarchslo.com
+0.0.0.0 moneone.ga
+:: moneone.ga
 0.0.0.0 monerise.com
 :: monerise.com
 0.0.0.0 monero-miner.com
@@ -24702,8 +24700,6 @@ ff02::3 ip6-allhosts
 :: oende.cn
 0.0.0.0 oeocriaq.cn
 :: oeocriaq.cn
-0.0.0.0 oesnw.com
-:: oesnw.com
 0.0.0.0 offerreality.com
 :: offerreality.com
 0.0.0.0 office.nimiq.com
@@ -25396,8 +25392,6 @@ ff02::3 ip6-allhosts
 :: pass2.soogif.com
 0.0.0.0 passwz.com
 :: passwz.com
-0.0.0.0 pat.farvd.com
-:: pat.farvd.com
 0.0.0.0 pat.ron.si
 :: pat.ron.si
 0.0.0.0 path.qidian.com
@@ -26710,8 +26704,6 @@ ff02::3 ip6-allhosts
 :: pvx.autohome.com.cn
 0.0.0.0 pw.cnzz.com
 :: pw.cnzz.com
-0.0.0.0 pwjhg.com
-:: pwjhg.com
 0.0.0.0 pwjmzqx.cn
 :: pwjmzqx.cn
 0.0.0.0 pwvita.pl
@@ -31740,6 +31732,8 @@ ff02::3 ip6-allhosts
 :: sunnimiq.cf
 0.0.0.0 sunnimiq1.cf
 :: sunnimiq1.cf
+0.0.0.0 sunnimiq2.cf
+:: sunnimiq2.cf
 0.0.0.0 sunnimiq3.cf
 :: sunnimiq3.cf
 0.0.0.0 sunnimiq4.cf
@@ -32248,6 +32242,8 @@ ff02::3 ip6-allhosts
 :: t.tzcccm.com
 0.0.0.0 t.ujian.cc
 :: t.ujian.cc
+0.0.0.0 t.usefavour.xyz
+:: t.usefavour.xyz
 0.0.0.0 t.xamaky.top
 :: t.xamaky.top
 0.0.0.0 t.xiumii.top
@@ -34466,6 +34462,8 @@ ff02::3 ip6-allhosts
 :: v.lelangegg.cn
 0.0.0.0 v.lrzazjl.cn
 :: v.lrzazjl.cn
+0.0.0.0 v.lystrw.cn
+:: v.lystrw.cn
 0.0.0.0 v.mininini.cn
 :: v.mininini.cn
 0.0.0.0 v.oq68.com
@@ -35652,6 +35650,8 @@ ff02::3 ip6-allhosts
 :: wgaoe.com
 0.0.0.0 wghjq.cn
 :: wghjq.cn
+0.0.0.0 wgie.0z5jn.cn
+:: wgie.0z5jn.cn
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnmp.com
@@ -42128,8 +42128,6 @@ ff02::3 ip6-allhosts
 :: xq199.com
 0.0.0.0 xqsct.com
 :: xqsct.com
-0.0.0.0 xrain.net
-:: xrain.net
 0.0.0.0 xray.jebe.renren.com
 :: xray.jebe.renren.com
 0.0.0.0 xrn.beeppool.org
@@ -43376,8 +43374,6 @@ ff02::3 ip6-allhosts
 :: zfanc.com
 0.0.0.0 zfds1.tianya999.com
 :: zfds1.tianya999.com
-0.0.0.0 zfgn.hyxsoft.com
-:: zfgn.hyxsoft.com
 0.0.0.0 zfjiu.com
 :: zfjiu.com
 0.0.0.0 zfjn.zkfborg.cn
