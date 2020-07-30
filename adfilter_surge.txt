@@ -1,11 +1,11 @@
-# Checksum: MTU5NjEwMDA5NAo=
+# Checksum: MTU5NjExMTA1Mgo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-3
-# TimeUpdated: 2020-07-30T09:08:14+00:00
+# Version: 1.1.6-20200730-4
+# TimeUpdated: 2020-07-30T12:10:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21987
+# Total: 21993
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,00-gov.cn
@@ -2957,6 +2957,7 @@ DOMAIN-SUFFIX,asimgs.pplive.cn
 DOMAIN-SUFFIX,asimov-win.settings.data.microsoft.com.akadns.net
 DOMAIN-SUFFIX,asir.vip
 DOMAIN-SUFFIX,askfsh.cn
+DOMAIN-SUFFIX,askspsl.cn
 DOMAIN-SUFFIX,asotrack1.fluentmobile.com
 DOMAIN-SUFFIX,asp.adsame.com
 DOMAIN-SUFFIX,assassinfitness.com
@@ -3323,6 +3324,7 @@ DOMAIN-SUFFIX,bdapi.ads.oppomobile.com
 DOMAIN-SUFFIX,bdasd.chdbook.cn
 DOMAIN-SUFFIX,bdasd.chinabig.com.cn
 DOMAIN-SUFFIX,bdasd.wmxa.cn
+DOMAIN-SUFFIX,bdcapweb.xyz
 DOMAIN-SUFFIX,bdcm.kandianla.com
 DOMAIN-SUFFIX,bdcode.2345.com
 DOMAIN-SUFFIX,bdcode.35d1.com
@@ -15239,6 +15241,7 @@ DOMAIN-SUFFIX,smart-789.image.mucang.cn
 DOMAIN-SUFFIX,smart-789.kakamobi.cn
 DOMAIN-SUFFIX,smartad.10010.com
 DOMAIN-SUFFIX,smartadserver.com
+DOMAIN-SUFFIX,smartfarming.cn
 DOMAIN-SUFFIX,smartmad.com
 DOMAIN-SUFFIX,smartoffer.site
 DOMAIN-SUFFIX,smartpower4all.org
@@ -21145,6 +21148,7 @@ DOMAIN-SUFFIX,xxzdpf.com
 DOMAIN-SUFFIX,xy-log2.tagtic.cn
 DOMAIN-SUFFIX,xy.nullrefexcep.com
 DOMAIN-SUFFIX,xy.shijialianzuishuai.com
+DOMAIN-SUFFIX,xyadaa.com
 DOMAIN-SUFFIX,xycnz.com
 DOMAIN-SUFFIX,xycnzz.com
 DOMAIN-SUFFIX,xyd.sxmdxy.com
@@ -21490,6 +21494,7 @@ DOMAIN-SUFFIX,ysont.cn
 DOMAIN-SUFFIX,yssbi.net
 DOMAIN-SUFFIX,ysx8.vip
 DOMAIN-SUFFIX,ysxywj.com
+DOMAIN-SUFFIX,ysyhljt.vip
 DOMAIN-SUFFIX,yt-adp.nosdn.127.net
 DOMAIN-SUFFIX,yt-adp.ws.126.net
 DOMAIN-SUFFIX,yt-adv.bn.netease.com
@@ -21865,6 +21870,7 @@ DOMAIN-SUFFIX,zp22938576.com
 DOMAIN-SUFFIX,zpe.klre.18183.com
 DOMAIN-SUFFIX,zpoder.com
 DOMAIN-SUFFIX,zpwansf.cn
+DOMAIN-SUFFIX,zpxw.vip
 DOMAIN-SUFFIX,zpyfsj.cn
 DOMAIN-SUFFIX,zq84.com
 DOMAIN-SUFFIX,zqssqw.cn

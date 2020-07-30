@@ -1,11 +1,11 @@
-# Checksum: MTU5NjEwMDA5NAo=
+# Checksum: MTU5NjExMTA1Mgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-3
-# TimeUpdated: 2020-07-30T09:08:14+00:00
+# Version: 1.1.6-20200730-4
+# TimeUpdated: 2020-07-30T12:10:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21987
+# Total: 21993
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5918,6 +5918,8 @@ ff02::3 ip6-allhosts
 :: asir.vip
 0.0.0.0 askfsh.cn
 :: askfsh.cn
+0.0.0.0 askspsl.cn
+:: askspsl.cn
 0.0.0.0 asotrack1.fluentmobile.com
 :: asotrack1.fluentmobile.com
 0.0.0.0 asp.adsame.com
@@ -6650,6 +6652,8 @@ ff02::3 ip6-allhosts
 :: bdasd.chinabig.com.cn
 0.0.0.0 bdasd.wmxa.cn
 :: bdasd.wmxa.cn
+0.0.0.0 bdcapweb.xyz
+:: bdcapweb.xyz
 0.0.0.0 bdcm.kandianla.com
 :: bdcm.kandianla.com
 0.0.0.0 bdcode.2345.com
@@ -30482,6 +30486,8 @@ ff02::3 ip6-allhosts
 :: smartad.10010.com
 0.0.0.0 smartadserver.com
 :: smartadserver.com
+0.0.0.0 smartfarming.cn
+:: smartfarming.cn
 0.0.0.0 smartmad.com
 :: smartmad.com
 0.0.0.0 smartoffer.site
@@ -42294,6 +42300,8 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy.shijialianzuishuai.com
 :: xy.shijialianzuishuai.com
+0.0.0.0 xyadaa.com
+:: xyadaa.com
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xycnzz.com
@@ -42984,6 +42992,8 @@ ff02::3 ip6-allhosts
 :: ysx8.vip
 0.0.0.0 ysxywj.com
 :: ysxywj.com
+0.0.0.0 ysyhljt.vip
+:: ysyhljt.vip
 0.0.0.0 yt-adp.nosdn.127.net
 :: yt-adp.nosdn.127.net
 0.0.0.0 yt-adp.ws.126.net
@@ -43734,6 +43744,8 @@ ff02::3 ip6-allhosts
 :: zpoder.com
 0.0.0.0 zpwansf.cn
 :: zpwansf.cn
+0.0.0.0 zpxw.vip
+:: zpxw.vip
 0.0.0.0 zpyfsj.cn
 :: zpyfsj.cn
 0.0.0.0 zq84.com
