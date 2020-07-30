@@ -1,11 +1,11 @@
-# Checksum: MTU5NjExMTA1Mgo=
+# Checksum: MTU5NjEyMTcxNwo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-4
-# TimeUpdated: 2020-07-30T12:10:52+00:00
+# Version: 1.1.6-20200730-5
+# TimeUpdated: 2020-07-30T15:08:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21993
+# Total: 21996
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,00-gov.cn
@@ -5167,6 +5167,7 @@ DOMAIN-SUFFIX,d1ad.com
 DOMAIN-SUFFIX,d1e1rbybdt265x.cloudfront.net
 DOMAIN-SUFFIX,d1grtyyel8f1mh.cloudfront.net
 DOMAIN-SUFFIX,d1skp.cn
+DOMAIN-SUFFIX,d1wn3.cn
 DOMAIN-SUFFIX,d2.sina.com.cn
 DOMAIN-SUFFIX,d2.sinaimg.cn
 DOMAIN-SUFFIX,d2.yiche.com
@@ -8109,6 +8110,7 @@ DOMAIN-SUFFIX,huatakj.com
 DOMAIN-SUFFIX,huatuo.qq.com
 DOMAIN-SUFFIX,huatuo.weiyun.com
 DOMAIN-SUFFIX,huayange.com
+DOMAIN-SUFFIX,huayangli.cn
 DOMAIN-SUFFIX,huayi65.com
 DOMAIN-SUFFIX,hub.nimiq.com
 DOMAIN-SUFFIX,hub5pn.wap.sandai.net
@@ -21740,6 +21742,7 @@ DOMAIN-SUFFIX,zhao258.com
 DOMAIN-SUFFIX,zhaoshang8.com
 DOMAIN-SUFFIX,zheng.cs12d.com
 DOMAIN-SUFFIX,zhengjian.org
+DOMAIN-SUFFIX,zhengjsmd.cn
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhengyejixie.com
 DOMAIN-SUFFIX,zhengzhoupengbo.com
