@@ -1,11 +1,11 @@
-# Checksum: MTU5NjA3ODQ4OAo=
+# Checksum: MTU5NjA4OTM3NAo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-1
-# TimeUpdated: 2020-07-30T03:08:08+00:00
+# Version: 1.1.6-20200730-2
+# TimeUpdated: 2020-07-30T06:09:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21985
+# Total: 21984
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,00-gov.cn
@@ -2956,6 +2956,7 @@ DOMAIN-SUFFIX,asiafriendfinder.comp
 DOMAIN-SUFFIX,asimgs.pplive.cn
 DOMAIN-SUFFIX,asimov-win.settings.data.microsoft.com.akadns.net
 DOMAIN-SUFFIX,asir.vip
+DOMAIN-SUFFIX,askfsh.cn
 DOMAIN-SUFFIX,asotrack1.fluentmobile.com
 DOMAIN-SUFFIX,asp.adsame.com
 DOMAIN-SUFFIX,assassinfitness.com
@@ -15796,7 +15797,6 @@ DOMAIN-SUFFIX,store.tv.api.3g.youku.com
 DOMAIN-SUFFIX,store.ultimate-tech-products.myshopify.com
 DOMAIN-SUFFIX,store.ureashi.com
 DOMAIN-SUFFIX,store.videojj.com
-DOMAIN-SUFFIX,store.wanedo.net
 DOMAIN-SUFFIX,store.xl.api.3g.youku.com
 DOMAIN-SUFFIX,storeax.com
 DOMAIN-SUFFIX,storedarkness.com
@@ -19635,7 +19635,6 @@ DOMAIN-SUFFIX,www.meladermfacts.com
 DOMAIN-SUFFIX,www.memotero.com
 DOMAIN-SUFFIX,www.mengyuanwei.com
 DOMAIN-SUFFIX,www.meowpinky.com
-DOMAIN-SUFFIX,www.merchbeebee.com
 DOMAIN-SUFFIX,www.mercyzone.com
 DOMAIN-SUFFIX,www.mfio.cf
 DOMAIN-SUFFIX,www.mgid.com
@@ -20586,7 +20585,6 @@ DOMAIN-SUFFIX,www.ytdksb.com
 DOMAIN-SUFFIX,www.yuanchengxiezuo.com
 DOMAIN-SUFFIX,www.yuanming.net
 DOMAIN-SUFFIX,www.yueyelive.com
-DOMAIN-SUFFIX,www.yuynstore.com
 DOMAIN-SUFFIX,www.ywvcomputerprocess.info
 DOMAIN-SUFFIX,www.yzaosite.com
 DOMAIN-SUFFIX,www.zamplus.com
@@ -21478,6 +21476,7 @@ DOMAIN-SUFFIX,ys.da.mgtv.com
 DOMAIN-SUFFIX,ys.muhoujiemi.com
 DOMAIN-SUFFIX,ys2000.cdn.bcebos.com
 DOMAIN-SUFFIX,ys6ot.cn
+DOMAIN-SUFFIX,yscci.com
 DOMAIN-SUFFIX,ysej.code.weddingeeos.com
 DOMAIN-SUFFIX,ysgsq.cn
 DOMAIN-SUFFIX,ysjweb.com

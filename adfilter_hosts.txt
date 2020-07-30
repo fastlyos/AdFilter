@@ -1,11 +1,11 @@
-# Checksum: MTU5NjA3ODQ4OAo=
+# Checksum: MTU5NjA4OTM3NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-1
-# TimeUpdated: 2020-07-30T03:08:08+00:00
+# Version: 1.1.6-20200730-2
+# TimeUpdated: 2020-07-30T06:09:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21985
+# Total: 21984
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5916,6 +5916,8 @@ ff02::3 ip6-allhosts
 :: asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 asir.vip
 :: asir.vip
+0.0.0.0 askfsh.cn
+:: askfsh.cn
 0.0.0.0 asotrack1.fluentmobile.com
 :: asotrack1.fluentmobile.com
 0.0.0.0 asp.adsame.com
@@ -31596,8 +31598,6 @@ ff02::3 ip6-allhosts
 :: store.ureashi.com
 0.0.0.0 store.videojj.com
 :: store.videojj.com
-0.0.0.0 store.wanedo.net
-:: store.wanedo.net
 0.0.0.0 store.xl.api.3g.youku.com
 :: store.xl.api.3g.youku.com
 0.0.0.0 storeax.com
@@ -39274,8 +39274,6 @@ ff02::3 ip6-allhosts
 :: www.mengyuanwei.com
 0.0.0.0 www.meowpinky.com
 :: www.meowpinky.com
-0.0.0.0 www.merchbeebee.com
-:: www.merchbeebee.com
 0.0.0.0 www.mercyzone.com
 :: www.mercyzone.com
 0.0.0.0 www.mfio.cf
@@ -41176,8 +41174,6 @@ ff02::3 ip6-allhosts
 :: www.yuanming.net
 0.0.0.0 www.yueyelive.com
 :: www.yueyelive.com
-0.0.0.0 www.yuynstore.com
-:: www.yuynstore.com
 0.0.0.0 www.ywvcomputerprocess.info
 :: www.ywvcomputerprocess.info
 0.0.0.0 www.yzaosite.com
@@ -42960,6 +42956,8 @@ ff02::3 ip6-allhosts
 :: ys2000.cdn.bcebos.com
 0.0.0.0 ys6ot.cn
 :: ys6ot.cn
+0.0.0.0 yscci.com
+:: yscci.com
 0.0.0.0 ysej.code.weddingeeos.com
 :: ysej.code.weddingeeos.com
 0.0.0.0 ysgsq.cn
