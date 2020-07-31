@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.9
+# Current Version: 1.2.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -31,6 +31,7 @@ function GetData() {
         "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
         "https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts"
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
+        "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts"
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts"
         "https://www.malwaredomainlist.com/hostslist/hosts.txt"
     )
