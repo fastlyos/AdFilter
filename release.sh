@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.8
+# Current Version: 1.1.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -21,6 +21,7 @@ function GetData() {
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
+        "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customblocklist"
     )
     filter_hosts=(
@@ -67,7 +68,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    filter_data=($(cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_block.tmp && cat ./filter_white.tmp | grep -v "(\|)\|\!\|\#\|\&\|\*\|\/\|\=\|\?\|\\$\|\^\|\_" | sed "s/[[:space:]]//g" > ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_allow.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
+    filter_data=($(cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\*\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_block.tmp && cat ./filter_white.tmp | grep -v "(\|)\|\!\|\#\|\&\|\*\|\/\|\=\|\?\|\\$\|\^\|\_" | sed "s/[[:space:]]//g" > ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_allow.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
 function GenerateInformation() {
