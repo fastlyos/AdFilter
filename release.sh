@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.7
+# Current Version: 1.1.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -48,6 +48,7 @@ function GetData() {
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
+        "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/scripts/origin-files/base-dead-hosts.txt"
         "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
     )
     rm -rf ./Temp && mkdir ./Temp && cd ./Temp
