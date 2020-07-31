@@ -1,11 +1,11 @@
-# Checksum: MTU5NjE2ODU4OQo=
+# Checksum: MTU5NjE2OTUzOQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.7-20200731-1
-# TimeUpdated: 2020-07-31T04:09:49+00:00
+# Version: 1.1.8-20200731-1
+# TimeUpdated: 2020-07-31T04:25:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 14355
+# Total: 14305
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1748,8 +1748,6 @@ ff02::3 ip6-allhosts
 :: ablen10.tk
 0.0.0.0 ablen11.tk
 :: ablen11.tk
-0.0.0.0 aboluowang.com
-:: aboluowang.com
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 :: abroad-ad.kingsoft-office-service.com
 0.0.0.0 ac.86huoche.com
@@ -4194,8 +4192,6 @@ ff02::3 ip6-allhosts
 :: bajieyy.cc
 0.0.0.0 bangbang521.com
 :: bangbang521.com
-0.0.0.0 bannedbook.org
-:: bannedbook.org
 0.0.0.0 banner.alimama.com
 :: banner.alimama.com
 0.0.0.0 banner.cooguo.com
@@ -6180,8 +6176,6 @@ ff02::3 ip6-allhosts
 :: coinimp.com
 0.0.0.0 coinimp.net
 :: coinimp.net
-0.0.0.0 coinive.com
-:: coinive.com
 0.0.0.0 coinjive.com
 :: coinjive.com
 0.0.0.0 coinlab.biz
@@ -6960,8 +6954,6 @@ ff02::3 ip6-allhosts
 :: dachadu.cn
 0.0.0.0 dadjia.com
 :: dadjia.com
-0.0.0.0 dafahao.com
-:: dafahao.com
 0.0.0.0 dafapai.com
 :: dafapai.com
 0.0.0.0 dahanedu.com
@@ -6996,8 +6988,6 @@ ff02::3 ip6-allhosts
 :: daizhankj.cn
 0.0.0.0 dajean.com
 :: dajean.com
-0.0.0.0 dajiyuan.com
-:: dajiyuan.com
 0.0.0.0 dam.corel.com
 :: dam.corel.com
 0.0.0.0 damb68.com
@@ -7600,8 +7590,6 @@ ff02::3 ip6-allhosts
 :: donate.cpufan.club
 0.0.0.0 donate.crypto-webminer.com
 :: donate.crypto-webminer.com
-0.0.0.0 dongtaiwang.com
-:: dongtaiwang.com
 0.0.0.0 dongyihongbei.com
 :: dongyihongbei.com
 0.0.0.0 door2new.net
@@ -8348,8 +8336,6 @@ ff02::3 ip6-allhosts
 :: en.cookiescript.info
 0.0.0.0 en.crypto-webminer.com
 :: en.crypto-webminer.com
-0.0.0.0 en.shenyun.org
-:: en.shenyun.org
 0.0.0.0 ename.com.cn
 :: ename.com.cn
 0.0.0.0 ename.net
@@ -8418,8 +8404,6 @@ ff02::3 ip6-allhosts
 :: eoredi.com
 0.0.0.0 epanr.com
 :: epanr.com
-0.0.0.0 epochtimes.com
-:: epochtimes.com
 0.0.0.0 epp.2polj.top
 :: epp.2polj.top
 0.0.0.0 epro.sogou.com
@@ -8664,8 +8648,6 @@ ff02::3 ip6-allhosts
 :: falconsafe.com.sg
 0.0.0.0 fallbacks.carbonads.com
 :: fallbacks.carbonads.com
-0.0.0.0 falundata.com
-:: falundata.com
 0.0.0.0 fam-ad.com
 :: fam-ad.com
 0.0.0.0 family-joy.com
@@ -8824,8 +8806,6 @@ ff02::3 ip6-allhosts
 :: ffyoo.com
 0.0.0.0 fgawegwr.chez.com
 :: fgawegwr.chez.com
-0.0.0.0 fgmtv.org
-:: fgmtv.org
 0.0.0.0 fhoa365.com
 :: fhoa365.com
 0.0.0.0 file.chanet.com.cn
@@ -9692,8 +9672,6 @@ ff02::3 ip6-allhosts
 :: gtmucs.cn
 0.0.0.0 guang.sdsgwy.com
 :: guang.sdsgwy.com
-0.0.0.0 guangming.org
-:: guangming.org
 0.0.0.0 guangsss1999.com
 :: guangsss1999.com
 0.0.0.0 guangzizai.com
@@ -13978,8 +13956,6 @@ ff02::3 ip6-allhosts
 :: mhdufile.1391.com
 0.0.0.0 mhjk.1391.com
 :: mhjk.1391.com
-0.0.0.0 mhradio.org
-:: mhradio.org
 0.0.0.0 mhuodong.elong.com
 :: mhuodong.elong.com
 0.0.0.0 mi-de-ner-nis3.info
@@ -14072,8 +14048,6 @@ ff02::3 ip6-allhosts
 :: minescripts.info
 0.0.0.0 minexmr.com
 :: minexmr.com
-0.0.0.0 minghui.org
-:: minghui.org
 0.0.0.0 minglongtea.cn
 :: minglongtea.cn
 0.0.0.0 minhdz.com
@@ -15138,10 +15112,6 @@ ff02::3 ip6-allhosts
 :: nt-associates.com
 0.0.0.0 nt.phpwind.com
 :: nt.phpwind.com
-0.0.0.0 ntdtv.com
-:: ntdtv.com
-0.0.0.0 ntdtv.org
-:: ntdtv.org
 0.0.0.0 nterbx.com
 :: nterbx.com
 0.0.0.0 ntfsformac.cn
@@ -17208,8 +17178,6 @@ ff02::3 ip6-allhosts
 :: rem-track.bild.de
 0.0.0.0 remarketingpixel.com
 :: remarketingpixel.com
-0.0.0.0 renminbao.com
-:: renminbao.com
 0.0.0.0 renren2.maoyun.tv
 :: renren2.maoyun.tv
 0.0.0.0 renshengyiyi.com
@@ -18424,8 +18392,6 @@ ff02::3 ip6-allhosts
 :: sec.umeng.com
 0.0.0.0 sec.video.qq.com
 :: sec.video.qq.com
-0.0.0.0 secretchina.com
-:: secretchina.com
 0.0.0.0 secure-asia.imrworldwide.com
 :: secure-asia.imrworldwide.com
 0.0.0.0 secure-assets.rubiconproject.com
@@ -18708,12 +18674,6 @@ ff02::3 ip6-allhosts
 :: shenghuo.xiaomi.com
 0.0.0.0 shenglonghg.net
 :: shenglonghg.net
-0.0.0.0 shenyun.com
-:: shenyun.com
-0.0.0.0 shenyun.org
-:: shenyun.org
-0.0.0.0 shenyunperformingarts.org
-:: shenyunperformingarts.org
 0.0.0.0 shibagongfang.com
 :: shibagongfang.com
 0.0.0.0 shidailw.com
@@ -19054,8 +19014,6 @@ ff02::3 ip6-allhosts
 :: souacode.com
 0.0.0.0 souhoney.com
 :: souhoney.com
-0.0.0.0 soundofhope.org
-:: soundofhope.org
 0.0.0.0 soup.v.qq.com
 :: soup.v.qq.com
 0.0.0.0 source.youxiaoad.com
@@ -21030,10 +20988,6 @@ ff02::3 ip6-allhosts
 :: tubemoviez.com
 0.0.0.0 tubetitties.com
 :: tubetitties.com
-0.0.0.0 tuidang.epochtimes.com
-:: tuidang.epochtimes.com
-0.0.0.0 tuidang.org
-:: tuidang.org
 0.0.0.0 tuiguang.meitu.com
 :: tuiguang.meitu.com
 0.0.0.0 tuiguang.yicha.cn
@@ -21078,8 +21032,6 @@ ff02::3 ip6-allhosts
 :: tw.alimama.cn
 0.0.0.0 tw.api.vpon.com
 :: tw.api.vpon.com
-0.0.0.0 tw.fgmtv.org
-:: tw.fgmtv.org
 0.0.0.0 tw.pub.vpon.com
 :: tw.pub.vpon.com
 0.0.0.0 twb98.com
@@ -23450,8 +23402,6 @@ ff02::3 ip6-allhosts
 :: wudang05.com
 0.0.0.0 wuhufengze.com.cn
 :: wuhufengze.com.cn
-0.0.0.0 wujieliulan.com
-:: wujieliulan.com
 0.0.0.0 wuliao.chzsport.cn
 :: wuliao.chzsport.cn
 0.0.0.0 wuliao.epro.sogou.com
@@ -23732,8 +23682,6 @@ ff02::3 ip6-allhosts
 :: www.ablen11.tk
 0.0.0.0 www.ablen12.tk
 :: www.ablen12.tk
-0.0.0.0 www.aboluowang.com
-:: www.aboluowang.com
 0.0.0.0 www.acbp0020171456.page.tl
 :: www.acbp0020171456.page.tl
 0.0.0.0 www.acint.net
@@ -23958,8 +23906,6 @@ ff02::3 ip6-allhosts
 :: www.baifendian.com
 0.0.0.0 www.banmamedia.com
 :: www.banmamedia.com
-0.0.0.0 www.bannedbook.org
-:: www.bannedbook.org
 0.0.0.0 www.baroconcept.com
 :: www.baroconcept.com
 0.0.0.0 www.bartender.cc
@@ -24536,8 +24482,6 @@ ff02::3 ip6-allhosts
 :: www.engineracing.net
 0.0.0.0 www.envisiongear.com
 :: www.envisiongear.com
-0.0.0.0 www.epochweekly.com
-:: www.epochweekly.com
 0.0.0.0 www.ere3j2e001.com
 :: www.ere3j2e001.com
 0.0.0.0 www.ermaseuc.ru
@@ -24626,8 +24570,6 @@ ff02::3 ip6-allhosts
 :: www.fenqihome.com
 0.0.0.0 www.festmusikk.com
 :: www.festmusikk.com
-0.0.0.0 www.fgmtv.org
-:: www.fgmtv.org
 0.0.0.0 www.fili.cc
 :: www.fili.cc
 0.0.0.0 www.fili.tv
@@ -24882,8 +24824,6 @@ ff02::3 ip6-allhosts
 :: www.gt4ec.net
 0.0.0.0 www.guanggao369.cn
 :: www.guanggao369.cn
-0.0.0.0 www.guangming.org
-:: www.guangming.org
 0.0.0.0 www.guanyitanggy.com
 :: www.guanyitanggy.com
 0.0.0.0 www.guccitees.com
@@ -25428,8 +25368,6 @@ ff02::3 ip6-allhosts
 :: www.mgid.com
 0.0.0.0 www.mgogo.com
 :: www.mgogo.com
-0.0.0.0 www.mhradio.org
-:: www.mhradio.org
 0.0.0.0 www.mi-de-ner-nis3.info
 :: www.mi-de-ner-nis3.info
 0.0.0.0 www.mie99.net
@@ -26116,8 +26054,6 @@ ff02::3 ip6-allhosts
 :: www.searchswapper.com
 0.0.0.0 www.secondome.com
 :: www.secondome.com
-0.0.0.0 www.secretchina.com
-:: www.secretchina.com
 0.0.0.0 www.secumine.net
 :: www.secumine.net
 0.0.0.0 www.sedark.com
@@ -26182,12 +26118,6 @@ ff02::3 ip6-allhosts
 :: www.sharing-is-caring.info
 0.0.0.0 www.sharonup.com
 :: www.sharonup.com
-0.0.0.0 www.shenyun.com
-:: www.shenyun.com
-0.0.0.0 www.shenyun.org
-:: www.shenyun.org
-0.0.0.0 www.shenyunperformingarts.org
-:: www.shenyunperformingarts.org
 0.0.0.0 www.shglegle.com
 :: www.shglegle.com
 0.0.0.0 www.shirttest.com
@@ -26282,8 +26212,6 @@ ff02::3 ip6-allhosts
 :: www.souhoney.com
 0.0.0.0 www.souid.com
 :: www.souid.com
-0.0.0.0 www.soundofhope.org
-:: www.soundofhope.org
 0.0.0.0 www.southpark-fan.com
 :: www.southpark-fan.com
 0.0.0.0 www.spnation.net
@@ -26576,8 +26504,6 @@ ff02::3 ip6-allhosts
 :: www.ttyyuuoo.com
 0.0.0.0 www.tubetitties.com
 :: www.tubetitties.com
-0.0.0.0 www.tuidang.org
-:: www.tuidang.org
 0.0.0.0 www.tuituigui19999.com
 :: www.tuituigui19999.com
 0.0.0.0 www.tujidao.com
@@ -27074,8 +27000,6 @@ ff02::3 ip6-allhosts
 :: www.wtcpm.com
 0.0.0.0 www.wty46.com
 :: www.wty46.com
-0.0.0.0 www.wujieliulan.com
-:: www.wujieliulan.com
 0.0.0.0 www.ww8.adminer.com
 :: www.ww8.adminer.com
 0.0.0.0 www.www1.2giga.link
@@ -27100,8 +27024,6 @@ ff02::3 ip6-allhosts
 :: www.xingchenjia.com
 0.0.0.0 www.xiniuz.com
 :: www.xiniuz.com
-0.0.0.0 www.xinsheng.net
-:: www.xinsheng.net
 0.0.0.0 www.xiruz.kit.net
 :: www.xiruz.kit.net
 0.0.0.0 www.xiukeshop.com
@@ -27200,8 +27122,6 @@ ff02::3 ip6-allhosts
 :: www.yqjxzw.com
 0.0.0.0 www.yuanchengxiezuo.com
 :: www.yuanchengxiezuo.com
-0.0.0.0 www.yuanming.net
-:: www.yuanming.net
 0.0.0.0 www.yueyelive.com
 :: www.yueyelive.com
 0.0.0.0 www.ywvcomputerprocess.info
@@ -27218,14 +27138,8 @@ ff02::3 ip6-allhosts
 :: www.zedbubble.com
 0.0.0.0 www.zgalaxytee.com
 :: www.zgalaxytee.com
-0.0.0.0 www.zhengjian.org
-:: www.zhengjian.org
-0.0.0.0 www.zhengwunet.org
-:: www.zhengwunet.org
 0.0.0.0 www.zhidian3g.cn
 :: www.zhidian3g.cn
-0.0.0.0 www.zhuichaguoji.org
-:: www.zhuichaguoji.org
 0.0.0.0 www.zhzzx.com
 :: www.zhzzx.com
 0.0.0.0 www.zivbxion.ru
@@ -27564,8 +27478,6 @@ ff02::3 ip6-allhosts
 :: xinray.com
 0.0.0.0 xinray.net
 :: xinray.net
-0.0.0.0 xinsheng.net
-:: xinsheng.net
 0.0.0.0 xinshide.cn
 :: xinshide.cn
 0.0.0.0 xinterface.cn
@@ -28208,8 +28120,6 @@ ff02::3 ip6-allhosts
 :: yuanchengxiezuo.com
 0.0.0.0 yuanhangpiju.cn
 :: yuanhangpiju.cn
-0.0.0.0 yuanming.net
-:: yuanming.net
 0.0.0.0 yueduyy.com
 :: yueduyy.com
 0.0.0.0 yueyelive.com
@@ -28434,10 +28344,6 @@ ff02::3 ip6-allhosts
 :: zgyemy.com
 0.0.0.0 zgzxs.weathercn.com
 :: zgzxs.weathercn.com
-0.0.0.0 zh-cn.shenyun.com
-:: zh-cn.shenyun.com
-0.0.0.0 zh-cn.shenyun.org
-:: zh-cn.shenyun.org
 0.0.0.0 zh1144.com
 :: zh1144.com
 0.0.0.0 zhads.com
@@ -28452,12 +28358,8 @@ ff02::3 ip6-allhosts
 :: zhanzhang.baidu.com
 0.0.0.0 zhanzhang.net
 :: zhanzhang.net
-0.0.0.0 zhengjian.org
-:: zhengjian.org
 0.0.0.0 zhengjsmd.cn
 :: zhengjsmd.cn
-0.0.0.0 zhengwunet.org
-:: zhengwunet.org
 0.0.0.0 zhfyws.com
 :: zhfyws.com
 0.0.0.0 zhidian3g.cn
@@ -28508,8 +28410,6 @@ ff02::3 ip6-allhosts
 :: zhuanshenghuo1.kuaizhan.com
 0.0.0.0 zhuba8.com
 :: zhuba8.com
-0.0.0.0 zhuichaguoji.org
-:: zhuichaguoji.org
 0.0.0.0 zhushicm.com
 :: zhushicm.com
 0.0.0.0 zhushou.2345.com
