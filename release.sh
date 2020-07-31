@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.6
+# Current Version: 1.1.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -21,6 +21,7 @@ function GetData() {
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customblocklist"
     )
     filter_hosts=(
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_browser"
@@ -38,8 +39,12 @@ function GetData() {
         "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
+        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadallow"
+        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadblock"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadallow"
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadblock"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
