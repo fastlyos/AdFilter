@@ -1,11 +1,11 @@
-# Checksum: MTU5NjEyMTcxNwo=
+# Checksum: MTU5NjE2NDkxMAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-5
-# TimeUpdated: 2020-07-30T15:08:37+00:00
+# Version: 1.1.6-20200731-1
+# TimeUpdated: 2020-07-31T03:08:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21996
+# Total: 21994
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -868,8 +868,6 @@ ff02::3 ip6-allhosts
 :: 2048hd.space
 0.0.0.0 2052.flash2-http.qq.com
 :: 2052.flash2-http.qq.com
-0.0.0.0 21.cizhibaogao.org
-:: 21.cizhibaogao.org
 0.0.0.0 21.fh21static.com
 :: 21.fh21static.com
 0.0.0.0 21.huanqiu.com
@@ -6086,6 +6084,8 @@ ff02::3 ip6-allhosts
 :: avapp.tv
 0.0.0.0 avero.xyz
 :: avero.xyz
+0.0.0.0 averoconnector.com
+:: averoconnector.com
 0.0.0.0 avgle.topgirlsdating.com
 :: avgle.topgirlsdating.com
 0.0.0.0 aviationdocumentstorage.com
@@ -10132,8 +10132,6 @@ ff02::3 ip6-allhosts
 :: cxrjl.cn
 0.0.0.0 cxslchkb.cn
 :: cxslchkb.cn
-0.0.0.0 cxy88.friok.com
-:: cxy88.friok.com
 0.0.0.0 cy-block.cn
 :: cy-block.cn
 0.0.0.0 cy123.cc
@@ -11960,6 +11958,8 @@ ff02::3 ip6-allhosts
 :: e.5y67n.cn
 0.0.0.0 e.6l1967.cn
 :: e.6l1967.cn
+0.0.0.0 e.73z9p.cn
+:: e.73z9p.cn
 0.0.0.0 e.7clink.com
 :: e.7clink.com
 0.0.0.0 e.8v61j.cn
@@ -12254,6 +12254,8 @@ ff02::3 ip6-allhosts
 :: e.kwjkd.com
 0.0.0.0 e.lchar.com
 :: e.lchar.com
+0.0.0.0 e.ldsfh.cn
+:: e.ldsfh.cn
 0.0.0.0 e.lfdydk.com
 :: e.lfdydk.com
 0.0.0.0 e.ljuer.com
@@ -19046,8 +19048,6 @@ ff02::3 ip6-allhosts
 :: keyshot.cc
 0.0.0.0 keytui.com
 :: keytui.com
-0.0.0.0 keyways.pt
-:: keyways.pt
 0.0.0.0 keyyou.net
 :: keyyou.net
 0.0.0.0 kf3msfm.com
@@ -19422,8 +19422,6 @@ ff02::3 ip6-allhosts
 :: kwflvcdn.000dn.com
 0.0.0.0 kwiago.com
 :: kwiago.com
-0.0.0.0 kwjkd.com
-:: kwjkd.com
 0.0.0.0 kwntistyuogo.com
 :: kwntistyuogo.com
 0.0.0.0 kwp79i.cn
@@ -20552,6 +20550,8 @@ ff02::3 ip6-allhosts
 :: m.5y67n.cn
 0.0.0.0 m.5yv2e.cn
 :: m.5yv2e.cn
+0.0.0.0 m.61lvi.cn
+:: m.61lvi.cn
 0.0.0.0 m.627859.xyz
 :: m.627859.xyz
 0.0.0.0 m.62mao.com
@@ -20570,6 +20570,8 @@ ff02::3 ip6-allhosts
 :: m.6z1gf.cn
 0.0.0.0 m.7180443.com
 :: m.7180443.com
+0.0.0.0 m.73z9p.cn
+:: m.73z9p.cn
 0.0.0.0 m.74n3a.cn
 :: m.74n3a.cn
 0.0.0.0 m.77vcd.com
@@ -30250,8 +30252,6 @@ ff02::3 ip6-allhosts
 :: sl.video.xycdn.n0808.com
 0.0.0.0 sl.xawjwl.com
 :: sl.xawjwl.com
-0.0.0.0 slb.upshengyi.com
-:: slb.upshengyi.com
 0.0.0.0 sldjkl.com
 :: sldjkl.com
 0.0.0.0 slib.tvmao.cn
@@ -31748,8 +31748,6 @@ ff02::3 ip6-allhosts
 :: sunnimiq.cf
 0.0.0.0 sunnimiq1.cf
 :: sunnimiq1.cf
-0.0.0.0 sunnimiq2.cf
-:: sunnimiq2.cf
 0.0.0.0 sunnimiq3.cf
 :: sunnimiq3.cf
 0.0.0.0 sunnimiq4.cf
@@ -33038,6 +33036,8 @@ ff02::3 ip6-allhosts
 :: token.rubiconproject.com
 0.0.0.0 tokomaru.nimiqpool.com
 :: tokomaru.nimiqpool.com
+0.0.0.0 tokyodrift.ga
+:: tokyodrift.ga
 0.0.0.0 tom.allyes.com
 :: tom.allyes.com
 0.0.0.0 tomadamsenergy.com
@@ -42828,8 +42828,6 @@ ff02::3 ip6-allhosts
 :: ynp0h.cn
 0.0.0.0 ynuf.aliapp.org
 :: ynuf.aliapp.org
-0.0.0.0 ynwqls.com
-:: ynwqls.com
 0.0.0.0 ynxhsy.com
 :: ynxhsy.com
 0.0.0.0 ynzby.cn
@@ -43648,8 +43646,6 @@ ff02::3 ip6-allhosts
 :: zjhrondo.cn
 0.0.0.0 zjj.xhdccz.com
 :: zjj.xhdccz.com
-0.0.0.0 zjjgtz.com
-:: zjjgtz.com
 0.0.0.0 zjkdaikuan.com
 :: zjkdaikuan.com
 0.0.0.0 zjksgl.com

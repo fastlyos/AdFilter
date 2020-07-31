@@ -1,11 +1,11 @@
-# Checksum: MTU5NjEyMTcxNwo=
+# Checksum: MTU5NjE2NDkxMAo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.1.6-20200730-5
-# TimeUpdated: 2020-07-30T15:08:37+00:00
+# Version: 1.1.6-20200731-1
+# TimeUpdated: 2020-07-31T03:08:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21996
+# Total: 21994
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,00-gov.cn
@@ -432,7 +432,6 @@ DOMAIN-SUFFIX,20200431.logic.cpm.cm.kankan.com
 DOMAIN-SUFFIX,2020mustang.com
 DOMAIN-SUFFIX,2048hd.space
 DOMAIN-SUFFIX,2052.flash2-http.qq.com
-DOMAIN-SUFFIX,21.cizhibaogao.org
 DOMAIN-SUFFIX,21.fh21static.com
 DOMAIN-SUFFIX,21.huanqiu.com
 DOMAIN-SUFFIX,21.zhaozongjie.com
@@ -3041,6 +3040,7 @@ DOMAIN-SUFFIX,av1.xdrig.com
 DOMAIN-SUFFIX,av8d.net
 DOMAIN-SUFFIX,avapp.tv
 DOMAIN-SUFFIX,avero.xyz
+DOMAIN-SUFFIX,averoconnector.com
 DOMAIN-SUFFIX,avgle.topgirlsdating.com
 DOMAIN-SUFFIX,aviationdocumentstorage.com
 DOMAIN-SUFFIX,avn.innity.com
@@ -5064,7 +5064,6 @@ DOMAIN-SUFFIX,cxd-ailegou.com
 DOMAIN-SUFFIX,cxfzw.cn
 DOMAIN-SUFFIX,cxrjl.cn
 DOMAIN-SUFFIX,cxslchkb.cn
-DOMAIN-SUFFIX,cxy88.friok.com
 DOMAIN-SUFFIX,cy-block.cn
 DOMAIN-SUFFIX,cy123.cc
 DOMAIN-SUFFIX,cyacc.com
@@ -5978,6 +5977,7 @@ DOMAIN-SUFFIX,e.51xmgys.com
 DOMAIN-SUFFIX,e.53trya.cn
 DOMAIN-SUFFIX,e.5y67n.cn
 DOMAIN-SUFFIX,e.6l1967.cn
+DOMAIN-SUFFIX,e.73z9p.cn
 DOMAIN-SUFFIX,e.7clink.com
 DOMAIN-SUFFIX,e.8v61j.cn
 DOMAIN-SUFFIX,e.91.com
@@ -6125,6 +6125,7 @@ DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,e.kuwoyy.com
 DOMAIN-SUFFIX,e.kwjkd.com
 DOMAIN-SUFFIX,e.lchar.com
+DOMAIN-SUFFIX,e.ldsfh.cn
 DOMAIN-SUFFIX,e.lfdydk.com
 DOMAIN-SUFFIX,e.ljuer.com
 DOMAIN-SUFFIX,e.lyjz001.com
@@ -9521,7 +9522,6 @@ DOMAIN-SUFFIX,keyrun.cn
 DOMAIN-SUFFIX,keyrun.com
 DOMAIN-SUFFIX,keyshot.cc
 DOMAIN-SUFFIX,keytui.com
-DOMAIN-SUFFIX,keyways.pt
 DOMAIN-SUFFIX,keyyou.net
 DOMAIN-SUFFIX,kf3msfm.com
 DOMAIN-SUFFIX,kfand.com
@@ -9709,7 +9709,6 @@ DOMAIN-SUFFIX,kwcdn.000dn.com
 DOMAIN-SUFFIX,kwcscdn.000dn.com
 DOMAIN-SUFFIX,kwflvcdn.000dn.com
 DOMAIN-SUFFIX,kwiago.com
-DOMAIN-SUFFIX,kwjkd.com
 DOMAIN-SUFFIX,kwntistyuogo.com
 DOMAIN-SUFFIX,kwp79i.cn
 DOMAIN-SUFFIX,kwurl.ucweb.com
@@ -10274,6 +10273,7 @@ DOMAIN-SUFFIX,m.5mbd2.com
 DOMAIN-SUFFIX,m.5s7uo.cn
 DOMAIN-SUFFIX,m.5y67n.cn
 DOMAIN-SUFFIX,m.5yv2e.cn
+DOMAIN-SUFFIX,m.61lvi.cn
 DOMAIN-SUFFIX,m.627859.xyz
 DOMAIN-SUFFIX,m.62mao.com
 DOMAIN-SUFFIX,m.640640.com
@@ -10283,6 +10283,7 @@ DOMAIN-SUFFIX,m.69o1c.cn
 DOMAIN-SUFFIX,m.6l1967.cn
 DOMAIN-SUFFIX,m.6z1gf.cn
 DOMAIN-SUFFIX,m.7180443.com
+DOMAIN-SUFFIX,m.73z9p.cn
 DOMAIN-SUFFIX,m.74n3a.cn
 DOMAIN-SUFFIX,m.77vcd.com
 DOMAIN-SUFFIX,m.7n3e8o.com
@@ -15123,7 +15124,6 @@ DOMAIN-SUFFIX,skyttt.com
 DOMAIN-SUFFIX,sl.hpplay.cn
 DOMAIN-SUFFIX,sl.video.xycdn.n0808.com
 DOMAIN-SUFFIX,sl.xawjwl.com
-DOMAIN-SUFFIX,slb.upshengyi.com
 DOMAIN-SUFFIX,sldjkl.com
 DOMAIN-SUFFIX,slib.tvmao.cn
 DOMAIN-SUFFIX,slides.discovery.tom.com
@@ -15872,7 +15872,6 @@ DOMAIN-SUFFIX,sunleaftravel.com
 DOMAIN-SUFFIX,sunlux.net
 DOMAIN-SUFFIX,sunnimiq.cf
 DOMAIN-SUFFIX,sunnimiq1.cf
-DOMAIN-SUFFIX,sunnimiq2.cf
 DOMAIN-SUFFIX,sunnimiq3.cf
 DOMAIN-SUFFIX,sunnimiq4.cf
 DOMAIN-SUFFIX,sunnimiq5.cf
@@ -16517,6 +16516,7 @@ DOMAIN-SUFFIX,togo666.com
 DOMAIN-SUFFIX,toissue.cn
 DOMAIN-SUFFIX,token.rubiconproject.com
 DOMAIN-SUFFIX,tokomaru.nimiqpool.com
+DOMAIN-SUFFIX,tokyodrift.ga
 DOMAIN-SUFFIX,tom.allyes.com
 DOMAIN-SUFFIX,tomadamsenergy.com
 DOMAIN-SUFFIX,tomalinoalambres.com.ar
@@ -21412,7 +21412,6 @@ DOMAIN-SUFFIX,ynmhg.cn
 DOMAIN-SUFFIX,ynnke.com
 DOMAIN-SUFFIX,ynp0h.cn
 DOMAIN-SUFFIX,ynuf.aliapp.org
-DOMAIN-SUFFIX,ynwqls.com
 DOMAIN-SUFFIX,ynxhsy.com
 DOMAIN-SUFFIX,ynzby.cn
 DOMAIN-SUFFIX,ynzhby.com
@@ -21822,7 +21821,6 @@ DOMAIN-SUFFIX,zjhim.com
 DOMAIN-SUFFIX,zjhoudao.com
 DOMAIN-SUFFIX,zjhrondo.cn
 DOMAIN-SUFFIX,zjj.xhdccz.com
-DOMAIN-SUFFIX,zjjgtz.com
 DOMAIN-SUFFIX,zjkdaikuan.com
 DOMAIN-SUFFIX,zjksgl.com
 DOMAIN-SUFFIX,zjlanbi.com
