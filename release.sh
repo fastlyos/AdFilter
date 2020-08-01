@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.1
+# Current Version: 1.2.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -9,13 +9,22 @@
 # Get Data
 function GetData() {
     filter_adblock=(
+        "https://easylist-downloads.adblockplus.org/easylist.txt"
+        "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
         "https://easylist-downloads.adblockplus.org/easylistchina.txt"
+        "https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
+        "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
+        "https://easylist-downloads.adblockplus.org/malwaredomains_full.txt"
         "https://filters.adtidy.org/extension/chromium/filters/224.txt"
         "https://raw.githubusercontent.com/VeleSila/VELE-SILA-List/gh-pages/KaFanList.txt"
         "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"
+        "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"
+        "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt"
+        "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt"
+        "https://sub.adtchrome.com/adt-chinalist-easylist.txt"
     )
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
@@ -75,7 +84,7 @@ function AnalyseData() {
 # Generate Information
 function GenerateInformation() {
     adfilter_checksum=$(date "+%s" | base64)
-    adfilter_description="Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams."
+    adfilter_description="Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience!"
     adfilter_expires="3 hours (update frequency)"
     adfilter_homepage="https://github.com/hezhijie0327/AdFilter"
     adfilter_timeupdated=$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y-%m-%dT%H:%M:%S%:z")
