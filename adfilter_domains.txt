@@ -1,11 +1,11 @@
-# Checksum: MTU5NjI2MjE3MAo=
+# Checksum: MTU5NjI3MjkwMwo=
 # Title: Zhijie's Ad Filter for Pi-hole
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.2.1-20200801-2
-# TimeUpdated: 2020-08-01T06:09:30+00:00
+# Version: 1.2.1-20200801-3
+# TimeUpdated: 2020-08-01T09:08:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 14318
+# Total: 14320
 0.up.qingdaonews.com
 000.0x1f4b0.com
 001.0x1f4b0.com
@@ -496,6 +496,7 @@
 66996.top
 66997.top
 66998.top
+66cn.com
 66san.com
 6728812.com
 685wo.com
@@ -7194,6 +7195,7 @@ morningpiggy.com
 mosa86.com
 mosaic.re.taobao.com
 moscow05.electroneum.hashvault.pro
+mosflower.cn
 moshouba.top
 moslt.com
 moteshoes.com

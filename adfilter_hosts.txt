@@ -1,11 +1,11 @@
-# Checksum: MTU5NjI2MjE3MAo=
+# Checksum: MTU5NjI3MjkwMwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.2.1-20200801-2
-# TimeUpdated: 2020-08-01T06:09:30+00:00
+# Version: 1.2.1-20200801-3
+# TimeUpdated: 2020-08-01T09:08:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 14318
+# Total: 14320
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -996,6 +996,8 @@ ff02::3 ip6-allhosts
 :: 66997.top
 0.0.0.0 66998.top
 :: 66998.top
+0.0.0.0 66cn.com
+:: 66cn.com
 0.0.0.0 66san.com
 :: 66san.com
 0.0.0.0 6728812.com
@@ -14392,6 +14394,8 @@ ff02::3 ip6-allhosts
 :: mosaic.re.taobao.com
 0.0.0.0 moscow05.electroneum.hashvault.pro
 :: moscow05.electroneum.hashvault.pro
+0.0.0.0 mosflower.cn
+:: mosflower.cn
 0.0.0.0 moshouba.top
 :: moshouba.top
 0.0.0.0 moslt.com
