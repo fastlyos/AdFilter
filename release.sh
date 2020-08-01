@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.0
+# Current Version: 1.2.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -20,6 +20,7 @@ function GetData() {
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt"
+        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customblocklist"
