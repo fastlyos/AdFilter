@@ -1,11 +1,11 @@
-# Checksum: MTU5NjIwODExOQo=
+# Checksum: MTU5NjI1MTMxNwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.2.0-20200731-5
-# TimeUpdated: 2020-07-31T15:08:39+00:00
+# Version: 1.2.0-20200801-1
+# TimeUpdated: 2020-08-01T03:08:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 14314
+# Total: 14318
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -8078,6 +8078,8 @@ ff02::3 ip6-allhosts
 :: e.tiojk.com
 0.0.0.0 e.uissm.com
 :: e.uissm.com
+0.0.0.0 e.uxnycjr.cn
+:: e.uxnycjr.cn
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
 0.0.0.0 e.vcaif.com
@@ -11352,6 +11354,8 @@ ff02::3 ip6-allhosts
 :: jcelyj.com
 0.0.0.0 jcwwxn.com
 :: jcwwxn.com
+0.0.0.0 jd.com.pesbbw.cn
+:: jd.com.pesbbw.cn
 0.0.0.0 jdb.jiudingcapital.cn
 :: jdb.jiudingcapital.cn
 0.0.0.0 jdb.jiudingcapital.com
@@ -12568,6 +12572,8 @@ ff02::3 ip6-allhosts
 :: ll.atdmt.com
 0.0.0.0 ll.gxsky.com
 :: ll.gxsky.com
+0.0.0.0 ll.pesbbw.cn
+:: ll.pesbbw.cn
 0.0.0.0 ll.songlaoban.cn
 :: ll.songlaoban.cn
 0.0.0.0 llffaev.cn
@@ -13406,6 +13412,8 @@ ff02::3 ip6-allhosts
 :: m.uissm.com
 0.0.0.0 m.umbbs.cn
 :: m.umbbs.cn
+0.0.0.0 m.uxnycjr.cn
+:: m.uxnycjr.cn
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
 0.0.0.0 m.vbinr.com
@@ -18182,6 +18190,8 @@ ff02::3 ip6-allhosts
 :: sass2.directprimal.com
 0.0.0.0 satismeter.com
 :: satismeter.com
+0.0.0.0 satrod.cn
+:: satrod.cn
 0.0.0.0 savebt.net
 :: savebt.net
 0.0.0.0 saveeeee.myshopify.com
@@ -23810,8 +23820,6 @@ ff02::3 ip6-allhosts
 :: www.altpool.pro
 0.0.0.0 www.altruetech.com
 :: www.altruetech.com
-0.0.0.0 www.am0624.com
-:: www.am0624.com
 0.0.0.0 www.amhixwqagiz.ru
 :: www.amhixwqagiz.ru
 0.0.0.0 www.analytics.blue

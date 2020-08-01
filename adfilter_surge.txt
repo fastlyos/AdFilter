@@ -1,11 +1,11 @@
-# Checksum: MTU5NjIwODExOQo=
+# Checksum: MTU5NjI1MTMxNwo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.2.0-20200731-5
-# TimeUpdated: 2020-07-31T15:08:39+00:00
+# Version: 1.2.0-20200801-1
+# TimeUpdated: 2020-08-01T03:08:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 14314
+# Total: 14318
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,000.0x1f4b0.com
 DOMAIN-SUFFIX,001.0x1f4b0.com
@@ -4037,6 +4037,7 @@ DOMAIN-SUFFIX,e.tapdb.net
 DOMAIN-SUFFIX,e.tf.360.cn
 DOMAIN-SUFFIX,e.tiojk.com
 DOMAIN-SUFFIX,e.uissm.com
+DOMAIN-SUFFIX,e.uxnycjr.cn
 DOMAIN-SUFFIX,e.vaxyz.com
 DOMAIN-SUFFIX,e.vcaif.com
 DOMAIN-SUFFIX,e.vchim.com
@@ -5674,6 +5675,7 @@ DOMAIN-SUFFIX,jc1.dayfund.cn
 DOMAIN-SUFFIX,jcaik.com
 DOMAIN-SUFFIX,jcelyj.com
 DOMAIN-SUFFIX,jcwwxn.com
+DOMAIN-SUFFIX,jd.com.pesbbw.cn
 DOMAIN-SUFFIX,jdb.jiudingcapital.cn
 DOMAIN-SUFFIX,jdb.jiudingcapital.com
 DOMAIN-SUFFIX,jdfabrication.com
@@ -6282,6 +6284,7 @@ DOMAIN-SUFFIX,lkme.cc
 DOMAIN-SUFFIX,lkxanf7ad6g.zgyryt.com
 DOMAIN-SUFFIX,ll.atdmt.com
 DOMAIN-SUFFIX,ll.gxsky.com
+DOMAIN-SUFFIX,ll.pesbbw.cn
 DOMAIN-SUFFIX,ll.songlaoban.cn
 DOMAIN-SUFFIX,llffaev.cn
 DOMAIN-SUFFIX,llk.dlingtalk.cn
@@ -6701,6 +6704,7 @@ DOMAIN-SUFFIX,m.ucaii.com
 DOMAIN-SUFFIX,m.uczzd.cn
 DOMAIN-SUFFIX,m.uissm.com
 DOMAIN-SUFFIX,m.umbbs.cn
+DOMAIN-SUFFIX,m.uxnycjr.cn
 DOMAIN-SUFFIX,m.vaxyz.com
 DOMAIN-SUFFIX,m.vbinr.com
 DOMAIN-SUFFIX,m.vchim.com
@@ -9089,6 +9093,7 @@ DOMAIN-SUFFIX,sass.webmine.pro
 DOMAIN-SUFFIX,sass2.authcaptcha.com
 DOMAIN-SUFFIX,sass2.directprimal.com
 DOMAIN-SUFFIX,satismeter.com
+DOMAIN-SUFFIX,satrod.cn
 DOMAIN-SUFFIX,savebt.net
 DOMAIN-SUFFIX,saveeeee.myshopify.com
 DOMAIN-SUFFIX,sax1.sina.com.cn
@@ -11903,7 +11908,6 @@ DOMAIN-SUFFIX,www.alphamedical02.fr
 DOMAIN-SUFFIX,www.altavista.ovh
 DOMAIN-SUFFIX,www.altpool.pro
 DOMAIN-SUFFIX,www.altruetech.com
-DOMAIN-SUFFIX,www.am0624.com
 DOMAIN-SUFFIX,www.amhixwqagiz.ru
 DOMAIN-SUFFIX,www.analytics.blue
 DOMAIN-SUFFIX,www.andlache.com
