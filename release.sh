@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.3
+# Current Version: 1.2.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -16,7 +16,10 @@ function GetData() {
         "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
         "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"
         "https://easylist-downloads.adblockplus.org/malwaredomains_full.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/11.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/14.txt"
         "https://filters.adtidy.org/extension/chromium/filters/224.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/3.txt"
         "https://raw.githubusercontent.com/VeleSila/VELE-SILA-List/gh-pages/KaFanList.txt"
         "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
