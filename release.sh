@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.4
+# Current Version: 1.2.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -88,7 +88,7 @@ function AnalyseData() {
 # Generate Information
 function GenerateInformation() {
     adfilter_checksum=$(date "+%s" | base64)
-    adfilter_description="Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience!"
+    adfilter_description="Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~"
     adfilter_expires="3 hours (update frequency)"
     adfilter_homepage="https://github.com/hezhijie0327/AdFilter"
     adfilter_timeupdated=$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y-%m-%dT%H:%M:%S%:z")
