@@ -1,8 +1,8 @@
-# Checksum: MTU5NjI1MTMxNwo=
+# Checksum: MTU5NjI2MjE3MAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters which can effectively block the Chinese ads, crypto mining (browser-based), malware domains and online scams.
-# Version: 1.2.0-20200801-1
-# TimeUpdated: 2020-08-01T03:08:37+00:00
+# Version: 1.2.1-20200801-2
+# TimeUpdated: 2020-08-01T06:09:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 14318
@@ -14886,6 +14886,8 @@ ff02::3 ip6-allhosts
 :: ngsaang.top
 0.0.0.0 nicelabel.cc
 :: nicelabel.cc
+0.0.0.0 nicetee.net
+:: nicetee.net
 0.0.0.0 niche3d.us
 :: niche3d.us
 0.0.0.0 niegg.com
@@ -18880,8 +18882,6 @@ ff02::3 ip6-allhosts
 :: skgroup.kiev.ua
 0.0.0.0 skidki-yuga.ru
 :: skidki-yuga.ru
-0.0.0.0 skincheap.com
-:: skincheap.com
 0.0.0.0 skins-store.net
 :: skins-store.net
 0.0.0.0 skinsplanet.net
@@ -25622,6 +25622,8 @@ ff02::3 ip6-allhosts
 :: www.nfwebminer.com
 0.0.0.0 www.nicelabel.cc
 :: www.nicelabel.cc
+0.0.0.0 www.nicetee.net
+:: www.nicetee.net
 0.0.0.0 www.niche3d.us
 :: www.niche3d.us
 0.0.0.0 www.niematego.tk
@@ -26188,8 +26190,6 @@ ff02::3 ip6-allhosts
 :: www.siteverification.site
 0.0.0.0 www.sj88.com
 :: www.sj88.com
-0.0.0.0 www.skincheap.com
-:: www.skincheap.com
 0.0.0.0 www.skins-store.net
 :: www.skins-store.net
 0.0.0.0 www.skinsplanet.net
