@@ -1,11 +1,11 @@
-# Checksum: MTU5NjM4MDkyOAo=
+# Checksum: MTU5NjM5MTc1Mgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.6-20200802-5
-# TimeUpdated: 2020-08-02T15:08:48+00:00
+# Version: 1.2.6-20200802-6
+# TimeUpdated: 2020-08-02T18:09:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33686
+# Total: 33683
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -20,8 +20,6 @@ ff02::3 ip6-allhosts
 :: 0.up.qingdaonews.com
 0.0.0.0 000.0x1f4b0.com
 :: 000.0x1f4b0.com
-0.0.0.0 0001.2waky.com
-:: 0001.2waky.com
 0.0.0.0 000lk3v.wcomhost.com
 :: 000lk3v.wcomhost.com
 0.0.0.0 000lkub.rcomhost.com
@@ -36,8 +34,6 @@ ff02::3 ip6-allhosts
 :: 000macu.wcomhost.com
 0.0.0.0 001.0x1f4b0.com
 :: 001.0x1f4b0.com
-0.0.0.0 0013.cc
-:: 0013.cc
 0.0.0.0 001547.000webhostapp.com
 :: 001547.000webhostapp.com
 0.0.0.0 001union.com
@@ -52,8 +48,6 @@ ff02::3 ip6-allhosts
 :: 0024aadd.com
 0.0.0.0 003.0x1f4b0.com
 :: 003.0x1f4b0.com
-0.0.0.0 003store.com
-:: 003store.com
 0.0.0.0 004.0x1f4b0.com
 :: 004.0x1f4b0.com
 0.0.0.0 005.0x1f4b0.com
@@ -72,10 +66,6 @@ ff02::3 ip6-allhosts
 :: 00capital0neservice.000webhostapp.com
 0.0.0.0 00game.net
 :: 00game.net
-0.0.0.0 00oo00.com
-:: 00oo00.com
-0.0.0.0 01.beeppool.org
-:: 01.beeppool.org
 0.0.0.0 010xk.com
 :: 010xk.com
 0.0.0.0 018520.com
@@ -20214,6 +20204,8 @@ ff02::3 ip6-allhosts
 :: eg0xge6j46dvg3qgdjfm.viomil.ro
 0.0.0.0 egamandala0031.000webhostapp.com
 :: egamandala0031.000webhostapp.com
+0.0.0.0 egesckx.cn
+:: egesckx.cn
 0.0.0.0 eggfred.com
 :: eggfred.com
 0.0.0.0 egginselectrical.com.au
@@ -32924,6 +32916,8 @@ ff02::3 ip6-allhosts
 :: lle.com.pk
 0.0.0.0 llffaev.cn
 :: llffaev.cn
+0.0.0.0 llisthonolialate.club
+:: llisthonolialate.club
 0.0.0.0 llk.dlingtalk.cn
 :: llk.dlingtalk.cn
 0.0.0.0 llletfipicprkvmp.xyz
