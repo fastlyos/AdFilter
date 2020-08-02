@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.5
+# Current Version: 1.2.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -55,6 +55,7 @@ function GetData() {
         "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
         "https://raw.githubusercontent.com/neodevpro/badhost/master/deadallow"
         "https://raw.githubusercontent.com/neodevpro/badhost/master/deadblock"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
