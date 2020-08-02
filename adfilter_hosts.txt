@@ -1,11 +1,11 @@
-# Checksum: MTU5NjMwNTQxMQo=
+# Checksum: MTU5NjMyNzkyMgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.5-20200801-6
-# TimeUpdated: 2020-08-01T18:10:11+00:00
+# Version: 1.2.5-20200802-0
+# TimeUpdated: 2020-08-02T00:25:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33685
+# Total: 33697
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11416,6 +11416,8 @@ ff02::3 ip6-allhosts
 :: c.kuwo.cn
 0.0.0.0 c.l.qq.com
 :: c.l.qq.com
+0.0.0.0 c.lalaxit.cn
+:: c.lalaxit.cn
 0.0.0.0 c.lattebank.com
 :: c.lattebank.com
 0.0.0.0 c.lianwangtech.com
@@ -14148,6 +14150,8 @@ ff02::3 ip6-allhosts
 :: code.tui80.com
 0.0.0.0 code.ws
 :: code.ws
+0.0.0.0 code.xcoffer.com
+:: code.xcoffer.com
 0.0.0.0 code.zhishitie.com
 :: code.zhishitie.com
 0.0.0.0 codebuilders.se
@@ -20790,10 +20794,16 @@ ff02::3 ip6-allhosts
 :: eo.dymr697.top
 0.0.0.0 eo.h7t2f.xyz
 :: eo.h7t2f.xyz
+0.0.0.0 eo.hdschw.cn
+:: eo.hdschw.cn
 0.0.0.0 eo.sdafxz.xyz
 :: eo.sdafxz.xyz
 0.0.0.0 eo.sdagxz.xyz
 :: eo.sdagxz.xyz
+0.0.0.0 eo.wamcjfg.cn
+:: eo.wamcjfg.cn
+0.0.0.0 eo.zvygzatj.cn
+:: eo.zvygzatj.cn
 0.0.0.0 eo.zzbya.xyz
 :: eo.zzbya.xyz
 0.0.0.0 eo.zzbyb.xyz
@@ -29786,6 +29796,8 @@ ff02::3 ip6-allhosts
 :: jindier.com
 0.0.0.0 jindu179.com
 :: jindu179.com
+0.0.0.0 jinfu.love
+:: jinfu.love
 0.0.0.0 jing.58.com
 :: jing.58.com
 0.0.0.0 jinghuazhijia.com
@@ -36612,6 +36624,8 @@ ff02::3 ip6-allhosts
 :: mo.freeindoapp.com
 0.0.0.0 mo.h7t2f.xyz
 :: mo.h7t2f.xyz
+0.0.0.0 mo.hdschw.cn
+:: mo.hdschw.cn
 0.0.0.0 mo.jy73d.xyz
 :: mo.jy73d.xyz
 0.0.0.0 mo.moonpig.com
@@ -36626,12 +36640,16 @@ ff02::3 ip6-allhosts
 :: mo.sdagxz.xyz
 0.0.0.0 mo.shekuang.top
 :: mo.shekuang.top
+0.0.0.0 mo.wamcjfg.cn
+:: mo.wamcjfg.cn
 0.0.0.0 mo.zdceaa.cn
 :: mo.zdceaa.cn
 0.0.0.0 mo.zk43i.xyz
 :: mo.zk43i.xyz
 0.0.0.0 mo.zsyse.top
 :: mo.zsyse.top
+0.0.0.0 mo.zvygzatj.cn
+:: mo.zvygzatj.cn
 0.0.0.0 moapteeg.net
 :: moapteeg.net
 0.0.0.0 moatads.com
@@ -44080,6 +44098,8 @@ ff02::3 ip6-allhosts
 :: r.domob.cn
 0.0.0.0 r.edge.inmobicdn.net
 :: r.edge.inmobicdn.net
+0.0.0.0 r.lzumg.xyz
+:: r.lzumg.xyz
 0.0.0.0 r.mail.163.com
 :: r.mail.163.com
 0.0.0.0 r.mail.ru
@@ -52690,6 +52710,8 @@ ff02::3 ip6-allhosts
 :: t.leady.com
 0.0.0.0 t.leady.cz
 :: t.leady.cz
+0.0.0.0 t.lksb.wang
+:: t.lksb.wang
 0.0.0.0 t.locasun.de
 :: t.locasun.de
 0.0.0.0 t.locasun.es
@@ -57202,6 +57224,8 @@ ff02::3 ip6-allhosts
 :: v.heygugu.com
 0.0.0.0 v.irs01.com
 :: v.irs01.com
+0.0.0.0 v.lalaxit.cn
+:: v.lalaxit.cn
 0.0.0.0 v.lystrw.cn
 :: v.lystrw.cn
 0.0.0.0 v.oq68.com
