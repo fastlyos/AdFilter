@@ -1,11 +1,11 @@
-# Checksum: MTU5NjQwMjUxOAo=
+# Checksum: MTU5NjQxNDI5NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.6-20200802-7
-# TimeUpdated: 2020-08-02T21:08:38+00:00
+# Version: 1.2.6-20200803-0
+# TimeUpdated: 2020-08-03T00:24:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33681
+# Total: 33695
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -20,6 +20,8 @@ ff02::3 ip6-allhosts
 :: 0.up.qingdaonews.com
 0.0.0.0 000.0x1f4b0.com
 :: 000.0x1f4b0.com
+0.0.0.0 0001.2waky.com
+:: 0001.2waky.com
 0.0.0.0 000lk3v.wcomhost.com
 :: 000lk3v.wcomhost.com
 0.0.0.0 000lkub.rcomhost.com
@@ -34,6 +36,8 @@ ff02::3 ip6-allhosts
 :: 000macu.wcomhost.com
 0.0.0.0 001.0x1f4b0.com
 :: 001.0x1f4b0.com
+0.0.0.0 0013.cc
+:: 0013.cc
 0.0.0.0 001547.000webhostapp.com
 :: 001547.000webhostapp.com
 0.0.0.0 001union.com
@@ -48,6 +52,8 @@ ff02::3 ip6-allhosts
 :: 0024aadd.com
 0.0.0.0 003.0x1f4b0.com
 :: 003.0x1f4b0.com
+0.0.0.0 003store.com
+:: 003store.com
 0.0.0.0 004.0x1f4b0.com
 :: 004.0x1f4b0.com
 0.0.0.0 005.0x1f4b0.com
@@ -66,16 +72,32 @@ ff02::3 ip6-allhosts
 :: 00capital0neservice.000webhostapp.com
 0.0.0.0 00game.net
 :: 00game.net
+0.0.0.0 00oo00.com
+:: 00oo00.com
+0.0.0.0 01.beeppool.org
+:: 01.beeppool.org
 0.0.0.0 010xk.com
 :: 010xk.com
+0.0.0.0 018520.com
+:: 018520.com
 0.0.0.0 019103.com
 :: 019103.com
 0.0.0.0 019201.webcindario.com
 :: 019201.webcindario.com
+0.0.0.0 01cn.net
+:: 01cn.net
+0.0.0.0 01daa.lutci.com
+:: 01daa.lutci.com
 0.0.0.0 01dbf3a452b6.com
 :: 01dbf3a452b6.com
+0.0.0.0 01lm.com
+:: 01lm.com
 0.0.0.0 01w47q.cn
 :: 01w47q.cn
+0.0.0.0 02123s.com
+:: 02123s.com
+0.0.0.0 022aifang.com
+:: 022aifang.com
 0.0.0.0 0234408.cn
 :: 0234408.cn
 0.0.0.0 0245acc00unt-info001.000webhostapp.com
@@ -88,6 +110,8 @@ ff02::3 ip6-allhosts
 :: 02zps9iimwo9gukluvz8.maherstcottage.com.au
 0.0.0.0 03383bd.netsolhost.com
 :: 03383bd.netsolhost.com
+0.0.0.0 0377.wang
+:: 0377.wang
 0.0.0.0 039da14c.ngrok.io
 :: 039da14c.ngrok.io
 0.0.0.0 0451106.com
@@ -37744,6 +37768,8 @@ ff02::3 ip6-allhosts
 :: n3x7.xyz
 0.0.0.0 n4403ad.doubleclick.net
 :: n4403ad.doubleclick.net
+0.0.0.0 n4p-rus.redtram.com
+:: n4p-rus.redtram.com
 0.0.0.0 n5.q2ws3.cn
 :: n5.q2ws3.cn
 0.0.0.0 n6mnw8jaldqe.com
@@ -45296,6 +45322,8 @@ ff02::3 ip6-allhosts
 :: rintellsfundrew.info
 0.0.0.0 rioclassof75.com
 :: rioclassof75.com
+0.0.0.0 riodovernprovi.club
+:: riodovernprovi.club
 0.0.0.0 rioparkma.com.br
 :: rioparkma.com.br
 0.0.0.0 riowloclawek.gb.net
