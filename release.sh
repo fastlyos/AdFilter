@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.6
+# Current Version: 1.2.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -8,6 +8,16 @@
 ## Function
 # Get Data
 function GetData() {
+    dead_domain=(
+        "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
+        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadallow"
+        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadblock"
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadallow"
+        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadblock"
+        "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt"
+        "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
+        "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/scripts/origin-files/base-dead-hosts.txt"
+    )
     filter_adblock=(
         "https://easylist-downloads.adblockplus.org/easylist.txt"
         "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
@@ -55,20 +65,15 @@ function GetData() {
         "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
-        "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
-        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadallow"
-        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadblock"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
-        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadallow"
-        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadblock"
-        "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt"
-        "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
-        "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/scripts/origin-files/base-dead-hosts.txt"
         "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
     )
     rm -rf ./Temp && mkdir ./Temp && cd ./Temp
+    for dead_domain_task in "${!dead_domain[@]}"; do
+        curl -s --connect-timeout 15 "${dead_domain[$dead_domain_task]}" >> ./dead_domain.tmp
+    done
     for filter_adblock_task in "${!filter_adblock[@]}"; do
         curl -s --connect-timeout 15 "${filter_adblock[$filter_adblock_task]}" >> ./filter_adblock.tmp
     done
@@ -84,7 +89,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    filter_data=($(cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\*\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_block.tmp && cat ./filter_white.tmp | grep -v "(\|)\|\!\|\#\|\&\|\*\|\/\|\=\|\?\|\\$\|\^\|\_" | sed "s/[[:space:]]//g" > ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_allow.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
+    filter_data=($(cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\*\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_block.tmp && cat ./dead_domain.tmp ./filter_white.tmp | grep -v "(\|)\|\!\|\#\|\&\|\*\|\/\|\=\|\?\|\\$\|\^\|\_" | sed "s/[[:space:]]//g" > ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_allow.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
 function GenerateInformation() {
