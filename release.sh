@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.8
+# Current Version: 1.2.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -45,6 +45,7 @@ function GetData() {
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/AdFilter/master/data/data_block.txt"
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customblocklist"
     )
@@ -64,6 +65,7 @@ function GetData() {
         "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/AdFilter/master/data/data_allow.txt"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
