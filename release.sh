@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.0
+# Current Version: 1.3.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -10,13 +10,8 @@
 function GetData() {
     dead_domain=(
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/master/dhdb_dead.txt"
-        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadallow"
-        "https://raw.githubusercontent.com/neodevpro/badhost/master/deadblock"
-        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadallow"
-        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/deadblock"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
-        "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/scripts/origin-files/base-dead-hosts.txt"
     )
     filter_adblock=(
         "https://easylist-downloads.adblockplus.org/easylist.txt"
@@ -24,12 +19,7 @@ function GetData() {
         "https://easylist-downloads.adblockplus.org/easylistchina.txt"
         "https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
         "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
-        "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"
-        "https://easylist-downloads.adblockplus.org/malwaredomains_full.txt"
-        "https://filters.adtidy.org/extension/chromium/filters/11.txt"
-        "https://filters.adtidy.org/extension/chromium/filters/14.txt"
         "https://filters.adtidy.org/extension/chromium/filters/224.txt"
-        "https://filters.adtidy.org/extension/chromium/filters/3.txt"
         "https://raw.githubusercontent.com/VeleSila/VELE-SILA-List/gh-pages/KaFanList.txt"
         "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
@@ -42,22 +32,17 @@ function GetData() {
     )
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
-        "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt"
-        "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
         "https://raw.githubusercontent.com/hezhijie0327/AdFilter/master/data/data_block.txt"
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts"
-        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customblocklist"
     )
     filter_hosts=(
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_browser"
         "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
-        "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt"
         "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
         "https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts"
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts"
-        "https://www.malwaredomainlist.com/hostslist/hosts.txt"
     )
     filter_white=(
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist"
