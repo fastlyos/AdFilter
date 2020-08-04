@@ -1,11 +1,11 @@
-# Checksum: MTU5NjUyNzc2Mgo=
+# Checksum: MTU5NjUzMjEzMAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.3.1-20200804-2
-# TimeUpdated: 2020-08-04T07:56:02+00:00
+# Version: 1.3.1-20200804-3
+# TimeUpdated: 2020-08-04T09:08:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25225
+# Total: 25235
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2904,6 +2904,8 @@ ff02::3 ip6-allhosts
 :: aaa.tumanyi.com
 0.0.0.0 aaa.zxglpj.cn
 :: aaa.zxglpj.cn
+0.0.0.0 aaaf.info
+:: aaaf.info
 0.0.0.0 aaalian.com
 :: aaalian.com
 0.0.0.0 aaan.xyz
@@ -22230,6 +22232,8 @@ ff02::3 ip6-allhosts
 :: jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 :: jsc.mgid.com
+0.0.0.0 jscccc.cc
+:: jscccc.cc
 0.0.0.0 jscdn.99pps.com
 :: jscdn.99pps.com
 0.0.0.0 jscdndel.com
@@ -22526,6 +22530,8 @@ ff02::3 ip6-allhosts
 :: k7tju.xyz
 0.0.0.0 k859n.cn
 :: k859n.cn
+0.0.0.0 k8yy.tv
+:: k8yy.tv
 0.0.0.0 k9wi2d.cn
 :: k9wi2d.cn
 0.0.0.0 k9wz7.cn
@@ -24210,6 +24216,8 @@ ff02::3 ip6-allhosts
 :: loldy.jiangmg.com
 0.0.0.0 loldyttw.com
 :: loldyttw.com
+0.0.0.0 lolmp4.com
+:: lolmp4.com
 0.0.0.0 lolsefti.com
 :: lolsefti.com
 0.0.0.0 lolvsdota.cn
@@ -26446,6 +26454,8 @@ ff02::3 ip6-allhosts
 :: md0z4dh.com
 0.0.0.0 mdap.alipaylog.com
 :: mdap.alipaylog.com
+0.0.0.0 mdashen.vip
+:: mdashen.vip
 0.0.0.0 mdc.meitustat.com
 :: mdc.meitustat.com
 0.0.0.0 mdcone.cn
@@ -28094,6 +28104,8 @@ ff02::3 ip6-allhosts
 :: mytanwan.com
 0.0.0.0 mytestminer.xyz
 :: mytestminer.xyz
+0.0.0.0 mytianqi.vip
+:: mytianqi.vip
 0.0.0.0 mytzdhz.cn
 :: mytzdhz.cn
 0.0.0.0 myuf6.xyz
@@ -29534,6 +29546,8 @@ ff02::3 ip6-allhosts
 :: onlyshow.top
 0.0.0.0 onscribedpastrong.info
 :: onscribedpastrong.info
+0.0.0.0 onsiteline.vip
+:: onsiteline.vip
 0.0.0.0 onsiterope.com
 :: onsiterope.com
 0.0.0.0 onsnv.com
@@ -31398,6 +31412,8 @@ ff02::3 ip6-allhosts
 :: ppcashpop.com
 0.0.0.0 ppee.xyz
 :: ppee.xyz
+0.0.0.0 ppfjlk1.5tps.vip
+:: ppfjlk1.5tps.vip
 0.0.0.0 pphqq.com
 :: pphqq.com
 0.0.0.0 ppoi.org
@@ -36230,6 +36246,8 @@ ff02::3 ip6-allhosts
 :: soft.tbs.imtt.qq.com
 0.0.0.0 soft.zhidian3g.cn
 :: soft.zhidian3g.cn
+0.0.0.0 softtest.vip
+:: softtest.vip
 0.0.0.0 sohu.irs01.com
 :: sohu.irs01.com
 0.0.0.0 sohu999.com
@@ -49916,6 +49934,8 @@ ff02::3 ip6-allhosts
 :: zheng.cs12d.com
 0.0.0.0 zhengjsmd.cn
 :: zhengjsmd.cn
+0.0.0.0 zhenglianabang.vip
+:: zhenglianabang.vip
 0.0.0.0 zhengyejixie.com
 :: zhengyejixie.com
 0.0.0.0 zhengzhoupengbo.com
