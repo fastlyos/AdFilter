@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.2
+# Current Version: 1.3.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -44,16 +44,7 @@ function GetData() {
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts"
     )
     filter_white=(
-        "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist"
-        "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
-        "https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt"
-        "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
-        "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
-        "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
-        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
-        "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
-        "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
     )
     rm -rf ./Temp && mkdir ./Temp && cd ./Temp
     for dead_domain_task in "${!dead_domain[@]}"; do
@@ -74,7 +65,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    filter_data=($(cat ./dead_domain.tmp ./filter_white.tmp | grep -v "(\|)\|\!\|\#\|\&\|\*\|\/\|\=\|\?\|\_" | sed "s/127\.0\.0\.1//g;s/[[:space:]]//g;s/\@\@\|\|//g;s/\^$important//g" > ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_allow.tmp && cat ../data/data_allow.txt >> ./filter_allow.tmp && cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\*\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_block.tmp && cat ../data/data_block.txt >> ./filter_block.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
+    filter_data=($(cat ./dead_domain.tmp ./filter_white.tmp | grep -v "\#" | sed "s/[[:space:]]//g" > ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_allow.tmp && cat ../data/data_allow.txt >> ./filter_allow.tmp && cat ./filter_adblock.tmp | grep -v "\#\|\\$\|\*\|\/\|\:\|\@" | grep "||" | sed "s/[[:space:]]//g;s/\^//g;s/\|//g" > ./filter_data.tmp && cat ./filter_domain.tmp | grep -v "\!\|\#\|\*\|\/\|\:\|\[\|\]\|\|" | sed "s/[[:space:]]//g" >> ./filter_data.tmp && cat ./filter_hosts.tmp | grep -v "\#" | grep "0\.0\.0\.0\|127\.0\.0\.1\|\:\:\|\:\:1" | sed "s/[[:space:]]//g;s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" >> ./filter_data.tmp && cat ./filter_data.tmp | grep -v "[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}\.[0-9]\{1,3\}" | grep "\." | tr -d -c "[:alnum:]\-\.\n" | tr "A-Z" "a-z" | sed "/\-$/d;/\.$/d;/^$/d;/^\-/d;/^\./d" > ./filter_block.tmp && cat ../data/data_block.txt >> ./filter_block.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
 function GenerateInformation() {
