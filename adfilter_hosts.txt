@@ -1,11 +1,11 @@
-# Checksum: MTU5NjUzMjEzMAo=
+# Checksum: MTU5NjU0MDI1OQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.3.1-20200804-3
-# TimeUpdated: 2020-08-04T09:08:50+00:00
+# Version: 1.3.2-20200804-3
+# TimeUpdated: 2020-08-04T11:24:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25235
+# Total: 25208
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2904,8 +2904,6 @@ ff02::3 ip6-allhosts
 :: aaa.tumanyi.com
 0.0.0.0 aaa.zxglpj.cn
 :: aaa.zxglpj.cn
-0.0.0.0 aaaf.info
-:: aaaf.info
 0.0.0.0 aaalian.com
 :: aaalian.com
 0.0.0.0 aaan.xyz
@@ -7520,6 +7518,8 @@ ff02::3 ip6-allhosts
 :: bd4.chuiyue.com
 0.0.0.0 bd4.idgdmgroup.com.cn
 :: bd4.idgdmgroup.com.cn
+0.0.0.0 bd888.qizuang.com
+:: bd888.qizuang.com
 0.0.0.0 bdad.gaotie.net
 :: bdad.gaotie.net
 0.0.0.0 bdaor.com
@@ -20260,8 +20260,6 @@ ff02::3 ip6-allhosts
 :: ihais.com
 0.0.0.0 ihear123.com
 :: ihear123.com
-0.0.0.0 ihero.pub
-:: ihero.pub
 0.0.0.0 ihhii.xyz
 :: ihhii.xyz
 0.0.0.0 ihuajian.com
@@ -20272,8 +20270,6 @@ ff02::3 ip6-allhosts
 :: ii.u1e9.cn
 0.0.0.0 iia1.pikacn.com
 :: iia1.pikacn.com
-0.0.0.0 iiad.com
-:: iiad.com
 0.0.0.0 iierq.com
 :: iierq.com
 0.0.0.0 iigushi.com
@@ -20298,8 +20294,6 @@ ff02::3 ip6-allhosts
 :: ijuny.com
 0.0.0.0 il05pzhujicf.com
 :: il05pzhujicf.com
-0.0.0.0 il8r.com
-:: il8r.com
 0.0.0.0 ilepai.com
 :: ilepai.com
 0.0.0.0 ilifecook.com
@@ -20312,10 +20306,6 @@ ff02::3 ip6-allhosts
 :: iln.zzjpgqd.com
 0.0.0.0 ilovechenyuqian.xyz
 :: ilovechenyuqian.xyz
-0.0.0.0 ilovejuju.be
-:: ilovejuju.be
-0.0.0.0 iloveyouxi.com
-:: iloveyouxi.com
 0.0.0.0 im-x.jd.com
 :: im-x.jd.com
 0.0.0.0 im.aol.de
@@ -20494,8 +20484,6 @@ ff02::3 ip6-allhosts
 :: img.jgchq.com
 0.0.0.0 img.jizzads.com
 :: img.jizzads.com
-0.0.0.0 img.jsecoin.com
-:: img.jsecoin.com
 0.0.0.0 img.kukudm.com
 :: img.kukudm.com
 0.0.0.0 img.libdd.com
@@ -20756,8 +20744,6 @@ ff02::3 ip6-allhosts
 :: imrworldwide.com
 0.0.0.0 imstks.com
 :: imstks.com
-0.0.0.0 imtmp.net
-:: imtmp.net
 0.0.0.0 imx.comedycentral.com
 :: imx.comedycentral.com
 0.0.0.0 imykgs.com
@@ -20846,8 +20832,6 @@ ff02::3 ip6-allhosts
 :: infopicked.com
 0.0.0.0 informers.sinoptik.ua
 :: informers.sinoptik.ua
-0.0.0.0 infvb.com
-:: infvb.com
 0.0.0.0 ingameads.gameloft.com
 :: ingameads.gameloft.com
 0.0.0.0 ingcigarettbarro.info
@@ -20882,8 +20866,6 @@ ff02::3 ip6-allhosts
 :: innity.net
 0.0.0.0 innovid.com
 :: innovid.com
-0.0.0.0 innvitor.com
-:: innvitor.com
 0.0.0.0 inpagepush.com
 :: inpagepush.com
 0.0.0.0 inpcut.com
@@ -21002,10 +20984,6 @@ ff02::3 ip6-allhosts
 :: iodthosenad.fun
 0.0.0.0 ioek.okshishi.com
 :: ioek.okshishi.com
-0.0.0.0 iohtmrp.cn
-:: iohtmrp.cn
-0.0.0.0 iomsew.com
-:: iomsew.com
 0.0.0.0 ionaloutlerscrisi.fun
 :: ionaloutlerscrisi.fun
 0.0.0.0 ionrefreshotsev.info
@@ -21138,8 +21116,6 @@ ff02::3 ip6-allhosts
 :: istcommun.info
 0.0.0.0 istlandoll.com
 :: istlandoll.com
-0.0.0.0 istreamsche.com
-:: istreamsche.com
 0.0.0.0 isupopc.com
 :: isupopc.com
 0.0.0.0 it.cookiescript.info
@@ -21162,8 +21138,6 @@ ff02::3 ip6-allhosts
 :: items.bingdiantao.com
 0.0.0.0 itllnww6x277.com
 :: itllnww6x277.com
-0.0.0.0 itns.cpufan.club
-:: itns.cpufan.club
 0.0.0.0 itnuzleafan.com
 :: itnuzleafan.com
 0.0.0.0 itracking.fccinteractive.com
@@ -21310,8 +21284,6 @@ ff02::3 ip6-allhosts
 :: j17.shangc.net
 0.0.0.0 j17.wenjutv.com
 :: j17.wenjutv.com
-0.0.0.0 j17.xiumu.cn
-:: j17.xiumu.cn
 0.0.0.0 j2.979067.com
 :: j2.979067.com
 0.0.0.0 j200d3.cn
@@ -21446,8 +21418,6 @@ ff02::3 ip6-allhosts
 :: jdb.jiudingcapital.cn
 0.0.0.0 jdb.jiudingcapital.com
 :: jdb.jiudingcapital.com
-0.0.0.0 jddaw.com
-:: jddaw.com
 0.0.0.0 jdf494.cn
 :: jdf494.cn
 0.0.0.0 jdflower.cn
@@ -21496,16 +21466,12 @@ ff02::3 ip6-allhosts
 :: jfm4.pop.baofeng.net
 0.0.0.0 jfqkj.com
 :: jfqkj.com
-0.0.0.0 jfsdiwmnbsk003.top
-:: jfsdiwmnbsk003.top
 0.0.0.0 jfy-stone.cn
 :: jfy-stone.cn
 0.0.0.0 jfypfmew.com
 :: jfypfmew.com
 0.0.0.0 jg.bjpengyi.com
 :: jg.bjpengyi.com
-0.0.0.0 jg1668.com
-:: jg1668.com
 0.0.0.0 jgchq.com
 :: jgchq.com
 0.0.0.0 jghcy.com
@@ -21546,8 +21512,6 @@ ff02::3 ip6-allhosts
 :: ji.8881919.cc
 0.0.0.0 ji.dazhantai.com
 :: ji.dazhantai.com
-0.0.0.0 jia-huan.cn
-:: jia-huan.cn
 0.0.0.0 jiaeasy.net
 :: jiaeasy.net
 0.0.0.0 jiaheyonggu.com
@@ -21620,8 +21584,6 @@ ff02::3 ip6-allhosts
 :: jie.wangcunpan.cn
 0.0.0.0 jiehantai.com
 :: jiehantai.com
-0.0.0.0 jiehunmishu.com
-:: jiehunmishu.com
 0.0.0.0 jiejg.ifeng.com
 :: jiejg.ifeng.com
 0.0.0.0 jiejiemimu.cn
@@ -21700,8 +21662,6 @@ ff02::3 ip6-allhosts
 :: jinsoopt.net
 0.0.0.0 jintonghua.com
 :: jintonghua.com
-0.0.0.0 jinxinyuan.cn
-:: jinxinyuan.cn
 0.0.0.0 jinzhao99.com
 :: jinzhao99.com
 0.0.0.0 jioeg.com
@@ -21730,8 +21690,6 @@ ff02::3 ip6-allhosts
 :: jixian360.com
 0.0.0.0 jixiby.cn
 :: jixiby.cn
-0.0.0.0 jixing.cc
-:: jixing.cc
 0.0.0.0 jiyan.net
 :: jiyan.net
 0.0.0.0 jiyou2014.com
@@ -22232,8 +22190,6 @@ ff02::3 ip6-allhosts
 :: jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 :: jsc.mgid.com
-0.0.0.0 jscccc.cc
-:: jscccc.cc
 0.0.0.0 jscdn.99pps.com
 :: jscdn.99pps.com
 0.0.0.0 jscdndel.com
@@ -22530,8 +22486,6 @@ ff02::3 ip6-allhosts
 :: k7tju.xyz
 0.0.0.0 k859n.cn
 :: k859n.cn
-0.0.0.0 k8yy.tv
-:: k8yy.tv
 0.0.0.0 k9wi2d.cn
 :: k9wi2d.cn
 0.0.0.0 k9wz7.cn
@@ -23652,6 +23606,8 @@ ff02::3 ip6-allhosts
 :: limei.com
 0.0.0.0 limitagesdidjet.site
 :: limitagesdidjet.site
+0.0.0.0 limitaterer.club
+:: limitaterer.club
 0.0.0.0 lindanmiaoxiang.cn
 :: lindanmiaoxiang.cn
 0.0.0.0 lindencarry.pro
@@ -24148,6 +24104,8 @@ ff02::3 ip6-allhosts
 :: loggingapi.spingo.com
 0.0.0.0 loggly.cheatsheet.com
 :: loggly.cheatsheet.com
+0.0.0.0 logic.cpm.cm.kankan.com
+:: logic.cpm.cm.kankan.com
 0.0.0.0 login.browsermine.com
 :: login.browsermine.com
 0.0.0.0 loginlog.sdo.com
@@ -24216,8 +24174,6 @@ ff02::3 ip6-allhosts
 :: loldy.jiangmg.com
 0.0.0.0 loldyttw.com
 :: loldyttw.com
-0.0.0.0 lolmp4.com
-:: lolmp4.com
 0.0.0.0 lolsefti.com
 :: lolsefti.com
 0.0.0.0 lolvsdota.cn
@@ -26454,8 +26410,6 @@ ff02::3 ip6-allhosts
 :: md0z4dh.com
 0.0.0.0 mdap.alipaylog.com
 :: mdap.alipaylog.com
-0.0.0.0 mdashen.vip
-:: mdashen.vip
 0.0.0.0 mdc.meitustat.com
 :: mdc.meitustat.com
 0.0.0.0 mdcone.cn
@@ -28104,8 +28058,6 @@ ff02::3 ip6-allhosts
 :: mytanwan.com
 0.0.0.0 mytestminer.xyz
 :: mytestminer.xyz
-0.0.0.0 mytianqi.vip
-:: mytianqi.vip
 0.0.0.0 mytzdhz.cn
 :: mytzdhz.cn
 0.0.0.0 myuf6.xyz
@@ -29546,8 +29498,6 @@ ff02::3 ip6-allhosts
 :: onlyshow.top
 0.0.0.0 onscribedpastrong.info
 :: onscribedpastrong.info
-0.0.0.0 onsiteline.vip
-:: onsiteline.vip
 0.0.0.0 onsiterope.com
 :: onsiterope.com
 0.0.0.0 onsnv.com
@@ -31412,8 +31362,6 @@ ff02::3 ip6-allhosts
 :: ppcashpop.com
 0.0.0.0 ppee.xyz
 :: ppee.xyz
-0.0.0.0 ppfjlk1.5tps.vip
-:: ppfjlk1.5tps.vip
 0.0.0.0 pphqq.com
 :: pphqq.com
 0.0.0.0 ppoi.org
@@ -36246,8 +36194,6 @@ ff02::3 ip6-allhosts
 :: soft.tbs.imtt.qq.com
 0.0.0.0 soft.zhidian3g.cn
 :: soft.zhidian3g.cn
-0.0.0.0 softtest.vip
-:: softtest.vip
 0.0.0.0 sohu.irs01.com
 :: sohu.irs01.com
 0.0.0.0 sohu999.com
@@ -38224,6 +38170,8 @@ ff02::3 ip6-allhosts
 :: symau.cn
 0.0.0.0 symav.cn
 :: symav.cn
+0.0.0.0 sympatientcu.club
+:: sympatientcu.club
 0.0.0.0 symphoneupcom.site
 :: symphoneupcom.site
 0.0.0.0 synacast.com
@@ -49934,8 +49882,6 @@ ff02::3 ip6-allhosts
 :: zheng.cs12d.com
 0.0.0.0 zhengjsmd.cn
 :: zhengjsmd.cn
-0.0.0.0 zhenglianabang.vip
-:: zhenglianabang.vip
 0.0.0.0 zhengyejixie.com
 :: zhengyejixie.com
 0.0.0.0 zhengzhoupengbo.com
