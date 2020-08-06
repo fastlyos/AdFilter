@@ -1,11 +1,11 @@
-# Checksum: MTU5NjczNTA1NQo=
+# Checksum: MTU5NjczNjk4NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.3.5-20200806-5
-# TimeUpdated: 2020-08-06T17:30:55+00:00
+# Version: 1.3.5-20200806-6
+# TimeUpdated: 2020-08-06T18:03:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 11738
+# Total: 11685
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -15080,16 +15080,12 @@ ff02::3 ip6-allhosts
 :: spcdnsp.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
 :: spcnv.i-mobile.co.jp
-0.0.0.0 spd.atdmt.com
-:: spd.atdmt.com
 0.0.0.0 spdeliver.i-mobile.co.jp
 :: spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 :: spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 :: spdmg.i-mobile.co.jp
-0.0.0.0 spe.atdmt.com
-:: spe.atdmt.com
 0.0.0.0 spinfo.wps.cn
 :: spinfo.wps.cn
 0.0.0.0 spnet2-1.i-mobile.co.jp
@@ -15108,24 +15104,18 @@ ff02::3 ip6-allhosts
 :: sq1.chinacsky.com
 0.0.0.0 sq2.chinacsky.com
 :: sq2.chinacsky.com
-0.0.0.0 sqd.jstdjq.com
-:: sqd.jstdjq.com
 0.0.0.0 sqm.df.telemetry.microsoft.com
 :: sqm.df.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com
 :: sqm.telemetry.microsoft.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 :: sqm.telemetry.microsoft.com.nsatc.net
-0.0.0.0 sqszs.top
-:: sqszs.top
 0.0.0.0 sqtpks3.1391.com
 :: sqtpks3.1391.com
 0.0.0.0 sqwed.371dk.com
 :: sqwed.371dk.com
 0.0.0.0 sr.cookiescript.info
 :: sr.cookiescript.info
-0.0.0.0 src.duanxin520.com
-:: src.duanxin520.com
 0.0.0.0 src.leju.com
 :: src.leju.com
 0.0.0.0 src.ting76789.cn
@@ -15140,8 +15130,6 @@ ff02::3 ip6-allhosts
 :: srcips.com
 0.0.0.0 srcu.com
 :: srcu.com
-0.0.0.0 srcu.pw
-:: srcu.pw
 0.0.0.0 srd.simba.taobao.com
 :: srd.simba.taobao.com
 0.0.0.0 sroomafp.allyes.com
@@ -15154,8 +15142,6 @@ ff02::3 ip6-allhosts
 :: srv.revdepo.com
 0.0.0.0 srv01.bitcoiner.win
 :: srv01.bitcoiner.win
-0.0.0.0 srv02.bitcoiner.win
-:: srv02.bitcoiner.win
 0.0.0.0 ss.cnczjy.com
 :: ss.cnczjy.com
 0.0.0.0 ss.cnnic.cn
@@ -15166,16 +15152,10 @@ ff02::3 ip6-allhosts
 :: ss.knet.cn
 0.0.0.0 ss.missyouxi.com
 :: ss.missyouxi.com
-0.0.0.0 ss.subo.me
-:: ss.subo.me
 0.0.0.0 ss.swagger1.com
 :: ss.swagger1.com
 0.0.0.0 ss.symav.cn
 :: ss.symav.cn
-0.0.0.0 ss.sysad.cn
-:: ss.sysad.cn
-0.0.0.0 ss.sysadult.cn
-:: ss.sysadult.cn
 0.0.0.0 ss.zzzkxx.com
 :: ss.zzzkxx.com
 0.0.0.0 ss2p.uuxs.net
@@ -15190,16 +15170,8 @@ ff02::3 ip6-allhosts
 :: ssh.aphmn6.cn
 0.0.0.0 ssh.cralp.cn
 :: ssh.cralp.cn
-0.0.0.0 ssh.hbhtbn.com
-:: ssh.hbhtbn.com
-0.0.0.0 ssh.hxlif.com
-:: ssh.hxlif.com
-0.0.0.0 ssh.jsyzw132.com
-:: ssh.jsyzw132.com
 0.0.0.0 ssh.lifu11.com
 :: ssh.lifu11.com
-0.0.0.0 ssh.szxiuchang.com
-:: ssh.szxiuchang.com
 0.0.0.0 ssh.wbdcrmn.cn
 :: ssh.wbdcrmn.cn
 0.0.0.0 ssh.yezijizhang.com
@@ -15210,26 +15182,16 @@ ff02::3 ip6-allhosts
 :: ssl-cdn.static.browser.mi-img.com
 0.0.0.0 ssl.aszy.club
 :: ssl.aszy.club
-0.0.0.0 ssl.bbba8.com
-:: ssl.bbba8.com
-0.0.0.0 ssl.bbbr8.com
-:: ssl.bbbr8.com
-0.0.0.0 ssl.bsriedu.cn
-:: ssl.bsriedu.cn
 0.0.0.0 ssl.di9qu.com.cn
 :: ssl.di9qu.com.cn
 0.0.0.0 ssl.hp-china.biz
 :: ssl.hp-china.biz
 0.0.0.0 ssl.sitemaji.com
 :: ssl.sitemaji.com
-0.0.0.0 ssl.youkag.com
-:: ssl.youkag.com
 0.0.0.0 ssl.zy3dku.cn
 :: ssl.zy3dku.cn
 0.0.0.0 ssl2.gdqifang.com
 :: ssl2.gdqifang.com
-0.0.0.0 ssl86.pjshw.cn
-:: ssl86.pjshw.cn
 0.0.0.0 ssmuse1314.cn
 :: ssmuse1314.cn
 0.0.0.0 sso-cas.gridsumdissector.com
@@ -15242,28 +15204,18 @@ ff02::3 ip6-allhosts
 :: ssp-event.domob.cn
 0.0.0.0 ssp-rtb.sape.ru
 :: ssp-rtb.sape.ru
-0.0.0.0 ssp.0531kt.com
-:: ssp.0531kt.com
 0.0.0.0 ssp.08160.cn
 :: ssp.08160.cn
 0.0.0.0 ssp.1rtb.com
 :: ssp.1rtb.com
 0.0.0.0 ssp.4hw.com.cn
 :: ssp.4hw.com.cn
-0.0.0.0 ssp.86str.com
-:: ssp.86str.com
-0.0.0.0 ssp.ad.xiaomi.com
-:: ssp.ad.xiaomi.com
 0.0.0.0 ssp.adriver.ru
 :: ssp.adriver.ru
-0.0.0.0 ssp.chaohutechan.com
-:: ssp.chaohutechan.com
 0.0.0.0 ssp.cibn.starschina.com
 :: ssp.cibn.starschina.com
 0.0.0.0 ssp.daxueshengqiandai.com
 :: ssp.daxueshengqiandai.com
-0.0.0.0 ssp.kjwx8.com
-:: ssp.kjwx8.com
 0.0.0.0 ssp.kss.ksyun.com
 :: ssp.kss.ksyun.com
 0.0.0.0 ssp.pro.cn
@@ -15276,14 +15228,10 @@ ff02::3 ip6-allhosts
 :: ssp.youxiaoad.com
 0.0.0.0 ssp.zf313.com
 :: ssp.zf313.com
-0.0.0.0 ssp1.dmpdsp.com
-:: ssp1.dmpdsp.com
 0.0.0.0 sspapi.youxiaoad.com
 :: sspapi.youxiaoad.com
 0.0.0.0 sspservice.ad-survey.com
 :: sspservice.ad-survey.com
-0.0.0.0 sss.cnscdj.com
-:: sss.cnscdj.com
 0.0.0.0 sss.iuyhjn.com
 :: sss.iuyhjn.com
 0.0.0.0 sss.jusha.com
@@ -15306,16 +15254,12 @@ ff02::3 ip6-allhosts
 :: ssxd.mediav.com
 0.0.0.0 st-n.ads3-adnow.com
 :: st-n.ads3-adnow.com
-0.0.0.0 st.kjli.fi
-:: st.kjli.fi
 0.0.0.0 st.yandexadexchange.net
 :: st.yandexadexchange.net
 0.0.0.0 st.yengo.com
 :: st.yengo.com
 0.0.0.0 sta.haloall.com
 :: sta.haloall.com
-0.0.0.0 sta.jcjk0451.com
-:: sta.jcjk0451.com
 0.0.0.0 stadig.ifeng.com
 :: stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
@@ -15350,12 +15294,8 @@ ff02::3 ip6-allhosts
 :: stat.58.xgo.com.cn
 0.0.0.0 stat.adbana.com
 :: stat.adbana.com
-0.0.0.0 stat.adirects.com
-:: stat.adirects.com
 0.0.0.0 stat.adlabs.ru
 :: stat.adlabs.ru
-0.0.0.0 stat.baike.com
-:: stat.baike.com
 0.0.0.0 stat.bigmir.net
 :: stat.bigmir.net
 0.0.0.0 stat.browser.nearme.com.cn
@@ -15422,8 +15362,6 @@ ff02::3 ip6-allhosts
 :: stat.xgo.com.cn
 0.0.0.0 stat.xywy.com
 :: stat.xywy.com
-0.0.0.0 stat.yunfan.com
-:: stat.yunfan.com
 0.0.0.0 stat.zbii.com
 :: stat.zbii.com
 0.0.0.0 stat.zdnet.com.cn
@@ -15472,8 +15410,6 @@ ff02::3 ip6-allhosts
 :: static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
 :: static.adsafeprotected.com
-0.0.0.0 static.adtaily.com
-:: static.adtaily.com
 0.0.0.0 static.adtimaserver.vn
 :: static.adtimaserver.vn
 0.0.0.0 static.adwo.com
@@ -15562,8 +15498,6 @@ ff02::3 ip6-allhosts
 :: static.img.imagecdn.cn
 0.0.0.0 static.jebe.renren.com
 :: static.jebe.renren.com
-0.0.0.0 static.jointreport-switch.com
-:: static.jointreport-switch.com
 0.0.0.0 static.live.nagezan.net
 :: static.live.nagezan.net
 0.0.0.0 static.m.sjzhushou.com
@@ -15578,12 +15512,8 @@ ff02::3 ip6-allhosts
 :: static.novanet.vn
 0.0.0.0 static.pay.baidu.com
 :: static.pay.baidu.com
-0.0.0.0 static.reasedoper.pw
-:: static.reasedoper.pw
 0.0.0.0 static.sdg-china.com
 :: static.sdg-china.com
-0.0.0.0 static.sellbuyshop.cn
-:: static.sellbuyshop.cn
 0.0.0.0 static.snapmobile.asia
 :: static.snapmobile.asia
 0.0.0.0 static.sparechange.io
@@ -15596,8 +15526,6 @@ ff02::3 ip6-allhosts
 :: static.track.58.com
 0.0.0.0 static.tv508.com
 :: static.tv508.com
-0.0.0.0 static.tzyiyuantuan.com
-:: static.tzyiyuantuan.com
 0.0.0.0 static.uuzu.com
 :: static.uuzu.com
 0.0.0.0 static.wauee.com
@@ -15612,8 +15540,6 @@ ff02::3 ip6-allhosts
 :: static.zctx8.com
 0.0.0.0 static1.baifendian.com
 :: static1.baifendian.com
-0.0.0.0 static1.bfdcdn.com
-:: static1.bfdcdn.com
 0.0.0.0 static1.f.itc.cn
 :: static1.f.itc.cn
 0.0.0.0 static1.freebitco.in
@@ -15636,8 +15562,6 @@ ff02::3 ip6-allhosts
 :: staticadm.leju.com
 0.0.0.0 staticadm.leju.sina.com.cn
 :: staticadm.leju.sina.com.cn
-0.0.0.0 staticjs.cn
-:: staticjs.cn
 0.0.0.0 statics.8nx7hlj.cn
 :: statics.8nx7hlj.cn
 0.0.0.0 statics.woozooo.com
@@ -15702,8 +15626,6 @@ ff02::3 ip6-allhosts
 :: stats.minexmr.com
 0.0.0.0 stats.nimiq-network.com
 :: stats.nimiq-network.com
-0.0.0.0 stats.nimiq.network
-:: stats.nimiq.network
 0.0.0.0 stats.pflexads.com
 :: stats.pflexads.com
 0.0.0.0 stats.wp.com
@@ -15722,8 +15644,6 @@ ff02::3 ip6-allhosts
 :: stnn.adsame.com
 0.0.0.0 stone.cryptaloot.pro
 :: stone.cryptaloot.pro
-0.0.0.0 stone.cryptoloot.pro
-:: stone.cryptoloot.pro
 0.0.0.0 stone.directprimal.com
 :: stone.directprimal.com
 0.0.0.0 stone.webmine.pro
@@ -15742,8 +15662,6 @@ ff02::3 ip6-allhosts
 :: store.iqiyi.com
 0.0.0.0 store.ptqy.gitv.tv
 :: store.ptqy.gitv.tv
-0.0.0.0 store.videojj.com
-:: store.videojj.com
 0.0.0.0 storm.logger.baofeng.com
 :: storm.logger.baofeng.com
 0.0.0.0 str1kee.com
@@ -15796,24 +15714,14 @@ ff02::3 ip6-allhosts
 :: sub.alisinak.com
 0.0.0.0 sub2.avgle.com
 :: sub2.avgle.com
-0.0.0.0 subdomain-001.smectapop12.pl
-:: subdomain-001.smectapop12.pl
-0.0.0.0 subdomain001.smectapop12.pl
-:: subdomain001.smectapop12.pl
 0.0.0.0 subo.logger.baofeng.com
 :: subo.logger.baofeng.com
-0.0.0.0 sudon.afefw.com
-:: sudon.afefw.com
 0.0.0.0 suedai.com
 :: suedai.com
 0.0.0.0 sugar.zhihu.com
 :: sugar.zhihu.com
 0.0.0.0 sugs.m.sm.cn
 :: sugs.m.sm.cn
-0.0.0.0 sumo.cpufan.club
-:: sumo.cpufan.club
-0.0.0.0 sumo.cryptonoter.com
-:: sumo.cryptonoter.com
 0.0.0.0 sumo.hashvault.pro
 :: sumo.hashvault.pro
 0.0.0.0 sumokoin.crypto-webminer.com
@@ -15842,12 +15750,8 @@ ff02::3 ip6-allhosts
 :: super.cat898.com
 0.0.0.0 super.kdnet.net
 :: super.kdnet.net
-0.0.0.0 superbay.li
-:: superbay.li
 0.0.0.0 superiorcoin.crypto-webminer.com
 :: superiorcoin.crypto-webminer.com
-0.0.0.0 support.2giga.link
-:: support.2giga.link
 0.0.0.0 supportxmr.com
 :: supportxmr.com
 0.0.0.0 survey.miaozhen.com
@@ -15862,10 +15766,6 @@ ff02::3 ip6-allhosts
 :: suvset.sohu.com
 0.0.0.0 sv.liangziweixg.com
 :: sv.liangziweixg.com
-0.0.0.0 svip.shwxtw.com
-:: svip.shwxtw.com
-0.0.0.0 svip.xsmy2.cn
-:: svip.xsmy2.cn
 0.0.0.0 sw.cailawyer.cn
 :: sw.cailawyer.cn
 0.0.0.0 sw.mobile.sogou.com
@@ -15876,20 +15776,14 @@ ff02::3 ip6-allhosts
 :: swanson.ron.si
 0.0.0.0 swappdl.duoyi.com
 :: swappdl.duoyi.com
-0.0.0.0 swappit.tapad.com
-:: swappit.tapad.com
 0.0.0.0 sweetbook.net
 :: sweetbook.net
 0.0.0.0 swiftmining.win
 :: swiftmining.win
 0.0.0.0 sword.directprimal.com
 :: sword.directprimal.com
-0.0.0.0 swpgjai.pop.weddingeeos.com
-:: swpgjai.pop.weddingeeos.com
 0.0.0.0 sws.corel.com
 :: sws.corel.com
-0.0.0.0 swx.domob.cn
-:: swx.domob.cn
 0.0.0.0 sxc.xmrzw.cn
 :: sxc.xmrzw.cn
 0.0.0.0 sxcdn02.now.sh

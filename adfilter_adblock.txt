@@ -1,11 +1,11 @@
-! Checksum: MTU5NjczNTA1NQo=
+! Checksum: MTU5NjczNjk4NAo=
 ! Title: Zhijie's Ad Filter for Adblock
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.3.5-20200806-5
-! TimeUpdated: 2020-08-06T17:30:55+00:00
+! Version: 1.3.5-20200806-6
+! TimeUpdated: 2020-08-06T18:03:04+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 11738
+! Total: 11685
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||000.0x1f4b0.com^
@@ -7538,11 +7538,9 @@
 ||spcdnpc.i-mobile.co.jp^
 ||spcdnsp.i-mobile.co.jp^
 ||spcnv.i-mobile.co.jp^
-||spd.atdmt.com^
 ||spdeliver.i-mobile.co.jp^
 ||spdmg-backend.i-mobile.co.jp^
 ||spdmg.i-mobile.co.jp^
-||spe.atdmt.com^
 ||spinfo.wps.cn^
 ||spnet2-1.i-mobile.co.jp^
 ||spnet33.i-mobile.co.jp^
@@ -7552,15 +7550,12 @@
 ||spro.so.com^
 ||sq1.chinacsky.com^
 ||sq2.chinacsky.com^
-||sqd.jstdjq.com^
 ||sqm.df.telemetry.microsoft.com^
 ||sqm.telemetry.microsoft.com^
 ||sqm.telemetry.microsoft.com.nsatc.net^
-||sqszs.top^
 ||sqtpks3.1391.com^
 ||sqwed.371dk.com^
 ||sr.cookiescript.info^
-||src.duanxin520.com^
 ||src.leju.com^
 ||src.ting76789.cn^
 ||src.zf313.com^
@@ -7568,24 +7563,19 @@
 ||srcip.com^
 ||srcips.com^
 ||srcu.com^
-||srcu.pw^
 ||srd.simba.taobao.com^
 ||sroomafp.allyes.com^
 ||srv.buysellads.com^
 ||srv.carbonads.net^
 ||srv.revdepo.com^
 ||srv01.bitcoiner.win^
-||srv02.bitcoiner.win^
 ||ss.cnczjy.com^
 ||ss.cnnic.cn^
 ||ss.he9630.com^
 ||ss.knet.cn^
 ||ss.missyouxi.com^
-||ss.subo.me^
 ||ss.swagger1.com^
 ||ss.symav.cn^
-||ss.sysad.cn^
-||ss.sysadult.cn^
 ||ss.zzzkxx.com^
 ||ss2p.uuxs.net^
 ||ssac.suning.com^
@@ -7593,53 +7583,37 @@
 ||ssf.51dmn.top^
 ||ssh.aphmn6.cn^
 ||ssh.cralp.cn^
-||ssh.hbhtbn.com^
-||ssh.hxlif.com^
-||ssh.jsyzw132.com^
 ||ssh.lifu11.com^
-||ssh.szxiuchang.com^
 ||ssh.wbdcrmn.cn^
 ||ssh.yezijizhang.com^
 ||ssl-cdn.media.innity.net^
 ||ssl-cdn.static.browser.mi-img.com^
 ||ssl.aszy.club^
-||ssl.bbba8.com^
-||ssl.bbbr8.com^
-||ssl.bsriedu.cn^
 ||ssl.di9qu.com.cn^
 ||ssl.hp-china.biz^
 ||ssl.sitemaji.com^
-||ssl.youkag.com^
 ||ssl.zy3dku.cn^
 ||ssl2.gdqifang.com^
-||ssl86.pjshw.cn^
 ||ssmuse1314.cn^
 ||sso-cas.gridsumdissector.com^
 ||ssp-api.domob.cn^
 ||ssp-bidder.i-mobile.co.jp^
 ||ssp-event.domob.cn^
 ||ssp-rtb.sape.ru^
-||ssp.0531kt.com^
 ||ssp.08160.cn^
 ||ssp.1rtb.com^
 ||ssp.4hw.com.cn^
-||ssp.86str.com^
-||ssp.ad.xiaomi.com^
 ||ssp.adriver.ru^
-||ssp.chaohutechan.com^
 ||ssp.cibn.starschina.com^
 ||ssp.daxueshengqiandai.com^
-||ssp.kjwx8.com^
 ||ssp.kss.ksyun.com^
 ||ssp.pro.cn^
 ||ssp.tadseeker.com^
 ||ssp.tenmax.io^
 ||ssp.youxiaoad.com^
 ||ssp.zf313.com^
-||ssp1.dmpdsp.com^
 ||sspapi.youxiaoad.com^
 ||sspservice.ad-survey.com^
-||sss.cnscdj.com^
 ||sss.iuyhjn.com^
 ||sss.jusha.com^
 ||sss.soarfi.cn^
@@ -7651,11 +7625,9 @@
 ||ssv.admaster.com.cn^
 ||ssxd.mediav.com^
 ||st-n.ads3-adnow.com^
-||st.kjli.fi^
 ||st.yandexadexchange.net^
 ||st.yengo.com^
 ||sta.haloall.com^
-||sta.jcjk0451.com^
 ||stadig.ifeng.com^
 ||stadig0.ifeng.com^
 ||stage.3gmimo.com^
@@ -7673,9 +7645,7 @@
 ||stat.56.com^
 ||stat.58.xgo.com.cn^
 ||stat.adbana.com^
-||stat.adirects.com^
 ||stat.adlabs.ru^
-||stat.baike.com^
 ||stat.bigmir.net^
 ||stat.browser.nearme.com.cn^
 ||stat.cbsi.com.cn^
@@ -7709,7 +7679,6 @@
 ||stat.v.baidu.com^
 ||stat.xgo.com.cn^
 ||stat.xywy.com^
-||stat.yunfan.com^
 ||stat.zbii.com^
 ||stat.zdnet.com.cn^
 ||stat.zhidahao.baidu.com^
@@ -7734,7 +7703,6 @@
 ||static.addtoany.com^
 ||static.ads-twitter.com^
 ||static.adsafeprotected.com^
-||static.adtaily.com^
 ||static.adtimaserver.vn^
 ||static.adwo.com^
 ||static.adxadserv.com^
@@ -7779,7 +7747,6 @@
 ||static.houyi.baofeng.net^
 ||static.img.imagecdn.cn^
 ||static.jebe.renren.com^
-||static.jointreport-switch.com^
 ||static.live.nagezan.net^
 ||static.m.sjzhushou.com^
 ||static.mackeeper.com^
@@ -7787,16 +7754,13 @@
 ||static.mediav.com^
 ||static.novanet.vn^
 ||static.pay.baidu.com^
-||static.reasedoper.pw^
 ||static.sdg-china.com^
-||static.sellbuyshop.cn^
 ||static.snapmobile.asia^
 ||static.sparechange.io^
 ||static.t.agrantsem.com^
 ||static.thefifthera.com^
 ||static.track.58.com^
 ||static.tv508.com^
-||static.tzyiyuantuan.com^
 ||static.uuzu.com^
 ||static.wauee.com^
 ||static.wkanx.com^
@@ -7804,7 +7768,6 @@
 ||static.youmi.net^
 ||static.zctx8.com^
 ||static1.baifendian.com^
-||static1.bfdcdn.com^
 ||static1.f.itc.cn^
 ||static1.freebitco.in^
 ||static2.freebitco.in^
@@ -7816,7 +7779,6 @@
 ||static8.freebitco.in^
 ||staticadm.leju.com^
 ||staticadm.leju.sina.com.cn^
-||staticjs.cn^
 ||statics.8nx7hlj.cn^
 ||statics.woozooo.com^
 ||staticsfs.host^
@@ -7849,7 +7811,6 @@
 ||stats.magicwindow.cn^
 ||stats.minexmr.com^
 ||stats.nimiq-network.com^
-||stats.nimiq.network^
 ||stats.pflexads.com^
 ||stats.wp.com^
 ||status.minexmr.com^
@@ -7859,7 +7820,6 @@
 ||stm-collect.cn.miaozhen.com^
 ||stnn.adsame.com^
 ||stone.cryptaloot.pro^
-||stone.cryptoloot.pro^
 ||stone.directprimal.com^
 ||stone.webmine.pro^
 ||stone2.authcaptcha.com^
@@ -7869,7 +7829,6 @@
 ||storage.adsmogo.com^
 ||store.iqiyi.com^
 ||store.ptqy.gitv.tv^
-||store.videojj.com^
 ||storm.logger.baofeng.com^
 ||str1kee.com^
 ||strategy.beacon.qq.com^
@@ -7896,15 +7855,10 @@
 ||su.bdstatic.com^
 ||sub.alisinak.com^
 ||sub2.avgle.com^
-||subdomain-001.smectapop12.pl^
-||subdomain001.smectapop12.pl^
 ||subo.logger.baofeng.com^
-||sudon.afefw.com^
 ||suedai.com^
 ||sugar.zhihu.com^
 ||sugs.m.sm.cn^
-||sumo.cpufan.club^
-||sumo.cryptonoter.com^
 ||sumo.hashvault.pro^
 ||sumokoin.crypto-webminer.com^
 ||sumokoin.hashvault.pro^
@@ -7919,9 +7873,7 @@
 ||suoooi.cn^
 ||super.cat898.com^
 ||super.kdnet.net^
-||superbay.li^
 ||superiorcoin.crypto-webminer.com^
-||support.2giga.link^
 ||supportxmr.com^
 ||survey.miaozhen.com^
 ||survey.watson.microsoft.com^
@@ -7929,20 +7881,15 @@
 ||susapi.lenovomm.com^
 ||suvset.sohu.com^
 ||sv.liangziweixg.com^
-||svip.shwxtw.com^
-||svip.xsmy2.cn^
 ||sw.cailawyer.cn^
 ||sw.mobile.sogou.com^
 ||swa.gtimg.com^
 ||swanson.ron.si^
 ||swappdl.duoyi.com^
-||swappit.tapad.com^
 ||sweetbook.net^
 ||swiftmining.win^
 ||sword.directprimal.com^
-||swpgjai.pop.weddingeeos.com^
 ||sws.corel.com^
-||swx.domob.cn^
 ||sxc.xmrzw.cn^
 ||sxcdn02.now.sh^
 ||sxcdn03.now.sh^
