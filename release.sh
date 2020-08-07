@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.6
+# Current Version: 1.3.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -72,7 +72,7 @@ function GetData() {
 }
 # Analyse Data
 function AnalyseData() {
-    filter_data=($(cat ./dead_domain.tmp ./filter_white.tmp ../data/data_allow.txt | sed "s/127\.0\.0\.1//g;s/\^$important//g" | tr -d " @^|" | tr "A-Z" "a-z" | grep -E "^(([a-zA-Z]{1})|([a-zA-Z]{1}[a-zA-Z]{1})|([a-zA-Z]{1}[0-9]{1})|([0-9]{1}[a-zA-Z]{1})|([a-zA-Z0-9][-_\.a-zA-Z0-9]{1,61}[a-zA-Z0-9]))\.([a-zA-Z]{2,13}|[a-zA-Z0-9-]{2,30}\.[a-zA-Z]{2,3})$" | sort | uniq > ./filter_allow.tmp && cat ./filter_adblock.tmp ./filter_domain.tmp ./filter_hosts.tmp ../data/data_block.txt | sed "s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" | tr -d " ^|" | tr "A-Z" "a-z" | grep -E "^(([a-zA-Z]{1})|([a-zA-Z]{1}[a-zA-Z]{1})|([a-zA-Z]{1}[0-9]{1})|([0-9]{1}[a-zA-Z]{1})|([a-zA-Z0-9][-_\.a-zA-Z0-9]{1,61}[a-zA-Z0-9]))\.([a-zA-Z]{2,13}|[a-zA-Z0-9-]{2,30}\.[a-zA-Z]{2,3})$" | sort | uniq > ./filter_block.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
+    filter_data=($(cat ./dead_domain.tmp ./filter_white.tmp ../data/data_allow.txt | sed "s/127\.0\.0\.1//g;s/\^$important//g" | tr -d " @^|" | tr "A-Z" "a-z" | grep -E "^([a-z0-9\-\.]+\.[a-z]{2,})$" | sort | uniq > ./filter_allow.tmp && cat ./filter_adblock.tmp ./filter_domain.tmp ./filter_hosts.tmp ../data/data_block.txt | sed "s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" | tr -d " ^|" | tr "A-Z" "a-z" | grep -E "^([a-z0-9\-\.]+\.[a-z]{2,})$" | sort | uniq > ./filter_block.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
 function GenerateInformation() {
