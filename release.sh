@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.3.9
+# Current Version: 1.4.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -19,7 +19,12 @@ function GetData() {
         "https://easylist-downloads.adblockplus.org/easylistchina.txt"
         "https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
         "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
+        "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/14.txt"
         "https://filters.adtidy.org/extension/chromium/filters/224.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+        "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
+        "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt"
         "https://raw.githubusercontent.com/VeleSila/VELE-SILA-List/gh-pages/KaFanList.txt"
         "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
@@ -27,7 +32,11 @@ function GetData() {
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad2.txt"
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt"
+        "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt"
         "https://sub.adtchrome.com/adt-chinalist-easylist.txt"
+        "https://www.fanboy.co.nz/enhancedstats.txt"
+        "https://www.fanboy.co.nz/r/fanboy-complete.txt"
+        "https://www.fanboy.co.nz/r/fanboy-ultimate.txt"
     )
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
