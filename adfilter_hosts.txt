@@ -1,11 +1,11 @@
-# Checksum: MTU5Njk3NDY0MQo=
+# Checksum: MTU5Njk4NTM5MAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.2-20200809-4
-# TimeUpdated: 2020-08-09T12:04:01+00:00
+# Version: 1.4.2-20200809-5
+# TimeUpdated: 2020-08-09T15:03:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 19784
+# Total: 19793
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -830,6 +830,8 @@ ff02::3 ip6-allhosts
 :: 39mob.com
 0.0.0.0 3amall.cn
 :: 3amall.cn
+0.0.0.0 3ce166a7dda.com
+:: 3ce166a7dda.com
 0.0.0.0 3cnce854.com
 :: 3cnce854.com
 0.0.0.0 3djd3.xyz
@@ -868,6 +870,8 @@ ff02::3 ip6-allhosts
 :: 402v.com
 0.0.0.0 404.safedog.cn
 :: 404.safedog.cn
+0.0.0.0 40a9e06f54.com
+:: 40a9e06f54.com
 0.0.0.0 4171764.fls.doubleclick.net
 :: 4171764.fls.doubleclick.net
 0.0.0.0 4232f0badcf.com
@@ -1406,6 +1410,8 @@ ff02::3 ip6-allhosts
 :: 86pqvhdw5wpg.com
 0.0.0.0 86sijiachetuoyun.com
 :: 86sijiachetuoyun.com
+0.0.0.0 877174529a4b77.com
+:: 877174529a4b77.com
 0.0.0.0 87gw0fl0rc11.com
 :: 87gw0fl0rc11.com
 0.0.0.0 88-baidu.com
@@ -1442,6 +1448,8 @@ ff02::3 ip6-allhosts
 :: 8b4pea.c.admaster.com.cn
 0.0.0.0 8b6dfa.v.admaster.com.cn
 :: 8b6dfa.v.admaster.com.cn
+0.0.0.0 8bf8170108e3304.com
+:: 8bf8170108e3304.com
 0.0.0.0 8chzga.v.admaster.com.cn
 :: 8chzga.v.admaster.com.cn
 0.0.0.0 8cnd.com
@@ -3642,6 +3650,8 @@ ff02::3 ip6-allhosts
 :: aecbhedvuibuab.biduo.cc
 0.0.0.0 aecpm.alicdn.com
 :: aecpm.alicdn.com
+0.0.0.0 aelphotog.pro
+:: aelphotog.pro
 0.0.0.0 aeon.crypto-webminer.com
 :: aeon.crypto-webminer.com
 0.0.0.0 aeon.hashvault.pro
@@ -5712,6 +5722,8 @@ ff02::3 ip6-allhosts
 :: b.xcafe.com
 0.0.0.0 b02byun5xc3s.com
 :: b02byun5xc3s.com
+0.0.0.0 b0c3ed25eeaa1.com
+:: b0c3ed25eeaa1.com
 0.0.0.0 b0lc.cn
 :: b0lc.cn
 0.0.0.0 b0omr3wn6u4b.com
@@ -5762,8 +5774,6 @@ ff02::3 ip6-allhosts
 :: b5h7.com
 0.0.0.0 b5qpg.cn
 :: b5qpg.cn
-0.0.0.0 b6.d99sure.xyz
-:: b6.d99sure.xyz
 0.0.0.0 bab.frb.io
 :: bab.frb.io
 0.0.0.0 babalink.net
@@ -7282,6 +7292,8 @@ ff02::3 ip6-allhosts
 :: c3t-system-err.club
 0.0.0.0 c41.clicki.cn
 :: c41.clicki.cn
+0.0.0.0 c47eb0d9cf98.com
+:: c47eb0d9cf98.com
 0.0.0.0 c4dv.copinesdevoyage.com
 :: c4dv.copinesdevoyage.com
 0.0.0.0 c50021876c67fd14.com
@@ -13766,6 +13778,8 @@ ff02::3 ip6-allhosts
 :: fghmc.ga25.com
 0.0.0.0 fgoverhead.club
 :: fgoverhead.club
+0.0.0.0 fhkfffnepwia.com
+:: fhkfffnepwia.com
 0.0.0.0 fhoa365.com
 :: fhoa365.com
 0.0.0.0 fibpeeode.site
@@ -16404,8 +16418,6 @@ ff02::3 ip6-allhosts
 :: iclick.cm.admaster.com.cn
 0.0.0.0 iclickcdn.com
 :: iclickcdn.com
-0.0.0.0 icn.brandnewapp.pro
-:: icn.brandnewapp.pro
 0.0.0.0 icn.southmoney.com
 :: icn.southmoney.com
 0.0.0.0 icon.51.la
@@ -16854,6 +16866,8 @@ ff02::3 ip6-allhosts
 :: imgg.marketgid.com
 0.0.0.0 imgg.mgid.com
 :: imgg.mgid.com
+0.0.0.0 imglnkd.com
+:: imglnkd.com
 0.0.0.0 imgp.cymzc.com
 :: imgp.cymzc.com
 0.0.0.0 imgpak.xyz
@@ -32976,6 +32990,8 @@ ff02::3 ip6-allhosts
 :: ucaii.com
 0.0.0.0 ucbaba.top
 :: ucbaba.top
+0.0.0.0 ucdn.website
+:: ucdn.website
 0.0.0.0 uchaoqiang.top
 :: uchaoqiang.top
 0.0.0.0 ucounter.ucoz.net
@@ -33240,6 +33256,8 @@ ff02::3 ip6-allhosts
 :: uniregistry.com
 0.0.0.0 unjs.jfcdns.com
 :: unjs.jfcdns.com
+0.0.0.0 unkingdiabeth.club
+:: unkingdiabeth.club
 0.0.0.0 unknowlejir.club
 :: unknowlejir.club
 0.0.0.0 unreshiramor.com
@@ -34890,6 +34908,8 @@ ff02::3 ip6-allhosts
 :: wl963.com
 0.0.0.0 wla.vivaldi.com
 :: wla.vivaldi.com
+0.0.0.0 wlbqczk.vip
+:: wlbqczk.vip
 0.0.0.0 wlkpa.cn
 :: wlkpa.cn
 0.0.0.0 wlneteller.adsrv.eacdn.com
@@ -36330,8 +36350,6 @@ ff02::3 ip6-allhosts
 :: www.dero.crypto-webminer.com
 0.0.0.0 www.devappgrant.space
 :: www.devappgrant.space
-0.0.0.0 www.dexpredict.com
-:: www.dexpredict.com
 0.0.0.0 www.dgfggy.com
 :: www.dgfggy.com
 0.0.0.0 www.dianjoy.com
