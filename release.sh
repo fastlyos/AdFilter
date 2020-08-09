@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.0
+# Current Version: 1.4.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -40,10 +40,12 @@ function GetData() {
     )
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt"
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt"
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
     )
     filter_hosts=(
-        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts_browser"
         "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
         "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
         "https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts"
@@ -51,12 +53,17 @@ function GetData() {
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts"
     )
     filter_white=(
+        "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/white_list.txt"
+        "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt"
+        "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
+        "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist"
         "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
         "https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt"
         "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
+        "https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
