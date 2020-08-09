@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.1
+# Current Version: 1.4.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -40,9 +40,7 @@ function GetData() {
     )
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
-        "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt"
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt"
-        "https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_optional.txt"
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
     )
     filter_hosts=(
@@ -53,6 +51,7 @@ function GetData() {
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts"
     )
     filter_white=(
+        "https://easylist-downloads.adblockplus.org/exceptionrules.txt"
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/white_list.txt"
         "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt"
         "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
@@ -193,14 +192,14 @@ function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
         GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
-            echo "${filter_data[$filter_data_task]}" | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/0\.0\.0\.0\ /g;s/$//g" >> ../adfilter_hosts.txt
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/\:\:\ /g;s/$//g" >> ../adfilter_hosts.txt
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/address\ \//g;s/$/\/\#/g" >> ../adfilter_smartdns.conf
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/DOMAIN\-SUFFIX\,/g;s/$//g" >> ../adfilter_surge.txt
-            echo "${filter_data[$filter_data_task]}" | sed "s/^/local\-zone\:\ \"/g;s/$/\.\"\ redirect/g" >> ../adfilter_unbound.conf
+            echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+            echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
+            echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
+            echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+            echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+            echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
+            echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
+            echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
         done
         cd .. && rm -rf ./Temp
         exit 0
@@ -213,14 +212,14 @@ function OutputData() {
         else
             GenerateInformation
             for filter_data_task in "${!filter_data[@]}"; do
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/\|\|/g;s/$/\^/g" >> ../adfilter_adblock.txt
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/address\=\//g;s/$/\//g" >> ../adfilter_dnsmasq.conf
-                echo "${filter_data[$filter_data_task]}" | sed "s/^//g;s/$//g" >> ../adfilter_domains.txt
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/0\.0\.0\.0\ /g;s/$//g" >> ../adfilter_hosts.txt
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/\:\:\ /g;s/$//g" >> ../adfilter_hosts.txt
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/address\ \//g;s/$/\/\#/g" >> ../adfilter_smartdns.conf
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/DOMAIN\-SUFFIX\,/g;s/$//g" >> ../adfilter_surge.txt
-                echo "${filter_data[$filter_data_task]}" | sed "s/^/local\-zone\:\ \"/g;s/$/\.\"\ redirect/g" >> ../adfilter_unbound.conf
+                echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+                echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
+                echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
+                echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+                echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+                echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
+                echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
+                echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
             done
             cd .. && rm -rf ./Temp
             exit 0
