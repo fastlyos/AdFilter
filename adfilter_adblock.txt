@@ -1,11 +1,11 @@
-! Checksum: MTU5NjkzOTI0MAo=
+! Checksum: MTU5Njk0MjE5MQo=
 ! Title: Zhijie's Ad Filter for Adblock
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.4.2-20200809-0
-! TimeUpdated: 2020-08-09T02:14:00+00:00
+! Version: 1.4.2-20200809-1
+! TimeUpdated: 2020-08-09T03:03:11+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 19767
+! Total: 19769
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||001.0x1f4b0.com^
@@ -2158,6 +2158,7 @@
 ||analytics.islamicfinder.org^
 ||analytics.jabong.com^
 ||analytics.jiuzhilan.com^
+||analytics.jst.ai^
 ||analytics.kaggle.io^
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
@@ -2462,6 +2463,7 @@
 ||api.viaxmr.com^
 ||api.viglink.com^
 ||api.w.inmobi.com^
+||api.wfxll.com^
 ||api.wipmania.com^
 ||api.wsq.umeng.com^
 ||api.xiaohuxi.cn^
