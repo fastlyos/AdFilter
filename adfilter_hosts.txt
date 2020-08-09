@@ -1,11 +1,11 @@
-# Checksum: MTU5NjkyMDU4OAo=
+# Checksum: MTU5NjkzMTY1MAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.0-20200808-7
-# TimeUpdated: 2020-08-08T21:03:08+00:00
+# Version: 1.4.0-20200809-0
+# TimeUpdated: 2020-08-09T00:07:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 19970
+# Total: 19976
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7654,6 +7654,8 @@ ff02::3 ip6-allhosts
 :: cctyly.com
 0.0.0.0 ccv.ybt999.com
 :: ccv.ybt999.com
+0.0.0.0 cd-best.cn
+:: cd-best.cn
 0.0.0.0 cd.dabansuan.cn
 :: cd.dabansuan.cn
 0.0.0.0 cd.jejre.cn
@@ -7792,6 +7794,8 @@ ff02::3 ip6-allhosts
 :: cdn.minescripts.info
 0.0.0.0 cdn.mingmingtehui.com
 :: cdn.mingmingtehui.com
+0.0.0.0 cdn.moogos.com
+:: cdn.moogos.com
 0.0.0.0 cdn.mxpnl.com
 :: cdn.mxpnl.com
 0.0.0.0 cdn.nablabee.com
@@ -18184,6 +18188,8 @@ ff02::3 ip6-allhosts
 :: js.xuexila.com
 0.0.0.0 js.xz6d.com
 :: js.xz6d.com
+0.0.0.0 js.yalongrope.cn
+:: js.yalongrope.cn
 0.0.0.0 js.yanyue.cn
 :: js.yanyue.cn
 0.0.0.0 js.yixui.com
@@ -20620,6 +20626,8 @@ ff02::3 ip6-allhosts
 :: m.track.ad.xiaomi.com
 0.0.0.0 m.trb.com
 :: m.trb.com
+0.0.0.0 m.tsgyg.cn
+:: m.tsgyg.cn
 0.0.0.0 m.twldmx.com
 :: m.twldmx.com
 0.0.0.0 m.uc123.com
@@ -24426,6 +24434,8 @@ ff02::3 ip6-allhosts
 :: photo.hfgf32.cn
 0.0.0.0 photo.hgdanbas.cn
 :: photo.hgdanbas.cn
+0.0.0.0 photo.hhmyi.cn
+:: photo.hhmyi.cn
 0.0.0.0 photo.ibeiling.cn
 :: photo.ibeiling.cn
 0.0.0.0 photo.jingxiangyalvji.cn
@@ -33012,6 +33022,8 @@ ff02::3 ip6-allhosts
 :: tscarbornonnae.info
 0.0.0.0 tsensatisee.club
 :: tsensatisee.club
+0.0.0.0 tsgyg.cn
+:: tsgyg.cn
 0.0.0.0 tsis.jpush.cn
 :: tsis.jpush.cn
 0.0.0.0 tsj0.madeindesign.com
