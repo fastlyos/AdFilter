@@ -1,11 +1,11 @@
-# Checksum: MTU5Njk4NTM5MAo=
+# Checksum: MTU5Njk5NjE5MQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.2-20200809-5
-# TimeUpdated: 2020-08-09T15:03:10+00:00
+# Version: 1.4.2-20200809-6
+# TimeUpdated: 2020-08-09T18:03:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 19793
+# Total: 19797
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5148,6 +5148,8 @@ ff02::3 ip6-allhosts
 :: apps.mobilityware.com
 0.0.0.0 appsdk.tanv.com
 :: appsdk.tanv.com
+0.0.0.0 appsflyer.com
+:: appsflyer.com
 0.0.0.0 appsupdate.sinaapp.com
 :: appsupdate.sinaapp.com
 0.0.0.0 appsupport.qq.com
@@ -7776,6 +7778,8 @@ ff02::3 ip6-allhosts
 :: cdn.tanx.com
 0.0.0.0 cdn.tianmidian.com
 :: cdn.tianmidian.com
+0.0.0.0 cdn.tinglian.com
+:: cdn.tinglian.com
 0.0.0.0 cdn.trafficforce.com
 :: cdn.trafficforce.com
 0.0.0.0 cdn.turn.com
@@ -11388,6 +11392,8 @@ ff02::3 ip6-allhosts
 :: dlevisionexpr.site
 0.0.0.0 dlfvgndsdfsn.com
 :: dlfvgndsdfsn.com
+0.0.0.0 dlhygj.com
+:: dlhygj.com
 0.0.0.0 dlimg.lovfp.com
 :: dlimg.lovfp.com
 0.0.0.0 dlkjgjmy.com
@@ -18840,8 +18846,6 @@ ff02::3 ip6-allhosts
 :: lattitudecv.club
 0.0.0.0 latviancedef.site
 :: latviancedef.site
-0.0.0.0 launches.appsflyer.com
-:: launches.appsflyer.com
 0.0.0.0 laurel.macrovision.com
 :: laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
@@ -19836,6 +19840,8 @@ ff02::3 ip6-allhosts
 :: m.649649.com
 0.0.0.0 m.6z1gf.cn
 :: m.6z1gf.cn
+0.0.0.0 m.7180443.com
+:: m.7180443.com
 0.0.0.0 m.74n3a.cn
 :: m.74n3a.cn
 0.0.0.0 m.77vcd.com
@@ -31548,6 +31554,8 @@ ff02::3 ip6-allhosts
 :: thogrypufe.pro
 0.0.0.0 thomagejut.site
 :: thomagejut.site
+0.0.0.0 thomageothe.club
+:: thomageothe.club
 0.0.0.0 thoutiquede.club
 :: thoutiquede.club
 0.0.0.0 thterras.com
