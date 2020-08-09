@@ -1,11 +1,11 @@
-# Checksum: MTU5Njk2MzgwMQo=
+# Checksum: MTU5Njk3NDY0MQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.2-20200809-3
-# TimeUpdated: 2020-08-09T09:03:21+00:00
+# Version: 1.4.2-20200809-4
+# TimeUpdated: 2020-08-09T12:04:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 19777
+# Total: 19784
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -18208,6 +18208,8 @@ ff02::3 ip6-allhosts
 :: junkucm.com
 0.0.0.0 juroudaw.com
 :: juroudaw.com
+0.0.0.0 jusha.com
+:: jusha.com
 0.0.0.0 justickedukil.club
 :: justickedukil.club
 0.0.0.0 justookr.net
@@ -24442,6 +24444,8 @@ ff02::3 ip6-allhosts
 :: pixel.homebook.pl
 0.0.0.0 pixel.honestjohn.co.uk
 :: pixel.honestjohn.co.uk
+0.0.0.0 pixel.ionos.fr
+:: pixel.ionos.fr
 0.0.0.0 pixel.mathtag.com
 :: pixel.mathtag.com
 0.0.0.0 pixel.naij.com
@@ -32924,6 +32928,14 @@ ff02::3 ip6-allhosts
 :: u291014.nr1234.com
 0.0.0.0 u2htfd3bvwvl.com
 :: u2htfd3bvwvl.com
+0.0.0.0 u44.pnc.com
+:: u44.pnc.com
+0.0.0.0 u45.pnc.com
+:: u45.pnc.com
+0.0.0.0 u46.pnc.com
+:: u46.pnc.com
+0.0.0.0 u47.pnc.com
+:: u47.pnc.com
 0.0.0.0 u51.me
 :: u51.me
 0.0.0.0 u6.gg
@@ -33494,6 +33506,8 @@ ff02::3 ip6-allhosts
 :: uts.auction.co.kr
 0.0.0.0 utstancecaricit.info
 :: utstancecaricit.info
+0.0.0.0 uu.85655095.com
+:: uu.85655095.com
 0.0.0.0 uucm.cn
 :: uucm.cn
 0.0.0.0 uue2.destinia.ir
