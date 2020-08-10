@@ -1,11 +1,11 @@
-! Checksum: MTU5NzAzMjA4NQo=
+! Checksum: MTU5NzAzMzAzNwo=
 ! Title: Zhijie's Ad Filter for Adblock
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.4.3-20200810-1
-! TimeUpdated: 2020-08-10T04:01:25+00:00
+! Version: 1.4.4-20200810-1
+! TimeUpdated: 2020-08-10T04:17:17+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 20455
+! Total: 20535
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||001.0x1f4b0.com^
@@ -966,6 +966,7 @@
 ||a.w3techs.com^
 ||a.wanzhuang.com^
 ||a.wifi33.com^
+||a.wkanx.com^
 ||a.xixiyishu.com^
 ||a.xuezizhai.com^
 ||a.xywy.com^
@@ -1089,6 +1090,7 @@
 ||abeaddc65282d465.com^
 ||abeforeign.club^
 ||abeij.com^
+||abema-adx.ameba.jp^
 ||abfirst.cn^
 ||abgligarchan.com^
 ||abie10.top^
@@ -1191,6 +1193,7 @@
 ||actlog.dftoutiao.com^
 ||actsdk.idreamsky.com^
 ||acuityplatform.com^
+||ad-analysis.pconline.com.cn^
 ||ad-android.51wnl.com^
 ||ad-apac.doubleclick.net^
 ||ad-api.cnblogs.com^
@@ -1198,21 +1201,27 @@
 ||ad-beta.flipboard.com^
 ||ad-bg.adwo.com^
 ||ad-brix.com^
+||ad-channel.woyeahgo.tk^
 ||ad-cloud.jp^
+||ad-cn.jovcloud.com^
 ||ad-count.adwo.com^
 ||ad-delivery.net^
+||ad-display.wikawika.xyz^
 ||ad-g.doubleclick.net^
 ||ad-locus.com^
 ||ad-miner.com^
 ||ad-plus.cn^
 ||ad-sdk.aiclk.com^
 ||ad-specs.guoshipartners.com^
+||ad-stat.ksosoft.com^
 ||ad-stir.com^
 ||ad.1111cpc.com^
 ||ad.12306.cn^
 ||ad.1kxun.com^
 ||ad.1ting.com^
+||ad.21cn.com^
 ||ad.3.cn^
+||ad.360in.com^
 ||ad.360yield.com^
 ||ad.363.in^
 ||ad.3dnews.ru^
@@ -1235,6 +1244,7 @@
 ||ad.beihai365.com^
 ||ad.bitmedia.io^
 ||ad.bloggerads.net^
+||ad.bn.netease.com^
 ||ad.bobi.tw^
 ||ad.cacafly.com^
 ||ad.caiyunapp.com^
@@ -1275,6 +1285,7 @@
 ||ad.house365.com^
 ||ad.hpplay.cn^
 ||ad.huajiao.com^
+||ad.hzyoka.com^
 ||ad.ibookstar.com^
 ||ad.ikonke.com^
 ||ad.iloveinterracial.com^
@@ -1285,6 +1296,7 @@
 ||ad.jiemian.com^
 ||ad.jp.doubleclick.net^
 ||ad.jxnews.com.cn^
+||ad.k.21cn.com^
 ||ad.khan.co.kr^
 ||ad.kisscartoon.is^
 ||ad.leadbolt.net^
@@ -1342,6 +1354,7 @@
 ||ad.turn.com^
 ||ad.unimhk.com^
 ||ad.wang502.com^
+||ad.wappalyzer.com^
 ||ad.where.com^
 ||ad.winrar.com.cn^
 ||ad.wretch.cc^
@@ -1450,8 +1463,10 @@
 ||adexchangeguru.com^
 ||adexchangemachine.com^
 ||adexprt.com^
+||adextra.51wnl-cq.com^
 ||adf.dahe.cn^
 ||adfile.caixin.com^
+||adfile.wifi8.com^
 ||adfill.adview.cn^
 ||adfilter.imtt.qq.com^
 ||adform.net^
@@ -1487,6 +1502,7 @@
 ||adimg.mobile.sina.cn^
 ||adimg.uimserv.net^
 ||adimg.uve.weibo.com^
+||adimg.vue.weibo.com^
 ||adimg1.chosun.com^
 ||adimg3.search.naver.net^
 ||adimgs.xici.net^
@@ -1568,6 +1584,7 @@
 ||admob.com^
 ||admob.xiaomi.com^
 ||admon.cn^
+||admonitor.thepaper.cn^
 ||admsapi.businessweekly.com.tw^
 ||admsger.com^
 ||admusicpic.music.126.net^
@@ -1622,8 +1639,10 @@
 ||adrunnr.com^
 ||ads-a.juicyads.com^
 ||ads-banner.1mobile.com^
+||ads-img-qc.xhscdn.com^
 ||ads-trk.vidible.tv^
 ||ads-union.jd.com^
+||ads-video-qc.xhscdn.com^
 ||ads.1mobile.com^
 ||ads.979799777.com^
 ||ads.ad4game.com^
@@ -1636,16 +1655,19 @@
 ||ads.aol.co.uk^
 ||ads.api.vungle.com^
 ||ads.aplus.pptv.com^
+||ads.aplusapi.pptv.com^
 ||ads.b10f.jp^
 ||ads.ccstock.cn^
 ||ads.cdn.rovio.com^
 ||ads.cdn.tvb.com^
 ||ads.ce.cn^
 ||ads.celtra.com^
+||ads.chinadaily.com.cn^
 ||ads.creative-serving.com^
 ||ads.csdn.net^
 ||ads.cyberctm.com^
 ||ads.data.pplive.com^
+||ads.daydaycook.com.cn^
 ||ads.dixcom.com^
 ||ads.doublemax.net^
 ||ads.eu.msn.com^
@@ -1670,6 +1692,7 @@
 ||ads.miidi.net^
 ||ads.mobclix.com^
 ||ads.mobilityware.com^
+||ads.mojicdn.com^
 ||ads.mopub.com^
 ||ads.mp.mydas.mobi^
 ||ads.msn.com^
@@ -1707,6 +1730,7 @@
 ||ads.vipbaihe.com^
 ||ads.voiceads.cn^
 ||ads.vserv.mobi^
+||ads.wakamoment.tk^
 ||ads.waps.cn^
 ||ads.wapx.cn^
 ||ads.wasu.tv^
@@ -1757,6 +1781,7 @@
 ||adsco.re^
 ||adscript.gmarket.co.kr^
 ||adsdk.9imobi.com^
+||adsdk.dmzj.com^
 ||adsdk.yandex.ru^
 ||adse.test.ximalaya.com^
 ||adse.wsa.ximalaya.com^
@@ -1784,6 +1809,7 @@
 ||adservice.sigmob.cn^
 ||adserviceretry.kugou.com^
 ||adsfactor.net^
+||adsfile.bssdlbig.kugou.com^
 ||adsfile.qq.com^
 ||adsfs.oppomobile.com^
 ||adsgroup.qq.com^
@@ -1804,6 +1830,8 @@
 ||adsmarket.com^
 ||adsmart.yicha.cn^
 ||adsmind.apdcdn.tc.qq.com^
+||adsmind.gdtimg.com^
+||adsmind.tc.qq.com^
 ||adsmis.duxiaoman.com^
 ||adsmogo.com^
 ||adsmogo.org^
@@ -1857,6 +1885,7 @@
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||adv.app.qq.com^
+||adv.bandi.so^
 ||adv.ccb.com^
 ||adv.drtuber.com^
 ||adv.fjtv.net^
@@ -1874,6 +1903,8 @@
 ||advert.api.thejoyrun.com^
 ||advert.mting.info^
 ||advertise.1mobile.com^
+||advertise.baicizhan.com^
+||advertise.baicizhan.org^
 ||advertisement.glb.qnniu.com^
 ||advertising.lycos.com^
 ||advertpay.vip.xunlei.com^
@@ -1889,6 +1920,7 @@
 ||adwetec.com^
 ||adwhirl.com^
 ||adworldmedia.com^
+||adx-api.hupu.com^
 ||adx-static.ksosoft.com^
 ||adx.ads.oppomobile.com^
 ||adx.adxglobal.com^
@@ -1900,6 +1932,7 @@
 ||adx.maplehaze.cn^
 ||adx.pro.cn^
 ||adx.xiaodutv.com^
+||adx.yiche.com^
 ||adxadserv.com^
 ||adxhi.com^
 ||adxiaozi.com^
@@ -2464,6 +2497,7 @@
 ||aos.wall.youmi.net^
 ||aoyinn.com^
 ||ap-srv.net^
+||ap.dongqiudi.com^
 ||ap.ksrong.com^
 ||apas.aipai.com^
 ||apdrive.win^
@@ -2628,6 +2662,7 @@
 ||apns.ios.ijinshan.com^
 ||apollo.caixin.com^
 ||apologixopyr.site^
+||app-ad.variflight.com^
 ||app-adforce.jp^
 ||app-analytics-cn.huami.com^
 ||app-analytics.huami.com^
@@ -2691,6 +2726,7 @@
 ||applovin.com^
 ||applvn.com^
 ||appnext-a.akamaihd.net^
+||appnext.hs.llnwd.net^
 ||apppic.yingyongbei.com^
 ||apppv.zol.com.cn^
 ||appresentikv.club^
@@ -3807,6 +3843,7 @@
 ||c1.xcy8.com^
 ||c1313.f28014.cn^
 ||c16cp358.com^
+||c1wx.lianwangtech.com^
 ||c2.58toto.net^
 ||c2.l.qq.com^
 ||c2.popads.net^
@@ -3992,6 +4029,7 @@
 ||cdn.9377ne.com^
 ||cdn.ad.xiaomi.com^
 ||cdn.ad4game.com^
+||cdn.adapi.fotoable.com^
 ||cdn.adikteev.com^
 ||cdn.adinall.com^
 ||cdn.adless.io^
@@ -4271,6 +4309,7 @@
 ||cjhd.mediav.com^
 ||cjhq.baidu.cn^
 ||cjiv.chengjie168.com.cn^
+||cjmkt.com^
 ||cjmob.com^
 ||cjroq.bealge.sogou.com^
 ||ck.houyi.baofeng.net^
@@ -4599,6 +4638,7 @@
 ||codejumps.com^
 ||codenow.cn^
 ||codeonclick.com^
+||codesoftchina.com^
 ||codeym.dictall.com^
 ||cody.services^
 ||coed-d.openx.net^
@@ -5044,6 +5084,7 @@
 ||crocopop.com^
 ||croomskosmos.site^
 ||crosschannel.com^
+||crossoverchina.com^
 ||crowaving.club^
 ||crptgate.com^
 ||crs.baidu.cn^
@@ -5134,6 +5175,7 @@
 ||cwpush.com^
 ||cws-cctv.conviva.com^
 ||cws.conviva.com^
+||cwx.lianwangtech.com^
 ||cx.atdmt.com^
 ||cx.v5cam.com^
 ||cxad.cn^
@@ -5992,6 +6034,7 @@
 ||dna.uol.com.br^
 ||dnhfi5nn2dt67.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
+||dns.jd.com^
 ||dns.m.sm.cn^
 ||dns.ximalaya.com^
 ||dns1.oadz.com^
@@ -6022,6 +6065,7 @@
 ||don.beeppool.org^
 ||donate.crypto-webminer.com^
 ||donconferen.site^
+||dongmansoft.com^
 ||dongyihongbei.com^
 ||dooptoug.net^
 ||door2new.net^
@@ -6190,6 +6234,7 @@
 ||duanat.com^
 ||dubkenduo.com^
 ||duchoono.com^
+||duclick.baidu.com^
 ||dudleynews-gb.dudleynews.co.uk^
 ||dudm.qingsj.cn^
 ||dudug.cn^
@@ -6476,6 +6521,7 @@
 ||eap.enorth.com.cn^
 ||eardewova.com^
 ||earlinggea.info^
+||earmasterchina.cn^
 ||earnbigo.com^
 ||earnify.com^
 ||earsawclearnph.site^
@@ -6658,6 +6704,7 @@
 ||emily.nimiq-network.com^
 ||emjs.mkzhan.com^
 ||emkfl.com^
+||emma-414870e223.huodonghezi.com^
 ||emmettperson.pro^
 ||emng.libero.it^
 ||emolapnay.com^
@@ -7208,6 +7255,7 @@
 ||float.kankan.com^
 ||flophous.cf^
 ||flowcodeapp.com^
+||flowplus.meituan.net^
 ||flowwiththetide.xyz^
 ||flstudiochina.com^
 ||flunion.cn^
@@ -7250,6 +7298,7 @@
 ||formany.club^
 ||forms.windowsitpro.com^
 ||formulawire.com^
+||formysql.com^
 ||forrealzpiratebay.org^
 ||fortpush.com^
 ||fortrader.ru^
@@ -8505,11 +8554,14 @@
 ||iacpromotion.s3.amazonaws.com^
 ||iad.e.360.cn^
 ||iad.g.163.com^
+||iad0ssl.pcauto.com.cn^
+||iad0ssl.pconline.com.cn^
 ||iadc.qwapi.com^
 ||iadctest.qwapi.com^
 ||iadmat.nosdn.127.net^
 ||iadmatvideo.nosdn.127.net^
 ||iadmusicmat.music.126.net^
+||iadmusicmatvideo.music.126.net^
 ||ialgregarderol.fun^
 ||iangs.com^
 ||ianisedover.info^
@@ -8670,6 +8722,7 @@
 ||img.apnanalytics.com^
 ||img.applovin.com^
 ||img.atdmt.com^
+||img.auction-ads.wpscdn.cn^
 ||img.chengruide.com^
 ||img.cmm.xmfish.com^
 ||img.czywssj.com^
@@ -8751,6 +8804,7 @@
 ||img9.3393.com^
 ||imgad.thepaper.cn^
 ||imgad0.3conline.com^
+||imgad0.pcauto.com.cn^
 ||imgad0.pconline.com.cn^
 ||imgadpai.thepaper.cn^
 ||imgadsame.liba.com^
@@ -8999,6 +9053,7 @@
 ||it.cookiescript.info^
 ||it5.cc^
 ||it760.com^
+||itad.linetv.tw^
 ||itaoxiaoshuo.com^
 ||item.mediav.com^
 ||itemccmod.com^
@@ -9019,6 +9074,7 @@
 ||iutr.uozwys.top^
 ||ivy.pcauto.com.cn^
 ||ivy.pcbaby.com.cn^
+||ivy.pchouse.com.cn^
 ||ivy.pclady.com.cn^
 ||ivy.pconline.com.cn^
 ||iwa.iplsc.com^
@@ -9062,6 +9118,7 @@
 ||j6y54.xyz^
 ||j6yh5.xyz^
 ||j7rzxe098g5m.com^
+||ja.chushou.tv^
 ||ja.gamersky.com^
 ||ja9377.com^
 ||jack.okkkk.com^
@@ -9596,6 +9653,7 @@
 ||kg962.cn^
 ||kgcj00.cn^
 ||kgmobilestat.kugou.com^
+||kgmobilestatbak.kugou.com^
 ||khg97644rvbg.com^
 ||khgj.cn^
 ||khrtac.xiangha.com^
@@ -9696,6 +9754,7 @@
 ||kuaikaiapp.com^
 ||kuaikan.netmon.360safe.com^
 ||kuaishang.cn^
+||kuaizip.com^
 ||kualianyingxiao.cn^
 ||kucent.com^
 ||kuchebraska.com^
@@ -10041,6 +10100,7 @@
 ||loftygreater.com^
 ||log-dmp.suishenyun.cn^
 ||log-stats.weathercn.com^
+||log-yex.youdao.com^
 ||log.120ask.com^
 ||log.51cto.com^
 ||log.51network.com^
@@ -10123,6 +10183,7 @@
 ||log.webnovel.com^
 ||log.wilmaa.com^
 ||log.worldsoft-cms.info^
+||log.ycapp.yiche.com^
 ||log.yex.youdao.com^
 ||log.zongheng.com^
 ||log1.17173.com^
@@ -10241,6 +10302,7 @@
 ||luoshenbest.cn^
 ||luotediao.net^
 ||luoyuanedu.cn^
+||luping.net.cn^
 ||lupoot.com^
 ||lutachechu.pro^
 ||lutsoops.net^
@@ -10760,6 +10822,7 @@
 ||madnetex.com^
 ||madplypie.club^
 ||mads.amazon-adsystem.com^
+||mads.suning.com^
 ||madsans.com^
 ||madsecz.com^
 ||madx.flyme.cn^
@@ -11101,6 +11164,8 @@
 ||mimpiphy.net^
 ||minanjiaoyu.com^
 ||mindmanager.cc^
+||mindmanager.cn^
+||mindmapper.cc^
 ||mine.gay-hotvideo.net^
 ||mine.nahnoji.cz^
 ||mine.terorie.com^
@@ -11387,6 +11452,7 @@
 ||moonify.io^
 ||moontuftboy.com^
 ||moonwish.com.cn^
+||mopnativeadv.037201.com^
 ||mopushy.com^
 ||moquanad.com^
 ||moradu.com^
@@ -11627,6 +11693,7 @@
 ||nashlin.top^
 ||natesbiscussi.club^
 ||nathetsof.com^
+||nativeadv.dftoutiao.com^
 ||nativeapp.toutiao.com^
 ||natorpression.fun^
 ||natqs.bealge.sogou.com^
@@ -11782,6 +11849,7 @@
 ||ni87.com^
 ||nibzitgas.com^
 ||nice.kuaizq.com^
+||nicelabel.cc^
 ||nicevideos.xyz^
 ||nicorette.co.kr^
 ||niebrundveepursuede.info^
@@ -11944,6 +12012,7 @@
 ||ntalker.com^
 ||ntedporchite.info^
 ||ntentifycom.club^
+||ntfsformac.cc^
 ||ntfsformac.cn^
 ||ntowcested.info^
 ||ntpddq.com^
@@ -12175,6 +12244,7 @@
 ||optimized-by.rubiconproject.com^
 ||optimizelyapis.com^
 ||optimus-ads.amap.com^
+||optimus-ads.amap.com.w.alikunlun.com^
 ||optimus.ipinyou.com^
 ||opus.analytics.yahoo.com^
 ||oratedencourse.info^
@@ -12201,6 +12271,7 @@
 ||osc.uranus.sogou.com^
 ||osd.oxygem.it^
 ||oselyprepartie.info^
+||oset-api.open-adx.com^
 ||osfota.cdn.aliyun.com^
 ||ositoretoko.club^
 ||osmondards.pro^
@@ -12244,6 +12315,7 @@
 ||overnmentsv.club^
 ||overnmenty.club^
 ||overribleintena.info^
+||overturechina.com^
 ||ovk2cuebg77t.com^
 ||ovyiakt1wzqz.com^
 ||owedinternslt.space^
@@ -12424,6 +12496,7 @@
 ||passeseuro.com^
 ||passport-log.youku.com^
 ||passtechusa.com^
+||passwordrecovery.cn^
 ||pasturecompelscreen.com^
 ||path.qidian.com^
 ||patriot.cs.pp.cn^
@@ -12537,6 +12610,7 @@
 ||pg.xdrig.com^
 ||pg88cdn.com^
 ||pgdt.gtimg.cn^
+||pgdt.gtimg.com^
 ||pgdt.ugdtimg.com^
 ||pgradualirelev.info^
 ||pgs.aviationweek.com^
@@ -12577,6 +12651,7 @@
 ||photo.yishuhuanbao.cn^
 ||photo.yxslt.cn^
 ||photobucket.adnxs.com^
+||photozoomchina.com^
 ||phovihopy.pro^
 ||phpad.cqnews.net^
 ||phsism.com^
@@ -13594,6 +13669,7 @@
 ||regarden.club^
 ||regardianpleast.site^
 ||regislandery.club^
+||regist.fotoable.com^
 ||registration.presonus.com^
 ||reimpromot.fun^
 ||rek.www.wp.pl^
@@ -15132,6 +15208,7 @@
 ||spentalwithinga.info^
 ||sperans-beactor.com^
 ||spinfo.wps.cn^
+||splashqqlive.gtimg.com^
 ||spnet2-1.i-mobile.co.jp^
 ||spnet33.i-mobile.co.jp^
 ||spo7h3ktdvy5.com^
@@ -15918,6 +15995,7 @@
 ||szrk3.com^
 ||szshouzhai.com^
 ||sztbjs.com^
+||t-ads.xiaohongshu.com^
 ||t-ak.hulu.com^
 ||t-e.flyme.cn^
 ||t-flow.flyme.cn^
@@ -20240,6 +20318,7 @@
 ||zazkkk.com^
 ||zbetter.org^
 ||zbieo.com^
+||zbrushcn.com^
 ||zbsybh.cn^
 ||zcand.com^
 ||zcjvqfbl1toyemvm.pro^
@@ -20380,6 +20459,7 @@
 ||zro56hd6szoy.com^
 ||zroundancez.site^
 ||zrw1.destinia.jp^
+||zryydi.com^
 ||zs.dhl.de^
 ||zs1.cnzz.com^
 ||zs10.cnzz.com^
