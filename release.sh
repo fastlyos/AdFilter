@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.5
+# Current Version: 1.4.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -44,15 +44,20 @@ function GetData() {
         "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt"
     )
     filter_hosts=(
+        "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts"
+        "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
         "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
         "https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts"
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
-        "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts"
+        "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts"
     )
     filter_other=(
         "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"
         "https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Advertising.list"
+        "https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list"
         "https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list"
+        "https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list"
     )
     filter_white=(
         "https://easylist-downloads.adblockplus.org/exceptionrules.txt"
