@@ -1,11 +1,11 @@
-# Checksum: MTU5NzA2MTA0OQo=
+# Checksum: MTU5NzA3MTg0NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.6-20200810-4
-# TimeUpdated: 2020-08-10T12:04:09+00:00
+# Version: 1.4.6-20200810-5
+# TimeUpdated: 2020-08-10T15:04:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21654
+# Total: 21665
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -138,6 +138,8 @@ ff02::3 ip6-allhosts
 :: 0cf40a2064ce2.com
 0.0.0.0 0ci.top
 :: 0ci.top
+0.0.0.0 0d20bff8143.com
+:: 0d20bff8143.com
 0.0.0.0 0fwg.cn
 :: 0fwg.cn
 0.0.0.0 0klxjejyxak3.com
@@ -414,6 +416,8 @@ ff02::3 ip6-allhosts
 :: 123ppk.com
 0.0.0.0 1244.chushoushijian.cn
 :: 1244.chushoushijian.cn
+0.0.0.0 1280eda098.com
+:: 1280eda098.com
 0.0.0.0 12bt.info
 :: 12bt.info
 0.0.0.0 12cdee5830.com
@@ -3606,6 +3610,8 @@ ff02::3 ip6-allhosts
 :: ads-banner.1mobile.com
 0.0.0.0 ads-img-qc.xhscdn.com
 :: ads-img-qc.xhscdn.com
+0.0.0.0 ads-sg.tiktok.com
+:: ads-sg.tiktok.com
 0.0.0.0 ads-trk.vidible.tv
 :: ads-trk.vidible.tv
 0.0.0.0 ads-union.jd.com
@@ -4854,6 +4860,8 @@ ff02::3 ip6-allhosts
 :: analytics-production.hapyak.com
 0.0.0.0 analytics-scripts.cablelabs.com
 :: analytics-scripts.cablelabs.com
+0.0.0.0 analytics-sg.tiktok.com
+:: analytics-sg.tiktok.com
 0.0.0.0 analytics-union.xunlei.com
 :: analytics-union.xunlei.com
 0.0.0.0 analytics.163.com
@@ -7248,6 +7256,8 @@ ff02::3 ip6-allhosts
 :: beeashale.club
 0.0.0.0 beegotou.net
 :: beegotou.net
+0.0.0.0 beenmeekwarmth.casa
+:: beenmeekwarmth.casa
 0.0.0.0 beeppool.org
 :: beeppool.org
 0.0.0.0 beerto.cn
@@ -15468,6 +15478,8 @@ ff02::3 ip6-allhosts
 :: flvs7ql3l6.com
 0.0.0.0 flwja.com
 :: flwja.com
+0.0.0.0 flxargtrgwt.com
+:: flxargtrgwt.com
 0.0.0.0 flyigouwu.com
 :: flyigouwu.com
 0.0.0.0 fm.ipinyou.com
@@ -16156,6 +16168,8 @@ ff02::3 ip6-allhosts
 :: gazetteseries-gb.gazetteseries.co.uk
 0.0.0.0 gb.corp.163.com
 :: gb.corp.163.com
+0.0.0.0 gb686.cn
+:: gb686.cn
 0.0.0.0 gbeik.com
 :: gbeik.com
 0.0.0.0 gbr-eri-c1-s1.inf.nimiq.network
@@ -20588,6 +20602,8 @@ ff02::3 ip6-allhosts
 :: kgmobilestat.kugou.com
 0.0.0.0 kgmobilestatbak.kugou.com
 :: kgmobilestatbak.kugou.com
+0.0.0.0 kgqhtakjphgdwg.com
+:: kgqhtakjphgdwg.com
 0.0.0.0 khg97644rvbg.com
 :: khg97644rvbg.com
 0.0.0.0 khgj.cn
@@ -23716,6 +23732,8 @@ ff02::3 ip6-allhosts
 :: mgsue.cn
 0.0.0.0 mgtv-bbqn.oss-cn-beijing.aliyuncs.com
 :: mgtv-bbqn.oss-cn-beijing.aliyuncs.com
+0.0.0.0 mgwcn.com
+:: mgwcn.com
 0.0.0.0 mgzs.cdn.bcebos.com
 :: mgzs.cdn.bcebos.com
 0.0.0.0 mhd.1391.com
@@ -36800,6 +36818,8 @@ ff02::3 ip6-allhosts
 :: urls.api.twitter.com
 0.0.0.0 urltracker.yunfancdn.com
 :: urltracker.yunfancdn.com
+0.0.0.0 urnawareflan.com
+:: urnawareflan.com
 0.0.0.0 urs.zdnet.com
 :: urs.zdnet.com
 0.0.0.0 urtracker.q-sis.de
@@ -42396,6 +42416,8 @@ ff02::3 ip6-allhosts
 :: yizhenya.com
 0.0.0.0 yizhijin.cn
 :: yizhijin.cn
+0.0.0.0 yjegf.com
+:: yjegf.com
 0.0.0.0 yjiaj.com
 :: yjiaj.com
 0.0.0.0 yjtag.yahoo.co.jp
