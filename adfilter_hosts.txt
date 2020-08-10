@@ -1,11 +1,11 @@
-# Checksum: MTU5NzA4MjYwNQo=
+# Checksum: MTU5NzA5MzM5Nwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.6-20200810-6
-# TimeUpdated: 2020-08-10T18:03:25+00:00
+# Version: 1.4.6-20200810-7
+# TimeUpdated: 2020-08-10T21:03:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21673
+# Total: 21682
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1840,6 +1840,8 @@ ff02::3 ip6-allhosts
 :: 99tianxin.com
 0.0.0.0 99tuan.com.cn
 :: 99tuan.com.cn
+0.0.0.0 9a6wb.cn
+:: 9a6wb.cn
 0.0.0.0 9ads.net
 :: 9ads.net
 0.0.0.0 9buo.com
@@ -12160,6 +12162,8 @@ ff02::3 ip6-allhosts
 :: ddhuangchao.com
 0.0.0.0 dditingwetlan.site
 :: dditingwetlan.site
+0.0.0.0 ddivisitdiffi.club
+:: ddivisitdiffi.club
 0.0.0.0 ddl.3g567.com
 :: ddl.3g567.com
 0.0.0.0 ddomm.com
@@ -17918,6 +17922,8 @@ ff02::3 ip6-allhosts
 :: hui.sohu.com
 0.0.0.0 huichuan.sm.cn
 :: huichuan.sm.cn
+0.0.0.0 huician.cn
+:: huician.cn
 0.0.0.0 huid.ad.360.cn
 :: huid.ad.360.cn
 0.0.0.0 huishenghuiying.com
@@ -19270,6 +19276,8 @@ ff02::3 ip6-allhosts
 :: ishowbg.com
 0.0.0.0 ishowms.com
 :: ishowms.com
+0.0.0.0 isiblenorm.club
+:: isiblenorm.club
 0.0.0.0 iskyworker.com
 :: iskyworker.com
 0.0.0.0 issuecdn.baidupcs.com
@@ -22786,6 +22794,8 @@ ff02::3 ip6-allhosts
 :: m.sosjyx.com
 0.0.0.0 m.srrux.com
 :: m.srrux.com
+0.0.0.0 m.suehy.com
+:: m.suehy.com
 0.0.0.0 m.sxkecaiwenhua.cn
 :: m.sxkecaiwenhua.cn
 0.0.0.0 m.symab.cn
@@ -27688,6 +27698,8 @@ ff02::3 ip6-allhosts
 :: practivelizar.club
 0.0.0.0 practthreat.club
 :: practthreat.club
+0.0.0.0 praganytu.club
+:: praganytu.club
 0.0.0.0 prazpf.cn
 :: prazpf.cn
 0.0.0.0 prc.rjje4.com
@@ -30754,6 +30766,8 @@ ff02::3 ip6-allhosts
 :: scontainstrep.club
 0.0.0.0 scontent.services.tvn.pl
 :: scontent.services.tvn.pl
+0.0.0.0 scotlandon.club
+:: scotlandon.club
 0.0.0.0 scottagesyu.club
 :: scottagesyu.club
 0.0.0.0 scounter.rambler.ru
@@ -37466,6 +37480,8 @@ ff02::3 ip6-allhosts
 :: vip.pai76.com
 0.0.0.0 vip.qqxwf.com
 :: vip.qqxwf.com
+0.0.0.0 vip.sc386.com
+:: vip.sc386.com
 0.0.0.0 vip.shuma2.com
 :: vip.shuma2.com
 0.0.0.0 vip.syda2015.com
@@ -40966,6 +40982,8 @@ ff02::3 ip6-allhosts
 :: www.umiwi.com
 0.0.0.0 www.unionsy.com
 :: www.unionsy.com
+0.0.0.0 www.uoldid.ru
+:: www.uoldid.ru
 0.0.0.0 www.update-your-pc.info
 :: www.update-your-pc.info
 0.0.0.0 www.upload.crypto-webminer.com
