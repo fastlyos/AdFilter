@@ -1,11 +1,11 @@
-# Checksum: MTU5NzA1MzgzMQo=
+# Checksum: MTU5NzA2MTA0OQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.6-20200810-3
-# TimeUpdated: 2020-08-10T10:03:51+00:00
+# Version: 1.4.6-20200810-4
+# TimeUpdated: 2020-08-10T12:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21650
+# Total: 21654
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6636,6 +6636,8 @@ ff02::3 ip6-allhosts
 :: badjs.weixinbridge.com
 0.0.0.0 badsbads.com
 :: badsbads.com
+0.0.0.0 badsims.com
+:: badsims.com
 0.0.0.0 badskies.com
 :: badskies.com
 0.0.0.0 badskis.com
@@ -9314,6 +9316,8 @@ ff02::3 ip6-allhosts
 :: clearadnetwork.com
 0.0.0.0 clearant.club
 :: clearant.club
+0.0.0.0 clearlies.club
+:: clearlies.club
 0.0.0.0 clewx.com
 :: clewx.com
 0.0.0.0 clgserv.pro
@@ -25958,6 +25962,8 @@ ff02::3 ip6-allhosts
 :: onstunkyr.com
 0.0.0.0 onwaysebuj.site
 :: onwaysebuj.site
+0.0.0.0 onysociate.club
+:: onysociate.club
 0.0.0.0 ooniu.com
 :: ooniu.com
 0.0.0.0 ooo.0o0.ooo
@@ -32024,6 +32030,8 @@ ff02::3 ip6-allhosts
 :: southwestfarmer-gb.southwestfarmer.co.uk
 0.0.0.0 sovernment.club
 :: sovernment.club
+0.0.0.0 sovieashlig.club
+:: sovieashlig.club
 0.0.0.0 soza6rsz3ezi.com
 :: soza6rsz3ezi.com
 0.0.0.0 sp-mms.weather.com
