@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.2
+# Current Version: 1.4.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -50,6 +50,11 @@ function GetData() {
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/basic/hosts"
     )
+    filter_other=(
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"
+        "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list"
+        "https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list"
+    )
     filter_white=(
         "https://easylist-downloads.adblockplus.org/exceptionrules.txt"
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/white_list.txt"
@@ -81,13 +86,16 @@ function GetData() {
     for filter_hosts_task in "${!filter_hosts[@]}"; do
         curl -s --connect-timeout 15 "${filter_hosts[$filter_hosts_task]}" >> ./filter_hosts.tmp
     done
+    for filter_other_task in "${!filter_other[@]}"; do
+        curl -s --connect-timeout 15 "${filter_other[$filter_other_task]}" >> ./filter_other.tmp
+    done
     for filter_white_task in "${!filter_white[@]}"; do
         curl -s --connect-timeout 15 "${filter_white[$filter_white_task]}" >> ./filter_white.tmp
     done
 }
 # Analyse Data
 function AnalyseData() {
-    filter_data=($(cat ./dead_domain.tmp ./filter_white.tmp ../data/data_allow.txt | sed "s/127\.0\.0\.1//g;s/\^\$important//g" | tr -d " @^|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./filter_allow.tmp && cat ./filter_adblock.tmp ./filter_domain.tmp ./filter_hosts.tmp ../data/data_block.txt | sed "s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g" | tr -d " ^|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./filter_block.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
+    filter_data=($(cat ./dead_domain.tmp ./filter_white.tmp ../data/data_allow.txt | sed "s/127\.0\.0\.1//g;s/\^\$important//g" | tr -d " @^|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./filter_allow.tmp && cat ./filter_adblock.tmp ./filter_domain.tmp ./filter_hosts.tmp ./filter_other.tmp ../data/data_block.txt | sed "s/0\.0\.0\.0//g;s/127\.0\.0\.1//g;s/\:\:1//g;s/\:\://g;s/DOMAIN\-SUFFIX\,//g" | tr -d " ^|" | tr "A-Z" "a-z" | grep -E "^(([a-z]{1})|([a-z]{1}[a-z]{1})|([a-z]{1}[0-9]{1})|([0-9]{1}[a-z]{1})|([a-z0-9][-_\.a-z0-9]{1,61}[a-z0-9]))\.([a-z]{2,13}|[a-z0-9-]{2,30}\.[a-z]{2,3})$" | sort | uniq > ./filter_block.tmp && awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
 function GenerateInformation() {
