@@ -1,11 +1,11 @@
-# Checksum: MTU5NzA3MTg0NAo=
+# Checksum: MTU5NzA4MjYwNQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.6-20200810-5
-# TimeUpdated: 2020-08-10T15:04:04+00:00
+# Version: 1.4.6-20200810-6
+# TimeUpdated: 2020-08-10T18:03:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21665
+# Total: 21673
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2288,6 +2288,8 @@ ff02::3 ip6-allhosts
 :: a6.codejumps.com
 0.0.0.0 a6.taobanapp.com
 :: a6.taobanapp.com
+0.0.0.0 a6.wechatpu.com
+:: a6.wechatpu.com
 0.0.0.0 a6x4effomlxe.com
 :: a6x4effomlxe.com
 0.0.0.0 a751.oadz.com
@@ -10760,6 +10762,8 @@ ff02::3 ip6-allhosts
 :: cqftonline.com
 0.0.0.0 cqjjlsy.com
 :: cqjjlsy.com
+0.0.0.0 cqlxscdc.top
+:: cqlxscdc.top
 0.0.0.0 cqsta.com
 :: cqsta.com
 0.0.0.0 cqyhd.com
@@ -15644,6 +15648,8 @@ ff02::3 ip6-allhosts
 :: freecodecs.us.intellitxt.com
 0.0.0.0 freecontent.bid
 :: freecontent.bid
+0.0.0.0 freecontent.com
+:: freecontent.com
 0.0.0.0 freecontent.date
 :: freecontent.date
 0.0.0.0 freecontent.net
@@ -17658,6 +17664,8 @@ ff02::3 ip6-allhosts
 :: hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
 :: hm3.cnzz.com
+0.0.0.0 hmcvs.cn
+:: hmcvs.cn
 0.0.0.0 hmma.baidu.cn
 :: hmma.baidu.cn
 0.0.0.0 hmmob.com
@@ -21286,6 +21294,8 @@ ff02::3 ip6-allhosts
 :: lift.acquia.com
 0.0.0.0 lifu11.com
 :: lifu11.com
+0.0.0.0 lifuguan.cn
+:: lifuguan.cn
 0.0.0.0 lifuzhubao.com
 :: lifuzhubao.com
 0.0.0.0 light.browsermine.com
@@ -22106,6 +22116,8 @@ ff02::3 ip6-allhosts
 :: m.56fba.cn
 0.0.0.0 m.58xs.tw
 :: m.58xs.tw
+0.0.0.0 m.5d63b.cn
+:: m.5d63b.cn
 0.0.0.0 m.5s7uo.cn
 :: m.5s7uo.cn
 0.0.0.0 m.5vst8h.cn
@@ -22210,6 +22222,8 @@ ff02::3 ip6-allhosts
 :: m.beidian.com
 0.0.0.0 m.bgaix.com
 :: m.bgaix.com
+0.0.0.0 m.bgcse.cn
+:: m.bgcse.cn
 0.0.0.0 m.biduo.cc
 :: m.biduo.cc
 0.0.0.0 m.biquge5200.cc
@@ -23572,6 +23586,8 @@ ff02::3 ip6-allhosts
 :: meng.360zuowen.com
 0.0.0.0 meng1216.com
 :: meng1216.com
+0.0.0.0 mengbli.com
+:: mengbli.com
 0.0.0.0 menghuanzs.com
 :: menghuanzs.com
 0.0.0.0 mengmob.com
