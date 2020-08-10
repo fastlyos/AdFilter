@@ -1,11 +1,11 @@
-# Checksum: MTU5NzAxODA2Mwo=
+# Checksum: MTU5NzAyODYwMwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.2-20200810-0
-# TimeUpdated: 2020-08-10T00:07:43+00:00
+# Version: 1.4.2-20200810-1
+# TimeUpdated: 2020-08-10T03:03:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 19808
+# Total: 19811
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1792,6 +1792,8 @@ ff02::3 ip6-allhosts
 :: a.mianbao99.com
 0.0.0.0 a.miyudaquan.top
 :: a.miyudaquan.top
+0.0.0.0 a.mjlnbx.cn
+:: a.mjlnbx.cn
 0.0.0.0 a.mobify.com
 :: a.mobify.com
 0.0.0.0 a.n8n7.me
@@ -2136,6 +2138,8 @@ ff02::3 ip6-allhosts
 :: abie9.top
 0.0.0.0 ablen01.tk
 :: ablen01.tk
+0.0.0.0 ablen02.tk
+:: ablen02.tk
 0.0.0.0 ablen03.tk
 :: ablen03.tk
 0.0.0.0 ablen05.tk
@@ -2658,8 +2662,6 @@ ff02::3 ip6-allhosts
 :: ad7.bigmir.net
 0.0.0.0 ad7.com
 :: ad7.com
-0.0.0.0 ad7.tagphi.net
-:: ad7.tagphi.net
 0.0.0.0 ad9377.com
 :: ad9377.com
 0.0.0.0 ada.baidu.com
@@ -4854,8 +4856,6 @@ ff02::3 ip6-allhosts
 :: api.iplay.163.com
 0.0.0.0 api.itaoxiaoshuo.com
 :: api.itaoxiaoshuo.com
-0.0.0.0 api.ketedata.com
-:: api.ketedata.com
 0.0.0.0 api.ktplay.com
 :: api.ktplay.com
 0.0.0.0 api.kwaizt.com
@@ -5778,8 +5778,6 @@ ff02::3 ip6-allhosts
 :: b5h7.com
 0.0.0.0 b5qpg.cn
 :: b5qpg.cn
-0.0.0.0 b6.d99sure.xyz
-:: b6.d99sure.xyz
 0.0.0.0 bab.frb.io
 :: bab.frb.io
 0.0.0.0 babalink.net
@@ -13088,6 +13086,8 @@ ff02::3 ip6-allhosts
 :: erswhenede.info
 0.0.0.0 ertainstreated.fun
 :: ertainstreated.fun
+0.0.0.0 ertmained.club
+:: ertmained.club
 0.0.0.0 erversarycompa.info
 :: erversarycompa.info
 0.0.0.0 es.cookiescript.info
@@ -16502,6 +16502,8 @@ ff02::3 ip6-allhosts
 :: ientribalintri.club
 0.0.0.0 ieonline.microsoft.com
 :: ieonline.microsoft.com
+0.0.0.0 iewad.net
+:: iewad.net
 0.0.0.0 if-yn.com
 :: if-yn.com
 0.0.0.0 if.mingxing.qq.com
@@ -18534,6 +18536,8 @@ ff02::3 ip6-allhosts
 :: kk7kk.com
 0.0.0.0 kk99.co
 :: kk99.co
+0.0.0.0 kkk.lichaoliang.com
+:: kkk.lichaoliang.com
 0.0.0.0 kkpgv.kankan.com
 :: kkpgv.kankan.com
 0.0.0.0 kkpgv2.kankan.com
@@ -22148,6 +22152,8 @@ ff02::3 ip6-allhosts
 :: msspsvr.emarbox.com
 0.0.0.0 mstat.zol.com.cn
 :: mstat.zol.com.cn
+0.0.0.0 msttz.tst98.com
+:: msttz.tst98.com
 0.0.0.0 msuik.cn
 :: msuik.cn
 0.0.0.0 msujd.cn
@@ -29454,8 +29460,6 @@ ff02::3 ip6-allhosts
 :: st.linkfire.com
 0.0.0.0 st.tmgrup.com.tr
 :: st.tmgrup.com.tr
-0.0.0.0 st.vq.ku6.cn
-:: st.vq.ku6.cn
 0.0.0.0 st.yandexadexchange.net
 :: st.yandexadexchange.net
 0.0.0.0 st.yengo.com
@@ -29878,6 +29882,8 @@ ff02::3 ip6-allhosts
 :: staticadm.leju.sina.com.cn
 0.0.0.0 statics.8nx7hlj.cn
 :: statics.8nx7hlj.cn
+0.0.0.0 statics.9669.com
+:: statics.9669.com
 0.0.0.0 statics.woozooo.com
 :: statics.woozooo.com
 0.0.0.0 staticsfs.host
@@ -30438,8 +30444,6 @@ ff02::3 ip6-allhosts
 :: sunnimiq.cf
 0.0.0.0 sunnimiq1.cf
 :: sunnimiq1.cf
-0.0.0.0 sunnimiq2.cf
-:: sunnimiq2.cf
 0.0.0.0 sunnimiq3.cf
 :: sunnimiq3.cf
 0.0.0.0 sunnimiq4.cf
@@ -33316,8 +33320,6 @@ ff02::3 ip6-allhosts
 :: uoyrsd.com
 0.0.0.0 up.cm.ksmobile.com
 :: up.cm.ksmobile.com
-0.0.0.0 up.hiao.com
-:: up.hiao.com
 0.0.0.0 up.nytimes.com
 :: up.nytimes.com
 0.0.0.0 up.qingdaonews.com
@@ -34270,6 +34272,8 @@ ff02::3 ip6-allhosts
 :: w.cnzz.com
 0.0.0.0 w.crypto-webminer.com
 :: w.crypto-webminer.com
+0.0.0.0 w.cube3d.cn
+:: w.cube3d.cn
 0.0.0.0 w.efo.cc
 :: w.efo.cc
 0.0.0.0 w.fancyapi.com
@@ -38006,6 +38010,8 @@ ff02::3 ip6-allhosts
 :: xb29h.cn
 0.0.0.0 xbtw.com
 :: xbtw.com
+0.0.0.0 xbzpppr.cn
+:: xbzpppr.cn
 0.0.0.0 xc.08an.com
 :: xc.08an.com
 0.0.0.0 xc.gdt.qq.com
