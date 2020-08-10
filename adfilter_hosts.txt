@@ -1,11 +1,11 @@
-# Checksum: MTU5NzAwNzAwNwo=
+# Checksum: MTU5NzAxODA2Mwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.2-20200809-7
-# TimeUpdated: 2020-08-09T21:03:27+00:00
+# Version: 1.4.2-20200810-0
+# TimeUpdated: 2020-08-10T00:07:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 19805
+# Total: 19808
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -17942,6 +17942,8 @@ ff02::3 ip6-allhosts
 :: js.idgdmg.com.cn
 0.0.0.0 js.idgdmgroup.com.cn
 :: js.idgdmgroup.com.cn
+0.0.0.0 js.iewad.net
+:: js.iewad.net
 0.0.0.0 js.jianbaimei.com
 :: js.jianbaimei.com
 0.0.0.0 js.jianbihuadq.com
@@ -25934,6 +25936,8 @@ ff02::3 ip6-allhosts
 :: rabc1.iteye.com
 0.0.0.0 rabc2.iteye.com
 :: rabc2.iteye.com
+0.0.0.0 rablecerta.club
+:: rablecerta.club
 0.0.0.0 rack.bauermedia.co.uk
 :: rack.bauermedia.co.uk
 0.0.0.0 rack.cryptaloot.pro
@@ -29382,6 +29386,8 @@ ff02::3 ip6-allhosts
 :: ssp.4hw.com.cn
 0.0.0.0 ssp.adriver.ru
 :: ssp.adriver.ru
+0.0.0.0 ssp.chaohutechan.com
+:: ssp.chaohutechan.com
 0.0.0.0 ssp.cibn.starschina.com
 :: ssp.cibn.starschina.com
 0.0.0.0 ssp.daxueshengqiandai.com
