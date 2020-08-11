@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.7
+# Current Version: 1.4.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -196,16 +196,14 @@ function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
         GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
-            if [ "$(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | grep ".${filter_data[$filter_data_task]}")" == "" ]; then
-                echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
-                echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
-                echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
-                echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
-                echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
-                echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
-                echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
-                echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
-            fi
+            echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+            echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
+            echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
+            echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+            echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+            echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
+            echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
+            echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
         done
         cd .. && rm -rf ./Temp
         exit 0
@@ -218,16 +216,14 @@ function OutputData() {
         else
             GenerateInformation
             for filter_data_task in "${!filter_data[@]}"; do
-                if [ "$(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | grep ".${filter_data[$filter_data_task]}")" == "" ]; then
-                    echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
-                    echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
-                    echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
-                    echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
-                    echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
-                    echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
-                    echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
-                    echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
-                fi
+                echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+                echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
+                echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
+                echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+                echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+                echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
+                echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
+                echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
             done
             cd .. && rm -rf ./Temp
             exit 0
