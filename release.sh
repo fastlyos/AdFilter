@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.4.6
+# Current Version: 1.4.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -109,7 +109,6 @@ function GenerateInformation() {
     adfilter_homepage="https://github.com/hezhijie0327/AdFilter"
     adfilter_timeupdated=$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y-%m-%dT%H:%M:%S%:z")
     adfilter_title="Zhijie's Ad Filter"
-    adfilter_total=$(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq > ./checklist.tmp && sed -n '$=' ./checklist.tmp)
     adfilter_version=$(cat ../release.sh | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$((10#$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
     function adfilter_adblock() {
         echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adblock.txt
@@ -119,7 +118,6 @@ function GenerateInformation() {
         echo "! TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_adblock.txt
         echo "! Expires: ${adfilter_expires}" >> ../adfilter_adblock.txt
         echo "! Homepage: ${adfilter_homepage}" >> ../adfilter_adblock.txt
-        echo "! Total: ${adfilter_total}" >> ../adfilter_adblock.txt
     }
     function adfilter_dnsmasq() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_dnsmasq.conf
@@ -129,7 +127,6 @@ function GenerateInformation() {
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_dnsmasq.conf
         echo "# Expires: ${adfilter_expires}" >> ../adfilter_dnsmasq.conf
         echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_dnsmasq.conf
-        echo "# Total: ${adfilter_total}" >> ../adfilter_dnsmasq.conf
     }
     function adfilter_domains() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_domains.txt
@@ -139,7 +136,6 @@ function GenerateInformation() {
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_domains.txt
         echo "# Expires: ${adfilter_expires}" >> ../adfilter_domains.txt
         echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_domains.txt
-        echo "# Total: ${adfilter_total}" >> ../adfilter_domains.txt
     }
     function adfilter_hosts() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_hosts.txt
@@ -149,7 +145,6 @@ function GenerateInformation() {
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_hosts.txt
         echo "# Expires: ${adfilter_expires}" >> ../adfilter_hosts.txt
         echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_hosts.txt
-        echo "# Total: ${adfilter_total}" >> ../adfilter_hosts.txt
         echo "# (DO NOT REMOVE)" >> ../adfilter_hosts.txt
         echo "127.0.0.1 localhost" >> ../adfilter_hosts.txt
         echo "255.255.255.255 broadcasthost" >> ../adfilter_hosts.txt
@@ -169,7 +164,6 @@ function GenerateInformation() {
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_smartdns.conf
         echo "# Expires: ${adfilter_expires}" >> ../adfilter_smartdns.conf
         echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_smartdns.conf
-        echo "# Total: ${adfilter_total}" >> ../adfilter_smartdns.conf
     }
     function adfilter_surge() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_surge.txt
@@ -179,7 +173,6 @@ function GenerateInformation() {
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_surge.txt
         echo "# Expires: ${adfilter_expires}" >> ../adfilter_surge.txt
         echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_surge.txt
-        echo "# Total: ${adfilter_total}" >> ../adfilter_surge.txt
     }
     function adfilter_unbound() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_unbound.conf
@@ -189,7 +182,6 @@ function GenerateInformation() {
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_unbound.conf
         echo "# Expires: ${adfilter_expires}" >> ../adfilter_unbound.conf
         echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_unbound.conf
-        echo "# Total: ${adfilter_total}" >> ../adfilter_unbound.conf
     }
     adfilter_adblock
     adfilter_dnsmasq
@@ -204,26 +196,7 @@ function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
         GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
-            echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
-            echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
-            echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
-            echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
-            echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
-            echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
-            echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
-            echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
-        done
-        cd .. && rm -rf ./Temp
-        exit 0
-    else
-        awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq > ./checklist.tmp
-        cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./checklist.old
-        if [ "$(diff ./checklist.tmp ./checklist.old)" == "" ]; then
-            cd .. && rm -rf ./Temp
-            exit 0
-        else
-            GenerateInformation
-            for filter_data_task in "${!filter_data[@]}"; do
+            if [ "$(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | grep ".${filter_data[$filter_data_task]}")" == "" ]; then
                 echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
                 echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
                 echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
@@ -232,6 +205,29 @@ function OutputData() {
                 echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
                 echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
                 echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
+            fi
+        done
+        cd .. && rm -rf ./Temp
+        exit 0
+    else
+        awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq > ./checklist.tmp
+        cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +8 > ./checklist.old
+        if [ "$(diff ./checklist.tmp ./checklist.old)" == "" ]; then
+            cd .. && rm -rf ./Temp
+            exit 0
+        else
+            GenerateInformation
+            for filter_data_task in "${!filter_data[@]}"; do
+                if [ "$(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | grep ".${filter_data[$filter_data_task]}")" == "" ]; then
+                    echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+                    echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
+                    echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
+                    echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+                    echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+                    echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
+                    echo "DOMAIN-SUFFIX,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
+                    echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
+                fi
             done
             cd .. && rm -rf ./Temp
             exit 0
