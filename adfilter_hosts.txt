@@ -1,11 +1,11 @@
-# Checksum: MTU5NzE0NzQzNgo=
+# Checksum: MTU5NzE1ODIxMgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.9-20200811-4
-# TimeUpdated: 2020-08-11T12:03:56+00:00
+# Version: 1.4.9-20200811-5
+# TimeUpdated: 2020-08-11T15:03:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21653
+# Total: 21660
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1484,6 +1484,8 @@ ff02::3 ip6-allhosts
 :: 789.kakamobi.cn
 0.0.0.0 7891655.cn
 :: 7891655.cn
+0.0.0.0 78986ba32c.com
+:: 78986ba32c.com
 0.0.0.0 78cc571ae97.net
 :: 78cc571ae97.net
 0.0.0.0 79cm.com
@@ -14284,6 +14286,8 @@ ff02::3 ip6-allhosts
 :: engage-cdn.schibsted.media
 0.0.0.0 engagefront.theweathernetwork.com
 :: engagefront.theweathernetwork.com
+0.0.0.0 engagesrvr.filefactory.com
+:: engagesrvr.filefactory.com
 0.0.0.0 engine.adzerk.net
 :: engine.adzerk.net
 0.0.0.0 engine.carbonads.com
@@ -20924,6 +20928,8 @@ ff02::3 ip6-allhosts
 :: laigame7.com
 0.0.0.0 laiququan.com
 :: laiququan.com
+0.0.0.0 laiye315.top
+:: laiye315.top
 0.0.0.0 lajizhan.org
 :: lajizhan.org
 0.0.0.0 lambdafoobar.de
@@ -22808,6 +22814,8 @@ ff02::3 ip6-allhosts
 :: m.weixingshexiangji.net
 0.0.0.0 m.wenzhougy.cn
 :: m.wenzhougy.cn
+0.0.0.0 m.wh723.cn
+:: m.wh723.cn
 0.0.0.0 m.whsjg.cn
 :: m.whsjg.cn
 0.0.0.0 m.wikigifth.com
@@ -22874,6 +22882,8 @@ ff02::3 ip6-allhosts
 :: m.xylmdm.top
 0.0.0.0 m.y195j.cn
 :: m.y195j.cn
+0.0.0.0 m.yajuke.com.cn
+:: m.yajuke.com.cn
 0.0.0.0 m.yalayi.com
 :: m.yalayi.com
 0.0.0.0 m.yanjunbo.com
@@ -38312,6 +38322,8 @@ ff02::3 ip6-allhosts
 :: wifijia.net
 0.0.0.0 wifishow.ggsafe.com
 :: wifishow.ggsafe.com
+0.0.0.0 wikevs.cn
+:: wikevs.cn
 0.0.0.0 wikigifth.com
 :: wikigifth.com
 0.0.0.0 wildianing.ru
@@ -41664,6 +41676,8 @@ ff02::3 ip6-allhosts
 :: xinleka.com
 0.0.0.0 xinlongrubber.com
 :: xinlongrubber.com
+0.0.0.0 xinqiannv.com
+:: xinqiannv.com
 0.0.0.0 xinray.com
 :: xinray.com
 0.0.0.0 xinray.net
