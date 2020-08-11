@@ -1,11 +1,11 @@
-# Checksum: MTU5NzEzNjYzMAo=
+# Checksum: MTU5NzE0NzQzNgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.4.9-20200811-3
-# TimeUpdated: 2020-08-11T09:03:50+00:00
+# Version: 1.4.9-20200811-4
+# TimeUpdated: 2020-08-11T12:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21648
+# Total: 21653
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -404,6 +404,8 @@ ff02::3 ip6-allhosts
 :: 1234xm.com
 0.0.0.0 123564.com
 :: 123564.com
+0.0.0.0 12381236.com
+:: 12381236.com
 0.0.0.0 123hala.com
 :: 123hala.com
 0.0.0.0 123juhd.com
@@ -8018,6 +8020,8 @@ ff02::3 ip6-allhosts
 :: bvakl.ifeng.com
 0.0.0.0 bvoer.com
 :: bvoer.com
+0.0.0.0 bvosv.com
+:: bvosv.com
 0.0.0.0 bw.scupio.com
 :: bw.scupio.com
 0.0.0.0 bwp.theinsider.com.com
@@ -20358,6 +20362,8 @@ ff02::3 ip6-allhosts
 :: k.85wa.cn
 0.0.0.0 k.bjjinshuitong.com
 :: k.bjjinshuitong.com
+0.0.0.0 k.cnsayo.com
+:: k.cnsayo.com
 0.0.0.0 k.ctsywy.com
 :: k.ctsywy.com
 0.0.0.0 k.gsdhome.cn
@@ -21380,6 +21386,8 @@ ff02::3 ip6-allhosts
 :: livew.l.qq.com
 0.0.0.0 lixiangmo.com
 :: lixiangmo.com
+0.0.0.0 lixudong.top
+:: lixudong.top
 0.0.0.0 liyueao.top
 :: liyueao.top
 0.0.0.0 ljamingrepre.site
@@ -38362,6 +38370,8 @@ ff02::3 ip6-allhosts
 :: withougheves.site
 0.0.0.0 withoughstors.club
 :: withoughstors.club
+0.0.0.0 withoused.club
+:: withoused.club
 0.0.0.0 witneygazette-gb.witneygazette.co.uk
 :: witneygazette-gb.witneygazette.co.uk
 0.0.0.0 wityamdog.com
