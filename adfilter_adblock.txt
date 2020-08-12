@@ -1,11 +1,11 @@
-! Checksum: MTU5NzE5Nzc3Mgo=
+! Checksum: MTU5NzIwMDEzMwo=
 ! Title: Zhijie's Ad Filter for Adblock
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.4.9-20200812-0
-! TimeUpdated: 2020-08-12T02:02:52+00:00
+! Version: 1.5.0-20200812-0
+! TimeUpdated: 2020-08-12T02:42:13+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 21668
+! Total: 21708
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||001.0x1f4b0.com^
@@ -326,6 +326,7 @@
 ||21.fh21static.com^
 ||21.huanqiu.com^
 ||21.zhaozongjie.com^
+||2144.cn^
 ||215to.cn^
 ||21kk.cc^
 ||22222jsc.com^
@@ -338,6 +339,7 @@
 ||2311.oadz.com^
 ||233wo.com^
 ||2341.a.dlads.cn^
+||2345.cn^
 ||23456dj.com^
 ||2345api.dftoutiao.com^
 ||2345apicode.dftoutiao.com^
@@ -446,6 +448,8 @@
 ||37cs.com^
 ||37mnm.com^
 ||37pk49.com^
+||37wan.cn^
+||37wan.com^
 ||37xs.net^
 ||3808010.com^
 ||38330.bet^
@@ -3688,6 +3692,8 @@
 ||betshun.org^
 ||betsonsport.ru^
 ||betternoon.club^
+||betterzip.net^
+||betterzipcn.com^
 ||betway787.com^
 ||bewaslac.com^
 ||bewaycare.com^
@@ -4638,6 +4644,7 @@
 ||cjhd.mediav.com^
 ||cjhq.baidu.cn^
 ||cjiv.chengjie168.com.cn^
+||cjmkt.com^
 ||cjmob.com^
 ||cjmooter.xcache.kinxcdn.com^
 ||cjroq.bealge.sogou.com^
@@ -5096,7 +5103,6 @@
 ||conf.hpplay.cn^
 ||conf.vidown.cn^
 ||conf.xdrig.com^
-||conf.xiniuz.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||config-ltvp.inmobi.com^
 ||config.adview.cn^
@@ -5585,7 +5591,6 @@
 ||d.cntv.cn^
 ||d.dgzj.com^
 ||d.dsp.imageter.com^
-||d.elong.cn^
 ||d.emarbox.com^
 ||d.finative.eu^
 ||d.gdt.qq.com^
@@ -5921,7 +5926,6 @@
 ||daecan.xyz^
 ||daero.pw^
 ||daethana.pw^
-||dafahao.org^
 ||dafapai.com^
 ||dafapromo.com^
 ||dagda.vilynx.com^
@@ -5956,7 +5960,6 @@
 ||daiwofei2019.top^
 ||daizhankj.cn^
 ||dajean.com^
-||dajiyuan.org^
 ||dal9hkyfi0m0n.cloudfront.net^
 ||dam.corel.com^
 ||damb68.com^
@@ -6332,6 +6335,8 @@
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dko.vente-unique.nl^
 ||dkyp75kj7ldlr.cloudfront.net^
+||dl.2345.cn^
+||dl.37wan.cn^
 ||dl.9xu.com^
 ||dl.browsermine.com^
 ||dl.cm.ksmobile.com^
@@ -6341,8 +6346,10 @@
 ||dl.kjava.sina.cn^
 ||dl.mbsea.com^
 ||dl.meliacloud.com^
+||dl.show.baofeng.com^
 ||dl.union.ijinshan.com^
 ||dl.uu.cc^
+||dl.wan.sogoucdn.com^
 ||dl.weshineapp.com^
 ||dl.youjia2016.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
@@ -6361,6 +6368,7 @@
 ||dlres.ind9ed.com^
 ||dlrijiaele.com^
 ||dlsear.com^
+||dlswbr.baidu.com^
 ||dlycritishmalco.club^
 ||dlzjdesign.com^
 ||dm.21hubei.com^
@@ -6472,7 +6480,7 @@
 ||don.beeppool.org^
 ||donate.crypto-webminer.com^
 ||donconferen.site^
-||dongtaiwang.org^
+||dongmansoft.com^
 ||dongyihongbei.com^
 ||dontblockme.modaco.com^
 ||dooptoug.net^
@@ -6518,11 +6526,20 @@
 ||down.xiazaidc.com^
 ||downlaod.xiaocen.com^
 ||download.123cw.cn^
+||download.2345.cn^
 ||download.350.com^
 ||download.adsage.com^
 ||download.coolguang.com^
+||download.fuyuncc.com^
 ||download.m.37.com^
+||download.mediaget.com^
 ||download.qianka.com^
+||download.wan.sohu.com^
+||download.zhushou.sogou.com^
+||download3.123cw.cn^
+||downloada.dewmobile.net^
+||downloadb.dewmobile.net^
+||downmobile.kugou.com^
 ||dp.559.cc^
 ||dp.g.doubleclick.net^
 ||dp.im.weibo.cn^
@@ -6951,6 +6968,7 @@
 ||eap.enorth.com.cn^
 ||eardewova.com^
 ||earlinggea.info^
+||earmasterchina.cn^
 ||earnbigo.com^
 ||earnify.com^
 ||earsawclearnph.site^
@@ -7228,7 +7246,6 @@
 ||ep00.epimg.net^
 ||epanr.com^
 ||epernn.cn^
-||epochtimes.org^
 ||epochweekly.com^
 ||epowernetworktrackerimages.s3.amazonaws.com^
 ||epp.2polj.top^
@@ -7526,7 +7543,6 @@
 ||fagmomqua.site^
 ||fair.sogou.com^
 ||falmouthpacket-gb.falmouthpacket.co.uk^
-||falundata.org^
 ||fam-ad.com^
 ||family-joy.com^
 ||famountsuref.site^
@@ -7710,6 +7726,7 @@
 ||fkkse.com^
 ||fkku194.com^
 ||flare-analytics.com^
+||flash.cn^
 ||flashstats.libsyn.com^
 ||flashtalking.com^
 ||flashx.co^
@@ -7762,6 +7779,7 @@
 ||formany.club^
 ||forms.windowsitpro.com^
 ||formulawire.com^
+||formysql.com^
 ||forrealzpiratebay.org^
 ||fortpush.com^
 ||fortrader.ru^
@@ -7950,7 +7968,6 @@
 ||g.tbcdn.cn^
 ||g.uusee.com^
 ||g.vev.io^
-||g.wan.2345.com^
 ||g.wan.douyu.com^
 ||g.x.cn.majorserving.com^
 ||g.x.cn.xtgreat.com^
@@ -9002,6 +9019,7 @@
 ||hyjyjc.com^
 ||hyperpromote.com^
 ||hypers.com^
+||hypersnap.net^
 ||hypoot.com^
 ||hypzv.com^
 ||hyrankhit.meldingcloud.com^
@@ -9163,6 +9181,7 @@
 ||iendoo.com^
 ||ienkdago.cn^
 ||ientribalintri.club^
+||ieonline.microsoft.com^
 ||iewad.net^
 ||if-yn.com^
 ||if.mingxing.qq.com^
@@ -9754,8 +9773,6 @@
 ||jcm.jd.com^
 ||jcwwxn.com^
 ||jd.com.pesbbw.cn^
-||jdb.jiudingcapital.cn^
-||jdb.jiudingcapital.com^
 ||jdf494.cn^
 ||jdflower.cn^
 ||jdgsgl.com^
@@ -9825,7 +9842,6 @@
 ||jieyixiu.com^
 ||jifen.2345.cn^
 ||jifen.2345.com^
-||jifendownload.2345.cn^
 ||jiguang.cn^
 ||jiirz.com^
 ||jimg.iigs9.com^
@@ -10407,6 +10423,7 @@
 ||kuaikaiapp.com^
 ||kuaikan.netmon.360safe.com^
 ||kuaishang.cn^
+||kuaizip.com^
 ||kualianyingxiao.cn^
 ||kucent.com^
 ||kuchebraska.com^
@@ -10991,6 +11008,7 @@
 ||luoshenbest.cn^
 ||luotediao.net^
 ||luoyuanedu.cn^
+||luping.net.cn^
 ||lupoot.com^
 ||lutachechu.pro^
 ||lutsoops.net^
@@ -11876,7 +11894,6 @@
 ||mhdufile.1391.com^
 ||mhj765.xyz^
 ||mhjk.1391.com^
-||mhuodong.elong.com^
 ||mhwozc.cn^
 ||mi-de-ner-nis3.info^
 ||mi.gdt.qq.com^
@@ -11913,6 +11930,8 @@
 ||mimg.7791.com.cn^
 ||mimpiphy.net^
 ||minanjiaoyu.com^
+||mindmanager.cn^
+||mindmapper.cc^
 ||mine.gay-hotvideo.net^
 ||mine.nahnoji.cz^
 ||mine.terorie.com^
@@ -11956,7 +11975,6 @@
 ||mining.freebitco.in^
 ||mining711.com^
 ||minipage.2345.cn^
-||minipage.2345.com^
 ||minisite.acs86.com^
 ||minisite.letv.com^
 ||minisite.vidown.cn^
@@ -12789,6 +12807,7 @@
 ||ntalker.com^
 ||ntedporchite.info^
 ||ntentifycom.club^
+||ntfsformac.cc^
 ||nthyn.com^
 ||ntierabery.club^
 ||ntowcested.info^
@@ -13079,6 +13098,7 @@
 ||otf.msn.com^
 ||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
+||oth.update.mdt.qq.com^
 ||other.v.duowan.com^
 ||othesarialiber.club^
 ||otheve.beacon.qq.com^
@@ -13308,6 +13328,7 @@
 ||passeseuro.com^
 ||passport-log.youku.com^
 ||passtechusa.com^
+||passwordrecovery.cn^
 ||pasturecompelscreen.com^
 ||path.qidian.com^
 ||patriot.cs.pp.cn^
@@ -13370,6 +13391,7 @@
 ||pd7-imp.revsci.net^
 ||pdc.dmleonyc.com^
 ||pdf-1.infamylists.com^
+||pdfexpert.cc^
 ||pdkuai.com^
 ||pdl.gionee.com^
 ||pdn.applovin.com^
@@ -14726,7 +14748,6 @@
 ||rmpad.imtt.qq.com^
 ||rmqygg2zv24y.com^
 ||rmtx.ra.icast.cn^
-||rmw.jdburl.com^
 ||rmwdn.com^
 ||rndntpmgnj-a.akamaihd.net^
 ||rndrx0rqwkb8.com^
@@ -17582,6 +17603,7 @@
 ||tongqing2015.com^
 ||tool.acces-vod.com^
 ||tool.btrabbit.la^
+||toolbar.msn.com^
 ||tools.3g.qq.com^
 ||toolset.vip^
 ||toourbb.com^
@@ -18064,7 +18086,6 @@
 ||tui.weibo.com^
 ||tui.yeshen.com^
 ||tuia.cn^
-||tuidang.epochtimes.org^
 ||tuiguang.178.com^
 ||tuiguang.meitu.com^
 ||tuiguang.yicha.cn^
@@ -18138,7 +18159,6 @@
 ||u.cnzol.com^
 ||u.ctrip.com^
 ||u.ddvip.com^
-||u.diannaodian.com^
 ||u.guannin.com^
 ||u.huoying666.com^
 ||u.jimdo.com^
@@ -18371,9 +18391,13 @@
 ||upcum.com^
 ||update-your-pc.info^
 ||update.bainv.net^
-||update.minipage.2345.com^
+||update.coolyun.com^
+||update.mobile.kugou.com^
+||update.pan.baidu.com^
 ||update.sdk.jiguang.cn^
 ||update0.aiclk.com^
+||updatecenter.qq.com^
+||updatepage.kuwo.cn^
 ||updates-s3.binaryage.com^
 ||upgraderservices.cf^
 ||upgulpinon.com^
@@ -18915,6 +18939,14 @@
 ||wallet.advcash.com^
 ||wallet.brominer.com^
 ||wallpapersfacts.com^
+||wan.2345.cn^
+||wan.2345.com^
+||wan.360.cn^
+||wan.douyu.com^
+||wan.rising.cn^
+||wan.sogou.com^
+||wan.sohu.com^
+||wan.youku.com^
 ||wancai.com^
 ||wandara113.xyz^
 ||wandsworthguardian-gb.wandsworthguardian.co.uk^
@@ -19660,6 +19692,7 @@
 ||www.1990tu.com^
 ||www.1q2w3.website^
 ||www.203710.com^
+||www.2144.cn^
 ||www.222627.com^
 ||www.2345at.com^
 ||www.268mob.cn^
@@ -19843,6 +19876,8 @@
 ||www.bestmobiworld.com^
 ||www.bestsecurepractice.com^
 ||www.bet36500050.com^
+||www.betterzip.net^
+||www.betterzipcn.com^
 ||www.bewaslac.com^
 ||www.bewaycare.com^
 ||www.bgrndi.com^
@@ -20001,6 +20036,7 @@
 ||www.fjlqqc.com^
 ||www.fjsjsj.com^
 ||www.flare-analytics.com^
+||www.flash.cn^
 ||www.flashx.co^
 ||www.flipf.cn^
 ||www.flurry.com^
@@ -20120,7 +20156,6 @@
 ||www.jfsdiwmnbsk006.top^
 ||www.jfsdiwmnbsk007.top^
 ||www.jhondi33.duckdns.org^
-||www.jiedaibao.com^
 ||www.jinshagt222.com^
 ||www.jisucn.com^
 ||www.jiubuhua.com^
@@ -20170,7 +20205,6 @@
 ||www.lag.beeppool.org^
 ||www.laiququan.com^
 ||www.lan.datasecu.download^
-||www.laomaotao.net^
 ||www.laserveradedomaina.com^
 ||www.lessplay.com^
 ||www.liangao.com^
@@ -20191,6 +20225,9 @@
 ||www.lynndollin.com^
 ||www.lyztdz.com^
 ||www.madhouse.cn^
+||www.mairuan.cn^
+||www.mairuan.com.cn^
+||www.mairuan.net^
 ||www.masari.crypto-webminer.com^
 ||www.mbai.cn^
 ||www.mebablo.com^
@@ -20522,7 +20559,6 @@
 ||www.wifidown.com^
 ||www.wildianing.ru^
 ||www.winads.cn^
-||www.winbaicai.com^
 ||www.wjxcdn.com^
 ||www.womenbaby.com^
 ||www.wooboo.com.cn^
@@ -20606,8 +20642,6 @@
 ||www.xianliao.me^
 ||www.xiaohui2.cn^
 ||www.xingchenjia.com^
-||www.xiniuz.com^
-||www.xmindchina.cn^
 ||www.xmrpool.net^
 ||www.xpjylc9977.com^
 ||www.xsl281.com^
@@ -20806,6 +20840,8 @@
 ||xhydrs.cn^
 ||xi0021.com^
 ||xi666.com^
+||xia.chemdraw.com^
+||xia.huishenghuiying.com^
 ||xiacai.com^
 ||xiacaidd.com^
 ||xiadaxiong.com^
@@ -21525,9 +21561,12 @@
 ||zhuanshenghuo1.kuaizhan.com^
 ||zhuba8.com^
 ||zhushicm.com^
+||zhushou.2345.cn^
+||zhushou.2345.com^
 ||zhwnlapi.etouch.cn^
 ||zhybzp.cn^
 ||zhywyl.cn^
+||zhzzx.com^
 ||zi8ivy4b0c7l.com^
 ||ziig.com.cn^
 ||zinfluentlyw.club^
@@ -21583,6 +21622,7 @@
 ||zro56hd6szoy.com^
 ||zroundancez.site^
 ||zrw1.destinia.jp^
+||zryydi.com^
 ||zs.dhl.de^
 ||zs1.cnzz.com^
 ||zs10.cnzz.com^
