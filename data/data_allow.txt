@@ -1,12 +1,29 @@
-## neoHosts 白名单 - 开始
-# CNNIC 中国互联网络信息中心（非广告域名）-> 已移除
+## 白名单 - 开始
+#  2144 小游戏 -> 已移除
+2144.cn
+www.2144.cn
+# 2345 网址导航 -> 已移除
+2345.cn
+dl.2345.cn
+dl.2345.com
+download.2345.cn
+download.2345.com
+# 360 安全卫士 -> 已移除
+down.360.cn
+down.360safe.com
+ini.update.360safe.com
+inst.360safe.com
+update.360safe.com
+# CNNIC 中国互联网络信息中心 -> 已移除
 cnnic.cn
 cnnic.net
 cnnic.net.cn
 www.cnnic.cn
 www.cnnic.net
 www.cnnic.net.cn
-# 激进宗教内容网站（非广告域名）-> 已移除
+# 百度网盘 -> 已移除
+update.pan.baidu.com
+# 激进宗教内容网站 -> 已移除
 aboluowang.com
 bannedbook.org
 dafahao.com
@@ -60,10 +77,142 @@ zh-cn.shenyun.org
 zhengjian.org
 zhengwunet.org
 zhuichaguoji.org
-## neoHosts 白名单 - 结束
+# 快牙 -> 已移除
+downloada.dewmobile.net
+downloadb.dewmobile.net
+# 酷我音乐 -> 已移除
+updatepage.kuwo.cn
+# 酷狗音乐 -> 已移除
+update.mobile.kugou.com
+# 老毛桃官网 -> 已移除
+down.laomaotao.net
+laomaotao.net
+www.laomaotao.net
+# 苏州思杰马克丁软件有限公司
+4009997658.com
+abbyychina.com
+bartender.cc
+betterzip.net
+betterzipcn.com
+beyondcompare.cc
+bingdianhuanyuan.cn
+chemdraw.com.cn
+cjmkt.com
+cn.ultraiso.net
+codesoftchina.com
+coreldrawchina.com
+crossoverchina.com
+dongmansoft.com
+earmasterchina.cn
+easyrecoverychina.com
+ediuschina.com
+flstudiochina.com
+formysql.com
+guitarpro.cc
+huishenghuiying.com.cn
+hypersnap.mairuan.com
+hypersnap.net
+iconworkshop.cn
+imindmap.cc
+jihehuaban.com.cn
+keyshot.cc
+kingdeecn.cn
+logoshejishi.mairuan.com
+luping.net.cn
+mairuan.cn
+mairuan.com
+mairuan.com.cn
+mairuan.net
+mairuanwang.com
+makeding.com
+mathtype.cn
+mindmanager.cc
+mindmanager.cn
+mindmapper.cc
+mycleanmymac.com
+nicelabel.cc
+ntfsformac.cc
+ntfsformac.cn
+overturechina.com
+passwordrecovery.cn
+pdfexpert.cc
+photozoomchina.com
+shankejingling.com
+vegaschina.cn
+www.4009997658.com
+www.abbyychina.com
+www.bartender.cc
+www.betterzip.net
+www.betterzipcn.com
+www.beyondcompare.cc
+www.bingdianhuanyuan.cn
+www.chemdraw.com.cn
+www.codesoftchina.com
+www.coreldrawchina.com
+www.crossoverchina.com
+www.easyrecoverychina.com
+www.ediuschina.com
+www.flstudiochina.com
+www.guitarpro.cc
+www.huishenghuiying.com.cn
+www.hypersnap.net
+www.iconworkshop.cn
+www.imindmap.cc
+www.jihehuaban.com.cn
+www.keyshot.cc
+www.kingdeecn.cn
+www.logoshejishi.com
+www.mairuan.cn
+www.mairuan.com
+www.mairuan.com.cn
+www.mairuan.net
+www.mairuanwang.com
+www.makeding.com
+www.mathtype.cn
+www.mindmanager.cc
+www.mycleanmymac.com
+www.nicelabel.cc
+www.ntfsformac.cc
+www.ntfsformac.cn
+www.overturechina.com
+www.pdfexpert.cc
+www.photozoomchina.com
+www.shankejingling.com
+www.vegaschina.cn
+www.xshellcn.com
+www.yuanchengxiezuo.com
+www.zbrushcn.com
+www.zhzzx.com
+xia.chemdraw.com
+xia.huishenghuiying.com
+xia.logoshejishi.com
+xia.mindmanager.cc
+xiazai.abbyychina.com
+xiazai.bartender.cc
+xiazai.codesoftchina.com
+xiazai.crossoverchina.com
+xiazai.easyrecoverychina.com
+xiazai.mathtype.cn
+xiazai.mycleanmymac.com
+xiazai.nicelabel.cc
+xiazai.ntfsformac.cn
+xiazai.overturechina.com
+xiazai.pdfexpert.cc
+xiazai.photozoomchina.com
+xiazai.xshellcn.com
+xiazai.yuanchengxiezuo.com
+xiazai.zbrushcn.com
+xshellcn.com
+yuanchengxiezuo.com
+zbrushcn.com
+zhzzx.com
+# 腾讯 QQ -> 已移除
+oth.update.mdt.qq.com
+updatecenter.qq.com
+## 白名单 - 结束
 
-## yHosts 白名单 - 开始
-# *.logic.cpm.cm.kankan.com（重复规则，共用相同 CNAME：logic.cpm.cm.kankan.com） -> 已修复（yhosts@1）
+## 修正 - 开始
+# *.logic.cpm.cm.kankan.com（重复规则，共用相同 CNAME：logic.cpm.cm.kankan.com） -> 已修复（#@1）
 20200401.logic.cpm.cm.kankan.com
 20200402.logic.cpm.cm.kankan.com
 20200403.logic.cpm.cm.kankan.com
@@ -95,4 +244,4 @@ zhuichaguoji.org
 20200429.logic.cpm.cm.kankan.com
 20200430.logic.cpm.cm.kankan.com
 20200431.logic.cpm.cm.kankan.com
-## yHosts 白名单 - 结束
+## 修正 - 结束
