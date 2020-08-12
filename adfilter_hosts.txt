@@ -1,11 +1,11 @@
-# Checksum: MTU5NzIwMzMzOQo=
+# Checksum: MTU5NzIwNDgxOAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 # Version: 1.5.1-20200812-1
-# TimeUpdated: 2020-08-12T03:35:39+00:00
+# TimeUpdated: 2020-08-12T04:00:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25769
+# Total: 25760
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -706,8 +706,6 @@ ff02::3 ip6-allhosts
 :: 21.huanqiu.com
 0.0.0.0 21.zhaozongjie.com
 :: 21.zhaozongjie.com
-0.0.0.0 2144.cn
-:: 2144.cn
 0.0.0.0 215to.cn
 :: 215to.cn
 0.0.0.0 21kk.cc
@@ -732,8 +730,6 @@ ff02::3 ip6-allhosts
 :: 233wo.com
 0.0.0.0 2341.a.dlads.cn
 :: 2341.a.dlads.cn
-0.0.0.0 2345.cn
-:: 2345.cn
 0.0.0.0 23456dj.com
 :: 23456dj.com
 0.0.0.0 2345api.dftoutiao.com
@@ -15182,8 +15178,6 @@ ff02::3 ip6-allhosts
 :: downloada.dewmobile.net
 0.0.0.0 downloadb.dewmobile.net
 :: downloadb.dewmobile.net
-0.0.0.0 downmobile.kugou.com
-:: downmobile.kugou.com
 0.0.0.0 dp.559.cc
 :: dp.559.cc
 0.0.0.0 dp.g.doubleclick.net
@@ -21042,8 +21036,6 @@ ff02::3 ip6-allhosts
 :: ienkdago.cn
 0.0.0.0 ientribalintri.club
 :: ientribalintri.club
-0.0.0.0 ieonline.microsoft.com
-:: ieonline.microsoft.com
 0.0.0.0 ies8902.me
 :: ies8902.me
 0.0.0.0 iewad.net
@@ -21190,6 +21182,8 @@ ff02::3 ip6-allhosts
 :: image.p4p.sogou.com
 0.0.0.0 image.ptmind.com
 :: image.ptmind.com
+0.0.0.0 image.ttyouma.cn
+:: image.ttyouma.cn
 0.0.0.0 image.wzpuff.xyz
 :: image.wzpuff.xyz
 0.0.0.0 image.yigao.com
@@ -29960,8 +29954,6 @@ ff02::3 ip6-allhosts
 :: oth.eve.mdt.qq.com
 0.0.0.0 oth.str.mdt.qq.com
 :: oth.str.mdt.qq.com
-0.0.0.0 oth.update.mdt.qq.com
-:: oth.update.mdt.qq.com
 0.0.0.0 other.v.duowan.com
 :: other.v.duowan.com
 0.0.0.0 othesarialiber.club
@@ -35464,6 +35456,8 @@ ff02::3 ip6-allhosts
 :: secreat.club
 0.0.0.0 secrecycommotionaspirin.com
 :: secrecycommotionaspirin.com
+0.0.0.0 secretate.club
+:: secretate.club
 0.0.0.0 secretexts.club
 :: secretexts.club
 0.0.0.0 secretmedia.s3.amazonaws.com
@@ -42142,20 +42136,10 @@ ff02::3 ip6-allhosts
 :: update.bainv.net
 0.0.0.0 update.coolyun.com
 :: update.coolyun.com
-0.0.0.0 update.mobile.kugou.com
-:: update.mobile.kugou.com
-0.0.0.0 update.pan.baidu.com
-:: update.pan.baidu.com
 0.0.0.0 update.sdk.jiguang.cn
 :: update.sdk.jiguang.cn
-0.0.0.0 update.wps.cn
-:: update.wps.cn
 0.0.0.0 update0.aiclk.com
 :: update0.aiclk.com
-0.0.0.0 updatecenter.qq.com
-:: updatecenter.qq.com
-0.0.0.0 updatepage.kuwo.cn
-:: updatepage.kuwo.cn
 0.0.0.0 updates-s3.binaryage.com
 :: updates-s3.binaryage.com
 0.0.0.0 updates.guitar-pro.com
@@ -45438,8 +45422,6 @@ ff02::3 ip6-allhosts
 :: www.21365l.com
 0.0.0.0 www.21365u.com
 :: www.21365u.com
-0.0.0.0 www.2144.cn
-:: www.2144.cn
 0.0.0.0 www.2200775.com
 :: www.2200775.com
 0.0.0.0 www.2200996.com
