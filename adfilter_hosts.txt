@@ -1,11 +1,11 @@
-# Checksum: MTU5NzE5NTk5NAo=
+# Checksum: MTU5NzE5Nzc3Mgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 # Version: 1.4.9-20200812-0
-# TimeUpdated: 2020-08-12T01:33:14+00:00
+# TimeUpdated: 2020-08-12T02:02:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21660
+# Total: 21668
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -896,10 +896,6 @@ ff02::3 ip6-allhosts
 :: 37mnm.com
 0.0.0.0 37pk49.com
 :: 37pk49.com
-0.0.0.0 37wan.cn
-:: 37wan.cn
-0.0.0.0 37wan.com
-:: 37wan.com
 0.0.0.0 37xs.net
 :: 37xs.net
 0.0.0.0 3808010.com
@@ -2462,8 +2458,6 @@ ff02::3 ip6-allhosts
 :: abie9.top
 0.0.0.0 ablen01.tk
 :: ablen01.tk
-0.0.0.0 ablen02.tk
-:: ablen02.tk
 0.0.0.0 ablen03.tk
 :: ablen03.tk
 0.0.0.0 ablen04.tk
@@ -6576,8 +6570,6 @@ ff02::3 ip6-allhosts
 :: b0.qinsx.cn
 0.0.0.0 b02byun5xc3s.com
 :: b02byun5xc3s.com
-0.0.0.0 b0c3ed25eeaa1.com
-:: b0c3ed25eeaa1.com
 0.0.0.0 b0lc.cn
 :: b0lc.cn
 0.0.0.0 b0omr3wn6u4b.com
@@ -7884,6 +7876,8 @@ ff02::3 ip6-allhosts
 :: browsersurf.12finance.com
 0.0.0.0 brucelead.com
 :: brucelead.com
+0.0.0.0 bs.csshq.com.cn
+:: bs.csshq.com.cn
 0.0.0.0 bs.l.qq.com
 :: bs.l.qq.com
 0.0.0.0 bs.lamrd.cn
@@ -12674,6 +12668,32 @@ ff02::3 ip6-allhosts
 :: dko.vente-unique.nl
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 :: dkyp75kj7ldlr.cloudfront.net
+0.0.0.0 dl.9xu.com
+:: dl.9xu.com
+0.0.0.0 dl.browsermine.com
+:: dl.browsermine.com
+0.0.0.0 dl.cm.ksmobile.com
+:: dl.cm.ksmobile.com
+0.0.0.0 dl.eduancm.com
+:: dl.eduancm.com
+0.0.0.0 dl.g.youku.com
+:: dl.g.youku.com
+0.0.0.0 dl.kinbest.cn
+:: dl.kinbest.cn
+0.0.0.0 dl.kjava.sina.cn
+:: dl.kjava.sina.cn
+0.0.0.0 dl.mbsea.com
+:: dl.mbsea.com
+0.0.0.0 dl.meliacloud.com
+:: dl.meliacloud.com
+0.0.0.0 dl.union.ijinshan.com
+:: dl.union.ijinshan.com
+0.0.0.0 dl.uu.cc
+:: dl.uu.cc
+0.0.0.0 dl.weshineapp.com
+:: dl.weshineapp.com
+0.0.0.0 dl.youjia2016.com
+:: dl.youjia2016.com
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 :: dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dl5ft52dtazxd.cloudfront.net
@@ -12718,8 +12738,6 @@ ff02::3 ip6-allhosts
 :: dm.388g.cc
 0.0.0.0 dm.519397.com
 :: dm.519397.com
-0.0.0.0 dm.66qw.net
-:: dm.66qw.net
 0.0.0.0 dm.92to.com
 :: dm.92to.com
 0.0.0.0 dm.aizhan.com
@@ -13002,10 +13020,36 @@ ff02::3 ip6-allhosts
 :: doumob.com
 0.0.0.0 doushoom.net
 :: doushoom.net
+0.0.0.0 down.91wangmeng.com
+:: down.91wangmeng.com
+0.0.0.0 down.bossbas.com
+:: down.bossbas.com
+0.0.0.0 down.bugeyu.com
+:: down.bugeyu.com
+0.0.0.0 down.by8974.com
+:: down.by8974.com
+0.0.0.0 down.gotek.com.cn
+:: down.gotek.com.cn
+0.0.0.0 down.winads.cn
+:: down.winads.cn
+0.0.0.0 down.xiazai2.net
+:: down.xiazai2.net
+0.0.0.0 down.xiazaidc.com
+:: down.xiazaidc.com
+0.0.0.0 downlaod.xiaocen.com
+:: downlaod.xiaocen.com
+0.0.0.0 download.123cw.cn
+:: download.123cw.cn
+0.0.0.0 download.350.com
+:: download.350.com
 0.0.0.0 download.adsage.com
 :: download.adsage.com
 0.0.0.0 download.coolguang.com
 :: download.coolguang.com
+0.0.0.0 download.m.37.com
+:: download.m.37.com
+0.0.0.0 download.qianka.com
+:: download.qianka.com
 0.0.0.0 dp.559.cc
 :: dp.559.cc
 0.0.0.0 dp.g.doubleclick.net
@@ -13374,8 +13418,6 @@ ff02::3 ip6-allhosts
 :: dynsrv.wps.cn
 0.0.0.0 dyssir.com
 :: dyssir.com
-0.0.0.0 dz2017.zdzxyplyt.com
-:: dz2017.zdzxyplyt.com
 0.0.0.0 dzais.com
 :: dzais.com
 0.0.0.0 dzgg.com
@@ -13456,12 +13498,8 @@ ff02::3 ip6-allhosts
 :: e.breezily168.com
 0.0.0.0 e.bsnnk.com
 :: e.bsnnk.com
-0.0.0.0 e.by29s.cn
-:: e.by29s.cn
 0.0.0.0 e.cdfzcz.com
 :: e.cdfzcz.com
-0.0.0.0 e.cj59c.cn
-:: e.cj59c.cn
 0.0.0.0 e.ckikq.com
 :: e.ckikq.com
 0.0.0.0 e.clubske.com
@@ -13474,8 +13512,6 @@ ff02::3 ip6-allhosts
 :: e.cuomm.com
 0.0.0.0 e.deimm.com
 :: e.deimm.com
-0.0.0.0 e.dkd21.cn
-:: e.dkd21.cn
 0.0.0.0 e.domob.cn
 :: e.domob.cn
 0.0.0.0 e.domob.com.cn
@@ -13522,8 +13558,6 @@ ff02::3 ip6-allhosts
 :: e.gxjfh.com
 0.0.0.0 e.hc29x.cn
 :: e.hc29x.cn
-0.0.0.0 e.hc89s.cn
-:: e.hc89s.cn
 0.0.0.0 e.hcenc.com
 :: e.hcenc.com
 0.0.0.0 e.hellomingpian.com
@@ -13662,8 +13696,6 @@ ff02::3 ip6-allhosts
 :: e.resmv.com
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
-0.0.0.0 e.rkw29.cn
-:: e.rkw29.cn
 0.0.0.0 e.rpaulfrank.com
 :: e.rpaulfrank.com
 0.0.0.0 e.sanitwealth.com
@@ -13716,8 +13748,6 @@ ff02::3 ip6-allhosts
 :: e.wikigifth.com
 0.0.0.0 e.wjhehaofc.com
 :: e.wjhehaofc.com
-0.0.0.0 e.wkm89.cn
-:: e.wkm89.cn
 0.0.0.0 e.wnxcg.com
 :: e.wnxcg.com
 0.0.0.0 e.wonwg.com
@@ -14838,6 +14868,8 @@ ff02::3 ip6-allhosts
 :: exit.beeppool.org
 0.0.0.0 exit.macandbumble.com
 :: exit.macandbumble.com
+0.0.0.0 exobafrgdf.com
+:: exobafrgdf.com
 0.0.0.0 exoclick.com
 :: exoclick.com
 0.0.0.0 exofrwe.com
@@ -15162,8 +15194,6 @@ ff02::3 ip6-allhosts
 :: fdoun.com
 0.0.0.0 fds.api.moji.com
 :: fds.api.moji.com
-0.0.0.0 fdzsmfyy.com
-:: fdzsmfyy.com
 0.0.0.0 fe-au.imrworldwide.com
 :: fe-au.imrworldwide.com
 0.0.0.0 fe.lea.lycos.co.uk
@@ -15276,8 +15306,6 @@ ff02::3 ip6-allhosts
 :: ffbook.cc
 0.0.0.0 fff.yuyouge.com
 :: fff.yuyouge.com
-0.0.0.0 ffhtek.com
-:: ffhtek.com
 0.0.0.0 ffickiedisticre.site
 :: ffickiedisticre.site
 0.0.0.0 fflsn.com
@@ -18632,6 +18660,8 @@ ff02::3 ip6-allhosts
 :: img.yingshidiguo.cn
 0.0.0.0 img.yinhemining.cn
 :: img.yinhemining.cn
+0.0.0.0 img.yqgytx.com
+:: img.yqgytx.com
 0.0.0.0 img.yrxmr.com
 :: img.yrxmr.com
 0.0.0.0 img.zsj18.com
@@ -20306,6 +20336,8 @@ ff02::3 ip6-allhosts
 :: junkucm.com
 0.0.0.0 juroudaw.com
 :: juroudaw.com
+0.0.0.0 jurtym.cf
+:: jurtym.cf
 0.0.0.0 jusha.com
 :: jusha.com
 0.0.0.0 justickedukil.club
@@ -22222,8 +22254,6 @@ ff02::3 ip6-allhosts
 :: m.bsnnk.com
 0.0.0.0 m.bvosv.com
 :: m.bvosv.com
-0.0.0.0 m.by29s.cn
-:: m.by29s.cn
 0.0.0.0 m.byexip.cn
 :: m.byexip.cn
 0.0.0.0 m.byscy.cn
@@ -22406,8 +22436,6 @@ ff02::3 ip6-allhosts
 :: m.gzrljx.cn
 0.0.0.0 m.gzxiuyuan.cn
 :: m.gzxiuyuan.cn
-0.0.0.0 m.hc89s.cn
-:: m.hc89s.cn
 0.0.0.0 m.hcenc.com
 :: m.hcenc.com
 0.0.0.0 m.hchik.com
@@ -22588,8 +22616,6 @@ ff02::3 ip6-allhosts
 :: m.mffcf.cn
 0.0.0.0 m.mgogo.com
 :: m.mgogo.com
-0.0.0.0 m.mh89w.cn
-:: m.mh89w.cn
 0.0.0.0 m.micreative-china.cn
 :: m.micreative-china.cn
 0.0.0.0 m.mightiger.net
@@ -22850,8 +22876,6 @@ ff02::3 ip6-allhosts
 :: m.wikigifth.com
 0.0.0.0 m.wjhehaofc.com
 :: m.wjhehaofc.com
-0.0.0.0 m.wkm89.cn
-:: m.wkm89.cn
 0.0.0.0 m.wonwg.com
 :: m.wonwg.com
 0.0.0.0 m.wooboo.com.cn
@@ -22964,10 +22988,6 @@ ff02::3 ip6-allhosts
 :: m.zbsybh.cn
 0.0.0.0 m.zenwq.com
 :: m.zenwq.com
-0.0.0.0 m.zg39b.cn
-:: m.zg39b.cn
-0.0.0.0 m.zkp53.cn
-:: m.zkp53.cn
 0.0.0.0 m.zkwsdf.com
 :: m.zkwsdf.com
 0.0.0.0 m.zmlfk.com
@@ -24778,8 +24798,6 @@ ff02::3 ip6-allhosts
 :: myjsym.zichenit.com
 0.0.0.0 mylovelymommy.tk
 :: mylovelymommy.tk
-0.0.0.0 mylovesister.gq
-:: mylovesister.gq
 0.0.0.0 mymm.zichenit.com
 :: mymm.zichenit.com
 0.0.0.0 myoffers.bid
@@ -42582,8 +42600,6 @@ ff02::3 ip6-allhosts
 :: ys.muhoujiemi.com
 0.0.0.0 ys2000.cdn.bcebos.com
 :: ys2000.cdn.bcebos.com
-0.0.0.0 ysdhe.com
-:: ysdhe.com
 0.0.0.0 ysensionlatio.space
 :: ysensionlatio.space
 0.0.0.0 ysgsq.cn

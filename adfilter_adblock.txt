@@ -1,11 +1,11 @@
-! Checksum: MTU5NzE5NTk5NAo=
+! Checksum: MTU5NzE5Nzc3Mgo=
 ! Title: Zhijie's Ad Filter for Adblock
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 ! Version: 1.4.9-20200812-0
-! TimeUpdated: 2020-08-12T01:33:14+00:00
+! TimeUpdated: 2020-08-12T02:02:52+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 21660
+! Total: 21668
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||001.0x1f4b0.com^
@@ -446,8 +446,6 @@
 ||37cs.com^
 ||37mnm.com^
 ||37pk49.com^
-||37wan.cn^
-||37wan.com^
 ||37xs.net^
 ||3808010.com^
 ||38330.bet^
@@ -1229,7 +1227,6 @@
 ||abie25.top^
 ||abie9.top^
 ||ablen01.tk^
-||ablen02.tk^
 ||ablen03.tk^
 ||ablen04.tk^
 ||ablen05.tk^
@@ -3286,7 +3283,6 @@
 ||b.xcafe.com^
 ||b0.qinsx.cn^
 ||b02byun5xc3s.com^
-||b0c3ed25eeaa1.com^
 ||b0lc.cn^
 ||b0omr3wn6u4b.com^
 ||b1.0430.com^
@@ -3940,6 +3936,7 @@
 ||browsermine.com^
 ||browsersurf.12finance.com^
 ||brucelead.com^
+||bs.csshq.com.cn^
 ||bs.l.qq.com^
 ||bs.lamrd.cn^
 ||bs.serving-sys.com^
@@ -6335,6 +6332,19 @@
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dko.vente-unique.nl^
 ||dkyp75kj7ldlr.cloudfront.net^
+||dl.9xu.com^
+||dl.browsermine.com^
+||dl.cm.ksmobile.com^
+||dl.eduancm.com^
+||dl.g.youku.com^
+||dl.kinbest.cn^
+||dl.kjava.sina.cn^
+||dl.mbsea.com^
+||dl.meliacloud.com^
+||dl.union.ijinshan.com^
+||dl.uu.cc^
+||dl.weshineapp.com^
+||dl.youjia2016.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlb1uotpjs6s.com^
@@ -6357,7 +6367,6 @@
 ||dm.300zi.com^
 ||dm.388g.cc^
 ||dm.519397.com^
-||dm.66qw.net^
 ||dm.92to.com^
 ||dm.aizhan.com^
 ||dm.bytedance.com^
@@ -6499,8 +6508,21 @@
 ||dougou88.com^
 ||doumob.com^
 ||doushoom.net^
+||down.91wangmeng.com^
+||down.bossbas.com^
+||down.bugeyu.com^
+||down.by8974.com^
+||down.gotek.com.cn^
+||down.winads.cn^
+||down.xiazai2.net^
+||down.xiazaidc.com^
+||downlaod.xiaocen.com^
+||download.123cw.cn^
+||download.350.com^
 ||download.adsage.com^
 ||download.coolguang.com^
+||download.m.37.com^
+||download.qianka.com^
 ||dp.559.cc^
 ||dp.g.doubleclick.net^
 ||dp.im.weibo.cn^
@@ -6685,7 +6707,6 @@
 ||dynamic.zol.com.cn^
 ||dynsrv.wps.cn^
 ||dyssir.com^
-||dz2017.zdzxyplyt.com^
 ||dzais.com^
 ||dzgg.com^
 ||dzizsih.ru^
@@ -6726,16 +6747,13 @@
 ||e.bapkt.com^
 ||e.breezily168.com^
 ||e.bsnnk.com^
-||e.by29s.cn^
 ||e.cdfzcz.com^
-||e.cj59c.cn^
 ||e.ckikq.com^
 ||e.clubske.com^
 ||e.cn.miaozhen.com^
 ||e.coenr.com^
 ||e.cuomm.com^
 ||e.deimm.com^
-||e.dkd21.cn^
 ||e.domob.cn^
 ||e.domob.com.cn^
 ||e.dsjre.com^
@@ -6759,7 +6777,6 @@
 ||e.gk277.cn^
 ||e.gxjfh.com^
 ||e.hc29x.cn^
-||e.hc89s.cn^
 ||e.hcenc.com^
 ||e.hellomingpian.com^
 ||e.hf355.cn^
@@ -6829,7 +6846,6 @@
 ||e.rcaiu.com^
 ||e.resmv.com^
 ||e.ricpt.com^
-||e.rkw29.cn^
 ||e.rpaulfrank.com^
 ||e.sanitwealth.com^
 ||e.sgltc.cn^
@@ -6856,7 +6872,6 @@
 ||e.weixingshexiangji.net^
 ||e.wikigifth.com^
 ||e.wjhehaofc.com^
-||e.wkm89.cn^
 ||e.wnxcg.com^
 ||e.wonwg.com^
 ||e.wsxxu.com^
@@ -7417,6 +7432,7 @@
 ||exh.xuhuihui.top^
 ||exit.beeppool.org^
 ||exit.macandbumble.com^
+||exobafrgdf.com^
 ||exoclick.com^
 ||exofrwe.com^
 ||exp-api.beeppool.org^
@@ -7579,7 +7595,6 @@
 ||fdaoo.com^
 ||fdoun.com^
 ||fds.api.moji.com^
-||fdzsmfyy.com^
 ||fe-au.imrworldwide.com^
 ||fe.lea.lycos.co.uk^
 ||fe1-au.imrworldwide.com^
@@ -7636,7 +7651,6 @@
 ||ffb.feihuo.com^
 ||ffbook.cc^
 ||fff.yuyouge.com^
-||ffhtek.com^
 ||ffickiedisticre.site^
 ||fflsn.com^
 ||ffmobi.com^
@@ -9314,6 +9328,7 @@
 ||img.yangshengtang123.com^
 ||img.yingshidiguo.cn^
 ||img.yinhemining.cn^
+||img.yqgytx.com^
 ||img.yrxmr.com^
 ||img.zsj18.com^
 ||img.zuowen8.com^
@@ -10151,6 +10166,7 @@
 ||jundazulin.com^
 ||junkucm.com^
 ||juroudaw.com^
+||jurtym.cf^
 ||jusha.com^
 ||justickedukil.club^
 ||justookr.net^
@@ -11109,7 +11125,6 @@
 ||m.bskeye.com^
 ||m.bsnnk.com^
 ||m.bvosv.com^
-||m.by29s.cn^
 ||m.byexip.cn^
 ||m.byscy.cn^
 ||m.cdfzcz.com^
@@ -11201,7 +11216,6 @@
 ||m.gz-bz.cn^
 ||m.gzrljx.cn^
 ||m.gzxiuyuan.cn^
-||m.hc89s.cn^
 ||m.hcenc.com^
 ||m.hchik.com^
 ||m.hdjy999.com^
@@ -11292,7 +11306,6 @@
 ||m.meinianguoji.com^
 ||m.mffcf.cn^
 ||m.mgogo.com^
-||m.mh89w.cn^
 ||m.micreative-china.cn^
 ||m.mightiger.net^
 ||m.miiuv.com^
@@ -11423,7 +11436,6 @@
 ||m.whsjg.cn^
 ||m.wikigifth.com^
 ||m.wjhehaofc.com^
-||m.wkm89.cn^
 ||m.wonwg.com^
 ||m.wooboo.com.cn^
 ||m.wshufa.com^
@@ -11480,8 +11492,6 @@
 ||m.zaoss.com^
 ||m.zbsybh.cn^
 ||m.zenwq.com^
-||m.zg39b.cn^
-||m.zkp53.cn^
 ||m.zkwsdf.com^
 ||m.zmlfk.com^
 ||m.zwda.com^
@@ -12387,7 +12397,6 @@
 ||myip.myzaker.com^
 ||myjsym.zichenit.com^
 ||mylovelymommy.tk^
-||mylovesister.gq^
 ||mymm.zichenit.com^
 ||myoffers.bid^
 ||myrtb.net^
@@ -21289,7 +21298,6 @@
 ||ys.da.mgtv.com^
 ||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
-||ysdhe.com^
 ||ysensionlatio.space^
 ||ysgsq.cn^
 ||ysjweb.com^
