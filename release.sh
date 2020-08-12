@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.5.4
+# Current Version: 1.5.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -25,8 +25,6 @@ function GetData() {
         "https://filters.adtidy.org/extension/chromium/filters/3.txt"
         "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
         "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt"
-        "https://raw.githubusercontent.com/VeleSila/VELE-SILA-List/gh-pages/KaFanList.txt"
-        "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt"
