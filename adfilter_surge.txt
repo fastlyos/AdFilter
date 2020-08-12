@@ -1,11 +1,11 @@
-# Checksum: MTU5NzIyMDA0MAo=
+# Checksum: MTU5NzIyMTk0NQo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 # Version: 1.5.2-20200812-2
-# TimeUpdated: 2020-08-12T08:14:00+00:00
+# TimeUpdated: 2020-08-12T08:45:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25981
+# Total: 25988
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,001.0x1f4b0.com
@@ -7655,6 +7655,7 @@ DOMAIN-SUFFIX,download.zhushou.sogou.com
 DOMAIN-SUFFIX,download3.123cw.cn
 DOMAIN-SUFFIX,downloada.dewmobile.net
 DOMAIN-SUFFIX,downloadb.dewmobile.net
+DOMAIN-SUFFIX,downmobile.kugou.com
 DOMAIN-SUFFIX,dp.559.cc
 DOMAIN-SUFFIX,dp.g.doubleclick.net
 DOMAIN-SUFFIX,dp.im.weibo.cn
@@ -15095,6 +15096,7 @@ DOMAIN-SUFFIX,otentieschoo.site
 DOMAIN-SUFFIX,otf.msn.com
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com
 DOMAIN-SUFFIX,oth.str.mdt.qq.com
+DOMAIN-SUFFIX,oth.update.mdt.qq.com
 DOMAIN-SUFFIX,other.v.duowan.com
 DOMAIN-SUFFIX,othesarialiber.club
 DOMAIN-SUFFIX,otheve.beacon.qq.com
@@ -21204,8 +21206,13 @@ DOMAIN-SUFFIX,update.360safe.com
 DOMAIN-SUFFIX,update.bainv.net
 DOMAIN-SUFFIX,update.coolyun.com
 DOMAIN-SUFFIX,update.minipage.2345.com
+DOMAIN-SUFFIX,update.mobile.kugou.com
+DOMAIN-SUFFIX,update.pan.baidu.com
 DOMAIN-SUFFIX,update.sdk.jiguang.cn
+DOMAIN-SUFFIX,update.wps.cn
 DOMAIN-SUFFIX,update0.aiclk.com
+DOMAIN-SUFFIX,updatecenter.qq.com
+DOMAIN-SUFFIX,updatepage.kuwo.cn
 DOMAIN-SUFFIX,updates-s3.binaryage.com
 DOMAIN-SUFFIX,updates.guitar-pro.com
 DOMAIN-SUFFIX,upgraderservices.cf
