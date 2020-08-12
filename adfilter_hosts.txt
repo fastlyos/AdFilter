@@ -1,11 +1,11 @@
-# Checksum: MTU5NzIwMTAzOQo=
+# Checksum: MTU5NzIwMTM5OQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.1-20200812-0
-# TimeUpdated: 2020-08-12T02:57:19+00:00
+# Version: 1.5.1-20200812-1
+# TimeUpdated: 2020-08-12T03:03:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25793
+# Total: 25798
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1064,6 +1064,8 @@ ff02::3 ip6-allhosts
 :: 3wz6z.bchuangpi.cn
 0.0.0.0 3ygww.com
 :: 3ygww.com
+0.0.0.0 3z9e.cn
+:: 3z9e.cn
 0.0.0.0 4.up.qingdaonews.com
 :: 4.up.qingdaonews.com
 0.0.0.0 4006825178.com
@@ -3812,6 +3814,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admd.housefun.com.tw
@@ -13034,6 +13038,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-cache.microad-cn.com
 :: d-cache.microad-cn.com
 0.0.0.0 d-test.39.net
@@ -41166,6 +41172,8 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -41738,6 +41746,8 @@ ff02::3 ip6-allhosts
 :: u51.me
 0.0.0.0 u6.gg
 :: u6.gg
+0.0.0.0 u8.hujiang.com
+:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
