@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.5.1
+# Current Version: 1.5.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -67,15 +67,11 @@ function GetData() {
         "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
         "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist"
         "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
-        "https://raw.githubusercontent.com/VeleSila/yhosts/master/down.txt"
         "https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt"
         "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
         "https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt"
-        "https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/fuck_falun_gong.txt"
-        "https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/makeding.txt"
-        "https://raw.githubusercontent.com/neoFelhz/neohosts/data/_data/extra/safety.txt"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow"
         "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
