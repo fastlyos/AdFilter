@@ -1,11 +1,11 @@
-# Checksum: MTU5NzMzMTAxMgo=
+# Checksum: MTU5NzM0MTc4OQo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200813-5
-# TimeUpdated: 2020-08-13T15:03:32+00:00
+# Version: 1.5.6-20200813-6
+# TimeUpdated: 2020-08-13T18:03:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21628
+# Total: 21627
 DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,0.up.qingdaonews.com
 DOMAIN-SUFFIX,001.0x1f4b0.com
@@ -1673,6 +1673,7 @@ DOMAIN-SUFFIX,admarvel.s3.amazonaws.com
 DOMAIN-SUFFIX,admarvel.top
 DOMAIN-SUFFIX,admaster.com
 DOMAIN-SUFFIX,admaster.com.cn
+DOMAIN-SUFFIX,admaster.mobi
 DOMAIN-SUFFIX,admd.housefun.com.tw
 DOMAIN-SUFFIX,admd.yam.com
 DOMAIN-SUFFIX,admddc.com
@@ -2728,7 +2729,6 @@ DOMAIN-SUFFIX,api.browsermine.com
 DOMAIN-SUFFIX,api.bs.zui.com
 DOMAIN-SUFFIX,api.callget.cn
 DOMAIN-SUFFIX,api.cloudmobi.net
-DOMAIN-SUFFIX,api.cmt.mob.com
 DOMAIN-SUFFIX,api.coin-hive.com
 DOMAIN-SUFFIX,api.coinerra.com
 DOMAIN-SUFFIX,api.coolguang.com
@@ -7986,6 +7986,7 @@ DOMAIN-SUFFIX,garettygrea.space
 DOMAIN-SUFFIX,gas.data.pplive.com
 DOMAIN-SUFFIX,gashot.yurivideos.com
 DOMAIN-SUFFIX,gasolina.ml
+DOMAIN-SUFFIX,gasxf.com
 DOMAIN-SUFFIX,gatetocontent.com
 DOMAIN-SUFFIX,gateway.foresee.com
 DOMAIN-SUFFIX,gateway.fortunelounge.com
@@ -10818,7 +10819,6 @@ DOMAIN-SUFFIX,lol.pnhfc.com
 DOMAIN-SUFFIX,lolads.cn
 DOMAIN-SUFFIX,loldy.jiangmg.com
 DOMAIN-SUFFIX,loldyttw.com
-DOMAIN-SUFFIX,lolmp4.com
 DOMAIN-SUFFIX,lolsefti.com
 DOMAIN-SUFFIX,lomark.cn
 DOMAIN-SUFFIX,lomerswithi.club
@@ -13685,7 +13685,6 @@ DOMAIN-SUFFIX,pp9899.com
 DOMAIN-SUFFIX,pp9kk.com
 DOMAIN-SUFFIX,ppa18.com
 DOMAIN-SUFFIX,ppcashpop.com
-DOMAIN-SUFFIX,ppfjlk1.5tps.vip
 DOMAIN-SUFFIX,pphqq.com
 DOMAIN-SUFFIX,ppoi.org
 DOMAIN-SUFFIX,pps-log.op-mobile.opera.com

@@ -1,11 +1,11 @@
-# Checksum: MTU5NzMzMTAxMgo=
+# Checksum: MTU5NzM0MTc4OQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200813-5
-# TimeUpdated: 2020-08-13T15:03:32+00:00
+# Version: 1.5.6-20200813-6
+# TimeUpdated: 2020-08-13T18:03:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21628
+# Total: 21627
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3350,6 +3350,8 @@ ff02::3 ip6-allhosts
 :: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
+0.0.0.0 admaster.mobi
+:: admaster.mobi
 0.0.0.0 admd.housefun.com.tw
 :: admd.housefun.com.tw
 0.0.0.0 admd.yam.com
@@ -5460,8 +5462,6 @@ ff02::3 ip6-allhosts
 :: api.callget.cn
 0.0.0.0 api.cloudmobi.net
 :: api.cloudmobi.net
-0.0.0.0 api.cmt.mob.com
-:: api.cmt.mob.com
 0.0.0.0 api.coin-hive.com
 :: api.coin-hive.com
 0.0.0.0 api.coinerra.com
@@ -15976,6 +15976,8 @@ ff02::3 ip6-allhosts
 :: gashot.yurivideos.com
 0.0.0.0 gasolina.ml
 :: gasolina.ml
+0.0.0.0 gasxf.com
+:: gasxf.com
 0.0.0.0 gatetocontent.com
 :: gatetocontent.com
 0.0.0.0 gateway.foresee.com
@@ -21640,8 +21642,6 @@ ff02::3 ip6-allhosts
 :: loldy.jiangmg.com
 0.0.0.0 loldyttw.com
 :: loldyttw.com
-0.0.0.0 lolmp4.com
-:: lolmp4.com
 0.0.0.0 lolsefti.com
 :: lolsefti.com
 0.0.0.0 lomark.cn
@@ -27374,8 +27374,6 @@ ff02::3 ip6-allhosts
 :: ppa18.com
 0.0.0.0 ppcashpop.com
 :: ppcashpop.com
-0.0.0.0 ppfjlk1.5tps.vip
-:: ppfjlk1.5tps.vip
 0.0.0.0 pphqq.com
 :: pphqq.com
 0.0.0.0 ppoi.org
