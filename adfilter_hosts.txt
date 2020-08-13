@@ -1,11 +1,11 @@
-# Checksum: MTU5NzMyMDIzMQo=
+# Checksum: MTU5NzMyMjM1Ngo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 # Version: 1.5.6-20200813-4
-# TimeUpdated: 2020-08-13T12:03:51+00:00
+# TimeUpdated: 2020-08-13T12:39:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21649
+# Total: 21627
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5286,8 +5286,6 @@ ff02::3 ip6-allhosts
 :: anothingahy.club
 0.0.0.0 anothingerg.club
 :: anothingerg.club
-0.0.0.0 anquan.baidu.com
-:: anquan.baidu.com
 0.0.0.0 anquan.org
 :: anquan.org
 0.0.0.0 anquanzhuomian.com
@@ -7688,6 +7686,8 @@ ff02::3 ip6-allhosts
 :: bosatria.cn
 0.0.0.0 bosiwangzi.cn
 :: bosiwangzi.cn
+0.0.0.0 bostoppa.club
+:: bostoppa.club
 0.0.0.0 botuu.adsame.com
 :: botuu.adsame.com
 0.0.0.0 boubeeth.com
@@ -10028,8 +10028,6 @@ ff02::3 ip6-allhosts
 :: collectrom.com
 0.0.0.0 coloniansheraz.site
 :: coloniansheraz.site
-0.0.0.0 colorofgod.cn
-:: colorofgod.cn
 0.0.0.0 coltagainst.pro
 :: coltagainst.pro
 0.0.0.0 com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
@@ -12996,16 +12994,12 @@ ff02::3 ip6-allhosts
 :: download.qianka.com
 0.0.0.0 download.sd.baidu.com
 :: download.sd.baidu.com
-0.0.0.0 download.sj.qq.com
-:: download.sj.qq.com
 0.0.0.0 download.wan.sohu.com
 :: download.wan.sohu.com
 0.0.0.0 download.zhushou.sogou.com
 :: download.zhushou.sogou.com
 0.0.0.0 download3.123cw.cn
 :: download3.123cw.cn
-0.0.0.0 downmobile.kugou.com
-:: downmobile.kugou.com
 0.0.0.0 dp.559.cc
 :: dp.559.cc
 0.0.0.0 dp.g.doubleclick.net
@@ -16746,8 +16740,6 @@ ff02::3 ip6-allhosts
 :: guangzhuiyuan.com
 0.0.0.0 guangzizai.com
 :: guangzizai.com
-0.0.0.0 guanjia.qq.com
-:: guanjia.qq.com
 0.0.0.0 guansenff.cn
 :: guansenff.cn
 0.0.0.0 guardian-series-gb.guardian-series.co.uk
@@ -19432,8 +19424,6 @@ ff02::3 ip6-allhosts
 :: ji.8881919.cc
 0.0.0.0 ji.cnbole.net
 :: ji.cnbole.net
-0.0.0.0 jiagu.360.cn
-:: jiagu.360.cn
 0.0.0.0 jiaheyonggu.com
 :: jiaheyonggu.com
 0.0.0.0 jiajv.net
@@ -19492,12 +19482,6 @@ ff02::3 ip6-allhosts
 :: jiejg.ifeng.com
 0.0.0.0 jieyixiu.com
 :: jieyixiu.com
-0.0.0.0 jifen.2345.cn
-:: jifen.2345.cn
-0.0.0.0 jifen.2345.com
-:: jifen.2345.com
-0.0.0.0 jifendownload.2345.cn
-:: jifendownload.2345.cn
 0.0.0.0 jiguang.cn
 :: jiguang.cn
 0.0.0.0 jiirz.com
@@ -20072,8 +20056,6 @@ ff02::3 ip6-allhosts
 :: jssdk.cnzz.com
 0.0.0.0 jssumei.cn
 :: jssumei.cn
-0.0.0.0 jsszxx.com
-:: jsszxx.com
 0.0.0.0 jstdjq.com
 :: jstdjq.com
 0.0.0.0 jsw.xz6d.com
@@ -20598,8 +20580,6 @@ ff02::3 ip6-allhosts
 :: kuaikan.netmon.360safe.com
 0.0.0.0 kuaishang.cn
 :: kuaishang.cn
-0.0.0.0 kuaizip.com
-:: kuaizip.com
 0.0.0.0 kucent.com
 :: kucent.com
 0.0.0.0 kuchebraska.com
@@ -31198,8 +31178,6 @@ ff02::3 ip6-allhosts
 :: sha50.com
 0.0.0.0 shackvideo.com
 :: shackvideo.com
-0.0.0.0 shadu.baidu.com
-:: shadu.baidu.com
 0.0.0.0 shaft.jebe.renren.com
 :: shaft.jebe.renren.com
 0.0.0.0 shake.360.cn
@@ -31324,8 +31302,6 @@ ff02::3 ip6-allhosts
 :: shorug.cn
 0.0.0.0 shostobs.net
 :: shostobs.net
-0.0.0.0 shouji.sougou.com
-:: shouji.sougou.com
 0.0.0.0 shouji.yd126.com
 :: shouji.yd126.com
 0.0.0.0 shouwangba.cn
@@ -37852,22 +37828,6 @@ ff02::3 ip6-allhosts
 :: wallet.brominer.com
 0.0.0.0 wallpapersfacts.com
 :: wallpapersfacts.com
-0.0.0.0 wan.2345.cn
-:: wan.2345.cn
-0.0.0.0 wan.2345.com
-:: wan.2345.com
-0.0.0.0 wan.360.cn
-:: wan.360.cn
-0.0.0.0 wan.douyu.com
-:: wan.douyu.com
-0.0.0.0 wan.rising.cn
-:: wan.rising.cn
-0.0.0.0 wan.sogou.com
-:: wan.sogou.com
-0.0.0.0 wan.sohu.com
-:: wan.sohu.com
-0.0.0.0 wan.youku.com
-:: wan.youku.com
 0.0.0.0 wancai.com
 :: wancai.com
 0.0.0.0 wandara113.xyz
@@ -43020,10 +42980,6 @@ ff02::3 ip6-allhosts
 :: zhuba8.com
 0.0.0.0 zhushicm.com
 :: zhushicm.com
-0.0.0.0 zhushou.2345.cn
-:: zhushou.2345.cn
-0.0.0.0 zhushou.2345.com
-:: zhushou.2345.com
 0.0.0.0 zhwnlapi.etouch.cn
 :: zhwnlapi.etouch.cn
 0.0.0.0 zhybzp.cn
