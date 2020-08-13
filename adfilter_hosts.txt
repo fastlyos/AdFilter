@@ -1,11 +1,11 @@
-# Checksum: MTU5NzMyMjM1Ngo=
+# Checksum: MTU5NzMyMjQyOAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 # Version: 1.5.6-20200813-4
-# TimeUpdated: 2020-08-13T12:39:16+00:00
+# TimeUpdated: 2020-08-13T12:40:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21627
+# Total: 21629
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -21644,6 +21644,8 @@ ff02::3 ip6-allhosts
 :: loldy.jiangmg.com
 0.0.0.0 loldyttw.com
 :: loldyttw.com
+0.0.0.0 lolmp4.com
+:: lolmp4.com
 0.0.0.0 lolsefti.com
 :: lolsefti.com
 0.0.0.0 lomark.cn
@@ -27376,6 +27378,8 @@ ff02::3 ip6-allhosts
 :: ppa18.com
 0.0.0.0 ppcashpop.com
 :: ppcashpop.com
+0.0.0.0 ppfjlk1.5tps.vip
+:: ppfjlk1.5tps.vip
 0.0.0.0 pphqq.com
 :: pphqq.com
 0.0.0.0 ppoi.org
