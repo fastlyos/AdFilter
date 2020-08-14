@@ -1,11 +1,11 @@
-# Checksum: MTU5NzQyODE5Nwo=
+# Checksum: MTU5NzQzOTAwNAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200814-6
-# TimeUpdated: 2020-08-14T18:03:17+00:00
+# Version: 1.5.6-20200814-7
+# TimeUpdated: 2020-08-14T21:03:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21677
+# Total: 21675
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1924,8 +1924,6 @@ ff02::3 ip6-allhosts
 :: a.armystar.com
 0.0.0.0 a.baidu.com
 :: a.baidu.com
-0.0.0.0 a.baiy.net
-:: a.baiy.net
 0.0.0.0 a.bake818.cn
 :: a.bake818.cn
 0.0.0.0 a.benshiw.net
@@ -6348,8 +6346,6 @@ ff02::3 ip6-allhosts
 :: automationeventually.com
 0.0.0.0 automoc.net
 :: automoc.net
-0.0.0.0 auuux.com
-:: auuux.com
 0.0.0.0 av1.xdrig.com
 :: av1.xdrig.com
 0.0.0.0 av8d.net
@@ -6636,6 +6632,8 @@ ff02::3 ip6-allhosts
 :: baidustatic.com
 0.0.0.0 baidut.github.io
 :: baidut.github.io
+0.0.0.0 baiduvip.life
+:: baiduvip.life
 0.0.0.0 baiduyoukualiyun.com
 :: baiduyoukualiyun.com
 0.0.0.0 baiduyubaidu.com
@@ -42696,8 +42694,6 @@ ff02::3 ip6-allhosts
 :: yueduyy.com
 0.0.0.0 yueyelive.com
 :: yueyelive.com
-0.0.0.0 yueyuelao.cn
-:: yueyuelao.cn
 0.0.0.0 yujianai520.com
 :: yujianai520.com
 0.0.0.0 yujiangchu.com
