@@ -1,11 +1,11 @@
-! Checksum: MTU5NzQwNjY3Nwo=
+! Checksum: MTU5NzQxNzM5OQo=
 ! Title: Zhijie's Ad Filter for Adblock
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.5.6-20200814-4
-! TimeUpdated: 2020-08-14T12:04:37+00:00
+! Version: 1.5.6-20200814-5
+! TimeUpdated: 2020-08-14T15:03:19+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 21651
+! Total: 21677
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||001.0x1f4b0.com^
@@ -491,6 +491,7 @@
 ||4690y10pvpq8.com^
 ||46cq.cn^
 ||46sg.com^
+||4798c7b036.com^
 ||49453k0l.vr.loveota.com^
 ||49453k0l.vs.loveota.com^
 ||4df5ef.xyz^
@@ -501,7 +502,6 @@
 ||4ib3rzfjqh.buzz^
 ||4ixbffsib0.monster^
 ||4jnxb9dnj.com^
-||4kyu.cn^
 ||4nemiaje2.aupig.cn^
 ||4o7cj36hbaip.com^
 ||4prgkoj870j9.com^
@@ -598,6 +598,7 @@
 ||5aa8f31e2f5d.com^
 ||5aac971e.qivsod.com^
 ||5c.com.cn^
+||5c43cbc0f41.com^
 ||5c577fc74618431b.com^
 ||5cwr93yyd4lf.com^
 ||5dydk.com^
@@ -1283,6 +1284,7 @@
 ||actlog.dftoutiao.com^
 ||actsdk.idreamsky.com^
 ||acuityplatform.com^
+||acv5e.cn^
 ||ad-analysis.pconline.com.cn^
 ||ad-analytics-bootstrap.metaps.com^
 ||ad-android.51wnl.com^
@@ -3715,7 +3717,6 @@
 ||bitdash-reporting.appspot.com^
 ||bite.theta.sogoucdn.com^
 ||bivitr.com^
-||bixinkeji.top^
 ||biz.gexing.com^
 ||biz.live.xunlei.com^
 ||biz.vpon.com^
@@ -3986,6 +3987,7 @@
 ||c-hzgt2.getui.com^
 ||c-nfa.jd.com^
 ||c.35kds.com^
+||c.4pl1gr.cn^
 ||c.51xmgys.com^
 ||c.51y5.net^
 ||c.ad6media.fr^
@@ -4020,6 +4022,7 @@
 ||c.effectivemeasure.net^
 ||c.esvlqmd.cn^
 ||c.f1zd.com^
+||c.fedsdq.com^
 ||c.future888.net^
 ||c.gazetevatan.com^
 ||c.gdt.qq.com^
@@ -4052,6 +4055,7 @@
 ||c.sayhi.360.cn^
 ||c.silvinst.com^
 ||c.sntzq.com^
+||c.sofg68.cn^
 ||c.ssp.qq.com^
 ||c.sssgao999.com^
 ||c.statcounter.com^
@@ -4208,6 +4212,7 @@
 ||carefuseds.club^
 ||carfax.sc.omtrdc.net^
 ||carl.pubsvs.com^
+||carnol.cn^
 ||carpetusiko.club^
 ||carstat.bitauto.com^
 ||cartekj.com^
@@ -6096,6 +6101,7 @@
 ||definitedikdra.site^
 ||dehua.ixinfan.com^
 ||dehua.mengtubo.com^
+||dehydratedpredestinationplenty.com^
 ||deiligejenter.com^
 ||dejavu.mercadolivre.com.br^
 ||dejourned.club^
@@ -6801,6 +6807,7 @@
 ||e.sgltc.cn^
 ||e.sogou.com^
 ||e.suehy.com^
+||e.swujhkc.cn^
 ||e.szqifu.com^
 ||e.t71q.com^
 ||e.tapdb.net^
@@ -6814,6 +6821,7 @@
 ||e.vjuei.com^
 ||e.vkuay.com^
 ||e.w6xj4.cn^
+||e.wdsrsw.cn^
 ||e.weather.com.cn^
 ||e.weixingshexiangji.net^
 ||e.wikigifth.com^
@@ -7150,15 +7158,19 @@
 ||eo.h7t2f.xyz^
 ||eo.hdschw.cn^
 ||eo.nftqkq.cn^
+||eo.qpmue.xyz^
 ||eo.rjfkrzwk.cn^
+||eo.rtgvghi.cn^
 ||eo.sdadxz.xyz^
 ||eo.sdafxz.xyz^
 ||eo.sdagxz.xyz^
 ||eo.sdakxz.xyz^
 ||eo.ssdoi.com^
 ||eo.syrki.xyz^
+||eo.trpsm.xyz^
 ||eo.un060y.cn^
 ||eo.wamcjfg.cn^
+||eo.ysny4f.cn^
 ||eo.zvygzatj.cn^
 ||eo.zzbya.xyz^
 ||eo.zzbyb.xyz^
@@ -11262,6 +11274,7 @@
 ||m.skspt.cn^
 ||m.sosjyx.com^
 ||m.suehy.com^
+||m.swujhkc.cn^
 ||m.sxkecaiwenhua.cn^
 ||m.symac.cn^
 ||m.symad.cn^
@@ -11530,6 +11543,7 @@
 ||match.rtbidder.net^
 ||match.rundsp.com^
 ||match.taboola.com^
+||matchedule.club^
 ||matching.targeterra.com^
 ||matchintsv.club^
 ||matekernes.fun^
@@ -11974,8 +11988,10 @@
 ||mo.mptckm.cn^
 ||mo.qb138.cn^
 ||mo.qitouch.cn^
+||mo.qpmue.xyz^
 ||mo.res.wpscdn.cn^
 ||mo.rjfkrzwk.cn^
+||mo.rtgvghi.cn^
 ||mo.sdafxz.xyz^
 ||mo.sdagxz.xyz^
 ||mo.sdalxz.xyz^
@@ -11984,10 +12000,12 @@
 ||mo.ssdoi.com^
 ||mo.syrki.xyz^
 ||mo.test.haloapps.com^
+||mo.trpsm.xyz^
 ||mo.un060y.cn^
 ||mo.wamcjfg.cn^
 ||mo.xk218.cn^
 ||mo.xm223.cn^
+||mo.ysny4f.cn^
 ||mo.zdceaa.cn^
 ||mo.zk43i.xyz^
 ||mo.zsyse.top^
@@ -12957,6 +12975,7 @@
 ||othyightmare.club^
 ||otsurvedchange.info^
 ||ou188.com^
+||oufauthy.net^
 ||ouftukoo.net^
 ||oughgoalityabo.info^
 ||oukreesy.net^
@@ -14855,6 +14874,7 @@
 ||s.sqszs.top^
 ||s.ssggba.top^
 ||s.sufficient.cn^
+||s.syxsb.top^
 ||s.temaidi.com^
 ||s.trafficjam.cn^
 ||s.uidcn.top^
@@ -16643,6 +16663,7 @@
 ||stc.za.zaloapp.com^
 ||stdst.cn^
 ||steadfastsystem.com^
+||stedintelo.club^
 ||steelhousemedia.com^
 ||steepto.com^
 ||stellite.crypto-webminer.com^
@@ -17963,6 +17984,7 @@
 ||trafforsrv.com^
 ||trafiq.loan^
 ||trafiq.stream^
+||trafiq.win^
 ||traighteri.club^
 ||tralog.ganji.com^
 ||tran.mediav.com^
@@ -18522,6 +18544,7 @@
 ||uzyid.cn^
 ||v-pack.net^
 ||v-sence.gentags.net^
+||v.4pl1gr.cn^
 ||v.6dvip.com^
 ||v.9y88.com^
 ||v.admaster.com.cn^
@@ -18533,6 +18556,7 @@
 ||v.domob.cn^
 ||v.e7002.com^
 ||v.esvlqmd.cn^
+||v.fedsdq.com^
 ||v.gdt.qq.com^
 ||v.heygugu.com^
 ||v.irs01.com^
@@ -18543,6 +18567,7 @@
 ||v.rmbn.net^
 ||v.rxconkz.cn^
 ||v.shangyingwm.com^
+||v.sofg68.cn^
 ||v.szpaopao.com^
 ||v.tf.360.cn^
 ||v.u22l.cc^
@@ -21651,6 +21676,7 @@
 ||zzpush.58.com^
 ||zzqqhb.com^
 ||zzsdjq.com^
+||zzwpsm.cn^
 ||zzy.mipujia.com^
 ||zzy.quyaoya.com^
 ||zzy1.mipujia.com^
