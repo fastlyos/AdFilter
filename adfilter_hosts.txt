@@ -1,11 +1,11 @@
-# Checksum: MTU5NzM2MzYyOAo=
+# Checksum: MTU5NzM3NDE5Nwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200814-0
-# TimeUpdated: 2020-08-14T00:07:08+00:00
+# Version: 1.5.6-20200814-1
+# TimeUpdated: 2020-08-14T03:03:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21635
+# Total: 21646
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2412,6 +2412,8 @@ ff02::3 ip6-allhosts
 :: ablen10.tk
 0.0.0.0 ablen11.tk
 :: ablen11.tk
+0.0.0.0 ablen12.tk
+:: ablen12.tk
 0.0.0.0 ablymechan.club
 :: ablymechan.club
 0.0.0.0 abnormaticn.club
@@ -12200,6 +12202,8 @@ ff02::3 ip6-allhosts
 :: deiligejenter.com
 0.0.0.0 dejavu.mercadolivre.com.br
 :: dejavu.mercadolivre.com.br
+0.0.0.0 dejourned.club
+:: dejourned.club
 0.0.0.0 dekoder.ws
 :: dekoder.ws
 0.0.0.0 delainlygoverhe.info
@@ -13040,6 +13044,8 @@ ff02::3 ip6-allhosts
 :: dr3k6qonw2kee.cloudfront.net
 0.0.0.0 dr8pk6ovub897.cloudfront.net
 :: dr8pk6ovub897.cloudfront.net
+0.0.0.0 dragolosa.com
+:: dragolosa.com
 0.0.0.0 dragoncent.com
 :: dragoncent.com
 0.0.0.0 drd.hauchi.com.tw
@@ -15086,8 +15092,6 @@ ff02::3 ip6-allhosts
 :: febadu.com
 0.0.0.0 federalderok.club
 :: federalderok.club
-0.0.0.0 fedsdq.com
-:: fedsdq.com
 0.0.0.0 fedsit.com
 :: fedsit.com
 0.0.0.0 feed-image.baidu.com
@@ -17540,6 +17544,8 @@ ff02::3 ip6-allhosts
 :: hnhycp.com
 0.0.0.0 hnksln.com
 :: hnksln.com
+0.0.0.0 hnkuangshan.cn
+:: hnkuangshan.cn
 0.0.0.0 hnkyjj.com
 :: hnkyjj.com
 0.0.0.0 hntymg.com
@@ -17682,6 +17688,8 @@ ff02::3 ip6-allhosts
 :: hstats.hepsiburada.com
 0.0.0.0 hszbsj.com
 :: hszbsj.com
+0.0.0.0 ht.ruanjiancms.com
+:: ht.ruanjiancms.com
 0.0.0.0 htfmbt.com
 :: htfmbt.com
 0.0.0.0 html.696157.com
@@ -19330,6 +19338,8 @@ ff02::3 ip6-allhosts
 :: jc.0351dvd.cn
 0.0.0.0 jc.anhuilitian.net
 :: jc.anhuilitian.net
+0.0.0.0 jc.bubbleandyeson.com
+:: jc.bubbleandyeson.com
 0.0.0.0 jc.charlesfc.com
 :: jc.charlesfc.com
 0.0.0.0 jc.szjianxin.net
@@ -22798,8 +22808,6 @@ ff02::3 ip6-allhosts
 :: m3bnqqqw.com
 0.0.0.0 m72r.com
 :: m72r.com
-0.0.0.0 m9.xcdf.cn
-:: m9.xcdf.cn
 0.0.0.0 m9.xcy8.com
 :: m9.xcy8.com
 0.0.0.0 m968kpz550cx.com
@@ -23618,6 +23626,8 @@ ff02::3 ip6-allhosts
 :: mineraldoubte.club
 0.0.0.0 minerclaim.net
 :: minerclaim.net
+0.0.0.0 minercry.pt
+:: minercry.pt
 0.0.0.0 minero-proxy-01.now.sh
 :: minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
@@ -24214,6 +24224,8 @@ ff02::3 ip6-allhosts
 :: moxiaoyang.top
 0.0.0.0 mozgvya.com
 :: mozgvya.com
+0.0.0.0 mozist.com
+:: mozist.com
 0.0.0.0 mp.miaomiaojia.cc
 :: mp.miaomiaojia.cc
 0.0.0.0 mp.qy9.net
@@ -24458,6 +24470,8 @@ ff02::3 ip6-allhosts
 :: muqson0kgr.com
 0.0.0.0 musik-mp3.info
 :: musik-mp3.info
+0.0.0.0 mutuza.win
+:: mutuza.win
 0.0.0.0 muusn.cn
 :: muusn.cn
 0.0.0.0 muzsj.com
@@ -25406,6 +25420,8 @@ ff02::3 ip6-allhosts
 :: nykps.com
 0.0.0.0 nyshoweverislat.fun
 :: nyshoweverislat.fun
+0.0.0.0 nysita.com
+:: nysita.com
 0.0.0.0 nz04com.com
 :: nz04com.com
 0.0.0.0 nzezn.com
@@ -29646,8 +29662,6 @@ ff02::3 ip6-allhosts
 :: s.jjcclc.top
 0.0.0.0 s.jpush.cn
 :: s.jpush.cn
-0.0.0.0 s.khgj.cn
-:: s.khgj.cn
 0.0.0.0 s.komoona.com
 :: s.komoona.com
 0.0.0.0 s.l.fastapi.net
@@ -29682,8 +29696,6 @@ ff02::3 ip6-allhosts
 :: s.qzkxt.com
 0.0.0.0 s.renren.com
 :: s.renren.com
-0.0.0.0 s.ryre.cn
-:: s.ryre.cn
 0.0.0.0 s.shaowenhao.top
 :: s.shaowenhao.top
 0.0.0.0 s.share.baidu.com
@@ -32368,6 +32380,8 @@ ff02::3 ip6-allhosts
 :: ssv.admaster.com.cn
 0.0.0.0 ssxd.mediav.com
 :: ssxd.mediav.com
+0.0.0.0 ssy.syzzhd.cn
+:: ssy.syzzhd.cn
 0.0.0.0 st-n.ads3-adnow.com
 :: st-n.ads3-adnow.com
 0.0.0.0 st.arte.tv
@@ -32710,8 +32724,6 @@ ff02::3 ip6-allhosts
 :: static.baifendian.com
 0.0.0.0 static.baixingcdn.com
 :: static.baixingcdn.com
-0.0.0.0 static.beilamusi.com
-:: static.beilamusi.com
 0.0.0.0 static.bepolite.eu
 :: static.bepolite.eu
 0.0.0.0 static.bitmedianetwork.com
@@ -34662,6 +34674,8 @@ ff02::3 ip6-allhosts
 :: therejockeryfu.fun
 0.0.0.0 thernouverge.site
 :: thernouverge.site
+0.0.0.0 thersprens.com
+:: thersprens.com
 0.0.0.0 thescottishfarmer-gb.thescottishfarmer.co.uk
 :: thescottishfarmer-gb.thescottishfarmer.co.uk
 0.0.0.0 theta.sogou.com
@@ -37014,6 +37028,8 @@ ff02::3 ip6-allhosts
 :: uzk4umokyri3.com
 0.0.0.0 uzpmrbek.com
 :: uzpmrbek.com
+0.0.0.0 uzsrh.cn
+:: uzsrh.cn
 0.0.0.0 uzyid.cn
 :: uzyid.cn
 0.0.0.0 v-pack.net
@@ -37548,6 +37564,8 @@ ff02::3 ip6-allhosts
 :: vknrfwwxhxaxupqp.pro
 0.0.0.0 vkuay.com
 :: vkuay.com
+0.0.0.0 vl8c4g7tmo.me
+:: vl8c4g7tmo.me
 0.0.0.0 vlbtjqngtvuqo.com
 :: vlbtjqngtvuqo.com
 0.0.0.0 vletv.admaster.com.cn
@@ -40688,6 +40706,8 @@ ff02::3 ip6-allhosts
 :: www.qdhongyushun.com
 0.0.0.0 www.qinchugudao.com
 :: www.qinchugudao.com
+0.0.0.0 www.qqads.com
+:: www.qqads.com
 0.0.0.0 www.qumi.com
 :: www.qumi.com
 0.0.0.0 www.qupinhj.com
@@ -42688,6 +42708,8 @@ ff02::3 ip6-allhosts
 :: yxszy.com
 0.0.0.0 yxxwyz.com
 :: yxxwyz.com
+0.0.0.0 yy.xinqiannv.com
+:: yy.xinqiannv.com
 0.0.0.0 yy2018.jintonghua.com
 :: yy2018.jintonghua.com
 0.0.0.0 yy32.com
