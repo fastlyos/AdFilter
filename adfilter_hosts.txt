@@ -1,11 +1,11 @@
-# Checksum: MTU5NzQzOTAwNAo=
+# Checksum: MTU5NzQ1MDA3Nwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200814-7
-# TimeUpdated: 2020-08-14T21:03:24+00:00
+# Version: 1.5.6-20200815-0
+# TimeUpdated: 2020-08-15T00:07:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21675
+# Total: 21672
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5794,8 +5794,6 @@ ff02::3 ip6-allhosts
 :: app.wapx.cn
 0.0.0.0 app.wumii.com
 :: app.wumii.com
-0.0.0.0 app.xdrig.com
-:: app.xdrig.com
 0.0.0.0 app.xizi.com
 :: app.xizi.com
 0.0.0.0 app01.nodes.gslb.mi-idc.com
@@ -6346,8 +6344,6 @@ ff02::3 ip6-allhosts
 :: automationeventually.com
 0.0.0.0 automoc.net
 :: automoc.net
-0.0.0.0 av1.xdrig.com
-:: av1.xdrig.com
 0.0.0.0 av8d.net
 :: av8d.net
 0.0.0.0 avapp.tv
@@ -6394,8 +6390,6 @@ ff02::3 ip6-allhosts
 :: awkjs.com
 0.0.0.0 awqsaged.cn
 :: awqsaged.cn
-0.0.0.0 awtvnrgwxletd.com
-:: awtvnrgwxletd.com
 0.0.0.0 ax.120ask.com
 :: ax.120ask.com
 0.0.0.0 ax.ggfeng.com
@@ -6444,8 +6438,6 @@ ff02::3 ip6-allhosts
 :: b.appjiagu.com
 0.0.0.0 b.babylon.com
 :: b.babylon.com
-0.0.0.0 b.baiy.net
-:: b.baiy.net
 0.0.0.0 b.bedop.com
 :: b.bedop.com
 0.0.0.0 b.boyfriendtv.com
@@ -22448,6 +22440,8 @@ ff02::3 ip6-allhosts
 :: m.niutaizong.cn
 0.0.0.0 m.nkjfzq43034.cn
 :: m.nkjfzq43034.cn
+0.0.0.0 m.nmtouzi.com
+:: m.nmtouzi.com
 0.0.0.0 m.nxypz.com
 :: m.nxypz.com
 0.0.0.0 m.nydjsm.cn
