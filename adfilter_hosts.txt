@@ -1,11 +1,11 @@
-# Checksum: MTU5NzQ1MDA3Nwo=
+# Checksum: MTU5NzQ2MDYwOAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200815-0
-# TimeUpdated: 2020-08-15T00:07:57+00:00
+# Version: 1.5.6-20200815-1
+# TimeUpdated: 2020-08-15T03:03:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21672
+# Total: 21679
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -12794,6 +12794,8 @@ ff02::3 ip6-allhosts
 :: dmtracking.1688.com
 0.0.0.0 dmtrck.com
 :: dmtrck.com
+0.0.0.0 dmtu.0m31a.cn
+:: dmtu.0m31a.cn
 0.0.0.0 dmvbdfblevxvx.com
 :: dmvbdfblevxvx.com
 0.0.0.0 dmym.aixyy.com
@@ -13966,6 +13968,8 @@ ff02::3 ip6-allhosts
 :: ee.wz382.cn
 0.0.0.0 ee.xr883.cn
 :: ee.xr883.cn
+0.0.0.0 ee.zowmgxpz.cn
+:: ee.zowmgxpz.cn
 0.0.0.0 eec.sachbs.club
 :: eec.sachbs.club
 0.0.0.0 eeeqi.cn
@@ -15898,6 +15902,8 @@ ff02::3 ip6-allhosts
 :: galaxy.bjcathay.com
 0.0.0.0 galaxy.sogoucdn.com
 :: galaxy.sogoucdn.com
+0.0.0.0 galaxyns.com
+:: galaxyns.com
 0.0.0.0 galbrechen.club
 :: galbrechen.club
 0.0.0.0 gam.adnxs.com
@@ -16224,6 +16230,8 @@ ff02::3 ip6-allhosts
 :: geoshopping.nzherald.co.nz
 0.0.0.0 gepush.com
 :: gepush.com
+0.0.0.0 geryi.com
+:: geryi.com
 0.0.0.0 gesymphone.site
 :: gesymphone.site
 0.0.0.0 get.webxmr.com
@@ -19464,8 +19472,6 @@ ff02::3 ip6-allhosts
 :: jianduankm.com
 0.0.0.0 jianglongjie.cn
 :: jianglongjie.cn
-0.0.0.0 jianmei123.com
-:: jianmei123.com
 0.0.0.0 jiansuo.dsxdn.com
 :: jiansuo.dsxdn.com
 0.0.0.0 jianyousj.com
@@ -22744,6 +22750,8 @@ ff02::3 ip6-allhosts
 :: m.zkwsdf.com
 0.0.0.0 m.zmlfk.com
 :: m.zmlfk.com
+0.0.0.0 m.zowmgxpz.cn
+:: m.zowmgxpz.cn
 0.0.0.0 m.zwda.com
 :: m.zwda.com
 0.0.0.0 m.zwdu.com
@@ -23438,8 +23446,6 @@ ff02::3 ip6-allhosts
 :: metrics.scribblelive.com
 0.0.0.0 metrics.sdkbox.com
 :: metrics.sdkbox.com
-0.0.0.0 metrics.seenon.com
-:: metrics.seenon.com
 0.0.0.0 metrics.ted.com
 :: metrics.ted.com
 0.0.0.0 metrics.timewarnercable.com
@@ -28330,6 +28336,8 @@ ff02::3 ip6-allhosts
 :: qp3lgzt6exyn.com
 0.0.0.0 qpb.sohu.com
 :: qpb.sohu.com
+0.0.0.0 qpmue.xyz
+:: qpmue.xyz
 0.0.0.0 qpokok.com
 :: qpokok.com
 0.0.0.0 qq.8368661.com
@@ -28438,8 +28446,6 @@ ff02::3 ip6-allhosts
 :: quw18.com
 0.0.0.0 qw.baidu.com
 :: qw.baidu.com
-0.0.0.0 qwe.jzpxyd.com
-:: qwe.jzpxyd.com
 0.0.0.0 qwerq133.xyz
 :: qwerq133.xyz
 0.0.0.0 qwertycoin.crypto-webminer.com
@@ -32378,6 +32384,8 @@ ff02::3 ip6-allhosts
 :: ssp.kdnet.net
 0.0.0.0 ssp.kss.ksyun.com
 :: ssp.kss.ksyun.com
+0.0.0.0 ssp.kxly360.com
+:: ssp.kxly360.com
 0.0.0.0 ssp.njxzwh.com
 :: ssp.njxzwh.com
 0.0.0.0 ssp.pro.cn
@@ -33484,6 +33492,8 @@ ff02::3 ip6-allhosts
 :: sub.ykimg.com
 0.0.0.0 sub2.avgle.com
 :: sub2.avgle.com
+0.0.0.0 subloader.cf
+:: subloader.cf
 0.0.0.0 submarinebarbecueemigrant.com
 :: submarinebarbecueemigrant.com
 0.0.0.0 subo.logger.baofeng.com
@@ -35164,6 +35174,8 @@ ff02::3 ip6-allhosts
 :: toutiao.2haha.com
 0.0.0.0 toxicbraid.com
 :: toxicbraid.com
+0.0.0.0 tozvhcq.cn
+:: tozvhcq.cn
 0.0.0.0 tp.deawm.com
 :: tp.deawm.com
 0.0.0.0 tp.ranker.com
@@ -39952,6 +39964,8 @@ ff02::3 ip6-allhosts
 :: www.dajean.com
 0.0.0.0 www.danpinwu.com
 :: www.danpinwu.com
+0.0.0.0 www.danqingschool.com
+:: www.danqingschool.com
 0.0.0.0 www.daoyoudao.com
 :: www.daoyoudao.com
 0.0.0.0 www.darking03.tk
