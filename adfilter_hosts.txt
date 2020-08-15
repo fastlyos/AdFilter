@@ -1,8 +1,8 @@
-# Checksum: MTU5NzUwMzc5Mwo=
+# Checksum: MTU5NzUxNDYwMwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200815-5
-# TimeUpdated: 2020-08-15T15:03:13+00:00
+# Version: 1.5.6-20200815-6
+# TimeUpdated: 2020-08-15T18:03:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 21691
@@ -8762,8 +8762,6 @@ ff02::3 ip6-allhosts
 :: cdn.wuyou.ca
 0.0.0.0 cdn.xianliao.me
 :: cdn.xianliao.me
-0.0.0.0 cdn.zampda.net
-:: cdn.zampda.net
 0.0.0.0 cdn.zampdsp.com
 :: cdn.zampdsp.com
 0.0.0.0 cdn.zyc888.top
@@ -9486,8 +9484,6 @@ ff02::3 ip6-allhosts
 :: cloud-miner.eu
 0.0.0.0 cloud.codenow.cn
 :: cloud.codenow.cn
-0.0.0.0 cloud.xdrig.com
-:: cloud.xdrig.com
 0.0.0.0 cloud.zyiis.net
 :: cloud.zyiis.net
 0.0.0.0 cloudcdn.dopa.com
@@ -23402,6 +23398,8 @@ ff02::3 ip6-allhosts
 :: meter-svc.nytimes.com
 0.0.0.0 metermsew.club
 :: metermsew.club
+0.0.0.0 methickarda.club
+:: methickarda.club
 0.0.0.0 methingewsf.club
 :: methingewsf.club
 0.0.0.0 methiopia.club
@@ -26668,6 +26666,8 @@ ff02::3 ip6-allhosts
 :: pheevoug.com
 0.0.0.0 phenylketh.site
 :: phenylketh.site
+0.0.0.0 philation.club
+:: philation.club
 0.0.0.0 phoenix.untd.com
 :: phoenix.untd.com
 0.0.0.0 phoobsoo.net
