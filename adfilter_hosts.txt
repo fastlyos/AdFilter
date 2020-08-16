@@ -1,11 +1,11 @@
-# Checksum: MTU5NzU3OTQ0NAo=
+# Checksum: MTU5NzU5MDIyOQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200816-4
-# TimeUpdated: 2020-08-16T12:04:04+00:00
+# Version: 1.5.6-20200816-5
+# TimeUpdated: 2020-08-16T15:03:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21759
+# Total: 21768
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2060,8 +2060,6 @@ ff02::3 ip6-allhosts
 :: a.sayloving.com
 0.0.0.0 a.shenchuang.com
 :: a.shenchuang.com
-0.0.0.0 a.soonyou123.com
-:: a.soonyou123.com
 0.0.0.0 a.stka8.com
 :: a.stka8.com
 0.0.0.0 a.tanx.com
@@ -2808,8 +2806,6 @@ ff02::3 ip6-allhosts
 :: ad.kissanime.io
 0.0.0.0 ad.kisscartoon.io
 :: ad.kisscartoon.io
-0.0.0.0 ad.kisscartoon.is
-:: ad.kisscartoon.is
 0.0.0.0 ad.leadbolt.net
 :: ad.leadbolt.net
 0.0.0.0 ad.leadboltads.net
@@ -3976,8 +3972,6 @@ ff02::3 ip6-allhosts
 :: adszs.com
 0.0.0.0 adszui.com
 :: adszui.com
-0.0.0.0 adt.xdrig.com
-:: adt.xdrig.com
 0.0.0.0 adtaily.com
 :: adtaily.com
 0.0.0.0 adtech.de
@@ -4712,6 +4706,8 @@ ff02::3 ip6-allhosts
 :: amre.work
 0.0.0.0 ams.lenovomm.com
 :: ams.lenovomm.com
+0.0.0.0 amsfi.com
+:: amsfi.com
 0.0.0.0 amsthr.com
 :: amsthr.com
 0.0.0.0 amsvts.com
@@ -9868,6 +9864,8 @@ ff02::3 ip6-allhosts
 :: codedexchange.com
 0.0.0.0 codejumps.com
 :: codejumps.com
+0.0.0.0 codemylife.info
+:: codemylife.info
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -10178,6 +10176,8 @@ ff02::3 ip6-allhosts
 :: consent.api.osano.com
 0.0.0.0 consent.berliner-kurier.de
 :: consent.berliner-kurier.de
+0.0.0.0 consent.gutefrage.net
+:: consent.gutefrage.net
 0.0.0.0 consent.inm.ie
 :: consent.inm.ie
 0.0.0.0 consent.mz-web.de
@@ -10714,6 +10714,8 @@ ff02::3 ip6-allhosts
 :: cps.yaoqing.com
 0.0.0.0 cpshwl.cn
 :: cpshwl.cn
+0.0.0.0 cpsrvng.xyz
+:: cpsrvng.xyz
 0.0.0.0 cpt.itv.com
 :: cpt.itv.com
 0.0.0.0 cpu-admin.baidu.com
@@ -15036,6 +15038,8 @@ ff02::3 ip6-allhosts
 :: fastdln.com
 0.0.0.0 fastdlr.com
 :: fastdlr.com
+0.0.0.0 fastenpaganhelm.com
+:: fastenpaganhelm.com
 0.0.0.0 fastpopclick.com
 :: fastpopclick.com
 0.0.0.0 fastpopunder.com
@@ -18852,6 +18856,8 @@ ff02::3 ip6-allhosts
 :: ineffieldinforget.site
 0.0.0.0 ineldacarry.pro
 :: ineldacarry.pro
+0.0.0.0 inextricableaveragefourteenth.com
+:: inextricableaveragefourteenth.com
 0.0.0.0 infamylists.com
 :: infamylists.com
 0.0.0.0 infinityid.condenastdigital.com
@@ -19242,8 +19248,6 @@ ff02::3 ip6-allhosts
 :: iulianus-mon.com
 0.0.0.0 iupot.com
 :: iupot.com
-0.0.0.0 iurhxzmr.ga.gfycat.com
-:: iurhxzmr.ga.gfycat.com
 0.0.0.0 iutr.uozwys.top
 :: iutr.uozwys.top
 0.0.0.0 ivy.pcauto.com.cn
@@ -20374,6 +20378,8 @@ ff02::3 ip6-allhosts
 :: kbn.korben.info
 0.0.0.0 kbnetworkz.s3.amazonaws.com
 :: kbnetworkz.s3.amazonaws.com
+0.0.0.0 kbzdxt.com
+:: kbzdxt.com
 0.0.0.0 kc.gouchezj.com
 :: kc.gouchezj.com
 0.0.0.0 kc.jjhaolin.com
@@ -22412,6 +22418,8 @@ ff02::3 ip6-allhosts
 :: m.julitenj.com
 0.0.0.0 m.jusdq.com
 :: m.jusdq.com
+0.0.0.0 m.k2d98mi.cn
+:: m.k2d98mi.cn
 0.0.0.0 m.kejet.net
 :: m.kejet.net
 0.0.0.0 m.khuoy.com
@@ -24192,6 +24200,8 @@ ff02::3 ip6-allhosts
 :: mohammequhe.site
 0.0.0.0 moka.inte.sogoucdn.com
 :: moka.inte.sogoucdn.com
+0.0.0.0 moleforgotbran.casa
+:: moleforgotbran.casa
 0.0.0.0 mollnia.com
 :: mollnia.com
 0.0.0.0 momwentthere.cf
@@ -25114,6 +25124,8 @@ ff02::3 ip6-allhosts
 :: nhz.adwo.com
 0.0.0.0 ni6cdwf6w5xr.com
 :: ni6cdwf6w5xr.com
+0.0.0.0 ni87.com
+:: ni87.com
 0.0.0.0 nibzitgas.com
 :: nibzitgas.com
 0.0.0.0 nice.kuaizq.com
@@ -27412,6 +27424,8 @@ ff02::3 ip6-allhosts
 :: polkoa.com
 0.0.0.0 pomhz.com
 :: pomhz.com
+0.0.0.0 pong.fccay.cn
+:: pong.fccay.cn
 0.0.0.0 pool-de.supportxmr.com
 :: pool-de.supportxmr.com
 0.0.0.0 pool.aeon.hashvault.pro
@@ -28514,6 +28528,8 @@ ff02::3 ip6-allhosts
 :: quadrupleclick.com
 0.0.0.0 quaetabib.com
 :: quaetabib.com
+0.0.0.0 quan7.cc
+:: quan7.cc
 0.0.0.0 quanbailing.com
 :: quanbailing.com
 0.0.0.0 quanjiapp.cn
@@ -34354,6 +34370,8 @@ ff02::3 ip6-allhosts
 :: tactics.bainv.net
 0.0.0.0 tad.suning.com
 :: tad.suning.com
+0.0.0.0 tadsitblimp.com
+:: tadsitblimp.com
 0.0.0.0 tag-store.ads-pixiv.net
 :: tag-store.ads-pixiv.net
 0.0.0.0 tag.aumago.com
@@ -36218,8 +36236,6 @@ ff02::3 ip6-allhosts
 :: trothko.com
 0.0.0.0 trouvredawes.site
 :: trouvredawes.site
-0.0.0.0 trpsm.xyz
-:: trpsm.xyz
 0.0.0.0 trtl.beeppool.org
 :: trtl.beeppool.org
 0.0.0.0 tru.am
@@ -42654,6 +42670,8 @@ ff02::3 ip6-allhosts
 :: yk0712.com
 0.0.0.0 ykad-gateway.youku.com
 :: ykad-gateway.youku.com
+0.0.0.0 ykanx.com
+:: ykanx.com
 0.0.0.0 ykbei.com
 :: ykbei.com
 0.0.0.0 ykjmy.com
