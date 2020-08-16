@@ -1,8 +1,8 @@
-# Checksum: MTU5NzU5MDIyOQo=
+# Checksum: MTU5NzYwMTAxNAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200816-5
-# TimeUpdated: 2020-08-16T15:03:49+00:00
+# Version: 1.5.6-20200816-6
+# TimeUpdated: 2020-08-16T18:03:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 21768
@@ -10714,8 +10714,6 @@ ff02::3 ip6-allhosts
 :: cps.yaoqing.com
 0.0.0.0 cpshwl.cn
 :: cpshwl.cn
-0.0.0.0 cpsrvng.xyz
-:: cpsrvng.xyz
 0.0.0.0 cpt.itv.com
 :: cpt.itv.com
 0.0.0.0 cpu-admin.baidu.com
@@ -22376,6 +22374,8 @@ ff02::3 ip6-allhosts
 :: m.hzuok.com
 0.0.0.0 m.iangs.com
 :: m.iangs.com
+0.0.0.0 m.icoc2018.cn
+:: m.icoc2018.cn
 0.0.0.0 m.icyrd.com
 :: m.icyrd.com
 0.0.0.0 m.ienkdago.cn
@@ -28528,8 +28528,6 @@ ff02::3 ip6-allhosts
 :: quadrupleclick.com
 0.0.0.0 quaetabib.com
 :: quaetabib.com
-0.0.0.0 quan7.cc
-:: quan7.cc
 0.0.0.0 quanbailing.com
 :: quanbailing.com
 0.0.0.0 quanjiapp.cn
@@ -28980,6 +28978,8 @@ ff02::3 ip6-allhosts
 :: redpaper-10006092.cos.myqcloud.com
 0.0.0.0 redresseducatedage.com
 :: redresseducatedage.com
+0.0.0.0 reductingds.club
+:: reductingds.club
 0.0.0.0 redvase.bravenet.com
 :: redvase.bravenet.com
 0.0.0.0 ref.dealerinspire.com
@@ -31888,6 +31888,8 @@ ff02::3 ip6-allhosts
 :: soagrist.net
 0.0.0.0 soagw.pw.xunlei.com
 :: soagw.pw.xunlei.com
+0.0.0.0 soared.cn
+:: soared.cn
 0.0.0.0 sobar.baidu.com
 :: sobar.baidu.com
 0.0.0.0 social-touch.com
@@ -42670,8 +42672,6 @@ ff02::3 ip6-allhosts
 :: yk0712.com
 0.0.0.0 ykad-gateway.youku.com
 :: ykad-gateway.youku.com
-0.0.0.0 ykanx.com
-:: ykanx.com
 0.0.0.0 ykbei.com
 :: ykbei.com
 0.0.0.0 ykjmy.com
