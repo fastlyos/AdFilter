@@ -1,11 +1,11 @@
-# Checksum: MTU5NzY4NzQxMgo=
+# Checksum: MTU5NzY5ODE5NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200817-6
-# TimeUpdated: 2020-08-17T18:03:32+00:00
+# Version: 1.5.6-20200817-7
+# TimeUpdated: 2020-08-17T21:03:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21810
+# Total: 21816
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -806,8 +806,6 @@ ff02::3 ip6-allhosts
 :: 31911.com
 0.0.0.0 319dn.dieti-natura.com
 :: 319dn.dieti-natura.com
-0.0.0.0 31xs.cdn.bcebos.com
-:: 31xs.cdn.bcebos.com
 0.0.0.0 32.huanqiu.com
 :: 32.huanqiu.com
 0.0.0.0 321.jintang114.org
@@ -9134,6 +9132,8 @@ ff02::3 ip6-allhosts
 :: christoredyt.club
 0.0.0.0 chromc.com
 :: chromc.com
+0.0.0.0 chrommotor.com
+:: chrommotor.com
 0.0.0.0 chuangyixi.com
 :: chuangyixi.com
 0.0.0.0 chuantu.biz
@@ -10828,6 +10828,8 @@ ff02::3 ip6-allhosts
 :: creditions.club
 0.0.0.0 crentexgate.com
 :: crentexgate.com
+0.0.0.0 crepaidrfcs.club
+:: crepaidrfcs.club
 0.0.0.0 cretaiformac.top
 :: cretaiformac.top
 0.0.0.0 cretextsma.info
@@ -11020,6 +11022,8 @@ ff02::3 ip6-allhosts
 :: cvt.mydas.mobi
 0.0.0.0 cw.guominziben.com
 :: cw.guominziben.com
+0.0.0.0 cwmlm.com
+:: cwmlm.com
 0.0.0.0 cwpush.com
 :: cwpush.com
 0.0.0.0 cws-cctv.conviva.com
@@ -13126,8 +13130,6 @@ ff02::3 ip6-allhosts
 :: droitwichadvertiser-gb.droitwichadvertiser.co.uk
 0.0.0.0 drunkersrr.club
 :: drunkersrr.club
-0.0.0.0 drwkzkncihwygw.com
-:: drwkzkncihwygw.com
 0.0.0.0 dryzapsol.com
 :: dryzapsol.com
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -14374,6 +14376,8 @@ ff02::3 ip6-allhosts
 :: eo.h7t2f.xyz
 0.0.0.0 eo.hdschw.cn
 :: eo.hdschw.cn
+0.0.0.0 eo.khbua.xyz
+:: eo.khbua.xyz
 0.0.0.0 eo.nftqkq.cn
 :: eo.nftqkq.cn
 0.0.0.0 eo.qpmue.xyz
@@ -17472,6 +17476,8 @@ ff02::3 ip6-allhosts
 :: hincludingse.site
 0.0.0.0 hindsight.significanceapps.com
 :: hindsight.significanceapps.com
+0.0.0.0 hioqbb99.biqugeso.com
+:: hioqbb99.biqugeso.com
 0.0.0.0 hiorange1.jobui.com
 :: hiorange1.jobui.com
 0.0.0.0 hipfowlzeal.cam
@@ -19574,6 +19580,8 @@ ff02::3 ip6-allhosts
 :: jianbangjiaoyu.com
 0.0.0.0 jianduankm.com
 :: jianduankm.com
+0.0.0.0 jiangchunli.cn
+:: jiangchunli.cn
 0.0.0.0 jianglongjie.cn
 :: jianglongjie.cn
 0.0.0.0 jiansuo.dsxdn.com
@@ -22710,6 +22718,8 @@ ff02::3 ip6-allhosts
 :: m.tdiea.com
 0.0.0.0 m.themee.cn
 :: m.themee.cn
+0.0.0.0 m.tianhaichen.top
+:: m.tianhaichen.top
 0.0.0.0 m.tiojk.com
 :: m.tiojk.com
 0.0.0.0 m.track.ad.xiaomi.com
@@ -31976,6 +31986,8 @@ ff02::3 ip6-allhosts
 :: socialbars-web1.com
 0.0.0.0 sociatedilo.club
 :: sociatedilo.club
+0.0.0.0 societyuga.club
+:: societyuga.club
 0.0.0.0 socket.streamable.com
 :: socket.streamable.com
 0.0.0.0 sockjs-goguardian.pusher.com
