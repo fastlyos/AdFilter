@@ -1,11 +1,11 @@
-# Checksum: MTU5NzYzMzM5OAo=
+# Checksum: MTU5NzY0NDIyNgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200817-1
-# TimeUpdated: 2020-08-17T03:03:18+00:00
+# Version: 1.5.6-20200817-2
+# TimeUpdated: 2020-08-17T06:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21779
+# Total: 21798
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3448,6 +3448,8 @@ ff02::3 ip6-allhosts
 :: adomv.com
 0.0.0.0 adoperatorx.com
 :: adoperatorx.com
+0.0.0.0 adopexchange.com
+:: adopexchange.com
 0.0.0.0 adotmob.com
 :: adotmob.com
 0.0.0.0 adp.atm.youku.com
@@ -7298,6 +7300,8 @@ ff02::3 ip6-allhosts
 :: beta.monerise.com
 0.0.0.0 beta.vpon.com
 :: beta.vpon.com
+0.0.0.0 betahit.click
+:: betahit.click
 0.0.0.0 betrayedregretdeadline.com
 :: betrayedregretdeadline.com
 0.0.0.0 betshun.org
@@ -7332,6 +7336,8 @@ ff02::3 ip6-allhosts
 :: bgcse.cn
 0.0.0.0 bglog.bitauto.com
 :: bglog.bitauto.com
+0.0.0.0 bgn2zqlce1eiya.icu
+:: bgn2zqlce1eiya.icu
 0.0.0.0 bgrndi.com
 :: bgrndi.com
 0.0.0.0 bgtrtv.top
@@ -8442,6 +8448,8 @@ ff02::3 ip6-allhosts
 :: cards-css.iqiyi.com
 0.0.0.0 carefuseds.club
 :: carefuseds.club
+0.0.0.0 carelacysince.com
+:: carelacysince.com
 0.0.0.0 carfax.sc.omtrdc.net
 :: carfax.sc.omtrdc.net
 0.0.0.0 carl.pubsvs.com
@@ -9018,6 +9026,8 @@ ff02::3 ip6-allhosts
 :: chaoku.oss-cn-chengdu.aliyuncs.com
 0.0.0.0 characteristicleisure.com
 :: characteristicleisure.com
+0.0.0.0 characteristicsumptuousmister.com
+:: characteristicsumptuousmister.com
 0.0.0.0 charactice.club
 :: charactice.club
 0.0.0.0 charalli.pro
@@ -11128,8 +11138,6 @@ ff02::3 ip6-allhosts
 :: d.h5.coffeedak.cn
 0.0.0.0 d.haberler.com
 :: d.haberler.com
-0.0.0.0 d.hzblic.com
-:: d.hzblic.com
 0.0.0.0 d.jjyx.com
 :: d.jjyx.com
 0.0.0.0 d.kugou.com
@@ -13074,6 +13082,8 @@ ff02::3 ip6-allhosts
 :: dpvchos.qqyy.com
 0.0.0.0 dpvcimg.qqyy.com
 :: dpvcimg.qqyy.com
+0.0.0.0 dq3yxnlzwhcys.cloudfront.net
+:: dq3yxnlzwhcys.cloudfront.net
 0.0.0.0 dqhi3ea93ztgv.cloudfront.net
 :: dqhi3ea93ztgv.cloudfront.net
 0.0.0.0 dr3k6qonw2kee.cloudfront.net
@@ -13554,8 +13564,6 @@ ff02::3 ip6-allhosts
 :: e.hyzui.com
 0.0.0.0 e.icyrd.com
 :: e.icyrd.com
-0.0.0.0 e.iduob.com
-:: e.iduob.com
 0.0.0.0 e.ihais.com
 :: e.ihais.com
 0.0.0.0 e.imiek.com
@@ -13624,6 +13632,8 @@ ff02::3 ip6-allhosts
 :: e.pubbirdf.com
 0.0.0.0 e.puooi.com
 :: e.puooi.com
+0.0.0.0 e.qdiut.com
+:: e.qdiut.com
 0.0.0.0 e.qiaoyuwang.com
 :: e.qiaoyuwang.com
 0.0.0.0 e.qj10b.cn
@@ -13982,6 +13992,8 @@ ff02::3 ip6-allhosts
 :: eduad.baidu.com
 0.0.0.0 eduancm.com
 :: eduancm.com
+0.0.0.0 educatednicer.com
+:: educatednicer.com
 0.0.0.0 educationdemotediabete.com
 :: educationdemotediabete.com
 0.0.0.0 eduzzjy.com
@@ -13998,6 +14010,8 @@ ff02::3 ip6-allhosts
 :: ee.2l7ha.cn
 0.0.0.0 ee.gd881.cn
 :: ee.gd881.cn
+0.0.0.0 ee.h2tywo.cn
+:: ee.h2tywo.cn
 0.0.0.0 ee.hx623.cn
 :: ee.hx623.cn
 0.0.0.0 ee.m19ud.cn
@@ -14116,6 +14130,8 @@ ff02::3 ip6-allhosts
 :: elabalar.pw
 0.0.0.0 eland.doublemax.net
 :: eland.doublemax.net
+0.0.0.0 elasticrosy.com
+:: elasticrosy.com
 0.0.0.0 elastinabuker.site
 :: elastinabuker.site
 0.0.0.0 eldedtickered.site
@@ -20650,8 +20666,6 @@ ff02::3 ip6-allhosts
 :: kpshx.douguo.com
 0.0.0.0 kpstaticbj.wx.ckjr001.com
 :: kpstaticbj.wx.ckjr001.com
-0.0.0.0 kr.sybspools.com
-:: kr.sybspools.com
 0.0.0.0 krakeshlaja.com
 :: krakeshlaja.com
 0.0.0.0 krb.devphp.org.ua
@@ -22330,6 +22344,8 @@ ff02::3 ip6-allhosts
 :: m.guanren6.com
 0.0.0.0 m.guanren9.com
 :: m.guanren9.com
+0.0.0.0 m.guifei99.com
+:: m.guifei99.com
 0.0.0.0 m.gvez.top
 :: m.gvez.top
 0.0.0.0 m.gwdqp.com
@@ -22856,6 +22872,8 @@ ff02::3 ip6-allhosts
 :: m.zkwsdf.com
 0.0.0.0 m.zmlfk.com
 :: m.zmlfk.com
+0.0.0.0 m.zowmgxpz.cn
+:: m.zowmgxpz.cn
 0.0.0.0 m.zwda.com
 :: m.zwda.com
 0.0.0.0 m.zwdu.com
@@ -25532,6 +25550,8 @@ ff02::3 ip6-allhosts
 :: nunailsum.com
 0.0.0.0 nunc-china.com
 :: nunc-china.com
+0.0.0.0 nunhoefey.com
+:: nunhoefey.com
 0.0.0.0 nunu-001.now.sh
 :: nunu-001.now.sh
 0.0.0.0 nuonuo1.icu
@@ -26324,6 +26344,8 @@ ff02::3 ip6-allhosts
 :: pacitiesbo.info
 0.0.0.0 package01.com
 :: package01.com
+0.0.0.0 pactendsmalt.icu
+:: pactendsmalt.icu
 0.0.0.0 pad.zhywyl.cn
 :: pad.zhywyl.cn
 0.0.0.0 padma-fed.com
@@ -29142,6 +29164,8 @@ ff02::3 ip6-allhosts
 :: requested.cn
 0.0.0.0 requivalfun.club
 :: requivalfun.club
+0.0.0.0 rereegny.net
+:: rereegny.net
 0.0.0.0 res-ga.smzdm.com
 :: res-ga.smzdm.com
 0.0.0.0 res.aduu.cn
@@ -29306,6 +29330,8 @@ ff02::3 ip6-allhosts
 :: ridferbad.com
 0.0.0.0 ridgelorridorsag.info
 :: ridgelorridorsag.info
+0.0.0.0 ridgendqwa.club
+:: ridgendqwa.club
 0.0.0.0 rientofficim.club
 :: rientofficim.club
 0.0.0.0 rigel.baidustatic.com
@@ -30540,6 +30566,8 @@ ff02::3 ip6-allhosts
 :: sapi.sina.cn
 0.0.0.0 sapsixysho.pro
 :: sapsixysho.pro
+0.0.0.0 sapsuaveover.com
+:: sapsuaveover.com
 0.0.0.0 sarcasticlinezomby.com
 :: sarcasticlinezomby.com
 0.0.0.0 sarjor.pw
@@ -31742,6 +31770,8 @@ ff02::3 ip6-allhosts
 :: sixgen.cn
 0.0.0.0 sixpcgame.com
 :: sixpcgame.com
+0.0.0.0 sixtuxfixer.com
+:: sixtuxfixer.com
 0.0.0.0 sj.shixincai.com
 :: sj.shixincai.com
 0.0.0.0 sjaidu.com
@@ -31912,6 +31942,8 @@ ff02::3 ip6-allhosts
 :: soagrist.net
 0.0.0.0 soagw.pw.xunlei.com
 :: soagw.pw.xunlei.com
+0.0.0.0 soap-wash.com
+:: soap-wash.com
 0.0.0.0 soared.cn
 :: soared.cn
 0.0.0.0 sobar.baidu.com
@@ -32636,6 +32668,8 @@ ff02::3 ip6-allhosts
 :: staging2.crazyegg.com
 0.0.0.0 staimpor.net
 :: staimpor.net
+0.0.0.0 staitchu.com
+:: staitchu.com
 0.0.0.0 stakenpolise.site
 :: stakenpolise.site
 0.0.0.0 stalbansreview-gb.stalbansreview.co.uk
@@ -35004,6 +35038,8 @@ ff02::3 ip6-allhosts
 :: tick0.com
 0.0.0.0 tidafors.xyz
 :: tidafors.xyz
+0.0.0.0 tidint.pro
+:: tidint.pro
 0.0.0.0 tifybecausingp.info
 :: tifybecausingp.info
 0.0.0.0 tim.nextinpact.com
@@ -36380,6 +36416,8 @@ ff02::3 ip6-allhosts
 :: tu.zx110.org
 0.0.0.0 tuadong.com
 :: tuadong.com
+0.0.0.0 tubecorp.com
+:: tubecorp.com
 0.0.0.0 tubetitties.com
 :: tubetitties.com
 0.0.0.0 tui.gtimg.com
