@@ -1,11 +1,11 @@
-# Checksum: MTU5NzY2NTgzMQo=
+# Checksum: MTU5NzY3NjYxMgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200817-4
-# TimeUpdated: 2020-08-17T12:03:51+00:00
+# Version: 1.5.6-20200817-5
+# TimeUpdated: 2020-08-17T15:03:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21808
+# Total: 21806
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -436,8 +436,6 @@ ff02::3 ip6-allhosts
 :: 133uu.com
 0.0.0.0 138lm.com
 :: 138lm.com
-0.0.0.0 13wn.com
-:: 13wn.com
 0.0.0.0 13yg.cn
 :: 13yg.cn
 0.0.0.0 142904.com
@@ -9072,8 +9070,6 @@ ff02::3 ip6-allhosts
 :: chengzhao95511.com
 0.0.0.0 chenshengyu.cn
 :: chenshengyu.cn
-0.0.0.0 chenwen7788.com
-:: chenwen7788.com
 0.0.0.0 chersc.com
 :: chersc.com
 0.0.0.0 chesterstandard-gb.chesterstandard.co.uk
@@ -17580,8 +17576,6 @@ ff02::3 ip6-allhosts
 :: hl.kuzu.com
 0.0.0.0 hl.quw18.com
 :: hl.quw18.com
-0.0.0.0 hlcnzz.com
-:: hlcnzz.com
 0.0.0.0 hlgglm.com
 :: hlgglm.com
 0.0.0.0 hlhulu.com
@@ -24478,6 +24472,8 @@ ff02::3 ip6-allhosts
 :: mrksys.com
 0.0.0.0 mrw.so
 :: mrw.so
+0.0.0.0 mrycwz.com
+:: mrycwz.com
 0.0.0.0 ms.actingidekex.cn
 :: ms.actingidekex.cn
 0.0.0.0 ms.analytics.live.com
@@ -27238,8 +27234,6 @@ ff02::3 ip6-allhosts
 :: pjx1ky4xhwip.com
 0.0.0.0 pjyu.golden1.sogou.com
 :: pjyu.golden1.sogou.com
-0.0.0.0 pjyxlwa.cn
-:: pjyxlwa.cn
 0.0.0.0 pk.zhuaji.org
 :: pk.zhuaji.org
 0.0.0.0 pk840.com
@@ -30730,6 +30724,8 @@ ff02::3 ip6-allhosts
 :: sclog.moviebox.baofeng.com
 0.0.0.0 scluster3.cliphunter.com
 :: scluster3.cliphunter.com
+0.0.0.0 scnaes.cn
+:: scnaes.cn
 0.0.0.0 scnt.rambler.ru
 :: scnt.rambler.ru
 0.0.0.0 scoastleallo.info
