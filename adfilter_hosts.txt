@@ -1,11 +1,11 @@
-# Checksum: MTU5NzY3NjYxMgo=
+# Checksum: MTU5NzY4NzQxMgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200817-5
-# TimeUpdated: 2020-08-17T15:03:32+00:00
+# Version: 1.5.6-20200817-6
+# TimeUpdated: 2020-08-17T18:03:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21806
+# Total: 21810
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4944,8 +4944,6 @@ ff02::3 ip6-allhosts
 :: analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
 :: analytics.islamicfinder.org
-0.0.0.0 analytics.jabong.com
-:: analytics.jabong.com
 0.0.0.0 analytics.jiuzhilan.com
 :: analytics.jiuzhilan.com
 0.0.0.0 analytics.jst.ai
@@ -5628,6 +5626,8 @@ ff02::3 ip6-allhosts
 :: api.ts.feedback.71.am
 0.0.0.0 api.ts.feedback.qy.net
 :: api.ts.feedback.qy.net
+0.0.0.0 api.ttkong.com
+:: api.ttkong.com
 0.0.0.0 api.tuisong.baidu.com
 :: api.tuisong.baidu.com
 0.0.0.0 api.ujian.cc
@@ -9118,6 +9118,8 @@ ff02::3 ip6-allhosts
 :: chnhty.com
 0.0.0.0 choice.microsoft.com.nsatc.net
 :: choice.microsoft.com.nsatc.net
+0.0.0.0 chongxiaota.top
+:: chongxiaota.top
 0.0.0.0 choorgiw.net
 :: choorgiw.net
 0.0.0.0 chorleycitizen-gb.chorleycitizen.co.uk
@@ -10316,6 +10318,8 @@ ff02::3 ip6-allhosts
 :: cootek-file.cdn.cootekservice.com
 0.0.0.0 coperledsinhe.info
 :: coperledsinhe.info
+0.0.0.0 copinionytw.club
+:: copinionytw.club
 0.0.0.0 core-queerclick.netdna-ssl.com
 :: core-queerclick.netdna-ssl.com
 0.0.0.0 core.unit-sense.net
@@ -14022,6 +14026,8 @@ ff02::3 ip6-allhosts
 :: ee.wh723.cn
 0.0.0.0 ee.wz382.cn
 :: ee.wz382.cn
+0.0.0.0 ee.xq375.cn
+:: ee.xq375.cn
 0.0.0.0 ee.xr883.cn
 :: ee.xr883.cn
 0.0.0.0 eec.sachbs.club
@@ -15466,6 +15472,8 @@ ff02::3 ip6-allhosts
 :: folder.adsunflower.com
 0.0.0.0 folder.advmob.cn
 :: folder.advmob.cn
+0.0.0.0 followfact.com
+:: followfact.com
 0.0.0.0 fontainsuny.club
 :: fontainsuny.club
 0.0.0.0 fontawfully.com
@@ -24472,8 +24480,6 @@ ff02::3 ip6-allhosts
 :: mrksys.com
 0.0.0.0 mrw.so
 :: mrw.so
-0.0.0.0 mrycwz.com
-:: mrycwz.com
 0.0.0.0 ms.actingidekex.cn
 :: ms.actingidekex.cn
 0.0.0.0 ms.analytics.live.com
@@ -34272,6 +34278,8 @@ ff02::3 ip6-allhosts
 :: t.menepe.com
 0.0.0.0 t.nativendo.de
 :: t.nativendo.de
+0.0.0.0 t.njzrxx.xyz
+:: t.njzrxx.xyz
 0.0.0.0 t.nnccya.top
 :: t.nnccya.top
 0.0.0.0 t.ofsys.com
