@@ -1,11 +1,11 @@
-# Checksum: MTU5NzY1NTAwOQo=
+# Checksum: MTU5NzY2NTgzMQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200817-3
-# TimeUpdated: 2020-08-17T09:03:29+00:00
+# Version: 1.5.6-20200817-4
+# TimeUpdated: 2020-08-17T12:03:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21797
+# Total: 21808
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5812,6 +5812,8 @@ ff02::3 ip6-allhosts
 :: app.wapx.cn
 0.0.0.0 app.wumii.com
 :: app.wumii.com
+0.0.0.0 app.xdrig.com
+:: app.xdrig.com
 0.0.0.0 app.xizi.com
 :: app.xizi.com
 0.0.0.0 app01.nodes.gslb.mi-idc.com
@@ -7616,6 +7618,8 @@ ff02::3 ip6-allhosts
 :: bmw100.cn
 0.0.0.0 bmw2ep.paomifen.cn
 :: bmw2ep.paomifen.cn
+0.0.0.0 bmwzdfrra.com
+:: bmwzdfrra.com
 0.0.0.0 bn.adultempire.com
 :: bn.adultempire.com
 0.0.0.0 bnet.com
@@ -8104,8 +8108,6 @@ ff02::3 ip6-allhosts
 :: c.lattebank.com
 0.0.0.0 c.lianwangtech.com
 :: c.lianwangtech.com
-0.0.0.0 c.marsflag.com
-:: c.marsflag.com
 0.0.0.0 c.medialytics.com
 :: c.medialytics.com
 0.0.0.0 c.mgid.com
@@ -13312,6 +13314,8 @@ ff02::3 ip6-allhosts
 :: duration.logger.baofeng.com
 0.0.0.0 durdcn.doglobal.net
 :: durdcn.doglobal.net
+0.0.0.0 dustycondition.com
+:: dustycondition.com
 0.0.0.0 dutch.beeppool.org
 :: dutch.beeppool.org
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
@@ -17576,6 +17580,8 @@ ff02::3 ip6-allhosts
 :: hl.kuzu.com
 0.0.0.0 hl.quw18.com
 :: hl.quw18.com
+0.0.0.0 hlcnzz.com
+:: hlcnzz.com
 0.0.0.0 hlgglm.com
 :: hlgglm.com
 0.0.0.0 hlhulu.com
@@ -19456,6 +19462,8 @@ ff02::3 ip6-allhosts
 :: jc.anhuilitian.net
 0.0.0.0 jc.charlesfc.com
 :: jc.charlesfc.com
+0.0.0.0 jc.lgtianma.cn
+:: jc.lgtianma.cn
 0.0.0.0 jc.szjianxin.net
 :: jc.szjianxin.net
 0.0.0.0 jc.vtqifk86868.cn
@@ -20060,6 +20068,8 @@ ff02::3 ip6-allhosts
 :: js2.hdzog.com
 0.0.0.0 js2.vgetv1.xyz
 :: js2.vgetv1.xyz
+0.0.0.0 js205.dupinpu.com
+:: js205.dupinpu.com
 0.0.0.0 js2294.cnbole.net
 :: js2294.cnbole.net
 0.0.0.0 js3.users.51.la
@@ -21016,6 +21026,8 @@ ff02::3 ip6-allhosts
 :: lee789.com
 0.0.0.0 legalledgtjuj.club
 :: legalledgtjuj.club
+0.0.0.0 legistsstillo.club
+:: legistsstillo.club
 0.0.0.0 legozu.com
 :: legozu.com
 0.0.0.0 leighjournal-gb.leighjournal.co.uk
@@ -25918,6 +25930,8 @@ ff02::3 ip6-allhosts
 :: onsafelink.com
 0.0.0.0 onscribedpastrong.info
 :: onscribedpastrong.info
+0.0.0.0 onsertilyas.club
+:: onsertilyas.club
 0.0.0.0 onsnv.com
 :: onsnv.com
 0.0.0.0 onstunkyr.com
@@ -27224,6 +27238,8 @@ ff02::3 ip6-allhosts
 :: pjx1ky4xhwip.com
 0.0.0.0 pjyu.golden1.sogou.com
 :: pjyu.golden1.sogou.com
+0.0.0.0 pjyxlwa.cn
+:: pjyxlwa.cn
 0.0.0.0 pk.zhuaji.org
 :: pk.zhuaji.org
 0.0.0.0 pk840.com
@@ -28906,6 +28922,8 @@ ff02::3 ip6-allhosts
 :: rdbd.xsread.com
 0.0.0.0 rdingperhan.site
 :: rdingperhan.site
+0.0.0.0 rdiqt.cn
+:: rdiqt.cn
 0.0.0.0 rdsb2.club
 :: rdsb2.club
 0.0.0.0 rdstat.tanx.com
@@ -35428,6 +35446,8 @@ ff02::3 ip6-allhosts
 :: tr.jianshu.com
 0.0.0.0 tr.junaroad.com
 :: tr.junaroad.com
+0.0.0.0 tr.marsflag.com
+:: tr.marsflag.com
 0.0.0.0 tr.n2.hk
 :: tr.n2.hk
 0.0.0.0 tr.outbrain.com
@@ -41896,6 +41916,8 @@ ff02::3 ip6-allhosts
 :: xg.whsbpw.cn
 0.0.0.0 xg.zhlzdhr.cn
 :: xg.zhlzdhr.cn
+0.0.0.0 xg084mgkfsfk.com
+:: xg084mgkfsfk.com
 0.0.0.0 xgcsr.com
 :: xgcsr.com
 0.0.0.0 xgefmxd.ru
