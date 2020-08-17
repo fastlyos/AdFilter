@@ -1,11 +1,11 @@
-# Checksum: MTU5NzYyMjg1Ngo=
+# Checksum: MTU5NzYzMzM5OAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200817-0
-# TimeUpdated: 2020-08-17T00:07:36+00:00
+# Version: 1.5.6-20200817-1
+# TimeUpdated: 2020-08-17T03:03:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21773
+# Total: 21779
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1596,6 +1596,8 @@ ff02::3 ip6-allhosts
 :: 8521448.com
 0.0.0.0 859377.com
 :: 859377.com
+0.0.0.0 85tgw.com
+:: 85tgw.com
 0.0.0.0 85un.com
 :: 85un.com
 0.0.0.0 860010.com
@@ -1930,6 +1932,8 @@ ff02::3 ip6-allhosts
 :: a.armystar.com
 0.0.0.0 a.baidu.com
 :: a.baidu.com
+0.0.0.0 a.baiy.net
+:: a.baiy.net
 0.0.0.0 a.bake818.cn
 :: a.bake818.cn
 0.0.0.0 a.benshiw.net
@@ -7422,6 +7426,8 @@ ff02::3 ip6-allhosts
 :: bip.beeppool.org
 0.0.0.0 biroads.com
 :: biroads.com
+0.0.0.0 bishoppeda.club
+:: bishoppeda.club
 0.0.0.0 bisiraczyxbu.com
 :: bisiraczyxbu.com
 0.0.0.0 bisko.mall.tv
@@ -11122,6 +11128,8 @@ ff02::3 ip6-allhosts
 :: d.h5.coffeedak.cn
 0.0.0.0 d.haberler.com
 :: d.haberler.com
+0.0.0.0 d.hzblic.com
+:: d.hzblic.com
 0.0.0.0 d.jjyx.com
 :: d.jjyx.com
 0.0.0.0 d.kugou.com
@@ -13546,6 +13554,8 @@ ff02::3 ip6-allhosts
 :: e.hyzui.com
 0.0.0.0 e.icyrd.com
 :: e.icyrd.com
+0.0.0.0 e.iduob.com
+:: e.iduob.com
 0.0.0.0 e.ihais.com
 :: e.ihais.com
 0.0.0.0 e.imiek.com
@@ -16656,6 +16666,8 @@ ff02::3 ip6-allhosts
 :: gotoniubiurl.pw
 0.0.0.0 gotourl.xyz
 :: gotourl.xyz
+0.0.0.0 gou1zhe.com
+:: gou1zhe.com
 0.0.0.0 gouhei.top
 :: gouhei.top
 0.0.0.0 goutong.baidu.com
@@ -20310,8 +20322,6 @@ ff02::3 ip6-allhosts
 :: k.mindopu.com
 0.0.0.0 k.qsbxg2.com
 :: k.qsbxg2.com
-0.0.0.0 k.qzzxjc.com
-:: k.qzzxjc.com
 0.0.0.0 k.rueducommerce.fr
 :: k.rueducommerce.fr
 0.0.0.0 k.streamrail.com
@@ -20640,6 +20650,8 @@ ff02::3 ip6-allhosts
 :: kpshx.douguo.com
 0.0.0.0 kpstaticbj.wx.ckjr001.com
 :: kpstaticbj.wx.ckjr001.com
+0.0.0.0 kr.sybspools.com
+:: kr.sybspools.com
 0.0.0.0 krakeshlaja.com
 :: krakeshlaja.com
 0.0.0.0 krb.devphp.org.ua
@@ -22818,6 +22830,8 @@ ff02::3 ip6-allhosts
 :: m.yoyi.com.cn
 0.0.0.0 m.ysdhe.com
 :: m.ysdhe.com
+0.0.0.0 m.ysgsq.cn
+:: m.ysgsq.cn
 0.0.0.0 m.yujianai520.com
 :: m.yujianai520.com
 0.0.0.0 m.yujiangchu.com
@@ -43246,8 +43260,6 @@ ff02::3 ip6-allhosts
 :: zhjfad.com
 0.0.0.0 zhlala.com
 :: zhlala.com
-0.0.0.0 zhongchengzp.com
-:: zhongchengzp.com
 0.0.0.0 zhongchouyan.com
 :: zhongchouyan.com
 0.0.0.0 zhongdoulicai.com
