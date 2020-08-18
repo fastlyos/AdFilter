@@ -1,11 +1,11 @@
-# Checksum: MTU5NzcwOTI1MAo=
+# Checksum: MTU5NzcxOTgwMQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200818-0
-# TimeUpdated: 2020-08-18T00:07:30+00:00
+# Version: 1.5.6-20200818-1
+# TimeUpdated: 2020-08-18T03:03:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21817
+# Total: 21823
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -64,8 +64,6 @@ ff02::3 ip6-allhosts
 :: 010teacher.com
 0.0.0.0 010xk.com
 :: 010xk.com
-0.0.0.0 018520.com
-:: 018520.com
 0.0.0.0 019103.com
 :: 019103.com
 0.0.0.0 01daa.lutci.com
@@ -124,6 +122,8 @@ ff02::3 ip6-allhosts
 :: 0796gou.com
 0.0.0.0 0798ls.com
 :: 0798ls.com
+0.0.0.0 0817zfbj.xyz
+:: 0817zfbj.xyz
 0.0.0.0 0851ok.com
 :: 0851ok.com
 0.0.0.0 09_19.supfree.net
@@ -4180,6 +4180,8 @@ ff02::3 ip6-allhosts
 :: aeros02.tk
 0.0.0.0 aeros08.tk
 :: aeros08.tk
+0.0.0.0 aeros12.tk
+:: aeros12.tk
 0.0.0.0 aerserv.com
 :: aerserv.com
 0.0.0.0 aes01.com
@@ -8192,6 +8194,8 @@ ff02::3 ip6-allhosts
 :: c.yes.youku.com
 0.0.0.0 c.youdao.com
 :: c.youdao.com
+0.0.0.0 c.zheare.com
+:: c.zheare.com
 0.0.0.0 c.zlongad.com
 :: c.zlongad.com
 0.0.0.0 c.zmjuan.org
@@ -10660,8 +10664,6 @@ ff02::3 ip6-allhosts
 :: coysotown.com
 0.0.0.0 cp.003store.com
 :: cp.003store.com
-0.0.0.0 cp.5jjx.net
-:: cp.5jjx.net
 0.0.0.0 cp.7y7.com
 :: cp.7y7.com
 0.0.0.0 cp.eastmoney.com
@@ -10916,6 +10918,8 @@ ff02::3 ip6-allhosts
 :: csbew.com
 0.0.0.0 cse3.chausport.com
 :: cse3.chausport.com
+0.0.0.0 csgocpu.com
+:: csgocpu.com
 0.0.0.0 csnd.xyz
 :: csnd.xyz
 0.0.0.0 csp-collector.appspot.com
@@ -14828,6 +14832,8 @@ ff02::3 ip6-allhosts
 :: ex.xuzewu.me
 0.0.0.0 exacttarget.api.mashery.com
 :: exacttarget.api.mashery.com
+0.0.0.0 excellerfger.club
+:: excellerfger.club
 0.0.0.0 exceptionlog.kugou.com
 :: exceptionlog.kugou.com
 0.0.0.0 exchangepresumeethel.com
@@ -17190,6 +17196,8 @@ ff02::3 ip6-allhosts
 :: hastikapubli.club
 0.0.0.0 hatbiz.cn
 :: hatbiz.cn
+0.0.0.0 hatcalter.com
+:: hatcalter.com
 0.0.0.0 hats.haibao.cn
 :: hats.haibao.cn
 0.0.0.0 hauchi.com.tw
@@ -18446,8 +18454,6 @@ ff02::3 ip6-allhosts
 :: image.p4p.sogou.com
 0.0.0.0 image.ptmind.com
 :: image.ptmind.com
-0.0.0.0 image.ttyouma.cn
-:: image.ttyouma.cn
 0.0.0.0 image.yigao.com
 :: image.yigao.com
 0.0.0.0 image.yiqifa.com
@@ -20166,6 +20172,8 @@ ff02::3 ip6-allhosts
 :: jserr.cnzz.com
 0.0.0.0 jsf.cnlinfo.net
 :: jsf.cnlinfo.net
+0.0.0.0 jshosting.bi
+:: jshosting.bi
 0.0.0.0 jsjs.jbzj.com
 :: jsjs.jbzj.com
 0.0.0.0 jsjs.nthyn.com
@@ -22854,6 +22862,8 @@ ff02::3 ip6-allhosts
 :: m.ybstwl.com
 0.0.0.0 m.yes.youku.com
 :: m.yes.youku.com
+0.0.0.0 m.yiere.com
+:: m.yiere.com
 0.0.0.0 m.yitiaoyu.top
 :: m.yitiaoyu.top
 0.0.0.0 m.yitime.top
@@ -26044,6 +26054,8 @@ ff02::3 ip6-allhosts
 :: optout.crsspxl.com
 0.0.0.0 opus.analytics.yahoo.com
 :: opus.analytics.yahoo.com
+0.0.0.0 opyyy.com
+:: opyyy.com
 0.0.0.0 oratedencourse.info
 :: oratedencourse.info
 0.0.0.0 oratorsresente.info
@@ -37052,6 +37064,8 @@ ff02::3 ip6-allhosts
 :: uoyrsd.com
 0.0.0.0 up.cm.ksmobile.com
 :: up.cm.ksmobile.com
+0.0.0.0 up.hiao.com
+:: up.hiao.com
 0.0.0.0 up.nytimes.com
 :: up.nytimes.com
 0.0.0.0 up.qingdaonews.com
@@ -41966,8 +41980,6 @@ ff02::3 ip6-allhosts
 :: xiadaxiong.com
 0.0.0.0 xiakelea.com
 :: xiakelea.com
-0.0.0.0 xiandafood.cn
-:: xiandafood.cn
 0.0.0.0 xiangchaokankan.m.cn.miaozhen.com
 :: xiangchaokankan.m.cn.miaozhen.com
 0.0.0.0 xiankandy.com
