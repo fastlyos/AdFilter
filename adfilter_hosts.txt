@@ -1,11 +1,11 @@
-# Checksum: MTU5NzczMDg2NAo=
+# Checksum: MTU5Nzc0MTQwNAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200818-2
-# TimeUpdated: 2020-08-18T06:07:44+00:00
+# Version: 1.5.6-20200818-3
+# TimeUpdated: 2020-08-18T09:03:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21818
+# Total: 21821
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1090,6 +1090,8 @@ ff02::3 ip6-allhosts
 :: 51zhanzhuang.cn
 0.0.0.0 51zhuoyu.com
 :: 51zhuoyu.com
+0.0.0.0 5207470.com
+:: 5207470.com
 0.0.0.0 5221.net
 :: 5221.net
 0.0.0.0 523c579923fd35aa.com
@@ -13632,6 +13634,8 @@ ff02::3 ip6-allhosts
 :: e.pubbirdf.com
 0.0.0.0 e.puooi.com
 :: e.puooi.com
+0.0.0.0 e.q671e.cn
+:: e.q671e.cn
 0.0.0.0 e.qdiut.com
 :: e.qdiut.com
 0.0.0.0 e.qiaoyuwang.com
@@ -15888,8 +15892,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g1.08160.cn
@@ -16700,8 +16702,6 @@ ff02::3 ip6-allhosts
 :: gouhei.top
 0.0.0.0 goutong.baidu.com
 :: goutong.baidu.com
-0.0.0.0 gouweida.cn
-:: gouweida.cn
 0.0.0.0 gouwubang.com
 :: gouwubang.com
 0.0.0.0 gouzhibao.cn
@@ -17022,6 +17022,8 @@ ff02::3 ip6-allhosts
 :: h2.18sd.cn
 0.0.0.0 h2pzh.cn
 :: h2pzh.cn
+0.0.0.0 h2tywo.cn
+:: h2tywo.cn
 0.0.0.0 h3btqpy2abc3.com
 :: h3btqpy2abc3.com
 0.0.0.0 h5.jiumaster.com
@@ -19500,6 +19502,8 @@ ff02::3 ip6-allhosts
 :: jdf494.cn
 0.0.0.0 jdflower.cn
 :: jdflower.cn
+0.0.0.0 jdgcjx.cn
+:: jdgcjx.cn
 0.0.0.0 jdgsgl.com
 :: jdgsgl.com
 0.0.0.0 jdlhg.com
@@ -22256,6 +22260,8 @@ ff02::3 ip6-allhosts
 :: m.csypspcs.cn
 0.0.0.0 m.cudaojia.com
 :: m.cudaojia.com
+0.0.0.0 m.d6s2pn5t.cn
+:: m.d6s2pn5t.cn
 0.0.0.0 m.dailiq.cn
 :: m.dailiq.cn
 0.0.0.0 m.dante2007.com
