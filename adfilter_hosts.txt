@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzc0MTQwNAo=
+# Checksum: MTU5Nzc1MjIyNQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200818-3
-# TimeUpdated: 2020-08-18T09:03:24+00:00
+# Version: 1.5.6-20200818-4
+# TimeUpdated: 2020-08-18T12:03:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21821
+# Total: 21825
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2910,6 +2910,8 @@ ff02::3 ip6-allhosts
 :: ad.spreaker.com
 0.0.0.0 ad.tatatimes.com
 :: ad.tatatimes.com
+0.0.0.0 ad.tencentmusic.com
+:: ad.tencentmusic.com
 0.0.0.0 ad.test.ximalaya.com
 :: ad.test.ximalaya.com
 0.0.0.0 ad.thinkmedia.cn
@@ -4418,6 +4420,8 @@ ff02::3 ip6-allhosts
 :: aio.lp.mydas.mobi
 0.0.0.0 aionfavoura.club
 :: aionfavoura.club
+0.0.0.0 aiphotogram.club
+:: aiphotogram.club
 0.0.0.0 air.1688.com
 :: air.1688.com
 0.0.0.0 air.yoyi.com.cn
@@ -15892,6 +15896,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g1.08160.cn
@@ -19502,8 +19508,6 @@ ff02::3 ip6-allhosts
 :: jdf494.cn
 0.0.0.0 jdflower.cn
 :: jdflower.cn
-0.0.0.0 jdgcjx.cn
-:: jdgcjx.cn
 0.0.0.0 jdgsgl.com
 :: jdgsgl.com
 0.0.0.0 jdlhg.com
@@ -24948,6 +24952,8 @@ ff02::3 ip6-allhosts
 :: nd59w.cn
 0.0.0.0 ndapus.cn
 :: ndapus.cn
+0.0.0.0 ndardsferv.club
+:: ndardsferv.club
 0.0.0.0 ndardsgreatm.fun
 :: ndardsgreatm.fun
 0.0.0.0 nddmcconmqsy.ru
@@ -29248,6 +29254,8 @@ ff02::3 ip6-allhosts
 :: reservices.info
 0.0.0.0 reservoircourthouse.com
 :: reservoircourthouse.com
+0.0.0.0 residenish.club
+:: residenish.club
 0.0.0.0 residuestream.club
 :: residuestream.club
 0.0.0.0 resissylvespu.info
