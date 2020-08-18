@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzc3Mzc4OAo=
+# Checksum: MTU5Nzc4NDYxMQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200818-6
-# TimeUpdated: 2020-08-18T18:03:08+00:00
+# Version: 1.5.6-20200818-7
+# TimeUpdated: 2020-08-18T21:03:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21837
+# Total: 21843
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -19488,6 +19488,8 @@ ff02::3 ip6-allhosts
 :: jc.0351dvd.cn
 0.0.0.0 jc.anhuilitian.net
 :: jc.anhuilitian.net
+0.0.0.0 jc.bubbleandyeson.com
+:: jc.bubbleandyeson.com
 0.0.0.0 jc.charlesfc.com
 :: jc.charlesfc.com
 0.0.0.0 jc.lgtianma.cn
@@ -22338,6 +22340,8 @@ ff02::3 ip6-allhosts
 :: m.fdaoo.com
 0.0.0.0 m.fdoun.com
 :: m.fdoun.com
+0.0.0.0 m.feipaihehuoren.cn
+:: m.feipaihehuoren.cn
 0.0.0.0 m.feirs.com
 :: m.feirs.com
 0.0.0.0 m.feizaofen.cn
@@ -22658,6 +22662,8 @@ ff02::3 ip6-allhosts
 :: m.qbenu.com
 0.0.0.0 m.qcw.com
 :: m.qcw.com
+0.0.0.0 m.qdiut.com
+:: m.qdiut.com
 0.0.0.0 m.qianka.com
 :: m.qianka.com
 0.0.0.0 m.qienews.cn
@@ -29120,6 +29126,8 @@ ff02::3 ip6-allhosts
 :: register.appsflyer.com
 0.0.0.0 registration.presonus.com
 :: registration.presonus.com
+0.0.0.0 regressure.club
+:: regressure.club
 0.0.0.0 reimpromot.fun
 :: reimpromot.fun
 0.0.0.0 rek.www.wp.pl
@@ -34162,6 +34170,8 @@ ff02::3 ip6-allhosts
 :: szshouzhai.com
 0.0.0.0 sztbjs.com
 :: sztbjs.com
+0.0.0.0 szyuke.cn
+:: szyuke.cn
 0.0.0.0 t-abi.hypers.com.cn
 :: t-abi.hypers.com.cn
 0.0.0.0 t-ads.xiaohongshu.com
@@ -37366,6 +37376,8 @@ ff02::3 ip6-allhosts
 :: uvimage.56.com
 0.0.0.0 uvu.nojmlxq.cn
 :: uvu.nojmlxq.cn
+0.0.0.0 uwcu.0b6h.cn
+:: uwcu.0b6h.cn
 0.0.0.0 uxfpdo3hx5fi.com
 :: uxfpdo3hx5fi.com
 0.0.0.0 uxip.meizu.com
