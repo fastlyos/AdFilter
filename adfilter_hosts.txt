@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzg0OTM5NQo=
+# Checksum: MTU5Nzg2MDIwNAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200819-5
-# TimeUpdated: 2020-08-19T15:03:15+00:00
+# Version: 1.5.6-20200819-6
+# TimeUpdated: 2020-08-19T18:03:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21868
+# Total: 21869
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2302,6 +2302,8 @@ ff02::3 ip6-allhosts
 :: aalbbh84.info
 0.0.0.0 aaliyahiya.com
 :: aaliyahiya.com
+0.0.0.0 aauisg64017.cn
+:: aauisg64017.cn
 0.0.0.0 aax-cpm.amazon-adsystem.com
 :: aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-eu-dub.amazon.com
@@ -4466,8 +4468,6 @@ ff02::3 ip6-allhosts
 :: aj2073.online
 0.0.0.0 ajapk.com
 :: ajapk.com
-0.0.0.0 ajaxcdn.org
-:: ajaxcdn.org
 0.0.0.0 ajcryptominer.com
 :: ajcryptominer.com
 0.0.0.0 ajhdf.com
@@ -4628,8 +4628,6 @@ ff02::3 ip6-allhosts
 :: aloissentence.pro
 0.0.0.0 alpha.brand.sogou.com
 :: alpha.brand.sogou.com
-0.0.0.0 alpha3.beeppool.org
-:: alpha3.beeppool.org
 0.0.0.0 alpha5.beeppool.org
 :: alpha5.beeppool.org
 0.0.0.0 als-svc.nytimes.com
@@ -6286,8 +6284,6 @@ ff02::3 ip6-allhosts
 :: au.youmi.net
 0.0.0.0 au2.beeppool.org
 :: au2.beeppool.org
-0.0.0.0 au5.beeppool.org
-:: au5.beeppool.org
 0.0.0.0 au737.com
 :: au737.com
 0.0.0.0 aud3g.com
@@ -7692,6 +7688,8 @@ ff02::3 ip6-allhosts
 :: book.70mao.com
 0.0.0.0 boomerang.dell.com
 :: boomerang.dell.com
+0.0.0.0 bootcdn.meihaoxiangwang.com
+:: bootcdn.meihaoxiangwang.com
 0.0.0.0 boowang.com
 :: boowang.com
 0.0.0.0 bopbes.cn
@@ -8110,6 +8108,8 @@ ff02::3 ip6-allhosts
 :: c.kuwo.cn
 0.0.0.0 c.l.qq.com
 :: c.l.qq.com
+0.0.0.0 c.l0yjow.cn
+:: c.l0yjow.cn
 0.0.0.0 c.lalaxit.cn
 :: c.lalaxit.cn
 0.0.0.0 c.lattebank.com
@@ -9166,8 +9166,6 @@ ff02::3 ip6-allhosts
 :: churchasisrev.site
 0.0.0.0 chystechagre.pro
 :: chystechagre.pro
-0.0.0.0 ci.beeppool.org
-:: ci.beeppool.org
 0.0.0.0 cialundertain.fun
 :: cialundertain.fun
 0.0.0.0 cicatedauthor.club
@@ -13162,8 +13160,6 @@ ff02::3 ip6-allhosts
 :: ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsa-mfp.fengshows.cn
 :: dsa-mfp.fengshows.cn
-0.0.0.0 dsc.beeppool.org
-:: dsc.beeppool.org
 0.0.0.0 dsdydk.com
 :: dsdydk.com
 0.0.0.0 dsg.interia.pl
@@ -22810,6 +22806,8 @@ ff02::3 ip6-allhosts
 :: m.vcuor.com
 0.0.0.0 m.verpt.com
 :: m.verpt.com
+0.0.0.0 m.vheituz.cn
+:: m.vheituz.cn
 0.0.0.0 m.vjuei.com
 :: m.vjuei.com
 0.0.0.0 m.vjuer.com
@@ -34336,6 +34334,8 @@ ff02::3 ip6-allhosts
 :: t.hoood.info
 0.0.0.0 t.hypers.com.cn
 :: t.hypers.com.cn
+0.0.0.0 t.ihfudill.wang
+:: t.ihfudill.wang
 0.0.0.0 t.indeed.com
 :: t.indeed.com
 0.0.0.0 t.iz55.com
@@ -37474,6 +37474,8 @@ ff02::3 ip6-allhosts
 :: v.heygugu.com
 0.0.0.0 v.irs01.com
 :: v.irs01.com
+0.0.0.0 v.l0yjow.cn
+:: v.l0yjow.cn
 0.0.0.0 v.lalaxit.cn
 :: v.lalaxit.cn
 0.0.0.0 v.lystrw.cn
