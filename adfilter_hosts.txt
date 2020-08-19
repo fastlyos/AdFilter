@@ -1,11 +1,11 @@
-# Checksum: MTU5NzgyNzgyMwo=
+# Checksum: MTU5NzgzODY1NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200819-3
-# TimeUpdated: 2020-08-19T09:03:43+00:00
+# Version: 1.5.6-20200819-4
+# TimeUpdated: 2020-08-19T12:04:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21867
+# Total: 21872
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4428,6 +4428,8 @@ ff02::3 ip6-allhosts
 :: air.1688.com
 0.0.0.0 air.yoyi.com.cn
 :: air.yoyi.com.cn
+0.0.0.0 airporates.club
+:: airporates.club
 0.0.0.0 airportedede.club
 :: airportedede.club
 0.0.0.0 airproxyproxy.pw
@@ -6368,6 +6370,8 @@ ff02::3 ip6-allhosts
 :: automationeventually.com
 0.0.0.0 automoc.net
 :: automoc.net
+0.0.0.0 av1.xdrig.com
+:: av1.xdrig.com
 0.0.0.0 av8d.net
 :: av8d.net
 0.0.0.0 avapp.tv
@@ -9198,8 +9202,6 @@ ff02::3 ip6-allhosts
 :: cishantao.com
 0.0.0.0 city009.com
 :: city009.com
-0.0.0.0 cityxman.com
-:: cityxman.com
 0.0.0.0 cizion.com
 :: cizion.com
 0.0.0.0 cj-cy.com
@@ -9958,8 +9960,6 @@ ff02::3 ip6-allhosts
 :: coinimp.com
 0.0.0.0 coinimp.net
 :: coinimp.net
-0.0.0.0 coinio.cc
-:: coinio.cc
 0.0.0.0 coinive.com
 :: coinive.com
 0.0.0.0 coinjive.com
@@ -17108,8 +17108,6 @@ ff02::3 ip6-allhosts
 :: haftobso.net
 0.0.0.0 hagainstan.space
 :: hagainstan.space
-0.0.0.0 haidaocn.com
-:: haidaocn.com
 0.0.0.0 haitaoad.nosdn.127.net
 :: haitaoad.nosdn.127.net
 0.0.0.0 haitejs.com
@@ -20966,6 +20964,8 @@ ff02::3 ip6-allhosts
 :: langchars.com
 0.0.0.0 langren85.com
 :: langren85.com
+0.0.0.0 lanshi021.com
+:: lanshi021.com
 0.0.0.0 laobei.top
 :: laobei.top
 0.0.0.0 laojiayoufang.com
@@ -22666,6 +22666,8 @@ ff02::3 ip6-allhosts
 :: m.picbr.com
 0.0.0.0 m.pieaa.com
 :: m.pieaa.com
+0.0.0.0 m.pinkmore.cn
+:: m.pinkmore.cn
 0.0.0.0 m.plerv.com
 :: m.plerv.com
 0.0.0.0 m.pmshy.cn
@@ -25244,6 +25246,8 @@ ff02::3 ip6-allhosts
 :: nglingapparen.fun
 0.0.0.0 ngrft.beeppool.org
 :: ngrft.beeppool.org
+0.0.0.0 ngrichtelcr.club
+:: ngrichtelcr.club
 0.0.0.0 ngtablishbol.top
 :: ngtablishbol.top
 0.0.0.0 nhz.adwo.com
@@ -26262,6 +26266,8 @@ ff02::3 ip6-allhosts
 :: oxifwsabgd.nzz.ch
 0.0.0.0 oxo.jilinfurong.com
 :: oxo.jilinfurong.com
+0.0.0.0 oycslic.xyz
+:: oycslic.xyz
 0.0.0.0 oyeesfrencha.fun
 :: oyeesfrencha.fun
 0.0.0.0 oysterscarton.com
@@ -26892,6 +26898,8 @@ ff02::3 ip6-allhosts
 :: pheekrie.com
 0.0.0.0 pheevoug.com
 :: pheevoug.com
+0.0.0.0 phenomour.club
+:: phenomour.club
 0.0.0.0 phenylketh.site
 :: phenylketh.site
 0.0.0.0 philation.club
@@ -33248,6 +33256,8 @@ ff02::3 ip6-allhosts
 :: statistics.aldi-international.com
 0.0.0.0 statistics.crowdynews.com
 :: statistics.crowdynews.com
+0.0.0.0 statistics.fppressa.ru
+:: statistics.fppressa.ru
 0.0.0.0 statistics.jfmedier.dk
 :: statistics.jfmedier.dk
 0.0.0.0 statistics.klicktel.de
