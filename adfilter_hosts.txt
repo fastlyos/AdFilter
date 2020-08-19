@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzc4NDYxMQo=
+# Checksum: MTU5Nzc5NTY2Mwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200818-7
-# TimeUpdated: 2020-08-18T21:03:31+00:00
+# Version: 1.5.6-20200819-0
+# TimeUpdated: 2020-08-19T00:07:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21843
+# Total: 21844
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3978,6 +3978,8 @@ ff02::3 ip6-allhosts
 :: adszs.com
 0.0.0.0 adszui.com
 :: adszui.com
+0.0.0.0 adt.xdrig.com
+:: adt.xdrig.com
 0.0.0.0 adtaily.com
 :: adtaily.com
 0.0.0.0 adtech.de
@@ -8942,8 +8944,6 @@ ff02::3 ip6-allhosts
 :: cfceu.duckdns.org
 0.0.0.0 cfcs1.duckdns.org
 :: cfcs1.duckdns.org
-0.0.0.0 cfdac.8g0ymk.cn
-:: cfdac.8g0ymk.cn
 0.0.0.0 cfdanet.com
 :: cfdanet.com
 0.0.0.0 cfeo.bealge.sogou.com
@@ -14670,6 +14670,8 @@ ff02::3 ip6-allhosts
 :: eulerian.splendia.com
 0.0.0.0 eultech.fnac.com
 :: eultech.fnac.com
+0.0.0.0 euncoordi.club
+:: euncoordi.club
 0.0.0.0 eunformeranothe.info
 :: eunformeranothe.info
 0.0.0.0 eur3.mvjcdn.com
