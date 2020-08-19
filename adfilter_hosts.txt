@@ -1,11 +1,11 @@
-# Checksum: MTU5NzgzODY1NAo=
+# Checksum: MTU5Nzg0OTM5NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200819-4
-# TimeUpdated: 2020-08-19T12:04:14+00:00
+# Version: 1.5.6-20200819-5
+# TimeUpdated: 2020-08-19T15:03:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21872
+# Total: 21868
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1024,8 +1024,6 @@ ff02::3 ip6-allhosts
 :: 5.5ppt.net
 0.0.0.0 5.douben8.com
 :: 5.douben8.com
-0.0.0.0 50-50-pool.burst.beeppool.org
-:: 50-50-pool.burst.beeppool.org
 0.0.0.0 504pk.com
 :: 504pk.com
 0.0.0.0 5066.net
@@ -1804,6 +1802,8 @@ ff02::3 ip6-allhosts
 :: 996f3d.cn
 0.0.0.0 999.com
 :: 999.com
+0.0.0.0 99dqw.com
+:: 99dqw.com
 0.0.0.0 99lolo.com
 :: 99lolo.com
 0.0.0.0 99qqc.com
@@ -3382,8 +3382,6 @@ ff02::3 ip6-allhosts
 :: admicro5.vcmedia.vn
 0.0.0.0 admicro6.vcmedia.vn
 :: admicro6.vcmedia.vn
-0.0.0.0 admin.beeppool.org
-:: admin.beeppool.org
 0.0.0.0 admin.cooguo.com
 :: admin.cooguo.com
 0.0.0.0 admin.ninebox.cn
@@ -7444,8 +7442,6 @@ ff02::3 ip6-allhosts
 :: bingyinq.com
 0.0.0.0 binsatbee.club
 :: binsatbee.club
-0.0.0.0 bip.beeppool.org
-:: bip.beeppool.org
 0.0.0.0 biroads.com
 :: biroads.com
 0.0.0.0 bishoppeda.club
@@ -7764,8 +7760,6 @@ ff02::3 ip6-allhosts
 :: brainian.club
 0.0.0.0 braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 :: braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
-0.0.0.0 brainwallet.beeppool.org
-:: brainwallet.beeppool.org
 0.0.0.0 brakesoutright.com
 :: brakesoutright.com
 0.0.0.0 brandshow.58.com
@@ -12152,8 +12146,6 @@ ff02::3 ip6-allhosts
 :: dcontonalscho.info
 0.0.0.0 dcop4khjxsmg.com
 :: dcop4khjxsmg.com
-0.0.0.0 dcr-cd.beeppool.org
-:: dcr-cd.beeppool.org
 0.0.0.0 dcrzz.com
 :: dcrzz.com
 0.0.0.0 dctykq.cn
@@ -19182,6 +19174,8 @@ ff02::3 ip6-allhosts
 :: ipapi.tmbi.com
 0.0.0.0 ipbc.crypto-webminer.com
 :: ipbc.crypto-webminer.com
+0.0.0.0 ipcheck.blogsys.jp
+:: ipcheck.blogsys.jp
 0.0.0.0 ipcheck.tmgrup.com.tr
 :: ipcheck.tmgrup.com.tr
 0.0.0.0 ipengtai.huanqiu.com
@@ -26266,8 +26260,6 @@ ff02::3 ip6-allhosts
 :: oxifwsabgd.nzz.ch
 0.0.0.0 oxo.jilinfurong.com
 :: oxo.jilinfurong.com
-0.0.0.0 oycslic.xyz
-:: oycslic.xyz
 0.0.0.0 oyeesfrencha.fun
 :: oyeesfrencha.fun
 0.0.0.0 oysterscarton.com
