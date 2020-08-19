@@ -1,11 +1,11 @@
-# Checksum: MTU5NzgxNzEwMAo=
+# Checksum: MTU5NzgyNzgyMwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200819-2
-# TimeUpdated: 2020-08-19T06:05:00+00:00
+# Version: 1.5.6-20200819-3
+# TimeUpdated: 2020-08-19T09:03:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21865
+# Total: 21867
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4400,8 +4400,6 @@ ff02::3 ip6-allhosts
 :: aidps.atdmt.com
 0.0.0.0 aigou023.com
 :: aigou023.com
-0.0.0.0 aijielang.cn
-:: aijielang.cn
 0.0.0.0 ailicee.com
 :: ailicee.com
 0.0.0.0 ailpielei.com
@@ -9200,6 +9198,8 @@ ff02::3 ip6-allhosts
 :: cishantao.com
 0.0.0.0 city009.com
 :: city009.com
+0.0.0.0 cityxman.com
+:: cityxman.com
 0.0.0.0 cizion.com
 :: cizion.com
 0.0.0.0 cj-cy.com
@@ -9958,6 +9958,8 @@ ff02::3 ip6-allhosts
 :: coinimp.com
 0.0.0.0 coinimp.net
 :: coinimp.net
+0.0.0.0 coinio.cc
+:: coinio.cc
 0.0.0.0 coinive.com
 :: coinive.com
 0.0.0.0 coinjive.com
@@ -17106,6 +17108,8 @@ ff02::3 ip6-allhosts
 :: haftobso.net
 0.0.0.0 hagainstan.space
 :: hagainstan.space
+0.0.0.0 haidaocn.com
+:: haidaocn.com
 0.0.0.0 haitaoad.nosdn.127.net
 :: haitaoad.nosdn.127.net
 0.0.0.0 haitejs.com
@@ -23534,8 +23538,6 @@ ff02::3 ip6-allhosts
 :: mehebborc.com
 0.0.0.0 meicubao.cn
 :: meicubao.cn
-0.0.0.0 meihaoxiangwang.com
-:: meihaoxiangwang.com
 0.0.0.0 meiqia.com
 :: meiqia.com
 0.0.0.0 meitissp.com
@@ -35062,6 +35064,8 @@ ff02::3 ip6-allhosts
 :: thernouverge.site
 0.0.0.0 thescottishfarmer-gb.thescottishfarmer.co.uk
 :: thescottishfarmer-gb.thescottishfarmer.co.uk
+0.0.0.0 thestrad-gb.thestrad.com
+:: thestrad-gb.thestrad.com
 0.0.0.0 theta.sogou.com
 :: theta.sogou.com
 0.0.0.0 theta.sogoucdn.com
