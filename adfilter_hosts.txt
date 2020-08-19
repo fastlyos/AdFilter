@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzg2MDIwNAo=
+# Checksum: MTU5Nzg3MDk5Ngo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200819-6
-# TimeUpdated: 2020-08-19T18:03:24+00:00
+# Version: 1.5.6-20200819-7
+# TimeUpdated: 2020-08-19T21:03:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21869
+# Total: 21870
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6106,8 +6106,6 @@ ff02::3 ip6-allhosts
 :: asia.marketo.com
 0.0.0.0 asia.monerise.com
 :: asia.monerise.com
-0.0.0.0 asia.x11.beeppool.org
-:: asia.x11.beeppool.org
 0.0.0.0 asianimage-gb.asianimage.co.uk
 :: asianimage-gb.asianimage.co.uk
 0.0.0.0 asimgs.pplive.cn
@@ -6192,8 +6190,6 @@ ff02::3 ip6-allhosts
 :: at.pagesjaunes.fr
 0.0.0.0 at.umeng.com
 :: at.umeng.com
-0.0.0.0 at02.beeppool.org
-:: at02.beeppool.org
 0.0.0.0 at1.doubanio.com
 :: at1.doubanio.com
 0.0.0.0 at1.qingdou.net
@@ -6244,8 +6240,6 @@ ff02::3 ip6-allhosts
 :: atlas1.krone.at
 0.0.0.0 atm.yoyi.com.cn
 :: atm.yoyi.com.cn
-0.0.0.0 atomi.beeppool.org
-:: atomi.beeppool.org
 0.0.0.0 atoultou.com
 :: atoultou.com
 0.0.0.0 atplay.cn
@@ -7216,8 +7210,6 @@ ff02::3 ip6-allhosts
 :: beegotou.net
 0.0.0.0 beenmeekwarmth.casa
 :: beenmeekwarmth.casa
-0.0.0.0 beeppool.org
-:: beeppool.org
 0.0.0.0 beewanuk.net
 :: beewanuk.net
 0.0.0.0 befirstcdn.com
@@ -10062,6 +10054,8 @@ ff02::3 ip6-allhosts
 :: collector.wasu.cn
 0.0.0.0 collector.xhamster.com
 :: collector.xhamster.com
+0.0.0.0 collector1.afreecatv.com
+:: collector1.afreecatv.com
 0.0.0.0 collector1.xhamster.com
 :: collector1.xhamster.com
 0.0.0.0 collectpush.com
@@ -12538,6 +12532,8 @@ ff02::3 ip6-allhosts
 :: dingviewjeep.info
 0.0.0.0 dingyuanyao.cn
 :: dingyuanyao.cn
+0.0.0.0 dinneredaq.club
+:: dinneredaq.club
 0.0.0.0 dinovala.com
 :: dinovala.com
 0.0.0.0 dio66.net
@@ -15606,6 +15602,8 @@ ff02::3 ip6-allhosts
 :: frankfurt-1.xmrpool.net
 0.0.0.0 frdhq.cn
 :: frdhq.cn
+0.0.0.0 freakspybad.com
+:: freakspybad.com
 0.0.0.0 free-cdn.oss-cn-shanghai.aliyuncs.com
 :: free-cdn.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 free-rc.com
@@ -21078,6 +21076,8 @@ ff02::3 ip6-allhosts
 :: lee789.com
 0.0.0.0 legalledgtjuj.club
 :: legalledgtjuj.club
+0.0.0.0 legislands.club
+:: legislands.club
 0.0.0.0 legistsstillo.club
 :: legistsstillo.club
 0.0.0.0 legozu.com
@@ -22270,6 +22270,8 @@ ff02::3 ip6-allhosts
 :: m.chexiw.com
 0.0.0.0 m.chinachooses.com
 :: m.chinachooses.com
+0.0.0.0 m.chunyin.site
+:: m.chunyin.site
 0.0.0.0 m.cjjcby.cn
 :: m.cjjcby.cn
 0.0.0.0 m.ckaim.com
