@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzc5NTY2Mwo=
+# Checksum: MTU5NzgwNjIzNAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200819-0
-# TimeUpdated: 2020-08-19T00:07:43+00:00
+# Version: 1.5.6-20200819-1
+# TimeUpdated: 2020-08-19T03:03:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21844
+# Total: 21866
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2094,6 +2094,8 @@ ff02::3 ip6-allhosts
 :: a.vserv.mobi
 0.0.0.0 a.w3techs.com
 :: a.w3techs.com
+0.0.0.0 a.wanrenshe.com
+:: a.wanrenshe.com
 0.0.0.0 a.wanzhuang.com
 :: a.wanzhuang.com
 0.0.0.0 a.wifi33.com
@@ -8874,6 +8876,8 @@ ff02::3 ip6-allhosts
 :: cdnstats.tube8.com
 0.0.0.0 cdnvideo.mobi
 :: cdnvideo.mobi
+0.0.0.0 cdqjmc.com
+:: cdqjmc.com
 0.0.0.0 cds.51y5.net
 :: cds.51y5.net
 0.0.0.0 cdu.cc
@@ -9630,6 +9634,8 @@ ff02::3 ip6-allhosts
 :: cm.reachmax.cn
 0.0.0.0 cm.stg8.com
 :: cm.stg8.com
+0.0.0.0 cm.yigao.com
+:: cm.yigao.com
 0.0.0.0 cm.zhiziyun.com
 :: cm.zhiziyun.com
 0.0.0.0 cm8.lycos.com
@@ -13466,6 +13472,8 @@ ff02::3 ip6-allhosts
 :: e.01w47q.cn
 0.0.0.0 e.0531mnk.net
 :: e.0531mnk.net
+0.0.0.0 e.1r8th.cn
+:: e.1r8th.cn
 0.0.0.0 e.2hqd0b.cn
 :: e.2hqd0b.cn
 0.0.0.0 e.2l06k.cn
@@ -13604,6 +13612,8 @@ ff02::3 ip6-allhosts
 :: e.kuwoyy.com
 0.0.0.0 e.kzwsh.cn
 :: e.kzwsh.cn
+0.0.0.0 e.lisln.cn
+:: e.lisln.cn
 0.0.0.0 e.ljuer.com
 :: e.ljuer.com
 0.0.0.0 e.lndjj.com
@@ -13626,6 +13636,8 @@ ff02::3 ip6-allhosts
 :: e.mspazmw.cn
 0.0.0.0 e.nbkbgd.cn
 :: e.nbkbgd.cn
+0.0.0.0 e.nchet.com
+:: e.nchet.com
 0.0.0.0 e.nejup.com
 :: e.nejup.com
 0.0.0.0 e.nernv.com
@@ -14034,6 +14046,8 @@ ff02::3 ip6-allhosts
 :: ee.hx623.cn
 0.0.0.0 ee.m19ud.cn
 :: ee.m19ud.cn
+0.0.0.0 ee.mfufanj.cn
+:: ee.mfufanj.cn
 0.0.0.0 ee.shixunwang.net
 :: ee.shixunwang.net
 0.0.0.0 ee.wh723.cn
@@ -14044,6 +14058,8 @@ ff02::3 ip6-allhosts
 :: ee.xq375.cn
 0.0.0.0 ee.xr883.cn
 :: ee.xr883.cn
+0.0.0.0 ee.zowmgxpz.cn
+:: ee.zowmgxpz.cn
 0.0.0.0 eec.sachbs.club
 :: eec.sachbs.club
 0.0.0.0 eeeqi.cn
@@ -14096,6 +14112,8 @@ ff02::3 ip6-allhosts
 :: effiliates.cn
 0.0.0.0 effixtile-inceive.com
 :: effixtile-inceive.com
+0.0.0.0 eflbruwqt.ru
+:: eflbruwqt.ru
 0.0.0.0 eforeantheirma.info
 :: eforeantheirma.info
 0.0.0.0 eg-p2.eurogamer.net
@@ -15536,6 +15554,8 @@ ff02::3 ip6-allhosts
 :: fotacontrol.adfuture.cn
 0.0.0.0 fotao9.com
 :: fotao9.com
+0.0.0.0 fouas.com
+:: fouas.com
 0.0.0.0 fourmtagservices.appspot.com
 :: fourmtagservices.appspot.com
 0.0.0.0 fout.jp
@@ -19650,6 +19670,8 @@ ff02::3 ip6-allhosts
 :: jieyixiu.com
 0.0.0.0 jiguang.cn
 :: jiguang.cn
+0.0.0.0 jiguangyi.com.cn
+:: jiguangyi.com.cn
 0.0.0.0 jiirz.com
 :: jiirz.com
 0.0.0.0 jimg.iigs9.com
@@ -21058,6 +21080,8 @@ ff02::3 ip6-allhosts
 :: lebkeresxa.ml
 0.0.0.0 ledburyreporter-gb.ledburyreporter.co.uk
 :: ledburyreporter-gb.ledburyreporter.co.uk
+0.0.0.0 ledhenone.com
+:: ledhenone.com
 0.0.0.0 ledou.dl.uu.cc
 :: ledou.dl.uu.cc
 0.0.0.0 lee789.com
@@ -21414,6 +21438,8 @@ ff02::3 ip6-allhosts
 :: lk1mft33pj2f.com
 0.0.0.0 lkbf.0532ci.com.cn
 :: lkbf.0532ci.com.cn
+0.0.0.0 lkf1.m.sanhao3.com
+:: lkf1.m.sanhao3.com
 0.0.0.0 lkme.cc
 :: lkme.cc
 0.0.0.0 lkxanf7ad6g.zgyryt.com
@@ -24170,8 +24196,6 @@ ff02::3 ip6-allhosts
 :: mo.mptckm.cn
 0.0.0.0 mo.qb138.cn
 :: mo.qb138.cn
-0.0.0.0 mo.qitouch.cn
-:: mo.qitouch.cn
 0.0.0.0 mo.qpmue.xyz
 :: mo.qpmue.xyz
 0.0.0.0 mo.res.wpscdn.cn
@@ -26590,6 +26614,8 @@ ff02::3 ip6-allhosts
 :: pasaigul.com
 0.0.0.0 pasco.cc
 :: pasco.cc
+0.0.0.0 pasoherb.gq
+:: pasoherb.gq
 0.0.0.0 pass1.soogif.com
 :: pass1.soogif.com
 0.0.0.0 pass2.soogif.com
@@ -29726,6 +29752,8 @@ ff02::3 ip6-allhosts
 :: rtw.monerise.com
 0.0.0.0 ru-gmtdmp.mookie1.com
 :: ru-gmtdmp.mookie1.com
+0.0.0.0 ruanjiancms.com
+:: ruanjiancms.com
 0.0.0.0 rubicon-match.dotomi.com
 :: rubicon-match.dotomi.com
 0.0.0.0 rubicon.wellsfargo.com
@@ -36312,6 +36340,8 @@ ff02::3 ip6-allhosts
 :: trckr.nordiskemedier.dk
 0.0.0.0 treammicr.club
 :: treammicr.club
+0.0.0.0 treaturesfg.club
+:: treaturesfg.club
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
 :: tree-pixel-log.s3.amazonaws.com
 0.0.0.0 tree.logger.baofeng.com
@@ -38578,6 +38608,8 @@ ff02::3 ip6-allhosts
 :: weiguizhizuo.com
 0.0.0.0 weihuiyungou.com
 :: weihuiyungou.com
+0.0.0.0 weiiii.com
+:: weiiii.com
 0.0.0.0 weiledi.com
 :: weiledi.com
 0.0.0.0 weimineiyixiu.cn
@@ -41370,6 +41402,8 @@ ff02::3 ip6-allhosts
 :: www.uulucky.com
 0.0.0.0 www.uyunad.com
 :: www.uyunad.com
+0.0.0.0 www.v90327ux.beget.tech
+:: www.v90327ux.beget.tech
 0.0.0.0 www.vangmobi.com
 :: www.vangmobi.com
 0.0.0.0 www.verifier.live
@@ -42228,6 +42262,8 @@ ff02::3 ip6-allhosts
 :: xn--2qux23c9ziyrq.icu
 0.0.0.0 xn--2qux23c9ziyrq.ink
 :: xn--2qux23c9ziyrq.ink
+0.0.0.0 xn--2qux23c9ziyrq.ren
+:: xn--2qux23c9ziyrq.ren
 0.0.0.0 xn--2qux23confgml.club
 :: xn--2qux23confgml.club
 0.0.0.0 xn--2ssq0ktxigkq.cc
@@ -42788,6 +42824,8 @@ ff02::3 ip6-allhosts
 :: yinooo.com
 0.0.0.0 yinsterkneeline.info
 :: yinsterkneeline.info
+0.0.0.0 yinyuncp.com
+:: yinyuncp.com
 0.0.0.0 yiqifa.com
 :: yiqifa.com
 0.0.0.0 yiqima.xyz
@@ -43310,6 +43348,8 @@ ff02::3 ip6-allhosts
 :: zfood029.com
 0.0.0.0 zg.mmyuer.com
 :: zg.mmyuer.com
+0.0.0.0 zgbmw.com.cn
+:: zgbmw.com.cn
 0.0.0.0 zgbsny.com
 :: zgbsny.com
 0.0.0.0 zgc66.com
@@ -43348,6 +43388,8 @@ ff02::3 ip6-allhosts
 :: zhangguangzong.com
 0.0.0.0 zhangguangzong.com000.0x1f4b0.com
 :: zhangguangzong.com000.0x1f4b0.com
+0.0.0.0 zhangyumo.top
+:: zhangyumo.top
 0.0.0.0 zhangyunxiawinner.top
 :: zhangyunxiawinner.top
 0.0.0.0 zhannei-dm.csdn.net
@@ -43390,6 +43432,8 @@ ff02::3 ip6-allhosts
 :: zhjfad.com
 0.0.0.0 zhlala.com
 :: zhlala.com
+0.0.0.0 zhlzdhr.cn
+:: zhlzdhr.cn
 0.0.0.0 zhongchouyan.com
 :: zhongchouyan.com
 0.0.0.0 zhongdoulicai.com
