@@ -1,11 +1,11 @@
-# Checksum: MTU5NzkyNTAzOQo=
+# Checksum: MTU5NzkzNTgwOQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200820-4
-# TimeUpdated: 2020-08-20T12:03:59+00:00
+# Version: 1.5.6-20200820-5
+# TimeUpdated: 2020-08-20T15:03:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21874
+# Total: 21876
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -108,6 +108,8 @@ ff02::3 ip6-allhosts
 :: 0594003.com
 0.0.0.0 0594529.com
 :: 0594529.com
+0.0.0.0 05qwmtwxa3ev.com
+:: 05qwmtwxa3ev.com
 0.0.0.0 05xz0h2xo799.com
 :: 05xz0h2xo799.com
 0.0.0.0 06362.com
@@ -6094,8 +6096,6 @@ ff02::3 ip6-allhosts
 :: ashot.txxx.com
 0.0.0.0 ashow.pcpop.com
 :: ashow.pcpop.com
-0.0.0.0 asia-mine.beeppool.org
-:: asia-mine.beeppool.org
 0.0.0.0 asia.marketo.com
 :: asia.marketo.com
 0.0.0.0 asia.monerise.com
@@ -10690,8 +10690,6 @@ ff02::3 ip6-allhosts
 :: cpc.sohu.com
 0.0.0.0 cpcmart.com
 :: cpcmart.com
-0.0.0.0 cpcontacts.beeppool.org
-:: cpcontacts.beeppool.org
 0.0.0.0 cperformmedia-a.akamaihd.net
 :: cperformmedia-a.akamaihd.net
 0.0.0.0 cpgo.avatacar.com
@@ -18414,6 +18412,8 @@ ff02::3 ip6-allhosts
 :: iky.sinabuy.cn
 0.0.0.0 il05pzhujicf.com
 :: il05pzhujicf.com
+0.0.0.0 ileokscsawzzrh.com
+:: ileokscsawzzrh.com
 0.0.0.0 ilepai.com
 :: ilepai.com
 0.0.0.0 ilkleygazette-gb.ilkleygazette.co.uk
@@ -21874,6 +21874,8 @@ ff02::3 ip6-allhosts
 :: lore.circulate.com
 0.0.0.0 loricalreach.info
 :: loricalreach.info
+0.0.0.0 lornardchr.club
+:: lornardchr.club
 0.0.0.0 losital.ru
 :: losital.ru
 0.0.0.0 lottery-lists.freebitco.in
@@ -24804,6 +24806,8 @@ ff02::3 ip6-allhosts
 :: myoffers.bid
 0.0.0.0 myrtb.net
 :: myrtb.net
+0.0.0.0 myselfjanitor.com
+:: myselfjanitor.com
 0.0.0.0 mytanwan.com
 :: mytanwan.com
 0.0.0.0 mytzdhz.cn
@@ -25532,6 +25536,8 @@ ff02::3 ip6-allhosts
 :: npttech.com
 0.0.0.0 nq93jx1vpq9r.com
 :: nq93jx1vpq9r.com
+0.0.0.0 nqbcf.cn
+:: nqbcf.cn
 0.0.0.0 nqfwx.cn
 :: nqfwx.cn
 0.0.0.0 nqrkzcd7ixwr.com
@@ -26452,6 +26458,8 @@ ff02::3 ip6-allhosts
 :: padsecs.com
 0.0.0.0 padsecz.com
 :: padsecz.com
+0.0.0.0 padskis.com
+:: padskis.com
 0.0.0.0 padspms.com
 :: padspms.com
 0.0.0.0 paerst.cn
@@ -29460,6 +29468,8 @@ ff02::3 ip6-allhosts
 :: risk.clearbit.com
 0.0.0.0 ristbuchingu.space
 :: ristbuchingu.space
+0.0.0.0 ristmantre.club
+:: ristmantre.club
 0.0.0.0 ritiesagently.fun
 :: ritiesagently.fun
 0.0.0.0 ritinghimse.space
@@ -35132,8 +35142,6 @@ ff02::3 ip6-allhosts
 :: thumbnail.dataoke.com
 0.0.0.0 thurrockgazette-gb.thurrockgazette.co.uk
 :: thurrockgazette-gb.thurrockgazette.co.uk
-0.0.0.0 thxsqei.cn
-:: thxsqei.cn
 0.0.0.0 thywhapupi.pro
 :: thywhapupi.pro
 0.0.0.0 thztv.net
@@ -37392,8 +37400,6 @@ ff02::3 ip6-allhosts
 :: uu.85655095.com
 0.0.0.0 uu.qq.com
 :: uu.qq.com
-0.0.0.0 uuaoz.com
-:: uuaoz.com
 0.0.0.0 uucm.cn
 :: uucm.cn
 0.0.0.0 uue2.destinia.ir
@@ -43406,8 +43412,6 @@ ff02::3 ip6-allhosts
 :: zhangguangzong.com
 0.0.0.0 zhangguangzong.com000.0x1f4b0.com
 :: zhangguangzong.com000.0x1f4b0.com
-0.0.0.0 zhangranfilm.com
-:: zhangranfilm.com
 0.0.0.0 zhangyunxiawinner.top
 :: zhangyunxiawinner.top
 0.0.0.0 zhannei-dm.csdn.net
