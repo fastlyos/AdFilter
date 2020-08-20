@@ -1,11 +1,11 @@
-# Checksum: MTU5NzkxNDE5MAo=
+# Checksum: MTU5NzkyNTAzOQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200820-3
-# TimeUpdated: 2020-08-20T09:03:10+00:00
+# Version: 1.5.6-20200820-4
+# TimeUpdated: 2020-08-20T12:03:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21869
+# Total: 21874
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5388,8 +5388,6 @@ ff02::3 ip6-allhosts
 :: api-deal.kechenggezi.com
 0.0.0.0 api-es.doglobal.net
 :: api-es.doglobal.net
-0.0.0.0 api-etn.beeppool.org
-:: api-etn.beeppool.org
 0.0.0.0 api-flow.flyme.cn
 :: api-flow.flyme.cn
 0.0.0.0 api-flow.meizu.com
@@ -6286,6 +6284,8 @@ ff02::3 ip6-allhosts
 :: audiencies.ccma.cat
 0.0.0.0 audiesuree.club
 :: audiesuree.club
+0.0.0.0 audiosech.club
+:: audiosech.club
 0.0.0.0 audit.303br.net
 :: audit.303br.net
 0.0.0.0 audit.aaa.mgtv.com
@@ -13992,6 +13992,8 @@ ff02::3 ip6-allhosts
 :: educatednicer.com
 0.0.0.0 educationdemotediabete.com
 :: educationdemotediabete.com
+0.0.0.0 edumsys.com
+:: edumsys.com
 0.0.0.0 eduzzjy.com
 :: eduzzjy.com
 0.0.0.0 edvforeveretest.info
@@ -14200,6 +14202,8 @@ ff02::3 ip6-allhosts
 :: emarhowedp.club
 0.0.0.0 emarketing.rmauctions.com
 :: emarketing.rmauctions.com
+0.0.0.0 ematumes.club
+:: ematumes.club
 0.0.0.0 embargainew.site
 :: embargainew.site
 0.0.0.0 emdcadvertise.eastmoney.com
@@ -17080,8 +17084,6 @@ ff02::3 ip6-allhosts
 :: haftobso.net
 0.0.0.0 hagainstan.space
 :: hagainstan.space
-0.0.0.0 haireig.com
-:: haireig.com
 0.0.0.0 haitaoad.nosdn.127.net
 :: haitaoad.nosdn.127.net
 0.0.0.0 haitejs.com
@@ -29570,6 +29572,8 @@ ff02::3 ip6-allhosts
 :: roneum.crypto-webminer.com
 0.0.0.0 rongchengxxw.com
 :: rongchengxxw.com
+0.0.0.0 rongnews.com
+:: rongnews.com
 0.0.0.0 ronoutom.net
 :: ronoutom.net
 0.0.0.0 roostsflewcat.cam
@@ -35128,6 +35132,8 @@ ff02::3 ip6-allhosts
 :: thumbnail.dataoke.com
 0.0.0.0 thurrockgazette-gb.thurrockgazette.co.uk
 :: thurrockgazette-gb.thurrockgazette.co.uk
+0.0.0.0 thxsqei.cn
+:: thxsqei.cn
 0.0.0.0 thywhapupi.pro
 :: thywhapupi.pro
 0.0.0.0 thztv.net
@@ -37386,6 +37392,8 @@ ff02::3 ip6-allhosts
 :: uu.85655095.com
 0.0.0.0 uu.qq.com
 :: uu.qq.com
+0.0.0.0 uuaoz.com
+:: uuaoz.com
 0.0.0.0 uucm.cn
 :: uucm.cn
 0.0.0.0 uue2.destinia.ir
@@ -43398,6 +43406,8 @@ ff02::3 ip6-allhosts
 :: zhangguangzong.com
 0.0.0.0 zhangguangzong.com000.0x1f4b0.com
 :: zhangguangzong.com000.0x1f4b0.com
+0.0.0.0 zhangranfilm.com
+:: zhangranfilm.com
 0.0.0.0 zhangyunxiawinner.top
 :: zhangyunxiawinner.top
 0.0.0.0 zhannei-dm.csdn.net
