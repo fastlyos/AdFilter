@@ -1,11 +1,11 @@
-# Checksum: MTU5NzkwMzQ4MAo=
+# Checksum: MTU5NzkxNDE5MAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200820-2
-# TimeUpdated: 2020-08-20T06:04:40+00:00
+# Version: 1.5.6-20200820-3
+# TimeUpdated: 2020-08-20T09:03:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21876
+# Total: 21869
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2504,8 +2504,6 @@ ff02::3 ip6-allhosts
 :: acl.stayfriends.de
 0.0.0.0 aclickads.com
 :: aclickads.com
-0.0.0.0 acm.beeppool.org
-:: acm.beeppool.org
 0.0.0.0 acmsg.online
 :: acmsg.online
 0.0.0.0 acodes.b2b.cn
@@ -6824,8 +6822,6 @@ ff02::3 ip6-allhosts
 :: bcfeedback.taobao.com
 0.0.0.0 bchur.com
 :: bchur.com
-0.0.0.0 bci-eu.beeppool.org
-:: bci-eu.beeppool.org
 0.0.0.0 bcjjg.bugsevent.com
 :: bcjjg.bugsevent.com
 0.0.0.0 bcjxf.bugsevent.com
@@ -7866,8 +7862,6 @@ ff02::3 ip6-allhosts
 :: bttt99.kkcaicai.com
 0.0.0.0 btwan5.com
 :: btwan5.com
-0.0.0.0 btx-hz.beeppool.org
-:: btx-hz.beeppool.org
 0.0.0.0 btyou.com
 :: btyou.com
 0.0.0.0 bu01.zybang.com
@@ -12188,8 +12182,6 @@ ff02::3 ip6-allhosts
 :: ddvbjehruuj5y.cloudfront.net
 0.0.0.0 ddvfoj5yrl2oi.cloudfront.net
 :: ddvfoj5yrl2oi.cloudfront.net
-0.0.0.0 de-mi-nis-ner2.info
-:: de-mi-nis-ner2.info
 0.0.0.0 de-ner-mi-nis4.info
 :: de-ner-mi-nis4.info
 0.0.0.0 de-nis-ner-mi-5.info
@@ -12514,8 +12506,6 @@ ff02::3 ip6-allhosts
 :: digg.analytics.live.com
 0.0.0.0 digger.cryptobara.com
 :: digger.cryptobara.com
-0.0.0.0 digi.beeppool.org
-:: digi.beeppool.org
 0.0.0.0 digitru.st
 :: digitru.st
 0.0.0.0 dildo.tnaflix.com
@@ -12930,8 +12920,6 @@ ff02::3 ip6-allhosts
 :: domob.cn
 0.0.0.0 domob.com.cn
 :: domob.com.cn
-0.0.0.0 don.beeppool.org
-:: don.beeppool.org
 0.0.0.0 donate.crypto-webminer.com
 :: donate.crypto-webminer.com
 0.0.0.0 donconferen.site
@@ -13122,8 +13110,6 @@ ff02::3 ip6-allhosts
 :: drjgjngf.com
 0.0.0.0 drlsf.com
 :: drlsf.com
-0.0.0.0 drm.beeppool.org
-:: drm.beeppool.org
 0.0.0.0 drm.cmgame.com
 :: drm.cmgame.com
 0.0.0.0 drmfslx.cn
@@ -17094,6 +17080,8 @@ ff02::3 ip6-allhosts
 :: haftobso.net
 0.0.0.0 hagainstan.space
 :: hagainstan.space
+0.0.0.0 haireig.com
+:: haireig.com
 0.0.0.0 haitaoad.nosdn.127.net
 :: haitaoad.nosdn.127.net
 0.0.0.0 haitejs.com
@@ -23968,8 +23956,6 @@ ff02::3 ip6-allhosts
 :: miserintesto.site
 0.0.0.0 missingarchery.com
 :: missingarchery.com
-0.0.0.0 mitjg.xyz
-:: mitjg.xyz
 0.0.0.0 mitsczechoesy.site
 :: mitsczechoesy.site
 0.0.0.0 mivideo.g.mi.com
@@ -26842,6 +26828,8 @@ ff02::3 ip6-allhosts
 :: petsheying.com
 0.0.0.0 pf-2.pchome.net
 :: pf-2.pchome.net
+0.0.0.0 pf.h2rybi.cn
+:: pf.h2rybi.cn
 0.0.0.0 pf.newegg.com
 :: pf.newegg.com
 0.0.0.0 pf.pchome.net
@@ -42472,8 +42460,6 @@ ff02::3 ip6-allhosts
 :: xvyljkr.com
 0.0.0.0 xw1001.com
 :: xw1001.com
-0.0.0.0 xww360.com
-:: xww360.com
 0.0.0.0 xx.m.gxwztv.com
 :: xx.m.gxwztv.com
 0.0.0.0 xx.sctnkw.cn
