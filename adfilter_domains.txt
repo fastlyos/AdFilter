@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzg4MjA2NAo=
+# Checksum: MTU5Nzg5MjU5NQo=
 # Title: Zhijie's Ad Filter for Pi-hole
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200820-0
-# TimeUpdated: 2020-08-20T00:07:44+00:00
+# Version: 1.5.6-20200820-1
+# TimeUpdated: 2020-08-20T03:03:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21870
+# Total: 21885
 0.r.msn.com
 0.up.qingdaonews.com
 001.0x1f4b0.com
@@ -152,6 +152,7 @@
 1.zhev.com.cn
 1.zhuangxiu567.com
 1.zuowenjun.com
+100.admin5.com
 100.pncdn.cn
 1000su.com
 1002.men
@@ -643,7 +644,6 @@
 652748.com
 654mmm.com
 6554.net
-65h79.cn
 6604.org
 6612151.cn
 6612152.cn
@@ -1314,6 +1314,7 @@ ad-stat.ksosoft.com
 ad-stir.com
 ad.1111cpc.com
 ad.12306.cn
+ad.17zhaole.com
 ad.1kxun.com
 ad.1ting.com
 ad.21cn.com
@@ -2197,6 +2198,7 @@ aidaicn.com
 aider-res.meizu.com
 aidigua.com
 aidps.atdmt.com
+aighthatev.club
 aigou023.com
 ailicee.com
 ailpielei.com
@@ -3078,6 +3080,7 @@ assumineuron.site
 assumptivestation.com
 astat.bugly.qq.com
 astat.nikkei.com
+aster18prx.nl
 astg.widerplanet.com
 astrategy.beacon.qq.com
 asumi.shinobi.jp
@@ -3265,6 +3268,7 @@ b17.8794.cn
 b17.lynow.cn
 b17.shangc.net
 b17.wenjutv.com
+b17.xiumu.cn
 b1sync.zemanta.com
 b2.0430.com
 b2.51yangsheng.com
@@ -4457,6 +4461,7 @@ cestyraten.club
 ceyiuy.com
 ceztv.com
 cf.cdn.inmobi.com
+cf.k053f0.cn
 cf.zaiyunli.cn
 cf8d.stat.gw.youmi.net
 cfboo.com
@@ -5060,7 +5065,6 @@ complified.club
 composedwatchman.com
 compteur.developpez.com
 compteur.websiteout.net
-comwww.beeppool.org
 conac.cn
 concentleconse.site
 concentual.club
@@ -5463,6 +5467,7 @@ csqiulong.com
 csr.onet.pl
 css.asitend.com
 css.bloggerads.net
+css.juqingba.cn
 css.suukcn.com
 cssimplicanab.info
 csxsyp.cn
@@ -6436,7 +6441,6 @@ dns.jd.com
 dns.m.sm.cn
 dns.ximalaya.com
 dns1.oadz.com
-dns11.beeppool.org
 dns2.oadz.com
 dns7.beeppool.org
 dnsdelegation.io
@@ -6838,6 +6842,7 @@ e.tf.360.cn
 e.tiojk.com
 e.uissm.com
 e.uxnycjr.cn
+e.v48bna.cn
 e.vaxyz.com
 e.vcaif.com
 e.vchim.com
@@ -8292,6 +8297,7 @@ gm.fengyunzhibo.com
 gm.uc003.com
 gma.alicdn.com
 gma1.com
+gmeng.625323.com
 gmota.g188.net
 gmtdmp.mookie1.com
 gn.lalaqky.cn
@@ -9065,6 +9071,7 @@ i.l.cnn.net
 i.l.inmobicdn.net
 i.liadm.com
 i.luyongkang.top
+i.ma.social-touch.com
 i.mmcdn.cn
 i.pokernews.com
 i.qihaoqu.com
@@ -9705,6 +9712,7 @@ j.zhdap.com
 j1.piaobing.com
 j1503.com
 j17.shangc.net
+j520s.gzcl999.cn
 j6y54.xyz
 j6yh5.xyz
 j7rzxe098g5m.com
@@ -10294,6 +10302,7 @@ kingwam.com
 kinohabr.net
 kinsecutiony.club
 kio.quanliyouxi.cn
+kippbeak.cf
 kissdoujin.com
 kissioncault.club
 kitchen.juicer.cc
@@ -11041,6 +11050,7 @@ m-rtb.com
 m.01w47q.cn
 m.031177.com
 m.0531mnk.net
+m.06v2j.cn
 m.118ex.cn
 m.1314sss.top
 m.168ey.com
@@ -11296,7 +11306,9 @@ m.mcnnic.com
 m.mdous.com
 m.meinianguoji.com
 m.mffcf.cn
+m.mfufanj.cn
 m.mgogo.com
+m.mh89w.cn
 m.micreative-china.cn
 m.mightiger.net
 m.miricommunity.net
@@ -11348,6 +11360,7 @@ m.qj10b.cn
 m.qulishi.com
 m.qxyu.top
 m.qy869.cn
+m.r507p.cn
 m.rcaiu.com
 m.reachmax.cn
 m.rhcapass.com
@@ -16066,7 +16079,6 @@ sonsitself.com
 soodatmish.com
 soofeest.net
 soonbigo.com
-soonyou123.com
 sophomoremostlyplain.com
 sosjyx.com
 soso.mymederback.com
@@ -18587,6 +18599,7 @@ updates-s3.binaryage.com
 upgraderservices.cf
 upgulpinon.com
 upheasted.club
+upheavesy.club
 upload.cc
 upload.crypto-webminer.com
 uploadlog.p2p.qq.com
@@ -18760,6 +18773,7 @@ v1.buf.log.hunantv.com
 v1.cnzz.com
 v1.hd.log.hunantv.com
 v1.hdd.log.hunantv.com
+v1.kwpewga.cn
 v1.log.moji.com
 v1.phb123.com
 v1.play.log.hunantv.com
@@ -18804,6 +18818,7 @@ v7.cnzz.com
 v7.shaoyumuye.com
 v8.cnzz.com
 v9.cnzz.com
+v90327ux.beget.tech
 va.gxpan.cn
 va.videojj.com
 vadioc.cn
@@ -19185,6 +19200,7 @@ wasm.stream
 watakaw133.xyz
 watchingssui.info
 watchsk.com
+waterserver.cn
 watfordobserver-gb.watfordobserver.co.uk
 watson.live.com
 watson.microsoft.com
@@ -21541,7 +21557,6 @@ yuanhangpiju.cn
 yuedu.iqiyi.com
 yueduyy.com
 yueyelive.com
-yujianai520.com
 yujiangchu.com
 yule.fulevmy.com
 yule.sohu.com

@@ -1,11 +1,11 @@
-# Checksum: MTU5Nzg4MjA2NAo=
+# Checksum: MTU5Nzg5MjU5NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200820-0
-# TimeUpdated: 2020-08-20T00:07:44+00:00
+# Version: 1.5.6-20200820-1
+# TimeUpdated: 2020-08-20T03:03:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21870
+# Total: 21885
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -308,6 +308,8 @@ ff02::3 ip6-allhosts
 :: 1.zhuangxiu567.com
 0.0.0.0 1.zuowenjun.com
 :: 1.zuowenjun.com
+0.0.0.0 100.admin5.com
+:: 100.admin5.com
 0.0.0.0 100.pncdn.cn
 :: 100.pncdn.cn
 0.0.0.0 1000su.com
@@ -1290,8 +1292,6 @@ ff02::3 ip6-allhosts
 :: 654mmm.com
 0.0.0.0 6554.net
 :: 6554.net
-0.0.0.0 65h79.cn
-:: 65h79.cn
 0.0.0.0 6604.org
 :: 6604.org
 0.0.0.0 6612151.cn
@@ -2632,6 +2632,8 @@ ff02::3 ip6-allhosts
 :: ad.1111cpc.com
 0.0.0.0 ad.12306.cn
 :: ad.12306.cn
+0.0.0.0 ad.17zhaole.com
+:: ad.17zhaole.com
 0.0.0.0 ad.1kxun.com
 :: ad.1kxun.com
 0.0.0.0 ad.1ting.com
@@ -4398,6 +4400,8 @@ ff02::3 ip6-allhosts
 :: aidigua.com
 0.0.0.0 aidps.atdmt.com
 :: aidps.atdmt.com
+0.0.0.0 aighthatev.club
+:: aighthatev.club
 0.0.0.0 aigou023.com
 :: aigou023.com
 0.0.0.0 ailicee.com
@@ -6160,6 +6164,8 @@ ff02::3 ip6-allhosts
 :: astat.bugly.qq.com
 0.0.0.0 astat.nikkei.com
 :: astat.nikkei.com
+0.0.0.0 aster18prx.nl
+:: aster18prx.nl
 0.0.0.0 astg.widerplanet.com
 :: astg.widerplanet.com
 0.0.0.0 astrategy.beacon.qq.com
@@ -6534,6 +6540,8 @@ ff02::3 ip6-allhosts
 :: b17.shangc.net
 0.0.0.0 b17.wenjutv.com
 :: b17.wenjutv.com
+0.0.0.0 b17.xiumu.cn
+:: b17.xiumu.cn
 0.0.0.0 b1sync.zemanta.com
 :: b1sync.zemanta.com
 0.0.0.0 b2.0430.com
@@ -8918,6 +8926,8 @@ ff02::3 ip6-allhosts
 :: ceztv.com
 0.0.0.0 cf.cdn.inmobi.com
 :: cf.cdn.inmobi.com
+0.0.0.0 cf.k053f0.cn
+:: cf.k053f0.cn
 0.0.0.0 cf.zaiyunli.cn
 :: cf.zaiyunli.cn
 0.0.0.0 cf8d.stat.gw.youmi.net
@@ -10124,8 +10134,6 @@ ff02::3 ip6-allhosts
 :: compteur.developpez.com
 0.0.0.0 compteur.websiteout.net
 :: compteur.websiteout.net
-0.0.0.0 comwww.beeppool.org
-:: comwww.beeppool.org
 0.0.0.0 conac.cn
 :: conac.cn
 0.0.0.0 concentleconse.site
@@ -10930,6 +10938,8 @@ ff02::3 ip6-allhosts
 :: css.asitend.com
 0.0.0.0 css.bloggerads.net
 :: css.bloggerads.net
+0.0.0.0 css.juqingba.cn
+:: css.juqingba.cn
 0.0.0.0 css.suukcn.com
 :: css.suukcn.com
 0.0.0.0 cssimplicanab.info
@@ -12876,8 +12886,6 @@ ff02::3 ip6-allhosts
 :: dns.ximalaya.com
 0.0.0.0 dns1.oadz.com
 :: dns1.oadz.com
-0.0.0.0 dns11.beeppool.org
-:: dns11.beeppool.org
 0.0.0.0 dns2.oadz.com
 :: dns2.oadz.com
 0.0.0.0 dns7.beeppool.org
@@ -13680,6 +13688,8 @@ ff02::3 ip6-allhosts
 :: e.uissm.com
 0.0.0.0 e.uxnycjr.cn
 :: e.uxnycjr.cn
+0.0.0.0 e.v48bna.cn
+:: e.v48bna.cn
 0.0.0.0 e.vaxyz.com
 :: e.vaxyz.com
 0.0.0.0 e.vcaif.com
@@ -16588,6 +16598,8 @@ ff02::3 ip6-allhosts
 :: gma.alicdn.com
 0.0.0.0 gma1.com
 :: gma1.com
+0.0.0.0 gmeng.625323.com
+:: gmeng.625323.com
 0.0.0.0 gmota.g188.net
 :: gmota.g188.net
 0.0.0.0 gmtdmp.mookie1.com
@@ -18134,6 +18146,8 @@ ff02::3 ip6-allhosts
 :: i.liadm.com
 0.0.0.0 i.luyongkang.top
 :: i.luyongkang.top
+0.0.0.0 i.ma.social-touch.com
+:: i.ma.social-touch.com
 0.0.0.0 i.mmcdn.cn
 :: i.mmcdn.cn
 0.0.0.0 i.pokernews.com
@@ -19414,6 +19428,8 @@ ff02::3 ip6-allhosts
 :: j1503.com
 0.0.0.0 j17.shangc.net
 :: j17.shangc.net
+0.0.0.0 j520s.gzcl999.cn
+:: j520s.gzcl999.cn
 0.0.0.0 j6y54.xyz
 :: j6y54.xyz
 0.0.0.0 j6yh5.xyz
@@ -20592,6 +20608,8 @@ ff02::3 ip6-allhosts
 :: kinsecutiony.club
 0.0.0.0 kio.quanliyouxi.cn
 :: kio.quanliyouxi.cn
+0.0.0.0 kippbeak.cf
+:: kippbeak.cf
 0.0.0.0 kissdoujin.com
 :: kissdoujin.com
 0.0.0.0 kissioncault.club
@@ -22086,6 +22104,8 @@ ff02::3 ip6-allhosts
 :: m.031177.com
 0.0.0.0 m.0531mnk.net
 :: m.0531mnk.net
+0.0.0.0 m.06v2j.cn
+:: m.06v2j.cn
 0.0.0.0 m.118ex.cn
 :: m.118ex.cn
 0.0.0.0 m.1314sss.top
@@ -22596,8 +22616,12 @@ ff02::3 ip6-allhosts
 :: m.meinianguoji.com
 0.0.0.0 m.mffcf.cn
 :: m.mffcf.cn
+0.0.0.0 m.mfufanj.cn
+:: m.mfufanj.cn
 0.0.0.0 m.mgogo.com
 :: m.mgogo.com
+0.0.0.0 m.mh89w.cn
+:: m.mh89w.cn
 0.0.0.0 m.micreative-china.cn
 :: m.micreative-china.cn
 0.0.0.0 m.mightiger.net
@@ -22700,6 +22724,8 @@ ff02::3 ip6-allhosts
 :: m.qxyu.top
 0.0.0.0 m.qy869.cn
 :: m.qy869.cn
+0.0.0.0 m.r507p.cn
+:: m.r507p.cn
 0.0.0.0 m.rcaiu.com
 :: m.rcaiu.com
 0.0.0.0 m.reachmax.cn
@@ -32136,8 +32162,6 @@ ff02::3 ip6-allhosts
 :: soofeest.net
 0.0.0.0 soonbigo.com
 :: soonbigo.com
-0.0.0.0 soonyou123.com
-:: soonyou123.com
 0.0.0.0 sophomoremostlyplain.com
 :: sophomoremostlyplain.com
 0.0.0.0 sosjyx.com
@@ -37178,6 +37202,8 @@ ff02::3 ip6-allhosts
 :: upgulpinon.com
 0.0.0.0 upheasted.club
 :: upheasted.club
+0.0.0.0 upheavesy.club
+:: upheavesy.club
 0.0.0.0 upload.cc
 :: upload.cc
 0.0.0.0 upload.crypto-webminer.com
@@ -37524,6 +37550,8 @@ ff02::3 ip6-allhosts
 :: v1.hd.log.hunantv.com
 0.0.0.0 v1.hdd.log.hunantv.com
 :: v1.hdd.log.hunantv.com
+0.0.0.0 v1.kwpewga.cn
+:: v1.kwpewga.cn
 0.0.0.0 v1.log.moji.com
 :: v1.log.moji.com
 0.0.0.0 v1.phb123.com
@@ -37612,6 +37640,8 @@ ff02::3 ip6-allhosts
 :: v8.cnzz.com
 0.0.0.0 v9.cnzz.com
 :: v9.cnzz.com
+0.0.0.0 v90327ux.beget.tech
+:: v90327ux.beget.tech
 0.0.0.0 va.gxpan.cn
 :: va.gxpan.cn
 0.0.0.0 va.videojj.com
@@ -38374,6 +38404,8 @@ ff02::3 ip6-allhosts
 :: watchingssui.info
 0.0.0.0 watchsk.com
 :: watchsk.com
+0.0.0.0 waterserver.cn
+:: waterserver.cn
 0.0.0.0 watfordobserver-gb.watfordobserver.co.uk
 :: watfordobserver-gb.watfordobserver.co.uk
 0.0.0.0 watson.live.com
@@ -43086,8 +43118,6 @@ ff02::3 ip6-allhosts
 :: yueduyy.com
 0.0.0.0 yueyelive.com
 :: yueyelive.com
-0.0.0.0 yujianai520.com
-:: yujianai520.com
 0.0.0.0 yujiangchu.com
 :: yujiangchu.com
 0.0.0.0 yule.fulevmy.com
