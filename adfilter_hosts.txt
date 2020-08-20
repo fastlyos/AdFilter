@@ -1,11 +1,11 @@
-# Checksum: MTU5NzkzNTgwOQo=
+# Checksum: MTU5Nzk0NjYxOAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200820-5
-# TimeUpdated: 2020-08-20T15:03:29+00:00
+# Version: 1.5.6-20200820-6
+# TimeUpdated: 2020-08-20T18:03:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21876
+# Total: 21880
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2260,6 +2260,8 @@ ff02::3 ip6-allhosts
 :: a907907.com
 0.0.0.0 a9377j.com
 :: a9377j.com
+0.0.0.0 a9lm.com
+:: a9lm.com
 0.0.0.0 aa-oo.top06.cn
 :: aa-oo.top06.cn
 0.0.0.0 aa.0755rc.com
@@ -7496,6 +7498,8 @@ ff02::3 ip6-allhosts
 :: bjeai.com
 0.0.0.0 bjedpt.com
 :: bjedpt.com
+0.0.0.0 bjename.cn
+:: bjename.cn
 0.0.0.0 bjgtsh.com
 :: bjgtsh.com
 0.0.0.0 bjhuhangjy.com
@@ -14004,6 +14008,8 @@ ff02::3 ip6-allhosts
 :: edysn.cn
 0.0.0.0 ee.2l7ha.cn
 :: ee.2l7ha.cn
+0.0.0.0 ee.b2fwnu.cn
+:: ee.b2fwnu.cn
 0.0.0.0 ee.gd881.cn
 :: ee.gd881.cn
 0.0.0.0 ee.h2tywo.cn
@@ -18712,6 +18718,8 @@ ff02::3 ip6-allhosts
 :: img2.578965.com
 0.0.0.0 img2.g.pptv.com
 :: img2.g.pptv.com
+0.0.0.0 img2.hrccb.com
+:: img2.hrccb.com
 0.0.0.0 img2.km.com
 :: img2.km.com
 0.0.0.0 img2.qekun.com
@@ -19678,6 +19686,8 @@ ff02::3 ip6-allhosts
 :: jingxiangyalvji.cn
 0.0.0.0 jinnf.cn
 :: jinnf.cn
+0.0.0.0 jinrichaoyang.com
+:: jinrichaoyang.com
 0.0.0.0 jins365.com
 :: jins365.com
 0.0.0.0 jinsha11833.com
@@ -25536,8 +25546,6 @@ ff02::3 ip6-allhosts
 :: npttech.com
 0.0.0.0 nq93jx1vpq9r.com
 :: nq93jx1vpq9r.com
-0.0.0.0 nqbcf.cn
-:: nqbcf.cn
 0.0.0.0 nqfwx.cn
 :: nqfwx.cn
 0.0.0.0 nqrkzcd7ixwr.com
