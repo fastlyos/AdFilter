@@ -1,11 +1,11 @@
-# Checksum: MTU5ODAyMjIwNQo=
+# Checksum: MTU5ODAzMzAwNgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200821-5
-# TimeUpdated: 2020-08-21T15:03:25+00:00
+# Version: 1.5.6-20200821-6
+# TimeUpdated: 2020-08-21T18:03:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21893
+# Total: 21892
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -8784,6 +8784,8 @@ ff02::3 ip6-allhosts
 :: cdn.wuyou.ca
 0.0.0.0 cdn.xianliao.me
 :: cdn.xianliao.me
+0.0.0.0 cdn.zampda.net
+:: cdn.zampda.net
 0.0.0.0 cdn.zampdsp.com
 :: cdn.zampdsp.com
 0.0.0.0 cdn.zyc888.top
@@ -12440,8 +12442,6 @@ ff02::3 ip6-allhosts
 :: di5c.com
 0.0.0.0 di8n.bfmtv.com
 :: di8n.bfmtv.com
-0.0.0.0 di9qu.com.cn
-:: di9qu.com.cn
 0.0.0.0 diag-vd.gridsumdissector.com
 :: diag-vd.gridsumdissector.com
 0.0.0.0 diag-wd.gridsumdissector.com
@@ -12474,8 +12474,6 @@ ff02::3 ip6-allhosts
 :: diaopic.14bobo.com
 0.0.0.0 dieka888.com
 :: dieka888.com
-0.0.0.0 dierqingchun.com
-:: dierqingchun.com
 0.0.0.0 diff.smartadserver.com
 :: diff.smartadserver.com
 0.0.0.0 diff2.smartadserver.com
@@ -12864,8 +12862,6 @@ ff02::3 ip6-allhosts
 :: dns1.oadz.com
 0.0.0.0 dns2.oadz.com
 :: dns2.oadz.com
-0.0.0.0 dns7.beeppool.org
-:: dns7.beeppool.org
 0.0.0.0 dnsdelegation.io
 :: dnsdelegation.io
 0.0.0.0 do-not-tracker.org
@@ -19684,6 +19680,8 @@ ff02::3 ip6-allhosts
 :: jingxiangyalvji.cn
 0.0.0.0 jinnf.cn
 :: jinnf.cn
+0.0.0.0 jinrianshan.com
+:: jinrianshan.com
 0.0.0.0 jins365.com
 :: jins365.com
 0.0.0.0 jinsha11833.com
