@@ -1,11 +1,11 @@
-# Checksum: MTU5ODEzMDIxMAo=
+# Checksum: MTU5ODE0MTQwMgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200822-7
-# TimeUpdated: 2020-08-22T21:03:30+00:00
+# Version: 1.5.6-20200823-0
+# TimeUpdated: 2020-08-23T00:10:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21932
+# Total: 21938
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2258,6 +2258,8 @@ ff02::3 ip6-allhosts
 :: a9377j.com
 0.0.0.0 a9lm.com
 :: a9lm.com
+0.0.0.0 a9v8.cn
+:: a9v8.cn
 0.0.0.0 aa-oo.top06.cn
 :: aa-oo.top06.cn
 0.0.0.0 aa.0755rc.com
@@ -7556,8 +7558,6 @@ ff02::3 ip6-allhosts
 :: blockadsnot.com
 0.0.0.0 blockchaintop.nl
 :: blockchaintop.nl
-0.0.0.0 blog.beeppool.org
-:: blog.beeppool.org
 0.0.0.0 blogad01.myweb.hinet.net
 :: blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
@@ -17486,6 +17486,8 @@ ff02::3 ip6-allhosts
 :: hide.ovh
 0.0.0.0 higame123.com
 :: higame123.com
+0.0.0.0 highlianimo.club
+:: highlianimo.club
 0.0.0.0 highnessbackwardsyuri.com
 :: highnessbackwardsyuri.com
 0.0.0.0 highprofitnetwork.com
@@ -20566,6 +20568,8 @@ ff02::3 ip6-allhosts
 :: keyword.daumdn.com
 0.0.0.0 kf.yeyou.com
 :: kf.yeyou.com
+0.0.0.0 kfewaz.zh1155.com
+:: kfewaz.zh1155.com
 0.0.0.0 kfi8.com
 :: kfi8.com
 0.0.0.0 kfluoa.com
@@ -25038,6 +25042,8 @@ ff02::3 ip6-allhosts
 :: nclog.pad.baofeng.net
 0.0.0.0 ncmo.v44i.cn
 :: ncmo.v44i.cn
+0.0.0.0 ncnmi.cn
+:: ncnmi.cn
 0.0.0.0 ncountsnash.info
 :: ncountsnash.info
 0.0.0.0 ncourtainco.club
@@ -26276,6 +26282,8 @@ ff02::3 ip6-allhosts
 :: ounion.openadx.com
 0.0.0.0 ountapaveralle.info
 :: ountapaveralle.info
+0.0.0.0 ountringch.club
+:: ountringch.club
 0.0.0.0 ountryvener.club
 :: ountryvener.club
 0.0.0.0 oupai.cc
@@ -37586,6 +37594,8 @@ ff02::3 ip6-allhosts
 :: v.domob.cn
 0.0.0.0 v.e7002.com
 :: v.e7002.com
+0.0.0.0 v.emedia.cn
+:: v.emedia.cn
 0.0.0.0 v.esvlqmd.cn
 :: v.esvlqmd.cn
 0.0.0.0 v.fedsdq.com
@@ -38040,6 +38050,8 @@ ff02::3 ip6-allhosts
 :: vip.syda2015.com
 0.0.0.0 vip.zhuba8.com
 :: vip.zhuba8.com
+0.0.0.0 vip2.7huoguo.com
+:: vip2.7huoguo.com
 0.0.0.0 vip2.rwjfs.com
 :: vip2.rwjfs.com
 0.0.0.0 vip5.rwjfs.com
