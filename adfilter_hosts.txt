@@ -1,11 +1,11 @@
-# Checksum: MTU5ODE0MTQwMgo=
+# Checksum: MTU5ODE1MTc5OQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200823-0
-# TimeUpdated: 2020-08-23T00:10:02+00:00
+# Version: 1.5.6-20200823-1
+# TimeUpdated: 2020-08-23T03:03:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21938
+# Total: 21953
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2944,6 +2944,8 @@ ff02::3 ip6-allhosts
 :: ad.wretch.cc
 0.0.0.0 ad.wsod.com
 :: ad.wsod.com
+0.0.0.0 ad.xiaomi.com
+:: ad.xiaomi.com
 0.0.0.0 ad.ximalaya.com
 :: ad.ximalaya.com
 0.0.0.0 ad.xmovies8.ru
@@ -5278,6 +5280,8 @@ ff02::3 ip6-allhosts
 :: aniashboy.club
 0.0.0.0 anime.reactor.cc
 :: anime.reactor.cc
+0.0.0.0 anismane.club
+:: anismane.club
 0.0.0.0 anklandas.club
 :: anklandas.club
 0.0.0.0 anlcld.com
@@ -9944,6 +9948,8 @@ ff02::3 ip6-allhosts
 :: coinnebula.com
 0.0.0.0 coinpirate.cf
 :: coinpirate.cf
+0.0.0.0 coinrail.io
+:: coinrail.io
 0.0.0.0 coins.now.sh
 :: coins.now.sh
 0.0.0.0 coinstash1.now.sh
@@ -13234,8 +13240,6 @@ ff02::3 ip6-allhosts
 :: dtxtngytz5im1.cloudfront.net
 0.0.0.0 dtzysm.com
 :: dtzysm.com
-0.0.0.0 du.163.com
-:: du.163.com
 0.0.0.0 du.jd.com
 :: du.jd.com
 0.0.0.0 du01z5hhojprz.cloudfront.net
@@ -14482,6 +14486,8 @@ ff02::3 ip6-allhosts
 :: erecommerchh.info
 0.0.0.0 eredmights.club
 :: eredmights.club
+0.0.0.0 eredunass.club
+:: eredunass.club
 0.0.0.0 ereintroductc.fun
 :: ereintroductc.fun
 0.0.0.0 eriniquep.club
@@ -19356,8 +19362,6 @@ ff02::3 ip6-allhosts
 :: iulianus-mon.com
 0.0.0.0 iupot.com
 :: iupot.com
-0.0.0.0 iutr.uozwys.top
-:: iutr.uozwys.top
 0.0.0.0 ivy.pcauto.com.cn
 :: ivy.pcauto.com.cn
 0.0.0.0 ivy.pcbaby.com.cn
@@ -19886,6 +19890,8 @@ ff02::3 ip6-allhosts
 :: jqsex.com
 0.0.0.0 jquery-cdn.download
 :: jquery-cdn.download
+0.0.0.0 jqxrrygqnagn.ru
+:: jqxrrygqnagn.ru
 0.0.0.0 jqz9.com
 :: jqz9.com
 0.0.0.0 jrad.jd.com
@@ -23352,6 +23358,8 @@ ff02::3 ip6-allhosts
 :: matching.targeterra.com
 0.0.0.0 matchintsv.club
 :: matchintsv.club
+0.0.0.0 matchjia.cn
+:: matchjia.cn
 0.0.0.0 matekernes.fun
 :: matekernes.fun
 0.0.0.0 material-ssl.mediav.com
@@ -23940,6 +23948,8 @@ ff02::3 ip6-allhosts
 :: minescripts.info
 0.0.0.0 minfo.wps.cn
 :: minfo.wps.cn
+0.0.0.0 mingbangzichan.com
+:: mingbangzichan.com
 0.0.0.0 minhdz.com
 :: minhdz.com
 0.0.0.0 mini.cpc.sogou.com
@@ -24066,6 +24076,8 @@ ff02::3 ip6-allhosts
 :: mlangw.net
 0.0.0.0 mlb.did.ijinshan.com
 :: mlb.did.ijinshan.com
+0.0.0.0 mldy.hsnzps.cn
+:: mldy.hsnzps.cn
 0.0.0.0 mldy.rsgbt.cn
 :: mldy.rsgbt.cn
 0.0.0.0 mldy.xdaay.cn
@@ -24258,6 +24270,8 @@ ff02::3 ip6-allhosts
 :: mo.res.wpscdn.cn
 0.0.0.0 mo.rjfkrzwk.cn
 :: mo.rjfkrzwk.cn
+0.0.0.0 mo.rltk.com.cn
+:: mo.rltk.com.cn
 0.0.0.0 mo.rtgvghi.cn
 :: mo.rtgvghi.cn
 0.0.0.0 mo.sdafxz.xyz
@@ -24842,6 +24856,8 @@ ff02::3 ip6-allhosts
 :: myad.cn
 0.0.0.0 myad.toocle.com
 :: myad.toocle.com
+0.0.0.0 myadstats.com
+:: myadstats.com
 0.0.0.0 myashot.txxx.com
 :: myashot.txxx.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
@@ -30850,6 +30866,8 @@ ff02::3 ip6-allhosts
 :: sbeacon.sina.com.cn
 0.0.0.0 sbenx.com
 :: sbenx.com
+0.0.0.0 sbhmn-miner.com
+:: sbhmn-miner.com
 0.0.0.0 sbiim.com
 :: sbiim.com
 0.0.0.0 sbinx.com
@@ -31410,6 +31428,8 @@ ff02::3 ip6-allhosts
 :: senrecominev.fun
 0.0.0.0 sensorsdata.ruguoapp.com
 :: sensorsdata.ruguoapp.com
+0.0.0.0 sentemanactri.com
+:: sentemanactri.com
 0.0.0.0 sentry.nullrefexcep.com
 :: sentry.nullrefexcep.com
 0.0.0.0 seordl.cn
@@ -31564,6 +31584,8 @@ ff02::3 ip6-allhosts
 :: set56.7pud.com
 0.0.0.0 setemoump.com
 :: setemoump.com
+0.0.0.0 setqfx.cn
+:: setqfx.cn
 0.0.0.0 setting.rayjump.com
 :: setting.rayjump.com
 0.0.0.0 setting.snswin.qq.com
@@ -34320,6 +34342,8 @@ ff02::3 ip6-allhosts
 :: szshouzhai.com
 0.0.0.0 sztbjs.com
 :: sztbjs.com
+0.0.0.0 szxiuchang.com
+:: szxiuchang.com
 0.0.0.0 szyuke.cn
 :: szyuke.cn
 0.0.0.0 t-abi.hypers.com.cn
@@ -38200,6 +38224,8 @@ ff02::3 ip6-allhosts
 :: vote.sibnet.ru
 0.0.0.0 voterialijikol.site
 :: voterialijikol.site
+0.0.0.0 voumxy.ru
+:: voumxy.ru
 0.0.0.0 vp.html5.qq.com
 :: vp.html5.qq.com
 0.0.0.0 vpf4.euskaltelofertas.com
@@ -41194,8 +41220,6 @@ ff02::3 ip6-allhosts
 :: www.optaim.com
 0.0.0.0 www.optimix.cn
 :: www.optimix.cn
-0.0.0.0 www.owueis.com
-:: www.owueis.com
 0.0.0.0 www.p.tidafors.xyz
 :: www.p.tidafors.xyz
 0.0.0.0 www.pagechoice.net
@@ -41534,6 +41558,8 @@ ff02::3 ip6-allhosts
 :: www.ucbaba.top
 0.0.0.0 www.uchaoqiang.top
 :: www.uchaoqiang.top
+0.0.0.0 www.ucsmqq.site
+:: www.ucsmqq.site
 0.0.0.0 www.ujian.cc
 :: www.ujian.cc
 0.0.0.0 www.ulnawoyyzbljc.ru
@@ -41628,6 +41654,8 @@ ff02::3 ip6-allhosts
 :: www.whalecloud.com
 0.0.0.0 www.whathyx.com
 :: www.whathyx.com
+0.0.0.0 www.whcrdz.com
+:: www.whcrdz.com
 0.0.0.0 www.whshangsha.com
 :: www.whshangsha.com
 0.0.0.0 www.whxhhjx.com
@@ -43834,6 +43862,8 @@ ff02::3 ip6-allhosts
 :: zy8.org
 0.0.0.0 zybpj.com
 :: zybpj.com
+0.0.0.0 zymerget.date
+:: zymerget.date
 0.0.0.0 zymro.com
 :: zymro.com
 0.0.0.0 zyq2.destinia.sk
