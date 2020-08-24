@@ -1,11 +1,11 @@
-# Checksum: MTU5ODI1OTk4MAo=
+# Checksum: MTU5ODI3MDY1OAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200824-3
-# TimeUpdated: 2020-08-24T09:06:20+00:00
+# Version: 1.5.6-20200824-4
+# TimeUpdated: 2020-08-24T12:04:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21986
+# Total: 21989
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -430,8 +430,6 @@ ff02::3 ip6-allhosts
 :: 12rge.xyz
 0.0.0.0 13023.url.7wkw.com
 :: 13023.url.7wkw.com
-0.0.0.0 1314sss.top
-:: 1314sss.top
 0.0.0.0 133uu.com
 :: 133uu.com
 0.0.0.0 138lm.com
@@ -6892,8 +6890,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -12104,8 +12100,6 @@ ff02::3 ip6-allhosts
 :: dblmove.com
 0.0.0.0 dbojetp.cn
 :: dbojetp.cn
-0.0.0.0 dbs.autolatest.ro
-:: dbs.autolatest.ro
 0.0.0.0 dbs.dxtech.app
 :: dbs.dxtech.app
 0.0.0.0 dbvault.net
@@ -15950,8 +15944,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g1.08160.cn
@@ -16584,6 +16576,8 @@ ff02::3 ip6-allhosts
 :: gk277.cn
 0.0.0.0 gk8j5woqk26f.com
 :: gk8j5woqk26f.com
+0.0.0.0 gktwhpd.cn
+:: gktwhpd.cn
 0.0.0.0 gky73.cn
 :: gky73.cn
 0.0.0.0 gl1117wh13.com
@@ -18328,6 +18322,8 @@ ff02::3 ip6-allhosts
 :: iclick.cm.admaster.com.cn
 0.0.0.0 iclickcdn.com
 :: iclickcdn.com
+0.0.0.0 icn.brandnewapp.pro
+:: icn.brandnewapp.pro
 0.0.0.0 icn.southmoney.com
 :: icn.southmoney.com
 0.0.0.0 icon.51.la
@@ -19352,6 +19348,8 @@ ff02::3 ip6-allhosts
 :: isupopc.com
 0.0.0.0 it.cookiescript.info
 :: it.cookiescript.info
+0.0.0.0 it028.net.cn
+:: it028.net.cn
 0.0.0.0 it5.cc
 :: it5.cc
 0.0.0.0 it760.com
@@ -21492,8 +21490,6 @@ ff02::3 ip6-allhosts
 :: liyueao.top
 0.0.0.0 ljamingrepre.site
 :: ljamingrepre.site
-0.0.0.0 ljggc.com
-:: ljggc.com
 0.0.0.0 ljuer.com
 :: ljuer.com
 0.0.0.0 lk.brand.sogou.com
@@ -22498,6 +22494,8 @@ ff02::3 ip6-allhosts
 :: m.globbiz.cn
 0.0.0.0 m.gtnde.com
 :: m.gtnde.com
+0.0.0.0 m.guangshiji.cn
+:: m.guangshiji.cn
 0.0.0.0 m.guanren11.com
 :: m.guanren11.com
 0.0.0.0 m.guanren5.com
@@ -29078,6 +29076,8 @@ ff02::3 ip6-allhosts
 :: rc.cdnny.com
 0.0.0.0 rc.dxsvr.com
 :: rc.dxsvr.com
+0.0.0.0 rc.haodongkeji.cn
+:: rc.haodongkeji.cn
 0.0.0.0 rc.jhakie.com
 :: rc.jhakie.com
 0.0.0.0 rc.polkoa.com
@@ -33708,6 +33708,8 @@ ff02::3 ip6-allhosts
 :: stats.splinder.com
 0.0.0.0 stats.stats.fr
 :: stats.stats.fr
+0.0.0.0 stats.stylight.it
+:: stats.stylight.it
 0.0.0.0 stats.suite101.com
 :: stats.suite101.com
 0.0.0.0 stats.tazeros.com
@@ -35316,12 +35318,16 @@ ff02::3 ip6-allhosts
 :: thomagejut.site
 0.0.0.0 thomageothe.club
 :: thomageothe.club
+0.0.0.0 thorizinge.club
+:: thorizinge.club
 0.0.0.0 thoutiquede.club
 :: thoutiquede.club
 0.0.0.0 thterras.com
 :: thterras.com
 0.0.0.0 thumbnail.dataoke.com
 :: thumbnail.dataoke.com
+0.0.0.0 thuniveryra.club
+:: thuniveryra.club
 0.0.0.0 thurrockgazette-gb.thurrockgazette.co.uk
 :: thurrockgazette-gb.thurrockgazette.co.uk
 0.0.0.0 thywhapupi.pro
