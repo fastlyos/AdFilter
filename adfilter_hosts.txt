@@ -1,11 +1,11 @@
-# Checksum: MTU5ODI4MTQyMwo=
+# Checksum: MTU5ODI5MjIwNQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200824-5
-# TimeUpdated: 2020-08-24T15:03:43+00:00
+# Version: 1.5.6-20200824-6
+# TimeUpdated: 2020-08-24T18:03:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21991
+# Total: 21999
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -56,8 +56,6 @@ ff02::3 ip6-allhosts
 :: 009.0x1f4b0.com
 0.0.0.0 00oo00.com
 :: 00oo00.com
-0.0.0.0 01.beeppool.org
-:: 01.beeppool.org
 0.0.0.0 01.gxso.net
 :: 01.gxso.net
 0.0.0.0 010teacher.com
@@ -1154,8 +1152,6 @@ ff02::3 ip6-allhosts
 :: 5634.com
 0.0.0.0 5675146.com
 :: 5675146.com
-0.0.0.0 56fba.cn
-:: 56fba.cn
 0.0.0.0 56space.com
 :: 56space.com
 0.0.0.0 56yk.com
@@ -6430,6 +6426,8 @@ ff02::3 ip6-allhosts
 :: axhxa.com
 0.0.0.0 axislogger.appspot.com
 :: axislogger.appspot.com
+0.0.0.0 axizb.cn
+:: axizb.cn
 0.0.0.0 axoncoho.tk
 :: axoncoho.tk
 0.0.0.0 axonix.com
@@ -7522,6 +7520,8 @@ ff02::3 ip6-allhosts
 :: bjs.faxingzhan.com
 0.0.0.0 bjs.mscto.com
 :: bjs.mscto.com
+0.0.0.0 bjtopchance.com
+:: bjtopchance.com
 0.0.0.0 bjtrld.com
 :: bjtrld.com
 0.0.0.0 bjuser.jpush.cn
@@ -7924,8 +7924,6 @@ ff02::3 ip6-allhosts
 :: burytimes-gb.burytimes.co.uk
 0.0.0.0 busfarmum.com
 :: busfarmum.com
-0.0.0.0 business.92wy.com
-:: business.92wy.com
 0.0.0.0 business.inveno.com
 :: business.inveno.com
 0.0.0.0 busingleni.club
@@ -8188,6 +8186,8 @@ ff02::3 ip6-allhosts
 :: c.xhsxgmt.cn
 0.0.0.0 c.xiaobaipan.com
 :: c.xiaobaipan.com
+0.0.0.0 c.xsbnxxzw.cn
+:: c.xsbnxxzw.cn
 0.0.0.0 c.xznykf.org
 :: c.xznykf.org
 0.0.0.0 c.yes.youku.com
@@ -8264,8 +8264,6 @@ ff02::3 ip6-allhosts
 :: c6.friok.com
 0.0.0.0 c6.lnymd.com
 :: c6.lnymd.com
-0.0.0.0 c72.microfog.me
-:: c72.microfog.me
 0.0.0.0 c73.microfog.me
 :: c73.microfog.me
 0.0.0.0 c753738.r38.cf2.rackcdn.com
@@ -8976,6 +8974,8 @@ ff02::3 ip6-allhosts
 :: cgicounter.onlinehome.de
 0.0.0.0 cgicounter.puretec.de
 :: cgicounter.puretec.de
+0.0.0.0 cginght.com.cn
+:: cginght.com.cn
 0.0.0.0 cgjfanun12on.com
 :: cgjfanun12on.com
 0.0.0.0 cgskqg.com
@@ -14380,6 +14380,8 @@ ff02::3 ip6-allhosts
 :: eo.aaaw.xyz
 0.0.0.0 eo.byjr899.top
 :: eo.byjr899.top
+0.0.0.0 eo.c7b06j.cn
+:: eo.c7b06j.cn
 0.0.0.0 eo.ccch.xyz
 :: eo.ccch.xyz
 0.0.0.0 eo.cyfk896.top
@@ -19858,6 +19860,8 @@ ff02::3 ip6-allhosts
 :: jodellbrought.pro
 0.0.0.0 johtzj.com
 :: johtzj.com
+0.0.0.0 jomys.xyz
+:: jomys.xyz
 0.0.0.0 joobuste.com
 :: joobuste.com
 0.0.0.0 joredi.com
@@ -24250,6 +24254,8 @@ ff02::3 ip6-allhosts
 :: mo.3uj0a.xyz
 0.0.0.0 mo.5lu8a.xyz
 :: mo.5lu8a.xyz
+0.0.0.0 mo.6umjbj.cn
+:: mo.6umjbj.cn
 0.0.0.0 mo.aaaw.xyz
 :: mo.aaaw.xyz
 0.0.0.0 mo.alibdm.xyz
@@ -24258,6 +24264,8 @@ ff02::3 ip6-allhosts
 :: mo.baidu.com
 0.0.0.0 mo.byjr899.top
 :: mo.byjr899.top
+0.0.0.0 mo.c7b06j.cn
+:: mo.c7b06j.cn
 0.0.0.0 mo.ccch.xyz
 :: mo.ccch.xyz
 0.0.0.0 mo.cifree.xyz
@@ -24292,6 +24300,8 @@ ff02::3 ip6-allhosts
 :: mo.hdschw.cn
 0.0.0.0 mo.jy73d.xyz
 :: mo.jy73d.xyz
+0.0.0.0 mo.khbua.xyz
+:: mo.khbua.xyz
 0.0.0.0 mo.kugou.com
 :: mo.kugou.com
 0.0.0.0 mo.mktrkn.cn
@@ -37728,6 +37738,8 @@ ff02::3 ip6-allhosts
 :: v.xinshide.cn
 0.0.0.0 v.xrooxeo.cn
 :: v.xrooxeo.cn
+0.0.0.0 v.xsbnxxzw.cn
+:: v.xsbnxxzw.cn
 0.0.0.0 v.yahgxog.cn
 :: v.yahgxog.cn
 0.0.0.0 v1-feed.idreamsky.com
@@ -40930,6 +40942,8 @@ ff02::3 ip6-allhosts
 :: www.jfsdiwmnbsk006.top
 0.0.0.0 www.jfsdiwmnbsk007.top
 :: www.jfsdiwmnbsk007.top
+0.0.0.0 www.jfsdiwmnbsk008.top
+:: www.jfsdiwmnbsk008.top
 0.0.0.0 www.jhondi33.duckdns.org
 :: www.jhondi33.duckdns.org
 0.0.0.0 www.jiedaibao.com
@@ -43788,6 +43802,8 @@ ff02::3 ip6-allhosts
 :: zoaheeth.com
 0.0.0.0 zona.pl
 :: zona.pl
+0.0.0.0 zone.23uuw3.com
+:: zone.23uuw3.com
 0.0.0.0 zonieviejos.pro
 :: zonieviejos.pro
 0.0.0.0 zonst.com
