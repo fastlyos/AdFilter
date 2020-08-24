@@ -1,11 +1,11 @@
-# Checksum: MTU5ODI0OTEwNQo=
+# Checksum: MTU5ODI1OTk4MAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200824-2
-# TimeUpdated: 2020-08-24T06:05:05+00:00
+# Version: 1.5.6-20200824-3
+# TimeUpdated: 2020-08-24T09:06:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21980
+# Total: 21986
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -784,8 +784,6 @@ ff02::3 ip6-allhosts
 :: 302br.net
 0.0.0.0 30350f.com
 :: 30350f.com
-0.0.0.0 303ed23487.com
-:: 303ed23487.com
 0.0.0.0 307.cc
 :: 307.cc
 0.0.0.0 30ampj.com
@@ -1082,8 +1080,6 @@ ff02::3 ip6-allhosts
 :: 51taifu.com
 0.0.0.0 51vipedu.com
 :: 51vipedu.com
-0.0.0.0 51wxyx.cn
-:: 51wxyx.cn
 0.0.0.0 51xumei.com
 :: 51xumei.com
 0.0.0.0 51yes.com
@@ -6090,6 +6086,8 @@ ff02::3 ip6-allhosts
 :: as1.m.hao123.com
 0.0.0.0 as1.wenku.baidu.com
 :: as1.wenku.baidu.com
+0.0.0.0 asacdn.com
+:: asacdn.com
 0.0.0.0 asap.ad7.com
 :: asap.ad7.com
 0.0.0.0 asccdn.com
@@ -13448,6 +13446,8 @@ ff02::3 ip6-allhosts
 :: dzizsih.ru
 0.0.0.0 dzl.baidu.com
 :: dzl.baidu.com
+0.0.0.0 dzletao.com
+:: dzletao.com
 0.0.0.0 dzooo.cn
 :: dzooo.cn
 0.0.0.0 dzxwnews.com
@@ -19106,6 +19106,8 @@ ff02::3 ip6-allhosts
 :: insitez.blob.core.windows.net
 0.0.0.0 insnative.com
 :: insnative.com
+0.0.0.0 insolencewalter.com
+:: insolencewalter.com
 0.0.0.0 instabug.com
 :: instabug.com
 0.0.0.0 install.kugou.com
@@ -21490,6 +21492,8 @@ ff02::3 ip6-allhosts
 :: liyueao.top
 0.0.0.0 ljamingrepre.site
 :: ljamingrepre.site
+0.0.0.0 ljggc.com
+:: ljggc.com
 0.0.0.0 ljuer.com
 :: ljuer.com
 0.0.0.0 lk.brand.sogou.com
@@ -26352,6 +26356,8 @@ ff02::3 ip6-allhosts
 :: outwarent.club
 0.0.0.0 ouzoadru.net
 :: ouzoadru.net
+0.0.0.0 ovcxvpvdk.com
+:: ovcxvpvdk.com
 0.0.0.0 ovementerter.site
 :: ovementerter.site
 0.0.0.0 overlordtea.cn
@@ -35164,6 +35170,8 @@ ff02::3 ip6-allhosts
 :: tf58.com
 0.0.0.0 tfncnhd8p95c.com
 :: tfncnhd8p95c.com
+0.0.0.0 tfs.zhamm.cn
+:: tfs.zhamm.cn
 0.0.0.0 tfssl.caohua.com
 :: tfssl.caohua.com
 0.0.0.0 tfy.sswip.cn
@@ -37504,6 +37512,8 @@ ff02::3 ip6-allhosts
 :: uscpn0c485wn.com
 0.0.0.0 usdtop.58.com
 :: usdtop.58.com
+0.0.0.0 usedbreat.club
+:: usedbreat.club
 0.0.0.0 useg.nextdigital.com.hk
 :: useg.nextdigital.com.hk
 0.0.0.0 usejj.wangkl.com
@@ -38458,6 +38468,8 @@ ff02::3 ip6-allhosts
 :: wa.metro.co.uk
 0.0.0.0 wa.ui-portal.de
 :: wa.ui-portal.de
+0.0.0.0 wabizc.cn
+:: wabizc.cn
 0.0.0.0 wacc888.com
 :: wacc888.com
 0.0.0.0 wacucmiy.net
