@@ -1,11 +1,11 @@
-# Checksum: MTU5ODIxNjU4Mwo=
+# Checksum: MTU5ODIyNzcwMgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200823-7
-# TimeUpdated: 2020-08-23T21:03:03+00:00
+# Version: 1.5.6-20200824-0
+# TimeUpdated: 2020-08-24T00:08:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 21964
+# Total: 21968
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -126,6 +126,8 @@ ff02::3 ip6-allhosts
 :: 0798ls.com
 0.0.0.0 0851ok.com
 :: 0851ok.com
+0.0.0.0 086186.com
+:: 086186.com
 0.0.0.0 09_19.supfree.net
 :: 09_19.supfree.net
 0.0.0.0 0aa89ur58y.top
@@ -4328,8 +4330,6 @@ ff02::3 ip6-allhosts
 :: aggravedgaree.info
 0.0.0.0 aggregator.inquisitr.com
 :: aggregator.inquisitr.com
-0.0.0.0 agkn.com
-:: agkn.com
 0.0.0.0 agmx1h9wswdb.com
 :: agmx1h9wswdb.com
 0.0.0.0 agn.aty.cp45.ott.cibntv.net
@@ -4510,8 +4510,6 @@ ff02::3 ip6-allhosts
 :: akrwi.cn
 0.0.0.0 aksb-a.akamaihd.net
 :: aksb-a.akamaihd.net
-0.0.0.0 akstat.io
-:: akstat.io
 0.0.0.0 aktgw4u9z27l.com
 :: aktgw4u9z27l.com
 0.0.0.0 al.autohome.com.cn
@@ -9524,6 +9522,8 @@ ff02::3 ip6-allhosts
 :: cloud-miner.eu
 0.0.0.0 cloud.codenow.cn
 :: cloud.codenow.cn
+0.0.0.0 cloud.xdrig.com
+:: cloud.xdrig.com
 0.0.0.0 cloud.zyiis.net
 :: cloud.zyiis.net
 0.0.0.0 cloudad.asia
@@ -12498,6 +12498,8 @@ ff02::3 ip6-allhosts
 :: dianyilm.com
 0.0.0.0 diaopic.14bobo.com
 :: diaopic.14bobo.com
+0.0.0.0 dicalnatur.club
+:: dicalnatur.club
 0.0.0.0 dieka888.com
 :: dieka888.com
 0.0.0.0 diff.smartadserver.com
@@ -17744,6 +17746,8 @@ ff02::3 ip6-allhosts
 :: hogyp.com
 0.0.0.0 hoisin.coocaatv.com
 :: hoisin.coocaatv.com
+0.0.0.0 holdierpriv.club
+:: holdierpriv.club
 0.0.0.0 holidates.club
 :: holidates.club
 0.0.0.0 homad-global-configs.schneevonmorgen.com
@@ -20290,6 +20294,8 @@ ff02::3 ip6-allhosts
 :: jssumei.cn
 0.0.0.0 jstdjq.com
 :: jstdjq.com
+0.0.0.0 jsvv587.com
+:: jsvv587.com
 0.0.0.0 jsw.xz6d.com
 :: jsw.xz6d.com
 0.0.0.0 jsyjwj.com
@@ -31918,8 +31924,6 @@ ff02::3 ip6-allhosts
 :: sig.atdmt.com
 0.0.0.0 sightcoloniansy.site
 :: sightcoloniansy.site
-0.0.0.0 sigmacdn.net
-:: sigmacdn.net
 0.0.0.0 signershipreg.club
 :: signershipreg.club
 0.0.0.0 significbystal.club
@@ -33882,6 +33886,8 @@ ff02::3 ip6-allhosts
 :: str1kee.com
 0.0.0.0 strategy.beacon.qq.com
 :: strategy.beacon.qq.com
+0.0.0.0 stratingtrea.club
+:: stratingtrea.club
 0.0.0.0 stratum-uk.beeppool.org
 :: stratum-uk.beeppool.org
 0.0.0.0 stratum8.beeppool.org
@@ -42826,6 +42832,8 @@ ff02::3 ip6-allhosts
 :: ybanj.com
 0.0.0.0 ybhypt.com
 :: ybhypt.com
+0.0.0.0 ybrex.cn
+:: ybrex.cn
 0.0.0.0 ybtianxi.com
 :: ybtianxi.com
 0.0.0.0 ybvip1879.vip
