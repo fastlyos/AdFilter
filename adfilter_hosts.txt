@@ -1,11 +1,11 @@
-# Checksum: MTU5ODM2Nzg1MAo=
+# Checksum: MTU5ODM3ODYzMwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200825-5
-# TimeUpdated: 2020-08-25T15:04:10+00:00
+# Version: 1.5.6-20200825-6
+# TimeUpdated: 2020-08-25T18:03:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22016
+# Total: 22017
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -918,8 +918,6 @@ ff02::3 ip6-allhosts
 :: 3p-link.com
 0.0.0.0 3p42lylmo2.monster
 :: 3p42lylmo2.monster
-0.0.0.0 3qmh.com
-:: 3qmh.com
 0.0.0.0 3qsys.com
 :: 3qsys.com
 0.0.0.0 3rd.t.sohu.com
@@ -1220,8 +1218,6 @@ ff02::3 ip6-allhosts
 :: 5imoney.com
 0.0.0.0 5ip9.com
 :: 5ip9.com
-0.0.0.0 5j.com
-:: 5j.com
 0.0.0.0 5j5k.com
 :: 5j5k.com
 0.0.0.0 5jcom.com.cn
@@ -7388,8 +7384,6 @@ ff02::3 ip6-allhosts
 :: biberukalap.com
 0.0.0.0 bibi100.com
 :: bibi100.com
-0.0.0.0 bibi91.com
-:: bibi91.com
 0.0.0.0 bicesteradvertiser-gb.bicesteradvertiser.net
 :: bicesteradvertiser-gb.bicesteradvertiser.net
 0.0.0.0 bid.adview.cn
@@ -15634,6 +15628,8 @@ ff02::3 ip6-allhosts
 :: fptest.fraudmetrix.cn
 0.0.0.0 fqceyqo.com
 :: fqceyqo.com
+0.0.0.0 fqsgj.com
+:: fqsgj.com
 0.0.0.0 fqtra.com
 :: fqtra.com
 0.0.0.0 fqzds.com
@@ -17982,6 +17978,8 @@ ff02::3 ip6-allhosts
 :: huician.cn
 0.0.0.0 huid.ad.360.cn
 :: huid.ad.360.cn
+0.0.0.0 huigoushop.com
+:: huigoushop.com
 0.0.0.0 huishenghuiying.com
 :: huishenghuiying.com
 0.0.0.0 huiun.com
@@ -19432,6 +19430,8 @@ ff02::3 ip6-allhosts
 :: iyfubh.com
 0.0.0.0 iyoowi.com
 :: iyoowi.com
+0.0.0.0 iyouhu.cn
+:: iyouhu.cn
 0.0.0.0 iyptc.cn
 :: iyptc.cn
 0.0.0.0 iyygzs.com
@@ -26368,6 +26368,8 @@ ff02::3 ip6-allhosts
 :: oupai.cc
 0.0.0.0 ourot.com
 :: ourot.com
+0.0.0.0 ouslyrappre.club
+:: ouslyrappre.club
 0.0.0.0 ousseventi.info
 :: ousseventi.info
 0.0.0.0 outal.origo.hu
