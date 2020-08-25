@@ -1,11 +1,11 @@
-# Checksum: MTU5ODMyNDYwOAo=
+# Checksum: MTU5ODMzNTQzOAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200825-1
-# TimeUpdated: 2020-08-25T03:03:28+00:00
+# Version: 1.5.6-20200825-2
+# TimeUpdated: 2020-08-25T06:03:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22016
+# Total: 22012
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -670,6 +670,8 @@ ff02::3 ip6-allhosts
 :: 235123.net
 0.0.0.0 2398.pw
 :: 2398.pw
+0.0.0.0 23uuw3.com
+:: 23uuw3.com
 0.0.0.0 24200.h5ixp.com
 :: 24200.h5ixp.com
 0.0.0.0 24haitao.net
@@ -710,8 +712,6 @@ ff02::3 ip6-allhosts
 :: 28acglz.com
 0.0.0.0 2a.com.cn
 :: 2a.com.cn
-0.0.0.0 2b2b84231908.com
-:: 2b2b84231908.com
 0.0.0.0 2b815136jjjv.com
 :: 2b815136jjjv.com
 0.0.0.0 2bj.cn
@@ -854,8 +854,6 @@ ff02::3 ip6-allhosts
 :: 360zuowen.net
 0.0.0.0 365hxq.cn
 :: 365hxq.cn
-0.0.0.0 36cfbd917fd.com
-:: 36cfbd917fd.com
 0.0.0.0 36g.top
 :: 36g.top
 0.0.0.0 36pn.com
@@ -1286,8 +1284,6 @@ ff02::3 ip6-allhosts
 :: 645yvcj6c8rn.com
 0.0.0.0 649558.com
 :: 649558.com
-0.0.0.0 65125672a6fa0.com
-:: 65125672a6fa0.com
 0.0.0.0 652748.com
 :: 652748.com
 0.0.0.0 654mmm.com
@@ -1340,8 +1336,6 @@ ff02::3 ip6-allhosts
 :: 69i.club
 0.0.0.0 69lm.com.cn
 :: 69lm.com.cn
-0.0.0.0 6b29d83ec954e7.com
-:: 6b29d83ec954e7.com
 0.0.0.0 6b357cda0f.com
 :: 6b357cda0f.com
 0.0.0.0 6boou.voluumtrk.com
@@ -2138,8 +2132,6 @@ ff02::3 ip6-allhosts
 :: a0b33.com
 0.0.0.0 a0c11.com
 :: a0c11.com
-0.0.0.0 a0e5b16728.com
-:: a0e5b16728.com
 0.0.0.0 a0usa.top
 :: a0usa.top
 0.0.0.0 a1.0s.net.cn
@@ -15582,6 +15574,8 @@ ff02::3 ip6-allhosts
 :: fortpush.com
 0.0.0.0 fortrader.ru
 :: fortrader.ru
+0.0.0.0 fortunitystar.club
+:: fortunitystar.club
 0.0.0.0 forwayonlibe.site
 :: forwayonlibe.site
 0.0.0.0 fosterheiressdug.com
@@ -19646,6 +19640,8 @@ ff02::3 ip6-allhosts
 :: jfm4.pop.baofeng.net
 0.0.0.0 jfqkj.com
 :: jfqkj.com
+0.0.0.0 jfsdiwmnbsk008.top
+:: jfsdiwmnbsk008.top
 0.0.0.0 jfy-stone.cn
 :: jfy-stone.cn
 0.0.0.0 jg.bjpengyi.com
@@ -19718,8 +19714,6 @@ ff02::3 ip6-allhosts
 :: jiayi1.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 jiayi2019.top
 :: jiayi2019.top
-0.0.0.0 jiayiss.com
-:: jiayiss.com
 0.0.0.0 jiayuwl.com
 :: jiayuwl.com
 0.0.0.0 jiazhua.com
@@ -22710,8 +22704,6 @@ ff02::3 ip6-allhosts
 :: m.mffcf.cn
 0.0.0.0 m.mgogo.com
 :: m.mgogo.com
-0.0.0.0 m.miaoxinqipei.com
-:: m.miaoxinqipei.com
 0.0.0.0 m.micreative-china.cn
 :: m.micreative-china.cn
 0.0.0.0 m.mightiger.net
@@ -22938,8 +22930,6 @@ ff02::3 ip6-allhosts
 :: m.vpadn.com
 0.0.0.0 m.vpon.com
 :: m.vpon.com
-0.0.0.0 m.w5xj4.cn
-:: m.w5xj4.cn
 0.0.0.0 m.wbanv.com
 :: m.wbanv.com
 0.0.0.0 m.wbiev.com
@@ -25102,6 +25092,8 @@ ff02::3 ip6-allhosts
 :: nbsdk-baichuan.alicdn.com
 0.0.0.0 nbsdk-baichuan.taobao.com
 :: nbsdk-baichuan.taobao.com
+0.0.0.0 nbxiwktuvymecs.com
+:: nbxiwktuvymecs.com
 0.0.0.0 nc.gdt.qq.com
 :: nc.gdt.qq.com
 0.0.0.0 nc004x.corp.youdao.com
@@ -25974,6 +25966,8 @@ ff02::3 ip6-allhosts
 :: offline-adv.oray.com
 0.0.0.0 offnavi.map.baidu.com
 :: offnavi.map.baidu.com
+0.0.0.0 offoonguser.com
+:: offoonguser.com
 0.0.0.0 ofgogoatan.com
 :: ofgogoatan.com
 0.0.0.0 ofhappinyer.com
@@ -34974,8 +34968,6 @@ ff02::3 ip6-allhosts
 :: tbaia.com
 0.0.0.0 tbaocdn.com
 :: tbaocdn.com
-0.0.0.0 tbax.woyvk.cn
-:: tbax.woyvk.cn
 0.0.0.0 tbe.tom.ru
 :: tbe.tom.ru
 0.0.0.0 tben.nnchangyi.com
@@ -36612,6 +36604,8 @@ ff02::3 ip6-allhosts
 :: trial.alcohol-soft.com
 0.0.0.0 tribalfusion.com
 :: tribalfusion.com
+0.0.0.0 triflelatch.com
+:: triflelatch.com
 0.0.0.0 triggers.wfxtriggers.com
 :: triggers.wfxtriggers.com
 0.0.0.0 trikersuccessar.site
@@ -36972,8 +36966,6 @@ ff02::3 ip6-allhosts
 :: u.x.jd.com
 0.0.0.0 u.xcy8.com
 :: u.xcy8.com
-0.0.0.0 u.xfmfqdt.cn
-:: u.xfmfqdt.cn
 0.0.0.0 u.yiiwoo.com
 :: u.yiiwoo.com
 0.0.0.0 u.zoulj.xyz
@@ -37524,6 +37516,8 @@ ff02::3 ip6-allhosts
 :: urs.zdnet.com
 0.0.0.0 urtracker.q-sis.de
 :: urtracker.q-sis.de
+0.0.0.0 uruswan.com
+:: uruswan.com
 0.0.0.0 urymiseshabe.club
 :: urymiseshabe.club
 0.0.0.0 uryobtainlyi.club
@@ -39018,8 +39012,6 @@ ff02::3 ip6-allhosts
 :: whenedkom.club
 0.0.0.0 wheredoyoucomefrom.ovh
 :: wheredoyoucomefrom.ovh
-0.0.0.0 whereismommy.gq
-:: whereismommy.gq
 0.0.0.0 whethere.club
 :: whethere.club
 0.0.0.0 whetherecyclo.fun
