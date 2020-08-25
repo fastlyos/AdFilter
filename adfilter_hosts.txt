@@ -1,11 +1,11 @@
-# Checksum: MTU5ODMzNTQzOAo=
+# Checksum: MTU5ODM0NjIwOAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200825-2
-# TimeUpdated: 2020-08-25T06:03:58+00:00
+# Version: 1.5.6-20200825-3
+# TimeUpdated: 2020-08-25T09:03:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22012
+# Total: 22013
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -352,6 +352,8 @@ ff02::3 ip6-allhosts
 :: 111g.yiqig.cn
 0.0.0.0 114.allyes.com
 :: 114.allyes.com
+0.0.0.0 114com.cc
+:: 114com.cc
 0.0.0.0 114la.com
 :: 114la.com
 0.0.0.0 1155t.cn
@@ -670,8 +672,6 @@ ff02::3 ip6-allhosts
 :: 235123.net
 0.0.0.0 2398.pw
 :: 2398.pw
-0.0.0.0 23uuw3.com
-:: 23uuw3.com
 0.0.0.0 24200.h5ixp.com
 :: 24200.h5ixp.com
 0.0.0.0 24haitao.net
@@ -2212,6 +2212,8 @@ ff02::3 ip6-allhosts
 :: a2397.oadz.com
 0.0.0.0 a2pub.com
 :: a2pub.com
+0.0.0.0 a2x-eng.spankbang.com
+:: a2x-eng.spankbang.com
 0.0.0.0 a3.allyes.com
 :: a3.allyes.com
 0.0.0.0 a3.hotpornfile.org
@@ -8584,8 +8586,6 @@ ff02::3 ip6-allhosts
 :: cd-best.cn
 0.0.0.0 cd.dabansuan.cn
 :: cd.dabansuan.cn
-0.0.0.0 cd.jejre.cn
-:: cd.jejre.cn
 0.0.0.0 cd828.com
 :: cd828.com
 0.0.0.0 cdcz.xyz
@@ -19640,8 +19640,6 @@ ff02::3 ip6-allhosts
 :: jfm4.pop.baofeng.net
 0.0.0.0 jfqkj.com
 :: jfqkj.com
-0.0.0.0 jfsdiwmnbsk008.top
-:: jfsdiwmnbsk008.top
 0.0.0.0 jfy-stone.cn
 :: jfy-stone.cn
 0.0.0.0 jg.bjpengyi.com
@@ -35158,6 +35156,8 @@ ff02::3 ip6-allhosts
 :: terialnevitiesini.info
 0.0.0.0 terrapsps.com
 :: terrapsps.com
+0.0.0.0 tesfatheleshs.club
+:: tesfatheleshs.club
 0.0.0.0 tesla.oscaro.com
 :: tesla.oscaro.com
 0.0.0.0 test-api-explorer.beeppool.org
@@ -36730,6 +36730,8 @@ ff02::3 ip6-allhosts
 :: ttauri.musicradar.com
 0.0.0.0 ttauri.space.com
 :: ttauri.space.com
+0.0.0.0 ttauri.t3.com
+:: ttauri.t3.com
 0.0.0.0 ttauri.tomsguide.com
 :: ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
