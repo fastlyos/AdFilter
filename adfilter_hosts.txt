@@ -1,8 +1,8 @@
-# Checksum: MTU5ODM0NjIwOAo=
+# Checksum: MTU5ODM1NzAzNgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200825-3
-# TimeUpdated: 2020-08-25T09:03:28+00:00
+# Version: 1.5.6-20200825-4
+# TimeUpdated: 2020-08-25T12:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 22013
@@ -1898,6 +1898,8 @@ ff02::3 ip6-allhosts
 :: a.80982.org
 0.0.0.0 a.90370.com
 :: a.90370.com
+0.0.0.0 a.91nets.cn
+:: a.91nets.cn
 0.0.0.0 a.91zhongkao.com
 :: a.91zhongkao.com
 0.0.0.0 a.ad7.com
@@ -2192,8 +2194,6 @@ ff02::3 ip6-allhosts
 :: a1662.oadz.com
 0.0.0.0 a1click.cpc.sogou.com
 :: a1click.cpc.sogou.com
-0.0.0.0 a2-eng.spankbang.com
-:: a2-eng.spankbang.com
 0.0.0.0 a2.b310.com
 :: a2.b310.com
 0.0.0.0 a2.img.static.youmi.net
@@ -26538,8 +26538,6 @@ ff02::3 ip6-allhosts
 :: p1.zhumengwl.com
 0.0.0.0 p188.cn
 :: p188.cn
-0.0.0.0 p2-eng.spankbang.com
-:: p2-eng.spankbang.com
 0.0.0.0 p2.hunantv.com
 :: p2.hunantv.com
 0.0.0.0 p2.hyz86.com
@@ -27470,8 +27468,6 @@ ff02::3 ip6-allhosts
 :: pjogndc8ixoidna.360doc.cn
 0.0.0.0 pjshw.cn
 :: pjshw.cn
-0.0.0.0 pjtsu.com
-:: pjtsu.com
 0.0.0.0 pjx1ky4xhwip.com
 :: pjx1ky4xhwip.com
 0.0.0.0 pjyu.golden1.sogou.com
@@ -30552,6 +30548,8 @@ ff02::3 ip6-allhosts
 :: s3.play1.videos.videos.vidto.me
 0.0.0.0 s3.play1.videos.vidto.me
 :: s3.play1.videos.vidto.me
+0.0.0.0 s3.rongnews.com
+:: s3.rongnews.com
 0.0.0.0 s3.tercabilis.info
 :: s3.tercabilis.info
 0.0.0.0 s3.video2.stream.vidzi.tv
@@ -35406,6 +35404,8 @@ ff02::3 ip6-allhosts
 :: timestrends.indiatimes.com
 0.0.0.0 timestrends.timesnow.tv
 :: timestrends.timesnow.tv
+0.0.0.0 tineprepair.club
+:: tineprepair.club
 0.0.0.0 tingfengyu.top
 :: tingfengyu.top
 0.0.0.0 tinglian.com
