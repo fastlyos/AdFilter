@@ -1,11 +1,11 @@
-# Checksum: MTU5ODQyMTg3OAo=
+# Checksum: MTU5ODQzMjYwOQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200826-2
-# TimeUpdated: 2020-08-26T06:04:38+00:00
+# Version: 1.5.6-20200826-3
+# TimeUpdated: 2020-08-26T09:03:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22034
+# Total: 22038
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7068,8 +7068,6 @@ ff02::3 ip6-allhosts
 :: bdsearch.2345.com
 0.0.0.0 bdstatic.eastmoney.com
 :: bdstatic.eastmoney.com
-0.0.0.0 bdtongfei.cn
-:: bdtongfei.cn
 0.0.0.0 bdu.focus.cn
 :: bdu.focus.cn
 0.0.0.0 bdu1.coozhi.cn
@@ -16964,6 +16962,8 @@ ff02::3 ip6-allhosts
 :: gum.criteo.com
 0.0.0.0 guohead.com
 :: guohead.com
+0.0.0.0 guominziben.com
+:: guominziben.com
 0.0.0.0 guoxintdh.com
 :: guoxintdh.com
 0.0.0.0 guq9.vente-unique.it
@@ -20658,6 +20658,8 @@ ff02::3 ip6-allhosts
 :: kgmobilestatbak.kugou.com
 0.0.0.0 kgqhtakjphgdwg.com
 :: kgqhtakjphgdwg.com
+0.0.0.0 kgua0o66bcw8.com
+:: kgua0o66bcw8.com
 0.0.0.0 khg97644rvbg.com
 :: khg97644rvbg.com
 0.0.0.0 khgj.cn
@@ -21550,6 +21552,8 @@ ff02::3 ip6-allhosts
 :: ll.pesbbw.cn
 0.0.0.0 ll.songlaoban.cn
 :: ll.songlaoban.cn
+0.0.0.0 lledcorfinni.club
+:: lledcorfinni.club
 0.0.0.0 llisthonolialate.club
 :: llisthonolialate.club
 0.0.0.0 lloenerginqu.info
@@ -25402,6 +25406,8 @@ ff02::3 ip6-allhosts
 :: ngallerydese.club
 0.0.0.0 ngholishingsm.info
 :: ngholishingsm.info
+0.0.0.0 ngisolomba.club
+:: ngisolomba.club
 0.0.0.0 nglattemptenlan.fun
 :: nglattemptenlan.fun
 0.0.0.0 ngleaccinemad.site
@@ -28762,6 +28768,8 @@ ff02::3 ip6-allhosts
 :: qjhlc.com
 0.0.0.0 qjueu.com
 :: qjueu.com
+0.0.0.0 ql.uzuzuz.com
+:: ql.uzuzuz.com
 0.0.0.0 qlaot.com
 :: qlaot.com
 0.0.0.0 qlisv.siemens6es7.com
