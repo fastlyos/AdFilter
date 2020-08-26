@@ -1,11 +1,11 @@
-# Checksum: MTU5ODQ0MzQ4OQo=
+# Checksum: MTU5ODQ1NDIwMQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200826-4
-# TimeUpdated: 2020-08-26T12:04:49+00:00
+# Version: 1.5.6-20200826-5
+# TimeUpdated: 2020-08-26T15:03:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22039
+# Total: 22045
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -122,8 +122,6 @@ ff02::3 ip6-allhosts
 :: 0796gou.com
 0.0.0.0 0798ls.com
 :: 0798ls.com
-0.0.0.0 0824xfh.xyz
-:: 0824xfh.xyz
 0.0.0.0 0851ok.com
 :: 0851ok.com
 0.0.0.0 086186.com
@@ -676,6 +674,8 @@ ff02::3 ip6-allhosts
 :: 2398.pw
 0.0.0.0 24200.h5ixp.com
 :: 24200.h5ixp.com
+0.0.0.0 24d1c699868.com
+:: 24d1c699868.com
 0.0.0.0 24haitao.net
 :: 24haitao.net
 0.0.0.0 2526game.com
@@ -2014,8 +2014,6 @@ ff02::3 ip6-allhosts
 :: a.medialytics.com
 0.0.0.0 a.mfcad.net
 :: a.mfcad.net
-0.0.0.0 a.mianbao99.com
-:: a.mianbao99.com
 0.0.0.0 a.miyudaquan.top
 :: a.miyudaquan.top
 0.0.0.0 a.mobify.com
@@ -6828,6 +6826,8 @@ ff02::3 ip6-allhosts
 :: bbcc.yxlady.com
 0.0.0.0 bbdm.051661.com
 :: bbdm.051661.com
+0.0.0.0 bbeyay41026.cn
+:: bbeyay41026.cn
 0.0.0.0 bbn.gzblogger.cn
 :: bbn.gzblogger.cn
 0.0.0.0 bbom2b434493.com
@@ -6898,6 +6898,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -14022,6 +14024,8 @@ ff02::3 ip6-allhosts
 :: edp2.adriver.ru
 0.0.0.0 edspicuousind.site
 :: edspicuousind.site
+0.0.0.0 edsurrowin.club
+:: edsurrowin.club
 0.0.0.0 edu.jiukang.org
 :: edu.jiukang.org
 0.0.0.0 eduad.baidu.com
@@ -15058,6 +15062,8 @@ ff02::3 ip6-allhosts
 :: fa.163.com
 0.0.0.0 fa.sdxctr.com
 :: fa.sdxctr.com
+0.0.0.0 fa06e75c16.com
+:: fa06e75c16.com
 0.0.0.0 fabrkrup.com
 :: fabrkrup.com
 0.0.0.0 facebookma.cn
@@ -15970,6 +15976,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g1.08160.cn
@@ -16108,8 +16116,6 @@ ff02::3 ip6-allhosts
 :: game3737.com
 0.0.0.0 game3896.com
 :: game3896.com
-0.0.0.0 game4343.com
-:: game4343.com
 0.0.0.0 game527.cn
 :: game527.cn
 0.0.0.0 gamead.swjoy.com
@@ -24284,6 +24290,8 @@ ff02::3 ip6-allhosts
 :: mms.syracuse.com
 0.0.0.0 mms.theroot.com
 :: mms.theroot.com
+0.0.0.0 mmshort.link
+:: mmshort.link
 0.0.0.0 mmt.eatjk.cn
 :: mmt.eatjk.cn
 0.0.0.0 mmwdwg.cn
@@ -32280,8 +32288,6 @@ ff02::3 ip6-allhosts
 :: snowplow.swm.digital
 0.0.0.0 snr4.canalplus.com
 :: snr4.canalplus.com
-0.0.0.0 snuoen.com
-:: snuoen.com
 0.0.0.0 snyu.com
 :: snyu.com
 0.0.0.0 so.auto999.cn
@@ -35802,6 +35808,8 @@ ff02::3 ip6-allhosts
 :: tpe163.com
 0.0.0.0 tplpages.com
 :: tplpages.com
+0.0.0.0 tpresearch.club
+:: tpresearch.club
 0.0.0.0 tpresearchcre.fun
 :: tpresearchcre.fun
 0.0.0.0 tpush.html5.qq.com
@@ -40378,6 +40386,10 @@ ff02::3 ip6-allhosts
 :: www.aoyou2.top
 0.0.0.0 www.aoyou3.top
 :: www.aoyou3.top
+0.0.0.0 www.aoyou4.top
+:: www.aoyou4.top
+0.0.0.0 www.aoyou5.top
+:: www.aoyou5.top
 0.0.0.0 www.apdrive.win
 :: www.apdrive.win
 0.0.0.0 www.api.coin-hive.com
