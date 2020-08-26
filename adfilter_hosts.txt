@@ -1,8 +1,8 @@
-# Checksum: MTU5ODQxMTAwNgo=
+# Checksum: MTU5ODQyMTg3OAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200826-1
-# TimeUpdated: 2020-08-26T03:03:26+00:00
+# Version: 1.5.6-20200826-2
+# TimeUpdated: 2020-08-26T06:04:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 22034
@@ -712,8 +712,6 @@ ff02::3 ip6-allhosts
 :: 28acglz.com
 0.0.0.0 2a.com.cn
 :: 2a.com.cn
-0.0.0.0 2abca352f4.com
-:: 2abca352f4.com
 0.0.0.0 2b815136jjjv.com
 :: 2b815136jjjv.com
 0.0.0.0 2bj.cn
@@ -6314,6 +6312,8 @@ ff02::3 ip6-allhosts
 :: audit.median.hu
 0.0.0.0 audit.pcadvisor.co.uk
 :: audit.pcadvisor.co.uk
+0.0.0.0 audriasite.pro
+:: audriasite.pro
 0.0.0.0 aufhausted.club
 :: aufhausted.club
 0.0.0.0 aughedbannel.site
@@ -8314,6 +8314,8 @@ ff02::3 ip6-allhosts
 :: cabresenalitie.club
 0.0.0.0 cacaca.0571yy.com
 :: cacaca.0571yy.com
+0.0.0.0 cacaca.sp96878.com
+:: cacaca.sp96878.com
 0.0.0.0 cacafly.com
 :: cacafly.com
 0.0.0.0 cacafly.net
@@ -12914,8 +12916,6 @@ ff02::3 ip6-allhosts
 :: dnsdelegation.io
 0.0.0.0 do-not-tracker.org
 :: do-not-tracker.org
-0.0.0.0 do69ifsly4.me
-:: do69ifsly4.me
 0.0.0.0 doa1.immobilier-neuf.com
 :: doa1.immobilier-neuf.com
 0.0.0.0 doc.cnzz.com
