@@ -1,11 +1,11 @@
-# Checksum: MTU5ODQ4NzE2Mgo=
+# Checksum: MTU5ODQ5NzM5NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200827-0
-# TimeUpdated: 2020-08-27T00:12:42+00:00
+# Version: 1.5.6-20200827-1
+# TimeUpdated: 2020-08-27T03:03:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22056
+# Total: 22067
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4594,8 +4594,6 @@ ff02::3 ip6-allhosts
 :: alitx963.com
 0.0.0.0 aliyoo999.com
 :: aliyoo999.com
-0.0.0.0 aliyunj.xyz
-:: aliyunj.xyz
 0.0.0.0 aliyunxin.com
 :: aliyunxin.com
 0.0.0.0 all.orfr.adgtw.orangeads.fr
@@ -7416,6 +7414,8 @@ ff02::3 ip6-allhosts
 :: bidtheatre.com
 0.0.0.0 bidvertiser.com
 :: bidvertiser.com
+0.0.0.0 bigcood.xyz
+:: bigcood.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -7668,8 +7668,6 @@ ff02::3 ip6-allhosts
 :: bobaidu8.com
 0.0.0.0 bobo.163.com
 :: bobo.163.com
-0.0.0.0 bobotune.com
-:: bobotune.com
 0.0.0.0 bodapet.com
 :: bodapet.com
 0.0.0.0 bodgg.com
@@ -8598,8 +8596,6 @@ ff02::3 ip6-allhosts
 :: cctyly.com
 0.0.0.0 ccv.ybt999.com
 :: ccv.ybt999.com
-0.0.0.0 cd-best.cn
-:: cd-best.cn
 0.0.0.0 cd.dabansuan.cn
 :: cd.dabansuan.cn
 0.0.0.0 cd828.com
@@ -16334,6 +16330,8 @@ ff02::3 ip6-allhosts
 :: geo.mezr.com
 0.0.0.0 geo.moatads.com
 :: geo.moatads.com
+0.0.0.0 geo.mozilla.org
+:: geo.mozilla.org
 0.0.0.0 geo.mtvnn.com
 :: geo.mtvnn.com
 0.0.0.0 geo.q5media.net
@@ -17328,6 +17326,8 @@ ff02::3 ip6-allhosts
 :: hbdnserror6.wo.com.cn
 0.0.0.0 hbdnserror7.wo.com.cn
 :: hbdnserror7.wo.com.cn
+0.0.0.0 hbdt.luomi.com
+:: hbdt.luomi.com
 0.0.0.0 hbhnwy.com
 :: hbhnwy.com
 0.0.0.0 hbhtbn.com
@@ -18174,6 +18174,8 @@ ff02::3 ip6-allhosts
 :: hzs9.cnzz.com
 0.0.0.0 hzuok.com
 :: hzuok.com
+0.0.0.0 hzuvw.com
+:: hzuvw.com
 0.0.0.0 hzvs1.cnzz.com
 :: hzvs1.cnzz.com
 0.0.0.0 hzxfmc.com
@@ -19276,6 +19278,8 @@ ff02::3 ip6-allhosts
 :: ip.webstats.bid
 0.0.0.0 ip.ws.126.net
 :: ip.ws.126.net
+0.0.0.0 ip2.pxene.com
+:: ip2.pxene.com
 0.0.0.0 ip2c.landscape.co.jp
 :: ip2c.landscape.co.jp
 0.0.0.0 ipapi.tmbi.com
@@ -22646,6 +22650,8 @@ ff02::3 ip6-allhosts
 :: m.ienkdago.cn
 0.0.0.0 m.ihais.com
 :: m.ihais.com
+0.0.0.0 m.ik20nd.cn
+:: m.ik20nd.cn
 0.0.0.0 m.imiek.com
 :: m.imiek.com
 0.0.0.0 m.iorgb.com
@@ -22832,6 +22838,8 @@ ff02::3 ip6-allhosts
 :: m.puooi.com
 0.0.0.0 m.px69z.cn
 :: m.px69z.cn
+0.0.0.0 m.q0uz4c.cn
+:: m.q0uz4c.cn
 0.0.0.0 m.q671e.cn
 :: m.q671e.cn
 0.0.0.0 m.qbenu.com
@@ -27208,6 +27216,8 @@ ff02::3 ip6-allhosts
 :: pic.bdyxzx.com
 0.0.0.0 pic.bloggerads.net
 :: pic.bloggerads.net
+0.0.0.0 pic.by175.com
+:: pic.by175.com
 0.0.0.0 pic.casee.cn
 :: pic.casee.cn
 0.0.0.0 pic.cnmo-img.com.cn
@@ -29008,6 +29018,8 @@ ff02::3 ip6-allhosts
 :: r.domob.cn
 0.0.0.0 r.edge.inmobicdn.net
 :: r.edge.inmobicdn.net
+0.0.0.0 r.inad.com
+:: r.inad.com
 0.0.0.0 r.l.youku.com
 :: r.l.youku.com
 0.0.0.0 r.lzumg.xyz
@@ -30230,6 +30242,8 @@ ff02::3 ip6-allhosts
 :: s.jjcclc.top
 0.0.0.0 s.jpush.cn
 :: s.jpush.cn
+0.0.0.0 s.khgj.cn
+:: s.khgj.cn
 0.0.0.0 s.komoona.com
 :: s.komoona.com
 0.0.0.0 s.l.fastapi.net
@@ -30264,6 +30278,8 @@ ff02::3 ip6-allhosts
 :: s.qzkxt.com
 0.0.0.0 s.renren.com
 :: s.renren.com
+0.0.0.0 s.ryre.cn
+:: s.ryre.cn
 0.0.0.0 s.shaowenhao.top
 :: s.shaowenhao.top
 0.0.0.0 s.share.baidu.com
@@ -32756,6 +32772,8 @@ ff02::3 ip6-allhosts
 :: spentalwithinga.info
 0.0.0.0 sperans-beactor.com
 :: sperans-beactor.com
+0.0.0.0 sperconset.club
+:: sperconset.club
 0.0.0.0 spinfo.wps.cn
 :: spinfo.wps.cn
 0.0.0.0 spittsprevi.club
@@ -35188,6 +35206,8 @@ ff02::3 ip6-allhosts
 :: temai.taobao.com
 0.0.0.0 temp.163.com
 :: temp.163.com
+0.0.0.0 template-download.to
+:: template-download.to
 0.0.0.0 template-download.top
 :: template-download.top
 0.0.0.0 template.liusha.info
@@ -37456,6 +37476,8 @@ ff02::3 ip6-allhosts
 :: uontent.powvideo.net
 0.0.0.0 uoredi.com
 :: uoredi.com
+0.0.0.0 uoss.c2471.cn
+:: uoss.c2471.cn
 0.0.0.0 uoss.hm757.cn
 :: uoss.hm757.cn
 0.0.0.0 uoyrsd.com
