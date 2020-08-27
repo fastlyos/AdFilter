@@ -1,11 +1,11 @@
-# Checksum: MTU5ODUwODMzMQo=
+# Checksum: MTU5ODUxODk5NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200827-2
-# TimeUpdated: 2020-08-27T06:05:31+00:00
+# Version: 1.5.6-20200827-3
+# TimeUpdated: 2020-08-27T09:03:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22060
+# Total: 22063
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2948,6 +2948,8 @@ ff02::3 ip6-allhosts
 :: ad.wretch.cc
 0.0.0.0 ad.wsod.com
 :: ad.wsod.com
+0.0.0.0 ad.wurangxian.top
+:: ad.wurangxian.top
 0.0.0.0 ad.ximalaya.com
 :: ad.ximalaya.com
 0.0.0.0 ad.xmovies8.ru
@@ -7248,8 +7250,6 @@ ff02::3 ip6-allhosts
 :: behavingsali.club
 0.0.0.0 bei7.clewx.com
 :: bei7.clewx.com
-0.0.0.0 beifmu.com
-:: beifmu.com
 0.0.0.0 beijing.buzhi5.com
 :: beijing.buzhi5.com
 0.0.0.0 beijinglvyou.net.cn
@@ -8386,8 +8386,6 @@ ff02::3 ip6-allhosts
 :: caing.adsame.com
 0.0.0.0 caiteesh.net
 :: caiteesh.net
-0.0.0.0 caiwanhui.top
-:: caiwanhui.top
 0.0.0.0 caixin.adsame.com
 :: caixin.adsame.com
 0.0.0.0 caiyifz.com
@@ -15442,6 +15440,8 @@ ff02::3 ip6-allhosts
 :: firefang.cn
 0.0.0.0 firewoodnativewoodlands.com
 :: firewoodnativewoodlands.com
+0.0.0.0 fireworkssetstill.com
+:: fireworkssetstill.com
 0.0.0.0 firmware.center
 :: firmware.center
 0.0.0.0 fishkekcamp.info
@@ -20622,6 +20622,8 @@ ff02::3 ip6-allhosts
 :: kejet.net
 0.0.0.0 kele4.com
 :: kele4.com
+0.0.0.0 kelt-195b.com
+:: kelt-195b.com
 0.0.0.0 kelun13.top
 :: kelun13.top
 0.0.0.0 kemperare.club
@@ -29078,6 +29080,8 @@ ff02::3 ip6-allhosts
 :: rack.cryptaloot.pro
 0.0.0.0 ractcogniser.top
 :: ractcogniser.top
+0.0.0.0 racticeretre.club
+:: racticeretre.club
 0.0.0.0 rad.live.com
 :: rad.live.com
 0.0.0.0 rad.reporo.net
@@ -36630,6 +36634,8 @@ ff02::3 ip6-allhosts
 :: transardugde.club
 0.0.0.0 trapothere.club
 :: trapothere.club
+0.0.0.0 trappist-1d.com
+:: trappist-1d.com
 0.0.0.0 trasholita.com
 :: trasholita.com
 0.0.0.0 travel-together.cn
