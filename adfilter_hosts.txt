@@ -1,11 +1,11 @@
-# Checksum: MTU5ODUxODk5NQo=
+# Checksum: MTU5ODUyOTgzNAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200827-3
-# TimeUpdated: 2020-08-27T09:03:15+00:00
+# Version: 1.5.6-20200827-4
+# TimeUpdated: 2020-08-27T12:03:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22063
+# Total: 22068
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -412,6 +412,8 @@ ff02::3 ip6-allhosts
 :: 123ppk.com
 0.0.0.0 1244.chushoushijian.cn
 :: 1244.chushoushijian.cn
+0.0.0.0 1276.adsina.allyes.com
+:: 1276.adsina.allyes.com
 0.0.0.0 12bt.info
 :: 12bt.info
 0.0.0.0 12cdee5830.com
@@ -452,6 +454,8 @@ ff02::3 ip6-allhosts
 :: 1503.net
 0.0.0.0 15257dddaccde96.com
 :: 15257dddaccde96.com
+0.0.0.0 154.adsina.allyes.com
+:: 154.adsina.allyes.com
 0.0.0.0 1556666.cn
 :: 1556666.cn
 0.0.0.0 155game.com
@@ -12730,8 +12734,6 @@ ff02::3 ip6-allhosts
 :: dlevisionexpr.site
 0.0.0.0 dlfvgndsdfsn.com
 :: dlfvgndsdfsn.com
-0.0.0.0 dlhygj.com
-:: dlhygj.com
 0.0.0.0 dlimg.lovfp.com
 :: dlimg.lovfp.com
 0.0.0.0 dlkjgjmy.com
@@ -14908,6 +14910,8 @@ ff02::3 ip6-allhosts
 :: exchangepresumeethel.com
 0.0.0.0 exd4.destinia.com.au
 :: exd4.destinia.com.au
+0.0.0.0 execution-ci360.rai.it
+:: execution-ci360.rai.it
 0.0.0.0 exercially.mobi
 :: exercially.mobi
 0.0.0.0 exercisely.club
@@ -31316,6 +31320,8 @@ ff02::3 ip6-allhosts
 :: seayipsex.com
 0.0.0.0 sebadu.com
 :: sebadu.com
+0.0.0.0 sec-cloud.cn
+:: sec-cloud.cn
 0.0.0.0 sec.umeng.com
 :: sec.umeng.com
 0.0.0.0 sec.video.qq.com
@@ -33970,6 +33976,8 @@ ff02::3 ip6-allhosts
 :: stnn.adsame.com
 0.0.0.0 stoassod.com
 :: stoassod.com
+0.0.0.0 stocksbsc.com
+:: stocksbsc.com
 0.0.0.0 stoffickiesolding.site
 :: stoffickiesolding.site
 0.0.0.0 stone.cryptaloot.pro
@@ -43112,6 +43120,8 @@ ff02::3 ip6-allhosts
 :: yesuphost.com
 0.0.0.0 yeuropertsp.site
 :: yeuropertsp.site
+0.0.0.0 yeyajipp.com
+:: yeyajipp.com
 0.0.0.0 yeyou.3393.com
 :: yeyou.3393.com
 0.0.0.0 yezijizhang.com
