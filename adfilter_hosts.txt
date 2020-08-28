@@ -1,11 +1,11 @@
-# Checksum: MTU5ODYxNjI5Mgo=
+# Checksum: MTU5ODYyNzAwMAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200828-4
-# TimeUpdated: 2020-08-28T12:04:52+00:00
+# Version: 1.5.6-20200828-5
+# TimeUpdated: 2020-08-28T15:03:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22093
+# Total: 22104
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -478,6 +478,8 @@ ff02::3 ip6-allhosts
 :: 168ey.com
 0.0.0.0 168xiazai.com
 :: 168xiazai.com
+0.0.0.0 168zwm.com
+:: 168zwm.com
 0.0.0.0 16k6.com
 :: 16k6.com
 0.0.0.0 17.huanqiu.com
@@ -1404,6 +1406,8 @@ ff02::3 ip6-allhosts
 :: 7080555.com
 0.0.0.0 70950.com
 :: 70950.com
+0.0.0.0 70bhsd.cn
+:: 70bhsd.cn
 0.0.0.0 70e.com
 :: 70e.com
 0.0.0.0 70yst.com
@@ -5346,6 +5350,8 @@ ff02::3 ip6-allhosts
 :: antonynton.com
 0.0.0.0 antrademic.club
 :: antrademic.club
+0.0.0.0 anweigongsi.com
+:: anweigongsi.com
 0.0.0.0 anybagant.club
 :: anybagant.club
 0.0.0.0 anycadark.site
@@ -6804,8 +6810,6 @@ ff02::3 ip6-allhosts
 :: bathibsa.com
 0.0.0.0 bats.video.yahoo.com
 :: bats.video.yahoo.com
-0.0.0.0 batsavcdn.ksmobile.net
-:: batsavcdn.ksmobile.net
 0.0.0.0 batwaxwok.site
 :: batwaxwok.site
 0.0.0.0 bauthair.net
@@ -7462,6 +7466,8 @@ ff02::3 ip6-allhosts
 :: biroads.com
 0.0.0.0 bishoppeda.club
 :: bishoppeda.club
+0.0.0.0 bishufang.cn
+:: bishufang.cn
 0.0.0.0 bisiraczyxbu.com
 :: bisiraczyxbu.com
 0.0.0.0 bisko.mall.tv
@@ -11178,6 +11184,8 @@ ff02::3 ip6-allhosts
 :: d.h5.coffeedak.cn
 0.0.0.0 d.haberler.com
 :: d.haberler.com
+0.0.0.0 d.haireig.com
+:: d.haireig.com
 0.0.0.0 d.jjyx.com
 :: d.jjyx.com
 0.0.0.0 d.kugou.com
@@ -22022,6 +22030,8 @@ ff02::3 ip6-allhosts
 :: long8590.com
 0.0.0.0 long88.app
 :: long88.app
+0.0.0.0 longfenfa.com
+:: longfenfa.com
 0.0.0.0 longtailvideo.com
 :: longtailvideo.com
 0.0.0.0 longtan.in
@@ -24252,6 +24262,8 @@ ff02::3 ip6-allhosts
 :: mmc.center
 0.0.0.0 mmcc.yxlady.com
 :: mmcc.yxlady.com
+0.0.0.0 mmfusheng.com
+:: mmfusheng.com
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
 :: mmg.aty.cp45.ott.cibntv.net
 0.0.0.0 mmg.aty.snmsohu.aisee.tv
@@ -25038,6 +25050,8 @@ ff02::3 ip6-allhosts
 :: myzwqwe12.com
 0.0.0.0 mzlit.com
 :: mzlit.com
+0.0.0.0 mzxun.com
+:: mzxun.com
 0.0.0.0 mzy2014.com
 :: mzy2014.com
 0.0.0.0 n-st.vip.com
@@ -40366,6 +40380,14 @@ ff02::3 ip6-allhosts
 :: www.abie19.top
 0.0.0.0 www.abie20.top
 :: www.abie20.top
+0.0.0.0 www.abie21.top
+:: www.abie21.top
+0.0.0.0 www.abie22.top
+:: www.abie22.top
+0.0.0.0 www.abie23.top
+:: www.abie23.top
+0.0.0.0 www.abie24.top
+:: www.abie24.top
 0.0.0.0 www.ablen01.tk
 :: www.ablen01.tk
 0.0.0.0 www.ablen03.tk
