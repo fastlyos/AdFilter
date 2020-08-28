@@ -1,11 +1,11 @@
-# Checksum: MTU5ODU2MjIxNgo=
+# Checksum: MTU5ODU3MzMwOQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200827-7
-# TimeUpdated: 2020-08-27T21:03:36+00:00
+# Version: 1.5.6-20200828-0
+# TimeUpdated: 2020-08-28T00:08:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22075
+# Total: 22083
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -234,8 +234,6 @@ ff02::3 ip6-allhosts
 :: 1.isanxia.com
 0.0.0.0 1.jiqie.cn
 :: 1.jiqie.cn
-0.0.0.0 1.kk.sqfuwu.cn
-:: 1.kk.sqfuwu.cn
 0.0.0.0 1.kuaidiwo.cn
 :: 1.kuaidiwo.cn
 0.0.0.0 1.lvshi567.com
@@ -3370,6 +3368,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admaster.mobi
@@ -11114,6 +11114,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-cache.microad-cn.com
 :: d-cache.microad-cn.com
 0.0.0.0 d-test.39.net
@@ -14020,6 +14022,8 @@ ff02::3 ip6-allhosts
 :: edp2.adriver.ru
 0.0.0.0 edspicuousind.site
 :: edspicuousind.site
+0.0.0.0 edsufferen.club
+:: edsufferen.club
 0.0.0.0 edsurrowin.club
 :: edsurrowin.club
 0.0.0.0 edu.jiukang.org
@@ -21024,6 +21028,8 @@ ff02::3 ip6-allhosts
 :: l2wisd9g5d9u.com
 0.0.0.0 l4elb.cn
 :: l4elb.cn
+0.0.0.0 l5fvoqimjfug.com
+:: l5fvoqimjfug.com
 0.0.0.0 l9bdhcgihw.neihanw.com
 :: l9bdhcgihw.neihanw.com
 0.0.0.0 la-sync.taboola.com
@@ -26118,6 +26124,8 @@ ff02::3 ip6-allhosts
 :: omafaren.pw
 0.0.0.0 omaris.pw
 :: omaris.pw
+0.0.0.0 omchanseyr.com
+:: omchanseyr.com
 0.0.0.0 omg.gzmxybg.com
 :: omg.gzmxybg.com
 0.0.0.0 omg.inte.sogoucdn.com
@@ -32012,8 +32020,6 @@ ff02::3 ip6-allhosts
 :: shrek.6.cn
 0.0.0.0 shrink-service.it
 :: shrink-service.it
-0.0.0.0 shrinke.me
-:: shrinke.me
 0.0.0.0 shtatuo.cn
 :: shtatuo.cn
 0.0.0.0 shtt.shuqw.com
@@ -33298,6 +33304,8 @@ ff02::3 ip6-allhosts
 :: stat.titan.imgo.tv
 0.0.0.0 stat.tvigle.ru
 :: stat.tvigle.ru
+0.0.0.0 stat.ustore.bz
+:: stat.ustore.bz
 0.0.0.0 stat.uuu9.com
 :: stat.uuu9.com
 0.0.0.0 stat.v.17173.com
@@ -35818,6 +35826,8 @@ ff02::3 ip6-allhosts
 :: torsperience.club
 0.0.0.0 tortdiscreets.club
 :: tortdiscreets.club
+0.0.0.0 tortoiselavender.com
+:: tortoiselavender.com
 0.0.0.0 toruk.tanx.com
 :: toruk.tanx.com
 0.0.0.0 torytalenty.site
@@ -36590,6 +36600,8 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -37100,6 +37112,8 @@ ff02::3 ip6-allhosts
 :: u51.me
 0.0.0.0 u6.gg
 :: u6.gg
+0.0.0.0 u8.hujiang.com
+:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
@@ -43818,6 +43832,8 @@ ff02::3 ip6-allhosts
 :: zhanzhang.net
 0.0.0.0 zhfyws.com
 :: zhfyws.com
+0.0.0.0 zhgg.dre8.com
+:: zhgg.dre8.com
 0.0.0.0 zhichangwo.com
 :: zhichangwo.com
 0.0.0.0 zhichi08.com
