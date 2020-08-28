@@ -1,11 +1,11 @@
-# Checksum: MTU5ODU5NDg4NAo=
+# Checksum: MTU5ODYwNTQwMgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200828-2
-# TimeUpdated: 2020-08-28T06:08:04+00:00
+# Version: 1.5.6-20200828-3
+# TimeUpdated: 2020-08-28T09:03:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22087
+# Total: 22089
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -436,6 +436,8 @@ ff02::3 ip6-allhosts
 :: 138lm.com
 0.0.0.0 13yg.cn
 :: 13yg.cn
+0.0.0.0 14.allyes.com
+:: 14.allyes.com
 0.0.0.0 142904.com
 :: 142904.com
 0.0.0.0 144.dragonparking.com
@@ -2304,8 +2306,6 @@ ff02::3 ip6-allhosts
 :: aaddss.tohomh.com
 0.0.0.0 aag.yahooapis.jp
 :: aag.yahooapis.jp
-0.0.0.0 aalbbh84.info
-:: aalbbh84.info
 0.0.0.0 aaliyahiya.com
 :: aaliyahiya.com
 0.0.0.0 aauisg64017.cn
@@ -20198,6 +20198,8 @@ ff02::3 ip6-allhosts
 :: js.xuexila.com
 0.0.0.0 js.xz6d.com
 :: js.xz6d.com
+0.0.0.0 js.yalongrope.cn
+:: js.yalongrope.cn
 0.0.0.0 js.yanyue.cn
 :: js.yanyue.cn
 0.0.0.0 js.yixui.com
@@ -20986,8 +20988,6 @@ ff02::3 ip6-allhosts
 :: kythodoby.pro
 0.0.0.0 kyunheet.cn
 :: kyunheet.cn
-0.0.0.0 kyyqhpi.cn
-:: kyyqhpi.cn
 0.0.0.0 kz.mieyisi.com
 :: kz.mieyisi.com
 0.0.0.0 kzsha.com
@@ -39016,6 +39016,8 @@ ff02::3 ip6-allhosts
 :: webxmr.com
 0.0.0.0 wecan88.com
 :: wecan88.com
+0.0.0.0 wechatpu.com
+:: wechatpu.com
 0.0.0.0 wedneckekij.club
 :: wedneckekij.club
 0.0.0.0 weduoke.com
@@ -40068,6 +40070,8 @@ ff02::3 ip6-allhosts
 :: wuyecaokeji.com
 0.0.0.0 wuylp.com
 :: wuylp.com
+0.0.0.0 wuyou.la
+:: wuyou.la
 0.0.0.0 wv.inner-active.mobi
 :: wv.inner-active.mobi
 0.0.0.0 wv63l89etbhe.com
