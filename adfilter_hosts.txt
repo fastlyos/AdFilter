@@ -1,11 +1,11 @@
-# Checksum: MTU5ODYwNTQwMgo=
+# Checksum: MTU5ODYxNjI5Mgo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200828-3
-# TimeUpdated: 2020-08-28T09:03:22+00:00
+# Version: 1.5.6-20200828-4
+# TimeUpdated: 2020-08-28T12:04:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22089
+# Total: 22093
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -680,6 +680,8 @@ ff02::3 ip6-allhosts
 :: 24200.h5ixp.com
 0.0.0.0 24haitao.net
 :: 24haitao.net
+0.0.0.0 251.adsina.allyes.com
+:: 251.adsina.allyes.com
 0.0.0.0 2526game.com
 :: 2526game.com
 0.0.0.0 25348f89a3.com
@@ -1142,8 +1144,6 @@ ff02::3 ip6-allhosts
 :: 550sky.com
 0.0.0.0 550tg.com
 :: 550tg.com
-0.0.0.0 5535aibo.com
-:: 5535aibo.com
 0.0.0.0 555lu.com
 :: 555lu.com
 0.0.0.0 555p555p.com
@@ -3912,6 +3912,8 @@ ff02::3 ip6-allhosts
 :: adshows.21cn.com
 0.0.0.0 adsin.zhangyoubao.com
 :: adsin.zhangyoubao.com
+0.0.0.0 adsina.allyes.com
+:: adsina.allyes.com
 0.0.0.0 adsinstant.com
 :: adsinstant.com
 0.0.0.0 adskeeper.co.uk
@@ -10680,6 +10682,8 @@ ff02::3 ip6-allhosts
 :: courselfnorter.site
 0.0.0.0 courthereb.club
 :: courthereb.club
+0.0.0.0 coveredsys.cn
+:: coveredsys.cn
 0.0.0.0 coversaved.club
 :: coversaved.club
 0.0.0.0 coversestri.club
@@ -32106,6 +32110,8 @@ ff02::3 ip6-allhosts
 :: simon184.cn
 0.0.0.0 simpaignsen.info
 :: simpaignsen.info
+0.0.0.0 simpleco.in
+:: simpleco.in
 0.0.0.0 simpleprogr.club
 :: simpleprogr.club
 0.0.0.0 simpli.fi
@@ -41908,6 +41914,8 @@ ff02::3 ip6-allhosts
 :: www.whalecloud.com
 0.0.0.0 www.whathyx.com
 :: www.whathyx.com
+0.0.0.0 www.whcrdz.com
+:: www.whcrdz.com
 0.0.0.0 www.whshangsha.com
 :: www.whshangsha.com
 0.0.0.0 www.whxhhjx.com
