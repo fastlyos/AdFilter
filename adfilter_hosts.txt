@@ -1,11 +1,11 @@
-# Checksum: MTU5ODcwMjg5NQo=
+# Checksum: MTU5ODcxMzM1MQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200829-4
-# TimeUpdated: 2020-08-29T12:08:15+00:00
+# Version: 1.5.6-20200829-5
+# TimeUpdated: 2020-08-29T15:02:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22054
+# Total: 22056
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5190,6 +5190,8 @@ ff02::3 ip6-allhosts
 :: analytics.vanillaforums.com
 0.0.0.0 analytics.vendemore.com
 :: analytics.vendemore.com
+0.0.0.0 analytics.video.meredithcorp.io
+:: analytics.video.meredithcorp.io
 0.0.0.0 analytics.vooxe.com
 :: analytics.vooxe.com
 0.0.0.0 analytics.wanmei.com
@@ -7372,6 +7374,8 @@ ff02::3 ip6-allhosts
 :: bhu9.bankia.es
 0.0.0.0 bhuak.com
 :: bhuak.com
+0.0.0.0 bhyddc.com
+:: bhyddc.com
 0.0.0.0 bi-pipeline-collector.stylight.net
 :: bi-pipeline-collector.stylight.net
 0.0.0.0 bi.manhuaren.com
@@ -8722,8 +8726,6 @@ ff02::3 ip6-allhosts
 :: cdn.mgid.com
 0.0.0.0 cdn.minescripts.info
 :: cdn.minescripts.info
-0.0.0.0 cdn.mingmingtehui.com
-:: cdn.mingmingtehui.com
 0.0.0.0 cdn.moji.com
 :: cdn.moji.com
 0.0.0.0 cdn.moji002.com
@@ -20844,8 +20846,6 @@ ff02::3 ip6-allhosts
 :: krum.vsct.fr
 0.0.0.0 krux.net
 :: krux.net
-0.0.0.0 ks66666661.com
-:: ks66666661.com
 0.0.0.0 ks67.com
 :: ks67.com
 0.0.0.0 kstj.baidu.com
@@ -24808,6 +24808,8 @@ ff02::3 ip6-allhosts
 :: msoftdl.360.cn
 0.0.0.0 msphoneclick.kuwo.cn
 :: msphoneclick.kuwo.cn
+0.0.0.0 mssheng.com
+:: mssheng.com
 0.0.0.0 mssp.baidu.com
 :: mssp.baidu.com
 0.0.0.0 msspjh.emarbox.com
@@ -38256,6 +38258,8 @@ ff02::3 ip6-allhosts
 :: vip2.7huoguo.com
 0.0.0.0 vip2.rwjfs.com
 :: vip2.rwjfs.com
+0.0.0.0 vip3.7huoguo.com
+:: vip3.7huoguo.com
 0.0.0.0 vip5.rwjfs.com
 :: vip5.rwjfs.com
 0.0.0.0 vip6.7huoguo.com
