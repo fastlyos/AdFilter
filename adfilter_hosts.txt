@@ -1,11 +1,11 @@
-# Checksum: MTU5ODc3ODE1NAo=
+# Checksum: MTU5ODc4ODY2NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 # Version: 1.5.6-20200830-3
-# TimeUpdated: 2020-08-30T09:02:34+00:00
+# TimeUpdated: 2020-08-30T11:57:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22078
+# Total: 22087
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4042,6 +4042,8 @@ ff02::3 ip6-allhosts
 :: adv.ccb.com
 0.0.0.0 adv.drtuber.com
 :: adv.drtuber.com
+0.0.0.0 adv.ettoday.net
+:: adv.ettoday.net
 0.0.0.0 adv.fjtv.net
 :: adv.fjtv.net
 0.0.0.0 adv.grtn.cn
@@ -4430,6 +4432,8 @@ ff02::3 ip6-allhosts
 :: aimiyz.com
 0.0.0.0 aimrawwas.site
 :: aimrawwas.site
+0.0.0.0 ainedprospe.club
+:: ainedprospe.club
 0.0.0.0 aio.lp.mydas.mobi
 :: aio.lp.mydas.mobi
 0.0.0.0 aionfavoura.club
@@ -5962,6 +5966,8 @@ ff02::3 ip6-allhosts
 :: ar.i-run.fr
 0.0.0.0 ar.umeng.com
 :: ar.umeng.com
+0.0.0.0 ar.waterserver.cn
+:: ar.waterserver.cn
 0.0.0.0 aralego.com
 :: aralego.com
 0.0.0.0 arana.pw
@@ -12158,6 +12164,8 @@ ff02::3 ip6-allhosts
 :: dcop4khjxsmg.com
 0.0.0.0 dcrzz.com
 :: dcrzz.com
+0.0.0.0 dcs.ettoday.net
+:: dcs.ettoday.net
 0.0.0.0 dctykq.cn
 :: dctykq.cn
 0.0.0.0 dd.iask.cn
@@ -13604,6 +13612,8 @@ ff02::3 ip6-allhosts
 :: e.jdf494.cn
 0.0.0.0 e.jkert.com
 :: e.jkert.com
+0.0.0.0 e.jokfvqm.cn
+:: e.jokfvqm.cn
 0.0.0.0 e.joyxv.com
 :: e.joyxv.com
 0.0.0.0 e.khuoy.com
@@ -14432,6 +14442,8 @@ ff02::3 ip6-allhosts
 :: eo.khbua.xyz
 0.0.0.0 eo.nftqkq.cn
 :: eo.nftqkq.cn
+0.0.0.0 eo.pgqoqv.cn
+:: eo.pgqoqv.cn
 0.0.0.0 eo.qpmue.xyz
 :: eo.qpmue.xyz
 0.0.0.0 eo.rjfkrzwk.cn
@@ -20842,6 +20854,8 @@ ff02::3 ip6-allhosts
 :: kpshx.douguo.com
 0.0.0.0 kpstaticbj.wx.ckjr001.com
 :: kpstaticbj.wx.ckjr001.com
+0.0.0.0 kr.sybspools.com
+:: kr.sybspools.com
 0.0.0.0 krakeshlaja.com
 :: krakeshlaja.com
 0.0.0.0 krb.devphp.org.ua
@@ -22672,6 +22686,8 @@ ff02::3 ip6-allhosts
 :: m.jinhuizhibo.com
 0.0.0.0 m.jkert.com
 :: m.jkert.com
+0.0.0.0 m.jokfvqm.cn
+:: m.jokfvqm.cn
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
 0.0.0.0 m.julitenj.com
@@ -24374,6 +24390,8 @@ ff02::3 ip6-allhosts
 :: mo.moonpig.com
 0.0.0.0 mo.mptckm.cn
 :: mo.mptckm.cn
+0.0.0.0 mo.pgqoqv.cn
+:: mo.pgqoqv.cn
 0.0.0.0 mo.qb138.cn
 :: mo.qb138.cn
 0.0.0.0 mo.qpmue.xyz
@@ -36776,6 +36794,8 @@ ff02::3 ip6-allhosts
 :: truesweb.com
 0.0.0.0 trustutn.org
 :: trustutn.org
+0.0.0.0 trvdp.com
+:: trvdp.com
 0.0.0.0 trx.smdatalabs.com
 :: trx.smdatalabs.com
 0.0.0.0 trytipemo.com
@@ -42872,8 +42892,6 @@ ff02::3 ip6-allhosts
 :: xxbj.sctnkw.cn
 0.0.0.0 xxccdshj.com
 :: xxccdshj.com
-0.0.0.0 xxdongfa.com
-:: xxdongfa.com
 0.0.0.0 xxeden.com
 :: xxeden.com
 0.0.0.0 xxkhh.com
