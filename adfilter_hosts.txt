@@ -1,11 +1,11 @@
-# Checksum: MTU5ODc0NjQ0NQo=
+# Checksum: MTU5ODc1NjU5OQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200830-0
-# TimeUpdated: 2020-08-30T00:14:05+00:00
+# Version: 1.5.6-20200830-1
+# TimeUpdated: 2020-08-30T03:03:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22061
+# Total: 22063
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2018,8 +2018,6 @@ ff02::3 ip6-allhosts
 :: a.mobify.com
 0.0.0.0 a.n8n7.me
 :: a.n8n7.me
-0.0.0.0 a.nanhuwang.com
-:: a.nanhuwang.com
 0.0.0.0 a.nowscore.com
 :: a.nowscore.com
 0.0.0.0 a.o2u.jp
@@ -7330,6 +7328,8 @@ ff02::3 ip6-allhosts
 :: bewaslac.com
 0.0.0.0 bewaycare.com
 :: bewaycare.com
+0.0.0.0 bewhoyouare.gq
+:: bewhoyouare.gq
 0.0.0.0 bfdcdn.com
 :: bfdcdn.com
 0.0.0.0 bfgg365.com
@@ -7802,6 +7802,8 @@ ff02::3 ip6-allhosts
 :: broughlystra.club
 0.0.0.0 browser-updater.yandex.net
 :: browser-updater.yandex.net
+0.0.0.0 browser.sentry-cdn.com
+:: browser.sentry-cdn.com
 0.0.0.0 browserkernel.baidu.com
 :: browserkernel.baidu.com
 0.0.0.0 browsermine.12finance.com
@@ -8342,8 +8344,6 @@ ff02::3 ip6-allhosts
 :: caclick.baidu.com
 0.0.0.0 cad.chosun.com
 :: cad.chosun.com
-0.0.0.0 cad.donga.com
-:: cad.donga.com
 0.0.0.0 cadfixbig.site
 :: cadfixbig.site
 0.0.0.0 cadreon.s3.amazonaws.com
@@ -9836,8 +9836,6 @@ ff02::3 ip6-allhosts
 :: cnzz.mmstat.com
 0.0.0.0 co.dtech.baofeng.com
 :: co.dtech.baofeng.com
-0.0.0.0 co.hltv.org
-:: co.hltv.org
 0.0.0.0 cobdieink.com
 :: cobdieink.com
 0.0.0.0 cocoafortunately.com
@@ -11804,8 +11802,6 @@ ff02::3 ip6-allhosts
 :: d8360.com
 0.0.0.0 d8885.com
 :: d8885.com
-0.0.0.0 d8ekco.com
-:: d8ekco.com
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 :: d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9.sina.com.cn
@@ -12942,6 +12938,8 @@ ff02::3 ip6-allhosts
 :: domob.cn
 0.0.0.0 domob.com.cn
 :: domob.com.cn
+0.0.0.0 domparce.pro
+:: domparce.pro
 0.0.0.0 donate.crypto-webminer.com
 :: donate.crypto-webminer.com
 0.0.0.0 donconferen.site
@@ -15686,6 +15684,8 @@ ff02::3 ip6-allhosts
 :: freecontent.com
 0.0.0.0 freecontent.date
 :: freecontent.date
+0.0.0.0 freecontent.info
+:: freecontent.info
 0.0.0.0 freecontent.net
 :: freecontent.net
 0.0.0.0 freecontent.stream
@@ -19180,6 +19180,8 @@ ff02::3 ip6-allhosts
 :: inte.theta.sogoucdn.com
 0.0.0.0 integration.sharethrough.com
 :: integration.sharethrough.com
+0.0.0.0 intellecthosting.net
+:: intellecthosting.net
 0.0.0.0 intelli.ageuk.org.uk
 :: intelli.ageuk.org.uk
 0.0.0.0 intelligenceadx.com
@@ -20714,6 +20716,8 @@ ff02::3 ip6-allhosts
 :: kissioncault.club
 0.0.0.0 kitchen.juicer.cc
 :: kitchen.juicer.cc
+0.0.0.0 kitchenfurniture.cc
+:: kitchenfurniture.cc
 0.0.0.0 kitrigthy.com
 :: kitrigthy.com
 0.0.0.0 kiwihk.net
@@ -24542,6 +24546,8 @@ ff02::3 ip6-allhosts
 :: monero.how
 0.0.0.0 monero.monerise.com
 :: monero.monerise.com
+0.0.0.0 monerominer.ro
+:: monerominer.ro
 0.0.0.0 monerominer.rocks
 :: monerominer.rocks
 0.0.0.0 moneroocean.stream
@@ -26300,6 +26306,8 @@ ff02::3 ip6-allhosts
 :: optout.crsspxl.com
 0.0.0.0 opus.analytics.yahoo.com
 :: opus.analytics.yahoo.com
+0.0.0.0 orarbeatrem.club
+:: orarbeatrem.club
 0.0.0.0 oratedencourse.info
 :: oratedencourse.info
 0.0.0.0 oratorsresente.info
@@ -28736,6 +28744,8 @@ ff02::3 ip6-allhosts
 :: qingqu.la
 0.0.0.0 qingzhencai.net
 :: qingzhencai.net
+0.0.0.0 qinqiaotrade.com
+:: qinqiaotrade.com
 0.0.0.0 qipskd.cn
 :: qipskd.cn
 0.0.0.0 qiqivv.com
@@ -31844,8 +31854,6 @@ ff02::3 ip6-allhosts
 :: shauthou.net
 0.0.0.0 shaxiq.com
 :: shaxiq.com
-0.0.0.0 she-ke.cn
-:: she-ke.cn
 0.0.0.0 sheechoa.com
 :: sheechoa.com
 0.0.0.0 shefficera.club
@@ -35676,8 +35684,6 @@ ff02::3 ip6-allhosts
 :: toeapesob.com
 0.0.0.0 tofufiresquid.com
 :: tofufiresquid.com
-0.0.0.0 toissue.cn
-:: toissue.cn
 0.0.0.0 token.rubiconproject.com
 :: token.rubiconproject.com
 0.0.0.0 tom.allyes.com
@@ -37162,6 +37168,8 @@ ff02::3 ip6-allhosts
 :: ueaeqqi.cn
 0.0.0.0 uebadu.com
 :: uebadu.com
+0.0.0.0 uebawtz7.me
+:: uebawtz7.me
 0.0.0.0 uedas.qdmm.com
 :: uedas.qdmm.com
 0.0.0.0 uedas.qidian.com
@@ -37556,6 +37564,8 @@ ff02::3 ip6-allhosts
 :: ureresponsbrit.club
 0.0.0.0 ureticrelingse.top
 :: ureticrelingse.top
+0.0.0.0 urgeousimp.club
+:: urgeousimp.club
 0.0.0.0 urgwritishimpos.info
 :: urgwritishimpos.info
 0.0.0.0 urh.tylll.com
@@ -38482,8 +38492,6 @@ ff02::3 ip6-allhosts
 :: vuuwd.com
 0.0.0.0 vv.ricardo.ch
 :: vv.ricardo.ch
-0.0.0.0 vv1.pyhfxdm.cn
-:: vv1.pyhfxdm.cn
 0.0.0.0 vv84.bj.bcebos.com
 :: vv84.bj.bcebos.com
 0.0.0.0 vvlian.com
@@ -39930,8 +39938,6 @@ ff02::3 ip6-allhosts
 :: ws50.crypto-loot.com
 0.0.0.0 ws7j.com
 :: ws7j.com
-0.0.0.0 wsd.guonongllc.com
-:: wsd.guonongllc.com
 0.0.0.0 wsds.cn
 :: wsds.cn
 0.0.0.0 wsgblw.com
@@ -40572,8 +40578,6 @@ ff02::3 ip6-allhosts
 :: www.chainblock.science
 0.0.0.0 www.chanet.com.cn
 :: www.chanet.com.cn
-0.0.0.0 www.chapesx.site
-:: www.chapesx.site
 0.0.0.0 www.chemdraw.com
 :: www.chemdraw.com
 0.0.0.0 www.chenggao.cn
@@ -41574,8 +41578,6 @@ ff02::3 ip6-allhosts
 :: www.shouyoutan.com
 0.0.0.0 www.shrink-service.it
 :: www.shrink-service.it
-0.0.0.0 www.shuaixu.site
-:: www.shuaixu.site
 0.0.0.0 www.shuqw.com
 :: www.shuqw.com
 0.0.0.0 www.shuzilm.cn
@@ -43558,6 +43560,8 @@ ff02::3 ip6-allhosts
 :: yyhqch.com
 0.0.0.0 yylys.com
 :: yylys.com
+0.0.0.0 yymmsd.cn
+:: yymmsd.cn
 0.0.0.0 yyou360.com
 :: yyou360.com
 0.0.0.0 yyshow.top
