@@ -1,11 +1,11 @@
-# Checksum: MTU5ODczNDk2MAo=
+# Checksum: MTU5ODc0NjQ0NQo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200829-7
-# TimeUpdated: 2020-08-29T21:02:40+00:00
+# Version: 1.5.6-20200830-0
+# TimeUpdated: 2020-08-30T00:14:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22062
+# Total: 22061
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -412,8 +412,6 @@ ff02::3 ip6-allhosts
 :: 123ppk.com
 0.0.0.0 1244.chushoushijian.cn
 :: 1244.chushoushijian.cn
-0.0.0.0 1276.adsina.allyes.com
-:: 1276.adsina.allyes.com
 0.0.0.0 12bt.info
 :: 12bt.info
 0.0.0.0 12cdee5830.com
@@ -4310,8 +4308,6 @@ ff02::3 ip6-allhosts
 :: ag.qq.com
 0.0.0.0 ag1.zuszw.com
 :: ag1.zuszw.com
-0.0.0.0 aganj.com
-:: aganj.com
 0.0.0.0 agd.p.360.cn
 :: agd.p.360.cn
 0.0.0.0 agd2.p.360.cn
@@ -5356,8 +5352,6 @@ ff02::3 ip6-allhosts
 :: ao-freegeoip.herokuapp.com
 0.0.0.0 aobde.com
 :: aobde.com
-0.0.0.0 aombjl099.com
-:: aombjl099.com
 0.0.0.0 aomde.com
 :: aomde.com
 0.0.0.0 aomeng.net
@@ -9090,8 +9084,6 @@ ff02::3 ip6-allhosts
 :: chidir.com
 0.0.0.0 chieving.club
 :: chieving.club
-0.0.0.0 china-pengdu.cn
-:: china-pengdu.cn
 0.0.0.0 china-waters.com.cn
 :: china-waters.com.cn
 0.0.0.0 china.gzxxty168.com
@@ -11812,6 +11804,8 @@ ff02::3 ip6-allhosts
 :: d8360.com
 0.0.0.0 d8885.com
 :: d8885.com
+0.0.0.0 d8ekco.com
+:: d8ekco.com
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 :: d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9.sina.com.cn
@@ -40848,6 +40842,8 @@ ff02::3 ip6-allhosts
 :: www.freebitco.in
 0.0.0.0 www.freecontent.bid
 :: www.freecontent.bid
+0.0.0.0 www.freecontent.com
+:: www.freecontent.com
 0.0.0.0 www.freecontent.date
 :: www.freecontent.date
 0.0.0.0 www.freecontent.net
@@ -42352,6 +42348,8 @@ ff02::3 ip6-allhosts
 :: xcdf.cn
 0.0.0.0 xcdzsw.com
 :: xcdzsw.com
+0.0.0.0 xchmai.com
+:: xchmai.com
 0.0.0.0 xcjy876.com
 :: xcjy876.com
 0.0.0.0 xco.qwxcs.com
