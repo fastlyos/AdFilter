@@ -1,11 +1,11 @@
-# Checksum: MTU5ODc2NzM3MAo=
+# Checksum: MTU5ODc3ODE1NAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200830-2
-# TimeUpdated: 2020-08-30T06:02:50+00:00
+# Version: 1.5.6-20200830-3
+# TimeUpdated: 2020-08-30T09:02:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22072
+# Total: 22078
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -686,6 +686,8 @@ ff02::3 ip6-allhosts
 :: 268mob.cn
 0.0.0.0 26gg.bnq86.com
 :: 26gg.bnq86.com
+0.0.0.0 2725.dlads.cn
+:: 2725.dlads.cn
 0.0.0.0 272829.cc
 :: 272829.cc
 0.0.0.0 272xb.com
@@ -1038,6 +1040,8 @@ ff02::3 ip6-allhosts
 :: 5151ad.com
 0.0.0.0 516fanli.com
 :: 516fanli.com
+0.0.0.0 517heiya.com
+:: 517heiya.com
 0.0.0.0 517m.cn
 :: 517m.cn
 0.0.0.0 517pn6he9p5r.com
@@ -11036,8 +11040,6 @@ ff02::3 ip6-allhosts
 :: cwpush.com
 0.0.0.0 cws-cctv.conviva.com
 :: cws-cctv.conviva.com
-0.0.0.0 cws.conviva.com
-:: cws.conviva.com
 0.0.0.0 cwx.lianwangtech.com
 :: cwx.lianwangtech.com
 0.0.0.0 cx.atdmt.com
@@ -12126,8 +12128,6 @@ ff02::3 ip6-allhosts
 :: dc.webtrends.com
 0.0.0.0 dc1.networkbench.com
 :: dc1.networkbench.com
-0.0.0.0 dc3c87c212.com
-:: dc3c87c212.com
 0.0.0.0 dc5k8fg5ioc8s.cloudfront.net
 :: dc5k8fg5ioc8s.cloudfront.net
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
@@ -20494,6 +20494,8 @@ ff02::3 ip6-allhosts
 :: k.innvitor.com
 0.0.0.0 k.intellitxt.com
 :: k.intellitxt.com
+0.0.0.0 k.jinxiuzhilv.com
+:: k.jinxiuzhilv.com
 0.0.0.0 k.jjhaolin.com
 :: k.jjhaolin.com
 0.0.0.0 k.kksgl.top
@@ -25664,6 +25666,8 @@ ff02::3 ip6-allhosts
 :: noiselessplough.com
 0.0.0.0 nol.yahoo.com
 :: nol.yahoo.com
+0.0.0.0 nonerr.com
+:: nonerr.com
 0.0.0.0 nongsalei.com
 :: nongsalei.com
 0.0.0.0 noqj1iz4u28t.com
@@ -25880,6 +25884,8 @@ ff02::3 ip6-allhosts
 :: nyhnx.com
 0.0.0.0 nykps.com
 :: nykps.com
+0.0.0.0 nyshoptara.pro
+:: nyshoptara.pro
 0.0.0.0 nyshoweverislat.fun
 :: nyshoweverislat.fun
 0.0.0.0 nz04com.com
@@ -25914,6 +25920,8 @@ ff02::3 ip6-allhosts
 :: o2omobi.com
 0.0.0.0 o4uxrk33.com
 :: o4uxrk33.com
+0.0.0.0 o626b32etkg6.com
+:: o626b32etkg6.com
 0.0.0.0 o6uea.cn
 :: o6uea.cn
 0.0.0.0 o7xs6runw.bkt.clouddn.com
@@ -27330,8 +27338,6 @@ ff02::3 ip6-allhosts
 :: pingping888.com
 0.0.0.0 pings.blip.tv
 :: pings.blip.tv
-0.0.0.0 pings.conviva.com
-:: pings.conviva.com
 0.0.0.0 pings.vidpulse.com
 :: pings.vidpulse.com
 0.0.0.0 pingtas.qq.com
@@ -32026,6 +32032,8 @@ ff02::3 ip6-allhosts
 :: shzzzz.dftoutiao.com
 0.0.0.0 si9377.com
 :: si9377.com
+0.0.0.0 sibilantcliffrecommendation.com
+:: sibilantcliffrecommendation.com
 0.0.0.0 sickrage.ca
 :: sickrage.ca
 0.0.0.0 sidebar.issuu.com
@@ -42236,6 +42244,8 @@ ff02::3 ip6-allhosts
 :: wywsdx.com
 0.0.0.0 wyxcb1.top
 :: wyxcb1.top
+0.0.0.0 wyxcb3.top
+:: wyxcb3.top
 0.0.0.0 wyzq.rehuwang.com
 :: wyzq.rehuwang.com
 0.0.0.0 wz.37wan.com
@@ -42862,6 +42872,8 @@ ff02::3 ip6-allhosts
 :: xxbj.sctnkw.cn
 0.0.0.0 xxccdshj.com
 :: xxccdshj.com
+0.0.0.0 xxdongfa.com
+:: xxdongfa.com
 0.0.0.0 xxeden.com
 :: xxeden.com
 0.0.0.0 xxkhh.com
