@@ -1,8 +1,8 @@
-# Checksum: MTU5ODc4OTA5OQo=
+# Checksum: MTU5ODc5MzE1Mgo=
 # Title: Zhijie's Ad Filter for Surge
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
 # Version: 1.5.6-20200830-4
-# TimeUpdated: 2020-08-30T12:04:59+00:00
+# TimeUpdated: 2020-08-30T13:12:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 22088
@@ -1367,7 +1367,6 @@ DOMAIN-SUFFIX,ad.egou.com
 DOMAIN-SUFFIX,ad.endpo.in
 DOMAIN-SUFFIX,ad.epochtimes.com
 DOMAIN-SUFFIX,ad.eporner.com
-DOMAIN-SUFFIX,ad.ettoday.net
 DOMAIN-SUFFIX,ad.flipboard.com
 DOMAIN-SUFFIX,ad.flurry.com
 DOMAIN-SUFFIX,ad.flux.com
@@ -2761,6 +2760,7 @@ DOMAIN-SUFFIX,api.doumob.com
 DOMAIN-SUFFIX,api.dsp.yhd.com
 DOMAIN-SUFFIX,api.e-cg.cn
 DOMAIN-SUFFIX,api.e.mi.com
+DOMAIN-SUFFIX,api.ettoday.net
 DOMAIN-SUFFIX,api.exc.mob.com
 DOMAIN-SUFFIX,api.game.letvstore.com
 DOMAIN-SUFFIX,api.gameanalytics.com
