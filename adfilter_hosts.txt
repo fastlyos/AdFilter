@@ -1,11 +1,11 @@
-# Checksum: MTU5ODg4NjIzMwo=
+# Checksum: MTU5ODg5NzAzMwo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200831-5
-# TimeUpdated: 2020-08-31T15:03:53+00:00
+# Version: 1.5.6-20200831-6
+# TimeUpdated: 2020-08-31T18:03:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22107
+# Total: 22111
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7428,6 +7428,8 @@ ff02::3 ip6-allhosts
 :: bigdata.advmob.cn
 0.0.0.0 bigmobileads.com
 :: bigmobileads.com
+0.0.0.0 bilkscotpyx.com
+:: bilkscotpyx.com
 0.0.0.0 bill.agent.56.com
 :: bill.agent.56.com
 0.0.0.0 bill.agent.v-56.com
@@ -22112,6 +22114,8 @@ ff02::3 ip6-allhosts
 :: ls.srvcs.tumblr.com
 0.0.0.0 ls9x.pk965.com
 :: ls9x.pk965.com
+0.0.0.0 lsailington.club
+:: lsailington.club
 0.0.0.0 lsiwd.cn
 :: lsiwd.cn
 0.0.0.0 lskwsx.m.zwdu.com
@@ -27944,6 +27948,8 @@ ff02::3 ip6-allhosts
 :: poyang.com
 0.0.0.0 pp.lbsjrw.cn
 :: pp.lbsjrw.cn
+0.0.0.0 pp.teksty-pesenok.ru
+:: pp.teksty-pesenok.ru
 0.0.0.0 pp.wayqq.com
 :: pp.wayqq.com
 0.0.0.0 pp2.dhzw.org
@@ -39194,6 +39200,8 @@ ff02::3 ip6-allhosts
 :: whetherecyclo.fun
 0.0.0.0 whfpbc.99.com.cn
 :: whfpbc.99.com.cn
+0.0.0.0 whicherinc.club
+:: whicherinc.club
 0.0.0.0 whistleout.s3.amazonaws.com
 :: whistleout.s3.amazonaws.com
 0.0.0.0 whitective.club
