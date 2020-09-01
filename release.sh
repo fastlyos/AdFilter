@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.5.8
+# Current Version: 1.5.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -207,7 +207,7 @@ function OutputData() {
             echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
             echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
             echo "DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
-            echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
+            echo "local-zone: \"${filter_data[$filter_data_task]}\" always_nxdomain" >> ../adfilter_unbound.conf
         done
         cd .. && rm -rf ./Temp
         exit 0
@@ -227,7 +227,7 @@ function OutputData() {
                 echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
                 echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
                 echo "DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
-                echo "local-zone: \"${filter_data[$filter_data_task]}.\" redirect" >> ../adfilter_unbound.conf
+                echo "local-zone: \"${filter_data[$filter_data_task]}\" always_nxdomain" >> ../adfilter_unbound.conf
             done
             cd .. && rm -rf ./Temp
             exit 0
