@@ -1,11 +1,11 @@
-# Checksum: MTU5ODkyOTQxMQo=
+# Checksum: MTU5ODk0MDI0OAo=
 # Title: Zhijie's Ad Filter for AdAway
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.5.6-20200901-1
-# TimeUpdated: 2020-09-01T03:03:31+00:00
+# Version: 1.5.6-20200901-2
+# TimeUpdated: 2020-09-01T06:04:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22114
+# Total: 22116
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7418,6 +7418,8 @@ ff02::3 ip6-allhosts
 :: bidtheatre.com
 0.0.0.0 bidvertiser.com
 :: bidvertiser.com
+0.0.0.0 bigcooc.xyz
+:: bigcooc.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -7594,6 +7596,8 @@ ff02::3 ip6-allhosts
 :: blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
 :: blogad02.myweb.hinet.net
+0.0.0.0 blogdaka.cc
+:: blogdaka.cc
 0.0.0.0 bloggerads.net
 :: bloggerads.net
 0.0.0.0 bloglife24.com
@@ -19022,6 +19026,8 @@ ff02::3 ip6-allhosts
 :: imymobi.com
 0.0.0.0 in.cuebiq.com
 :: in.cuebiq.com
+0.0.0.0 in.hystq.com
+:: in.hystq.com
 0.0.0.0 in.jghcy.com
 :: in.jghcy.com
 0.0.0.0 in.jinlubaojie.cn
@@ -22070,8 +22076,6 @@ ff02::3 ip6-allhosts
 :: lousivency.com.cn
 0.0.0.0 love.chushoushijian.cn
 :: love.chushoushijian.cn
-0.0.0.0 loveconer.com
-:: loveconer.com
 0.0.0.0 lovestyl.com
 :: lovestyl.com
 0.0.0.0 lovfp.com
@@ -23408,8 +23412,6 @@ ff02::3 ip6-allhosts
 :: mar.vip.com
 0.0.0.0 marchites.club
 :: marchites.club
-0.0.0.0 mariuspetrescu.gq
-:: mariuspetrescu.gq
 0.0.0.0 mark.isbank.com.tr
 :: mark.isbank.com.tr
 0.0.0.0 market.178.com
@@ -39164,8 +39166,6 @@ ff02::3 ip6-allhosts
 :: wgf.ioahdio.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -40212,6 +40212,8 @@ ff02::3 ip6-allhosts
 :: ww9.onetad.com
 0.0.0.0 wwclicknews.club
 :: wwclicknews.club
+0.0.0.0 wwlolbs.com
+:: wwlolbs.com
 0.0.0.0 wwv.onetad.com
 :: wwv.onetad.com
 0.0.0.0 www-google-analytics.l.google.com
@@ -43928,6 +43930,8 @@ ff02::3 ip6-allhosts
 :: zhjfad.com
 0.0.0.0 zhlala.com
 :: zhlala.com
+0.0.0.0 zhmatou.com
+:: zhmatou.com
 0.0.0.0 zhongchouyan.com
 :: zhongchouyan.com
 0.0.0.0 zhongdoulicai.com
