@@ -1,11 +1,11 @@
-# Checksum: MTU5OTA1OTAyNAo=
+# Checksum: MTU5OTA2OTg2NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200902-5
-# TimeUpdated: 2020-09-02T15:03:44+00:00
+# Version: 1.6.1-20200902-6
+# TimeUpdated: 2020-09-02T18:04:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33524
+# Total: 33523
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10826,6 +10826,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -12506,8 +12508,6 @@ ff02::3 ip6-allhosts
 :: btbuckets.com
 0.0.0.0 btbuigpxge.com
 :: btbuigpxge.com
-0.0.0.0 btemegxbnalq.com
-:: btemegxbnalq.com
 0.0.0.0 btmp4.net
 :: btmp4.net
 0.0.0.0 btn.clickability.com
@@ -14412,8 +14412,6 @@ ff02::3 ip6-allhosts
 :: chinahdcm.com
 0.0.0.0 chinaheh.com
 :: chinaheh.com
-0.0.0.0 chinaqirun.cn
-:: chinaqirun.cn
 0.0.0.0 chinauma.net
 :: chinauma.net
 0.0.0.0 chinaweian.com
@@ -51406,6 +51404,8 @@ ff02::3 ip6-allhosts
 :: spr.bild.de
 0.0.0.0 spr.welt.de
 :: spr.welt.de
+0.0.0.0 spredomk.club
+:: spredomk.club
 0.0.0.0 spring-tns.net
 :: spring-tns.net
 0.0.0.0 spring.de
@@ -60682,8 +60682,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
