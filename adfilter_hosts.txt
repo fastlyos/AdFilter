@@ -1,11 +1,11 @@
-# Checksum: MTU5OTAxNTc0NQo=
+# Checksum: MTU5OTAyNjYzNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200902-1
-# TimeUpdated: 2020-09-02T03:02:25+00:00
+# Version: 1.6.1-20200902-2
+# TimeUpdated: 2020-09-02T06:03:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33512
+# Total: 33506
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -756,8 +756,6 @@ ff02::3 ip6-allhosts
 :: 1pel.com
 0.0.0.0 1phads.com
 :: 1phads.com
-0.0.0.0 1q2w3.top
-:: 1q2w3.top
 0.0.0.0 1q2w3.website
 :: 1q2w3.website
 0.0.0.0 1rkcd8exld.monster
@@ -10184,8 +10182,6 @@ ff02::3 ip6-allhosts
 :: b07f916388fc6e06847.com
 0.0.0.0 b0d3ea12ec1b93f7af9.com
 :: b0d3ea12ec1b93f7af9.com
-0.0.0.0 b0d8374c73dc.com
-:: b0d8374c73dc.com
 0.0.0.0 b0e8.com
 :: b0e8.com
 0.0.0.0 b0lc.cn
@@ -10762,8 +10758,6 @@ ff02::3 ip6-allhosts
 :: bc.qunar.com
 0.0.0.0 bc0a.com
 :: bc0a.com
-0.0.0.0 bc5275dd50.com
-:: bc5275dd50.com
 0.0.0.0 bcash4you.com
 :: bcash4you.com
 0.0.0.0 bcfeedback.taobao.com
@@ -11804,6 +11798,8 @@ ff02::3 ip6-allhosts
 :: bjgtsh.com
 0.0.0.0 bjhjw.com.cn
 :: bjhjw.com.cn
+0.0.0.0 bjhuhangjy.com
+:: bjhuhangjy.com
 0.0.0.0 bjlmok.com
 :: bjlmok.com
 0.0.0.0 bjqftcty.com
@@ -13114,8 +13110,6 @@ ff02::3 ip6-allhosts
 :: c4698cd6aed0dcef367.com
 0.0.0.0 c4dv.copinesdevoyage.com
 :: c4dv.copinesdevoyage.com
-0.0.0.0 c4ee4adf928.com
-:: c4ee4adf928.com
 0.0.0.0 c4tracking01.com
 :: c4tracking01.com
 0.0.0.0 c50021876c67fd14.com
@@ -23604,6 +23598,8 @@ ff02::3 ip6-allhosts
 :: fenedcarrago.club
 0.0.0.0 fengbuy.com
 :: fengbuy.com
+0.0.0.0 fenggejiaju.com
+:: fenggejiaju.com
 0.0.0.0 fengxiangstore.com
 :: fengxiangstore.com
 0.0.0.0 fengying5.com
@@ -27548,8 +27544,6 @@ ff02::3 ip6-allhosts
 :: hipals.com
 0.0.0.0 hiperstat.com
 :: hiperstat.com
-0.0.0.0 hipersushiads.com
-:: hipersushiads.com
 0.0.0.0 hipfowlzeal.cam
 :: hipfowlzeal.cam
 0.0.0.0 hiprofitnetworks.com
@@ -34178,8 +34172,6 @@ ff02::3 ip6-allhosts
 :: logs.amap.com
 0.0.0.0 logs.chelaile.net.cn
 :: logs.chelaile.net.cn
-0.0.0.0 logs.cnfol.com
-:: logs.cnfol.com
 0.0.0.0 logs.dashlane.com
 :: logs.dashlane.com
 0.0.0.0 logs.gaana.com
@@ -34922,8 +34914,6 @@ ff02::3 ip6-allhosts
 :: m.data.mob.com
 0.0.0.0 m.dbaof.com
 :: m.dbaof.com
-0.0.0.0 m.dbiei.com
-:: m.dbiei.com
 0.0.0.0 m.dgaoz.com
 :: m.dgaoz.com
 0.0.0.0 m.dian6.cn
@@ -35070,8 +35060,6 @@ ff02::3 ip6-allhosts
 :: m.hf355.cn
 0.0.0.0 m.hhinternational.cn
 :: m.hhinternational.cn
-0.0.0.0 m.hhllyt.com
-:: m.hhllyt.com
 0.0.0.0 m.hissq.com
 :: m.hissq.com
 0.0.0.0 m.hjues.com
@@ -35442,8 +35430,6 @@ ff02::3 ip6-allhosts
 :: m.vpadn.com
 0.0.0.0 m.vpon.com
 :: m.vpon.com
-0.0.0.0 m.w1xj0.cn
-:: m.w1xj0.cn
 0.0.0.0 m.wbanv.com
 :: m.wbanv.com
 0.0.0.0 m.wbiev.com
@@ -35548,8 +35534,6 @@ ff02::3 ip6-allhosts
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
-0.0.0.0 m.yplzarxt.cn
-:: m.yplzarxt.cn
 0.0.0.0 m.ysdhe.com
 :: m.ysdhe.com
 0.0.0.0 m.ysgsq.cn
@@ -45572,6 +45556,8 @@ ff02::3 ip6-allhosts
 :: rainwealth.com
 0.0.0.0 raiphupi.com
 :: raiphupi.com
+0.0.0.0 raisingglisten.com
+:: raisingglisten.com
 0.0.0.0 raivikod.net
 :: raivikod.net
 0.0.0.0 rakdtijwj.com
@@ -45820,6 +45806,8 @@ ff02::3 ip6-allhosts
 :: rdi.criteo.com
 0.0.0.0 rdingperhan.site
 :: rdingperhan.site
+0.0.0.0 rdingsalm.club
+:: rdingsalm.club
 0.0.0.0 rdiqt.cn
 :: rdiqt.cn
 0.0.0.0 rdiul.com
