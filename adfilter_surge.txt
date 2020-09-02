@@ -1,11 +1,11 @@
-# Checksum: MTU5OTAxMzM5Mwo=
-# Title: Zhijie's Ad Filter for Surge
+# Checksum: MTU5OTAxNTc0NQo=
+# Title: Zhijie's Ad Filter for Surge (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.0-20200902-0
-# TimeUpdated: 2020-09-02T02:23:13+00:00
+# Version: 1.6.1-20200902-1
+# TimeUpdated: 2020-09-02T03:02:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33510
+# Total: 33512
 DOMAIN,0.r.msn.com
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,001.0x1f4b0.com
@@ -2384,6 +2384,7 @@ DOMAIN,adgeo.163.com
 DOMAIN,adgitize.com
 DOMAIN,adglaze.com
 DOMAIN,adgoi.com
+DOMAIN,adgoi.mobi
 DOMAIN,adgoji.com
 DOMAIN,adgomob.com
 DOMAIN,adgorithms.com
@@ -8540,6 +8541,7 @@ DOMAIN,cre-dp.sina.cn
 DOMAIN,cre.dp.sina.cn
 DOMAIN,cre.mix.sina.com.cn
 DOMAIN,cre99.com
+DOMAIN,creasureeffe.club
 DOMAIN,creatchristorisalmos.info
 DOMAIN,create2fear.com
 DOMAIN,creathere.club
