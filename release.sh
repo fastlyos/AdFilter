@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.5.9
+# Current Version: 1.6.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -200,7 +200,7 @@ function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
         GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
-            echo "||${filter_data[$filter_data_task]}" >> ../adfilter_adblock.txt
+            echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
             echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
             echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
             echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
@@ -220,7 +220,7 @@ function OutputData() {
         else
             GenerateInformation
             for filter_data_task in "${!filter_data[@]}"; do
-                echo "||${filter_data[$filter_data_task]}" >> ../adfilter_adblock.txt
+                echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
                 echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
                 echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
                 echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
