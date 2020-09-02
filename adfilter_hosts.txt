@@ -1,11 +1,11 @@
-# Checksum: MTU5OTAyNjYzNwo=
+# Checksum: MTU5OTAzNzQyNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200902-2
-# TimeUpdated: 2020-09-02T06:03:57+00:00
+# Version: 1.6.1-20200902-3
+# TimeUpdated: 2020-09-02T09:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33506
+# Total: 33513
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -17304,6 +17304,8 @@ ff02::3 ip6-allhosts
 :: cssrvsync.com
 0.0.0.0 cstmedia.com.cn
 :: cstmedia.com.cn
+0.0.0.0 csxjys.com
+:: csxjys.com
 0.0.0.0 csxsyp.cn
 :: csxsyp.cn
 0.0.0.0 cszlks.com
@@ -19370,6 +19372,8 @@ ff02::3 ip6-allhosts
 :: diamondtraff.com
 0.0.0.0 dian5000.com
 :: dian5000.com
+0.0.0.0 diangezan.me
+:: diangezan.me
 0.0.0.0 dianjoy.com
 :: dianjoy.com
 0.0.0.0 dianomi.com
@@ -22104,6 +22108,8 @@ ff02::3 ip6-allhosts
 :: entstronicsform.info
 0.0.0.0 entualagreetsd.info
 :: entualagreetsd.info
+0.0.0.0 entysaturesc.space
+:: entysaturesc.space
 0.0.0.0 enumerfavo.club
 :: enumerfavo.club
 0.0.0.0 enviousshape.com
@@ -31808,6 +31814,8 @@ ff02::3 ip6-allhosts
 :: jwhfn.cn
 0.0.0.0 jwmstats.com
 :: jwmstats.com
+0.0.0.0 jwofadcwpocm.com
+:: jwofadcwpocm.com
 0.0.0.0 jwplayer.space
 :: jwplayer.space
 0.0.0.0 jwvwak1a.com
@@ -38864,6 +38872,8 @@ ff02::3 ip6-allhosts
 :: ndardsgreatm.fun
 0.0.0.0 nddmcconmqsy.ru
 :: nddmcconmqsy.ru
+0.0.0.0 ndecpynmkwqjz.com
+:: ndecpynmkwqjz.com
 0.0.0.0 ndenlende.club
 :: ndenlende.club
 0.0.0.0 ndersotherei.site
@@ -40586,6 +40596,8 @@ ff02::3 ip6-allhosts
 :: onclicktop.com
 0.0.0.0 onclkds.com
 :: onclkds.com
+0.0.0.0 ondayswr.club
+:: ondayswr.club
 0.0.0.0 ondu.ru
 :: ondu.ru
 0.0.0.0 oneapm.com
@@ -50378,6 +50390,8 @@ ff02::3 ip6-allhosts
 :: slogantrend.de
 0.0.0.0 sloi1.com
 :: sloi1.com
+0.0.0.0 slomgvyfd.com
+:: slomgvyfd.com
 0.0.0.0 slopeaota.com
 :: slopeaota.com
 0.0.0.0 slot.union.ucweb.com
@@ -57622,6 +57636,8 @@ ff02::3 ip6-allhosts
 :: ucsec.ucweb.com
 0.0.0.0 ucsec1.ucweb.com
 :: ucsec1.ucweb.com
+0.0.0.0 ucsmqq.site
+:: ucsmqq.site
 0.0.0.0 ucstatic.cn
 :: ucstatic.cn
 0.0.0.0 uctrac.com
@@ -60650,8 +60666,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
