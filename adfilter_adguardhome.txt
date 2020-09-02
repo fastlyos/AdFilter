@@ -1,11 +1,11 @@
-! Checksum: MTU5OTAzNzQyNgo=
+! Checksum: MTU5OTA0ODM2Mwo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.1-20200902-3
-! TimeUpdated: 2020-09-02T09:03:46+00:00
+! Version: 1.6.1-20200902-4
+! TimeUpdated: 2020-09-02T12:06:03+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 33513
+! Total: 33521
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -2292,7 +2292,6 @@
 |adcrowd.com^
 |add.dz19.net^
 |add.mmyuer.com^
-|addabai.com^
 |addaim.com^
 |addata.ku6.com^
 |addbags.com^
@@ -2478,6 +2477,7 @@
 |adlandpro.com^
 |adlatch.com^
 |adlaunch.moji.com^
+|adlaunch.qingting.fm^
 |adlayer.net^
 |adlefee.com^
 |adlegend.com^
@@ -8629,6 +8629,7 @@
 |cs.exposedontape.com^
 |cs.twcczhu.com^
 |cs02-pps-drcn.dbankcdn.com^
+|cs6.cnzz.com^
 |csad.cc^
 |csaimall.com^
 |csalsylqx.com^
@@ -10793,6 +10794,7 @@
 |ee.hx623.cn^
 |ee.k2d98mi.cn^
 |ee.m19ud.cn^
+|ee.mfufanj.cn^
 |ee.shixunwang.net^
 |ee.wh723.cn^
 |ee.wz382.cn^
@@ -15109,6 +15111,7 @@
 |ipcatch.com^
 |ipcheck.blogsys.jp^
 |ipcheck.tmgrup.com.tr^
+|ipchinatelecom.com^
 |ipcount.net^
 |ipdata.co^
 |ipengtai.huanqiu.com^
@@ -20540,6 +20543,9 @@
 |otracking.com^
 |otrwaram.com^
 |otsurvedchange.info^
+|ott.da.mgtv.com^
+|ott2.da.mgtv.com^
+|ott3.da.mgtv.com^
 |ottomdisede.club^
 |otvetus.com^
 |ou188.com^
@@ -26409,6 +26415,7 @@
 |steverariso.fun^
 |stewerdu.net^
 |stg-data-collector.playbuzz.com^
+|stg-data.ads.heytapmobi.com^
 |stg8.com^
 |sthelensstar-gb.sthelensstar.co.uk^
 |stickyadstv.com^
@@ -32910,6 +32917,7 @@
 |ynbojie.com^
 |ynbzxh.com^
 |yndianju.com^
+|ynet.da.mgtv.com^
 |ynfzxh.com^
 |ynjyhm.com^
 |ynopkisq.com^

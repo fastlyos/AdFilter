@@ -1,11 +1,11 @@
-# Checksum: MTU5OTAzNzQyNgo=
+# Checksum: MTU5OTA0ODM2Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200902-3
-# TimeUpdated: 2020-09-02T09:03:46+00:00
+# Version: 1.6.1-20200902-4
+# TimeUpdated: 2020-09-02T12:06:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33513
+# Total: 33521
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4588,8 +4588,6 @@ ff02::3 ip6-allhosts
 :: add.dz19.net
 0.0.0.0 add.mmyuer.com
 :: add.mmyuer.com
-0.0.0.0 addabai.com
-:: addabai.com
 0.0.0.0 addaim.com
 :: addaim.com
 0.0.0.0 addata.ku6.com
@@ -4960,6 +4958,8 @@ ff02::3 ip6-allhosts
 :: adlatch.com
 0.0.0.0 adlaunch.moji.com
 :: adlaunch.moji.com
+0.0.0.0 adlaunch.qingting.fm
+:: adlaunch.qingting.fm
 0.0.0.0 adlayer.net
 :: adlayer.net
 0.0.0.0 adlefee.com
@@ -17262,6 +17262,8 @@ ff02::3 ip6-allhosts
 :: cs.twcczhu.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 :: cs02-pps-drcn.dbankcdn.com
+0.0.0.0 cs6.cnzz.com
+:: cs6.cnzz.com
 0.0.0.0 csad.cc
 :: csad.cc
 0.0.0.0 csaimall.com
@@ -21590,6 +21592,8 @@ ff02::3 ip6-allhosts
 :: ee.k2d98mi.cn
 0.0.0.0 ee.m19ud.cn
 :: ee.m19ud.cn
+0.0.0.0 ee.mfufanj.cn
+:: ee.mfufanj.cn
 0.0.0.0 ee.shixunwang.net
 :: ee.shixunwang.net
 0.0.0.0 ee.wh723.cn
@@ -30222,6 +30226,8 @@ ff02::3 ip6-allhosts
 :: ipcheck.blogsys.jp
 0.0.0.0 ipcheck.tmgrup.com.tr
 :: ipcheck.tmgrup.com.tr
+0.0.0.0 ipchinatelecom.com
+:: ipchinatelecom.com
 0.0.0.0 ipcount.net
 :: ipcount.net
 0.0.0.0 ipdata.co
@@ -41084,6 +41090,12 @@ ff02::3 ip6-allhosts
 :: otrwaram.com
 0.0.0.0 otsurvedchange.info
 :: otsurvedchange.info
+0.0.0.0 ott.da.mgtv.com
+:: ott.da.mgtv.com
+0.0.0.0 ott2.da.mgtv.com
+:: ott2.da.mgtv.com
+0.0.0.0 ott3.da.mgtv.com
+:: ott3.da.mgtv.com
 0.0.0.0 ottomdisede.club
 :: ottomdisede.club
 0.0.0.0 otvetus.com
@@ -52822,6 +52834,8 @@ ff02::3 ip6-allhosts
 :: stewerdu.net
 0.0.0.0 stg-data-collector.playbuzz.com
 :: stg-data-collector.playbuzz.com
+0.0.0.0 stg-data.ads.heytapmobi.com
+:: stg-data.ads.heytapmobi.com
 0.0.0.0 stg8.com
 :: stg8.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
@@ -65824,6 +65838,8 @@ ff02::3 ip6-allhosts
 :: ynbzxh.com
 0.0.0.0 yndianju.com
 :: yndianju.com
+0.0.0.0 ynet.da.mgtv.com
+:: ynet.da.mgtv.com
 0.0.0.0 ynfzxh.com
 :: ynfzxh.com
 0.0.0.0 ynjyhm.com
