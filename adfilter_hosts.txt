@@ -1,11 +1,11 @@
-# Checksum: MTU5OTA0ODM2Mwo=
+# Checksum: MTU5OTA1OTAyNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200902-4
-# TimeUpdated: 2020-09-02T12:06:03+00:00
+# Version: 1.6.1-20200902-5
+# TimeUpdated: 2020-09-02T15:03:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33521
+# Total: 33524
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1638,6 +1638,8 @@ ff02::3 ip6-allhosts
 :: 52aan.cn
 0.0.0.0 52fanyin.com
 :: 52fanyin.com
+0.0.0.0 52homie.cn
+:: 52homie.cn
 0.0.0.0 52kmh.com
 :: 52kmh.com
 0.0.0.0 52kmk.com
@@ -10824,8 +10826,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -14330,8 +14330,6 @@ ff02::3 ip6-allhosts
 :: chaufoox.net
 0.0.0.0 chauksoa.net
 :: chauksoa.net
-0.0.0.0 chaxinyong.net
-:: chaxinyong.net
 0.0.0.0 chdaismlykqep.com
 :: chdaismlykqep.com
 0.0.0.0 che0.com
@@ -17262,8 +17260,6 @@ ff02::3 ip6-allhosts
 :: cs.twcczhu.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 :: cs02-pps-drcn.dbankcdn.com
-0.0.0.0 cs6.cnzz.com
-:: cs6.cnzz.com
 0.0.0.0 csad.cc
 :: csad.cc
 0.0.0.0 csaimall.com
@@ -23064,6 +23060,8 @@ ff02::3 ip6-allhosts
 :: f.aty.sohu.com
 0.0.0.0 f.babayboy.com
 :: f.babayboy.com
+0.0.0.0 f.dianwenwang.com
+:: f.dianwenwang.com
 0.0.0.0 f.doodlemobile.com
 :: f.doodlemobile.com
 0.0.0.0 f.e719.net
@@ -38054,6 +38052,8 @@ ff02::3 ip6-allhosts
 :: mr2cnjuh34jb.com
 0.0.0.0 mr5aqoqlegsp.com
 :: mr5aqoqlegsp.com
+0.0.0.0 mrddz.xyz
+:: mrddz.xyz
 0.0.0.0 mrelko.com
 :: mrelko.com
 0.0.0.0 mrhtltayffbrgv.com
@@ -41048,6 +41048,8 @@ ff02::3 ip6-allhosts
 :: otclick-adv.ru
 0.0.0.0 otentieschoo.site
 :: otentieschoo.site
+0.0.0.0 otesreviou.club
+:: otesreviou.club
 0.0.0.0 otf.msn.com
 :: otf.msn.com
 0.0.0.0 oth.eve.mdt.qq.com
@@ -60680,6 +60682,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -66148,6 +66152,8 @@ ff02::3 ip6-allhosts
 :: yuu360.com
 0.0.0.0 yuxiangrc.com
 :: yuxiangrc.com
+0.0.0.0 yuxiny.com
+:: yuxiny.com
 0.0.0.0 yuyueyang.cn
 :: yuyueyang.cn
 0.0.0.0 yuyxslrprv.com
