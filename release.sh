@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.0
+# Current Version: 1.6.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -117,9 +117,19 @@ function GenerateInformation() {
         echo "! Homepage: ${adfilter_homepage}" >> ../adfilter_adblock.txt
         echo "! Total: ${adfilter_total}" >> ../adfilter_adblock.txt
     }
+    function adfilter_adguardhome() {
+        echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adguardhome.txt
+        echo "! Title: ${adfilter_title} for AdGuard Home (DNS-level)" >> ../adfilter_adguardhome.txt
+        echo "! Description: ${adfilter_description}" >> ../adfilter_adguardhome.txt
+        echo "! Version: ${adfilter_version}" >> ../adfilter_adguardhome.txt
+        echo "! TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_adguardhome.txt
+        echo "! Expires: ${adfilter_expires}" >> ../adfilter_adguardhome.txt
+        echo "! Homepage: ${adfilter_homepage}" >> ../adfilter_adguardhome.txt
+        echo "! Total: ${adfilter_total}" >> ../adfilter_adguardhome.txt
+    }
     function adfilter_dnsmasq() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_dnsmasq.conf
-        echo "# Title: ${adfilter_title} for Dnsmasq" >> ../adfilter_dnsmasq.conf
+        echo "# Title: ${adfilter_title} for Dnsmasq (DNS-level)" >> ../adfilter_dnsmasq.conf
         echo "# Description: ${adfilter_description}" >> ../adfilter_dnsmasq.conf
         echo "# Version: ${adfilter_version}" >> ../adfilter_dnsmasq.conf
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_dnsmasq.conf
@@ -129,7 +139,7 @@ function GenerateInformation() {
     }
     function adfilter_domains() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_domains.txt
-        echo "# Title: ${adfilter_title} for Pi-hole" >> ../adfilter_domains.txt
+        echo "# Title: ${adfilter_title} for Pi-hole (DNS-level)" >> ../adfilter_domains.txt
         echo "# Description: ${adfilter_description}" >> ../adfilter_domains.txt
         echo "# Version: ${adfilter_version}" >> ../adfilter_domains.txt
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_domains.txt
@@ -139,7 +149,7 @@ function GenerateInformation() {
     }
     function adfilter_hosts() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_hosts.txt
-        echo "# Title: ${adfilter_title} for AdAway" >> ../adfilter_hosts.txt
+        echo "# Title: ${adfilter_title} for AdAway (DNS-level)" >> ../adfilter_hosts.txt
         echo "# Description: ${adfilter_description}" >> ../adfilter_hosts.txt
         echo "# Version: ${adfilter_version}" >> ../adfilter_hosts.txt
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_hosts.txt
@@ -159,7 +169,7 @@ function GenerateInformation() {
     }
     function adfilter_smartdns() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_smartdns.conf
-        echo "# Title: ${adfilter_title} for SmartDNS" >> ../adfilter_smartdns.conf
+        echo "# Title: ${adfilter_title} for SmartDNS (DNS-level)" >> ../adfilter_smartdns.conf
         echo "# Description: ${adfilter_description}" >> ../adfilter_smartdns.conf
         echo "# Version: ${adfilter_version}" >> ../adfilter_smartdns.conf
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_smartdns.conf
@@ -169,7 +179,7 @@ function GenerateInformation() {
     }
     function adfilter_surge() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_surge.txt
-        echo "# Title: ${adfilter_title} for Surge" >> ../adfilter_surge.txt
+        echo "# Title: ${adfilter_title} for Surge (DNS-level)" >> ../adfilter_surge.txt
         echo "# Description: ${adfilter_description}" >> ../adfilter_surge.txt
         echo "# Version: ${adfilter_version}" >> ../adfilter_surge.txt
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_surge.txt
@@ -179,7 +189,7 @@ function GenerateInformation() {
     }
     function adfilter_unbound() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_unbound.conf
-        echo "# Title: ${adfilter_title} for Unbound" >> ../adfilter_unbound.conf
+        echo "# Title: ${adfilter_title} for Unbound (DNS-level)" >> ../adfilter_unbound.conf
         echo "# Description: ${adfilter_description}" >> ../adfilter_unbound.conf
         echo "# Version: ${adfilter_version}" >> ../adfilter_unbound.conf
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_unbound.conf
@@ -188,6 +198,7 @@ function GenerateInformation() {
         echo "# Total: ${adfilter_total}" >> ../adfilter_unbound.conf
     }
     adfilter_adblock
+    adfilter_adguardhome
     adfilter_dnsmasq
     adfilter_domains
     adfilter_hosts
@@ -200,7 +211,8 @@ function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
         GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
-            echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+            echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+            echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adguardhome.txt
             echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
             echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
             echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
@@ -220,7 +232,8 @@ function OutputData() {
         else
             GenerateInformation
             for filter_data_task in "${!filter_data[@]}"; do
-                echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+                echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
+                echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adguardhome.txt
                 echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
                 echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
                 echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
