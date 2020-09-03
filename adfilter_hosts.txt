@@ -1,11 +1,11 @@
-# Checksum: MTU5OTExMzA5Mwo=
+# Checksum: MTU5OTEyMzgxOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200903-2
-# TimeUpdated: 2020-09-03T06:04:53+00:00
+# Version: 1.6.1-20200903-3
+# TimeUpdated: 2020-09-03T09:03:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33542
+# Total: 33548
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -19726,6 +19726,8 @@ ff02::3 ip6-allhosts
 :: dl.ops.baidu.com
 0.0.0.0 dl.show.baofeng.com
 :: dl.show.baofeng.com
+0.0.0.0 dl.sybspools.com
+:: dl.sybspools.com
 0.0.0.0 dl.union.ijinshan.com
 :: dl.union.ijinshan.com
 0.0.0.0 dl.uu.cc
@@ -20812,6 +20814,8 @@ ff02::3 ip6-allhosts
 :: e-find.co
 0.0.0.0 e-generator.com
 :: e-generator.com
+0.0.0.0 e-heater.vip
+:: e-heater.vip
 0.0.0.0 e-kaiseki.com
 :: e-kaiseki.com
 0.0.0.0 e-libra.ru
@@ -21876,6 +21880,8 @@ ff02::3 ip6-allhosts
 :: elthamely.com
 0.0.0.0 eluoyi.xbiquge6.com
 :: eluoyi.xbiquge6.com
+0.0.0.0 eluxer.net
+:: eluxer.net
 0.0.0.0 elviravir.com
 :: elviravir.com
 0.0.0.0 elvx.top
@@ -26704,6 +26710,8 @@ ff02::3 ip6-allhosts
 :: gyrtg.com
 0.0.0.0 gz.hxdaka.com
 :: gz.hxdaka.com
+0.0.0.0 gz00005.top
+:: gz00005.top
 0.0.0.0 gz51la.com
 :: gz51la.com
 0.0.0.0 gzcl999.com
@@ -38334,6 +38342,8 @@ ff02::3 ip6-allhosts
 :: murkymouse.online
 0.0.0.0 murroliving.com.cn
 :: murroliving.com.cn
+0.0.0.0 mushan.xin
+:: mushan.xin
 0.0.0.0 music-desktop.com
 :: music-desktop.com
 0.0.0.0 musiccounter.ru
@@ -39752,8 +39762,6 @@ ff02::3 ip6-allhosts
 :: norvalur.xyz
 0.0.0.0 nosdbwnd.com
 :: nosdbwnd.com
-0.0.0.0 nostromedia.com
-:: nostromedia.com
 0.0.0.0 notestscredi.club
 :: notestscredi.club
 0.0.0.0 nothickner.club
@@ -53454,6 +53462,8 @@ ff02::3 ip6-allhosts
 :: swq48b.cn
 0.0.0.0 sws.corel.com
 :: sws.corel.com
+0.0.0.0 swtkc.cn
+:: swtkc.cn
 0.0.0.0 swzhaohuo.com.cn
 :: swzhaohuo.com.cn
 0.0.0.0 sxc.xmrzw.cn
@@ -60588,6 +60598,8 @@ ff02::3 ip6-allhosts
 :: weedazou.net
 0.0.0.0 weegebul.net
 :: weegebul.net
+0.0.0.0 weekhostedmoo.com
+:: weekhostedmoo.com
 0.0.0.0 weesschoollecthurri.info
 :: weesschoollecthurri.info
 0.0.0.0 weethery.com
