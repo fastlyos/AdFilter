@@ -1,11 +1,11 @@
-# Checksum: MTU5OTE0NTQzNAo=
+# Checksum: MTU5OTE1NjIyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200903-5
-# TimeUpdated: 2020-09-03T15:03:54+00:00
+# Version: 1.6.1-20200903-6
+# TimeUpdated: 2020-09-03T18:03:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33547
+# Total: 33551
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5492,6 +5492,8 @@ ff02::3 ip6-allhosts
 :: ads-for-free.com
 0.0.0.0 ads-img-qc.xhscdn.com
 :: ads-img-qc.xhscdn.com
+0.0.0.0 ads-sdk-cn.upltv.com
+:: ads-sdk-cn.upltv.com
 0.0.0.0 ads-sdk.upltv.com
 :: ads-sdk.upltv.com
 0.0.0.0 ads-sg.tiktok.com
@@ -17254,6 +17256,8 @@ ff02::3 ip6-allhosts
 :: cs.twcczhu.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 :: cs02-pps-drcn.dbankcdn.com
+0.0.0.0 cs12d.com
+:: cs12d.com
 0.0.0.0 csad.cc
 :: csad.cc
 0.0.0.0 csaimall.com
@@ -26124,6 +26128,8 @@ ff02::3 ip6-allhosts
 :: goneviral.com
 0.0.0.0 gongeeta.net
 :: gongeeta.net
+0.0.0.0 gongfanglong.cn
+:: gongfanglong.cn
 0.0.0.0 goo2anywhere.com
 :: goo2anywhere.com
 0.0.0.0 gooblesdd.com
@@ -36180,6 +36186,8 @@ ff02::3 ip6-allhosts
 :: mattempts.info
 0.0.0.0 matwbp.iask.sina.com.cn
 :: matwbp.iask.sina.com.cn
+0.0.0.0 matzosetagood.com
+:: matzosetagood.com
 0.0.0.0 maudau.com
 :: maudau.com
 0.0.0.0 mauringer.club
