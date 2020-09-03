@@ -1,11 +1,11 @@
-# Checksum: MTU5OTEyMzgxOAo=
+# Checksum: MTU5OTEzNDcxMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200903-3
-# TimeUpdated: 2020-09-03T09:03:38+00:00
+# Version: 1.6.1-20200903-4
+# TimeUpdated: 2020-09-03T12:05:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33548
+# Total: 33547
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -162,8 +162,6 @@ ff02::3 ip6-allhosts
 :: 0851ok.com
 0.0.0.0 086186.com
 :: 086186.com
-0.0.0.0 0885.net
-:: 0885.net
 0.0.0.0 0956228a2df97a.com
 :: 0956228a2df97a.com
 0.0.0.0 09_19.supfree.net
@@ -416,6 +414,8 @@ ff02::3 ip6-allhosts
 :: 103092804.com
 0.0.0.0 103bees.com
 :: 103bees.com
+0.0.0.0 104610.com
+:: 104610.com
 0.0.0.0 10a053584f01fcaeab1.com
 :: 10a053584f01fcaeab1.com
 0.0.0.0 10b883b3d61d.com
@@ -7772,6 +7772,8 @@ ff02::3 ip6-allhosts
 :: amung.us
 0.0.0.0 amunx.de
 :: amunx.de
+0.0.0.0 amxdt.com
+:: amxdt.com
 0.0.0.0 amxodxmsuwdhn.com
 :: amxodxmsuwdhn.com
 0.0.0.0 amz.steamprices.com
@@ -7914,6 +7916,8 @@ ff02::3 ip6-allhosts
 :: analytics.brave.com
 0.0.0.0 analytics.businessinsider.com
 :: analytics.businessinsider.com
+0.0.0.0 analytics.callbell.eu
+:: analytics.callbell.eu
 0.0.0.0 analytics.carambatv.ru
 :: analytics.carambatv.ru
 0.0.0.0 analytics.carambo.la
@@ -10032,8 +10036,6 @@ ff02::3 ip6-allhosts
 :: ax47mp-xp-21.com
 0.0.0.0 axbxgg.com
 :: axbxgg.com
-0.0.0.0 axeclbthp.com
-:: axeclbthp.com
 0.0.0.0 axeldivision.com
 :: axeldivision.com
 0.0.0.0 axept.io
@@ -11544,8 +11546,6 @@ ff02::3 ip6-allhosts
 :: biberukalap.com
 0.0.0.0 bibi100.com
 :: bibi100.com
-0.0.0.0 bicarepterone.net
-:: bicarepterone.net
 0.0.0.0 bicesteradvertiser-gb.bicesteradvertiser.net
 :: bicesteradvertiser-gb.bicesteradvertiser.net
 0.0.0.0 bid.adview.cn
@@ -60728,8 +60728,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
