@@ -1,11 +1,11 @@
-# Checksum: MTU5OTA4MDYxNgo=
+# Checksum: MTU5OTA5MTcyNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200902-7
-# TimeUpdated: 2020-09-02T21:03:36+00:00
+# Version: 1.6.1-20200903-0
+# TimeUpdated: 2020-09-03T00:08:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33523
+# Total: 33526
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -28148,6 +28148,8 @@ ff02::3 ip6-allhosts
 :: htg-x.com
 0.0.0.0 htintpa.tech
 :: htintpa.tech
+0.0.0.0 htjsk.com
+:: htjsk.com
 0.0.0.0 htl.bid
 :: htl.bid
 0.0.0.0 htlbid.com
@@ -31180,6 +31182,8 @@ ff02::3 ip6-allhosts
 :: jossuer.net
 0.0.0.0 jotchept.com
 :: jotchept.com
+0.0.0.0 jotrening.com
+:: jotrening.com
 0.0.0.0 journalforum.org
 :: journalforum.org
 0.0.0.0 journey.unicef.de
@@ -39790,6 +39794,8 @@ ff02::3 ip6-allhosts
 :: novostisporta.info
 0.0.0.0 nowinteract.com
 :: nowinteract.com
+0.0.0.0 nowledged.club
+:: nowledged.club
 0.0.0.0 nowlooking.net
 :: nowlooking.net
 0.0.0.0 nowskip.com
