@@ -1,11 +1,11 @@
-# Checksum: MTU5OTIyMTE1NAo=
+# Checksum: MTU5OTIzMTg2Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200904-4
-# TimeUpdated: 2020-09-04T12:05:54+00:00
+# Version: 1.6.1-20200904-5
+# TimeUpdated: 2020-09-04T15:04:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33626
+# Total: 33640
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3020,6 +3020,8 @@ ff02::3 ip6-allhosts
 :: a.proxy5.nullrefexcep.com
 0.0.0.0 a.pub.network
 :: a.pub.network
+0.0.0.0 a.qchannel03.cn
+:: a.qchannel03.cn
 0.0.0.0 a.qinghua5.com
 :: a.qinghua5.com
 0.0.0.0 a.qncye.net
@@ -6116,6 +6118,8 @@ ff02::3 ip6-allhosts
 :: adstat.4u.pl
 0.0.0.0 adstatic.com
 :: adstatic.com
+0.0.0.0 adstats.tencentmusic.com
+:: adstats.tencentmusic.com
 0.0.0.0 adsterra.com
 :: adsterra.com
 0.0.0.0 adstextview.qq.com
@@ -8706,6 +8710,8 @@ ff02::3 ip6-allhosts
 :: api.dsp.yhd.com
 0.0.0.0 api.e-cg.cn
 :: api.e-cg.cn
+0.0.0.0 api.e.kuaishou.com
+:: api.e.kuaishou.com
 0.0.0.0 api.e.mi.com
 :: api.e.mi.com
 0.0.0.0 api.ettoday.net
@@ -8882,6 +8888,8 @@ ff02::3 ip6-allhosts
 :: api1.tuisong.baidu.com
 0.0.0.0 api2.analysys.cn
 :: api2.analysys.cn
+0.0.0.0 api2.e.kuaishou.com
+:: api2.e.kuaishou.com
 0.0.0.0 api2.play.cn
 :: api2.play.cn
 0.0.0.0 api2.poperblocker.com
@@ -9076,6 +9084,8 @@ ff02::3 ip6-allhosts
 :: appdriver.com.cn
 0.0.0.0 appendad.com
 :: appendad.com
+0.0.0.0 apperr.log.mgtv.com
+:: apperr.log.mgtv.com
 0.0.0.0 appfh.com
 :: appfh.com
 0.0.0.0 appget.cn
@@ -13078,8 +13088,6 @@ ff02::3 ip6-allhosts
 :: c1.xcy8.com
 0.0.0.0 c10ed2b8b417880.com
 :: c10ed2b8b417880.com
-0.0.0.0 c1313.f28014.cn
-:: c1313.f28014.cn
 0.0.0.0 c16cp358.com
 :: c16cp358.com
 0.0.0.0 c1exchange.com
@@ -13764,8 +13772,6 @@ ff02::3 ip6-allhosts
 :: cdn.adsk2.co
 0.0.0.0 cdn.adstract.com
 :: cdn.adstract.com
-0.0.0.0 cdn.aegins.com
-:: cdn.aegins.com
 0.0.0.0 cdn.aiclicash.com
 :: cdn.aiclicash.com
 0.0.0.0 cdn.aiclk.com
@@ -17528,6 +17534,8 @@ ff02::3 ip6-allhosts
 :: cygnus.com
 0.0.0.0 cyih0e43aty7.com
 :: cyih0e43aty7.com
+0.0.0.0 cymichaire.club
+:: cymichaire.club
 0.0.0.0 cyneburg-yam.com
 :: cyneburg-yam.com
 0.0.0.0 cyqbtxpgarmc.com
@@ -20040,6 +20048,8 @@ ff02::3 ip6-allhosts
 :: dollarsponsor.com
 0.0.0.0 dolohen.com
 :: dolohen.com
+0.0.0.0 dolphin-center.adsame.com
+:: dolphin-center.adsame.com
 0.0.0.0 dolphin.deliver.ifeng.com
 :: dolphin.deliver.ifeng.com
 0.0.0.0 dolphin.ftimg.net
@@ -20076,6 +20086,8 @@ ff02::3 ip6-allhosts
 :: donconferen.site
 0.0.0.0 donecooler.com
 :: donecooler.com
+0.0.0.0 dongtaiwang.org
+:: dongtaiwang.org
 0.0.0.0 dongyihongbei.com
 :: dongyihongbei.com
 0.0.0.0 doniv.net
@@ -25294,6 +25306,8 @@ ff02::3 ip6-allhosts
 :: gebadu.com
 0.0.0.0 gebralefukim.site
 :: gebralefukim.site
+0.0.0.0 gecko-hl.snssdk.com
+:: gecko-hl.snssdk.com
 0.0.0.0 gedcompani.fun
 :: gedcompani.fun
 0.0.0.0 gedmhqqipuz6wfon.pro
@@ -26772,6 +26786,8 @@ ff02::3 ip6-allhosts
 :: gzm.xzbu.com
 0.0.0.0 gzmcjt.cn
 :: gzmcjt.cn
+0.0.0.0 gzmxybg.com
+:: gzmxybg.com
 0.0.0.0 gznsyh.com
 :: gznsyh.com
 0.0.0.0 gzqudou.com
@@ -39824,6 +39840,8 @@ ff02::3 ip6-allhosts
 :: noqj1iz4u28t.com
 0.0.0.0 norakseemlyntr.info
 :: norakseemlyntr.info
+0.0.0.0 nord-raum.com
+:: nord-raum.com
 0.0.0.0 nordicresearch.com
 :: nordicresearch.com
 0.0.0.0 norentisol.com
@@ -45088,6 +45106,8 @@ ff02::3 ip6-allhosts
 :: qcnrblgdonypg.com
 0.0.0.0 qcsfxv.cn
 :: qcsfxv.cn
+0.0.0.0 qcupup.com
+:: qcupup.com
 0.0.0.0 qcvf.ifeng.com
 :: qcvf.ifeng.com
 0.0.0.0 qd.dhzw.org
@@ -54184,6 +54204,8 @@ ff02::3 ip6-allhosts
 :: t5.a.market.xiaomi.com
 0.0.0.0 t6.51maiwanju.com
 :: t6.51maiwanju.com
+0.0.0.0 t6.a.market.xiaomi.com
+:: t6.a.market.xiaomi.com
 0.0.0.0 t70123.com
 :: t70123.com
 0.0.0.0 t75.qyqc4s.com
@@ -57838,6 +57860,8 @@ ff02::3 ip6-allhosts
 :: ucsmqq.site
 0.0.0.0 uctrac.com
 :: uctrac.com
+0.0.0.0 ucumbholi.club
+:: ucumbholi.club
 0.0.0.0 ucus.ucweb.com
 :: ucus.ucweb.com
 0.0.0.0 ucvrtwfh.com
@@ -60196,6 +60220,8 @@ ff02::3 ip6-allhosts
 :: wap.cmgame.com
 0.0.0.0 wap.koudaitong.com
 :: wap.koudaitong.com
+0.0.0.0 wap.martinwang.top
+:: wap.martinwang.top
 0.0.0.0 wap.moad.cn
 :: wap.moad.cn
 0.0.0.0 wap.mpush.qq.com
@@ -67164,6 +67190,8 @@ ff02::3 ip6-allhosts
 :: zws.avvo.com
 0.0.0.0 zx-jsp.com
 :: zx-jsp.com
+0.0.0.0 zx.da.mgtv.com
+:: zx.da.mgtv.com
 0.0.0.0 zx.docin.com
 :: zx.docin.com
 0.0.0.0 zx573.cn
