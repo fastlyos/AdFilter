@@ -1,11 +1,11 @@
-# Checksum: MTU5OTE2NzAxOQo=
+# Checksum: MTU5OTE3ODA5MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200903-7
-# TimeUpdated: 2020-09-03T21:03:39+00:00
+# Version: 1.6.1-20200904-0
+# TimeUpdated: 2020-09-04T00:08:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33562
+# Total: 33563
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4598,6 +4598,8 @@ ff02::3 ip6-allhosts
 :: addata.ku6.com
 0.0.0.0 addbags.com
 :: addbags.com
+0.0.0.0 adddyy.com
+:: adddyy.com
 0.0.0.0 addfreestats.com
 :: addfreestats.com
 0.0.0.0 addinto.com
@@ -7400,8 +7402,6 @@ ff02::3 ip6-allhosts
 :: alahnavideos.pro
 0.0.0.0 alappropolylibe.site
 :: alappropolylibe.site
-0.0.0.0 alapsblu.com
-:: alapsblu.com
 0.0.0.0 alb.reddit.com
 :: alb.reddit.com
 0.0.0.0 albacross.com
@@ -14434,8 +14434,6 @@ ff02::3 ip6-allhosts
 :: chiuhua.com.cn
 0.0.0.0 chkpt.zdnet.com
 :: chkpt.zdnet.com
-0.0.0.0 chkqqbpppcuihn.com
-:: chkqqbpppcuihn.com
 0.0.0.0 chmproxy.bid
 :: chmproxy.bid
 0.0.0.0 chnci.com
@@ -19106,6 +19104,8 @@ ff02::3 ip6-allhosts
 :: demand.supply
 0.0.0.0 demandmedia.s3.amazonaws.com
 :: demandmedia.s3.amazonaws.com
+0.0.0.0 demanfon.club
+:: demanfon.club
 0.0.0.0 demanier.com
 :: demanier.com
 0.0.0.0 demannewcure.site
@@ -23172,8 +23172,6 @@ ff02::3 ip6-allhosts
 :: f8272.com
 0.0.0.0 f8316b45436f.com
 :: f8316b45436f.com
-0.0.0.0 f8a22e34a2.com
-:: f8a22e34a2.com
 0.0.0.0 f92j5.com
 :: f92j5.com
 0.0.0.0 f99.265958.com
@@ -38076,6 +38074,8 @@ ff02::3 ip6-allhosts
 :: mpwe.net
 0.0.0.0 mpzw.com
 :: mpzw.com
+0.0.0.0 mqcwr.cn
+:: mqcwr.cn
 0.0.0.0 mqmtjoshdvlow.com
 :: mqmtjoshdvlow.com
 0.0.0.0 mqq.zgdmsj.cn
@@ -65156,6 +65156,8 @@ ff02::3 ip6-allhosts
 :: xstar.cc
 0.0.0.0 xsweb.pxuns.com
 :: xsweb.pxuns.com
+0.0.0.0 xswezzwxh.com
+:: xswezzwxh.com
 0.0.0.0 xsyouwei.cn
 :: xsyouwei.cn
 0.0.0.0 xszqapp.com
