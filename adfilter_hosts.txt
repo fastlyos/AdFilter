@@ -1,11 +1,11 @@
-# Checksum: MTU5OTE5OTQ0Nwo=
+# Checksum: MTU5OTIxMDIwMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200904-2
-# TimeUpdated: 2020-09-04T06:04:07+00:00
+# Version: 1.6.1-20200904-3
+# TimeUpdated: 2020-09-04T09:03:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33618
+# Total: 33631
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5088,6 +5088,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admaster.mobi
@@ -13110,8 +13112,6 @@ ff02::3 ip6-allhosts
 :: c3t-system-err.club
 0.0.0.0 c3tag.com
 :: c3tag.com
-0.0.0.0 c40ada56da96c20ae0ad.com
-:: c40ada56da96c20ae0ad.com
 0.0.0.0 c41.clicki.cn
 :: c41.clicki.cn
 0.0.0.0 c4698cd6aed0dcef367.com
@@ -13604,6 +13604,8 @@ ff02::3 ip6-allhosts
 :: cb.l.qq.com
 0.0.0.0 cb.lomark.cn
 :: cb.lomark.cn
+0.0.0.0 cb3fzwkkt6yxt.xyz
+:: cb3fzwkkt6yxt.xyz
 0.0.0.0 cb4faf87ffae.com
 :: cb4faf87ffae.com
 0.0.0.0 cba-fed-igh.com
@@ -17576,6 +17578,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -22186,6 +22190,8 @@ ff02::3 ip6-allhosts
 :: eo.dymr697.top
 0.0.0.0 eo.eeo1h1.cn
 :: eo.eeo1h1.cn
+0.0.0.0 eo.erkesi.cn
+:: eo.erkesi.cn
 0.0.0.0 eo.gjpod.xyz
 :: eo.gjpod.xyz
 0.0.0.0 eo.h7t2f.xyz
@@ -22194,6 +22200,8 @@ ff02::3 ip6-allhosts
 :: eo.hdschw.cn
 0.0.0.0 eo.khbua.xyz
 :: eo.khbua.xyz
+0.0.0.0 eo.luveonline.cn
+:: eo.luveonline.cn
 0.0.0.0 eo.nftqkq.cn
 :: eo.nftqkq.cn
 0.0.0.0 eo.pgqoqv.cn
@@ -24910,6 +24918,8 @@ ff02::3 ip6-allhosts
 :: g35.cc
 0.0.0.0 g3565518030.co
 :: g3565518030.co
+0.0.0.0 g3bxbinwsgdf.com
+:: g3bxbinwsgdf.com
 0.0.0.0 g3j2wzmon8b.com
 :: g3j2wzmon8b.com
 0.0.0.0 g3user.com
@@ -25174,6 +25184,8 @@ ff02::3 ip6-allhosts
 :: gateways.s3.amazonaws.com
 0.0.0.0 gatorleads.co.uk
 :: gatorleads.co.uk
+0.0.0.0 gaudiessept.space
+:: gaudiessept.space
 0.0.0.0 gaug.es
 :: gaug.es
 0.0.0.0 gaulauvi.net
@@ -37584,6 +37596,8 @@ ff02::3 ip6-allhosts
 :: mo.dymr697.top
 0.0.0.0 mo.eeo1h1.cn
 :: mo.eeo1h1.cn
+0.0.0.0 mo.erkesi.cn
+:: mo.erkesi.cn
 0.0.0.0 mo.gjpod.xyz
 :: mo.gjpod.xyz
 0.0.0.0 mo.h7t2f.xyz
@@ -37598,6 +37612,8 @@ ff02::3 ip6-allhosts
 :: mo.khbua.xyz
 0.0.0.0 mo.kugou.com
 :: mo.kugou.com
+0.0.0.0 mo.luveonline.cn
+:: mo.luveonline.cn
 0.0.0.0 mo.mktrkn.cn
 :: mo.mktrkn.cn
 0.0.0.0 mo.moonpig.com
@@ -38976,6 +38992,8 @@ ff02::3 ip6-allhosts
 :: ncwckj.com
 0.0.0.0 ncx2.voyage-prive.it
 :: ncx2.voyage-prive.it
+0.0.0.0 ncydissalc.club
+:: ncydissalc.club
 0.0.0.0 ncylegiatede.info
 :: ncylegiatede.info
 0.0.0.0 nczlhwsguwc.com
@@ -42056,8 +42074,6 @@ ff02::3 ip6-allhosts
 :: pclick.yahoo.com
 0.0.0.0 pclicks.com
 :: pclicks.com
-0.0.0.0 pclk.name
-:: pclk.name
 0.0.0.0 pclog.dftoutiao.com
 :: pclog.dftoutiao.com
 0.0.0.0 pclog.suishenyun.net
@@ -45624,6 +45640,8 @@ ff02::3 ip6-allhosts
 :: r01.3dwwwgame.com
 0.0.0.0 r01.g1c5.com
 :: r01.g1c5.com
+0.0.0.0 r023m83skv5v.com
+:: r023m83skv5v.com
 0.0.0.0 r2.adwo.com
 :: r2.adwo.com
 0.0.0.0 r2.tschewang.com
@@ -54896,6 +54914,8 @@ ff02::3 ip6-allhosts
 :: textonlyads.com
 0.0.0.0 tf.360.cn
 :: tf.360.cn
+0.0.0.0 tf.adddyy.com
+:: tf.adddyy.com
 0.0.0.0 tf.caohua.com
 :: tf.caohua.com
 0.0.0.0 tf58.com
@@ -56790,6 +56810,8 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -56954,6 +56976,8 @@ ff02::3 ip6-allhosts
 :: trafix.ro
 0.0.0.0 trafmag.com
 :: trafmag.com
+0.0.0.0 trafyield.com
+:: trafyield.com
 0.0.0.0 traighteri.club
 :: traighteri.club
 0.0.0.0 trail-web.com
@@ -57732,6 +57756,8 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
+0.0.0.0 u8.hujiang.com
+:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
@@ -58090,8 +58116,6 @@ ff02::3 ip6-allhosts
 :: uncilsdegr.club
 0.0.0.0 unconf.mobad.ijinshan.com
 :: unconf.mobad.ijinshan.com
-0.0.0.0 uncyane.com
-:: uncyane.com
 0.0.0.0 undedcontried.info
 :: undedcontried.info
 0.0.0.0 undedfracted.club
@@ -59980,8 +60004,6 @@ ff02::3 ip6-allhosts
 :: vz.yunmowu.com
 0.0.0.0 vznntmjdb.com
 :: vznntmjdb.com
-0.0.0.0 vzzylo.com
-:: vzzylo.com
 0.0.0.0 w.bid.ljrtb.cn
 :: w.bid.ljrtb.cn
 0.0.0.0 w.cnzz.com
@@ -63266,6 +63288,8 @@ ff02::3 ip6-allhosts
 :: www.jfsdiwmnbsk007.top
 0.0.0.0 www.jfsdiwmnbsk008.top
 :: www.jfsdiwmnbsk008.top
+0.0.0.0 www.jfsdiwmnbsk009.top
+:: www.jfsdiwmnbsk009.top
 0.0.0.0 www.jglinks.cn
 :: www.jglinks.cn
 0.0.0.0 www.jgmlink.cn
@@ -65282,6 +65306,8 @@ ff02::3 ip6-allhosts
 :: xtendente.club
 0.0.0.0 xtendmedia.com
 :: xtendmedia.com
+0.0.0.0 xtjkieqcwn.com
+:: xtjkieqcwn.com
 0.0.0.0 xtmuasvldoiz.com
 :: xtmuasvldoiz.com
 0.0.0.0 xtrack.capetown.gov.za
