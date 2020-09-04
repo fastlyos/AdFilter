@@ -1,11 +1,11 @@
-# Checksum: MTU5OTIxMDIwMwo=
+# Checksum: MTU5OTIyMTE1NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200904-3
-# TimeUpdated: 2020-09-04T09:03:23+00:00
+# Version: 1.6.1-20200904-4
+# TimeUpdated: 2020-09-04T12:05:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33631
+# Total: 33626
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3356,8 +3356,6 @@ ff02::3 ip6-allhosts
 :: aaalian.com
 0.0.0.0 aaan.xyz
 :: aaan.xyz
-0.0.0.0 aaaw.xyz
-:: aaaw.xyz
 0.0.0.0 aaayc.cn
 :: aaayc.cn
 0.0.0.0 aabmxezph.com
@@ -4952,6 +4950,8 @@ ff02::3 ip6-allhosts
 :: adklip.com
 0.0.0.0 adknock.com
 :: adknock.com
+0.0.0.0 adkova.com
+:: adkova.com
 0.0.0.0 adku.co
 :: adku.co
 0.0.0.0 adku.com
@@ -11528,8 +11528,6 @@ ff02::3 ip6-allhosts
 :: bhlianhe.com
 0.0.0.0 bhplyiegippcw.com
 :: bhplyiegippcw.com
-0.0.0.0 bhrebiicmcj.com
-:: bhrebiicmcj.com
 0.0.0.0 bhu9.bankia.es
 :: bhu9.bankia.es
 0.0.0.0 bhuak.com
@@ -13836,8 +13834,6 @@ ff02::3 ip6-allhosts
 :: cdn.inwemo.com
 0.0.0.0 cdn.jesgoo.com
 :: cdn.jesgoo.com
-0.0.0.0 cdn.jllstudio.com
-:: cdn.jllstudio.com
 0.0.0.0 cdn.komoona.com
 :: cdn.komoona.com
 0.0.0.0 cdn.krxd.net
@@ -15120,8 +15116,6 @@ ff02::3 ip6-allhosts
 :: clk.taptica.com
 0.0.0.0 clk.uunt.com
 :: clk.uunt.com
-0.0.0.0 clkads.com
-:: clkads.com
 0.0.0.0 clkcln.com
 :: clkcln.com
 0.0.0.0 clkfeed.com
@@ -60876,8 +60870,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -65306,8 +65298,6 @@ ff02::3 ip6-allhosts
 :: xtendente.club
 0.0.0.0 xtendmedia.com
 :: xtendmedia.com
-0.0.0.0 xtjkieqcwn.com
-:: xtjkieqcwn.com
 0.0.0.0 xtmuasvldoiz.com
 :: xtmuasvldoiz.com
 0.0.0.0 xtrack.capetown.gov.za
