@@ -1,11 +1,11 @@
-# Checksum: MTU5OTMxODQxMgo=
+# Checksum: MTU5OTMyOTAyOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200905-5
-# TimeUpdated: 2020-09-05T15:06:52+00:00
+# Version: 1.6.1-20200905-6
+# TimeUpdated: 2020-09-05T18:03:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33676
+# Total: 33675
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -620,8 +620,6 @@ ff02::3 ip6-allhosts
 :: 168ey.com
 0.0.0.0 168xiazai.com
 :: 168xiazai.com
-0.0.0.0 16guu.com
-:: 16guu.com
 0.0.0.0 16k6.com
 :: 16k6.com
 0.0.0.0 17.huanqiu.com
@@ -1662,6 +1660,8 @@ ff02::3 ip6-allhosts
 :: 538b5d8f303be.com
 0.0.0.0 5399.com
 :: 5399.com
+0.0.0.0 53gem.com
+:: 53gem.com
 0.0.0.0 53kf.com
 :: 53kf.com
 0.0.0.0 53m.kuk8.com
@@ -2466,8 +2466,6 @@ ff02::3 ip6-allhosts
 :: 8866786.com
 0.0.0.0 888.tv.sohu.com
 :: 888.tv.sohu.com
-0.0.0.0 88818122.cn
-:: 88818122.cn
 0.0.0.0 8881919.cc
 :: 8881919.cc
 0.0.0.0 88888l.info
@@ -13858,6 +13856,8 @@ ff02::3 ip6-allhosts
 :: cdn.innity.net
 0.0.0.0 cdn.inwemo.com
 :: cdn.inwemo.com
+0.0.0.0 cdn.jamcdn.pro
+:: cdn.jamcdn.pro
 0.0.0.0 cdn.jesgoo.com
 :: cdn.jesgoo.com
 0.0.0.0 cdn.komoona.com
@@ -19572,6 +19572,8 @@ ff02::3 ip6-allhosts
 :: directorym.com
 0.0.0.0 directprimal.com
 :: directprimal.com
+0.0.0.0 dirritorexa.club
+:: dirritorexa.club
 0.0.0.0 dirty-tinder.com
 :: dirty-tinder.com
 0.0.0.0 dis.crieto.com
@@ -31206,8 +31208,6 @@ ff02::3 ip6-allhosts
 :: jke1.jianke.com
 0.0.0.0 jkert.com
 :: jkert.com
-0.0.0.0 jkleosnfjutme.top
-:: jkleosnfjutme.top
 0.0.0.0 jkmxy.com
 :: jkmxy.com
 0.0.0.0 jktopia.com
@@ -38886,8 +38886,6 @@ ff02::3 ip6-allhosts
 :: namitol.com
 0.0.0.0 nanigans.com
 :: nanigans.com
-0.0.0.0 nanjinglongyu.com
-:: nanjinglongyu.com
 0.0.0.0 nanoadexchange.com
 :: nanoadexchange.com
 0.0.0.0 nanostats.nanopress.it
