@@ -1,11 +1,11 @@
-# Checksum: MTU5OTI3NTU2Mgo=
+# Checksum: MTU5OTI4NjAxMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200905-1
-# TimeUpdated: 2020-09-05T03:12:42+00:00
+# Version: 1.6.1-20200905-2
+# TimeUpdated: 2020-09-05T06:06:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33665
+# Total: 33673
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5950,6 +5950,8 @@ ff02::3 ip6-allhosts
 :: adsforallmedia.com
 0.0.0.0 adsforindians.com
 :: adsforindians.com
+0.0.0.0 adsfs-sdkconfig.heytapimage.com
+:: adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
 :: adsfs.oppomobile.com
 0.0.0.0 adsfundi.com
@@ -6784,8 +6786,6 @@ ff02::3 ip6-allhosts
 :: aeros02.tk
 0.0.0.0 aeros08.tk
 :: aeros08.tk
-0.0.0.0 aeros11.tk
-:: aeros11.tk
 0.0.0.0 aerserv.com
 :: aerserv.com
 0.0.0.0 aes01.com
@@ -9802,6 +9802,8 @@ ff02::3 ip6-allhosts
 :: audienzz.ch
 0.0.0.0 audiesuree.club
 :: audiesuree.club
+0.0.0.0 audioadx.com
+:: audioadx.com
 0.0.0.0 audioarctic.com
 :: audioarctic.com
 0.0.0.0 audionews.fm
@@ -12640,6 +12642,8 @@ ff02::3 ip6-allhosts
 :: bumskontakte.ch
 0.0.0.0 bunchbox.co
 :: bunchbox.co
+0.0.0.0 bungalowfollowbestowed.com
+:: bungalowfollowbestowed.com
 0.0.0.0 bunny-net.com
 :: bunny-net.com
 0.0.0.0 bupserge.com
@@ -12904,6 +12908,8 @@ ff02::3 ip6-allhosts
 :: c.cdlkzb.com
 0.0.0.0 c.cnzz.com
 :: c.cnzz.com
+0.0.0.0 c.code222.com
+:: c.code222.com
 0.0.0.0 c.codeonclick.com
 :: c.codeonclick.com
 0.0.0.0 c.ctags.cn
@@ -16414,8 +16420,6 @@ ff02::3 ip6-allhosts
 :: corkysound.com
 0.0.0.0 corner.houyi.baofeng.net
 :: corner.houyi.baofeng.net
-0.0.0.0 coroheyjses.com
-:: coroheyjses.com
 0.0.0.0 corp.meitu.com
 :: corp.meitu.com
 0.0.0.0 corp.sohu.com
@@ -22942,6 +22946,8 @@ ff02::3 ip6-allhosts
 :: exchange4media.com
 0.0.0.0 exchangecash.de
 :: exchangecash.de
+0.0.0.0 exchangedaudacious.com
+:: exchangedaudacious.com
 0.0.0.0 exchangepresumeethel.com
 :: exchangepresumeethel.com
 0.0.0.0 excited.me
@@ -24002,6 +24008,8 @@ ff02::3 ip6-allhosts
 :: flashx.pw
 0.0.0.0 flatlyforensics.com
 :: flatlyforensics.com
+0.0.0.0 flaudnrs.me
+:: flaudnrs.me
 0.0.0.0 flcounter.com
 :: flcounter.com
 0.0.0.0 fleshcash.com
@@ -26962,6 +26970,8 @@ ff02::3 ip6-allhosts
 :: hades.qyer.com
 0.0.0.0 hadlacrighterthen.pro
 :: hadlacrighterthen.pro
+0.0.0.0 hadquellseventeen.com
+:: hadquellseventeen.com
 0.0.0.0 hadsabz.com
 :: hadsabz.com
 0.0.0.0 hadsanz.com
@@ -27852,6 +27862,8 @@ ff02::3 ip6-allhosts
 :: hktv10.com
 0.0.0.0 hkv06j2p7pof.com
 :: hkv06j2p7pof.com
+0.0.0.0 hl.cn
+:: hl.cn
 0.0.0.0 hl.kuzu.com
 :: hl.kuzu.com
 0.0.0.0 hl.quw18.com
@@ -28086,8 +28098,6 @@ ff02::3 ip6-allhosts
 :: hosting.miarroba.info
 0.0.0.0 hosting24.com
 :: hosting24.com
-0.0.0.0 hostingcloud.do
-:: hostingcloud.do
 0.0.0.0 hostingcloud.faith
 :: hostingcloud.faith
 0.0.0.0 hostingcloud.party
@@ -31166,8 +31176,6 @@ ff02::3 ip6-allhosts
 :: jiubuhua.com
 0.0.0.0 jiuduad.com
 :: jiuduad.com
-0.0.0.0 jiumishow.com
-:: jiumishow.com
 0.0.0.0 jiupinshan.cn
 :: jiupinshan.cn
 0.0.0.0 jiuyuntian3.cn
@@ -31314,6 +31322,8 @@ ff02::3 ip6-allhosts
 :: jotchept.com
 0.0.0.0 jotrening.com
 :: jotrening.com
+0.0.0.0 jougrevu.com
+:: jougrevu.com
 0.0.0.0 journalforum.org
 :: journalforum.org
 0.0.0.0 journey.unicef.de
@@ -31378,8 +31388,6 @@ ff02::3 ip6-allhosts
 :: jqki.cn
 0.0.0.0 jqmt.qq.com
 :: jqmt.qq.com
-0.0.0.0 jqrcdn.download
-:: jqrcdn.download
 0.0.0.0 jqsex.com
 :: jqsex.com
 0.0.0.0 jquery-cdn.download
@@ -31942,6 +31950,8 @@ ff02::3 ip6-allhosts
 :: juzi.cn
 0.0.0.0 juzilm.com
 :: juzilm.com
+0.0.0.0 jvmrvkhle.com
+:: jvmrvkhle.com
 0.0.0.0 jvoice.cn
 :: jvoice.cn
 0.0.0.0 jwduahujge.ru
@@ -31956,8 +31966,6 @@ ff02::3 ip6-allhosts
 :: jwplayer.space
 0.0.0.0 jwvwak1a.com
 :: jwvwak1a.com
-0.0.0.0 jwwhsqz.ru
-:: jwwhsqz.ru
 0.0.0.0 jwxdrgscszvxlu.com
 :: jwxdrgscszvxlu.com
 0.0.0.0 jwz.3conline.com
@@ -33194,6 +33202,10 @@ ff02::3 ip6-allhosts
 :: leadmediapartners.com
 0.0.0.0 leadpages.net
 :: leadpages.net
+0.0.0.0 leads.api.autohome.com.cn
+:: leads.api.autohome.com.cn
+0.0.0.0 leads.autohome.com.cn
+:: leads.autohome.com.cn
 0.0.0.0 leadsius.com
 :: leadsius.com
 0.0.0.0 leadslabpixels.net
@@ -33882,8 +33894,6 @@ ff02::3 ip6-allhosts
 :: lloogg.com
 0.0.0.0 llq9q2lacr.com
 :: llq9q2lacr.com
-0.0.0.0 llqd5.cn
-:: llqd5.cn
 0.0.0.0 llqd75c56i.com
 :: llqd75c56i.com
 0.0.0.0 llqss.top
@@ -37378,8 +37388,6 @@ ff02::3 ip6-allhosts
 :: mj70.cn
 0.0.0.0 mjbuuxt7l18r.com
 :: mjbuuxt7l18r.com
-0.0.0.0 mjf.lijun8.com
-:: mjf.lijun8.com
 0.0.0.0 mjita.cn
 :: mjita.cn
 0.0.0.0 mjkvwpabdce.com
@@ -39156,6 +39164,8 @@ ff02::3 ip6-allhosts
 :: nerohut.com
 0.0.0.0 nervoussummer.com
 :: nervoussummer.com
+0.0.0.0 neshedfrie.club
+:: neshedfrie.club
 0.0.0.0 nesoaghu.net
 :: nesoaghu.net
 0.0.0.0 nesparklines.info
@@ -45974,8 +45984,6 @@ ff02::3 ip6-allhosts
 :: rcgi.video.qq.com
 0.0.0.0 rchitereach.info
 :: rchitereach.info
-0.0.0.0 rchs.1mb034.cn
-:: rchs.1mb034.cn
 0.0.0.0 rclmc.top
 :: rclmc.top
 0.0.0.0 rcm-cn.amazon.cn
@@ -53418,6 +53426,8 @@ ff02::3 ip6-allhosts
 :: sunnimiq5.cf
 0.0.0.0 sunnimiq6.cf
 :: sunnimiq6.cf
+0.0.0.0 sunnybluecoral.com
+:: sunnybluecoral.com
 0.0.0.0 sunnysmedia.com
 :: sunnysmedia.com
 0.0.0.0 sunrow.com
@@ -54950,6 +54960,8 @@ ff02::3 ip6-allhosts
 :: test1productions.com
 0.0.0.0 test2014.adview.cn
 :: test2014.adview.cn
+0.0.0.0 testamentfendsounding.com
+:: testamentfendsounding.com
 0.0.0.0 testfilter.com
 :: testfilter.com
 0.0.0.0 testin.cn
@@ -61232,6 +61244,8 @@ ff02::3 ip6-allhosts
 :: windoorsew.club
 0.0.0.0 windowmentaria.com
 :: windowmentaria.com
+0.0.0.0 windows-remora-system.com
+:: windows-remora-system.com
 0.0.0.0 windowsxi.com
 :: windowsxi.com
 0.0.0.0 wingads.com
@@ -61350,6 +61364,8 @@ ff02::3 ip6-allhosts
 :: wlrzptntiqez.com
 0.0.0.0 wlshotel.cn
 :: wlshotel.cn
+0.0.0.0 wm-abms.com
+:: wm-abms.com
 0.0.0.0 wm.20150.net
 :: wm.20150.net
 0.0.0.0 wm.69shi.cn
@@ -62484,8 +62500,6 @@ ff02::3 ip6-allhosts
 :: www.888zr022.com
 0.0.0.0 www.88eg.cn
 :: www.88eg.cn
-0.0.0.0 www.88nu.info
-:: www.88nu.info
 0.0.0.0 www.8jzw.com
 :: www.8jzw.com
 0.0.0.0 www.9270.com.cn
@@ -65784,6 +65798,8 @@ ff02::3 ip6-allhosts
 :: yeeok.com.cn
 0.0.0.0 yeesshh.com
 :: yeesshh.com
+0.0.0.0 yehuitudu.cn
+:: yehuitudu.cn
 0.0.0.0 yektanet.com
 :: yektanet.com
 0.0.0.0 yellads.com
