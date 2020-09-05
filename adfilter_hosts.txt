@@ -1,11 +1,11 @@
-# Checksum: MTU5OTMwNzY3NAo=
+# Checksum: MTU5OTMxODQxMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200905-4
-# TimeUpdated: 2020-09-05T12:07:54+00:00
+# Version: 1.6.1-20200905-5
+# TimeUpdated: 2020-09-05T15:06:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33672
+# Total: 33676
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -620,6 +620,8 @@ ff02::3 ip6-allhosts
 :: 168ey.com
 0.0.0.0 168xiazai.com
 :: 168xiazai.com
+0.0.0.0 16guu.com
+:: 16guu.com
 0.0.0.0 16k6.com
 :: 16k6.com
 0.0.0.0 17.huanqiu.com
@@ -1256,8 +1258,6 @@ ff02::3 ip6-allhosts
 :: 3808010.com
 0.0.0.0 38330.bet
 :: 38330.bet
-0.0.0.0 38499.com
-:: 38499.com
 0.0.0.0 3878896c72ed218.com
 :: 3878896c72ed218.com
 0.0.0.0 38ra.com
@@ -2678,6 +2678,8 @@ ff02::3 ip6-allhosts
 :: 94ab.com
 0.0.0.0 94lm.com
 :: 94lm.com
+0.0.0.0 95520saturday.hqnpwzu.cn
+:: 95520saturday.hqnpwzu.cn
 0.0.0.0 95558000.com
 :: 95558000.com
 0.0.0.0 9565365.com
@@ -3360,8 +3362,6 @@ ff02::3 ip6-allhosts
 :: aaadealstoday.com
 0.0.0.0 aaalian.com
 :: aaalian.com
-0.0.0.0 aaan.xyz
-:: aaan.xyz
 0.0.0.0 aaayc.cn
 :: aaayc.cn
 0.0.0.0 aabmxezph.com
@@ -5010,8 +5010,6 @@ ff02::3 ip6-allhosts
 :: adlog.vivo.com.cn
 0.0.0.0 adlogists.com
 :: adlogists.com
-0.0.0.0 adlook.net
-:: adlook.net
 0.0.0.0 adloop.co
 :: adloop.co
 0.0.0.0 adlooxtracking.com
@@ -12340,6 +12338,8 @@ ff02::3 ip6-allhosts
 :: brand.net
 0.0.0.0 brandads.net
 :: brandads.net
+0.0.0.0 brandadsstatic.vivo.com.cn
+:: brandadsstatic.vivo.com.cn
 0.0.0.0 brandaffinity.net
 :: brandaffinity.net
 0.0.0.0 brandclik.com
@@ -18330,8 +18330,6 @@ ff02::3 ip6-allhosts
 :: d6.sina.com.cn
 0.0.0.0 d6.sinaimg.cn
 :: d6.sinaimg.cn
-0.0.0.0 d60227ef59e.com
-:: d60227ef59e.com
 0.0.0.0 d63a3au5lqmtu.cloudfront.net
 :: d63a3au5lqmtu.cloudfront.net
 0.0.0.0 d6jfiirio372.com
@@ -31208,6 +31206,8 @@ ff02::3 ip6-allhosts
 :: jke1.jianke.com
 0.0.0.0 jkert.com
 :: jkert.com
+0.0.0.0 jkleosnfjutme.top
+:: jkleosnfjutme.top
 0.0.0.0 jkmxy.com
 :: jkmxy.com
 0.0.0.0 jktopia.com
@@ -38886,6 +38886,8 @@ ff02::3 ip6-allhosts
 :: namitol.com
 0.0.0.0 nanigans.com
 :: nanigans.com
+0.0.0.0 nanjinglongyu.com
+:: nanjinglongyu.com
 0.0.0.0 nanoadexchange.com
 :: nanoadexchange.com
 0.0.0.0 nanostats.nanopress.it
@@ -42538,6 +42540,8 @@ ff02::3 ip6-allhosts
 :: photo.welldex.cn
 0.0.0.0 photo.xfytjx.cn
 :: photo.xfytjx.cn
+0.0.0.0 photo.xunhuaji.cn
+:: photo.xunhuaji.cn
 0.0.0.0 photo.yxslt.cn
 :: photo.yxslt.cn
 0.0.0.0 photo.zhanhevr.cn
@@ -43274,6 +43278,8 @@ ff02::3 ip6-allhosts
 :: plx.porndig.com
 0.0.0.0 plxtejszb.com
 :: plxtejszb.com
+0.0.0.0 plyinsidere.club
+:: plyinsidere.club
 0.0.0.0 plyvitablesagree.info
 :: plyvitablesagree.info
 0.0.0.0 plzjcnyxcdl.com
@@ -47860,6 +47866,8 @@ ff02::3 ip6-allhosts
 :: s.zlongad.com
 0.0.0.0 s.zp0573.cn
 :: s.zp0573.cn
+0.0.0.0 s.zzsusuzaoxing.com
+:: s.zzsusuzaoxing.com
 0.0.0.0 s001.monerise.com
 :: s001.monerise.com
 0.0.0.0 s002.monerise.com
@@ -51332,8 +51340,6 @@ ff02::3 ip6-allhosts
 :: sp.naplesnews.com
 0.0.0.0 sp.newarkadvocate.com
 :: sp.newarkadvocate.com
-0.0.0.0 sp.news-journalonline.com
-:: sp.news-journalonline.com
 0.0.0.0 sp.news-press.com
 :: sp.news-press.com
 0.0.0.0 sp.newsleader.com
@@ -53734,6 +53740,8 @@ ff02::3 ip6-allhosts
 :: sy.code.mytanwan.com
 0.0.0.0 sy.flash.mytanwan.com
 :: sy.flash.mytanwan.com
+0.0.0.0 sy.jlhygy.com
+:: sy.jlhygy.com
 0.0.0.0 sy.shongcheng.com
 :: sy.shongcheng.com
 0.0.0.0 sy.sxjxhg.com
