@@ -1,11 +1,11 @@
-# Checksum: MTU5OTI3NDM2MQo=
+# Checksum: MTU5OTI3NTU2Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200905-0
-# TimeUpdated: 2020-09-05T02:52:41+00:00
+# Version: 1.6.1-20200905-1
+# TimeUpdated: 2020-09-05T03:12:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33662
+# Total: 33665
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10522,6 +10522,8 @@ ff02::3 ip6-allhosts
 :: banicywan.com
 0.0.0.0 banman.isoftmarketing.com
 :: banman.isoftmarketing.com
+0.0.0.0 banmeng_1725.it760.com
+:: banmeng_1725.it760.com
 0.0.0.0 banner-rotation.com
 :: banner-rotation.com
 0.0.0.0 banner.101xp.com
@@ -13498,6 +13500,8 @@ ff02::3 ip6-allhosts
 :: carl.pubsvs.com
 0.0.0.0 caroda.io
 :: caroda.io
+0.0.0.0 carpcw.com
+:: carpcw.com
 0.0.0.0 carpentercomparison.com
 :: carpentercomparison.com
 0.0.0.0 carpetusiko.club
@@ -45366,6 +45370,8 @@ ff02::3 ip6-allhosts
 :: qpokok.com
 0.0.0.0 qq.8368661.com
 :: qq.8368661.com
+0.0.0.0 qq.guansenff.cn
+:: qq.guansenff.cn
 0.0.0.0 qq.hixili.top
 :: qq.hixili.top
 0.0.0.0 qq.irs01.com
