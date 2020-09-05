@@ -1,11 +1,11 @@
-# Checksum: MTU5OTI1MzQxNwo=
+# Checksum: MTU5OTI2NDU1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200904-7
-# TimeUpdated: 2020-09-04T21:03:37+00:00
+# Version: 1.6.1-20200905-0
+# TimeUpdated: 2020-09-05T00:09:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33647
+# Total: 33664
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1470,6 +1470,8 @@ ff02::3 ip6-allhosts
 :: 497761.top
 0.0.0.0 4affiliate.net
 :: 4affiliate.net
+0.0.0.0 4ak50p1xo77f.com
+:: 4ak50p1xo77f.com
 0.0.0.0 4b6994dfa47cee4.com
 :: 4b6994dfa47cee4.com
 0.0.0.0 4bb6jls06l.com
@@ -2092,8 +2094,6 @@ ff02::3 ip6-allhosts
 :: 70e.com
 0.0.0.0 70ee6484605f.com
 :: 70ee6484605f.com
-0.0.0.0 70yst.com
-:: 70yst.com
 0.0.0.0 7116966.com
 :: 7116966.com
 0.0.0.0 711kk.com
@@ -2414,6 +2414,8 @@ ff02::3 ip6-allhosts
 :: 8462d0b3cc90c90.com
 0.0.0.0 849558.com
 :: 849558.com
+0.0.0.0 84b898f0f5.com
+:: 84b898f0f5.com
 0.0.0.0 851889.tk
 :: 851889.tk
 0.0.0.0 8521448.com
@@ -12300,6 +12302,8 @@ ff02::3 ip6-allhosts
 :: bposterss.net
 0.0.0.0 bptracking.com
 :: bptracking.com
+0.0.0.0 bqhnj.cn
+:: bqhnj.cn
 0.0.0.0 bqiovml.com
 :: bqiovml.com
 0.0.0.0 bqqsdv73724.cn
@@ -16940,6 +16944,8 @@ ff02::3 ip6-allhosts
 :: cpmmedia.net
 0.0.0.0 cpmnetworkcontent.com
 :: cpmnetworkcontent.com
+0.0.0.0 cpmprofitablecontent.com
+:: cpmprofitablecontent.com
 0.0.0.0 cpmrocket.com
 :: cpmrocket.com
 0.0.0.0 cpms.now.com
@@ -22202,6 +22208,8 @@ ff02::3 ip6-allhosts
 :: eo.dymr697.top
 0.0.0.0 eo.eeo1h1.cn
 :: eo.eeo1h1.cn
+0.0.0.0 eo.energy-tmr.com.cn
+:: eo.energy-tmr.com.cn
 0.0.0.0 eo.erkesi.cn
 :: eo.erkesi.cn
 0.0.0.0 eo.gjpod.xyz
@@ -22212,6 +22220,8 @@ ff02::3 ip6-allhosts
 :: eo.hdschw.cn
 0.0.0.0 eo.khbua.xyz
 :: eo.khbua.xyz
+0.0.0.0 eo.llqd5.cn
+:: eo.llqd5.cn
 0.0.0.0 eo.luveonline.cn
 :: eo.luveonline.cn
 0.0.0.0 eo.nftqkq.cn
@@ -23758,6 +23768,8 @@ ff02::3 ip6-allhosts
 :: fgddl9szdof7.com
 0.0.0.0 fgddrrr.com
 :: fgddrrr.com
+0.0.0.0 fggwavfjucnyw.com
+:: fggwavfjucnyw.com
 0.0.0.0 fghmc.ga25.com
 :: fghmc.ga25.com
 0.0.0.0 fgoverhead.club
@@ -23976,6 +23988,8 @@ ff02::3 ip6-allhosts
 :: flashx.co
 0.0.0.0 flashx.pw
 :: flashx.pw
+0.0.0.0 flatlyforensics.com
+:: flatlyforensics.com
 0.0.0.0 flcounter.com
 :: flcounter.com
 0.0.0.0 fleshcash.com
@@ -28368,6 +28382,8 @@ ff02::3 ip6-allhosts
 :: huiun.com
 0.0.0.0 huiwiw.hit.gemius.pl
 :: huiwiw.hit.gemius.pl
+0.0.0.0 huiyutz.cn
+:: huiyutz.cn
 0.0.0.0 hulemedia.com
 :: hulemedia.com
 0.0.0.0 huluads.info
@@ -37616,6 +37632,8 @@ ff02::3 ip6-allhosts
 :: mo.dymr697.top
 0.0.0.0 mo.eeo1h1.cn
 :: mo.eeo1h1.cn
+0.0.0.0 mo.energy-tmr.com.cn
+:: mo.energy-tmr.com.cn
 0.0.0.0 mo.erkesi.cn
 :: mo.erkesi.cn
 0.0.0.0 mo.gjpod.xyz
@@ -37632,6 +37650,8 @@ ff02::3 ip6-allhosts
 :: mo.khbua.xyz
 0.0.0.0 mo.kugou.com
 :: mo.kugou.com
+0.0.0.0 mo.llqd5.cn
+:: mo.llqd5.cn
 0.0.0.0 mo.luveonline.cn
 :: mo.luveonline.cn
 0.0.0.0 mo.mktrkn.cn
@@ -43388,6 +43408,8 @@ ff02::3 ip6-allhosts
 :: pomhz.com
 0.0.0.0 pong.fccay.cn
 :: pong.fccay.cn
+0.0.0.0 pooboafi.net
+:: pooboafi.net
 0.0.0.0 poogriry.click
 :: poogriry.click
 0.0.0.0 pool-de.supportxmr.com
@@ -47062,6 +47084,8 @@ ff02::3 ip6-allhosts
 :: ro88qcuy.com
 0.0.0.0 roakicat.net
 :: roakicat.net
+0.0.0.0 roarbeggarlyhilarious.com
+:: roarbeggarlyhilarious.com
 0.0.0.0 roay.cn
 :: roay.cn
 0.0.0.0 robjamguy.club
@@ -47400,6 +47424,8 @@ ff02::3 ip6-allhosts
 :: rtn.thestar.com
 0.0.0.0 rto.steelhousemedia.com
 :: rto.steelhousemedia.com
+0.0.0.0 rtogethele.club
+:: rtogethele.club
 0.0.0.0 rtox.net
 :: rtox.net
 0.0.0.0 rtpdn10.com
@@ -58782,6 +58808,8 @@ ff02::3 ip6-allhosts
 :: uxfpdo3hx5fi.com
 0.0.0.0 uxip.meizu.com
 :: uxip.meizu.com
+0.0.0.0 uxowypikexhz.com
+:: uxowypikexhz.com
 0.0.0.0 uxzbsinjyld.com
 :: uxzbsinjyld.com
 0.0.0.0 uydeapvmmlvdp.com
@@ -60910,6 +60938,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -64652,6 +64682,8 @@ ff02::3 ip6-allhosts
 :: x.jullycn.com
 0.0.0.0 x.mtrend.cn
 :: x.mtrend.cn
+0.0.0.0 x.niuliyan.cn
+:: x.niuliyan.cn
 0.0.0.0 x.ojgoy.cn
 :: x.ojgoy.cn
 0.0.0.0 x.vamaker.com
@@ -67194,6 +67226,8 @@ ff02::3 ip6-allhosts
 :: zvswmofga.com
 0.0.0.0 zwaar.org
 :: zwaar.org
+0.0.0.0 zwenhan.com
+:: zwenhan.com
 0.0.0.0 zwkssb.com
 :: zwkssb.com
 0.0.0.0 zwmauyerfotyh.com
