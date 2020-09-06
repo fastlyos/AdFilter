@@ -1,11 +1,11 @@
-# Checksum: MTU5OTM3MjIyOAo=
+# Checksum: MTU5OTM4MzAyMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200906-2
-# TimeUpdated: 2020-09-06T06:03:48+00:00
+# Version: 1.6.1-20200906-3
+# TimeUpdated: 2020-09-06T09:03:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33711
+# Total: 33707
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2088,6 +2088,8 @@ ff02::3 ip6-allhosts
 :: 7080555.com
 0.0.0.0 7089e5b41f87.com
 :: 7089e5b41f87.com
+0.0.0.0 70950.com
+:: 70950.com
 0.0.0.0 70e.com
 :: 70e.com
 0.0.0.0 70ee6484605f.com
@@ -7158,8 +7160,6 @@ ff02::3 ip6-allhosts
 :: ahstrelgnh.com
 0.0.0.0 ahszgog.com
 :: ahszgog.com
-0.0.0.0 ahw3.com
-:: ahw3.com
 0.0.0.0 ahxhny.cn
 :: ahxhny.cn
 0.0.0.0 ahyau.com
@@ -7560,8 +7560,6 @@ ff02::3 ip6-allhosts
 :: allfontshere.press
 0.0.0.0 alllget.com
 :: alllget.com
-0.0.0.0 allluck.cn
-:: allluck.cn
 0.0.0.0 allmt.com
 :: allmt.com
 0.0.0.0 allmygoodlife.com
@@ -9416,8 +9414,6 @@ ff02::3 ip6-allhosts
 :: as.bjmama.net
 0.0.0.0 as.casalemedia.com
 :: as.casalemedia.com
-0.0.0.0 as.cf
-:: as.cf
 0.0.0.0 as.inbox.com
 :: as.inbox.com
 0.0.0.0 as.kejet.com
@@ -23764,8 +23760,6 @@ ff02::3 ip6-allhosts
 :: ffhwzaenzoue.com
 0.0.0.0 ffickiedisticre.site
 :: ffickiedisticre.site
-0.0.0.0 ffinwwfpqi.gq
-:: ffinwwfpqi.gq
 0.0.0.0 fflsn.com
 :: fflsn.com
 0.0.0.0 ffmobi.com
@@ -24556,8 +24550,6 @@ ff02::3 ip6-allhosts
 :: fsr.lenovomm.com
 0.0.0.0 fst360.com
 :: fst360.com
-0.0.0.0 fstaw.com
-:: fstaw.com
 0.0.0.0 fstrk.net
 :: fstrk.net
 0.0.0.0 fsyzcs.com
@@ -26374,8 +26366,6 @@ ff02::3 ip6-allhosts
 :: govmetric.com
 0.0.0.0 gowin01.com
 :: gowin01.com
-0.0.0.0 goxmrminer.com
-:: goxmrminer.com
 0.0.0.0 goym93w5e7jz.com
 :: goym93w5e7jz.com
 0.0.0.0 gp.jstv.com
@@ -27846,6 +27836,8 @@ ff02::3 ip6-allhosts
 :: hjc1990.com
 0.0.0.0 hjgen.cn
 :: hjgen.cn
+0.0.0.0 hjiebsdcxldu.com
+:: hjiebsdcxldu.com
 0.0.0.0 hjjnpx.com
 :: hjjnpx.com
 0.0.0.0 hjklf.com
@@ -35648,6 +35640,8 @@ ff02::3 ip6-allhosts
 :: m.wonwg.com
 0.0.0.0 m.wooboo.com.cn
 :: m.wooboo.com.cn
+0.0.0.0 m.wsoue.com
+:: m.wsoue.com
 0.0.0.0 m.wsxxu.com
 :: m.wsxxu.com
 0.0.0.0 m.wuqutu.com
@@ -38028,8 +38022,6 @@ ff02::3 ip6-allhosts
 :: moonicorn.network
 0.0.0.0 moonify.io
 :: moonify.io
-0.0.0.0 moonsade.com
-:: moonsade.com
 0.0.0.0 moontuftboy.com
 :: moontuftboy.com
 0.0.0.0 moonwish.com.cn
@@ -39048,6 +39040,8 @@ ff02::3 ip6-allhosts
 :: ncefoundanges.info
 0.0.0.0 nchap.com
 :: nchap.com
+0.0.0.0 nchte.com
+:: nchte.com
 0.0.0.0 ncialappropo.site
 :: ncialappropo.site
 0.0.0.0 ncilityinflati.club
@@ -40178,6 +40172,8 @@ ff02::3 ip6-allhosts
 :: ntsimprovide.info
 0.0.0.0 ntsparallycalc.info
 :: ntsparallycalc.info
+0.0.0.0 ntsperimepr.space
+:: ntsperimepr.space
 0.0.0.0 ntvcld-a.akamaihd.net
 :: ntvcld-a.akamaihd.net
 0.0.0.0 ntvk1.ru
@@ -55210,6 +55206,8 @@ ff02::3 ip6-allhosts
 :: therebelfasters.info
 0.0.0.0 therejockeryfu.fun
 :: therejockeryfu.fun
+0.0.0.0 thergoldru.club
+:: thergoldru.club
 0.0.0.0 thering.cn
 :: thering.cn
 0.0.0.0 therneserutybin.info
@@ -57198,8 +57196,6 @@ ff02::3 ip6-allhosts
 :: trebleperfect.com
 0.0.0.0 tredirect.com
 :: tredirect.com
-0.0.0.0 tredman.com
-:: tredman.com
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
 :: tree-pixel-log.s3.amazonaws.com
 0.0.0.0 tree.logger.baofeng.com
@@ -63714,8 +63710,6 @@ ff02::3 ip6-allhosts
 :: www.mrelko.com
 0.0.0.0 www.msg-2.me
 :: www.msg-2.me
-0.0.0.0 www.mu
-:: www.mu
 0.0.0.0 www.mwor.gq
 :: www.mwor.gq
 0.0.0.0 www.mxcdn1.now.sh
@@ -66220,8 +66214,6 @@ ff02::3 ip6-allhosts
 :: ynqmordtj.com
 0.0.0.0 ynuf.alibaba.com
 :: ynuf.alibaba.com
-0.0.0.0 ynwqls.com
-:: ynwqls.com
 0.0.0.0 ynyfcz.cn
 :: ynyfcz.cn
 0.0.0.0 ynzby.cn
@@ -66388,6 +66380,8 @@ ff02::3 ip6-allhosts
 :: yr023.com
 0.0.0.0 yr9n47004g.com
 :: yr9n47004g.com
+0.0.0.0 yrsjqzfku.com
+:: yrsjqzfku.com
 0.0.0.0 yrxmr.com
 :: yrxmr.com
 0.0.0.0 ys.da.mgtv.com
@@ -67300,8 +67294,6 @@ ff02::3 ip6-allhosts
 :: zukxd6fkxqn.com
 0.0.0.0 zumcontentdelivery.info
 :: zumcontentdelivery.info
-0.0.0.0 zuopp.com
-:: zuopp.com
 0.0.0.0 zuowen.hydcd.com
 :: zuowen.hydcd.com
 0.0.0.0 zuphekry.net
