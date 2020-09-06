@@ -1,11 +1,11 @@
-# Checksum: MTU5OTM4MzAyMgo=
+# Checksum: MTU5OTM5Mzg5OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200906-3
-# TimeUpdated: 2020-09-06T09:03:42+00:00
+# Version: 1.6.1-20200906-4
+# TimeUpdated: 2020-09-06T12:04:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33707
+# Total: 33710
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7270,8 +7270,6 @@ ff02::3 ip6-allhosts
 :: aionfavoura.club
 0.0.0.0 aiphotogram.club
 :: aiphotogram.club
-0.0.0.0 aipmedia.com
-:: aipmedia.com
 0.0.0.0 aipu.mobi
 :: aipu.mobi
 0.0.0.0 air.1688.com
@@ -8564,6 +8562,8 @@ ff02::3 ip6-allhosts
 :: apearkcan.club
 0.0.0.0 apearmare.site
 :: apearmare.site
+0.0.0.0 apeartalb.site
+:: apeartalb.site
 0.0.0.0 apester.com
 :: apester.com
 0.0.0.0 apestsagai.club
@@ -14276,6 +14276,8 @@ ff02::3 ip6-allhosts
 :: chainads.io
 0.0.0.0 chainblock.science
 :: chainblock.science
+0.0.0.0 chaintopdom.nl
+:: chaintopdom.nl
 0.0.0.0 chairmany.club
 :: chairmany.club
 0.0.0.0 chairmaticwar.club
@@ -29370,6 +29372,8 @@ ff02::3 ip6-allhosts
 :: img.gzhuibei.com
 0.0.0.0 img.hdsygw.cn
 :: img.hdsygw.cn
+0.0.0.0 img.i8xz.com
+:: img.i8xz.com
 0.0.0.0 img.imagecdn.cn
 :: img.imagecdn.cn
 0.0.0.0 img.img18.com
@@ -60422,6 +60426,8 @@ ff02::3 ip6-allhosts
 :: wasm.stream
 0.0.0.0 wasp-182b.com
 :: wasp-182b.com
+0.0.0.0 wastedcooperate.com
+:: wastedcooperate.com
 0.0.0.0 watakaw133.xyz
 :: watakaw133.xyz
 0.0.0.0 watchfree.flv.in
