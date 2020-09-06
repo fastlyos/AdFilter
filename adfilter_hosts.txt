@@ -1,11 +1,11 @@
-# Checksum: MTU5OTM2MTQyMQo=
+# Checksum: MTU5OTM3MjIyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200906-1
-# TimeUpdated: 2020-09-06T03:03:41+00:00
+# Version: 1.6.1-20200906-2
+# TimeUpdated: 2020-09-06T06:03:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33709
+# Total: 33711
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -192,8 +192,6 @@ ff02::3 ip6-allhosts
 :: 0dbcf515975d.com
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
 :: 0e6fc55ed3d4c2c2ba0.com
-0.0.0.0 0e8ce71cc7.com
-:: 0e8ce71cc7.com
 0.0.0.0 0fwg.cn
 :: 0fwg.cn
 0.0.0.0 0gctp5ht.top
@@ -1286,8 +1284,6 @@ ff02::3 ip6-allhosts
 :: 39jz.com
 0.0.0.0 39mob.com
 :: 39mob.com
-0.0.0.0 3abcc69ab8c.com
-:: 3abcc69ab8c.com
 0.0.0.0 3amall.cn
 :: 3amall.cn
 0.0.0.0 3b0b68c876376f7311.com
@@ -2012,8 +2008,6 @@ ff02::3 ip6-allhosts
 :: 6c.cn
 0.0.0.0 6c37f8a12dede103bf7.com
 :: 6c37f8a12dede103bf7.com
-0.0.0.0 6d25c5a1bb9e821f3b7.com
-:: 6d25c5a1bb9e821f3b7.com
 0.0.0.0 6ddc.tartine-et-chocolat.com
 :: 6ddc.tartine-et-chocolat.com
 0.0.0.0 6e2f1d2ae033.com
@@ -7164,6 +7158,8 @@ ff02::3 ip6-allhosts
 :: ahstrelgnh.com
 0.0.0.0 ahszgog.com
 :: ahszgog.com
+0.0.0.0 ahw3.com
+:: ahw3.com
 0.0.0.0 ahxhny.cn
 :: ahxhny.cn
 0.0.0.0 ahyau.com
@@ -7564,6 +7560,8 @@ ff02::3 ip6-allhosts
 :: allfontshere.press
 0.0.0.0 alllget.com
 :: alllget.com
+0.0.0.0 allluck.cn
+:: allluck.cn
 0.0.0.0 allmt.com
 :: allmt.com
 0.0.0.0 allmygoodlife.com
@@ -9418,6 +9416,8 @@ ff02::3 ip6-allhosts
 :: as.bjmama.net
 0.0.0.0 as.casalemedia.com
 :: as.casalemedia.com
+0.0.0.0 as.cf
+:: as.cf
 0.0.0.0 as.inbox.com
 :: as.inbox.com
 0.0.0.0 as.kejet.com
@@ -21002,8 +21002,6 @@ ff02::3 ip6-allhosts
 :: e.hcenc.com
 0.0.0.0 e.hellomingpian.com
 :: e.hellomingpian.com
-0.0.0.0 e.hf355.cn
-:: e.hf355.cn
 0.0.0.0 e.hissq.com
 :: e.hissq.com
 0.0.0.0 e.hogyp.com
@@ -22246,8 +22244,6 @@ ff02::3 ip6-allhosts
 :: eo.llqd5.cn
 0.0.0.0 eo.luveonline.cn
 :: eo.luveonline.cn
-0.0.0.0 eo.nftqkq.cn
-:: eo.nftqkq.cn
 0.0.0.0 eo.pgqoqv.cn
 :: eo.pgqoqv.cn
 0.0.0.0 eo.qpmue.xyz
@@ -22912,8 +22908,6 @@ ff02::3 ip6-allhosts
 :: evt.collarity.com
 0.0.0.0 evt.izooto.com
 :: evt.izooto.com
-0.0.0.0 ew16d.package12.com
-:: ew16d.package12.com
 0.0.0.0 ew3.io
 :: ew3.io
 0.0.0.0 ewebanalytics.com
@@ -23770,6 +23764,8 @@ ff02::3 ip6-allhosts
 :: ffhwzaenzoue.com
 0.0.0.0 ffickiedisticre.site
 :: ffickiedisticre.site
+0.0.0.0 ffinwwfpqi.gq
+:: ffinwwfpqi.gq
 0.0.0.0 fflsn.com
 :: fflsn.com
 0.0.0.0 ffmobi.com
@@ -24560,6 +24556,8 @@ ff02::3 ip6-allhosts
 :: fsr.lenovomm.com
 0.0.0.0 fst360.com
 :: fst360.com
+0.0.0.0 fstaw.com
+:: fstaw.com
 0.0.0.0 fstrk.net
 :: fstrk.net
 0.0.0.0 fsyzcs.com
@@ -26214,8 +26212,6 @@ ff02::3 ip6-allhosts
 :: gohappy.com.tw
 0.0.0.0 gohillgo.com
 :: gohillgo.com
-0.0.0.0 goingtocontent.com
-:: goingtocontent.com
 0.0.0.0 goingup.com
 :: goingup.com
 0.0.0.0 gold.szonline.net
@@ -26378,6 +26374,8 @@ ff02::3 ip6-allhosts
 :: govmetric.com
 0.0.0.0 gowin01.com
 :: gowin01.com
+0.0.0.0 goxmrminer.com
+:: goxmrminer.com
 0.0.0.0 goym93w5e7jz.com
 :: goym93w5e7jz.com
 0.0.0.0 gp.jstv.com
@@ -29112,8 +29110,6 @@ ff02::3 ip6-allhosts
 :: ih.adscale.de
 0.0.0.0 ihais.com
 :: ihais.com
-0.0.0.0 ihear123.com
-:: ihear123.com
 0.0.0.0 iheartbucks.com
 :: iheartbucks.com
 0.0.0.0 ihhii.xyz
@@ -37704,8 +37700,6 @@ ff02::3 ip6-allhosts
 :: mo.llqd5.cn
 0.0.0.0 mo.luveonline.cn
 :: mo.luveonline.cn
-0.0.0.0 mo.mktrkn.cn
-:: mo.mktrkn.cn
 0.0.0.0 mo.moonpig.com
 :: mo.moonpig.com
 0.0.0.0 mo.mptckm.cn
@@ -38034,6 +38028,8 @@ ff02::3 ip6-allhosts
 :: moonicorn.network
 0.0.0.0 moonify.io
 :: moonify.io
+0.0.0.0 moonsade.com
+:: moonsade.com
 0.0.0.0 moontuftboy.com
 :: moontuftboy.com
 0.0.0.0 moonwish.com.cn
@@ -44440,6 +44436,8 @@ ff02::3 ip6-allhosts
 :: pthejzb.com
 0.0.0.0 ptiftoud.com
 :: ptiftoud.com
+0.0.0.0 ptiledestra.club
+:: ptiledestra.club
 0.0.0.0 ptipoast.com
 :: ptipoast.com
 0.0.0.0 ptkhy.com
@@ -54708,6 +54706,8 @@ ff02::3 ip6-allhosts
 :: tck.bangbros.com
 0.0.0.0 tcmdz.com
 :: tcmdz.com
+0.0.0.0 tcnmf.com
+:: tcnmf.com
 0.0.0.0 tcr.tynt.com
 :: tcr.tynt.com
 0.0.0.0 tcss.qq.com
@@ -55046,8 +55046,6 @@ ff02::3 ip6-allhosts
 :: textlink.simba.taobao.com
 0.0.0.0 textonlyads.com
 :: textonlyads.com
-0.0.0.0 textsrv.com
-:: textsrv.com
 0.0.0.0 tf.360.cn
 :: tf.360.cn
 0.0.0.0 tf.adddyy.com
@@ -57200,6 +57198,8 @@ ff02::3 ip6-allhosts
 :: trebleperfect.com
 0.0.0.0 tredirect.com
 :: tredirect.com
+0.0.0.0 tredman.com
+:: tredman.com
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
 :: tree-pixel-log.s3.amazonaws.com
 0.0.0.0 tree.logger.baofeng.com
@@ -61026,8 +61026,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63716,6 +63714,8 @@ ff02::3 ip6-allhosts
 :: www.mrelko.com
 0.0.0.0 www.msg-2.me
 :: www.msg-2.me
+0.0.0.0 www.mu
+:: www.mu
 0.0.0.0 www.mwor.gq
 :: www.mwor.gq
 0.0.0.0 www.mxcdn1.now.sh
@@ -66220,6 +66220,8 @@ ff02::3 ip6-allhosts
 :: ynqmordtj.com
 0.0.0.0 ynuf.alibaba.com
 :: ynuf.alibaba.com
+0.0.0.0 ynwqls.com
+:: ynwqls.com
 0.0.0.0 ynyfcz.cn
 :: ynyfcz.cn
 0.0.0.0 ynzby.cn
@@ -67298,6 +67300,8 @@ ff02::3 ip6-allhosts
 :: zukxd6fkxqn.com
 0.0.0.0 zumcontentdelivery.info
 :: zumcontentdelivery.info
+0.0.0.0 zuopp.com
+:: zuopp.com
 0.0.0.0 zuowen.hydcd.com
 :: zuowen.hydcd.com
 0.0.0.0 zuphekry.net
