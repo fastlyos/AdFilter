@@ -1,11 +1,11 @@
-# Checksum: MTU5OTM1MDkyMQo=
+# Checksum: MTU5OTM2MTQyMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200906-0
-# TimeUpdated: 2020-09-06T00:08:41+00:00
+# Version: 1.6.1-20200906-1
+# TimeUpdated: 2020-09-06T03:03:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33679
+# Total: 33709
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -192,6 +192,8 @@ ff02::3 ip6-allhosts
 :: 0dbcf515975d.com
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
 :: 0e6fc55ed3d4c2c2ba0.com
+0.0.0.0 0e8ce71cc7.com
+:: 0e8ce71cc7.com
 0.0.0.0 0fwg.cn
 :: 0fwg.cn
 0.0.0.0 0gctp5ht.top
@@ -1184,6 +1186,8 @@ ff02::3 ip6-allhosts
 :: 341073be6e9db7d2.com
 0.0.0.0 344dea1d6d130a7e8e.com
 :: 344dea1d6d130a7e8e.com
+0.0.0.0 34baedd2d0b9.com
+:: 34baedd2d0b9.com
 0.0.0.0 34ed5da2977d1ace.com
 :: 34ed5da2977d1ace.com
 0.0.0.0 350media.com
@@ -1282,6 +1286,8 @@ ff02::3 ip6-allhosts
 :: 39jz.com
 0.0.0.0 39mob.com
 :: 39mob.com
+0.0.0.0 3abcc69ab8c.com
+:: 3abcc69ab8c.com
 0.0.0.0 3amall.cn
 :: 3amall.cn
 0.0.0.0 3b0b68c876376f7311.com
@@ -3562,6 +3568,8 @@ ff02::3 ip6-allhosts
 :: absorbingcorn.com
 0.0.0.0 absorbingprison.com
 :: absorbingprison.com
+0.0.0.0 abstinencecalculation.com
+:: abstinencecalculation.com
 0.0.0.0 abstractedamount.com
 :: abstractedamount.com
 0.0.0.0 absurdapple.com
@@ -9236,6 +9244,8 @@ ff02::3 ip6-allhosts
 :: aqgyju.cn
 0.0.0.0 aqjdigkqvmakz.com
 :: aqjdigkqvmakz.com
+0.0.0.0 aqknmbh198dn.com
+:: aqknmbh198dn.com
 0.0.0.0 aqtracker.com
 :: aqtracker.com
 0.0.0.0 aquete.com
@@ -18370,8 +18380,6 @@ ff02::3 ip6-allhosts
 :: d8360.com
 0.0.0.0 d8885.com
 :: d8885.com
-0.0.0.0 d8rk54i4mohrb.cloudfront.net
-:: d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9.sina.com.cn
 :: d9.sina.com.cn
 0.0.0.0 d9.sinaimg.cn
@@ -19330,6 +19338,8 @@ ff02::3 ip6-allhosts
 :: dfe.mic.mob.com
 0.0.0.0 dfgbalon.com
 :: dfgbalon.com
+0.0.0.0 dfgfgvqogboiz.com
+:: dfgfgvqogboiz.com
 0.0.0.0 dfiv.bjhengdiao.com
 :: dfiv.bjhengdiao.com
 0.0.0.0 dfnews.rdtuijian.com
@@ -21916,6 +21926,8 @@ ff02::3 ip6-allhosts
 :: elmenor.xyz
 0.0.0.0 eloer.cn
 :: eloer.cn
+0.0.0.0 elongatedinscription.com
+:: elongatedinscription.com
 0.0.0.0 eloquencer.com
 :: eloquencer.com
 0.0.0.0 elr.sfr.fr
@@ -23832,6 +23844,8 @@ ff02::3 ip6-allhosts
 :: fileloadr.com
 0.0.0.0 files.adform.net
 :: files.adform.net
+0.0.0.0 files.im
+:: files.im
 0.0.0.0 files2.sogou.com
 :: files2.sogou.com
 0.0.0.0 filestube.com
@@ -25414,8 +25428,12 @@ ff02::3 ip6-allhosts
 :: geniusdisplay.com
 0.0.0.0 geniusonclick.com
 :: geniusonclick.com
+0.0.0.0 geo-eu.snigelweb.com
+:: geo-eu.snigelweb.com
 0.0.0.0 geo-targetly.com
 :: geo-targetly.com
+0.0.0.0 geo-us.snigelweb.com
+:: geo-us.snigelweb.com
 0.0.0.0 geo.6play.fr
 :: geo.6play.fr
 0.0.0.0 geo.battle.net
@@ -26196,12 +26214,16 @@ ff02::3 ip6-allhosts
 :: gohappy.com.tw
 0.0.0.0 gohillgo.com
 :: gohillgo.com
+0.0.0.0 goingtocontent.com
+:: goingtocontent.com
 0.0.0.0 goingup.com
 :: goingup.com
 0.0.0.0 gold.szonline.net
 :: gold.szonline.net
 0.0.0.0 golden1.sogou.com
 :: golden1.sogou.com
+0.0.0.0 goldenbettingefforlessefforless.com
+:: goldenbettingefforlessefforless.com
 0.0.0.0 golderotica.com
 :: golderotica.com
 0.0.0.0 goldlambotrader.co
@@ -26732,6 +26754,8 @@ ff02::3 ip6-allhosts
 :: guoxintdh.com
 0.0.0.0 guq9.vente-unique.it
 :: guq9.vente-unique.it
+0.0.0.0 gurun.cc
+:: gurun.cc
 0.0.0.0 gururevenue.com
 :: gururevenue.com
 0.0.0.0 gushifanyi.com
@@ -29734,6 +29758,8 @@ ff02::3 ip6-allhosts
 :: imzahrwl.xyz
 0.0.0.0 in-appadvertising.com
 :: in-appadvertising.com
+0.0.0.0 in-page-push.com
+:: in-page-push.com
 0.0.0.0 in.cuebiq.com
 :: in.cuebiq.com
 0.0.0.0 in.hystq.com
@@ -29938,6 +29964,8 @@ ff02::3 ip6-allhosts
 :: iniutui.com
 0.0.0.0 injuredcandy.com
 :: injuredcandy.com
+0.0.0.0 inkornesto.com
+:: inkornesto.com
 0.0.0.0 inktad.com
 :: inktad.com
 0.0.0.0 inline.admedia.com
@@ -35102,6 +35130,8 @@ ff02::3 ip6-allhosts
 :: m.ecenf.com
 0.0.0.0 m.ediun.com
 :: m.ediun.com
+0.0.0.0 m.edysn.cn
+:: m.edysn.cn
 0.0.0.0 m.ee-skin.com
 :: m.ee-skin.com
 0.0.0.0 m.ee-vip.net
@@ -36530,6 +36560,8 @@ ff02::3 ip6-allhosts
 :: measure.ameblo.jp
 0.0.0.0 measure.ly
 :: measure.ly
+0.0.0.0 measure.refinery89.com
+:: measure.refinery89.com
 0.0.0.0 measuread.com
 :: measuread.com
 0.0.0.0 measured.com
@@ -43080,6 +43112,8 @@ ff02::3 ip6-allhosts
 :: platformpanda.com
 0.0.0.0 plathwardsve.site
 :: plathwardsve.site
+0.0.0.0 platinumarrangements.com
+:: platinumarrangements.com
 0.0.0.0 plausible.io
 :: plausible.io
 0.0.0.0 plaxo.com
@@ -44366,6 +44400,8 @@ ff02::3 ip6-allhosts
 :: ptaivain.net
 0.0.0.0 ptarepjx.com
 :: ptarepjx.com
+0.0.0.0 ptaubsih.com
+:: ptaubsih.com
 0.0.0.0 ptaughar.com
 :: ptaughar.com
 0.0.0.0 ptaulrou.net
@@ -46960,6 +46996,8 @@ ff02::3 ip6-allhosts
 :: riluaneth.com
 0.0.0.0 rinedcountilconsiden.info
 :: rinedcountilconsiden.info
+0.0.0.0 ringassum.club
+:: ringassum.club
 0.0.0.0 ringplayground.com
 :: ringplayground.com
 0.0.0.0 ringtonepartner.com
@@ -47198,6 +47236,8 @@ ff02::3 ip6-allhosts
 :: roosterfirework.com
 0.0.0.0 roostsflewcat.cam
 :: roostsflewcat.cam
+0.0.0.0 rootstood.club
+:: rootstood.club
 0.0.0.0 rooveysimagi.club
 :: rooveysimagi.club
 0.0.0.0 roredi.com
@@ -47498,6 +47538,10 @@ ff02::3 ip6-allhosts
 :: rum-collector.pingdom.net
 0.0.0.0 rum-static.pingdom.net
 :: rum-static.pingdom.net
+0.0.0.0 rum.azion.com
+:: rum.azion.com
+0.0.0.0 rum.azioncdn.net
+:: rum.azioncdn.net
 0.0.0.0 rum.conde.io
 :: rum.conde.io
 0.0.0.0 rum.kobo.com
@@ -51870,6 +51914,8 @@ ff02::3 ip6-allhosts
 :: ssl.zy3dku.cn
 0.0.0.0 ssl2.gdqifang.com
 :: ssl2.gdqifang.com
+0.0.0.0 ssl2anyone2.com
+:: ssl2anyone2.com
 0.0.0.0 ssl2anyone3.com
 :: ssl2anyone3.com
 0.0.0.0 ssl2anyone5.com
@@ -54392,6 +54438,8 @@ ff02::3 ip6-allhosts
 :: tags.msnbc.com
 0.0.0.0 tags.op-palvelut.fi
 :: tags.op-palvelut.fi
+0.0.0.0 tags.refinery89.com
+:: tags.refinery89.com
 0.0.0.0 tags.sprizzy.com
 :: tags.sprizzy.com
 0.0.0.0 tags2.adshell.net
@@ -54998,6 +55046,8 @@ ff02::3 ip6-allhosts
 :: textlink.simba.taobao.com
 0.0.0.0 textonlyads.com
 :: textonlyads.com
+0.0.0.0 textsrv.com
+:: textsrv.com
 0.0.0.0 tf.360.cn
 :: tf.360.cn
 0.0.0.0 tf.adddyy.com
@@ -55626,6 +55676,8 @@ ff02::3 ip6-allhosts
 :: tmuseum.com.cn
 0.0.0.0 tn.inxjguc.cn
 :: tn.inxjguc.cn
+0.0.0.0 tnative.ru
+:: tnative.ru
 0.0.0.0 tncexvzu.com
 :: tncexvzu.com
 0.0.0.0 tnctrx.com
@@ -58570,6 +58622,8 @@ ff02::3 ip6-allhosts
 :: urnkawsxxh.com
 0.0.0.0 uropersag.club
 :: uropersag.club
+0.0.0.0 urs.metacritic.com
+:: urs.metacritic.com
 0.0.0.0 urs.zdnet.com
 :: urs.zdnet.com
 0.0.0.0 urstats.de
@@ -58858,6 +58912,8 @@ ff02::3 ip6-allhosts
 :: uzixia.zwdu.com
 0.0.0.0 uzk4umokyri3.com
 :: uzk4umokyri3.com
+0.0.0.0 uznbehyrn.com
+:: uznbehyrn.com
 0.0.0.0 uzpmrbek.com
 :: uzpmrbek.com
 0.0.0.0 uzrating.com
@@ -60970,6 +61026,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -65196,6 +65254,8 @@ ff02::3 ip6-allhosts
 :: xmshqh.com
 0.0.0.0 xmtsyg.com
 :: xmtsyg.com
+0.0.0.0 xmwbplpgjc.com
+:: xmwbplpgjc.com
 0.0.0.0 xn--2qu92fhtx4ff.club
 :: xn--2qu92fhtx4ff.club
 0.0.0.0 xn--2qu92fhtx4ff.gold
