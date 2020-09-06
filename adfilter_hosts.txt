@@ -1,11 +1,11 @@
-# Checksum: MTU5OTQxNTQ4Nwo=
+# Checksum: MTU5OTQyNjIyMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200906-6
-# TimeUpdated: 2020-09-06T18:04:47+00:00
+# Version: 1.6.1-20200906-7
+# TimeUpdated: 2020-09-06T21:03:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33726
+# Total: 33728
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3316,6 +3316,8 @@ ff02::3 ip6-allhosts
 :: a911a1ed6c0.com
 0.0.0.0 a9377j.com
 :: a9377j.com
+0.0.0.0 a940db0846408b2.com
+:: a940db0846408b2.com
 0.0.0.0 a9d7c19f0282.com
 :: a9d7c19f0282.com
 0.0.0.0 a9lm.com
@@ -9050,8 +9052,6 @@ ff02::3 ip6-allhosts
 :: app.xdrig.com
 0.0.0.0 app.xizi.com
 :: app.xizi.com
-0.0.0.0 app01.nodes.gslb.mi-idc.com
-:: app01.nodes.gslb.mi-idc.com
 0.0.0.0 appadhoc.com
 :: appadhoc.com
 0.0.0.0 appadhoc.net
@@ -22534,6 +22534,8 @@ ff02::3 ip6-allhosts
 :: essaycoupons.com
 0.0.0.0 esshortleda.info
 :: esshortleda.info
+0.0.0.0 essionprobl.space
+:: essionprobl.space
 0.0.0.0 estadisticas.lanacion.com.ar
 :: estadisticas.lanacion.com.ar
 0.0.0.0 estadisticasgratis.com
@@ -59056,6 +59058,8 @@ ff02::3 ip6-allhosts
 :: v1.hd.log.hunantv.com
 0.0.0.0 v1.hdd.log.hunantv.com
 :: v1.hdd.log.hunantv.com
+0.0.0.0 v1.kwpewga.cn
+:: v1.kwpewga.cn
 0.0.0.0 v1.log.moji.com
 :: v1.log.moji.com
 0.0.0.0 v1.phb123.com
