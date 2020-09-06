@@ -1,11 +1,11 @@
-# Checksum: MTU5OTQwNDYxOAo=
+# Checksum: MTU5OTQxNTQ4Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200906-5
-# TimeUpdated: 2020-09-06T15:03:38+00:00
+# Version: 1.6.1-20200906-6
+# TimeUpdated: 2020-09-06T18:04:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33723
+# Total: 33726
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10708,6 +10708,8 @@ ff02::3 ip6-allhosts
 :: batch.com
 0.0.0.0 bathibsa.com
 :: bathibsa.com
+0.0.0.0 bathouph.net
+:: bathouph.net
 0.0.0.0 bats.video.yahoo.com
 :: bats.video.yahoo.com
 0.0.0.0 batwaxwok.site
@@ -13698,6 +13700,8 @@ ff02::3 ip6-allhosts
 :: ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cchfjz.com
 :: cchfjz.com
+0.0.0.0 ccji.cc
+:: ccji.cc
 0.0.0.0 ccmdgg.com
 :: ccmdgg.com
 0.0.0.0 cconseent.info
@@ -30076,8 +30080,6 @@ ff02::3 ip6-allhosts
 :: insnative.com
 0.0.0.0 insolencewalter.com
 :: insolencewalter.com
-0.0.0.0 insomn.pro
-:: insomn.pro
 0.0.0.0 inspikon.com
 :: inspikon.com
 0.0.0.0 insta-cash.net
@@ -34432,6 +34434,8 @@ ff02::3 ip6-allhosts
 :: lolmp4.com
 0.0.0.0 lolsefti.com
 :: lolsefti.com
+0.0.0.0 lolvsdota.cn
+:: lolvsdota.cn
 0.0.0.0 lomark.cn
 :: lomark.cn
 0.0.0.0 lomerswithi.club
@@ -48642,6 +48646,8 @@ ff02::3 ip6-allhosts
 :: sapha.com
 0.0.0.0 sapi.sina.cn
 :: sapi.sina.cn
+0.0.0.0 sappropsi.club
+:: sappropsi.club
 0.0.0.0 sapsixysho.pro
 :: sapsixysho.pro
 0.0.0.0 sapsuaveover.com
