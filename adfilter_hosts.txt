@@ -1,8 +1,8 @@
-# Checksum: MTU5OTQ4MDI4Mwo=
+# Checksum: MTU5OTQ5MTAzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200907-4
-# TimeUpdated: 2020-09-07T12:04:43+00:00
+# Version: 1.6.1-20200907-5
+# TimeUpdated: 2020-09-07T15:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 33769
@@ -3404,6 +3404,8 @@ ff02::3 ip6-allhosts
 :: aax.amazon-adsystem.com
 0.0.0.0 aaxdetect.com
 :: aaxdetect.com
+0.0.0.0 aaxtuhit.com
+:: aaxtuhit.com
 0.0.0.0 aazwugtom.com
 :: aazwugtom.com
 0.0.0.0 ab.cnbanbao.com
@@ -8762,8 +8764,6 @@ ff02::3 ip6-allhosts
 :: api.leadbolt.net
 0.0.0.0 api.leancloud.cn
 :: api.leancloud.cn
-0.0.0.0 api.lgsstyel.com
-:: api.lgsstyel.com
 0.0.0.0 api.mediarithmics.com
 :: api.mediarithmics.com
 0.0.0.0 api.minero.cc
@@ -11610,8 +11610,6 @@ ff02::3 ip6-allhosts
 :: bigcattracks.com
 0.0.0.0 bigchoicegroup.com
 :: bigchoicegroup.com
-0.0.0.0 bigcoob.xyz
-:: bigcoob.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -41224,6 +41222,8 @@ ff02::3 ip6-allhosts
 :: optout.crsspxl.com
 0.0.0.0 opus.analytics.yahoo.com
 :: opus.analytics.yahoo.com
+0.0.0.0 oqhrlphoecl.com
+:: oqhrlphoecl.com
 0.0.0.0 oranges88.com
 :: oranges88.com
 0.0.0.0 orarala.com
