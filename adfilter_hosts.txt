@@ -1,11 +1,11 @@
-# Checksum: MTU5OTQyNjIyMgo=
+# Checksum: MTU5OTQzNzMyNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200906-7
-# TimeUpdated: 2020-09-06T21:03:42+00:00
+# Version: 1.6.1-20200907-0
+# TimeUpdated: 2020-09-07T00:08:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33728
+# Total: 33732
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1590,8 +1590,6 @@ ff02::3 ip6-allhosts
 :: 51gxqm.com
 0.0.0.0 51kaowang.com
 :: 51kaowang.com
-0.0.0.0 51link.com
-:: 51link.com
 0.0.0.0 51maiwanju.com
 :: 51maiwanju.com
 0.0.0.0 51mld.cn
@@ -18620,6 +18618,8 @@ ff02::3 ip6-allhosts
 :: dasfdasfasdf.no-ip.info
 0.0.0.0 dashantechan.cn
 :: dashantechan.cn
+0.0.0.0 dashaowu.com
+:: dashaowu.com
 0.0.0.0 dashbida.com
 :: dashbida.com
 0.0.0.0 dashboard.inwemo.com
@@ -20022,6 +20022,8 @@ ff02::3 ip6-allhosts
 :: dntrax.com
 0.0.0.0 dnvod.tv
 :: dnvod.tv
+0.0.0.0 dnzwjlbknhe.com
+:: dnzwjlbknhe.com
 0.0.0.0 do-not-tracker.org
 :: do-not-tracker.org
 0.0.0.0 do09.net
@@ -38196,6 +38198,8 @@ ff02::3 ip6-allhosts
 :: mp4.res.hunantv.com
 0.0.0.0 mp4ba.qucaigg.com
 :: mp4ba.qucaigg.com
+0.0.0.0 mpanybac.club
+:: mpanybac.club
 0.0.0.0 mpay69.com
 :: mpay69.com
 0.0.0.0 mpay69.pw
@@ -65538,6 +65542,8 @@ ff02::3 ip6-allhosts
 :: xuexingkeji.cn
 0.0.0.0 xueyanshan.com
 :: xueyanshan.com
+0.0.0.0 xulekeji.com
+:: xulekeji.com
 0.0.0.0 xulizui6.com
 :: xulizui6.com
 0.0.0.0 xunchn.com
@@ -66624,6 +66630,8 @@ ff02::3 ip6-allhosts
 :: yymmsd.cn
 0.0.0.0 yyou360.com
 :: yyou360.com
+0.0.0.0 yyp17.com
+:: yyp17.com
 0.0.0.0 yyshow.top
 :: yyshow.top
 0.0.0.0 yyy6999.com
