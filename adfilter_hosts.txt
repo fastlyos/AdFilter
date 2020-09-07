@@ -1,11 +1,11 @@
-# Checksum: MTU5OTQ1ODgwNAo=
+# Checksum: MTU5OTQ2OTQyMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200907-2
-# TimeUpdated: 2020-09-07T06:06:44+00:00
+# Version: 1.6.1-20200907-3
+# TimeUpdated: 2020-09-07T09:03:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33763
+# Total: 33766
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1742,6 +1742,8 @@ ff02::3 ip6-allhosts
 :: 58isg.cn
 0.0.0.0 58lm.vip
 :: 58lm.vip
+0.0.0.0 58xiangka.com
+:: 58xiangka.com
 0.0.0.0 58xiao.cn
 :: 58xiao.cn
 0.0.0.0 592man.com
@@ -11322,8 +11324,6 @@ ff02::3 ip6-allhosts
 :: benedictene.com
 0.0.0.0 bengbeng.com
 :: bengbeng.com
-0.0.0.0 bensezhiye.com
-:: bensezhiye.com
 0.0.0.0 benshiw.net
 :: benshiw.net
 0.0.0.0 bento.agoda.com
@@ -11638,6 +11638,8 @@ ff02::3 ip6-allhosts
 :: bigstats.net
 0.0.0.0 bigtracker.com
 :: bigtracker.com
+0.0.0.0 bihaipack.com
+:: bihaipack.com
 0.0.0.0 bikepasture.com
 :: bikepasture.com
 0.0.0.0 bildirnet.com
@@ -20448,8 +20450,6 @@ ff02::3 ip6-allhosts
 :: drowle.com
 0.0.0.0 drunkersrr.club
 :: drunkersrr.club
-0.0.0.0 drupalupdates.tk
-:: drupalupdates.tk
 0.0.0.0 drydrum.com
 :: drydrum.com
 0.0.0.0 dryzapsol.com
@@ -34978,6 +34978,8 @@ ff02::3 ip6-allhosts
 :: m.77vcd.com
 0.0.0.0 m.8v61j.cn
 :: m.8v61j.cn
+0.0.0.0 m.91heima.cn
+:: m.91heima.cn
 0.0.0.0 m.937920.com
 :: m.937920.com
 0.0.0.0 m.958so.cn
@@ -37212,8 +37214,6 @@ ff02::3 ip6-allhosts
 :: mightseers.club
 0.0.0.0 mignoops.net
 :: mignoops.net
-0.0.0.0 migongetlucky.com
-:: migongetlucky.com
 0.0.0.0 mihui.com
 :: mihui.com
 0.0.0.0 miidi.net
@@ -41212,8 +41212,6 @@ ff02::3 ip6-allhosts
 :: optnmnstr.com
 0.0.0.0 optnmstr.com
 :: optnmstr.com
-0.0.0.0 optnx.com
-:: optnx.com
 0.0.0.0 optout.crsspxl.com
 :: optout.crsspxl.com
 0.0.0.0 opus.analytics.yahoo.com
@@ -50812,6 +50810,8 @@ ff02::3 ip6-allhosts
 :: smallbeginner.com
 0.0.0.0 smallentpation.pro
 :: smallentpation.pro
+0.0.0.0 smallvideoapp.com
+:: smallvideoapp.com
 0.0.0.0 smart-789.image.mucang.cn
 :: smart-789.image.mucang.cn
 0.0.0.0 smart-789.kakamobi.cn
@@ -51030,6 +51030,8 @@ ff02::3 ip6-allhosts
 :: snrbox.com
 0.0.0.0 snrcdn.net
 :: snrcdn.net
+0.0.0.0 snsgckygbed.com
+:: snsgckygbed.com
 0.0.0.0 snxyf.com
 :: snxyf.com
 0.0.0.0 snyu.com
@@ -61130,6 +61132,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -66042,6 +66046,8 @@ ff02::3 ip6-allhosts
 :: yfcc.info
 0.0.0.0 yfcode.m.gxwztv.com
 :: yfcode.m.gxwztv.com
+0.0.0.0 yfi8.com
+:: yfi8.com
 0.0.0.0 yfivoqeh.online
 :: yfivoqeh.online
 0.0.0.0 yfjq.a6ntv.cn
