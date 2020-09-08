@@ -1,8 +1,8 @@
-# Checksum: MTU5OTUzNDI1OAo=
+# Checksum: MTU5OTU0NTAzNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200908-1
-# TimeUpdated: 2020-09-08T03:04:18+00:00
+# Version: 1.6.1-20200908-2
+# TimeUpdated: 2020-09-08T06:03:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 33802
@@ -128,6 +128,8 @@ ff02::3 ip6-allhosts
 :: 0571yy.com
 0.0.0.0 0592weixin.com
 :: 0592weixin.com
+0.0.0.0 0593info.com
+:: 0593info.com
 0.0.0.0 0594003.com
 :: 0594003.com
 0.0.0.0 0594529.com
@@ -3350,8 +3352,6 @@ ff02::3 ip6-allhosts
 :: aa53df329975c325.com
 0.0.0.0 aa808.com
 :: aa808.com
-0.0.0.0 aaa.3hgui.com
-:: aaa.3hgui.com
 0.0.0.0 aaa.tumanyi.com
 :: aaa.tumanyi.com
 0.0.0.0 aaa.zxglpj.cn
@@ -3374,6 +3374,8 @@ ff02::3 ip6-allhosts
 :: aag.yahooapis.jp
 0.0.0.0 aagmbroxruno.com
 :: aagmbroxruno.com
+0.0.0.0 aakkzzz.com
+:: aakkzzz.com
 0.0.0.0 aaliyahiya.com
 :: aaliyahiya.com
 0.0.0.0 aamapi.com
@@ -7226,6 +7228,8 @@ ff02::3 ip6-allhosts
 :: ailawlani.club
 0.0.0.0 aileenvideos.pro
 :: aileenvideos.pro
+0.0.0.0 ailefen.com
+:: ailefen.com
 0.0.0.0 aili.com
 :: aili.com
 0.0.0.0 ailicee.com
@@ -13064,8 +13068,6 @@ ff02::3 ip6-allhosts
 :: c.xiaobaipan.com
 0.0.0.0 c.xsbnxxzw.cn
 :: c.xsbnxxzw.cn
-0.0.0.0 c.xznykf.org
-:: c.xznykf.org
 0.0.0.0 c.yes.youku.com
 :: c.yes.youku.com
 0.0.0.0 c.youdao.com
@@ -16204,8 +16206,6 @@ ff02::3 ip6-allhosts
 :: content.adriver.ru
 0.0.0.0 content.livesportmedia.eu
 :: content.livesportmedia.eu
-0.0.0.0 content.liveuniverse.com
-:: content.liveuniverse.com
 0.0.0.0 content.s8bbs.com
 :: content.s8bbs.com
 0.0.0.0 content.secondspace.com
@@ -17190,8 +17190,6 @@ ff02::3 ip6-allhosts
 :: cretextsma.info
 0.0.0.0 crewita.co
 :: crewita.co
-0.0.0.0 crhvyali.com
-:: crhvyali.com
 0.0.0.0 crimentasaju.site
 :: crimentasaju.site
 0.0.0.0 criminglynuk.pro
@@ -18114,6 +18112,8 @@ ff02::3 ip6-allhosts
 :: d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2r3rw91i5z1w9.cloudfront.net
 :: d2r3rw91i5z1w9.cloudfront.net
+0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
+:: d2r7bmv6l6bnd1.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 :: d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
@@ -22510,6 +22510,8 @@ ff02::3 ip6-allhosts
 :: es54i9g7p7xh.com
 0.0.0.0 esaiasegyptian.pro
 :: esaiasegyptian.pro
+0.0.0.0 esampletedr.space
+:: esampletedr.space
 0.0.0.0 esaudiesser.fun
 :: esaudiesser.fun
 0.0.0.0 esauwoan.com
@@ -25484,6 +25486,8 @@ ff02::3 ip6-allhosts
 :: geo.cliphunter.com
 0.0.0.0 geo.connexionsecure.com
 :: geo.connexionsecure.com
+0.0.0.0 geo.emol.cl
+:: geo.emol.cl
 0.0.0.0 geo.ertya.com
 :: geo.ertya.com
 0.0.0.0 geo.frtya.com
@@ -26810,8 +26814,6 @@ ff02::3 ip6-allhosts
 :: gururevenue.com
 0.0.0.0 gushifanyi.com
 :: gushifanyi.com
-0.0.0.0 gustaver.ddns.ne
-:: gustaver.ddns.ne
 0.0.0.0 gutouwang.net
 :: gutouwang.net
 0.0.0.0 gvisit.com
@@ -32104,8 +32106,6 @@ ff02::3 ip6-allhosts
 :: jyjhkz.com
 0.0.0.0 jynp9m209p.com
 :: jynp9m209p.com
-0.0.0.0 jysbj.cn
-:: jysbj.cn
 0.0.0.0 jystea.com
 :: jystea.com
 0.0.0.0 jyz.fjtzjy.com
@@ -34000,6 +34000,8 @@ ff02::3 ip6-allhosts
 :: lm1.tuliu.com
 0.0.0.0 lm1.wzpcw.com
 :: lm1.wzpcw.com
+0.0.0.0 lmdknj.xsbiquge.com
+:: lmdknj.xsbiquge.com
 0.0.0.0 lmjxlihzcvicyi.com
 :: lmjxlihzcvicyi.com
 0.0.0.0 lmn-pou-win.com
@@ -35000,8 +35002,6 @@ ff02::3 ip6-allhosts
 :: m.74n3a.cn
 0.0.0.0 m.77vcd.com
 :: m.77vcd.com
-0.0.0.0 m.8p30k.cn
-:: m.8p30k.cn
 0.0.0.0 m.8v61j.cn
 :: m.8v61j.cn
 0.0.0.0 m.91heima.cn
@@ -35220,8 +35220,6 @@ ff02::3 ip6-allhosts
 :: m.enjuk.com
 0.0.0.0 m.ensts.cn
 :: m.ensts.cn
-0.0.0.0 m.eozozw.cn
-:: m.eozozw.cn
 0.0.0.0 m.epoch168.com
 :: m.epoch168.com
 0.0.0.0 m.exusr.com
@@ -35510,8 +35508,6 @@ ff02::3 ip6-allhosts
 :: m.nanjingmeitian.cn
 0.0.0.0 m.nanyangqiaoxiang.cn
 :: m.nanyangqiaoxiang.cn
-0.0.0.0 m.nchet.com
-:: m.nchet.com
 0.0.0.0 m.nernv.com
 :: m.nernv.com
 0.0.0.0 m.ngsaang.top
@@ -35590,8 +35586,6 @@ ff02::3 ip6-allhosts
 :: m.rcaiu.com
 0.0.0.0 m.reachmax.cn
 :: m.reachmax.cn
-0.0.0.0 m.rgjrq.cn
-:: m.rgjrq.cn
 0.0.0.0 m.rhcapass.com
 :: m.rhcapass.com
 0.0.0.0 m.richaji.com
@@ -36232,6 +36226,8 @@ ff02::3 ip6-allhosts
 :: marapcana.online
 0.0.0.0 marchites.club
 :: marchites.club
+0.0.0.0 marerajahcopied.com
+:: marerajahcopied.com
 0.0.0.0 marfeel.mgr.consensu.org
 :: marfeel.mgr.consensu.org
 0.0.0.0 marial.pro
@@ -37768,8 +37764,6 @@ ff02::3 ip6-allhosts
 :: mo.cyrc793.top
 0.0.0.0 mo.dfnbyn.top
 :: mo.dfnbyn.top
-0.0.0.0 mo.drzd9.cn
-:: mo.drzd9.cn
 0.0.0.0 mo.dybx992.top
 :: mo.dybx992.top
 0.0.0.0 mo.dymr697.top
@@ -38264,8 +38258,6 @@ ff02::3 ip6-allhosts
 :: mozist.com
 0.0.0.0 mp-https.info
 :: mp-https.info
-0.0.0.0 mp.cheering3d.com
-:: mp.cheering3d.com
 0.0.0.0 mp.miaomiaojia.cc
 :: mp.miaomiaojia.cc
 0.0.0.0 mp.qy9.net
@@ -39830,8 +39822,6 @@ ff02::3 ip6-allhosts
 :: niurenw.com
 0.0.0.0 niux88.com
 :: niux88.com
-0.0.0.0 niwd.zhybw88.com
-:: niwd.zhybw88.com
 0.0.0.0 niwota.com
 :: niwota.com
 0.0.0.0 niwztgetlytxv.com
@@ -39868,8 +39858,6 @@ ff02::3 ip6-allhosts
 :: njs.myyage.com
 0.0.0.0 njs.reliancevalve.com
 :: njs.reliancevalve.com
-0.0.0.0 njwxh.com
-:: njwxh.com
 0.0.0.0 njx.0302woeuxcbrnxcvsdfghu.xyz
 :: njx.0302woeuxcbrnxcvsdfghu.xyz
 0.0.0.0 njx.1202merpinsasfzpiyevc.xyz
@@ -47642,6 +47630,8 @@ ff02::3 ip6-allhosts
 :: rtw.monerise.com
 0.0.0.0 ru-gmtdmp.mookie1.com
 :: ru-gmtdmp.mookie1.com
+0.0.0.0 ru32an.cn
+:: ru32an.cn
 0.0.0.0 ru4.com
 :: ru4.com
 0.0.0.0 ruanjiancms.com
@@ -47764,6 +47754,8 @@ ff02::3 ip6-allhosts
 :: rvnpytnhxppkzv.com
 0.0.0.0 rvswxrjkmjou.com
 :: rvswxrjkmjou.com
+0.0.0.0 rvv.emol.com
+:: rvv.emol.com
 0.0.0.0 rwfqhbwkxpewc.com
 :: rwfqhbwkxpewc.com
 0.0.0.0 rwindomdec.fun
@@ -53190,6 +53182,8 @@ ff02::3 ip6-allhosts
 :: statsmachine.com
 0.0.0.0 statsmobi.com
 :: statsmobi.com
+0.0.0.0 statsmp2.emol.com
+:: statsmp2.emol.com
 0.0.0.0 statsrely.com
 :: statsrely.com
 0.0.0.0 statssheet.com
@@ -54632,6 +54626,8 @@ ff02::3 ip6-allhosts
 :: talkingdata.cn
 0.0.0.0 talkingdata.com.cn
 :: talkingdata.com.cn
+0.0.0.0 talkingdom.club
+:: talkingdom.club
 0.0.0.0 talsauve.com
 :: talsauve.com
 0.0.0.0 tamechangekn.info
@@ -65114,6 +65110,8 @@ ff02::3 ip6-allhosts
 :: xeafosrhjk.com
 0.0.0.0 xebadu.com
 :: xebadu.com
+0.0.0.0 xeiwcnwmlv.com
+:: xeiwcnwmlv.com
 0.0.0.0 xel-xel-fie.com
 :: xel-xel-fie.com
 0.0.0.0 xelllwrite.com
@@ -66644,6 +66642,8 @@ ff02::3 ip6-allhosts
 :: yueduyy.com
 0.0.0.0 yueyelive.com
 :: yueyelive.com
+0.0.0.0 yug8.com
+:: yug8.com
 0.0.0.0 yuhuads.com
 :: yuhuads.com
 0.0.0.0 yujiangchu.com
