@@ -1,11 +1,11 @@
-# Checksum: MTU5OTU1NTgyNQo=
+# Checksum: MTU5OTU2NjY4Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200908-3
-# TimeUpdated: 2020-09-08T09:03:45+00:00
+# Version: 1.6.1-20200908-4
+# TimeUpdated: 2020-09-08T12:04:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33808
+# Total: 33820
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2548,6 +2548,8 @@ ff02::3 ip6-allhosts
 :: 8jkx.com
 0.0.0.0 8le8le.com
 :: 8le8le.com
+0.0.0.0 8lgju1jryo7c.com
+:: 8lgju1jryo7c.com
 0.0.0.0 8mb4qkd74cht.com
 :: 8mb4qkd74cht.com
 0.0.0.0 8mlb.cn
@@ -4676,6 +4678,8 @@ ff02::3 ip6-allhosts
 :: adespresso.com
 0.0.0.0 adeventtracker.spotify.com
 :: adeventtracker.spotify.com
+0.0.0.0 adex.media
+:: adex.media
 0.0.0.0 adexc.net
 :: adexc.net
 0.0.0.0 adexchange.io
@@ -5376,8 +5380,6 @@ ff02::3 ip6-allhosts
 :: adplexo.com
 0.0.0.0 adplugg.com
 :: adplugg.com
-0.0.0.0 adplusplus.fr
-:: adplusplus.fr
 0.0.0.0 adplxmd.com
 :: adplxmd.com
 0.0.0.0 adpm.app.qq.com
@@ -7536,8 +7538,6 @@ ff02::3 ip6-allhosts
 :: aliveachiever.com
 0.0.0.0 aliyoo999.com
 :: aliyoo999.com
-0.0.0.0 aliyune.xyz
-:: aliyune.xyz
 0.0.0.0 aliyunxin.com
 :: aliyunxin.com
 0.0.0.0 alkemics.com
@@ -17176,6 +17176,8 @@ ff02::3 ip6-allhosts
 :: creativetv.pro
 0.0.0.0 creator.zmags.com
 :: creator.zmags.com
+0.0.0.0 creaturesburglarfancied.com
+:: creaturesburglarfancied.com
 0.0.0.0 creditiesv.club
 :: creditiesv.club
 0.0.0.0 creditions.club
@@ -17762,8 +17764,6 @@ ff02::3 ip6-allhosts
 :: d00.sina.com.cn
 0.0.0.0 d04b7831b4690.com
 :: d04b7831b4690.com
-0.0.0.0 d0eda50bf4f7d172c06.com
-:: d0eda50bf4f7d172c06.com
 0.0.0.0 d0efb7d9aeb478d.com
 :: d0efb7d9aeb478d.com
 0.0.0.0 d0f85db8ee56f5c6.com
@@ -27072,6 +27072,8 @@ ff02::3 ip6-allhosts
 :: hadsoks.com
 0.0.0.0 hadspms.com
 :: hadspms.com
+0.0.0.0 hadspmz.com
+:: hadspmz.com
 0.0.0.0 haftobso.net
 :: haftobso.net
 0.0.0.0 hagainstan.space
@@ -30018,6 +30020,8 @@ ff02::3 ip6-allhosts
 :: ingprographyt.info
 0.0.0.0 inheart.ru
 :: inheart.ru
+0.0.0.0 inheritwalter.com
+:: inheritwalter.com
 0.0.0.0 ininmacerad.pro
 :: ininmacerad.pro
 0.0.0.0 inistrack.net
@@ -30362,6 +30366,8 @@ ff02::3 ip6-allhosts
 :: invitejs.trustpilot.com
 0.0.0.0 invitemedia.com
 :: invitemedia.com
+0.0.0.0 invitesuperstitiousadmire.com
+:: invitesuperstitiousadmire.com
 0.0.0.0 inviziads.com
 :: inviziads.com
 0.0.0.0 invoc.us
@@ -33076,6 +33082,8 @@ ff02::3 ip6-allhosts
 :: landelcut.com
 0.0.0.0 landingpg.com
 :: landingpg.com
+0.0.0.0 landscapeburpgrandfather.com
+:: landscapeburpgrandfather.com
 0.0.0.0 landuncessa.fun
 :: landuncessa.fun
 0.0.0.0 langchars.com
@@ -35232,6 +35240,8 @@ ff02::3 ip6-allhosts
 :: m.epoch168.com
 0.0.0.0 m.exusr.com
 :: m.exusr.com
+0.0.0.0 m.fangzhanla.cn
+:: m.fangzhanla.cn
 0.0.0.0 m.fcunq.com
 :: m.fcunq.com
 0.0.0.0 m.fdaoo.com
@@ -35380,6 +35390,8 @@ ff02::3 ip6-allhosts
 :: m.irs01.com
 0.0.0.0 m.iruad.com
 :: m.iruad.com
+0.0.0.0 m.itcoder.top
+:: m.itcoder.top
 0.0.0.0 m.izuis.com
 :: m.izuis.com
 0.0.0.0 m.jbanb.com
@@ -36126,6 +36138,8 @@ ff02::3 ip6-allhosts
 :: mainadv.com
 0.0.0.0 mainbx.com
 :: mainbx.com
+0.0.0.0 mainlandrambleinstinct.com
+:: mainlandrambleinstinct.com
 0.0.0.0 mainroll.com
 :: mainroll.com
 0.0.0.0 maintawrte.club
@@ -36576,6 +36590,8 @@ ff02::3 ip6-allhosts
 :: mclick.simba.taobao.com
 0.0.0.0 mcloudglobal.com
 :: mcloudglobal.com
+0.0.0.0 mcninc.cn
+:: mcninc.cn
 0.0.0.0 mcontigo.com
 :: mcontigo.com
 0.0.0.0 mcore.vcgame.cn
@@ -42624,6 +42640,8 @@ ff02::3 ip6-allhosts
 :: philbardre.com
 0.0.0.0 philosophere.com
 :: philosophere.com
+0.0.0.0 philosophicalregardlesssetback.com
+:: philosophicalregardlesssetback.com
 0.0.0.0 philstraffic.com
 :: philstraffic.com
 0.0.0.0 phiptams.net
@@ -44346,6 +44364,8 @@ ff02::3 ip6-allhosts
 :: provider-direct.com
 0.0.0.0 provisituske.site
 :: provisituske.site
+0.0.0.0 provokekitten.com
+:: provokekitten.com
 0.0.0.0 prowlerz.com
 :: prowlerz.com
 0.0.0.0 proximic.com
@@ -57694,6 +57714,8 @@ ff02::3 ip6-allhosts
 :: tu.cvnad.com
 0.0.0.0 tu.zx110.org
 :: tu.zx110.org
+0.0.0.0 tu42het22n.com
+:: tu42het22n.com
 0.0.0.0 tuadong.com
 :: tuadong.com
 0.0.0.0 tubberlo.com
@@ -57788,6 +57810,8 @@ ff02::3 ip6-allhosts
 :: turbotraff.com
 0.0.0.0 turbotraff.net
 :: turbotraff.net
+0.0.0.0 turmoilexcessivetranslating.com
+:: turmoilexcessivetranslating.com
 0.0.0.0 turn.com
 :: turn.com
 0.0.0.0 turngrind.com
@@ -61204,8 +61228,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -61556,6 +61578,8 @@ ff02::3 ip6-allhosts
 :: withoused.club
 0.0.0.0 witneygazette-gb.witneygazette.co.uk
 :: witneygazette-gb.witneygazette.co.uk
+0.0.0.0 witstandfridge.com
+:: witstandfridge.com
 0.0.0.0 wityamdog.com
 :: wityamdog.com
 0.0.0.0 wiwapaxo.xyz
