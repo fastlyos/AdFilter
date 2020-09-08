@@ -1,11 +1,11 @@
-# Checksum: MTU5OTUxMjYyMAo=
+# Checksum: MTU5OTUyMzcwNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200907-7
-# TimeUpdated: 2020-09-07T21:03:40+00:00
+# Version: 1.6.1-20200908-0
+# TimeUpdated: 2020-09-08T00:08:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33789
+# Total: 33790
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10944,8 +10944,6 @@ ff02::3 ip6-allhosts
 :: bdd.hainan.net
 0.0.0.0 bddm.999d.com
 :: bddm.999d.com
-0.0.0.0 bdfirst.cn
-:: bdfirst.cn
 0.0.0.0 bdfpb1.8684.com
 :: bdfpb1.8684.com
 0.0.0.0 bdfpb2.8684.com
@@ -17066,6 +17064,8 @@ ff02::3 ip6-allhosts
 :: cqlxscdc.top
 0.0.0.0 cqmjjx.cn
 :: cqmjjx.cn
+0.0.0.0 cqpmmfxvibjr.com
+:: cqpmmfxvibjr.com
 0.0.0.0 cqsta.com
 :: cqsta.com
 0.0.0.0 cquotient.com
@@ -29812,8 +29812,6 @@ ff02::3 ip6-allhosts
 :: imx.comedycentral.com
 0.0.0.0 imymobi.com
 :: imymobi.com
-0.0.0.0 imyqb.cn
-:: imyqb.cn
 0.0.0.0 imzahrwl.xyz
 :: imzahrwl.xyz
 0.0.0.0 in-appadvertising.com
@@ -32444,6 +32442,8 @@ ff02::3 ip6-allhosts
 :: khuoy.com
 0.0.0.0 khzbeucrltin.com
 :: khzbeucrltin.com
+0.0.0.0 kiccebmlxtrze.com
+:: kiccebmlxtrze.com
 0.0.0.0 kid9.info
 :: kid9.info
 0.0.0.0 kidderminstershuttle-gb.kidderminstershuttle.co.uk
@@ -64870,6 +64870,8 @@ ff02::3 ip6-allhosts
 :: wzaigo.com
 0.0.0.0 wzdzht7am5.com
 :: wzdzht7am5.com
+0.0.0.0 wzhdjexsw.com
+:: wzhdjexsw.com
 0.0.0.0 wzhmaehmunibp.com
 :: wzhmaehmunibp.com
 0.0.0.0 wzhuze.com
