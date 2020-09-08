@@ -1,11 +1,11 @@
-# Checksum: MTU5OTUyMzcwNgo=
+# Checksum: MTU5OTUzNDI1OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200908-0
-# TimeUpdated: 2020-09-08T00:08:26+00:00
+# Version: 1.6.1-20200908-1
+# TimeUpdated: 2020-09-08T03:04:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33790
+# Total: 33802
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3350,6 +3350,8 @@ ff02::3 ip6-allhosts
 :: aa53df329975c325.com
 0.0.0.0 aa808.com
 :: aa808.com
+0.0.0.0 aaa.3hgui.com
+:: aaa.3hgui.com
 0.0.0.0 aaa.tumanyi.com
 :: aaa.tumanyi.com
 0.0.0.0 aaa.zxglpj.cn
@@ -18808,6 +18810,8 @@ ff02::3 ip6-allhosts
 :: datoporn.com
 0.0.0.0 datvantage.com
 :: datvantage.com
+0.0.0.0 dawanjiahn.com
+:: dawanjiahn.com
 0.0.0.0 dawwx.com
 :: dawwx.com
 0.0.0.0 daxishi.com
@@ -20418,8 +20422,6 @@ ff02::3 ip6-allhosts
 :: drbwugautcgh.com
 0.0.0.0 drd.hauchi.com.tw
 :: drd.hauchi.com.tw
-0.0.0.0 drdj.m.gxwztv.com
-:: drdj.m.gxwztv.com
 0.0.0.0 drdwy.com
 :: drdwy.com
 0.0.0.0 dreamaquarium.com
@@ -23614,8 +23616,6 @@ ff02::3 ip6-allhosts
 :: fds.api.moji.com
 0.0.0.0 fdxdjkswppg.com
 :: fdxdjkswppg.com
-0.0.0.0 fdzsmfyy.com
-:: fdzsmfyy.com
 0.0.0.0 fe-au.imrworldwide.com
 :: fe-au.imrworldwide.com
 0.0.0.0 fe.lea.lycos.co.uk
@@ -24060,6 +24060,8 @@ ff02::3 ip6-allhosts
 :: fleshcash.com
 0.0.0.0 fleshlightgirls.com
 :: fleshlightgirls.com
+0.0.0.0 flightsy.bid
+:: flightsy.bid
 0.0.0.0 flightsy.win
 :: flightsy.win
 0.0.0.0 flipy6sudy.com
@@ -26808,6 +26810,8 @@ ff02::3 ip6-allhosts
 :: gururevenue.com
 0.0.0.0 gushifanyi.com
 :: gushifanyi.com
+0.0.0.0 gustaver.ddns.ne
+:: gustaver.ddns.ne
 0.0.0.0 gutouwang.net
 :: gutouwang.net
 0.0.0.0 gvisit.com
@@ -28050,8 +28054,6 @@ ff02::3 ip6-allhosts
 :: hnwlyy.com.cn
 0.0.0.0 hnxxjn.com
 :: hnxxjn.com
-0.0.0.0 hnyiche3.com
-:: hnyiche3.com
 0.0.0.0 hnyny.com
 :: hnyny.com
 0.0.0.0 hoaphaiw.com
@@ -31742,8 +31744,6 @@ ff02::3 ip6-allhosts
 :: js2.battmd168a2.xyz
 0.0.0.0 js2.hdzog.com
 :: js2.hdzog.com
-0.0.0.0 js2.vgetv1.xyz
-:: js2.vgetv1.xyz
 0.0.0.0 js205.dupinpu.com
 :: js205.dupinpu.com
 0.0.0.0 js2294.cnbole.net
@@ -32104,6 +32104,8 @@ ff02::3 ip6-allhosts
 :: jyjhkz.com
 0.0.0.0 jynp9m209p.com
 :: jynp9m209p.com
+0.0.0.0 jysbj.cn
+:: jysbj.cn
 0.0.0.0 jystea.com
 :: jystea.com
 0.0.0.0 jyz.fjtzjy.com
@@ -34998,6 +35000,8 @@ ff02::3 ip6-allhosts
 :: m.74n3a.cn
 0.0.0.0 m.77vcd.com
 :: m.77vcd.com
+0.0.0.0 m.8p30k.cn
+:: m.8p30k.cn
 0.0.0.0 m.8v61j.cn
 :: m.8v61j.cn
 0.0.0.0 m.91heima.cn
@@ -35216,6 +35220,8 @@ ff02::3 ip6-allhosts
 :: m.enjuk.com
 0.0.0.0 m.ensts.cn
 :: m.ensts.cn
+0.0.0.0 m.eozozw.cn
+:: m.eozozw.cn
 0.0.0.0 m.epoch168.com
 :: m.epoch168.com
 0.0.0.0 m.exusr.com
@@ -35474,6 +35480,8 @@ ff02::3 ip6-allhosts
 :: m.mffcf.cn
 0.0.0.0 m.mgogo.com
 :: m.mgogo.com
+0.0.0.0 m.mh89w.cn
+:: m.mh89w.cn
 0.0.0.0 m.micreative-china.cn
 :: m.micreative-china.cn
 0.0.0.0 m.mightiger.net
@@ -35488,6 +35496,8 @@ ff02::3 ip6-allhosts
 :: m.moonuiux.top
 0.0.0.0 m.mouaa.com
 :: m.mouaa.com
+0.0.0.0 m.mspazmw.cn
+:: m.mspazmw.cn
 0.0.0.0 m.muusn.cn
 :: m.muusn.cn
 0.0.0.0 m.muyuge.com
@@ -35500,6 +35510,8 @@ ff02::3 ip6-allhosts
 :: m.nanjingmeitian.cn
 0.0.0.0 m.nanyangqiaoxiang.cn
 :: m.nanyangqiaoxiang.cn
+0.0.0.0 m.nchet.com
+:: m.nchet.com
 0.0.0.0 m.nernv.com
 :: m.nernv.com
 0.0.0.0 m.ngsaang.top
@@ -35578,6 +35590,8 @@ ff02::3 ip6-allhosts
 :: m.rcaiu.com
 0.0.0.0 m.reachmax.cn
 :: m.reachmax.cn
+0.0.0.0 m.rgjrq.cn
+:: m.rgjrq.cn
 0.0.0.0 m.rhcapass.com
 :: m.rhcapass.com
 0.0.0.0 m.richaji.com
@@ -37754,6 +37768,8 @@ ff02::3 ip6-allhosts
 :: mo.cyrc793.top
 0.0.0.0 mo.dfnbyn.top
 :: mo.dfnbyn.top
+0.0.0.0 mo.drzd9.cn
+:: mo.drzd9.cn
 0.0.0.0 mo.dybx992.top
 :: mo.dybx992.top
 0.0.0.0 mo.dymr697.top
@@ -38082,6 +38098,8 @@ ff02::3 ip6-allhosts
 :: monitor-targeting-failures.sqrt-5041.de
 0.0.0.0 monitor-uu.play.aiseet.atianqi.com
 :: monitor-uu.play.aiseet.atianqi.com
+0.0.0.0 monitor.ebay.com
+:: monitor.ebay.com
 0.0.0.0 monitor.qq.com
 :: monitor.qq.com
 0.0.0.0 monitor.uu.qq.com
@@ -38246,6 +38264,8 @@ ff02::3 ip6-allhosts
 :: mozist.com
 0.0.0.0 mp-https.info
 :: mp-https.info
+0.0.0.0 mp.cheering3d.com
+:: mp.cheering3d.com
 0.0.0.0 mp.miaomiaojia.cc
 :: mp.miaomiaojia.cc
 0.0.0.0 mp.qy9.net
@@ -39810,6 +39830,8 @@ ff02::3 ip6-allhosts
 :: niurenw.com
 0.0.0.0 niux88.com
 :: niux88.com
+0.0.0.0 niwd.zhybw88.com
+:: niwd.zhybw88.com
 0.0.0.0 niwota.com
 :: niwota.com
 0.0.0.0 niwztgetlytxv.com
@@ -39846,6 +39868,8 @@ ff02::3 ip6-allhosts
 :: njs.myyage.com
 0.0.0.0 njs.reliancevalve.com
 :: njs.reliancevalve.com
+0.0.0.0 njwxh.com
+:: njwxh.com
 0.0.0.0 njx.0302woeuxcbrnxcvsdfghu.xyz
 :: njx.0302woeuxcbrnxcvsdfghu.xyz
 0.0.0.0 njx.1202merpinsasfzpiyevc.xyz
@@ -49072,6 +49096,8 @@ ff02::3 ip6-allhosts
 :: sd.int.jumei.com
 0.0.0.0 sd.jumei.com
 :: sd.jumei.com
+0.0.0.0 sd.kk3g.net
+:: sd.kk3g.net
 0.0.0.0 sd.taptap.com
 :: sd.taptap.com
 0.0.0.0 sd5doozry8.com
@@ -51294,8 +51320,6 @@ ff02::3 ip6-allhosts
 :: soofoupt.com
 0.0.0.0 soonbigo.com
 :: soonbigo.com
-0.0.0.0 soonyou123.com
-:: soonyou123.com
 0.0.0.0 soosooka.com
 :: soosooka.com
 0.0.0.0 soostaug.com
@@ -58682,6 +58706,8 @@ ff02::3 ip6-allhosts
 :: uqpfh.cn
 0.0.0.0 uqsoxvwffpkrt.com
 :: uqsoxvwffpkrt.com
+0.0.0.0 uqum.52shouyou.com.cn
+:: uqum.52shouyou.com.cn
 0.0.0.0 uranus.sogou.com
 :: uranus.sogou.com
 0.0.0.0 urbanproxy.eu
@@ -65566,8 +65592,6 @@ ff02::3 ip6-allhosts
 :: xrqrpdxqpm.com
 0.0.0.0 xrtzf.com
 :: xrtzf.com
-0.0.0.0 xrvyetdriwzp.com
-:: xrvyetdriwzp.com
 0.0.0.0 xs.1drj.com
 :: xs.1drj.com
 0.0.0.0 xs.he9630.com
