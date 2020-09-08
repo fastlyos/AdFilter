@@ -1,11 +1,11 @@
-# Checksum: MTU5OTU2NjY4Mgo=
+# Checksum: MTU5OTU3NzQyOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200908-4
-# TimeUpdated: 2020-09-08T12:04:42+00:00
+# Version: 1.6.1-20200908-5
+# TimeUpdated: 2020-09-08T15:03:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33820
+# Total: 33819
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3114,8 +3114,6 @@ ff02::3 ip6-allhosts
 :: a.zuowenxuan.cn
 0.0.0.0 a013.com
 :: a013.com
-0.0.0.0 a02d0adbca0.com
-:: a02d0adbca0.com
 0.0.0.0 a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 :: a04296f070c0146f314d-0dcad72565cb350972beb3666a86f246.r50.cf5.rackcdn.com
 0.0.0.0 a0675c1160de6c6.com
@@ -11492,8 +11490,6 @@ ff02::3 ip6-allhosts
 :: bewaslac.com
 0.0.0.0 bewaycare.com
 :: bewaycare.com
-0.0.0.0 bewtqjkrfo.com
-:: bewtqjkrfo.com
 0.0.0.0 bf-tools.net
 :: bf-tools.net
 0.0.0.0 bfast.com
@@ -15918,8 +15914,6 @@ ff02::3 ip6-allhosts
 :: com.econa.com
 0.0.0.0 com.hunlaife.cn
 :: com.hunlaife.cn
-0.0.0.0 com5.com.cn
-:: com5.com.cn
 0.0.0.0 combine.urbanairship.com
 :: combine.urbanairship.com
 0.0.0.0 combitly.com
@@ -21634,6 +21628,8 @@ ff02::3 ip6-allhosts
 :: edo5.com
 0.0.0.0 edococounter.de
 :: edococounter.de
+0.0.0.0 edotherest.club
+:: edotherest.club
 0.0.0.0 edoutoam.net
 :: edoutoam.net
 0.0.0.0 edp2.adriver.ru
@@ -67272,6 +67268,8 @@ ff02::3 ip6-allhosts
 :: zisboombah.net
 0.0.0.0 zisu.cn.com
 :: zisu.cn.com
+0.0.0.0 zitaoh.cn
+:: zitaoh.cn
 0.0.0.0 zixuncooperation.html5.qq.com
 :: zixuncooperation.html5.qq.com
 0.0.0.0 ziye8.com
