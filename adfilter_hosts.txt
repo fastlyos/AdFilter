@@ -1,11 +1,11 @@
-# Checksum: MTU5OTU0NTAzNwo=
+# Checksum: MTU5OTU1NTgyNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200908-2
-# TimeUpdated: 2020-09-08T06:03:57+00:00
+# Version: 1.6.1-20200908-3
+# TimeUpdated: 2020-09-08T09:03:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33802
+# Total: 33808
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7536,6 +7536,8 @@ ff02::3 ip6-allhosts
 :: aliveachiever.com
 0.0.0.0 aliyoo999.com
 :: aliyoo999.com
+0.0.0.0 aliyune.xyz
+:: aliyune.xyz
 0.0.0.0 aliyunxin.com
 :: aliyunxin.com
 0.0.0.0 alkemics.com
@@ -18112,8 +18114,6 @@ ff02::3 ip6-allhosts
 :: d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2r3rw91i5z1w9.cloudfront.net
 :: d2r3rw91i5z1w9.cloudfront.net
-0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
-:: d2r7bmv6l6bnd1.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 :: d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
@@ -21912,6 +21912,8 @@ ff02::3 ip6-allhosts
 :: elatumal.xyz
 0.0.0.0 eldedtickered.site
 :: eldedtickered.site
+0.0.0.0 eleastsessm.space
+:: eleastsessm.space
 0.0.0.0 eleasuredfas.info
 :: eleasuredfas.info
 0.0.0.0 electosake.com
@@ -21972,6 +21974,8 @@ ff02::3 ip6-allhosts
 :: elsad.tw
 0.0.0.0 elsalaes.com
 :: elsalaes.com
+0.0.0.0 elsupposit.club
+:: elsupposit.club
 0.0.0.0 eltex.co.jp
 :: eltex.co.jp
 0.0.0.0 elthamely.com
@@ -24836,6 +24840,8 @@ ff02::3 ip6-allhosts
 :: fzb01.qiushibaike.com
 0.0.0.0 fzdfwy.com
 :: fzdfwy.com
+0.0.0.0 fzgitqrqrsyyiv.com
+:: fzgitqrqrsyyiv.com
 0.0.0.0 fzglqyy.com
 :: fzglqyy.com
 0.0.0.0 fzvydcgqazrr.com
@@ -32084,6 +32090,8 @@ ff02::3 ip6-allhosts
 :: jxjpszwpl.com
 0.0.0.0 jxjzny.com
 :: jxjzny.com
+0.0.0.0 jxkybegp.com
+:: jxkybegp.com
 0.0.0.0 jxlqgs.com
 :: jxlqgs.com
 0.0.0.0 jxqfu.cn
@@ -45516,6 +45524,8 @@ ff02::3 ip6-allhosts
 :: qnageoh3ns.com
 0.0.0.0 qneit.com
 :: qneit.com
+0.0.0.0 qnkiueuflzdold.com
+:: qnkiueuflzdold.com
 0.0.0.0 qnsr.com
 :: qnsr.com
 0.0.0.0 qoijertneio.com
@@ -62472,6 +62482,8 @@ ff02::3 ip6-allhosts
 :: wvcdn.cn
 0.0.0.0 wvlveodsvygn.com
 :: wvlveodsvygn.com
+0.0.0.0 wvoahyehtvj.com
+:: wvoahyehtvj.com
 0.0.0.0 wvs3bmct6mkz.com
 :: wvs3bmct6mkz.com
 0.0.0.0 wvver.com
