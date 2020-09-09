@@ -1,11 +1,11 @@
-# Checksum: MTU5OTY2MzgzMgo=
+# Checksum: MTU5OTY3NDY1MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200909-5
-# TimeUpdated: 2020-09-09T15:03:52+00:00
+# Version: 1.6.1-20200909-6
+# TimeUpdated: 2020-09-09T18:04:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33893
+# Total: 33897
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1002,6 +1002,8 @@ ff02::3 ip6-allhosts
 :: 2beon.co.kr
 0.0.0.0 2bj.cn
 :: 2bj.cn
+0.0.0.0 2c0dad36bdb9eb859f0.com
+:: 2c0dad36bdb9eb859f0.com
 0.0.0.0 2c3a97984f45.com
 :: 2c3a97984f45.com
 0.0.0.0 2c6bcbbb82ce911.com
@@ -1414,6 +1416,8 @@ ff02::3 ip6-allhosts
 :: 42a5d530ec972d8994.com
 0.0.0.0 42r.cn
 :: 42r.cn
+0.0.0.0 42ye.com
+:: 42ye.com
 0.0.0.0 43031aaaecd84428.com
 :: 43031aaaecd84428.com
 0.0.0.0 43137c93a82b0e81da.com
@@ -3280,6 +3284,8 @@ ff02::3 ip6-allhosts
 :: a63t9o1azf.com
 0.0.0.0 a69ee4fa50dc3.com
 :: a69ee4fa50dc3.com
+0.0.0.0 a6be07586bc4a7.com
+:: a6be07586bc4a7.com
 0.0.0.0 a6f845e6c37b2833148.com
 :: a6f845e6c37b2833148.com
 0.0.0.0 a6x4effomlxe.com
@@ -5090,8 +5096,6 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
-0.0.0.0 admaster.com
-:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admaster.mobi
@@ -17630,8 +17634,6 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
-0.0.0.0 czywssj.com
-:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -27520,8 +27522,6 @@ ff02::3 ip6-allhosts
 :: hello.staticstuff.net
 0.0.0.0 hellobar.com
 :: hellobar.com
-0.0.0.0 hellocdn.top
-:: hellocdn.top
 0.0.0.0 hellogalaxy.cn
 :: hellogalaxy.cn
 0.0.0.0 helloreverb.com
@@ -34512,6 +34512,8 @@ ff02::3 ip6-allhosts
 :: logs.ggweb.nl
 0.0.0.0 logs.hotstar.com
 :: logs.hotstar.com
+0.0.0.0 logs.juspay.in
+:: logs.juspay.in
 0.0.0.0 logs.newapi.com
 :: logs.newapi.com
 0.0.0.0 logs.ntvplus.tv
@@ -40898,6 +40900,8 @@ ff02::3 ip6-allhosts
 :: olicyconsendsi.info
 0.0.0.0 olil.peopleselect.cn
 :: olil.peopleselect.cn
+0.0.0.0 olmall.vip
+:: olmall.vip
 0.0.0.0 olmsoneenh.info
 :: olmsoneenh.info
 0.0.0.0 ologyarriedpr.info
@@ -49102,6 +49106,8 @@ ff02::3 ip6-allhosts
 :: scize.com
 0.0.0.0 scjcgj.top
 :: scjcgj.top
+0.0.0.0 sckuhytswbs.com
+:: sckuhytswbs.com
 0.0.0.0 sclick.6rooms.com
 :: sclick.6rooms.com
 0.0.0.0 sclick.baidu.com
@@ -57248,8 +57254,6 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
-0.0.0.0 trade.mtime.com
-:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -58206,8 +58210,6 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
-0.0.0.0 u8.hujiang.com
-:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
@@ -61364,6 +61366,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -66464,6 +66468,8 @@ ff02::3 ip6-allhosts
 :: yirishedspe.info
 0.0.0.0 yishuifa.org
 :: yishuifa.org
+0.0.0.0 yitai001.com
+:: yitai001.com
 0.0.0.0 yitaopt.com
 :: yitaopt.com
 0.0.0.0 yitiaoyu.top
@@ -67270,6 +67276,8 @@ ff02::3 ip6-allhosts
 :: zgody.infor.pl
 0.0.0.0 zgrsq.cn
 :: zgrsq.cn
+0.0.0.0 zgsxhx.com
+:: zgsxhx.com
 0.0.0.0 zgty365.com
 :: zgty365.com
 0.0.0.0 zgunion.cn
