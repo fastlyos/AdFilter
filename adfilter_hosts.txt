@@ -1,11 +1,11 @@
-# Checksum: MTU5OTU5OTAwNwo=
+# Checksum: MTU5OTYxMDA5MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200908-7
-# TimeUpdated: 2020-09-08T21:03:27+00:00
+# Version: 1.6.1-20200909-0
+# TimeUpdated: 2020-09-09T00:08:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33825
+# Total: 33834
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -13650,8 +13650,6 @@ ff02::3 ip6-allhosts
 :: cbleads.com
 0.0.0.0 cbn.tbn.ru
 :: cbn.tbn.ru
-0.0.0.0 cbpsdvozwsbf.com
-:: cbpsdvozwsbf.com
 0.0.0.0 cbs.wondershare.com
 :: cbs.wondershare.com
 0.0.0.0 cbsi.demdex.net
@@ -16050,6 +16048,8 @@ ff02::3 ip6-allhosts
 :: conf.xiniuz.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 :: confiant-integrations.global.ssl.fastly.net
+0.0.0.0 confiant.msn.com
+:: confiant.msn.com
 0.0.0.0 config-ltvp.inmobi.com
 :: config-ltvp.inmobi.com
 0.0.0.0 config.adview.cn
@@ -29064,6 +29064,8 @@ ff02::3 ip6-allhosts
 :: idmchina.net
 0.0.0.0 idntfy.ru
 :: idntfy.ru
+0.0.0.0 idoc58.com
+:: idoc58.com
 0.0.0.0 idolbucks.com
 :: idolbucks.com
 0.0.0.0 idot.cz
@@ -30394,6 +30396,8 @@ ff02::3 ip6-allhosts
 :: iodu.iiasyba.cn
 0.0.0.0 ioiylgyf.com
 :: ioiylgyf.com
+0.0.0.0 iojpbletb.com
+:: iojpbletb.com
 0.0.0.0 iolam.it
 :: iolam.it
 0.0.0.0 ionaloutlerscrisi.fun
@@ -38628,6 +38632,8 @@ ff02::3 ip6-allhosts
 :: munero.me
 0.0.0.0 mungaryn.club
 :: mungaryn.club
+0.0.0.0 municalcurit.club
+:: municalcurit.club
 0.0.0.0 munitedoploko.site
 :: munitedoploko.site
 0.0.0.0 munpprwlhric.com
@@ -38856,6 +38862,8 @@ ff02::3 ip6-allhosts
 :: mysagagame.com
 0.0.0.0 myscoop-tracking.googlecode.com
 :: myscoop-tracking.googlecode.com
+0.0.0.0 mysearch-online.com
+:: mysearch-online.com
 0.0.0.0 myselfjanitor.com
 :: myselfjanitor.com
 0.0.0.0 myseostats.com
@@ -38912,6 +38920,8 @@ ff02::3 ip6-allhosts
 :: mz28ismn.com
 0.0.0.0 mzlit.com
 :: mzlit.com
+0.0.0.0 mzmnrczlsqtlya.com
+:: mzmnrczlsqtlya.com
 0.0.0.0 mznzltgotp.com
 :: mznzltgotp.com
 0.0.0.0 mzol7lbm.com
@@ -42292,6 +42302,8 @@ ff02::3 ip6-allhosts
 :: pcbrowser.dd.qq.com
 0.0.0.0 pcd.autohome.com.cn
 :: pcd.autohome.com.cn
+0.0.0.0 pcdjvinnlhysg.com
+:: pcdjvinnlhysg.com
 0.0.0.0 pcfg.wps.cn
 :: pcfg.wps.cn
 0.0.0.0 pclick.europe.yahoo.com
@@ -48956,6 +48968,8 @@ ff02::3 ip6-allhosts
 :: sc.shayugg.com
 0.0.0.0 sc1369.com
 :: sc1369.com
+0.0.0.0 scahqyriepu.com
+:: scahqyriepu.com
 0.0.0.0 scalaproject.io
 :: scalaproject.io
 0.0.0.0 scaledb.com
@@ -55234,6 +55248,8 @@ ff02::3 ip6-allhosts
 :: textlink.simba.taobao.com
 0.0.0.0 textonlyads.com
 :: textonlyads.com
+0.0.0.0 textsrv.com
+:: textsrv.com
 0.0.0.0 tf.360.cn
 :: tf.360.cn
 0.0.0.0 tf.adddyy.com
@@ -65984,6 +66000,8 @@ ff02::3 ip6-allhosts
 :: yar7faf2a8cadf.zjlanbi.com
 0.0.0.0 yashi.com
 :: yashi.com
+0.0.0.0 yassociallya.club
+:: yassociallya.club
 0.0.0.0 yast.rutube.ru
 :: yast.rutube.ru
 0.0.0.0 yatab.net
