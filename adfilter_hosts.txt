@@ -1,11 +1,11 @@
-# Checksum: MTU5OTYxMDA5MQo=
+# Checksum: MTU5OTYyMDYyNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200909-0
-# TimeUpdated: 2020-09-09T00:08:11+00:00
+# Version: 1.6.1-20200909-1
+# TimeUpdated: 2020-09-09T03:03:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33834
+# Total: 33854
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -310,6 +310,8 @@ ff02::3 ip6-allhosts
 :: 1.jiqie.cn
 0.0.0.0 1.kuaidiwo.cn
 :: 1.kuaidiwo.cn
+0.0.0.0 1.lishibu.com
+:: 1.lishibu.com
 0.0.0.0 1.lvshi567.com
 :: 1.lvshi567.com
 0.0.0.0 1.mgff.com
@@ -1310,6 +1312,8 @@ ff02::3 ip6-allhosts
 :: 3dm.huya.com
 0.0.0.0 3dstats.com
 :: 3dstats.com
+0.0.0.0 3e80004b51.com
+:: 3e80004b51.com
 0.0.0.0 3file.info
 :: 3file.info
 0.0.0.0 3fp43qvh.trade
@@ -2004,8 +2008,6 @@ ff02::3 ip6-allhosts
 :: 6boou.voluumtrk.com
 0.0.0.0 6c.cn
 :: 6c.cn
-0.0.0.0 6c37f8a12dede103bf7.com
-:: 6c37f8a12dede103bf7.com
 0.0.0.0 6ddc.tartine-et-chocolat.com
 :: 6ddc.tartine-et-chocolat.com
 0.0.0.0 6e2f1d2ae033.com
@@ -2170,6 +2172,8 @@ ff02::3 ip6-allhosts
 :: 77455.com
 0.0.0.0 7759.com
 :: 7759.com
+0.0.0.0 775e11b6033.com
+:: 775e11b6033.com
 0.0.0.0 777-partner.com
 :: 777-partner.com
 0.0.0.0 777-partner.net
@@ -3508,6 +3512,8 @@ ff02::3 ip6-allhosts
 :: ablehed.pro
 0.0.0.0 ablen01.tk
 :: ablen01.tk
+0.0.0.0 ablen02.tk
+:: ablen02.tk
 0.0.0.0 ablen03.tk
 :: ablen03.tk
 0.0.0.0 ablen05.tk
@@ -4624,6 +4630,8 @@ ff02::3 ip6-allhosts
 :: addonsmash.com
 0.0.0.0 addoor.net
 :: addoor.net
+0.0.0.0 address9.com
+:: address9.com
 0.0.0.0 addression.club
 :: addression.club
 0.0.0.0 addroid.com
@@ -5812,6 +5820,8 @@ ff02::3 ip6-allhosts
 :: adsc.wasu.tv
 0.0.0.0 adscale.de
 :: adscale.de
+0.0.0.0 adscarrot.com
+:: adscarrot.com
 0.0.0.0 adscaspion.appspot.com
 :: adscaspion.appspot.com
 0.0.0.0 adscdn.baidu.com
@@ -6970,6 +6980,8 @@ ff02::3 ip6-allhosts
 :: affinity.com
 0.0.0.0 affiz.net
 :: affiz.net
+0.0.0.0 afflow.18-plus.net
+:: afflow.18-plus.net
 0.0.0.0 affodilyrecruis.fun
 :: affodilyrecruis.fun
 0.0.0.0 affplanet.com
@@ -16458,6 +16470,8 @@ ff02::3 ip6-allhosts
 :: cosmosjackson.com
 0.0.0.0 cost1action.com
 :: cost1action.com
+0.0.0.0 costumecollartrustworthy.com
+:: costumecollartrustworthy.com
 0.0.0.0 cotchaug.com
 :: cotchaug.com
 0.0.0.0 cotnr.com
@@ -20644,6 +20658,8 @@ ff02::3 ip6-allhosts
 :: dudm.qingsj.cn
 0.0.0.0 dudug.cn
 :: dudug.cn
+0.0.0.0 duetgypsyantis.com
+:: duetgypsyantis.com
 0.0.0.0 dugesheying.com
 :: dugesheying.com
 0.0.0.0 duhochid.net
@@ -20968,6 +20984,8 @@ ff02::3 ip6-allhosts
 :: e.bapkt.com
 0.0.0.0 e.cdfzcz.com
 :: e.cdfzcz.com
+0.0.0.0 e.chenyonghua.cn
+:: e.chenyonghua.cn
 0.0.0.0 e.ckikq.com
 :: e.ckikq.com
 0.0.0.0 e.cn.miaozhen.com
@@ -23632,6 +23650,8 @@ ff02::3 ip6-allhosts
 :: fe95a992e6afb.com
 0.0.0.0 fearer.info
 :: fearer.info
+0.0.0.0 fearsomeclients.com
+:: fearsomeclients.com
 0.0.0.0 feathr.co
 :: feathr.co
 0.0.0.0 featurally.club
@@ -24590,6 +24610,8 @@ ff02::3 ip6-allhosts
 :: fsaticze.com
 0.0.0.0 fsd2.digital
 :: fsd2.digital
+0.0.0.0 fsisolpouupevs.com
+:: fsisolpouupevs.com
 0.0.0.0 fsitel.com
 :: fsitel.com
 0.0.0.0 fsjsp.com
@@ -27780,6 +27802,8 @@ ff02::3 ip6-allhosts
 :: hirmatrix.hu
 0.0.0.0 hislationaler.club
 :: hislationaler.club
+0.0.0.0 hissq.com
+:: hissq.com
 0.0.0.0 histats.com
 :: histats.com
 0.0.0.0 histlingklakson.site
@@ -28490,6 +28514,8 @@ ff02::3 ip6-allhosts
 :: huiun.com
 0.0.0.0 huiwiw.hit.gemius.pl
 :: huiwiw.hit.gemius.pl
+0.0.0.0 huixingcheng.cn
+:: huixingcheng.cn
 0.0.0.0 hulemedia.com
 :: hulemedia.com
 0.0.0.0 huluads.info
@@ -33088,6 +33114,8 @@ ff02::3 ip6-allhosts
 :: landingpg.com
 0.0.0.0 landscapeburpgrandfather.com
 :: landscapeburpgrandfather.com
+0.0.0.0 landslidechoreloft.com
+:: landslidechoreloft.com
 0.0.0.0 landuncessa.fun
 :: landuncessa.fun
 0.0.0.0 langchars.com
@@ -33476,6 +33504,8 @@ ff02::3 ip6-allhosts
 :: letzonke.com
 0.0.0.0 levelbehavior.com
 :: levelbehavior.com
+0.0.0.0 leveloped.club
+:: leveloped.club
 0.0.0.0 levenileheshe.site
 :: levenileheshe.site
 0.0.0.0 leveryone.club
@@ -35502,8 +35532,6 @@ ff02::3 ip6-allhosts
 :: m.mffcf.cn
 0.0.0.0 m.mgogo.com
 :: m.mgogo.com
-0.0.0.0 m.mh89w.cn
-:: m.mh89w.cn
 0.0.0.0 m.micreative-china.cn
 :: m.micreative-china.cn
 0.0.0.0 m.mightiger.net
@@ -35518,8 +35546,6 @@ ff02::3 ip6-allhosts
 :: m.moonuiux.top
 0.0.0.0 m.mouaa.com
 :: m.mouaa.com
-0.0.0.0 m.mspazmw.cn
-:: m.mspazmw.cn
 0.0.0.0 m.muusn.cn
 :: m.muusn.cn
 0.0.0.0 m.muyuge.com
@@ -36182,6 +36208,8 @@ ff02::3 ip6-allhosts
 :: mallcom.com
 0.0.0.0 mallorcash.com
 :: mallorcash.com
+0.0.0.0 mallowsmother.com
+:: mallowsmother.com
 0.0.0.0 malpacascal.space
 :: malpacascal.space
 0.0.0.0 malverngazette-gb.malverngazette.co.uk
@@ -36870,6 +36898,8 @@ ff02::3 ip6-allhosts
 :: mega-stats.com
 0.0.0.0 megaad.nz
 :: megaad.nz
+0.0.0.0 megabanners.cf
+:: megabanners.cf
 0.0.0.0 megacpm.com
 :: megacpm.com
 0.0.0.0 megapopads.com
@@ -40128,6 +40158,8 @@ ff02::3 ip6-allhosts
 :: notifyvisitors.com
 0.0.0.0 notmining.org
 :: notmining.org
+0.0.0.0 notoboo.net
+:: notoboo.net
 0.0.0.0 nouseeth.com
 :: nouseeth.com
 0.0.0.0 noutstancerewe.info
@@ -41534,6 +41566,8 @@ ff02::3 ip6-allhosts
 :: outboundlink.me
 0.0.0.0 outer.anquan.org
 :: outer.anquan.org
+0.0.0.0 outhumporc.work
+:: outhumporc.work
 0.0.0.0 outlookabsorb.com
 :: outlookabsorb.com
 0.0.0.0 output.nend.net
@@ -45638,6 +45672,8 @@ ff02::3 ip6-allhosts
 :: qrius.me
 0.0.0.0 qrksjrjppkam.com
 :: qrksjrjppkam.com
+0.0.0.0 qrlgcrzmbuy.com
+:: qrlgcrzmbuy.com
 0.0.0.0 qrlsx.com
 :: qrlsx.com
 0.0.0.0 qs.qsmdeyz.cn
@@ -47242,6 +47278,8 @@ ff02::3 ip6-allhosts
 :: rl.go2yd.com
 0.0.0.0 rl.heise.de
 :: rl.heise.de
+0.0.0.0 rl6ywbsrx8.tk
+:: rl6ywbsrx8.tk
 0.0.0.0 rl972.cn
 :: rl972.cn
 0.0.0.0 rlets.com
@@ -55952,6 +55990,8 @@ ff02::3 ip6-allhosts
 :: tom.allyes.com
 0.0.0.0 tomekas.com
 :: tomekas.com
+0.0.0.0 tommyperseverance.com
+:: tommyperseverance.com
 0.0.0.0 tonefuse.com
 :: tonefuse.com
 0.0.0.0 tonewithough.info
@@ -60686,6 +60726,8 @@ ff02::3 ip6-allhosts
 :: wauthaum.com
 0.0.0.0 wauzoust.com
 :: wauzoust.com
+0.0.0.0 wavecurersquire.cam
+:: wavecurersquire.cam
 0.0.0.0 waves.retentionscience.com
 :: waves.retentionscience.com
 0.0.0.0 waxpigbaa.com
@@ -62712,8 +62754,6 @@ ff02::3 ip6-allhosts
 :: www.517xx.com
 0.0.0.0 www.5188yy.com
 :: www.5188yy.com
-0.0.0.0 www.51link.com
-:: www.51link.com
 0.0.0.0 www.51vipedu.com
 :: www.51vipedu.com
 0.0.0.0 www.5293.com
