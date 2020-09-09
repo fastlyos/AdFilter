@@ -1,11 +1,11 @@
-# Checksum: MTU5OTYzMTUxMAo=
+# Checksum: MTU5OTY0MjIyNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200909-2
-# TimeUpdated: 2020-09-09T06:05:10+00:00
+# Version: 1.6.1-20200909-3
+# TimeUpdated: 2020-09-09T09:03:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33883
+# Total: 33892
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -114,8 +114,6 @@ ff02::3 ip6-allhosts
 :: 0512pifa.com.cn
 0.0.0.0 0516bm.com
 :: 0516bm.com
-0.0.0.0 0517kongyaji.com
-:: 0517kongyaji.com
 0.0.0.0 0531mnk.net
 :: 0531mnk.net
 0.0.0.0 0532ci.com.cn
@@ -12250,8 +12248,6 @@ ff02::3 ip6-allhosts
 :: borotango.com
 0.0.0.0 borsendental.com
 :: borsendental.com
-0.0.0.0 bosiwangzi.cn
-:: bosiwangzi.cn
 0.0.0.0 boss.bankofamerica.com
 :: boss.bankofamerica.com
 0.0.0.0 bosspush.com
@@ -13254,6 +13250,8 @@ ff02::3 ip6-allhosts
 :: cactusglobal.io
 0.0.0.0 cad.chosun.com
 :: cad.chosun.com
+0.0.0.0 cadenevery.club
+:: cadenevery.club
 0.0.0.0 cadfixbig.site
 :: cadfixbig.site
 0.0.0.0 cadreon.com
@@ -15766,8 +15764,6 @@ ff02::3 ip6-allhosts
 :: coinminingonline.com
 0.0.0.0 coinnebula.com
 :: coinnebula.com
-0.0.0.0 coinpirate.cf
-:: coinpirate.cf
 0.0.0.0 coins.now.sh
 :: coins.now.sh
 0.0.0.0 coinstash1.now.sh
@@ -17430,8 +17426,6 @@ ff02::3 ip6-allhosts
 :: ctrb.jscdndel.com
 0.0.0.0 ctrhub.com
 :: ctrhub.com
-0.0.0.0 ctripatm.cn
-:: ctripatm.cn
 0.0.0.0 ctrmanager.com
 :: ctrmanager.com
 0.0.0.0 ctrmi.com
@@ -31154,6 +31148,12 @@ ff02::3 ip6-allhosts
 :: jfm4.pop.baofeng.net
 0.0.0.0 jfqkj.com
 :: jfqkj.com
+0.0.0.0 jfsdiwmnbsk009.top
+:: jfsdiwmnbsk009.top
+0.0.0.0 jfsdiwmnbsk010.top
+:: jfsdiwmnbsk010.top
+0.0.0.0 jfsdiwmnbsk011.top
+:: jfsdiwmnbsk011.top
 0.0.0.0 jfy-stone.cn
 :: jfy-stone.cn
 0.0.0.0 jg.bjpengyi.com
@@ -35248,6 +35248,8 @@ ff02::3 ip6-allhosts
 :: m.cudaojia.com
 0.0.0.0 m.d6s2pn5t.cn
 :: m.d6s2pn5t.cn
+0.0.0.0 m.d8qu.com
+:: m.d8qu.com
 0.0.0.0 m.dailiq.cn
 :: m.dailiq.cn
 0.0.0.0 m.dante2007.com
@@ -35308,6 +35310,8 @@ ff02::3 ip6-allhosts
 :: m.fdaoo.com
 0.0.0.0 m.fdoun.com
 :: m.fdoun.com
+0.0.0.0 m.fecjf.cn
+:: m.fecjf.cn
 0.0.0.0 m.feipaihehuoren.cn
 :: m.feipaihehuoren.cn
 0.0.0.0 m.feirs.com
@@ -46096,6 +46100,8 @@ ff02::3 ip6-allhosts
 :: rampmetrics.com
 0.0.0.0 rand.com.ru
 :: rand.com.ru
+0.0.0.0 randalieren6.live
+:: randalieren6.live
 0.0.0.0 rangsunbaa.com
 :: rangsunbaa.com
 0.0.0.0 rank-hits.com
@@ -47934,6 +47940,8 @@ ff02::3 ip6-allhosts
 :: s.123juhd.com
 0.0.0.0 s.17173cdn.com
 :: s.17173cdn.com
+0.0.0.0 s.23dsf.top
+:: s.23dsf.top
 0.0.0.0 s.35kds.com
 :: s.35kds.com
 0.0.0.0 s.360.cn
@@ -50178,6 +50186,8 @@ ff02::3 ip6-allhosts
 :: sgg.southcn.com
 0.0.0.0 sghehllds.com
 :: sghehllds.com
+0.0.0.0 sgidkvwd.com
+:: sgidkvwd.com
 0.0.0.0 sgmnt.ticketswap.com
 :: sgmnt.ticketswap.com
 0.0.0.0 sgphctileh-a.akamaihd.net
@@ -51924,6 +51934,8 @@ ff02::3 ip6-allhosts
 :: sponsorselect.com
 0.0.0.0 spontaneousguarded.com
 :: spontaneousguarded.com
+0.0.0.0 spoonslaxoil.com
+:: spoonslaxoil.com
 0.0.0.0 sportradarserving.com
 :: sportradarserving.com
 0.0.0.0 sportstream365.com
@@ -55266,6 +55278,8 @@ ff02::3 ip6-allhosts
 :: terrapush.com
 0.0.0.0 terratraf.com
 :: terratraf.com
+0.0.0.0 terskneesian.space
+:: terskneesian.space
 0.0.0.0 tesfatheleshs.club
 :: tesfatheleshs.club
 0.0.0.0 tesla.oscaro.com
@@ -57730,6 +57744,8 @@ ff02::3 ip6-allhosts
 :: tsk5.com
 0.0.0.0 tslomhfys.com
 :: tslomhfys.com
+0.0.0.0 tsrc8.com
+:: tsrc8.com
 0.0.0.0 tstrokenga.info
 :: tstrokenga.info
 0.0.0.0 tsundedhimse.fun
@@ -60326,6 +60342,8 @@ ff02::3 ip6-allhosts
 :: vptbn.com
 0.0.0.0 vqfoxxxnunqkgm.com
 :: vqfoxxxnunqkgm.com
+0.0.0.0 vqjphqthvfl.com
+:: vqjphqthvfl.com
 0.0.0.0 vqq.admaster.com.cn
 :: vqq.admaster.com.cn
 0.0.0.0 vqr3jeu1qi41.com
@@ -66006,8 +66024,6 @@ ff02::3 ip6-allhosts
 :: y.damifan.cn
 0.0.0.0 y.one.impact-ad.jp
 :: y.one.impact-ad.jp
-0.0.0.0 y.one.impact-ad.net
-:: y.one.impact-ad.net
 0.0.0.0 y.pzclw.cn
 :: y.pzclw.cn
 0.0.0.0 y.unilz588.com
@@ -66304,6 +66320,8 @@ ff02::3 ip6-allhosts
 :: yghua.com
 0.0.0.0 yglo.pluto.sogou.com
 :: yglo.pluto.sogou.com
+0.0.0.0 ygnftomdh.com
+:: ygnftomdh.com
 0.0.0.0 ygqczh.com
 :: ygqczh.com
 0.0.0.0 ygyzx.cn
