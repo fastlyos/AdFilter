@@ -1,11 +1,11 @@
-# Checksum: MTU5OTcwNzAzNwo=
+# Checksum: MTU5OTcxNzgzOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200910-1
-# TimeUpdated: 2020-09-10T03:03:57+00:00
+# Version: 1.6.1-20200910-2
+# TimeUpdated: 2020-09-10T06:03:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33933
+# Total: 33927
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -356,8 +356,6 @@ ff02::3 ip6-allhosts
 :: 1.up.qingdaonews.com
 0.0.0.0 1.v-x.com.cn
 :: 1.v-x.com.cn
-0.0.0.0 1.vsimg.com
-:: 1.vsimg.com
 0.0.0.0 1.wenzhangba.cn
 :: 1.wenzhangba.cn
 0.0.0.0 1.win7sky.com
@@ -1778,8 +1776,6 @@ ff02::3 ip6-allhosts
 :: 5d02977f6511aa.com
 0.0.0.0 5dabf928ad9ad4.com
 :: 5dabf928ad9ad4.com
-0.0.0.0 5db8d92zi2.com
-:: 5db8d92zi2.com
 0.0.0.0 5dimes.com
 :: 5dimes.com
 0.0.0.0 5dydk.com
@@ -2802,8 +2798,6 @@ ff02::3 ip6-allhosts
 :: 9ll01.com
 0.0.0.0 9nl.eu
 :: 9nl.eu
-0.0.0.0 9nwg9sib9e.com
-:: 9nwg9sib9e.com
 0.0.0.0 9pkw.com
 :: 9pkw.com
 0.0.0.0 9s6q.cn
@@ -6680,8 +6674,6 @@ ff02::3 ip6-allhosts
 :: adxpremium.com
 0.0.0.0 adxpremium.services
 :: adxpremium.services
-0.0.0.0 adxprts.com
-:: adxprts.com
 0.0.0.0 adxprtz.com
 :: adxprtz.com
 0.0.0.0 adxpub.com
@@ -6970,6 +6962,8 @@ ff02::3 ip6-allhosts
 :: affilijack.de
 0.0.0.0 affiliproducts.com
 :: affiliproducts.com
+0.0.0.0 affilizr.com
+:: affilizr.com
 0.0.0.0 affinesystems.com
 :: affinesystems.com
 0.0.0.0 affinitad.com
@@ -17554,8 +17548,6 @@ ff02::3 ip6-allhosts
 :: cw.guominziben.com
 0.0.0.0 cwmlm.com
 :: cwmlm.com
-0.0.0.0 cwnrunnvatbfug.com
-:: cwnrunnvatbfug.com
 0.0.0.0 cwpush.com
 :: cwpush.com
 0.0.0.0 cws-cctv.conviva.com
@@ -17580,6 +17572,8 @@ ff02::3 ip6-allhosts
 :: cya2.net
 0.0.0.0 cyacc.com
 :: cyacc.com
+0.0.0.0 cyad.cc
+:: cyad.cc
 0.0.0.0 cyad1.cyworld.com
 :: cyad1.cyworld.com
 0.0.0.0 cyad1.nate.com
@@ -18498,8 +18492,6 @@ ff02::3 ip6-allhosts
 :: daffaite.com
 0.0.0.0 dagasaka.com
 :: dagasaka.com
-0.0.0.0 dagda.vilynx.com
-:: dagda.vilynx.com
 0.0.0.0 dah0ooy4doe.info
 :: dah0ooy4doe.info
 0.0.0.0 dahanedu.com
@@ -21806,8 +21798,6 @@ ff02::3 ip6-allhosts
 :: efatik.me
 0.0.0.0 efe25.t7wl8.cn
 :: efe25.t7wl8.cn
-0.0.0.0 efekvyyynwd.com
-:: efekvyyynwd.com
 0.0.0.0 eff.inte.sogou.com
 :: eff.inte.sogou.com
 0.0.0.0 eff.lu.sogou.com
@@ -22574,6 +22564,8 @@ ff02::3 ip6-allhosts
 :: esconcentleu.site
 0.0.0.0 escortso.com
 :: escortso.com
+0.0.0.0 escowledge.club
+:: escowledge.club
 0.0.0.0 esdipherecoordi.info
 :: esdipherecoordi.info
 0.0.0.0 esearchvision.com
@@ -23884,6 +23876,8 @@ ff02::3 ip6-allhosts
 :: fg09t.com
 0.0.0.0 fgangstsur.club
 :: fgangstsur.club
+0.0.0.0 fgbmbyqmdgr.com
+:: fgbmbyqmdgr.com
 0.0.0.0 fgddl9szdof7.com
 :: fgddl9szdof7.com
 0.0.0.0 fgddrrr.com
@@ -24908,6 +24902,8 @@ ff02::3 ip6-allhosts
 :: fzxrjx.com
 0.0.0.0 g-cash.biz
 :: g-cash.biz
+0.0.0.0 g-statistic.com
+:: g-statistic.com
 0.0.0.0 g-stats.openhost.es
 :: g-stats.openhost.es
 0.0.0.0 g.0x1f4b0.com
@@ -25392,6 +25388,8 @@ ff02::3 ip6-allhosts
 :: gbr-eri-c1-s1.inf.nimiq.network
 0.0.0.0 gbr-eri-c1-s2.inf.nimiq.network
 :: gbr-eri-c1-s2.inf.nimiq.network
+0.0.0.0 gbylaoajzugbgj.com
+:: gbylaoajzugbgj.com
 0.0.0.0 gc.newsweek.com
 :: gc.newsweek.com
 0.0.0.0 gc.zgo.at
@@ -28254,8 +28252,6 @@ ff02::3 ip6-allhosts
 :: hosting.miarroba.info
 0.0.0.0 hosting24.com
 :: hosting24.com
-0.0.0.0 hostingcloud.accountant
-:: hostingcloud.accountant
 0.0.0.0 hostingcloud.faith
 :: hostingcloud.faith
 0.0.0.0 hostingcloud.party
@@ -38520,6 +38516,8 @@ ff02::3 ip6-allhosts
 :: mrw.so
 0.0.0.0 mrzikj.com
 :: mrzikj.com
+0.0.0.0 ms-apps.haaretz.com
+:: ms-apps.haaretz.com
 0.0.0.0 ms.actingidekex.cn
 :: ms.actingidekex.cn
 0.0.0.0 ms.analytics.live.com
@@ -43794,8 +43792,6 @@ ff02::3 ip6-allhosts
 :: pop.mmfusheng.com
 0.0.0.0 pop.uusee.com
 :: pop.uusee.com
-0.0.0.0 pop3.fuxids.com
-:: pop3.fuxids.com
 0.0.0.0 pop800.com
 :: pop800.com
 0.0.0.0 popads.media
@@ -45944,8 +45940,6 @@ ff02::3 ip6-allhosts
 :: qyctj.com
 0.0.0.0 qyqc4s.com
 :: qyqc4s.com
-0.0.0.0 qyrzcsoaey.com
-:: qyrzcsoaey.com
 0.0.0.0 qyttl.cn
 :: qyttl.cn
 0.0.0.0 qytyf.com
@@ -49072,8 +49066,6 @@ ff02::3 ip6-allhosts
 :: sbiotiatingf.club
 0.0.0.0 sblftg.com
 :: sblftg.com
-0.0.0.0 sbmijpifoszz.com
-:: sbmijpifoszz.com
 0.0.0.0 sbmode.cn
 :: sbmode.cn
 0.0.0.0 sboite.cn
@@ -51484,6 +51476,8 @@ ff02::3 ip6-allhosts
 :: sometream.club
 0.0.0.0 sometrics.com
 :: sometrics.com
+0.0.0.0 somewhate.club
+:: somewhate.club
 0.0.0.0 sommons.co
 :: sommons.co
 0.0.0.0 somniture.theglobeandmail.com
@@ -59018,8 +59012,6 @@ ff02::3 ip6-allhosts
 :: urymiseshabe.club
 0.0.0.0 uryobtainlyi.club
 :: uryobtainlyi.club
-0.0.0.0 uryvzhvgpulaog.com
-:: uryvzhvgpulaog.com
 0.0.0.0 us-east.beeppool.org
 :: us-east.beeppool.org
 0.0.0.0 us-pool.beeppool.org
@@ -59584,8 +59576,6 @@ ff02::3 ip6-allhosts
 :: vantage-media.net
 0.0.0.0 vapedia.com
 :: vapedia.com
-0.0.0.0 vapgfhsecbit.com
-:: vapgfhsecbit.com
 0.0.0.0 variablefitness.com
 :: variablefitness.com
 0.0.0.0 variti.net
@@ -65966,8 +65956,6 @@ ff02::3 ip6-allhosts
 :: xvyljkr.com
 0.0.0.0 xw1001.com
 :: xw1001.com
-0.0.0.0 xwdlgzrnuyo.com
-:: xwdlgzrnuyo.com
 0.0.0.0 xwetmeeynns.com
 :: xwetmeeynns.com
 0.0.0.0 xx.m.gxwztv.com
