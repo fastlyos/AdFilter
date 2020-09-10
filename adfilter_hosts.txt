@@ -1,11 +1,11 @@
-# Checksum: MTU5OTcyODYwMAo=
+# Checksum: MTU5OTczOTQ3NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200910-3
-# TimeUpdated: 2020-09-10T09:03:20+00:00
+# Version: 1.6.1-20200910-4
+# TimeUpdated: 2020-09-10T12:04:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33932
+# Total: 33947
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -708,6 +708,8 @@ ff02::3 ip6-allhosts
 :: 1999sg.com
 0.0.0.0 19b45a16170729.com
 :: 19b45a16170729.com
+0.0.0.0 1ab5bb25e29d576.com
+:: 1ab5bb25e29d576.com
 0.0.0.0 1aogoh1j81g3.com
 :: 1aogoh1j81g3.com
 0.0.0.0 1b6a637cbe7bb65ac.com
@@ -1256,6 +1258,8 @@ ff02::3 ip6-allhosts
 :: 37xs.net
 0.0.0.0 3808010.com
 :: 3808010.com
+0.0.0.0 382b09405a19.com
+:: 382b09405a19.com
 0.0.0.0 38330.bet
 :: 38330.bet
 0.0.0.0 3878896c72ed218.com
@@ -1912,8 +1916,6 @@ ff02::3 ip6-allhosts
 :: 651b4ee436b8cdae.com
 0.0.0.0 652748.com
 :: 652748.com
-0.0.0.0 6548579f50dc08be9.com
-:: 6548579f50dc08be9.com
 0.0.0.0 654mmm.com
 :: 654mmm.com
 0.0.0.0 6554.net
@@ -1986,6 +1988,8 @@ ff02::3 ip6-allhosts
 :: 69lm.com.cn
 0.0.0.0 69oxt4q05.com
 :: 69oxt4q05.com
+0.0.0.0 69v.club
+:: 69v.club
 0.0.0.0 6a40194bef976cc.com
 :: 6a40194bef976cc.com
 0.0.0.0 6a9102689db8e.com
@@ -2074,6 +2078,8 @@ ff02::3 ip6-allhosts
 :: 7017042b83a65ea.com
 0.0.0.0 701ac.com
 :: 701ac.com
+0.0.0.0 703c4af391997.com
+:: 703c4af391997.com
 0.0.0.0 706529.com
 :: 706529.com
 0.0.0.0 7080555.com
@@ -2476,6 +2482,8 @@ ff02::3 ip6-allhosts
 :: 889fb4992d4e8.com
 0.0.0.0 88android.com
 :: 88android.com
+0.0.0.0 88c1b7097f.com
+:: 88c1b7097f.com
 0.0.0.0 88cpc.com
 :: 88cpc.com
 0.0.0.0 88eg.cn
@@ -2700,6 +2708,8 @@ ff02::3 ip6-allhosts
 :: 970ztqtss4.com
 0.0.0.0 9718.com
 :: 9718.com
+0.0.0.0 9767a959187.com
+:: 9767a959187.com
 0.0.0.0 97d73lsi.com
 :: 97d73lsi.com
 0.0.0.0 9800.com
@@ -3256,6 +3266,8 @@ ff02::3 ip6-allhosts
 :: a40hd1mh5deq.com
 0.0.0.0 a46b257bc29b.com
 :: a46b257bc29b.com
+0.0.0.0 a47877e31aa893.com
+:: a47877e31aa893.com
 0.0.0.0 a4b-tracking.com
 :: a4b-tracking.com
 0.0.0.0 a4g.com
@@ -3640,6 +3652,8 @@ ff02::3 ip6-allhosts
 :: accessi.it
 0.0.0.0 accessintel.com
 :: accessintel.com
+0.0.0.0 accessorymiddleirresponsible.com
+:: accessorymiddleirresponsible.com
 0.0.0.0 accesstrade.net
 :: accesstrade.net
 0.0.0.0 accio.ai
@@ -10450,6 +10464,8 @@ ff02::3 ip6-allhosts
 :: baiducom.bj.bcebos.com
 0.0.0.0 baidujavascript.com
 :: baidujavascript.com
+0.0.0.0 baidulao.com
+:: baidulao.com
 0.0.0.0 baidustatic.com
 :: baidustatic.com
 0.0.0.0 baidut.github.io
@@ -11920,6 +11936,8 @@ ff02::3 ip6-allhosts
 :: bliss-systems-api.co.uk
 0.0.0.0 blissfulonline.com
 :: blissfulonline.com
+0.0.0.0 bljpk3.cn
+:: bljpk3.cn
 0.0.0.0 blockadsnot.com
 :: blockadsnot.com
 0.0.0.0 blockchaintop.nl
@@ -16208,6 +16226,8 @@ ff02::3 ip6-allhosts
 :: content.adriver.ru
 0.0.0.0 content.livesportmedia.eu
 :: content.livesportmedia.eu
+0.0.0.0 content.liveuniverse.com
+:: content.liveuniverse.com
 0.0.0.0 content.s8bbs.com
 :: content.s8bbs.com
 0.0.0.0 content.secondspace.com
@@ -18998,6 +19018,8 @@ ff02::3 ip6-allhosts
 :: ddl.3g567.com
 0.0.0.0 ddm.io
 :: ddm.io
+0.0.0.0 ddmax20.xyz
+:: ddmax20.xyz
 0.0.0.0 ddnmzrpp.com
 :: ddnmzrpp.com
 0.0.0.0 ddns.name
@@ -19834,6 +19856,8 @@ ff02::3 ip6-allhosts
 :: dlak0ie0yn.buzz
 0.0.0.0 dlb1uotpjs6s.com
 :: dlb1uotpjs6s.com
+0.0.0.0 dlcgxmentykv.com
+:: dlcgxmentykv.com
 0.0.0.0 dldsrs.com
 :: dldsrs.com
 0.0.0.0 dlevisionexpr.site
@@ -29912,6 +29936,8 @@ ff02::3 ip6-allhosts
 :: in.jinlubaojie.cn
 0.0.0.0 in.ml314.com
 :: in.ml314.com
+0.0.0.0 in.ndtzx.com
+:: in.ndtzx.com
 0.0.0.0 in.pomhz.com
 :: in.pomhz.com
 0.0.0.0 in.qzkxt.com
@@ -34900,6 +34926,8 @@ ff02::3 ip6-allhosts
 :: lushcrush.com
 0.0.0.0 lustigbanner.com
 :: lustigbanner.com
+0.0.0.0 lustresoonerrecalled.com
+:: lustresoonerrecalled.com
 0.0.0.0 lutachechu.pro
 :: lutachechu.pro
 0.0.0.0 lutsoops.net
@@ -41716,6 +41744,8 @@ ff02::3 ip6-allhosts
 :: owlanalytics.io
 0.0.0.0 owlsoralscola.icu
 :: owlsoralscola.icu
+0.0.0.0 owlsyumducal.com
+:: owlsyumducal.com
 0.0.0.0 owncutone.com
 :: owncutone.com
 0.0.0.0 owndata.network
@@ -49210,6 +49240,8 @@ ff02::3 ip6-allhosts
 :: scqajt.cn
 0.0.0.0 scrap.me
 :: scrap.me
+0.0.0.0 screatprisin.club
+:: screatprisin.club
 0.0.0.0 screechingslip.com
 :: screechingslip.com
 0.0.0.0 screencapturewidget.aebn.net
@@ -59240,6 +59272,8 @@ ff02::3 ip6-allhosts
 :: uunriutbi.com
 0.0.0.0 uuopp.com
 :: uuopp.com
+0.0.0.0 uuribxuxsbdfof.com
+:: uuribxuxsbdfof.com
 0.0.0.0 uusee.adsame.com
 :: uusee.adsame.com
 0.0.0.0 uuu.pctowap.com
@@ -61432,8 +61466,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -66168,8 +66200,6 @@ ff02::3 ip6-allhosts
 :: yantairuide.com
 0.0.0.0 yao.zzsdjq.com
 :: yao.zzsdjq.com
-0.0.0.0 yaodianzhineng.cn
-:: yaodianzhineng.cn
 0.0.0.0 yaolan.adsame.com
 :: yaolan.adsame.com
 0.0.0.0 yaolu.mh.163.com
