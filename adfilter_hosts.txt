@@ -1,11 +1,11 @@
-# Checksum: MTU5OTcxNzgzOAo=
+# Checksum: MTU5OTcyODYwMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200910-2
-# TimeUpdated: 2020-09-10T06:03:58+00:00
+# Version: 1.6.1-20200910-3
+# TimeUpdated: 2020-09-10T09:03:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33927
+# Total: 33932
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7396,6 +7396,8 @@ ff02::3 ip6-allhosts
 :: akatracking.esearchvision.com
 0.0.0.0 akavita.com
 :: akavita.com
+0.0.0.0 akingsslativ.club
+:: akingsslativ.club
 0.0.0.0 aklamator.com
 :: aklamator.com
 0.0.0.0 akrazappi.com
@@ -8358,8 +8360,6 @@ ff02::3 ip6-allhosts
 :: anbalxkcpwa.com
 0.0.0.0 andantask.online
 :: andantask.online
-0.0.0.0 andarcair.club
-:: andarcair.club
 0.0.0.0 andase.com
 :: andase.com
 0.0.0.0 andbeyond.media
@@ -13360,8 +13360,6 @@ ff02::3 ip6-allhosts
 :: cam4flat.com
 0.0.0.0 camakaroda.com
 :: camakaroda.com
-0.0.0.0 camalbbuy.online
-:: camalbbuy.online
 0.0.0.0 camantasp.club
 :: camantasp.club
 0.0.0.0 cambrianter.club
@@ -26740,6 +26738,8 @@ ff02::3 ip6-allhosts
 :: gsezbakx.com
 0.0.0.0 gsfillegesga.club
 :: gsfillegesga.club
+0.0.0.0 gshtrl.top
+:: gshtrl.top
 0.0.0.0 gsimedia.net
 :: gsimedia.net
 0.0.0.0 gsimjyplcciwgb.com
@@ -32698,6 +32698,8 @@ ff02::3 ip6-allhosts
 :: klkus.xyz
 0.0.0.0 klldabck.com
 :: klldabck.com
+0.0.0.0 klsadm.com
+:: klsadm.com
 0.0.0.0 klsdee.com
 :: klsdee.com
 0.0.0.0 klsdmr.com
@@ -39148,6 +39150,8 @@ ff02::3 ip6-allhosts
 :: nakanohito.jp
 0.0.0.0 nalbusinespr.info
 :: nalbusinespr.info
+0.0.0.0 nalook.com
+:: nalook.com
 0.0.0.0 nameads.com
 :: nameads.com
 0.0.0.0 namedq.com
@@ -39358,6 +39362,8 @@ ff02::3 ip6-allhosts
 :: ndricshoweverau.info
 0.0.0.0 ndsinternanhono.info
 :: ndsinternanhono.info
+0.0.0.0 ndtzx.com
+:: ndtzx.com
 0.0.0.0 nduop.com
 :: nduop.com
 0.0.0.0 ndusa.cn
@@ -45060,6 +45066,8 @@ ff02::3 ip6-allhosts
 :: pushbots.com
 0.0.0.0 pushbox.info
 :: pushbox.info
+0.0.0.0 pushcentr.com
+:: pushcentr.com
 0.0.0.0 pushcfg.com
 :: pushcfg.com
 0.0.0.0 pushchev.info
@@ -66160,6 +66168,8 @@ ff02::3 ip6-allhosts
 :: yantairuide.com
 0.0.0.0 yao.zzsdjq.com
 :: yao.zzsdjq.com
+0.0.0.0 yaodianzhineng.cn
+:: yaodianzhineng.cn
 0.0.0.0 yaolan.adsame.com
 :: yaolan.adsame.com
 0.0.0.0 yaolu.mh.163.com
