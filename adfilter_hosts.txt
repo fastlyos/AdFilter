@@ -1,11 +1,11 @@
-# Checksum: MTU5OTY4NTQzMgo=
+# Checksum: MTU5OTY5NjUwNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200909-7
-# TimeUpdated: 2020-09-09T21:03:52+00:00
+# Version: 1.6.1-20200910-0
+# TimeUpdated: 2020-09-10T00:08:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33903
+# Total: 33907
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7222,6 +7222,8 @@ ff02::3 ip6-allhosts
 :: aigneloa.com
 0.0.0.0 aigou023.com
 :: aigou023.com
+0.0.0.0 aijielang.cn
+:: aijielang.cn
 0.0.0.0 ailawlani.club
 :: ailawlani.club
 0.0.0.0 aileenvideos.pro
@@ -11996,8 +11998,6 @@ ff02::3 ip6-allhosts
 :: blrqeqn.com
 0.0.0.0 blu5fdclr.com
 :: blu5fdclr.com
-0.0.0.0 blueadvertise.com
-:: blueadvertise.com
 0.0.0.0 bluecava.com
 :: bluecava.com
 0.0.0.0 blueconic.net
@@ -12798,8 +12798,6 @@ ff02::3 ip6-allhosts
 :: bxjpl.cn
 0.0.0.0 bxjt518.com
 :: bxjt518.com
-0.0.0.0 bxodbythc.com
-:: bxodbythc.com
 0.0.0.0 bxs.bilandgo.com
 :: bxs.bilandgo.com
 0.0.0.0 by.mbai.cn
@@ -17148,6 +17146,8 @@ ff02::3 ip6-allhosts
 :: creatchristorisalmos.info
 0.0.0.0 create2fear.com
 :: create2fear.com
+0.0.0.0 createssque.club
+:: createssque.club
 0.0.0.0 creathere.club
 :: creathere.club
 0.0.0.0 creative-serving.com
@@ -32514,6 +32514,8 @@ ff02::3 ip6-allhosts
 :: khuoy.com
 0.0.0.0 khzbeucrltin.com
 :: khzbeucrltin.com
+0.0.0.0 khzehmdyybvicy.com
+:: khzehmdyybvicy.com
 0.0.0.0 kiccebmlxtrze.com
 :: kiccebmlxtrze.com
 0.0.0.0 kid9.info
@@ -34258,6 +34260,8 @@ ff02::3 ip6-allhosts
 :: log.go.com
 0.0.0.0 log.go2s.co
 :: log.go2s.co
+0.0.0.0 log.gs3.goo.ne.jp
+:: log.gs3.goo.ne.jp
 0.0.0.0 log.he2d.com
 :: log.he2d.com
 0.0.0.0 log.hiiir.com
@@ -34512,6 +34516,8 @@ ff02::3 ip6-allhosts
 :: logs.chelaile.net.cn
 0.0.0.0 logs.dashlane.com
 :: logs.dashlane.com
+0.0.0.0 logs.datadoghq.eu
+:: logs.datadoghq.eu
 0.0.0.0 logs.gaana.com
 :: logs.gaana.com
 0.0.0.0 logs.ggweb.nl
@@ -39300,6 +39306,8 @@ ff02::3 ip6-allhosts
 :: ndardsferv.club
 0.0.0.0 ndardsgreatm.fun
 :: ndardsgreatm.fun
+0.0.0.0 ndddttxkqyh.com
+:: ndddttxkqyh.com
 0.0.0.0 nddmcconmqsy.ru
 :: nddmcconmqsy.ru
 0.0.0.0 ndecpynmkwqjz.com
