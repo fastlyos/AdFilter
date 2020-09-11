@@ -1,11 +1,11 @@
-# Checksum: MTU5OTc3MTgxNwo=
+# Checksum: MTU5OTc4MjkwOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200910-7
-# TimeUpdated: 2020-09-10T21:03:37+00:00
+# Version: 1.6.1-20200911-0
+# TimeUpdated: 2020-09-11T00:08:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33954
+# Total: 33961
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -384,6 +384,8 @@ ff02::3 ip6-allhosts
 :: 1.zuowenjun.com
 0.0.0.0 100.pncdn.cn
 :: 100.pncdn.cn
+0.0.0.0 1000re.com
+:: 1000re.com
 0.0.0.0 1000su.com
 :: 1000su.com
 0.0.0.0 1002.men
@@ -1780,8 +1782,6 @@ ff02::3 ip6-allhosts
 :: 5dimes.com
 0.0.0.0 5dydk.com
 :: 5dydk.com
-0.0.0.0 5e1fcb75b6d662d.com
-:: 5e1fcb75b6d662d.com
 0.0.0.0 5edb123fa3329.com
 :: 5edb123fa3329.com
 0.0.0.0 5egk.com
@@ -10192,6 +10192,8 @@ ff02::3 ip6-allhosts
 :: b.mlion.cn
 0.0.0.0 b.myspace.com
 :: b.myspace.com
+0.0.0.0 b.ndtzx.com
+:: b.ndtzx.com
 0.0.0.0 b.nvrentao8.com
 :: b.nvrentao8.com
 0.0.0.0 b.polkoa.com
@@ -18348,8 +18350,6 @@ ff02::3 ip6-allhosts
 :: d5.sina.com.cn
 0.0.0.0 d5.sinaimg.cn
 :: d5.sinaimg.cn
-0.0.0.0 d50285bff60edbb406.com
-:: d50285bff60edbb406.com
 0.0.0.0 d58bf31082fa97.com
 :: d58bf31082fa97.com
 0.0.0.0 d59fa492f75f520.com
@@ -18492,6 +18492,8 @@ ff02::3 ip6-allhosts
 :: daero.pw
 0.0.0.0 daethana.pw
 :: daethana.pw
+0.0.0.0 dafahao.org
+:: dafahao.org
 0.0.0.0 dafapai.com
 :: dafapai.com
 0.0.0.0 daffaite.com
@@ -22272,6 +22274,8 @@ ff02::3 ip6-allhosts
 :: enumerfavo.club
 0.0.0.0 enviousshape.com
 :: enviousshape.com
+0.0.0.0 envortudrqy.com
+:: envortudrqy.com
 0.0.0.0 enw.nwpuis.top
 :: enw.nwpuis.top
 0.0.0.0 enyayinxiang.com
@@ -30750,6 +30754,8 @@ ff02::3 ip6-allhosts
 :: itaoxiaoshuo.com
 0.0.0.0 itcfnfi.com
 :: itcfnfi.com
+0.0.0.0 itcoder.top
+:: itcoder.top
 0.0.0.0 itdise.info
 :: itdise.info
 0.0.0.0 itechwall.com
@@ -60270,6 +60276,8 @@ ff02::3 ip6-allhosts
 :: vknrfwwxhxaxupqp.pro
 0.0.0.0 vkuay.com
 :: vkuay.com
+0.0.0.0 vkvvvnppfmm.com
+:: vkvvvnppfmm.com
 0.0.0.0 vkznlzueuuebb.com
 :: vkznlzueuuebb.com
 0.0.0.0 vlbtjqngtvuqo.com
@@ -65290,6 +65298,8 @@ ff02::3 ip6-allhosts
 :: xad.com
 0.0.0.0 xadsmart.com
 :: xadsmart.com
+0.0.0.0 xafxs.cn
+:: xafxs.cn
 0.0.0.0 xamaky.top
 :: xamaky.top
 0.0.0.0 xameleonads.com
@@ -65894,6 +65904,8 @@ ff02::3 ip6-allhosts
 :: xsapp.cdn.bcebos.com
 0.0.0.0 xsc.x81zw.com
 :: xsc.x81zw.com
+0.0.0.0 xsgpzbipelo.com
+:: xsgpzbipelo.com
 0.0.0.0 xsnfmaxicj.com
 :: xsnfmaxicj.com
 0.0.0.0 xsolid.baidu.com
@@ -66780,6 +66792,8 @@ ff02::3 ip6-allhosts
 :: youmw.com
 0.0.0.0 youporn.sexy
 :: youporn.sexy
+0.0.0.0 youqumob.com
+:: youqumob.com
 0.0.0.0 your-counter.be
 :: your-counter.be
 0.0.0.0 your-notice.com
