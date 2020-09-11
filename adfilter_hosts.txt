@@ -1,11 +1,11 @@
-# Checksum: MTU5OTgzNjYxNwo=
+# Checksum: MTU5OTg0NzQyMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200911-5
-# TimeUpdated: 2020-09-11T15:03:37+00:00
+# Version: 1.6.1-20200911-6
+# TimeUpdated: 2020-09-11T18:03:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34013
+# Total: 34020
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2450,6 +2450,8 @@ ff02::3 ip6-allhosts
 :: 87gw0fl0rc11.com
 0.0.0.0 88-baidu.com
 :: 88-baidu.com
+0.0.0.0 88-sms.com
+:: 88-sms.com
 0.0.0.0 88461059da0a12ea.com
 :: 88461059da0a12ea.com
 0.0.0.0 8866786.com
@@ -7404,8 +7406,6 @@ ff02::3 ip6-allhosts
 :: aklamator.com
 0.0.0.0 akrazappi.com
 :: akrazappi.com
-0.0.0.0 akrwi.cn
-:: akrwi.cn
 0.0.0.0 aksb-a.akamaihd.net
 :: aksb-a.akamaihd.net
 0.0.0.0 aktgw4u9z27l.com
@@ -14294,6 +14294,8 @@ ff02::3 ip6-allhosts
 :: cgz0213.com
 0.0.0.0 cgzu.b0lc.cn
 :: cgzu.b0lc.cn
+0.0.0.0 ch-hr12333.com
+:: ch-hr12333.com
 0.0.0.0 ch0p.darty.com
 :: ch0p.darty.com
 0.0.0.0 chachors.net
@@ -18696,6 +18698,8 @@ ff02::3 ip6-allhosts
 :: dashboardad.net
 0.0.0.0 dashcreakyock.com
 :: dashcreakyock.com
+0.0.0.0 dasheducation.cn
+:: dasheducation.cn
 0.0.0.0 dashet.com
 :: dashet.com
 0.0.0.0 dasimporary.club
@@ -24240,6 +24244,8 @@ ff02::3 ip6-allhosts
 :: fmebili.info
 0.0.0.0 fmpub.net
 :: fmpub.net
+0.0.0.0 fmrbnuhtabzavu.com
+:: fmrbnuhtabzavu.com
 0.0.0.0 fms.ipinyou.com
 :: fms.ipinyou.com
 0.0.0.0 fmsads.com
@@ -30754,6 +30760,8 @@ ff02::3 ip6-allhosts
 :: iskkrmwivxfmdjwxme.bid
 0.0.0.0 iskyworker.com
 :: iskyworker.com
+0.0.0.0 islofthmci.com
+:: islofthmci.com
 0.0.0.0 ismatlab.com
 :: ismatlab.com
 0.0.0.0 isohits.com
@@ -40396,6 +40404,8 @@ ff02::3 ip6-allhosts
 :: nraddramatica.club
 0.0.0.0 nrc.tapas.net
 :: nrc.tapas.net
+0.0.0.0 nrdaixdlt.com
+:: nrdaixdlt.com
 0.0.0.0 nrdlj2ru.com
 :: nrdlj2ru.com
 0.0.0.0 nrelate.com
@@ -41126,6 +41136,8 @@ ff02::3 ip6-allhosts
 :: omparentcarage.info
 0.0.0.0 oms.expedia.com
 :: oms.expedia.com
+0.0.0.0 omsyfxirjg.com
+:: omsyfxirjg.com
 0.0.0.0 omt.shinobi.jp
 :: omt.shinobi.jp
 0.0.0.0 omtvxcle.com
@@ -61566,6 +61578,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
