@@ -1,11 +1,11 @@
-# Checksum: MTU5OTgyNTk4OAo=
+# Checksum: MTU5OTgzNjYxNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200911-4
-# TimeUpdated: 2020-09-11T12:06:28+00:00
+# Version: 1.6.1-20200911-5
+# TimeUpdated: 2020-09-11T15:03:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34010
+# Total: 34013
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -17992,6 +17992,8 @@ ff02::3 ip6-allhosts
 :: d1wjz6mrey9f5v.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 :: d1xfq2052q7thw.cloudfront.net
+0.0.0.0 d1ybdlg8aoufn.cloudfront.net
+:: d1ybdlg8aoufn.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
 :: d1zgderxoe1a.cloudfront.net
 0.0.0.0 d2.mobaders.com
@@ -20872,6 +20874,8 @@ ff02::3 ip6-allhosts
 :: dy8nb.com
 0.0.0.0 dybxezbel1g44.cloudfront.net
 :: dybxezbel1g44.cloudfront.net
+0.0.0.0 dydab.com
+:: dydab.com
 0.0.0.0 dydyhg.com
 :: dydyhg.com
 0.0.0.0 dyecowwhy.com
@@ -32590,6 +32594,8 @@ ff02::3 ip6-allhosts
 :: kgqhtakjphgdwg.com
 0.0.0.0 kgua0o66bcw8.com
 :: kgua0o66bcw8.com
+0.0.0.0 kguke.com
+:: kguke.com
 0.0.0.0 khg97644rvbg.com
 :: khg97644rvbg.com
 0.0.0.0 khgj.cn
@@ -38492,6 +38498,8 @@ ff02::3 ip6-allhosts
 :: mpb1.iteye.com
 0.0.0.0 mpb2.iteye.com
 :: mpb2.iteye.com
+0.0.0.0 mpersonclu.club
+:: mpersonclu.club
 0.0.0.0 mpk01.com
 :: mpk01.com
 0.0.0.0 mpletedsen.fun
@@ -66258,8 +66266,6 @@ ff02::3 ip6-allhosts
 :: y71.ylems.club
 0.0.0.0 y76.ylems.club
 :: y76.ylems.club
-0.0.0.0 y7wr7.cn
-:: y7wr7.cn
 0.0.0.0 y90.zdmzhzu.cn
 :: y90.zdmzhzu.cn
 0.0.0.0 y96e1tnmr2.buzz
