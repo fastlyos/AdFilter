@@ -1,11 +1,11 @@
-# Checksum: MTU5OTgxNTAyNwo=
+# Checksum: MTU5OTgyNTk4OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200911-3
-# TimeUpdated: 2020-09-11T09:03:47+00:00
+# Version: 1.6.1-20200911-4
+# TimeUpdated: 2020-09-11T12:06:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34007
+# Total: 34010
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2210,8 +2210,6 @@ ff02::3 ip6-allhosts
 :: 7891655.cn
 0.0.0.0 78986ba32c.com
 :: 78986ba32c.com
-0.0.0.0 78cc571ae97.net
-:: 78cc571ae97.net
 0.0.0.0 78tdd75.com
 :: 78tdd75.com
 0.0.0.0 7987809d62.com
@@ -9628,6 +9626,8 @@ ff02::3 ip6-allhosts
 :: astrategy.beacon.qq.com
 0.0.0.0 astro-way.com
 :: astro-way.com
+0.0.0.0 astrouble.club
+:: astrouble.club
 0.0.0.0 asumi.shinobi.jp
 :: asumi.shinobi.jp
 0.0.0.0 asuydisi.com
@@ -11062,6 +11062,8 @@ ff02::3 ip6-allhosts
 :: bdsearch.2345.com
 0.0.0.0 bdstatic.eastmoney.com
 :: bdstatic.eastmoney.com
+0.0.0.0 bdtongfei.cn
+:: bdtongfei.cn
 0.0.0.0 bdtwxreri.com
 :: bdtwxreri.com
 0.0.0.0 bdu.focus.cn
@@ -23734,8 +23736,6 @@ ff02::3 ip6-allhosts
 :: feed-ads.com
 0.0.0.0 feed-image.baidu.com
 :: feed-image.baidu.com
-0.0.0.0 feed-xml.com
-:: feed-xml.com
 0.0.0.0 feed.baidu.com
 :: feed.baidu.com
 0.0.0.0 feed.mikle.com
@@ -30282,6 +30282,8 @@ ff02::3 ip6-allhosts
 :: insta-cash.net
 0.0.0.0 instabug.com
 :: instabug.com
+0.0.0.0 instaemail.net
+:: instaemail.net
 0.0.0.0 install.kugou.com
 :: install.kugou.com
 0.0.0.0 install.sidesearch.lycos.com
@@ -40562,6 +40564,8 @@ ff02::3 ip6-allhosts
 :: nuseek.com
 0.0.0.0 nut.cc
 :: nut.cc
+0.0.0.0 nutscolouredrefrain.com
+:: nutscolouredrefrain.com
 0.0.0.0 nuvidp.com
 :: nuvidp.com
 0.0.0.0 nv.souid.com
@@ -55970,8 +55974,6 @@ ff02::3 ip6-allhosts
 :: tiwom.com
 0.0.0.0 tizernet.com
 :: tizernet.com
-0.0.0.0 tiznmktqel.com
-:: tiznmktqel.com
 0.0.0.0 tj-cmys.com
 :: tj-cmys.com
 0.0.0.0 tj.20hn.cn
@@ -60996,6 +60998,8 @@ ff02::3 ip6-allhosts
 :: waycash.net
 0.0.0.0 waynagmay.com
 :: waynagmay.com
+0.0.0.0 waypresentsstud.com
+:: waypresentsstud.com
 0.0.0.0 waysinbeg.com
 :: waysinbeg.com
 0.0.0.0 waytogrow.eu
@@ -61554,8 +61558,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -65400,6 +65402,8 @@ ff02::3 ip6-allhosts
 :: xayjr.cn
 0.0.0.0 xazhuozhi.com
 :: xazhuozhi.com
+0.0.0.0 xbaulknerte.club
+:: xbaulknerte.club
 0.0.0.0 xbofirnnmzlprd.com
 :: xbofirnnmzlprd.com
 0.0.0.0 xbtw.com
@@ -66254,6 +66258,8 @@ ff02::3 ip6-allhosts
 :: y71.ylems.club
 0.0.0.0 y76.ylems.club
 :: y76.ylems.club
+0.0.0.0 y7wr7.cn
+:: y7wr7.cn
 0.0.0.0 y90.zdmzhzu.cn
 :: y90.zdmzhzu.cn
 0.0.0.0 y96e1tnmr2.buzz
