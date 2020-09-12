@@ -1,11 +1,11 @@
-# Checksum: MTU5OTkzMzgzMQo=
+# Checksum: MTU5OTk0NDYzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200912-6
-# TimeUpdated: 2020-09-12T18:03:51+00:00
+# Version: 1.6.1-20200912-7
+# TimeUpdated: 2020-09-12T21:03:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34067
+# Total: 34075
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3286,8 +3286,6 @@ ff02::3 ip6-allhosts
 :: a6.wechatpu.com
 0.0.0.0 a63t9o1azf.com
 :: a63t9o1azf.com
-0.0.0.0 a69ee4fa50dc3.com
-:: a69ee4fa50dc3.com
 0.0.0.0 a6be07586bc4a7.com
 :: a6be07586bc4a7.com
 0.0.0.0 a6f845e6c37b2833148.com
@@ -9640,6 +9638,8 @@ ff02::3 ip6-allhosts
 :: asvatskaymj.club
 0.0.0.0 aswl.zjhim.com
 :: aswl.zjhim.com
+0.0.0.0 aswlx.cn
+:: aswlx.cn
 0.0.0.0 aswpsdkus.com
 :: aswpsdkus.com
 0.0.0.0 at-img1.tdimg.com
@@ -20506,6 +20506,8 @@ ff02::3 ip6-allhosts
 :: dreamfull.cn
 0.0.0.0 dreamine.com
 :: dreamine.com
+0.0.0.0 dreamrecord.cn
+:: dreamrecord.cn
 0.0.0.0 dregardianfl.site
 :: dregardianfl.site
 0.0.0.0 dressimage.img-cn-beijing.aliyuncs.com
@@ -21862,6 +21864,8 @@ ff02::3 ip6-allhosts
 :: ef9377.com
 0.0.0.0 efatik.me
 :: efatik.me
+0.0.0.0 efd3b86a5fbddda.com
+:: efd3b86a5fbddda.com
 0.0.0.0 efe25.t7wl8.cn
 :: efe25.t7wl8.cn
 0.0.0.0 eff.inte.sogou.com
@@ -23686,6 +23690,8 @@ ff02::3 ip6-allhosts
 :: fcaot.com
 0.0.0.0 fccay.cn
 :: fccay.cn
+0.0.0.0 fcfd5de4b3be3.com
+:: fcfd5de4b3be3.com
 0.0.0.0 fcgadgets.blogspot.com
 :: fcgadgets.blogspot.com
 0.0.0.0 fch.beeppool.org
@@ -30192,6 +30198,8 @@ ff02::3 ip6-allhosts
 :: infox.sg
 0.0.0.0 infrashift.com
 :: infrashift.com
+0.0.0.0 infvb.com
+:: infvb.com
 0.0.0.0 infy.theta.sogoucdn.com
 :: infy.theta.sogoucdn.com
 0.0.0.0 ingameads.gameloft.com
@@ -35622,6 +35630,8 @@ ff02::3 ip6-allhosts
 :: m.ihais.com
 0.0.0.0 m.imiek.com
 :: m.imiek.com
+0.0.0.0 m.infvb.com
+:: m.infvb.com
 0.0.0.0 m.iorgb.com
 :: m.iorgb.com
 0.0.0.0 m.irs01.com
@@ -40894,6 +40904,8 @@ ff02::3 ip6-allhosts
 :: octopuszyw.cn
 0.0.0.0 ocuf.pzuth.cn
 :: ocuf.pzuth.cn
+0.0.0.0 ocyhiome.com
+:: ocyhiome.com
 0.0.0.0 od0gddq27wkk.com
 :: od0gddq27wkk.com
 0.0.0.0 oda.markitondemand.com
@@ -49330,6 +49342,8 @@ ff02::3 ip6-allhosts
 :: sccdn.f2zd.com
 0.0.0.0 scdown.qq.com
 :: scdown.qq.com
+0.0.0.0 scenbe.com
+:: scenbe.com
 0.0.0.0 scene.vip.xunlei.com
 :: scene.vip.xunlei.com
 0.0.0.0 sceno.ru
@@ -60624,6 +60638,8 @@ ff02::3 ip6-allhosts
 :: vpkq.cn
 0.0.0.0 vpn.celueziben.com
 :: vpn.celueziben.com
+0.0.0.0 vpn.zhengyejixie.com
+:: vpn.zhengyejixie.com
 0.0.0.0 vpn2.beeppool.org
 :: vpn2.beeppool.org
 0.0.0.0 vpnaffiliates.hidester.com
