@@ -1,11 +1,11 @@
-! Checksum: MTU5OTkxMjM2NQo=
+! Checksum: MTU5OTkyMzAyNAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.1-20200912-4
-! TimeUpdated: 2020-09-12T12:06:05+00:00
+! Version: 1.6.1-20200912-5
+! TimeUpdated: 2020-09-12T15:03:44+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 34063
+! Total: 34067
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -80,6 +80,7 @@
 |080644.com^
 |0851ok.com^
 |086186.com^
+|0926a687679d337e9d.com^
 |0956228a2df97a.com^
 |09_19.supfree.net^
 |0a0qetx8et.com^
@@ -432,6 +433,7 @@
 |217wo.com^
 |21a3dd8ea39c0.com^
 |21c9a53484951.com^
+|21find.com^
 |21kk.cc^
 |21sexturycash.com^
 |222627.com^
@@ -797,6 +799,7 @@
 |51gugu.com^
 |51gxqm.com^
 |51kaowang.com^
+|51link.com^
 |51maiwanju.com^
 |51mld.cn^
 |51mypc.cn^
@@ -10474,7 +10477,6 @@
 |dyoyiydbwdcr.com^
 |dyscb.cn^
 |dyssir.com^
-|dyuadask.com^
 |dyucosivnycndc.com^
 |dz4ad.com^
 |dzais.com^
@@ -13531,7 +13533,6 @@
 |gze3.cn^
 |gzili.com^
 |gzktpf.com^
-|gzleilin.com^
 |gzlykj.cn^
 |gzm.xzbu.com^
 |gzmcjt.cn^
@@ -18450,6 +18451,7 @@
 |mdous.com^
 |mdrkqbsirbry.com^
 |mdsngpush.finanzen.net^
+|mdxzmatcc.com^
 |mdzvoi.cn^
 |me-cdn.effectivemeasure.net^
 |me.afp.chinanews.com^
@@ -27165,6 +27167,7 @@
 |sxybjjz.cn^
 |sxying.top^
 |sxz67.com^
+|sxzzhj.com^
 |sy-cdnres.unionsy.com^
 |sy.amebame.com^
 |sy.ameblo.jp^
@@ -28530,6 +28533,7 @@
 |tracker.cpapath.com^
 |tracker.data-vp.com^
 |tracker.downdetector.com^
+|tracker.durasite.net^
 |tracker.euroweb.net^
 |tracker.financialcontent.com^
 |tracker.icerocket.com^
