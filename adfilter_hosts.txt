@@ -1,11 +1,11 @@
-# Checksum: MTU5OTg2OTMwOAo=
+# Checksum: MTU5OTg3OTgyOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200912-0
-# TimeUpdated: 2020-09-12T00:08:28+00:00
+# Version: 1.6.1-20200912-1
+# TimeUpdated: 2020-09-12T03:03:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34028
+# Total: 34026
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -858,6 +858,8 @@ ff02::3 ip6-allhosts
 :: 21.huanqiu.com
 0.0.0.0 21.zhaozongjie.com
 :: 21.zhaozongjie.com
+0.0.0.0 2137dc12f9d8.com
+:: 2137dc12f9d8.com
 0.0.0.0 215to.cn
 :: 215to.cn
 0.0.0.0 217wo.com
@@ -7018,6 +7020,8 @@ ff02::3 ip6-allhosts
 :: afjlb.com
 0.0.0.0 afm.pipi.cn
 :: afm.pipi.cn
+0.0.0.0 afminer.com
+:: afminer.com
 0.0.0.0 afp.adchina.com
 :: afp.adchina.com
 0.0.0.0 afp.alicdn.com
@@ -10876,8 +10880,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11572,8 +11574,6 @@ ff02::3 ip6-allhosts
 :: bi-pipeline-collector.stylight.net
 0.0.0.0 bi.manhuaren.com
 :: bi.manhuaren.com
-0.0.0.0 biandaosheng.com
-:: biandaosheng.com
 0.0.0.0 bianxianmao.com
 :: bianxianmao.com
 0.0.0.0 bianxianwu.com
@@ -15102,8 +15102,6 @@ ff02::3 ip6-allhosts
 :: clicktracks.com
 0.0.0.0 clicktripz.com
 :: clicktripz.com
-0.0.0.0 clicktrkservices.com
-:: clicktrkservices.com
 0.0.0.0 clickupto.com
 :: clickupto.com
 0.0.0.0 clickwinks.com
@@ -19916,8 +19914,6 @@ ff02::3 ip6-allhosts
 :: dm.300zi.com
 0.0.0.0 dm.519397.com
 :: dm.519397.com
-0.0.0.0 dm.66qw.net
-:: dm.66qw.net
 0.0.0.0 dm.aizhan.com
 :: dm.aizhan.com
 0.0.0.0 dm.bytedance.com
@@ -25456,6 +25452,8 @@ ff02::3 ip6-allhosts
 :: gcdn.2mdn.net
 0.0.0.0 gcdsdk.appsflyer.com
 :: gcdsdk.appsflyer.com
+0.0.0.0 gclcehwfvl.com
+:: gclcehwfvl.com
 0.0.0.0 gclick.cn
 :: gclick.cn
 0.0.0.0 gcm.ksmobile.com
@@ -27686,6 +27684,8 @@ ff02::3 ip6-allhosts
 :: herofandhist.info
 0.0.0.0 heroismyouroutnumber.com
 :: heroismyouroutnumber.com
+0.0.0.0 herphemiste.com
+:: herphemiste.com
 0.0.0.0 herscryptia.info
 :: herscryptia.info
 0.0.0.0 hertforthatharrigh.pro
@@ -28696,6 +28696,8 @@ ff02::3 ip6-allhosts
 :: hx623.cn
 0.0.0.0 hxadt.com
 :: hxadt.com
+0.0.0.0 hxfu.nz53h.cn
+:: hxfu.nz53h.cn
 0.0.0.0 hxgccl.cn
 :: hxgccl.cn
 0.0.0.0 hxiak.com
@@ -29664,6 +29666,8 @@ ff02::3 ip6-allhosts
 :: img.yinhemining.cn
 0.0.0.0 img.yrxmr.com
 :: img.yrxmr.com
+0.0.0.0 img.zeruinong.com
+:: img.zeruinong.com
 0.0.0.0 img.zsj18.com
 :: img.zsj18.com
 0.0.0.0 img.zuowen8.com
@@ -37988,8 +37992,6 @@ ff02::3 ip6-allhosts
 :: mo.cymn296.top
 0.0.0.0 mo.cyrc793.top
 :: mo.cyrc793.top
-0.0.0.0 mo.dfnbyn.top
-:: mo.dfnbyn.top
 0.0.0.0 mo.dybx992.top
 :: mo.dybx992.top
 0.0.0.0 mo.dymr697.top
@@ -49558,6 +49560,8 @@ ff02::3 ip6-allhosts
 :: sdksp.video.qq.com
 0.0.0.0 sdktm.w.inmobi.cn
 :: sdktm.w.inmobi.cn
+0.0.0.0 sdn.gongkao.hn.cn
+:: sdn.gongkao.hn.cn
 0.0.0.0 sdn.hzxma.com
 :: sdn.hzxma.com
 0.0.0.0 sdn.kugou.com
@@ -60220,8 +60224,6 @@ ff02::3 ip6-allhosts
 :: vipcpms.com
 0.0.0.0 vipicmou.net
 :: vipicmou.net
-0.0.0.0 viptv91.cn
-:: viptv91.cn
 0.0.0.0 vipwm.cc
 :: vipwm.cc
 0.0.0.0 vipwx.zhong-zhu.com
@@ -61594,8 +61596,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -67064,8 +67064,6 @@ ff02::3 ip6-allhosts
 :: yu0123456.com
 0.0.0.0 yu987.com
 :: yu987.com
-0.0.0.0 yuanhangpiju.cn
-:: yuanhangpiju.cn
 0.0.0.0 yuanhsu.com
 :: yuanhsu.com
 0.0.0.0 yucefa.cn
@@ -67202,8 +67200,6 @@ ff02::3 ip6-allhosts
 :: yy9s51b2u05z.com
 0.0.0.0 yyb.pc6.com
 :: yyb.pc6.com
-0.0.0.0 yybos.com.cn
-:: yybos.com.cn
 0.0.0.0 yybx.oss-cn-hangzhou.aliyuncs.com
 :: yybx.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 yyeks.com
