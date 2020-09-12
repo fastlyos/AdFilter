@@ -1,11 +1,11 @@
-# Checksum: MTU5OTkwMTQxNgo=
+# Checksum: MTU5OTkxMjM2NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200912-3
-# TimeUpdated: 2020-09-12T09:03:36+00:00
+# Version: 1.6.1-20200912-4
+# TimeUpdated: 2020-09-12T12:06:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34061
+# Total: 34063
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -120,8 +120,6 @@ ff02::3 ip6-allhosts
 :: 0532ci.com.cn
 0.0.0.0 0551huayanbdf.com
 :: 0551huayanbdf.com
-0.0.0.0 0551zgz.com
-:: 0551zgz.com
 0.0.0.0 0571hy.com
 :: 0571hy.com
 0.0.0.0 0571yy.com
@@ -356,6 +354,8 @@ ff02::3 ip6-allhosts
 :: 1.up.qingdaonews.com
 0.0.0.0 1.v-x.com.cn
 :: 1.v-x.com.cn
+0.0.0.0 1.vsimg.com
+:: 1.vsimg.com
 0.0.0.0 1.wenzhangba.cn
 :: 1.wenzhangba.cn
 0.0.0.0 1.win7sky.com
@@ -1290,6 +1290,8 @@ ff02::3 ip6-allhosts
 :: 39jz.com
 0.0.0.0 39mob.com
 :: 39mob.com
+0.0.0.0 3ac901bf5793b0fccff.com
+:: 3ac901bf5793b0fccff.com
 0.0.0.0 3amall.cn
 :: 3amall.cn
 0.0.0.0 3b0b68c876376f7311.com
@@ -2410,6 +2412,8 @@ ff02::3 ip6-allhosts
 :: 849558.com
 0.0.0.0 84b898f0f5.com
 :: 84b898f0f5.com
+0.0.0.0 850a54dbd2398a2.com
+:: 850a54dbd2398a2.com
 0.0.0.0 851889.tk
 :: 851889.tk
 0.0.0.0 8521448.com
@@ -2764,8 +2768,6 @@ ff02::3 ip6-allhosts
 :: 9cd76b4462bb.com
 0.0.0.0 9content.com
 :: 9content.com
-0.0.0.0 9cow.cn
-:: 9cow.cn
 0.0.0.0 9cp.cn
 :: 9cp.cn
 0.0.0.0 9cp1.com
@@ -5100,8 +5102,6 @@ ff02::3 ip6-allhosts
 :: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
-0.0.0.0 admaster.mobi
-:: admaster.mobi
 0.0.0.0 admaster.net
 :: admaster.net
 0.0.0.0 admatrix.jp
@@ -6192,8 +6192,6 @@ ff02::3 ip6-allhosts
 :: adsystem.wasu.tv
 0.0.0.0 adszs.com
 :: adszs.com
-0.0.0.0 adszui.com
-:: adszui.com
 0.0.0.0 adt.xdrig.com
 :: adt.xdrig.com
 0.0.0.0 adt100.com
@@ -14462,8 +14460,6 @@ ff02::3 ip6-allhosts
 :: chersc.com
 0.0.0.0 chersoat.com
 :: chersoat.com
-0.0.0.0 cherytso.com
-:: cherytso.com
 0.0.0.0 chesterstandard-gb.chesterstandard.co.uk
 :: chesterstandard-gb.chesterstandard.co.uk
 0.0.0.0 chexiw.com
@@ -16244,6 +16240,8 @@ ff02::3 ip6-allhosts
 :: content.adriver.ru
 0.0.0.0 content.livesportmedia.eu
 :: content.livesportmedia.eu
+0.0.0.0 content.liveuniverse.com
+:: content.liveuniverse.com
 0.0.0.0 content.s8bbs.com
 :: content.s8bbs.com
 0.0.0.0 content.secondspace.com
@@ -18480,6 +18478,8 @@ ff02::3 ip6-allhosts
 :: da3uf5ucdz00u.cloudfront.net
 0.0.0.0 da60995df247712.com
 :: da60995df247712.com
+0.0.0.0 da6fda11b2b0ba.com
+:: da6fda11b2b0ba.com
 0.0.0.0 daa.shuzilm.cn
 :: daa.shuzilm.cn
 0.0.0.0 dabaoku.com
@@ -20952,6 +20952,8 @@ ff02::3 ip6-allhosts
 :: dyscb.cn
 0.0.0.0 dyssir.com
 :: dyssir.com
+0.0.0.0 dyuadask.com
+:: dyuadask.com
 0.0.0.0 dyucosivnycndc.com
 :: dyucosivnycndc.com
 0.0.0.0 dz4ad.com
@@ -27064,6 +27066,8 @@ ff02::3 ip6-allhosts
 :: gzili.com
 0.0.0.0 gzktpf.com
 :: gzktpf.com
+0.0.0.0 gzleilin.com
+:: gzleilin.com
 0.0.0.0 gzlykj.cn
 :: gzlykj.cn
 0.0.0.0 gzm.xzbu.com
@@ -32880,8 +32884,6 @@ ff02::3 ip6-allhosts
 :: knowd.com
 0.0.0.0 knowlead.io
 :: knowlead.io
-0.0.0.0 knowledgevine.net
-:: knowledgevine.net
 0.0.0.0 knutenegros.pro
 :: knutenegros.pro
 0.0.0.0 knutsfordguardian-gb.knutsfordguardian.co.uk
@@ -65954,6 +65956,8 @@ ff02::3 ip6-allhosts
 :: xn--4gqqc629gbju.com
 0.0.0.0 xn--4gqvdz18f.xyz
 :: xn--4gqvdz18f.xyz
+0.0.0.0 xn--9kq745jwng.work
+:: xn--9kq745jwng.work
 0.0.0.0 xn--cjr60y21klpd.com
 :: xn--cjr60y21klpd.com
 0.0.0.0 xn--czrshy5v7kb.cc

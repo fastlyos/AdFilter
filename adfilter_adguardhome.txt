@@ -1,11 +1,11 @@
-! Checksum: MTU5OTkwMTQxNgo=
+! Checksum: MTU5OTkxMjM2NQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.1-20200912-3
-! TimeUpdated: 2020-09-12T09:03:36+00:00
+! Version: 1.6.1-20200912-4
+! TimeUpdated: 2020-09-12T12:06:05+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 34061
+! Total: 34063
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -58,7 +58,6 @@
 |0531mnk.net^
 |0532ci.com.cn^
 |0551huayanbdf.com^
-|0551zgz.com^
 |0571hy.com^
 |0571yy.com^
 |0592weixin.com^
@@ -176,6 +175,7 @@
 |1.ufc123.com^
 |1.up.qingdaonews.com^
 |1.v-x.com.cn^
+|1.vsimg.com^
 |1.wenzhangba.cn^
 |1.win7sky.com^
 |1.xilu.com^
@@ -643,6 +643,7 @@
 |39d1d397c97730.com^
 |39jz.com^
 |39mob.com^
+|3ac901bf5793b0fccff.com^
 |3amall.cn^
 |3b0b68c876376f7311.com^
 |3b9eb5ed04721bef.com^
@@ -1203,6 +1204,7 @@
 |8462d0b3cc90c90.com^
 |849558.com^
 |84b898f0f5.com^
+|850a54dbd2398a2.com^
 |851889.tk^
 |8521448.com^
 |8547459af5da02.com^
@@ -1380,7 +1382,6 @@
 |9c690ac2bcb.com^
 |9cd76b4462bb.com^
 |9content.com^
-|9cow.cn^
 |9cp.cn^
 |9cp1.com^
 |9d766be9a3.com^
@@ -2548,7 +2549,6 @@
 |admarvel.top^
 |admaster.com^
 |admaster.com.cn^
-|admaster.mobi^
 |admaster.net^
 |admatrix.jp^
 |admaxim.com^
@@ -3094,7 +3094,6 @@
 |adsyst.biz^
 |adsystem.wasu.tv^
 |adszs.com^
-|adszui.com^
 |adt.xdrig.com^
 |adt100.com^
 |adtag.cc^
@@ -7229,7 +7228,6 @@
 |chenshengyu.cn^
 |chersc.com^
 |chersoat.com^
-|cherytso.com^
 |chesterstandard-gb.chesterstandard.co.uk^
 |chexiw.com^
 |chgdf.cn^
@@ -8120,6 +8118,7 @@
 |content.ad^
 |content.adriver.ru^
 |content.livesportmedia.eu^
+|content.liveuniverse.com^
 |content.s8bbs.com^
 |content.secondspace.com^
 |content.streamplay.to^
@@ -9238,6 +9237,7 @@
 |da303.com^
 |da3uf5ucdz00u.cloudfront.net^
 |da60995df247712.com^
+|da6fda11b2b0ba.com^
 |daa.shuzilm.cn^
 |dabaoku.com^
 |dable.io^
@@ -10474,6 +10474,7 @@
 |dyoyiydbwdcr.com^
 |dyscb.cn^
 |dyssir.com^
+|dyuadask.com^
 |dyucosivnycndc.com^
 |dz4ad.com^
 |dzais.com^
@@ -13530,6 +13531,7 @@
 |gze3.cn^
 |gzili.com^
 |gzktpf.com^
+|gzleilin.com^
 |gzlykj.cn^
 |gzm.xzbu.com^
 |gzmcjt.cn^
@@ -16438,7 +16440,6 @@
 |knottishhuntilc.info^
 |knowd.com^
 |knowlead.io^
-|knowledgevine.net^
 |knutenegros.pro^
 |knutsfordguardian-gb.knutsfordguardian.co.uk^
 |koapsooh.click^
@@ -32975,6 +32976,7 @@
 |xn--2ssq0ktxigkq.com^
 |xn--4gqqc629gbju.com^
 |xn--4gqvdz18f.xyz^
+|xn--9kq745jwng.work^
 |xn--cjr60y21klpd.com^
 |xn--czrshy5v7kb.cc^
 |xn--ddua45lfy1c.ink^
