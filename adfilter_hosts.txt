@@ -1,8 +1,8 @@
-# Checksum: MTU5OTkyMzAyNAo=
+# Checksum: MTU5OTkzMzgzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200912-5
-# TimeUpdated: 2020-09-12T15:03:44+00:00
+# Version: 1.6.1-20200912-6
+# TimeUpdated: 2020-09-12T18:03:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 34067
@@ -1322,6 +1322,8 @@ ff02::3 ip6-allhosts
 :: 3dm.huya.com
 0.0.0.0 3dstats.com
 :: 3dstats.com
+0.0.0.0 3f32172d509aeb0.com
+:: 3f32172d509aeb0.com
 0.0.0.0 3file.info
 :: 3file.info
 0.0.0.0 3fp43qvh.trade
@@ -2376,8 +2378,6 @@ ff02::3 ip6-allhosts
 :: 817.dopa.com
 0.0.0.0 818.dopa.com
 :: 818.dopa.com
-0.0.0.0 8184.cc
-:: 8184.cc
 0.0.0.0 81c.cn
 :: 81c.cn
 0.0.0.0 820rd.com
@@ -10046,8 +10046,6 @@ ff02::3 ip6-allhosts
 :: awhoufob.com
 0.0.0.0 awifi.cn
 :: awifi.cn
-0.0.0.0 awjkddtq.com
-:: awjkddtq.com
 0.0.0.0 awkjs.com
 :: awkjs.com
 0.0.0.0 awmpartners.com
@@ -17112,8 +17110,6 @@ ff02::3 ip6-allhosts
 :: cqjjlsy.com
 0.0.0.0 cqlupb.com
 :: cqlupb.com
-0.0.0.0 cqlxscdc.top
-:: cqlxscdc.top
 0.0.0.0 cqmjjx.cn
 :: cqmjjx.cn
 0.0.0.0 cqpmmfxvibjr.com
@@ -17322,8 +17318,6 @@ ff02::3 ip6-allhosts
 :: crwdcntrl.net
 0.0.0.0 cryaptall.club
 :: cryaptall.club
-0.0.0.0 cryartarm.online
-:: cryartarm.online
 0.0.0.0 cryptaloot.pro
 :: cryptaloot.pro
 0.0.0.0 cryptianainv.club
@@ -39450,6 +39444,8 @@ ff02::3 ip6-allhosts
 :: nchap.com
 0.0.0.0 nchte.com
 :: nchte.com
+0.0.0.0 nchxiaxafowid.com
+:: nchxiaxafowid.com
 0.0.0.0 ncialappropo.site
 :: ncialappropo.site
 0.0.0.0 ncilityinflati.club
@@ -61672,6 +61668,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -62048,6 +62046,8 @@ ff02::3 ip6-allhosts
 :: wjyhao.com
 0.0.0.0 wka8.com
 :: wka8.com
+0.0.0.0 wkanx.com
+:: wkanx.com
 0.0.0.0 wkclick.baidu.com
 :: wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
