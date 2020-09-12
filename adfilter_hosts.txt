@@ -1,11 +1,11 @@
-# Checksum: MTU5OTg1ODIxNQo=
+# Checksum: MTU5OTg2OTMwOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200911-7
-# TimeUpdated: 2020-09-11T21:03:35+00:00
+# Version: 1.6.1-20200912-0
+# TimeUpdated: 2020-09-12T00:08:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34021
+# Total: 34028
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -710,6 +710,8 @@ ff02::3 ip6-allhosts
 :: 1999sg.com
 0.0.0.0 19b45a16170729.com
 :: 19b45a16170729.com
+0.0.0.0 19beda38dc2ce42.com
+:: 19beda38dc2ce42.com
 0.0.0.0 1ab5bb25e29d576.com
 :: 1ab5bb25e29d576.com
 0.0.0.0 1aogoh1j81g3.com
@@ -1960,8 +1962,6 @@ ff02::3 ip6-allhosts
 :: 6711.com
 0.0.0.0 6728812.com
 :: 6728812.com
-0.0.0.0 67785az.com
-:: 67785az.com
 0.0.0.0 6789.net
 :: 6789.net
 0.0.0.0 67frzna9e9.com
@@ -3192,6 +3192,8 @@ ff02::3 ip6-allhosts
 :: a1click.cpc.sogou.com
 0.0.0.0 a1d62657ec88.com
 :: a1d62657ec88.com
+0.0.0.0 a1p5pst3ore.online
+:: a1p5pst3ore.online
 0.0.0.0 a2.b310.com
 :: a2.b310.com
 0.0.0.0 a2.img.static.youmi.net
@@ -3396,8 +3398,6 @@ ff02::3 ip6-allhosts
 :: aaxdetect.com
 0.0.0.0 aaxtuhit.com
 :: aaxtuhit.com
-0.0.0.0 aazwugtom.com
-:: aazwugtom.com
 0.0.0.0 ab.cnbanbao.com
 :: ab.cnbanbao.com
 0.0.0.0 ab.dydab.com
@@ -9544,8 +9544,6 @@ ff02::3 ip6-allhosts
 :: asoulrox.com
 0.0.0.0 asp.adsame.com
 :: asp.adsame.com
-0.0.0.0 aspampbrr.online
-:: aspampbrr.online
 0.0.0.0 asparmany.site
 :: asparmany.site
 0.0.0.0 aspartbib.site
@@ -14126,6 +14124,8 @@ ff02::3 ip6-allhosts
 :: ceepq.com
 0.0.0.0 cef9c80977e050.com
 :: cef9c80977e050.com
+0.0.0.0 cefqvuhygky.com
+:: cefqvuhygky.com
 0.0.0.0 ceincreatedaughtcha.info
 :: ceincreatedaughtcha.info
 0.0.0.0 celeb-ads.com
@@ -22622,6 +22622,8 @@ ff02::3 ip6-allhosts
 :: eseventent.info
 0.0.0.0 esf397vsf1nk.com
 :: esf397vsf1nk.com
+0.0.0.0 esfivwvnawienn.com
+:: esfivwvnawienn.com
 0.0.0.0 esgvhaspsjg.com
 :: esgvhaspsjg.com
 0.0.0.0 eshortonempleae.info
@@ -23510,6 +23512,8 @@ ff02::3 ip6-allhosts
 :: faracoon.com
 0.0.0.0 farmergoldfish.com
 :: farmergoldfish.com
+0.0.0.0 faromen.online
+:: faromen.online
 0.0.0.0 farpeiros.pw
 :: farpeiros.pw
 0.0.0.0 farrivederev.pro
@@ -27308,6 +27312,8 @@ ff02::3 ip6-allhosts
 :: haoqq.me
 0.0.0.0 haosf.com
 :: haosf.com
+0.0.0.0 haoshengtoys.com
+:: haoshengtoys.com
 0.0.0.0 haostat.qihoo.com
 :: haostat.qihoo.com
 0.0.0.0 haoxianyangrouye.com
@@ -31430,6 +31436,8 @@ ff02::3 ip6-allhosts
 :: jiubuhua.com
 0.0.0.0 jiuduad.com
 :: jiuduad.com
+0.0.0.0 jiuku.cc
+:: jiuku.cc
 0.0.0.0 jiupinshan.cn
 :: jiupinshan.cn
 0.0.0.0 jiuyuntian3.cn
@@ -40922,6 +40930,8 @@ ff02::3 ip6-allhosts
 :: ofphanpytor.com
 0.0.0.0 ofttanmob.site
 :: ofttanmob.site
+0.0.0.0 ofwuwfgq.com
+:: ofwuwfgq.com
 0.0.0.0 ofy3m0gp.com
 :: ofy3m0gp.com
 0.0.0.0 ogercron.com
@@ -46422,6 +46432,8 @@ ff02::3 ip6-allhosts
 :: rc.dxsvr.com
 0.0.0.0 rc.haodongkeji.cn
 :: rc.haodongkeji.cn
+0.0.0.0 rc.hystq.com
+:: rc.hystq.com
 0.0.0.0 rc.jhakie.com
 :: rc.jhakie.com
 0.0.0.0 rc.polkoa.com
@@ -50060,6 +50072,8 @@ ff02::3 ip6-allhosts
 :: ser.uadrc.com
 0.0.0.0 serating.ru
 :: serating.ru
+0.0.0.0 seraton.online
+:: seraton.online
 0.0.0.0 serconmp.com
 :: serconmp.com
 0.0.0.0 serial.alcohol-soft.com
