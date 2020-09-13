@@ -1,11 +1,11 @@
-# Checksum: MTYwMDAyMDI4Mgo=
+# Checksum: MTYwMDAzMTAxNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200913-6
-# TimeUpdated: 2020-09-13T18:04:42+00:00
+# Version: 1.6.1-20200913-7
+# TimeUpdated: 2020-09-13T21:03:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34116
+# Total: 34123
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3356,6 +3356,8 @@ ff02::3 ip6-allhosts
 :: aa0.pub.funshion.com
 0.0.0.0 aa1.pub.funshion.com
 :: aa1.pub.funshion.com
+0.0.0.0 aa24h.com
+:: aa24h.com
 0.0.0.0 aa53df329975c325.com
 :: aa53df329975c325.com
 0.0.0.0 aa808.com
@@ -8516,8 +8518,6 @@ ff02::3 ip6-allhosts
 :: anura.io
 0.0.0.0 anxiousapples.com
 :: anxiousapples.com
-0.0.0.0 anyaspasp.club
-:: anyaspasp.club
 0.0.0.0 anybagant.club
 :: anybagant.club
 0.0.0.0 anycadark.site
@@ -14244,8 +14244,6 @@ ff02::3 ip6-allhosts
 :: cfcloudcdn.com
 0.0.0.0 cfcs1.duckdns.org
 :: cfcs1.duckdns.org
-0.0.0.0 cfdanet.com
-:: cfdanet.com
 0.0.0.0 cfeo.bealge.sogou.com
 :: cfeo.bealge.sogou.com
 0.0.0.0 cfff.net
@@ -19362,6 +19360,8 @@ ff02::3 ip6-allhosts
 :: deu-lim-c2-s1.inf.nimiq.network
 0.0.0.0 deu-lim-c2-s2.inf.nimiq.network
 :: deu-lim-c2-s2.inf.nimiq.network
+0.0.0.0 deuqpxrht.com
+:: deuqpxrht.com
 0.0.0.0 dev-deu-1.inf.nimiq.network
 :: dev-deu-1.inf.nimiq.network
 0.0.0.0 dev-deu-2.inf.nimiq.network
@@ -27514,6 +27514,8 @@ ff02::3 ip6-allhosts
 :: hbhxqcw.com
 0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
 :: hbid.ams3.cdn.digitaloceanspaces.com
+0.0.0.0 hblanghun.cn
+:: hblanghun.cn
 0.0.0.0 hblinwei.com
 :: hblinwei.com
 0.0.0.0 hbnygj.com
@@ -31142,6 +31144,8 @@ ff02::3 ip6-allhosts
 :: jahediretictho.info
 0.0.0.0 jaidennegros.pro
 :: jaidennegros.pro
+0.0.0.0 jajbufmcl.com
+:: jajbufmcl.com
 0.0.0.0 jakzpcgrxgda.com
 :: jakzpcgrxgda.com
 0.0.0.0 jamdomn.pro
@@ -32864,6 +32868,8 @@ ff02::3 ip6-allhosts
 :: klkus.xyz
 0.0.0.0 klldabck.com
 :: klldabck.com
+0.0.0.0 klonedaset.org
+:: klonedaset.org
 0.0.0.0 klsadm.com
 :: klsadm.com
 0.0.0.0 klsdee.com
@@ -64314,6 +64320,8 @@ ff02::3 ip6-allhosts
 :: www.laiququan.com
 0.0.0.0 www.lan.datasecu.download
 :: www.lan.datasecu.download
+0.0.0.0 www.laoqu123.com
+:: www.laoqu123.com
 0.0.0.0 www.laserveradedomaina.com
 :: www.laserveradedomaina.com
 0.0.0.0 www.lessplay.com
@@ -65756,6 +65764,8 @@ ff02::3 ip6-allhosts
 :: xhamstercams.com
 0.0.0.0 xhbqczl.com
 :: xhbqczl.com
+0.0.0.0 xhgqgbomrrfstv.com
+:: xhgqgbomrrfstv.com
 0.0.0.0 xhit.com
 :: xhit.com
 0.0.0.0 xhmrv.com
@@ -67154,6 +67164,8 @@ ff02::3 ip6-allhosts
 :: ypa.focusoftime.com
 0.0.0.0 ypaletdevelspe.info
 :: ypaletdevelspe.info
+0.0.0.0 ypecfkbqgldzq.com
+:: ypecfkbqgldzq.com
 0.0.0.0 ypksjcnrsett.com
 :: ypksjcnrsett.com
 0.0.0.0 ypmadserver.com
@@ -67362,6 +67374,8 @@ ff02::3 ip6-allhosts
 :: yxmspx.com
 0.0.0.0 yxrp.lianfuhuang.cn
 :: yxrp.lianfuhuang.cn
+0.0.0.0 yxsnf.cn
+:: yxsnf.cn
 0.0.0.0 yxszy.com
 :: yxszy.com
 0.0.0.0 yxvuvzrz.com
