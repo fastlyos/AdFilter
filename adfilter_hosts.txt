@@ -1,11 +1,11 @@
-# Checksum: MTU5OTk3NzA2NQo=
+# Checksum: MTU5OTk4NzgxNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200913-2
-# TimeUpdated: 2020-09-13T06:04:25+00:00
+# Version: 1.6.1-20200913-3
+# TimeUpdated: 2020-09-13T09:03:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34096
+# Total: 34106
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -484,6 +484,8 @@ ff02::3 ip6-allhosts
 :: 12.cookcai.com
 0.0.0.0 12086.net
 :: 12086.net
+0.0.0.0 1221e236c3f8703.com
+:: 1221e236c3f8703.com
 0.0.0.0 1224.dxsbb.com
 :: 1224.dxsbb.com
 0.0.0.0 12291.com
@@ -11766,6 +11768,8 @@ ff02::3 ip6-allhosts
 :: bitclubnetwork.com
 0.0.0.0 bitcoadz.io
 :: bitcoadz.io
+0.0.0.0 bitcoin-news.vip
+:: bitcoin-news.vip
 0.0.0.0 bitcoin-pay.eu
 :: bitcoin-pay.eu
 0.0.0.0 bitcoinadvertisers.com
@@ -13386,8 +13390,6 @@ ff02::3 ip6-allhosts
 :: cam4flat.com
 0.0.0.0 camakaroda.com
 :: camakaroda.com
-0.0.0.0 camantasp.club
-:: camantasp.club
 0.0.0.0 cambrianter.club
 :: cambrianter.club
 0.0.0.0 camcrush.com
@@ -24780,8 +24782,6 @@ ff02::3 ip6-allhosts
 :: ftdcseuvlmfp.com
 0.0.0.0 ftigken.online
 :: ftigken.online
-0.0.0.0 ftklr.com
-:: ftklr.com
 0.0.0.0 ftp.coinlab.biz
 :: ftp.coinlab.biz
 0.0.0.0 ftp.freecontent.net
@@ -25624,6 +25624,8 @@ ff02::3 ip6-allhosts
 :: gen.etherscan.io
 0.0.0.0 gencehepatie.club
 :: gencehepatie.club
+0.0.0.0 gendenlend.club
+:: gendenlend.club
 0.0.0.0 genecute.com
 :: genecute.com
 0.0.0.0 generaltracking.de
@@ -30064,6 +30066,8 @@ ff02::3 ip6-allhosts
 :: in1.secure.uu.cc
 0.0.0.0 in6ej4pbpnih.com
 :: in6ej4pbpnih.com
+0.0.0.0 inabsolor.com
+:: inabsolor.com
 0.0.0.0 inad.com
 :: inad.com
 0.0.0.0 inapp.1sapp.com
@@ -32572,6 +32576,8 @@ ff02::3 ip6-allhosts
 :: kdmmm.cn
 0.0.0.0 kdowqlpt.info
 :: kdowqlpt.info
+0.0.0.0 kdqoehj.top
+:: kdqoehj.top
 0.0.0.0 keapeiros.xyz
 :: keapeiros.xyz
 0.0.0.0 kecmuhot.net
@@ -33382,6 +33388,8 @@ ff02::3 ip6-allhosts
 :: lassistslegisten.info
 0.0.0.0 last2.cn
 :: last2.cn
+0.0.0.0 latest-news.life
+:: latest-news.life
 0.0.0.0 lationwordsi.club
 :: lationwordsi.club
 0.0.0.0 lattemptweh.club
@@ -33610,6 +33618,8 @@ ff02::3 ip6-allhosts
 :: ledhatbet.com
 0.0.0.0 ledhenone.com
 :: ledhenone.com
+0.0.0.0 lediyxobgmrgeb.com
+:: lediyxobgmrgeb.com
 0.0.0.0 ledou.dl.uu.cc
 :: ledou.dl.uu.cc
 0.0.0.0 ledraumt.com
@@ -38280,6 +38290,8 @@ ff02::3 ip6-allhosts
 :: mocmubse.net
 0.0.0.0 modelsgonebad.com
 :: modelsgonebad.com
+0.0.0.0 modermott.club
+:: modermott.club
 0.0.0.0 moderningvigil.pro
 :: moderningvigil.pro
 0.0.0.0 modernus.is
@@ -43240,6 +43252,8 @@ ff02::3 ip6-allhosts
 :: pigwinspath.icu
 0.0.0.0 pikacn.com
 :: pikacn.com
+0.0.0.0 pilgrimarym.club
+:: pilgrimarym.club
 0.0.0.0 pimpmypr.de
 :: pimpmypr.de
 0.0.0.0 pincidao.cn
@@ -50052,6 +50066,8 @@ ff02::3 ip6-allhosts
 :: seen.h01ce.cn
 0.0.0.0 seepsocu.net
 :: seepsocu.net
+0.0.0.0 seeptauw.net
+:: seeptauw.net
 0.0.0.0 seeptoag.net
 :: seeptoag.net
 0.0.0.0 seethisinaction.com
@@ -51030,6 +51046,8 @@ ff02::3 ip6-allhosts
 :: sincernething.site
 0.0.0.0 sincetrade.com
 :: sincetrade.com
+0.0.0.0 singkegshome.com
+:: singkegshome.com
 0.0.0.0 singlefeed.com
 :: singlefeed.com
 0.0.0.0 singlesexdates.com
@@ -54548,6 +54566,8 @@ ff02::3 ip6-allhosts
 :: sys.zhangyue.com
 0.0.0.0 sysadult.cn
 :: sysadult.cn
+0.0.0.0 sysal.cn
+:: sysal.cn
 0.0.0.0 sysdig.com
 :: sysdig.com
 0.0.0.0 sysomos.com
