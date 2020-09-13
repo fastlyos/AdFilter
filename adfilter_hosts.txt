@@ -1,11 +1,11 @@
-# Checksum: MTYwMDAwOTQxMwo=
+# Checksum: MTYwMDAyMDI4Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200913-5
-# TimeUpdated: 2020-09-13T15:03:33+00:00
+# Version: 1.6.1-20200913-6
+# TimeUpdated: 2020-09-13T18:04:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34113
+# Total: 34116
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1672,6 +1672,8 @@ ff02::3 ip6-allhosts
 :: 52lubo.cn
 0.0.0.0 52m.xde6.net
 :: 52m.xde6.net
+0.0.0.0 52shouyou.com.cn
+:: 52shouyou.com.cn
 0.0.0.0 52yugan.com
 :: 52yugan.com
 0.0.0.0 5345ll.com
@@ -9232,8 +9234,6 @@ ff02::3 ip6-allhosts
 :: apsislead.com
 0.0.0.0 apsmediaagency.com
 :: apsmediaagency.com
-0.0.0.0 aptashant.club
-:: aptashant.club
 0.0.0.0 aptausad.com
 :: aptausad.com
 0.0.0.0 apvdr.com
@@ -19392,6 +19392,8 @@ ff02::3 ip6-allhosts
 :: developermedia.com
 0.0.0.0 device9.com
 :: device9.com
+0.0.0.0 devphp.org.ua
+:: devphp.org.ua
 0.0.0.0 devs.data.mob.com
 :: devs.data.mob.com
 0.0.0.0 dew9ckzjyt2gn.cloudfront.net
@@ -37244,6 +37246,8 @@ ff02::3 ip6-allhosts
 :: mentad.com
 0.0.0.0 mentalbackie.site
 :: mentalbackie.site
+0.0.0.0 mentcompa.club
+:: mentcompa.club
 0.0.0.0 mentpyjam.fun
 :: mentpyjam.fun
 0.0.0.0 mentvocacy.fun
@@ -61760,6 +61764,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
