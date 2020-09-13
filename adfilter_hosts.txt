@@ -1,11 +1,11 @@
-# Checksum: MTU5OTk4NzgxNgo=
+# Checksum: MTU5OTk5ODY4Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200913-3
-# TimeUpdated: 2020-09-13T09:03:36+00:00
+# Version: 1.6.1-20200913-4
+# TimeUpdated: 2020-09-13T12:04:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34106
+# Total: 34111
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -15548,6 +15548,8 @@ ff02::3 ip6-allhosts
 :: cnadid.com
 0.0.0.0 cnbanbao.com
 :: cnbanbao.com
+0.0.0.0 cnbarnfxq.com
+:: cnbarnfxq.com
 0.0.0.0 cnbole.net
 :: cnbole.net
 0.0.0.0 cncy8.com
@@ -22202,6 +22204,8 @@ ff02::3 ip6-allhosts
 :: ename.net
 0.0.0.0 encedagric.club
 :: encedagric.club
+0.0.0.0 enceevenue.club
+:: enceevenue.club
 0.0.0.0 enclasmodifyt.info
 :: enclasmodifyt.info
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
@@ -26604,6 +26608,8 @@ ff02::3 ip6-allhosts
 :: govdelivery.com
 0.0.0.0 govercomeb.club
 :: govercomeb.club
+0.0.0.0 govertedlice.club
+:: govertedlice.club
 0.0.0.0 goverua.com
 :: goverua.com
 0.0.0.0 govgift.com
@@ -47564,6 +47570,8 @@ ff02::3 ip6-allhosts
 :: ringplayground.com
 0.0.0.0 ringtonepartner.com
 :: ringtonepartner.com
+0.0.0.0 rinsouxy.com
+:: rinsouxy.com
 0.0.0.0 rintellsfundrew.info
 :: rintellsfundrew.info
 0.0.0.0 riodovernprovi.club
@@ -65996,6 +66004,8 @@ ff02::3 ip6-allhosts
 :: xmr7.crypto-pool.fr
 0.0.0.0 xmr8.crypto-pool.fr
 :: xmr8.crypto-pool.fr
+0.0.0.0 xmrepair.com
+:: xmrepair.com
 0.0.0.0 xmrminer.cc
 :: xmrminer.cc
 0.0.0.0 xmrminingproxy.com
