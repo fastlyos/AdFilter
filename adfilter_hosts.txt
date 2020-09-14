@@ -1,11 +1,11 @@
-# Checksum: MTYwMDA0MjEyMgo=
+# Checksum: MTYwMDA1MjYyNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200914-0
-# TimeUpdated: 2020-09-14T00:08:42+00:00
+# Version: 1.6.1-20200914-1
+# TimeUpdated: 2020-09-14T03:03:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34128
+# Total: 34138
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1676,6 +1676,8 @@ ff02::3 ip6-allhosts
 :: 52shouyou.com.cn
 0.0.0.0 52yugan.com
 :: 52yugan.com
+0.0.0.0 52zfl.com
+:: 52zfl.com
 0.0.0.0 5345ll.com
 :: 5345ll.com
 0.0.0.0 538b5d8f303be.com
@@ -6796,6 +6798,8 @@ ff02::3 ip6-allhosts
 :: aero.bankofamerica.com
 0.0.0.0 aeros02.tk
 :: aeros02.tk
+0.0.0.0 aeros04.tk
+:: aeros04.tk
 0.0.0.0 aeros08.tk
 :: aeros08.tk
 0.0.0.0 aerserv.com
@@ -7030,6 +7034,8 @@ ff02::3 ip6-allhosts
 :: afj.cc
 0.0.0.0 afj.xasjpf.com
 :: afj.xasjpf.com
+0.0.0.0 afj0.com
+:: afj0.com
 0.0.0.0 afjlb.com
 :: afjlb.com
 0.0.0.0 afm.pipi.cn
@@ -10774,6 +10780,8 @@ ff02::3 ip6-allhosts
 :: bayunblocked.eu
 0.0.0.0 baywest.ac
 :: baywest.ac
+0.0.0.0 baywttgdhe.do
+:: baywttgdhe.do
 0.0.0.0 bazinga.mse.sogou.com
 :: bazinga.mse.sogou.com
 0.0.0.0 baztrack.com
@@ -21802,8 +21810,6 @@ ff02::3 ip6-allhosts
 :: ee.wh723.cn
 0.0.0.0 ee.xq375.cn
 :: ee.xq375.cn
-0.0.0.0 ee.xr883.cn
-:: ee.xr883.cn
 0.0.0.0 ee.zowmgxpz.cn
 :: ee.zowmgxpz.cn
 0.0.0.0 ee6a35c1eeee.com
@@ -22772,6 +22778,8 @@ ff02::3 ip6-allhosts
 :: ethtrader.de
 0.0.0.0 etl.xlmc.sandai.net
 :: etl.xlmc.sandai.net
+0.0.0.0 etlrsq.ru
+:: etlrsq.ru
 0.0.0.0 etmattemptholla.info
 :: etmattemptholla.info
 0.0.0.0 etnpool.minekitten.io
@@ -23760,8 +23768,6 @@ ff02::3 ip6-allhosts
 :: fds.api.moji.com
 0.0.0.0 fdxdjkswppg.com
 :: fdxdjkswppg.com
-0.0.0.0 fdzsmfyy.com
-:: fdzsmfyy.com
 0.0.0.0 fe-au.imrworldwide.com
 :: fe-au.imrworldwide.com
 0.0.0.0 fe.lea.lycos.co.uk
@@ -24216,6 +24222,8 @@ ff02::3 ip6-allhosts
 :: flightsy.bid
 0.0.0.0 flightsy.win
 :: flightsy.win
+0.0.0.0 flighty.win
+:: flighty.win
 0.0.0.0 flipy6sudy.com
 :: flipy6sudy.com
 0.0.0.0 flirt4e.com
@@ -27088,6 +27096,8 @@ ff02::3 ip6-allhosts
 :: gzdhzb.com
 0.0.0.0 gze3.cn
 :: gze3.cn
+0.0.0.0 gzhctryy.com
+:: gzhctryy.com
 0.0.0.0 gzili.com
 :: gzili.com
 0.0.0.0 gzktpf.com
@@ -29082,6 +29092,8 @@ ff02::3 ip6-allhosts
 :: iadmusicmat.music.126.net
 0.0.0.0 iadmusicmatvideo.music.126.net
 :: iadmusicmatvideo.music.126.net
+0.0.0.0 iaheyftbsn.re
+:: iaheyftbsn.re
 0.0.0.0 ialgregarderol.fun
 :: ialgregarderol.fun
 0.0.0.0 iam-agof-app.irquest.com
@@ -31600,8 +31612,6 @@ ff02::3 ip6-allhosts
 :: jlwljym.com
 0.0.0.0 jlxzt.com
 :: jlxzt.com
-0.0.0.0 jlzebszkilcz.ru
-:: jlzebszkilcz.ru
 0.0.0.0 jm1.xiao89.com
 :: jm1.xiao89.com
 0.0.0.0 jmait.cn
@@ -31728,6 +31738,8 @@ ff02::3 ip6-allhosts
 :: jpwy.ynp0h.cn
 0.0.0.0 jq.a0buy.top
 :: jq.a0buy.top
+0.0.0.0 jqassets.download
+:: jqassets.download
 0.0.0.0 jqcdn01.herokuapp.com
 :: jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
@@ -32110,6 +32122,8 @@ ff02::3 ip6-allhosts
 :: jsfeedget.com
 0.0.0.0 jsfuz.com
 :: jsfuz.com
+0.0.0.0 jshosting.party
+:: jshosting.party
 0.0.0.0 jsinfo.net
 :: jsinfo.net
 0.0.0.0 jsjs.jbzj.com
@@ -32690,8 +32704,6 @@ ff02::3 ip6-allhosts
 :: kg8l81yh7vnf.com
 0.0.0.0 kg962.cn
 :: kg962.cn
-0.0.0.0 kgcj00.cn
-:: kgcj00.cn
 0.0.0.0 kgmobilestat.kugou.com
 :: kgmobilestat.kugou.com
 0.0.0.0 kgmobilestatbak.kugou.com
@@ -37510,6 +37522,8 @@ ff02::3 ip6-allhosts
 :: mhdtestks3.1391.com
 0.0.0.0 mhdufile.1391.com
 :: mhdufile.1391.com
+0.0.0.0 mhghzpotwnoh.com
+:: mhghzpotwnoh.com
 0.0.0.0 mhj765.xyz
 :: mhj765.xyz
 0.0.0.0 mhjk.1391.com
@@ -39660,6 +39674,8 @@ ff02::3 ip6-allhosts
 :: nervoussummer.com
 0.0.0.0 neshedfrie.club
 :: neshedfrie.club
+0.0.0.0 nesnts.cn
+:: nesnts.cn
 0.0.0.0 nesoaghu.net
 :: nesoaghu.net
 0.0.0.0 nesparklines.info
@@ -42388,6 +42404,8 @@ ff02::3 ip6-allhosts
 :: panwenjun.top
 0.0.0.0 panyh123456.cn
 :: panyh123456.cn
+0.0.0.0 paochala.net
+:: paochala.net
 0.0.0.0 paopao-monitor.iqiyi.com
 :: paopao-monitor.iqiyi.com
 0.0.0.0 paopao.iqiyi.com
@@ -46088,6 +46106,8 @@ ff02::3 ip6-allhosts
 :: qualaroo.com
 0.0.0.0 quanbailing.com
 :: quanbailing.com
+0.0.0.0 quanjiapp.cn
+:: quanjiapp.cn
 0.0.0.0 quanjing.cnzz.com
 :: quanjing.cnzz.com
 0.0.0.0 quanliyouxi.cn
@@ -47256,6 +47276,8 @@ ff02::3 ip6-allhosts
 :: researchintel.com
 0.0.0.0 reseau-pub.com
 :: reseau-pub.com
+0.0.0.0 reseireejoch.info
+:: reseireejoch.info
 0.0.0.0 resencejuy.club
 :: resencejuy.club
 0.0.0.0 reservedoffers.club
@@ -52594,8 +52616,6 @@ ff02::3 ip6-allhosts
 :: ssp.4hw.com.cn
 0.0.0.0 ssp.adriver.ru
 :: ssp.adriver.ru
-0.0.0.0 ssp.chaohutechan.com
-:: ssp.chaohutechan.com
 0.0.0.0 ssp.cibn.starschina.com
 :: ssp.cibn.starschina.com
 0.0.0.0 ssp.daxueshengqiandai.com
@@ -56046,6 +56066,8 @@ ff02::3 ip6-allhosts
 :: tianhuicun.com.cn
 0.0.0.0 tianjieleather.com
 :: tianjieleather.com
+0.0.0.0 tianjin4.com
+:: tianjin4.com
 0.0.0.0 tianjinblg.com
 :: tianjinblg.com
 0.0.0.0 tiankongzudui.com
@@ -60842,6 +60864,8 @@ ff02::3 ip6-allhosts
 :: vuwojxgklca.com
 0.0.0.0 vv.ricardo.ch
 :: vv.ricardo.ch
+0.0.0.0 vv1.pyhfxdm.cn
+:: vv1.pyhfxdm.cn
 0.0.0.0 vv84.bj.bcebos.com
 :: vv84.bj.bcebos.com
 0.0.0.0 vvaqdyzdovonc.com
@@ -61370,6 +61394,8 @@ ff02::3 ip6-allhosts
 :: webads.eu
 0.0.0.0 webads.nl
 :: webads.nl
+0.0.0.0 webassembly.st
+:: webassembly.st
 0.0.0.0 webassembly.stream
 :: webassembly.stream
 0.0.0.0 webbc.fivecdm.com
@@ -61430,8 +61456,6 @@ ff02::3 ip6-allhosts
 :: webgozar.com
 0.0.0.0 webgozar.ir
 :: webgozar.ir
-0.0.0.0 webhit.aftenposten.no
-:: webhit.aftenposten.no
 0.0.0.0 webhit.snd.no
 :: webhit.snd.no
 0.0.0.0 webhits.de
@@ -62216,6 +62240,8 @@ ff02::3 ip6-allhosts
 :: wma.io
 0.0.0.0 wmedia-track.uc.cn
 :: wmedia-track.uc.cn
+0.0.0.0 wmemsnhgldd.ru
+:: wmemsnhgldd.ru
 0.0.0.0 wmeng.feihuadns.com
 :: wmeng.feihuadns.com
 0.0.0.0 wmflabs.org
@@ -63840,8 +63866,6 @@ ff02::3 ip6-allhosts
 :: www.dero.crypto-webminer.com
 0.0.0.0 www.devappgrant.space
 :: www.devappgrant.space
-0.0.0.0 www.dgfggy.com
-:: www.dgfggy.com
 0.0.0.0 www.dianjoy.com
 :: www.dianjoy.com
 0.0.0.0 www.dianru.com
@@ -64180,8 +64204,6 @@ ff02::3 ip6-allhosts
 :: www.irrrymucwxjl.ru
 0.0.0.0 www.iscrv.com
 :: www.iscrv.com
-0.0.0.0 www.isitone.com
-:: www.isitone.com
 0.0.0.0 www.itsmyturn.nablabee.com
 :: www.itsmyturn.nablabee.com
 0.0.0.0 www.jacklm2.com
@@ -65514,6 +65536,8 @@ ff02::3 ip6-allhosts
 :: wzsygdl.com
 0.0.0.0 wzxcvb.m.23txt.com
 :: wzxcvb.m.23txt.com
+0.0.0.0 wzxw7.com
+:: wzxw7.com
 0.0.0.0 x-adservice.com
 :: x-adservice.com
 0.0.0.0 x-playboy.com
@@ -65758,8 +65782,6 @@ ff02::3 ip6-allhosts
 :: xg084mgkfsfk.com
 0.0.0.0 xgcsr.com
 :: xgcsr.com
-0.0.0.0 xgefmxd.ru
-:: xgefmxd.ru
 0.0.0.0 xgmlmmulciz.com
 :: xgmlmmulciz.com
 0.0.0.0 xgogi.com
@@ -67214,8 +67236,6 @@ ff02::3 ip6-allhosts
 :: ys.muhoujiemi.com
 0.0.0.0 ys2000.cdn.bcebos.com
 :: ys2000.cdn.bcebos.com
-0.0.0.0 ysdhe.com
-:: ysdhe.com
 0.0.0.0 ysensionlatio.space
 :: ysensionlatio.space
 0.0.0.0 ysgsq.cn
