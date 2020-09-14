@@ -1,11 +1,11 @@
-# Checksum: MTYwMDA2MzQ0NAo=
+# Checksum: MTYwMDA3NDIzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200914-2
-# TimeUpdated: 2020-09-14T06:04:04+00:00
+# Version: 1.6.1-20200914-3
+# TimeUpdated: 2020-09-14T09:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34147
+# Total: 34156
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2022,6 +2022,8 @@ ff02::3 ip6-allhosts
 :: 6b357cda0f.com
 0.0.0.0 6b5c418918ebb008cc6.com
 :: 6b5c418918ebb008cc6.com
+0.0.0.0 6bgaput9ullc.com
+:: 6bgaput9ullc.com
 0.0.0.0 6boou.voluumtrk.com
 :: 6boou.voluumtrk.com
 0.0.0.0 6c.cn
@@ -2466,16 +2468,12 @@ ff02::3 ip6-allhosts
 :: 86up9en9vv.buzz
 0.0.0.0 87159d7b62fc885.com
 :: 87159d7b62fc885.com
-0.0.0.0 87203cdf133.com
-:: 87203cdf133.com
 0.0.0.0 87680dh.com
 :: 87680dh.com
 0.0.0.0 878090.com
 :: 878090.com
 0.0.0.0 879d2cchfa.xyz
 :: 879d2cchfa.xyz
-0.0.0.0 87e3d580ef.com
-:: 87e3d580ef.com
 0.0.0.0 87gw0fl0rc11.com
 :: 87gw0fl0rc11.com
 0.0.0.0 88-baidu.com
@@ -6874,6 +6872,8 @@ ff02::3 ip6-allhosts
 :: affiliate-api.ti-media.net
 0.0.0.0 affiliate-b.com
 :: affiliate-b.com
+0.0.0.0 affiliate-gate.com
+:: affiliate-gate.com
 0.0.0.0 affiliate-robot.com
 :: affiliate-robot.com
 0.0.0.0 affiliate.com
@@ -7464,6 +7464,8 @@ ff02::3 ip6-allhosts
 :: alconbeatsi.club
 0.0.0.0 alcreasalcon.info
 :: alcreasalcon.info
+0.0.0.0 alcularreless.club
+:: alcularreless.club
 0.0.0.0 alcvid.com
 :: alcvid.com
 0.0.0.0 aleaidass.site
@@ -9286,6 +9288,8 @@ ff02::3 ip6-allhosts
 :: ar.waterserver.cn
 0.0.0.0 ar1nvz5.com
 :: ar1nvz5.com
+0.0.0.0 arableredressalacrity.com
+:: arableredressalacrity.com
 0.0.0.0 aralego.com
 :: aralego.com
 0.0.0.0 aralego.net
@@ -10820,6 +10824,8 @@ ff02::3 ip6-allhosts
 :: bbsimages.zkxf119.com
 0.0.0.0 bbthat.com
 :: bbthat.com
+0.0.0.0 bbtys.net
+:: bbtys.net
 0.0.0.0 bbuni.com
 :: bbuni.com
 0.0.0.0 bbvdd.com
@@ -17672,6 +17678,8 @@ ff02::3 ip6-allhosts
 :: cz.ifeng0.com
 0.0.0.0 cz4444.cn
 :: cz4444.cn
+0.0.0.0 czcetfjlisyjh.com
+:: czcetfjlisyjh.com
 0.0.0.0 czechose.com
 :: czechose.com
 0.0.0.0 czf.cchfjz.com
@@ -26282,6 +26290,8 @@ ff02::3 ip6-allhosts
 :: globalwebindex.net
 0.0.0.0 globase.com
 :: globase.com
+0.0.0.0 globbiz.cn
+:: globbiz.cn
 0.0.0.0 globel.co.uk
 :: globel.co.uk
 0.0.0.0 globetrackr.com
@@ -28204,6 +28214,8 @@ ff02::3 ip6-allhosts
 :: hm.baidu.com
 0.0.0.0 hm.baidu.com.jnsiematcnc.com
 :: hm.baidu.com.jnsiematcnc.com
+0.0.0.0 hm.baidu.com.zzsdtzb.com
+:: hm.baidu.com.zzsdtzb.com
 0.0.0.0 hm.l.qq.com
 :: hm.l.qq.com
 0.0.0.0 hm.shuixyh.com
@@ -42738,6 +42750,8 @@ ff02::3 ip6-allhosts
 :: pcookie.cnzz.net
 0.0.0.0 pcookie.tanx.com
 :: pcookie.tanx.com
+0.0.0.0 pcouis.cn
+:: pcouis.cn
 0.0.0.0 pcr.da.netease.com
 :: pcr.da.netease.com
 0.0.0.0 pcrhfkuwp.com
@@ -55796,6 +55810,8 @@ ff02::3 ip6-allhosts
 :: tgbrfv.cn
 0.0.0.0 tgdaudience.com
 :: tgdaudience.com
+0.0.0.0 tgdhimcwww.com
+:: tgdhimcwww.com
 0.0.0.0 tget.me
 :: tget.me
 0.0.0.0 tgjkbx.cn
@@ -61060,6 +61076,8 @@ ff02::3 ip6-allhosts
 :: wahwahnetworks.com
 0.0.0.0 waihui518.com
 :: waihui518.com
+0.0.0.0 waistcoatfast.com
+:: waistcoatfast.com
 0.0.0.0 waitingpresen.info
 :: waitingpresen.info
 0.0.0.0 wakamoment.tk
