@@ -1,11 +1,11 @@
-# Checksum: MTYwMDE5MzA0Ngo=
+# Checksum: MTYwMDIwMzgyNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200915-6
-# TimeUpdated: 2020-09-15T18:04:06+00:00
+# Version: 1.6.1-20200915-7
+# TimeUpdated: 2020-09-15T21:03:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34234
+# Total: 34241
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11470,6 +11470,8 @@ ff02::3 ip6-allhosts
 :: bestdeals.ws
 0.0.0.0 bestdisplayformats.com
 :: bestdisplayformats.com
+0.0.0.0 bestforexplmdb.com
+:: bestforexplmdb.com
 0.0.0.0 bestgameads.com
 :: bestgameads.com
 0.0.0.0 besthitsnow.com
@@ -18604,8 +18606,6 @@ ff02::3 ip6-allhosts
 :: daero.pw
 0.0.0.0 daethana.pw
 :: daethana.pw
-0.0.0.0 dafahao.org
-:: dafahao.org
 0.0.0.0 dafapai.com
 :: dafapai.com
 0.0.0.0 daffaite.com
@@ -19488,6 +19488,8 @@ ff02::3 ip6-allhosts
 :: df.tanx.com
 0.0.0.0 df.telemetry.microsoft.com
 :: df.telemetry.microsoft.com
+0.0.0.0 df63de4ef399b.com
+:: df63de4ef399b.com
 0.0.0.0 df666.pzhttaax.cn
 :: df666.pzhttaax.cn
 0.0.0.0 df8c5028a1fad1.com
@@ -36178,6 +36180,8 @@ ff02::3 ip6-allhosts
 :: m.wsxxu.com
 0.0.0.0 m.wuqutu.com
 :: m.wuqutu.com
+0.0.0.0 m.wywna.cn
+:: m.wywna.cn
 0.0.0.0 m.x81zw.com
 :: m.x81zw.com
 0.0.0.0 m.xabaiya.cn
@@ -46130,6 +46134,8 @@ ff02::3 ip6-allhosts
 :: qnsr.com
 0.0.0.0 qoijertneio.com
 :: qoijertneio.com
+0.0.0.0 qonttkxl.com
+:: qonttkxl.com
 0.0.0.0 qooic.com
 :: qooic.com
 0.0.0.0 qoredi.com
@@ -52002,6 +52008,8 @@ ff02::3 ip6-allhosts
 :: sophomoremostlyplain.com
 0.0.0.0 sophus3.com
 :: sophus3.com
+0.0.0.0 sorqbhulun.com
+:: sorqbhulun.com
 0.0.0.0 sortsummer.com
 :: sortsummer.com
 0.0.0.0 sorycommunitedh.info
@@ -54768,6 +54776,8 @@ ff02::3 ip6-allhosts
 :: syphilohmmaging.site
 0.0.0.0 sys.zhangyue.com
 :: sys.zhangyue.com
+0.0.0.0 sysad.cn
+:: sysad.cn
 0.0.0.0 sysadult.cn
 :: sysadult.cn
 0.0.0.0 sysal.cn
@@ -58634,6 +58644,8 @@ ff02::3 ip6-allhosts
 :: twoaaa.168wangluo.com
 0.0.0.0 twokidjay.com
 :: twokidjay.com
+0.0.0.0 twoulderstr.club
+:: twoulderstr.club
 0.0.0.0 twpasol.com
 :: twpasol.com
 0.0.0.0 twqiqiang.com
@@ -60186,6 +60198,8 @@ ff02::3 ip6-allhosts
 :: vd.l.qq.com
 0.0.0.0 vda.17173.com
 :: vda.17173.com
+0.0.0.0 vdains.info
+:: vdains.info
 0.0.0.0 vdazz.net
 :: vdazz.net
 0.0.0.0 vdc.zoomph.com
