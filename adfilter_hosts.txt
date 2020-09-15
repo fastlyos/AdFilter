@@ -1,11 +1,11 @@
-# Checksum: MTYwMDE3MTQ3MQo=
+# Checksum: MTYwMDE4MjIyNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200915-4
-# TimeUpdated: 2020-09-15T12:04:31+00:00
+# Version: 1.6.1-20200915-5
+# TimeUpdated: 2020-09-15T15:03:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34226
+# Total: 34229
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -716,6 +716,8 @@ ff02::3 ip6-allhosts
 :: 19b45a16170729.com
 0.0.0.0 19beda38dc2ce42.com
 :: 19beda38dc2ce42.com
+0.0.0.0 19d12dd9de1.com
+:: 19d12dd9de1.com
 0.0.0.0 1ab5bb25e29d576.com
 :: 1ab5bb25e29d576.com
 0.0.0.0 1affmedia.com
@@ -4320,6 +4322,8 @@ ff02::3 ip6-allhosts
 :: ad120m.com
 0.0.0.0 ad123.ynet.com
 :: ad123.ynet.com
+0.0.0.0 ad123m.com
+:: ad123m.com
 0.0.0.0 ad127m.com
 :: ad127m.com
 0.0.0.0 ad131m.com
@@ -14598,8 +14602,6 @@ ff02::3 ip6-allhosts
 :: choice.microsoft.com.nsatc.net
 0.0.0.0 chokertraffic.com
 :: chokertraffic.com
-0.0.0.0 chongxiaota.top
-:: chongxiaota.top
 0.0.0.0 choogeet.net
 :: choogeet.net
 0.0.0.0 choorgiw.net
@@ -17704,8 +17706,6 @@ ff02::3 ip6-allhosts
 :: cyto-biotherapy.com
 0.0.0.0 cytoclause.com
 :: cytoclause.com
-0.0.0.0 cytrkxfzkxrjv.com
-:: cytrkxfzkxrjv.com
 0.0.0.0 cytron.videojj.com
 :: cytron.videojj.com
 0.0.0.0 cytroncdn.videojj.com
@@ -28224,6 +28224,8 @@ ff02::3 ip6-allhosts
 :: hk9.beeppool.org
 0.0.0.0 hk9600.com
 :: hk9600.com
+0.0.0.0 hkdyys.cn
+:: hkdyys.cn
 0.0.0.0 hkfuy.com
 :: hkfuy.com
 0.0.0.0 hkhotpewfxr.com
@@ -31324,6 +31326,8 @@ ff02::3 ip6-allhosts
 :: jbrlsr.com
 0.0.0.0 jbyy010.com
 :: jbyy010.com
+0.0.0.0 jbzdpixig.com
+:: jbzdpixig.com
 0.0.0.0 jc.0351dvd.cn
 :: jc.0351dvd.cn
 0.0.0.0 jc.anhuilitian.net
@@ -43960,6 +43964,8 @@ ff02::3 ip6-allhosts
 :: plopx.com
 0.0.0.0 ploy.batmobi.net
 :: ploy.batmobi.net
+0.0.0.0 plrjs.com
+:: plrjs.com
 0.0.0.0 plsdrct2.me
 :: plsdrct2.me
 0.0.0.0 plt.data.pplive.com
@@ -46040,8 +46046,6 @@ ff02::3 ip6-allhosts
 :: qingzhencai.net
 0.0.0.0 qinqiaotrade.com
 :: qinqiaotrade.com
-0.0.0.0 qinzigenjudi.com
-:: qinzigenjudi.com
 0.0.0.0 qipskd.cn
 :: qipskd.cn
 0.0.0.0 qiqivv.com
@@ -63182,6 +63186,8 @@ ff02::3 ip6-allhosts
 :: wt.adtrue24.com
 0.0.0.0 wt.soundestlink.com
 :: wt.soundestlink.com
+0.0.0.0 wt2noay3fgjn.com
+:: wt2noay3fgjn.com
 0.0.0.0 wtcpm.com
 :: wtcpm.com
 0.0.0.0 wtdome.com
