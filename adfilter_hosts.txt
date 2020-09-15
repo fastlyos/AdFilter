@@ -1,11 +1,11 @@
-# Checksum: MTYwMDE0OTgyOQo=
+# Checksum: MTYwMDE2MDYzMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200915-2
-# TimeUpdated: 2020-09-15T06:03:49+00:00
+# Version: 1.6.1-20200915-3
+# TimeUpdated: 2020-09-15T09:03:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34211
+# Total: 34217
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5130,6 +5130,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admatrix.jp
@@ -10038,6 +10040,8 @@ ff02::3 ip6-allhosts
 :: awasete.com
 0.0.0.0 away-stay.com
 :: away-stay.com
+0.0.0.0 awcpmsaiv.com
+:: awcpmsaiv.com
 0.0.0.0 awdigit.info
 :: awdigit.info
 0.0.0.0 awehobrasp.live
@@ -10520,8 +10524,6 @@ ff02::3 ip6-allhosts
 :: baimuyuan.com.cn
 0.0.0.0 baipagid.com
 :: baipagid.com
-0.0.0.0 baiqianzhuang.cn
-:: baiqianzhuang.cn
 0.0.0.0 bairenad.com
 :: bairenad.com
 0.0.0.0 baisuijk.com
@@ -10922,6 +10924,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11474,8 +11478,6 @@ ff02::3 ip6-allhosts
 :: bestproducttesters.com
 0.0.0.0 bestpush.pconline.com.cn
 :: bestpush.pconline.com.cn
-0.0.0.0 bestquickcontentfiles.com
-:: bestquickcontentfiles.com
 0.0.0.0 bestsecurepractice.com
 :: bestsecurepractice.com
 0.0.0.0 bestssn.com
@@ -17736,6 +17738,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -24006,6 +24010,8 @@ ff02::3 ip6-allhosts
 :: ff123.hao0202.com
 0.0.0.0 ff52e77ba517.com
 :: ff52e77ba517.com
+0.0.0.0 ff5bd8d9f8df.com
+:: ff5bd8d9f8df.com
 0.0.0.0 ffa9.cn
 :: ffa9.cn
 0.0.0.0 ffanq.com
@@ -55272,6 +55278,8 @@ ff02::3 ip6-allhosts
 :: takeslobsgel.com
 0.0.0.0 talaropa.com
 :: talaropa.com
+0.0.0.0 talhundrewr.club
+:: talhundrewr.club
 0.0.0.0 talk.nz.igexin.com
 :: talk.nz.igexin.com
 0.0.0.0 talk2none.com
@@ -57784,6 +57792,8 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -58744,6 +58754,8 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
+0.0.0.0 u8.hujiang.com
+:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
