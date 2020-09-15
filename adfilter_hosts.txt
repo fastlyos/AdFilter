@@ -1,11 +1,11 @@
-# Checksum: MTYwMDE2MDYzMwo=
+# Checksum: MTYwMDE3MTQ3MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200915-3
-# TimeUpdated: 2020-09-15T09:03:53+00:00
+# Version: 1.6.1-20200915-4
+# TimeUpdated: 2020-09-15T12:04:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34217
+# Total: 34226
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -718,6 +718,8 @@ ff02::3 ip6-allhosts
 :: 19beda38dc2ce42.com
 0.0.0.0 1ab5bb25e29d576.com
 :: 1ab5bb25e29d576.com
+0.0.0.0 1affmedia.com
+:: 1affmedia.com
 0.0.0.0 1aogoh1j81g3.com
 :: 1aogoh1j81g3.com
 0.0.0.0 1b6a637cbe7bb65ac.com
@@ -4954,6 +4956,8 @@ ff02::3 ip6-allhosts
 :: adisn.com
 0.0.0.0 adit-media.com
 :: adit-media.com
+0.0.0.0 aditingunfav.club
+:: aditingunfav.club
 0.0.0.0 adition.com
 :: adition.com
 0.0.0.0 aditize.com
@@ -7634,6 +7638,8 @@ ff02::3 ip6-allhosts
 :: allsporttv.com
 0.0.0.0 alltracked.com
 :: alltracked.com
+0.0.0.0 allure-ng.net
+:: allure-ng.net
 0.0.0.0 allxin.com
 :: allxin.com
 0.0.0.0 allycollegedstrie.info
@@ -10358,6 +10364,8 @@ ff02::3 ip6-allhosts
 :: b88c9bd1dcedfc3.com
 0.0.0.0 b8cf0fd3179ef.com
 :: b8cf0fd3179ef.com
+0.0.0.0 b8pfulzbyj7h.com
+:: b8pfulzbyj7h.com
 0.0.0.0 b97beb2fed1c4f.com
 :: b97beb2fed1c4f.com
 0.0.0.0 b9ba73f1cd9b6.com
@@ -15894,8 +15902,6 @@ ff02::3 ip6-allhosts
 :: colleable.info
 0.0.0.0 collect-test.arabam.com
 :: collect-test.arabam.com
-0.0.0.0 collect.adback.co
-:: collect.adback.co
 0.0.0.0 collect.albacross.com
 :: collect.albacross.com
 0.0.0.0 collect.ptengine.cn
@@ -18502,6 +18508,8 @@ ff02::3 ip6-allhosts
 :: d77777777.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 :: d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+0.0.0.0 d7dza8s7j2am6.cloudfront.net
+:: d7dza8s7j2am6.cloudfront.net
 0.0.0.0 d7e10fa2099.com
 :: d7e10fa2099.com
 0.0.0.0 d7s3muv.cn
@@ -33016,6 +33024,8 @@ ff02::3 ip6-allhosts
 :: knowd.com
 0.0.0.0 knowlead.io
 :: knowlead.io
+0.0.0.0 knowledgedc.club
+:: knowledgedc.club
 0.0.0.0 knutenegros.pro
 :: knutenegros.pro
 0.0.0.0 knutsfordguardian-gb.knutsfordguardian.co.uk
@@ -44454,6 +44464,8 @@ ff02::3 ip6-allhosts
 :: ppcwebspy.com
 0.0.0.0 ppdb.pl
 :: ppdb.pl
+0.0.0.0 ppfrlfe.com
+:: ppfrlfe.com
 0.0.0.0 pphqq.com
 :: pphqq.com
 0.0.0.0 ppiespresen.club
@@ -44718,6 +44730,8 @@ ff02::3 ip6-allhosts
 :: professonsd.top
 0.0.0.0 proffigurufast.com
 :: proffigurufast.com
+0.0.0.0 proficientinflectionaluminium.com
+:: proficientinflectionaluminium.com
 0.0.0.0 profile.bharatmatrimony.com
 :: profile.bharatmatrimony.com
 0.0.0.0 profile.ssp.rambler.ru
@@ -46026,6 +46040,8 @@ ff02::3 ip6-allhosts
 :: qingzhencai.net
 0.0.0.0 qinqiaotrade.com
 :: qinqiaotrade.com
+0.0.0.0 qinzigenjudi.com
+:: qinzigenjudi.com
 0.0.0.0 qipskd.cn
 :: qipskd.cn
 0.0.0.0 qiqivv.com
@@ -51730,6 +51746,8 @@ ff02::3 ip6-allhosts
 :: snrcdn.net
 0.0.0.0 snsgckygbed.com
 :: snsgckygbed.com
+0.0.0.0 snw5.jkjjkj.top
+:: snw5.jkjjkj.top
 0.0.0.0 snxyf.com
 :: snxyf.com
 0.0.0.0 snyu.com
@@ -58794,6 +58812,8 @@ ff02::3 ip6-allhosts
 :: ubmcmm.baidustatic.com
 0.0.0.0 ubmcvideo.baidustatic.com
 :: ubmcvideo.baidustatic.com
+0.0.0.0 ubmoipypwf.com
+:: ubmoipypwf.com
 0.0.0.0 ubsxycbae.com
 :: ubsxycbae.com
 0.0.0.0 ubt.berlingskemedia.net
@@ -61946,8 +61966,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
