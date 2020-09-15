@@ -1,11 +1,11 @@
-# Checksum: MTYwMDExNzQyOAo=
+# Checksum: MTYwMDEyODUyMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200914-7
-# TimeUpdated: 2020-09-14T21:03:48+00:00
+# Version: 1.6.1-20200915-0
+# TimeUpdated: 2020-09-15T00:08:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34175
+# Total: 34181
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2962,8 +2962,6 @@ ff02::3 ip6-allhosts
 :: a.dianjoy.com
 0.0.0.0 a.diaoyu.cn
 :: a.diaoyu.cn
-0.0.0.0 a.dounanhuahui.com
-:: a.dounanhuahui.com
 0.0.0.0 a.dtprofit.com
 :: a.dtprofit.com
 0.0.0.0 a.dyjqd.com
@@ -6822,6 +6820,8 @@ ff02::3 ip6-allhosts
 :: aexz.rm.fhxiaoshuo.com
 0.0.0.0 af-z.jp
 :: af-z.jp
+0.0.0.0 afa9bdfa63bf7.com
+:: afa9bdfa63bf7.com
 0.0.0.0 afairweb.com
 :: afairweb.com
 0.0.0.0 afcontent.net
@@ -8484,6 +8484,8 @@ ff02::3 ip6-allhosts
 :: anormal-tracker.de
 0.0.0.0 anorrecenturybr.info
 :: anorrecenturybr.info
+0.0.0.0 anotherconsult.com
+:: anotherconsult.com
 0.0.0.0 anotherederi.site
 :: anotherederi.site
 0.0.0.0 anothingahy.club
@@ -23442,6 +23444,8 @@ ff02::3 ip6-allhosts
 :: f71bxwn500lj.com
 0.0.0.0 f7ds.liberation.fr
 :: f7ds.liberation.fr
+0.0.0.0 f826fdf639.com
+:: f826fdf639.com
 0.0.0.0 f8272.com
 :: f8272.com
 0.0.0.0 f8316b45436f.com
@@ -24736,6 +24740,8 @@ ff02::3 ip6-allhosts
 :: frestime.com
 0.0.0.0 frevi.net
 :: frevi.net
+0.0.0.0 frfnlvnpzeju.com
+:: frfnlvnpzeju.com
 0.0.0.0 friendlyduck.com
 :: friendlyduck.com
 0.0.0.0 friends2follow.com
@@ -30862,6 +30868,8 @@ ff02::3 ip6-allhosts
 :: irs09.com
 0.0.0.0 irtya.com
 :: irtya.com
+0.0.0.0 irtyf.com
+:: irtyf.com
 0.0.0.0 iruad.com
 :: iruad.com
 0.0.0.0 is.base.de
@@ -48142,6 +48150,8 @@ ff02::3 ip6-allhosts
 :: rtd.tubemogul.com
 0.0.0.0 rticultcontro.info
 :: rticultcontro.info
+0.0.0.0 rtiesevantca.club
+:: rtiesevantca.club
 0.0.0.0 rtionalgospecul.site
 :: rtionalgospecul.site
 0.0.0.0 rtk.io
@@ -67610,6 +67620,8 @@ ff02::3 ip6-allhosts
 :: z888.izhufu.net
 0.0.0.0 z9.cnzz.com
 :: z9.cnzz.com
+0.0.0.0 zabhoggkgm.com
+:: zabhoggkgm.com
 0.0.0.0 zabxb.com
 :: zabxb.com
 0.0.0.0 zae.gzzena.com
