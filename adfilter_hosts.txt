@@ -1,11 +1,11 @@
-# Checksum: MTYwMDE4MjIyNAo=
+# Checksum: MTYwMDE5MzA0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200915-5
-# TimeUpdated: 2020-09-15T15:03:44+00:00
+# Version: 1.6.1-20200915-6
+# TimeUpdated: 2020-09-15T18:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34229
+# Total: 34234
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -12322,6 +12322,8 @@ ff02::3 ip6-allhosts
 :: borotango.com
 0.0.0.0 borsendental.com
 :: borsendental.com
+0.0.0.0 bosatria.cn
+:: bosatria.cn
 0.0.0.0 boss.bankofamerica.com
 :: boss.bankofamerica.com
 0.0.0.0 bosspush.com
@@ -13752,6 +13754,8 @@ ff02::3 ip6-allhosts
 :: cbsi.demdex.net
 0.0.0.0 cbvjddh.23txt.com
 :: cbvjddh.23txt.com
+0.0.0.0 cbzjukldosooj.com
+:: cbzjukldosooj.com
 0.0.0.0 cc.dace.hupu.com
 :: cc.dace.hupu.com
 0.0.0.0 cc.m.jd.com
@@ -42016,6 +42020,8 @@ ff02::3 ip6-allhosts
 :: ournet-analytics.com
 0.0.0.0 ourot.com
 :: ourot.com
+0.0.0.0 ourpartmen.club
+:: ourpartmen.club
 0.0.0.0 ourstats.de
 :: ourstats.de
 0.0.0.0 oushenoo.net
@@ -42814,6 +42820,8 @@ ff02::3 ip6-allhosts
 :: pcauto.irs01.com
 0.0.0.0 pcbrowser.dd.qq.com
 :: pcbrowser.dd.qq.com
+0.0.0.0 pccpyjngw.com
+:: pccpyjngw.com
 0.0.0.0 pcd.autohome.com.cn
 :: pcd.autohome.com.cn
 0.0.0.0 pcdjvinnlhysg.com
@@ -61970,6 +61978,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
