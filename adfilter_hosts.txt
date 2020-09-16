@@ -1,11 +1,11 @@
-# Checksum: MTYwMDI3OTQ1Mwo=
+# Checksum: MTYwMDI5MDIxNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200916-6
-# TimeUpdated: 2020-09-16T18:04:13+00:00
+# Version: 1.6.1-20200916-7
+# TimeUpdated: 2020-09-16T21:03:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34289
+# Total: 34299
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10376,6 +10376,8 @@ ff02::3 ip6-allhosts
 :: b8cf0fd3179ef.com
 0.0.0.0 b8pfulzbyj7h.com
 :: b8pfulzbyj7h.com
+0.0.0.0 b936c5932623f.com
+:: b936c5932623f.com
 0.0.0.0 b97beb2fed1c4f.com
 :: b97beb2fed1c4f.com
 0.0.0.0 b9ba73f1cd9b6.com
@@ -15710,6 +15712,8 @@ ff02::3 ip6-allhosts
 :: cnxweb.com
 0.0.0.0 cnyibs.com
 :: cnyibs.com
+0.0.0.0 cnywst.com
+:: cnywst.com
 0.0.0.0 cnzz.172internet.com
 :: cnzz.172internet.com
 0.0.0.0 cnzz.cn
@@ -23310,6 +23314,8 @@ ff02::3 ip6-allhosts
 :: exposebox.com
 0.0.0.0 expresswebtraffic.com
 :: expresswebtraffic.com
+0.0.0.0 exrmlhihaj.com
+:: exrmlhihaj.com
 0.0.0.0 exrtbsrv.com
 :: exrtbsrv.com
 0.0.0.0 ext.goguardian.com
@@ -26976,6 +26982,8 @@ ff02::3 ip6-allhosts
 :: gsimedia.net
 0.0.0.0 gsimjyplcciwgb.com
 :: gsimjyplcciwgb.com
+0.0.0.0 gsincentlyse.club
+:: gsincentlyse.club
 0.0.0.0 gsipjksiepxsqi.com
 :: gsipjksiepxsqi.com
 0.0.0.0 gsjdzx.com
@@ -28612,6 +28620,8 @@ ff02::3 ip6-allhosts
 :: hpr.outbrain.com
 0.0.0.0 hprofits.com
 :: hprofits.com
+0.0.0.0 hpwdohgicpmi.com
+:: hpwdohgicpmi.com
 0.0.0.0 hpyrdr.com
 :: hpyrdr.com
 0.0.0.0 hq.appsflyer.com
@@ -29710,6 +29720,8 @@ ff02::3 ip6-allhosts
 :: img-dsp.oss-cn-beijing.aliyuncs.com
 0.0.0.0 img-x.jd.com
 :: img-x.jd.com
+0.0.0.0 img.0563d.com
+:: img.0563d.com
 0.0.0.0 img.1whour.com
 :: img.1whour.com
 0.0.0.0 img.3sjt.com
@@ -31840,6 +31852,8 @@ ff02::3 ip6-allhosts
 :: jpg1.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jph.itiexue.net
 :: jph.itiexue.net
+0.0.0.0 jpllzuuvku.com
+:: jpllzuuvku.com
 0.0.0.0 jppolid-track.trackprod.integration.jppol.dk
 :: jppolid-track.trackprod.integration.jppol.dk
 0.0.0.0 jpush.cn
@@ -54534,6 +54548,8 @@ ff02::3 ip6-allhosts
 :: svfwer.top
 0.0.0.0 svintificaneinevi.info
 :: svintificaneinevi.info
+0.0.0.0 svip.xsmy2.cn
+:: svip.xsmy2.cn
 0.0.0.0 svjat0rx99.com
 :: svjat0rx99.com
 0.0.0.0 svlu.net
@@ -61022,6 +61038,8 @@ ff02::3 ip6-allhosts
 :: vpkq.cn
 0.0.0.0 vpn.celueziben.com
 :: vpn.celueziben.com
+0.0.0.0 vpn.ch-hr12333.com
+:: vpn.ch-hr12333.com
 0.0.0.0 vpn.zhengyejixie.com
 :: vpn.zhengyejixie.com
 0.0.0.0 vpn2.beeppool.org
@@ -67178,6 +67196,8 @@ ff02::3 ip6-allhosts
 :: yijikm.com
 0.0.0.0 yijiuningyia.gushiwen.org
 :: yijiuningyia.gushiwen.org
+0.0.0.0 yijuxie.com
+:: yijuxie.com
 0.0.0.0 yiliao.hupan.com
 :: yiliao.hupan.com
 0.0.0.0 yiluup.com
