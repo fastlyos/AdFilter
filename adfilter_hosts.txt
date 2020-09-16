@@ -1,11 +1,11 @@
-# Checksum: MTYwMDI0NzAxNgo=
+# Checksum: MTYwMDI1Nzg3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200916-3
-# TimeUpdated: 2020-09-16T09:03:36+00:00
+# Version: 1.6.1-20200916-4
+# TimeUpdated: 2020-09-16T12:04:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34268
+# Total: 34277
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -13528,6 +13528,8 @@ ff02::3 ip6-allhosts
 :: cao.tc600.com
 0.0.0.0 caodaye.com
 :: caodaye.com
+0.0.0.0 caofta.cn
+:: caofta.cn
 0.0.0.0 caolvch.com
 :: caolvch.com
 0.0.0.0 cap-cap-pop.com
@@ -23760,8 +23762,6 @@ ff02::3 ip6-allhosts
 :: fbfd396918c60838.com
 0.0.0.0 fbgdc.com
 :: fbgdc.com
-0.0.0.0 fbguxd.cn
-:: fbguxd.cn
 0.0.0.0 fblaster.com
 :: fblaster.com
 0.0.0.0 fbmjc.39yst.com
@@ -27206,6 +27206,8 @@ ff02::3 ip6-allhosts
 :: gzs20.cnzz.com
 0.0.0.0 gzsadlmy.cn
 :: gzsadlmy.cn
+0.0.0.0 gzxdkaytxdsyxg.com
+:: gzxdkaytxdsyxg.com
 0.0.0.0 gzxnlk.com
 :: gzxnlk.com
 0.0.0.0 gzzena.com
@@ -31850,8 +31852,6 @@ ff02::3 ip6-allhosts
 :: jqcdn2.herokuapp.com
 0.0.0.0 jqfjrjka5t.top
 :: jqfjrjka5t.top
-0.0.0.0 jqhevyf.cn
-:: jqhevyf.cn
 0.0.0.0 jqk72ugyl2pz.com
 :: jqk72ugyl2pz.com
 0.0.0.0 jqki.cn
@@ -34354,6 +34354,8 @@ ff02::3 ip6-allhosts
 :: liwhetsu.com
 0.0.0.0 lixiangmo.com
 :: lixiangmo.com
+0.0.0.0 lixianze.top
+:: lixianze.top
 0.0.0.0 lixincxy.cn
 :: lixincxy.cn
 0.0.0.0 lixudong.top
@@ -40786,6 +40788,8 @@ ff02::3 ip6-allhosts
 :: ntent.com
 0.0.0.0 ntentifycom.club
 :: ntentifycom.club
+0.0.0.0 nterbx.com
+:: nterbx.com
 0.0.0.0 nteredprac.club
 :: nteredprac.club
 0.0.0.0 nthyn.com
@@ -40794,6 +40798,8 @@ ff02::3 ip6-allhosts
 :: ntierabery.club
 0.0.0.0 ntlab.org
 :: ntlab.org
+0.0.0.0 ntlyenclothe.club
+:: ntlyenclothe.club
 0.0.0.0 ntowcested.info
 :: ntowcested.info
 0.0.0.0 ntpddq.com
@@ -43140,6 +43146,8 @@ ff02::3 ip6-allhosts
 :: pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
 :: pgdt.ugdtimg.com
+0.0.0.0 pgepkagfndl.com
+:: pgepkagfndl.com
 0.0.0.0 pgmediaserve.com
 :: pgmediaserve.com
 0.0.0.0 pgpartner.com
@@ -43290,6 +43298,8 @@ ff02::3 ip6-allhosts
 :: phovihopy.pro
 0.0.0.0 phpad.cqnews.net
 :: phpad.cqnews.net
+0.0.0.0 phpape.com
+:: phpape.com
 0.0.0.0 phpstat.com
 :: phpstat.com
 0.0.0.0 phsism.com
@@ -48150,6 +48160,8 @@ ff02::3 ip6-allhosts
 :: rrsubway.com
 0.0.0.0 rrvpscehvjuz.com
 :: rrvpscehvjuz.com
+0.0.0.0 rrxlynihw.com
+:: rrxlynihw.com
 0.0.0.0 rs-staticart.ybcdn.net
 :: rs-staticart.ybcdn.net
 0.0.0.0 rs-stripe.com
@@ -56658,6 +56670,8 @@ ff02::3 ip6-allhosts
 :: tonefuse.com
 0.0.0.0 tonewithough.info
 :: tonewithough.info
+0.0.0.0 tonexcitiessa.club
+:: tonexcitiessa.club
 0.0.0.0 tongdejiayuan.com
 :: tongdejiayuan.com
 0.0.0.0 tongj.xilu.com
@@ -57432,6 +57446,10 @@ ff02::3 ip6-allhosts
 :: tracker.neon-images.com
 0.0.0.0 tracker.nitropay.com
 :: tracker.nitropay.com
+0.0.0.0 tracker.novage.com.ua
+:: tracker.novage.com.ua
+0.0.0.0 tracker.openwebtorrent.com
+:: tracker.openwebtorrent.com
 0.0.0.0 tracker.pandora.com
 :: tracker.pandora.com
 0.0.0.0 tracker.pinnaclesports.com
