@@ -1,11 +1,11 @@
-! Checksum: MTYwMDMzMzQ0NQo=
+! Checksum: MTYwMDM0NDI5NAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.1-20200917-3
-! TimeUpdated: 2020-09-17T09:04:05+00:00
+! Version: 1.6.1-20200917-4
+! TimeUpdated: 2020-09-17T12:04:54+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 34321
+! Total: 34352
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -2277,6 +2277,7 @@
 |adcde.com^
 |adcdn.goo.ne.jp^
 |adcdn.hpplay.cn^
+|adcdn.tencentmusic.com^
 |adcdnx.com^
 |adcell.com^
 |adcell.de^
@@ -2363,6 +2364,7 @@
 |adexchangemachine.com^
 |adexchangeprediction.com^
 |adexchangetracker.com^
+|adexpo.tencentmusic.com^
 |adexprt.com^
 |adexprts.com^
 |adextra.51wnl-cq.com^
@@ -2566,6 +2568,7 @@
 |admarvel.com^
 |admarvel.s3.amazonaws.com^
 |admarvel.top^
+|admaster.com^
 |admaster.com.cn^
 |admatrix.jp^
 |admaxim.com^
@@ -3270,6 +3273,7 @@
 |advertnetworks.com^
 |advertom.com^
 |advertone.ru^
+|advertpay-vip-ssl.xunlei.com^
 |advertpay.net^
 |advertpay.vip.xunlei.com^
 |advertrtb.com^
@@ -4288,6 +4292,7 @@
 |ao-freegeoip.herokuapp.com^
 |aobde.com^
 |aocular.com^
+|aod-image.baidu.com^
 |aomde.com^
 |aomeng.net^
 |aoovqo8t.stats.lncld.net^
@@ -4327,6 +4332,7 @@
 |api-flow.flyme.cn^
 |api-flow.meizu.com^
 |api-luckycoinsdk.doglobal.net^
+|api-mcp.adsp.xunlei.com^
 |api-push.meizu.com^
 |api-secure.solvemedia.com^
 |api-shoulei-ssl.xunlei.com^
@@ -4379,6 +4385,7 @@
 |api.cupid.qiyi.com^
 |api.danmu.tv.sohu.com^
 |api.dewmobile.net^
+|api.df.mob.com^
 |api.dianru.com^
 |api.domob.cn^
 |api.doumob.com^
@@ -5092,6 +5099,7 @@
 |azpresearch.club^
 |aztecash.com^
 |azvjudwr.info^
+|b-gi.getui.com^
 |b-m.xyz^
 |b.19869.com^
 |b.77shw.com^
@@ -5253,6 +5261,7 @@
 |baiduada.babihu.com^
 |baiduappu.top^
 |baiduccdn1.com^
+|baiducdncmn-gd.inter.iqiyi.com^
 |baiducdncmn.inter.iqiyi.com^
 |baiducom.bj.bcebos.com^
 |baidujavascript.com^
@@ -5506,6 +5515,7 @@
 |bdasd.chinabig.com.cn^
 |bdasd.wmxa.cn^
 |bdash-cloud.com^
+|bdcdncmn-gd.inter.71edge.com^
 |bdcm.kandianla.com^
 |bdcode.2345.com^
 |bdcode.qinglm.com^
@@ -6527,6 +6537,7 @@
 |c.jjkk.org^
 |c.k429fma.com^
 |c.kbf365.cn^
+|c.kuaiduizuoye.com^
 |c.kuwo.cn^
 |c.l.qq.com^
 |c.l0yjow.cn^
@@ -7179,7 +7190,6 @@
 |cgicounter.oneandone.co.uk^
 |cgicounter.onlinehome.de^
 |cgicounter.puretec.de^
-|cginght.com.cn^
 |cgjfanun12on.com^
 |cgskqg.com^
 |cguru.ga^
@@ -8091,6 +8101,7 @@
 |confiant-integrations.global.ssl.fastly.net^
 |confiant.msn.com^
 |config-ltvp.inmobi.com^
+|config-vvs.glomex.com^
 |config.adview.cn^
 |config.baofeng.net^
 |config.cocounion.com^
@@ -8882,6 +8893,7 @@
 |czx5eyk0exbhwp43ya.biz^
 |czxiangyue.com^
 |czxjx.cn^
+|czywssj.com^
 |d-1.co^
 |d-agency.net^
 |d-bi.fr^
@@ -10923,6 +10935,7 @@
 |edp2.adriver.ru^
 |edrone.me^
 |edspicuousind.site^
+|edspoiletkni.club^
 |edsufferen.club^
 |edsurrowin.club^
 |edt02.net^
@@ -11396,6 +11409,7 @@
 |esptj.com^
 |essayads.com^
 |essaycoupons.com^
+|essdistryord.club^
 |esshortleda.info^
 |essionprobl.space^
 |estadisticas.lanacion.com.ar^
@@ -13286,6 +13300,7 @@
 |goldenbettingefforlessefforless.com^
 |golderotica.com^
 |goldlambotrader.co^
+|goldoffer.online^
 |golds.lp.mydas.mobi^
 |goldstats.com^
 |gomain.pro^
@@ -14617,6 +14632,7 @@
 |iask.qq.com^
 |iasrv.com^
 |iaudienc.com^
+|iavfta8090.com^
 |ib.adnxs.com^
 |ib.snssdk.com^
 |ib11.go2yd.com^
@@ -14785,6 +14801,7 @@
 |ikunselt.com^
 |iky.sinabuy.cn^
 |il05pzhujicf.com^
+|ilce.alicdn.com^
 |ileokscsawzzrh.com^
 |ilepai.com^
 |ilividnewtab.com^
@@ -16398,6 +16415,7 @@
 |ketoo.com^
 |ketstheralinver.info^
 |keyade.com^
+|keybut.com^
 |keyguard.nimiq.com^
 |keymetric.net^
 |keyne-in.com.cn^
@@ -17024,6 +17042,7 @@
 |license.lumion3d.net^
 |license2.bluesoleil.com^
 |licensing.bitmovin.com^
+|licentchamom.club^
 |licestopogeegre.info^
 |lichaoliang.com^
 |lichtpass.com^
@@ -17825,6 +17844,7 @@
 |m.cudaojia.com^
 |m.d6s2pn5t.cn^
 |m.d8qu.com^
+|m.da.mgtv.com^
 |m.dailiq.cn^
 |m.dante2007.com^
 |m.data.mob.com^
@@ -18494,6 +18514,7 @@
 |mayiad.com^
 |maysunmedia.com^
 |mazu.3g.qq.com^
+|mazu.m.qq.com^
 |mb-srv.com^
 |mb.hockeybuzz.com^
 |mb.marathonbet.com^
@@ -18969,6 +18990,7 @@
 |ministsentr.club^
 |minkatu.com^
 |minologyhesia.site^
+|minorshort.weixin.qq.com^
 |minr.nullrefexcep.com^
 |minr.pw^
 |minsistereron.site^
@@ -19551,6 +19573,7 @@
 |mtree.com^
 |mts-ws.rueducommerce.fr^
 |mts.mansion.com^
+|mtt.eve.mdt.qq.com^
 |mtty.com^
 |mtvp05j.com^
 |mu722.com^
@@ -20288,6 +20311,7 @@
 |nompakru.click^
 |nonerr.com^
 |nongsalei.com^
+|nongzhifu.cn^
 |nonkads.com^
 |nonstoppartner.de^
 |noowho.com^
@@ -22755,6 +22779,7 @@
 |push.maribacaberita.com^
 |push.mobile.kugou.com^
 |push.neko-san.fr^
+|push.pgl.qq.com^
 |push.qq.com^
 |push.res.meizu.com^
 |push.rollout.io^
@@ -24415,6 +24440,7 @@
 |s1.ei16h.cn^
 |s1.hiapk.com^
 |s1.hualaoye.com^
+|s1.irs03.com^
 |s1.kuaibaopay.com^
 |s1.leshi123.cc^
 |s1.qiqutt.cn^
@@ -27983,6 +28009,7 @@
 |test-api-explorer.beeppool.org^
 |test-explorer.beeppool.org^
 |test.ad.xiaomi.com^
+|test.adsp.xunlei.com^
 |test.api.xlmc.sandai.net^
 |test.ark.letv.com^
 |test.directprimal.com^
@@ -28975,6 +29002,7 @@
 |trackyourstats.com^
 |tracy.sadv.dadapro.com^
 |trade.koudaitong.com^
+|trade.mtime.com^
 |tradeadexchange.com^
 |tradecraft.s.llnwi.net^
 |tradedoubler.com^
@@ -29458,6 +29486,7 @@
 |u51.me^
 |u595sebqih.com^
 |u6.gg^
+|u8.hujiang.com^
 |u88.cn^
 |u8ad.com^
 |u9oxdnxk8b.com^
@@ -30554,6 +30583,7 @@
 |vrstage.com^
 |vrtzads.com^
 |vry9.destinia.com^
+|vs.biz.weibo.com^
 |vs.funshion.com^
 |vs.target.com^
 |vs19.gzcu.u3.ucweb.com^
@@ -30758,6 +30788,7 @@
 |wasp-182b.com^
 |wastedcooperate.com^
 |watakaw133.xyz^
+|watch.advertising.speed.cdn.vip.xunlei.com^
 |watchfree.flv.in^
 |watchingssui.info^
 |watchmygf.to^
