@@ -1,11 +1,11 @@
-# Checksum: MTYwMDMyMjY0OAo=
+# Checksum: MTYwMDMzMzQ0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200917-2
-# TimeUpdated: 2020-09-17T06:04:08+00:00
+# Version: 1.6.1-20200917-3
+# TimeUpdated: 2020-09-17T09:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34310
+# Total: 34321
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5136,8 +5136,6 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
-0.0.0.0 admaster.com
-:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admatrix.jp
@@ -14020,6 +14018,8 @@ ff02::3 ip6-allhosts
 :: cdn.popcash.net
 0.0.0.0 cdn.popmyads.com
 :: cdn.popmyads.com
+0.0.0.0 cdn.qutyan8848.com
+:: cdn.qutyan8848.com
 0.0.0.0 cdn.rhombusads.com
 :: cdn.rhombusads.com
 0.0.0.0 cdn.rocks.io
@@ -17470,6 +17470,8 @@ ff02::3 ip6-allhosts
 :: cse3.chausport.com
 0.0.0.0 csheaven.com
 :: csheaven.com
+0.0.0.0 cshlgg.com
+:: cshlgg.com
 0.0.0.0 csnd.xyz
 :: csnd.xyz
 0.0.0.0 csp-collector.appspot.com
@@ -17766,8 +17768,6 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
-0.0.0.0 czywssj.com
-:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -20946,6 +20946,8 @@ ff02::3 ip6-allhosts
 :: dvsour.china.com
 0.0.0.0 dvt4pepo9om3r.cloudfront.net
 :: dvt4pepo9om3r.cloudfront.net
+0.0.0.0 dvtwezyzog.com
+:: dvtwezyzog.com
 0.0.0.0 dvv.c1345.cn
 :: dvv.c1345.cn
 0.0.0.0 dvx-android.domob.cn
@@ -30912,6 +30914,8 @@ ff02::3 ip6-allhosts
 :: iqu-operation.com
 0.0.0.0 iquue.com
 :: iquue.com
+0.0.0.0 iqyewu.cn
+:: iqyewu.cn
 0.0.0.0 ir.mail.126.com
 :: ir.mail.126.com
 0.0.0.0 ir.mail.163.com
@@ -32950,6 +32954,8 @@ ff02::3 ip6-allhosts
 :: kj2hy.com
 0.0.0.0 kj733.com
 :: kj733.com
+0.0.0.0 kjdw.com.cn
+:: kjdw.com.cn
 0.0.0.0 kjgen.com
 :: kjgen.com
 0.0.0.0 kjhfy.com
@@ -33936,6 +33942,8 @@ ff02::3 ip6-allhosts
 :: lfhnkp.com
 0.0.0.0 lflili.com
 :: lflili.com
+0.0.0.0 lfmwrbcfbji.com
+:: lfmwrbcfbji.com
 0.0.0.0 lfov.net
 :: lfov.net
 0.0.0.0 lfriqmklpsbtq.com
@@ -39206,6 +39214,8 @@ ff02::3 ip6-allhosts
 :: mwor.gq
 0.0.0.0 mws.adsage.com
 :: mws.adsage.com
+0.0.0.0 mwzquivpqnod.com
+:: mwzquivpqnod.com
 0.0.0.0 mx.browsermine.com
 :: mx.browsermine.com
 0.0.0.0 mx.nimiq.com
@@ -43526,6 +43536,8 @@ ff02::3 ip6-allhosts
 :: pingback.issuu.com
 0.0.0.0 pingback.sogou.com
 :: pingback.sogou.com
+0.0.0.0 pingdishonest.com
+:: pingdishonest.com
 0.0.0.0 pingfore.qq.com
 :: pingfore.qq.com
 0.0.0.0 pinghot.qq.com
@@ -46146,6 +46158,8 @@ ff02::3 ip6-allhosts
 :: qithimsuejs.com
 0.0.0.0 qitwoxzibesak.com
 :: qitwoxzibesak.com
+0.0.0.0 qiumodies.com
+:: qiumodies.com
 0.0.0.0 qiwo.cc
 :: qiwo.cc
 0.0.0.0 qiximed.com
@@ -48692,6 +48706,8 @@ ff02::3 ip6-allhosts
 :: s.mankegst.shop
 0.0.0.0 s.mlion.cn
 :: s.mlion.cn
+0.0.0.0 s.ndtzx.com
+:: s.ndtzx.com
 0.0.0.0 s.p.youku.com
 :: s.p.youku.com
 0.0.0.0 s.pdsjycm.com
@@ -57938,8 +57954,6 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
-0.0.0.0 trade.mtime.com
-:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -58414,6 +58428,8 @@ ff02::3 ip6-allhosts
 :: ts9.cc
 0.0.0.0 tsandycateup.com
 :: tsandycateup.com
+0.0.0.0 tsastrmq.com
+:: tsastrmq.com
 0.0.0.0 tscarbornonnae.info
 :: tscarbornonnae.info
 0.0.0.0 tscounter.com
@@ -58904,8 +58920,6 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
-0.0.0.0 u8.hujiang.com
-:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
@@ -59140,6 +59154,8 @@ ff02::3 ip6-allhosts
 :: uitabletublis.info
 0.0.0.0 uixvbjknkqxfvj.com
 :: uixvbjknkqxfvj.com
+0.0.0.0 uizhcjow.com
+:: uizhcjow.com
 0.0.0.0 ujccccb.com
 :: ujccccb.com
 0.0.0.0 ujdngv.xbiquge6.com
@@ -65940,6 +65956,8 @@ ff02::3 ip6-allhosts
 :: x70e.com
 0.0.0.0 x7xirtzmot.com
 :: x7xirtzmot.com
+0.0.0.0 x8ad.com
+:: x8ad.com
 0.0.0.0 x9.shinobi.jp
 :: x9.shinobi.jp
 0.0.0.0 x9b05t5jsqje.com
@@ -67758,6 +67776,8 @@ ff02::3 ip6-allhosts
 :: yyb.pc6.com
 0.0.0.0 yybx.oss-cn-hangzhou.aliyuncs.com
 :: yybx.oss-cn-hangzhou.aliyuncs.com
+0.0.0.0 yycocbzc.com
+:: yycocbzc.com
 0.0.0.0 yyeks.com
 :: yyeks.com
 0.0.0.0 yyhqch.com
@@ -68188,6 +68208,8 @@ ff02::3 ip6-allhosts
 :: zhouqin520.top
 0.0.0.0 zhoz.com
 :: zhoz.com
+0.0.0.0 zhqqozqbk.com
+:: zhqqozqbk.com
 0.0.0.0 zhtjdl.com
 :: zhtjdl.com
 0.0.0.0 zhuahu.com
