@@ -1,11 +1,11 @@
-# Checksum: MTYwMDMxMTgzNgo=
+# Checksum: MTYwMDMyMjY0OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200917-1
-# TimeUpdated: 2020-09-17T03:03:56+00:00
+# Version: 1.6.1-20200917-2
+# TimeUpdated: 2020-09-17T06:04:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34312
+# Total: 34310
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3112,8 +3112,6 @@ ff02::3 ip6-allhosts
 :: a.vserv.mobi
 0.0.0.0 a.w3techs.com
 :: a.w3techs.com
-0.0.0.0 a.wanrenshe.com
-:: a.wanrenshe.com
 0.0.0.0 a.wanzhuang.com
 :: a.wanzhuang.com
 0.0.0.0 a.wifi33.com
@@ -6822,8 +6820,6 @@ ff02::3 ip6-allhosts
 :: aero.bankofamerica.com
 0.0.0.0 aeros02.tk
 :: aeros02.tk
-0.0.0.0 aeros05.tk
-:: aeros05.tk
 0.0.0.0 aeros08.tk
 :: aeros08.tk
 0.0.0.0 aerserv.com
@@ -10848,8 +10844,6 @@ ff02::3 ip6-allhosts
 :: bb2.ifeng.com
 0.0.0.0 bb475d71fa0b1b2.com
 :: bb475d71fa0b1b2.com
-0.0.0.0 bbba8.com
-:: bbba8.com
 0.0.0.0 bbcc.yxlady.com
 :: bbcc.yxlady.com
 0.0.0.0 bbdm.051661.com
@@ -11272,6 +11266,8 @@ ff02::3 ip6-allhosts
 :: beatchucknorris.com
 0.0.0.0 beatingbytes.com
 :: beatingbytes.com
+0.0.0.0 beatriceeatr.com
+:: beatriceeatr.com
 0.0.0.0 beaverads.com
 :: beaverads.com
 0.0.0.0 beavertron.com
@@ -13812,8 +13808,6 @@ ff02::3 ip6-allhosts
 :: ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cchfjz.com
 :: cchfjz.com
-0.0.0.0 ccji.cc
-:: ccji.cc
 0.0.0.0 ccmdgg.com
 :: ccmdgg.com
 0.0.0.0 cconseent.info
@@ -14534,8 +14528,6 @@ ff02::3 ip6-allhosts
 :: chemicall.club
 0.0.0.0 chengaib.net
 :: chengaib.net
-0.0.0.0 chengdahdf.cn
-:: chengdahdf.cn
 0.0.0.0 chenggao.cn
 :: chenggao.cn
 0.0.0.0 chengruide.com
@@ -23610,6 +23602,8 @@ ff02::3 ip6-allhosts
 :: fail24h.com
 0.0.0.0 failoglo.com
 :: failoglo.com
+0.0.0.0 faindianship.club
+:: faindianship.club
 0.0.0.0 fair.sogou.com
 :: fair.sogou.com
 0.0.0.0 fairadsnetwork.com
@@ -27724,6 +27718,8 @@ ff02::3 ip6-allhosts
 :: he7ll.com
 0.0.0.0 headbidder.net
 :: headbidder.net
+0.0.0.0 headedtamhemp.com
+:: headedtamhemp.com
 0.0.0.0 header.tech
 :: header.tech
 0.0.0.0 headerlift.com
@@ -31658,8 +31654,6 @@ ff02::3 ip6-allhosts
 :: jintonghua.com
 0.0.0.0 jinzhao99.com
 :: jinzhao99.com
-0.0.0.0 jioder3e.cn
-:: jioder3e.cn
 0.0.0.0 jipinapi.panqis.cn
 :: jipinapi.panqis.cn
 0.0.0.0 jira.vpon.com
@@ -32956,8 +32950,6 @@ ff02::3 ip6-allhosts
 :: kj2hy.com
 0.0.0.0 kj733.com
 :: kj733.com
-0.0.0.0 kjg.shfengren.com
-:: kjg.shfengren.com
 0.0.0.0 kjgen.com
 :: kjgen.com
 0.0.0.0 kjhfy.com
@@ -33560,8 +33552,6 @@ ff02::3 ip6-allhosts
 :: last2.cn
 0.0.0.0 latest-news.life
 :: latest-news.life
-0.0.0.0 latestpromotions.club
-:: latestpromotions.club
 0.0.0.0 lationwordsi.club
 :: lationwordsi.club
 0.0.0.0 lattemptweh.club
@@ -35444,8 +35434,6 @@ ff02::3 ip6-allhosts
 :: m.168ey.com
 0.0.0.0 m.169bj.cn
 :: m.169bj.cn
-0.0.0.0 m.181mob.com
-:: m.181mob.com
 0.0.0.0 m.20mao.com
 :: m.20mao.com
 0.0.0.0 m.23txt.com
@@ -37600,6 +37588,8 @@ ff02::3 ip6-allhosts
 :: metrika.ron.si
 0.0.0.0 metriweb.be
 :: metriweb.be
+0.0.0.0 metrix.emagister.com
+:: metrix.emagister.com
 0.0.0.0 metrixlablw.customers.luna.net
 :: metrixlablw.customers.luna.net
 0.0.0.0 meubonus.com
@@ -38144,6 +38134,8 @@ ff02::3 ip6-allhosts
 :: mmcc.yxlady.com
 0.0.0.0 mmccint.com
 :: mmccint.com
+0.0.0.0 mmeexisten.club
+:: mmeexisten.club
 0.0.0.0 mmfusheng.com
 :: mmfusheng.com
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
@@ -42796,6 +42788,8 @@ ff02::3 ip6-allhosts
 :: paula-secundinus.com
 0.0.0.0 paveherniaell.com
 :: paveherniaell.com
+0.0.0.0 pavementinhumanabstain.com
+:: pavementinhumanabstain.com
 0.0.0.0 paveralleycoun.info
 :: paveralleycoun.info
 0.0.0.0 paxmedia.net
@@ -59078,6 +59072,8 @@ ff02::3 ip6-allhosts
 :: ufraton.com
 0.0.0.0 ufstone.com
 :: ufstone.com
+0.0.0.0 ufuuwfdwsayls.com
+:: ufuuwfdwsayls.com
 0.0.0.0 ug.snssdk.com
 :: ug.snssdk.com
 0.0.0.0 ugc.moji001.com
@@ -62126,6 +62122,8 @@ ff02::3 ip6-allhosts
 :: wgpartner.com
 0.0.0.0 wgqakonrahgprc.com
 :: wgqakonrahgprc.com
+0.0.0.0 wgrjizeaimbxx.com
+:: wgrjizeaimbxx.com
 0.0.0.0 wh5kb0u4.com
 :: wh5kb0u4.com
 0.0.0.0 whadaupo.net
@@ -67204,8 +67202,6 @@ ff02::3 ip6-allhosts
 :: yifuls.com
 0.0.0.0 yigemi.com
 :: yigemi.com
-0.0.0.0 yihegangtie.com
-:: yihegangtie.com
 0.0.0.0 yihubaiying.com
 :: yihubaiying.com
 0.0.0.0 yiiwoo.com
