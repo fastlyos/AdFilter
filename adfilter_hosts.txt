@@ -1,11 +1,11 @@
-# Checksum: MTYwMDM0NDI5NAo=
+# Checksum: MTYwMDM1NTAyNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200917-4
-# TimeUpdated: 2020-09-17T12:04:54+00:00
+# Version: 1.6.1-20200917-5
+# TimeUpdated: 2020-09-17T15:03:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34352
+# Total: 34361
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3258,6 +3258,8 @@ ff02::3 ip6-allhosts
 :: a26d31d5d6986cbe.com
 0.0.0.0 a2b108bd2461b12e.com
 :: a2b108bd2461b12e.com
+0.0.0.0 a2c653c4d145fa5f96a.com
+:: a2c653c4d145fa5f96a.com
 0.0.0.0 a2dfp.net
 :: a2dfp.net
 0.0.0.0 a2pub.com
@@ -10400,8 +10402,6 @@ ff02::3 ip6-allhosts
 :: ba.ccm2.net
 0.0.0.0 ba.kioskea.net
 :: ba.kioskea.net
-0.0.0.0 ba.n3wz6.cn
-:: ba.n3wz6.cn
 0.0.0.0 ba6af3a0099c6cb9eb5.com
 :: ba6af3a0099c6cb9eb5.com
 0.0.0.0 bab.frb.io
@@ -17086,6 +17086,8 @@ ff02::3 ip6-allhosts
 :: cpalock.com
 0.0.0.0 cpamatik.com
 :: cpamatik.com
+0.0.0.0 cpanuk.com
+:: cpanuk.com
 0.0.0.0 cpasmrttds.info
 :: cpasmrttds.info
 0.0.0.0 cpayard.com
@@ -19932,6 +19934,8 @@ ff02::3 ip6-allhosts
 :: divolution.com
 0.0.0.0 diwamugh.net
 :: diwamugh.net
+0.0.0.0 diwsvdnmpn.com
+:: diwsvdnmpn.com
 0.0.0.0 diwuyu.com
 :: diwuyu.com
 0.0.0.0 diy.doumaibiji.cn
@@ -20610,6 +20614,8 @@ ff02::3 ip6-allhosts
 :: dqhi3ea93ztgv.cloudfront.net
 0.0.0.0 dqldmtpu.com
 :: dqldmtpu.com
+0.0.0.0 dqsft.com
+:: dqsft.com
 0.0.0.0 dqvckdfaa.com
 :: dqvckdfaa.com
 0.0.0.0 dr3k6qonw2kee.cloudfront.net
@@ -25412,6 +25418,8 @@ ff02::3 ip6-allhosts
 :: gagacon.com
 0.0.0.0 gagd.gucheng.com
 :: gagd.gucheng.com
+0.0.0.0 gagkf.top
+:: gagkf.top
 0.0.0.0 gagnibcan.com
 :: gagnibcan.com
 0.0.0.0 gainmoneyfast.com
@@ -28656,6 +28664,8 @@ ff02::3 ip6-allhosts
 :: hpr.outbrain.com
 0.0.0.0 hprofits.com
 :: hprofits.com
+0.0.0.0 hpsszw.cn
+:: hpsszw.cn
 0.0.0.0 hpwdohgicpmi.com
 :: hpwdohgicpmi.com
 0.0.0.0 hpyrdr.com
@@ -29274,6 +29284,8 @@ ff02::3 ip6-allhosts
 :: ib.adnxs.com
 0.0.0.0 ib.snssdk.com
 :: ib.snssdk.com
+0.0.0.0 ib00.cn
+:: ib00.cn
 0.0.0.0 ib11.go2yd.com
 :: ib11.go2yd.com
 0.0.0.0 ib1oyteqqn.com
@@ -40626,8 +40638,6 @@ ff02::3 ip6-allhosts
 :: nonerr.com
 0.0.0.0 nongsalei.com
 :: nongsalei.com
-0.0.0.0 nongzhifu.cn
-:: nongzhifu.cn
 0.0.0.0 nonkads.com
 :: nonkads.com
 0.0.0.0 nonstoppartner.de
@@ -42280,6 +42290,8 @@ ff02::3 ip6-allhosts
 :: ozonemedia.com
 0.0.0.0 ozora.work
 :: ozora.work
+0.0.0.0 ozsriqitazi.com
+:: ozsriqitazi.com
 0.0.0.0 ozugzufdxniu.com
 :: ozugzufdxniu.com
 0.0.0.0 p-l.play.aiseet.atianqi.com
@@ -43402,6 +43414,8 @@ ff02::3 ip6-allhosts
 :: phpstat.com
 0.0.0.0 phsism.com
 :: phsism.com
+0.0.0.0 phtfydtpxkdhmo.com
+:: phtfydtpxkdhmo.com
 0.0.0.0 phx-2.xmrpool.net
 :: phx-2.xmrpool.net
 0.0.0.0 phx-3.xmrpool.net
@@ -58202,6 +58216,8 @@ ff02::3 ip6-allhosts
 :: transactionale.com
 0.0.0.0 transardugde.club
 :: transardugde.club
+0.0.0.0 trapasol.com
+:: trapasol.com
 0.0.0.0 trapothere.club
 :: trapothere.club
 0.0.0.0 trappist-1d.com
@@ -59970,6 +59986,8 @@ ff02::3 ip6-allhosts
 :: uuu.pctowap.com
 0.0.0.0 uuvm.pornpics.com
 :: uuvm.pornpics.com
+0.0.0.0 uuwhg.com
+:: uuwhg.com
 0.0.0.0 uux79.com
 :: uux79.com
 0.0.0.0 uuzu.com
