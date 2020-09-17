@@ -1,11 +1,11 @@
-# Checksum: MTYwMDI5MDIxNgo=
+# Checksum: MTYwMDMwMTMxOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200916-7
-# TimeUpdated: 2020-09-16T21:03:36+00:00
+# Version: 1.6.1-20200917-0
+# TimeUpdated: 2020-09-17T00:08:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34299
+# Total: 34302
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10246,6 +10246,8 @@ ff02::3 ip6-allhosts
 :: b.ndtzx.com
 0.0.0.0 b.nvrentao8.com
 :: b.nvrentao8.com
+0.0.0.0 b.photobucket.com
+:: b.photobucket.com
 0.0.0.0 b.polkoa.com
 :: b.polkoa.com
 0.0.0.0 b.pornoxo.com
@@ -31136,6 +31138,8 @@ ff02::3 ip6-allhosts
 :: iwx.mail.qq.com
 0.0.0.0 ixiaa.com
 :: ixiaa.com
+0.0.0.0 ixkkhacwdxpgpt.com
+:: ixkkhacwdxpgpt.com
 0.0.0.0 ixnp.com
 :: ixnp.com
 0.0.0.0 ixpub.net
@@ -63320,6 +63324,8 @@ ff02::3 ip6-allhosts
 :: wtcpm.com
 0.0.0.0 wtdome.com
 :: wtdome.com
+0.0.0.0 wthormvztq.com
+:: wthormvztq.com
 0.0.0.0 wtk.db.com
 :: wtk.db.com
 0.0.0.0 wtm.monitoringservice.co
