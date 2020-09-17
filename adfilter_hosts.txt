@@ -1,11 +1,11 @@
-# Checksum: MTYwMDMwMTMxOQo=
+# Checksum: MTYwMDMxMTgzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200917-0
-# TimeUpdated: 2020-09-17T00:08:39+00:00
+# Version: 1.6.1-20200917-1
+# TimeUpdated: 2020-09-17T03:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34302
+# Total: 34312
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1898,6 +1898,8 @@ ff02::3 ip6-allhosts
 :: 60608787.com
 0.0.0.0 6068a17eed25.com
 :: 6068a17eed25.com
+0.0.0.0 606w.cn
+:: 606w.cn
 0.0.0.0 6071.com
 :: 6071.com
 0.0.0.0 609623.com
@@ -3366,8 +3368,6 @@ ff02::3 ip6-allhosts
 :: aa.scw0.com
 0.0.0.0 aa.sdo.com
 :: aa.sdo.com
-0.0.0.0 aa.shgansheng.cn
-:: aa.shgansheng.cn
 0.0.0.0 aa.voice2page.com
 :: aa.voice2page.com
 0.0.0.0 aa.zldh123.com
@@ -6822,6 +6822,8 @@ ff02::3 ip6-allhosts
 :: aero.bankofamerica.com
 0.0.0.0 aeros02.tk
 :: aeros02.tk
+0.0.0.0 aeros05.tk
+:: aeros05.tk
 0.0.0.0 aeros08.tk
 :: aeros08.tk
 0.0.0.0 aerserv.com
@@ -10754,8 +10756,6 @@ ff02::3 ip6-allhosts
 :: bapkt.com
 0.0.0.0 bapres.cn
 :: bapres.cn
-0.0.0.0 baptisttop1000.com
-:: baptisttop1000.com
 0.0.0.0 bar.baidu.com
 :: bar.baidu.com
 0.0.0.0 baremetrics.com
@@ -10848,6 +10848,8 @@ ff02::3 ip6-allhosts
 :: bb2.ifeng.com
 0.0.0.0 bb475d71fa0b1b2.com
 :: bb475d71fa0b1b2.com
+0.0.0.0 bbba8.com
+:: bbba8.com
 0.0.0.0 bbcc.yxlady.com
 :: bbcc.yxlady.com
 0.0.0.0 bbdm.051661.com
@@ -12874,6 +12876,8 @@ ff02::3 ip6-allhosts
 :: bwb101.goo.ne.jp
 0.0.0.0 bwinpartypartners.com
 :: bwinpartypartners.com
+0.0.0.0 bwoipfjnvbw.com
+:: bwoipfjnvbw.com
 0.0.0.0 bwp.theinsider.com.com
 :: bwp.theinsider.com.com
 0.0.0.0 bwuqqnxubseq.com
@@ -17536,6 +17540,8 @@ ff02::3 ip6-allhosts
 :: ctionlearlyfe.club
 0.0.0.0 ctiontouritysh.club
 :: ctiontouritysh.club
+0.0.0.0 ctivesmuha.club
+:: ctivesmuha.club
 0.0.0.0 ctivesprepaired.club
 :: ctivesprepaired.club
 0.0.0.0 ctl.mobitrack.co.kr
@@ -19160,6 +19166,8 @@ ff02::3 ip6-allhosts
 :: ddns.name
 0.0.0.0 ddomm.com
 :: ddomm.com
+0.0.0.0 ddskyuu.com
+:: ddskyuu.com
 0.0.0.0 ddvbjehruuj5y.cloudfront.net
 :: ddvbjehruuj5y.cloudfront.net
 0.0.0.0 ddvfoj5yrl2oi.cloudfront.net
@@ -21438,8 +21446,6 @@ ff02::3 ip6-allhosts
 :: e70123.com
 0.0.0.0 e7015.com
 :: e7015.com
-0.0.0.0 e704.net
-:: e704.net
 0.0.0.0 e705.net
 :: e705.net
 0.0.0.0 e706.net
@@ -31380,8 +31386,6 @@ ff02::3 ip6-allhosts
 :: jc.bubbleandyeson.com
 0.0.0.0 jc.charlesfc.com
 :: jc.charlesfc.com
-0.0.0.0 jc.lgtianma.cn
-:: jc.lgtianma.cn
 0.0.0.0 jc.szjianxin.net
 :: jc.szjianxin.net
 0.0.0.0 jc.vtqifk86868.cn
@@ -31654,6 +31658,8 @@ ff02::3 ip6-allhosts
 :: jintonghua.com
 0.0.0.0 jinzhao99.com
 :: jinzhao99.com
+0.0.0.0 jioder3e.cn
+:: jioder3e.cn
 0.0.0.0 jipinapi.panqis.cn
 :: jipinapi.panqis.cn
 0.0.0.0 jira.vpon.com
@@ -32950,6 +32956,8 @@ ff02::3 ip6-allhosts
 :: kj2hy.com
 0.0.0.0 kj733.com
 :: kj733.com
+0.0.0.0 kjg.shfengren.com
+:: kjg.shfengren.com
 0.0.0.0 kjgen.com
 :: kjgen.com
 0.0.0.0 kjhfy.com
@@ -33054,8 +33062,6 @@ ff02::3 ip6-allhosts
 :: kn.awyys.com
 0.0.0.0 kn.bjbrtc.com
 :: kn.bjbrtc.com
-0.0.0.0 kn.dyscsm.cn
-:: kn.dyscsm.cn
 0.0.0.0 kn.hnfxty.cn
 :: kn.hnfxty.cn
 0.0.0.0 kn.qhdfxkj.com
@@ -33534,6 +33540,8 @@ ff02::3 ip6-allhosts
 :: large-format.net
 0.0.0.0 larkashivy.work
 :: larkashivy.work
+0.0.0.0 larmcritishpo.club
+:: larmcritishpo.club
 0.0.0.0 larrenpicture.pro
 :: larrenpicture.pro
 0.0.0.0 larrenworld.pro
@@ -33552,6 +33560,8 @@ ff02::3 ip6-allhosts
 :: last2.cn
 0.0.0.0 latest-news.life
 :: latest-news.life
+0.0.0.0 latestpromotions.club
+:: latestpromotions.club
 0.0.0.0 lationwordsi.club
 :: lationwordsi.club
 0.0.0.0 lattemptweh.club
@@ -35434,6 +35444,8 @@ ff02::3 ip6-allhosts
 :: m.168ey.com
 0.0.0.0 m.169bj.cn
 :: m.169bj.cn
+0.0.0.0 m.181mob.com
+:: m.181mob.com
 0.0.0.0 m.20mao.com
 :: m.20mao.com
 0.0.0.0 m.23txt.com
@@ -44038,6 +44050,8 @@ ff02::3 ip6-allhosts
 :: plotrabbit.com
 0.0.0.0 ploy.batmobi.net
 :: ploy.batmobi.net
+0.0.0.0 plqakqvku.com
+:: plqakqvku.com
 0.0.0.0 plrjs.com
 :: plrjs.com
 0.0.0.0 plsdrct2.me
@@ -55626,6 +55640,8 @@ ff02::3 ip6-allhosts
 :: tcad.wedolook.com
 0.0.0.0 tcadops.ca
 :: tcadops.ca
+0.0.0.0 tcatkrccxgc.com
+:: tcatkrccxgc.com
 0.0.0.0 tcbox.baidu.com
 :: tcbox.baidu.com
 0.0.0.0 tchamomil.club
@@ -62100,8 +62116,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63324,6 +63338,8 @@ ff02::3 ip6-allhosts
 :: wtcpm.com
 0.0.0.0 wtdome.com
 :: wtdome.com
+0.0.0.0 wtgkustlgat.com
+:: wtgkustlgat.com
 0.0.0.0 wthormvztq.com
 :: wthormvztq.com
 0.0.0.0 wtk.db.com
@@ -67188,6 +67204,8 @@ ff02::3 ip6-allhosts
 :: yifuls.com
 0.0.0.0 yigemi.com
 :: yigemi.com
+0.0.0.0 yihegangtie.com
+:: yihegangtie.com
 0.0.0.0 yihubaiying.com
 :: yihubaiying.com
 0.0.0.0 yiiwoo.com
@@ -68094,6 +68112,8 @@ ff02::3 ip6-allhosts
 :: zgyemy.com
 0.0.0.0 zgyiyi.com
 :: zgyiyi.com
+0.0.0.0 zgyryt.com
+:: zgyryt.com
 0.0.0.0 zgzxs.weathercn.com
 :: zgzxs.weathercn.com
 0.0.0.0 zh1144.com
