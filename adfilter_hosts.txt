@@ -1,11 +1,11 @@
-# Checksum: MTYwMDQ0MTQ0MQo=
+# Checksum: MTYwMDQ1MjQxNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200918-5
-# TimeUpdated: 2020-09-18T15:04:01+00:00
+# Version: 1.6.1-20200918-6
+# TimeUpdated: 2020-09-18T18:06:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34430
+# Total: 34438
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -152,6 +152,8 @@ ff02::3 ip6-allhosts
 :: 07346e971b1ec7f.com
 0.0.0.0 073c0cec65916314a.com
 :: 073c0cec65916314a.com
+0.0.0.0 0755man.cn
+:: 0755man.cn
 0.0.0.0 0756j.com
 :: 0756j.com
 0.0.0.0 0796gou.com
@@ -2812,6 +2814,8 @@ ff02::3 ip6-allhosts
 :: 9b13c1c151f9664a73.com
 0.0.0.0 9buo.com
 :: 9buo.com
+0.0.0.0 9c40a04e9732e6a6.com
+:: 9c40a04e9732e6a6.com
 0.0.0.0 9c690ac2bcb.com
 :: 9c690ac2bcb.com
 0.0.0.0 9cd76b4462bb.com
@@ -5560,6 +5564,8 @@ ff02::3 ip6-allhosts
 :: ads-trk.vidible.tv
 0.0.0.0 ads-union.jd.com
 :: ads-union.jd.com
+0.0.0.0 ads-v-darwin.hulustream.com
+:: ads-v-darwin.hulustream.com
 0.0.0.0 ads-video-qc.xhscdn.com
 :: ads-video-qc.xhscdn.com
 0.0.0.0 ads.1mobile.com
@@ -6832,8 +6838,6 @@ ff02::3 ip6-allhosts
 :: aero.bankofamerica.com
 0.0.0.0 aeros02.tk
 :: aeros02.tk
-0.0.0.0 aeros08.tk
-:: aeros08.tk
 0.0.0.0 aerserv.com
 :: aerserv.com
 0.0.0.0 aes01.com
@@ -7320,6 +7324,8 @@ ff02::3 ip6-allhosts
 :: aimrawwas.site
 0.0.0.0 aimtell.com
 :: aimtell.com
+0.0.0.0 aimto.cn
+:: aimto.cn
 0.0.0.0 ainedprospe.club
 :: ainedprospe.club
 0.0.0.0 aintinuumdelos.com
@@ -13826,8 +13832,6 @@ ff02::3 ip6-allhosts
 :: cc599.com
 0.0.0.0 cca.mob.com
 :: cca.mob.com
-0.0.0.0 ccb.uncle-ad.com
-:: ccb.uncle-ad.com
 0.0.0.0 ccc.x.jd.com
 :: ccc.x.jd.com
 0.0.0.0 cccccd.com
@@ -14710,8 +14714,6 @@ ff02::3 ip6-allhosts
 :: chystechagre.pro
 0.0.0.0 ci-web.cn
 :: ci-web.cn
-0.0.0.0 ci0s.i4h7md.cn
-:: ci0s.i4h7md.cn
 0.0.0.0 cialundertain.fun
 :: cialundertain.fun
 0.0.0.0 cibleclick.com
@@ -21980,6 +21982,8 @@ ff02::3 ip6-allhosts
 :: eeftordu.net
 0.0.0.0 eeg.gmuqa.cn
 :: eeg.gmuqa.cn
+0.0.0.0 eegjpwmi.com
+:: eegjpwmi.com
 0.0.0.0 eegnacou.com
 :: eegnacou.com
 0.0.0.0 eegputuwclsvo.com
@@ -27248,6 +27252,8 @@ ff02::3 ip6-allhosts
 :: gxordgtvjr.com
 0.0.0.0 gxqrjjcsyh.com
 :: gxqrjjcsyh.com
+0.0.0.0 gxyrnjtgtwll.com
+:: gxyrnjtgtwll.com
 0.0.0.0 gxzjzg.com
 :: gxzjzg.com
 0.0.0.0 gybdtg.com
@@ -31240,6 +31246,8 @@ ff02::3 ip6-allhosts
 :: ixpub.net
 0.0.0.0 ixspublic.com
 :: ixspublic.com
+0.0.0.0 ixueiomwi.com
+:: ixueiomwi.com
 0.0.0.0 ixxrjygfpzfty.com
 :: ixxrjygfpzfty.com
 0.0.0.0 iyaos.com
@@ -56558,6 +56566,8 @@ ff02::3 ip6-allhosts
 :: ticklesign.com
 0.0.0.0 ticrite.com
 :: ticrite.com
+0.0.0.0 ticrowdingne.club
+:: ticrowdingne.club
 0.0.0.0 tidafors.xyz
 :: tidafors.xyz
 0.0.0.0 tidaltv.com
@@ -61746,6 +61756,8 @@ ff02::3 ip6-allhosts
 :: watson.microsoft.com
 0.0.0.0 watson.ppe.telemetry.microsoft.com
 :: watson.ppe.telemetry.microsoft.com
+0.0.0.0 waucyeeziiiyul.com
+:: waucyeeziiiyul.com
 0.0.0.0 waudit.cz
 :: waudit.cz
 0.0.0.0 waugeboa.net
@@ -62332,6 +62344,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -67854,6 +67868,8 @@ ff02::3 ip6-allhosts
 :: ytunion.com
 0.0.0.0 ytxj.mercury.sogou.com
 :: ytxj.mercury.sogou.com
+0.0.0.0 ytxuslppbj.com
+:: ytxuslppbj.com
 0.0.0.0 ytybl.com
 :: ytybl.com
 0.0.0.0 yu0123456.com
