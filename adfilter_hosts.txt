@@ -1,11 +1,11 @@
-# Checksum: MTYwMDM4NzczNwo=
+# Checksum: MTYwMDM5ODIyNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200918-0
-# TimeUpdated: 2020-09-18T00:08:57+00:00
+# Version: 1.6.1-20200918-1
+# TimeUpdated: 2020-09-18T03:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34369
+# Total: 34372
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3594,6 +3594,8 @@ ff02::3 ip6-allhosts
 :: abstractedamount.com
 0.0.0.0 absurdapple.com
 :: absurdapple.com
+0.0.0.0 abt.etherscan.com
+:: abt.etherscan.com
 0.0.0.0 abtrcking.com
 :: abtrcking.com
 0.0.0.0 abtshield.com
@@ -10950,6 +10952,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -16050,6 +16054,8 @@ ff02::3 ip6-allhosts
 :: com.econa.com
 0.0.0.0 com.hunlaife.cn
 :: com.hunlaife.cn
+0.0.0.0 com5.com.cn
+:: com5.com.cn
 0.0.0.0 combine.urbanairship.com
 :: combine.urbanairship.com
 0.0.0.0 combitly.com
@@ -29696,6 +29702,8 @@ ff02::3 ip6-allhosts
 :: images.ad7.com
 0.0.0.0 images.avsmt.cn
 :: images.avsmt.cn
+0.0.0.0 images.ccqxqc.com
+:: images.ccqxqc.com
 0.0.0.0 images.chinaz.com
 :: images.chinaz.com
 0.0.0.0 images.dayoo.com
@@ -31804,6 +31812,8 @@ ff02::3 ip6-allhosts
 :: jmxlaser.com
 0.0.0.0 jndczg.com
 :: jndczg.com
+0.0.0.0 jnnezwibrkwpz.com
+:: jnnezwibrkwpz.com
 0.0.0.0 jnrsjm.com
 :: jnrsjm.com
 0.0.0.0 jnyngg.cn
@@ -32878,8 +32888,6 @@ ff02::3 ip6-allhosts
 :: kfuih.cn
 0.0.0.0 kg8l81yh7vnf.com
 :: kg8l81yh7vnf.com
-0.0.0.0 kg962.cn
-:: kg962.cn
 0.0.0.0 kgmobilestat.kugou.com
 :: kgmobilestat.kugou.com
 0.0.0.0 kgmobilestatbak.kugou.com
@@ -41514,6 +41522,8 @@ ff02::3 ip6-allhosts
 :: omgmta.qq.com
 0.0.0.0 omgmta1.qq.com
 :: omgmta1.qq.com
+0.0.0.0 omgnjvrjgpeg.com
+:: omgnjvrjgpeg.com
 0.0.0.0 omiki.com
 :: omiki.com
 0.0.0.0 omine.org
@@ -47310,8 +47320,6 @@ ff02::3 ip6-allhosts
 :: reforeightolikm.site
 0.0.0.0 refresh-js.bitbucket.io
 :: refresh-js.bitbucket.io
-0.0.0.0 refreshnerer27.info
-:: refreshnerer27.info
 0.0.0.0 reftagger.com
 :: reftagger.com
 0.0.0.0 refunevent.com
@@ -58086,6 +58094,8 @@ ff02::3 ip6-allhosts
 :: traffic4u.nl
 0.0.0.0 trafficadbar.com
 :: trafficadbar.com
+0.0.0.0 trafficbarads.com
+:: trafficbarads.com
 0.0.0.0 trafficbass.com
 :: trafficbass.com
 0.0.0.0 trafficbroker.com
@@ -62216,8 +62226,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -66218,6 +66226,8 @@ ff02::3 ip6-allhosts
 :: xg084mgkfsfk.com
 0.0.0.0 xgcsr.com
 :: xgcsr.com
+0.0.0.0 xgievxfxhy.com
+:: xgievxfxhy.com
 0.0.0.0 xgmlmmulciz.com
 :: xgmlmmulciz.com
 0.0.0.0 xgogi.com
@@ -66390,6 +66400,8 @@ ff02::3 ip6-allhosts
 :: xj.zjhim.com
 0.0.0.0 xji.qwxcs.com
 :: xji.qwxcs.com
+0.0.0.0 xjjkjo.pw
+:: xjjkjo.pw
 0.0.0.0 xjq.jxmqkj.com
 :: xjq.jxmqkj.com
 0.0.0.0 xjtxcj.com
@@ -66438,8 +66450,6 @@ ff02::3 ip6-allhosts
 :: xlylqx.com
 0.0.0.0 xm0siulufost.com
 :: xm0siulufost.com
-0.0.0.0 xm223.cn
-:: xm223.cn
 0.0.0.0 xm9178.com
 :: xm9178.com
 0.0.0.0 xmas-xmas-wow.com
@@ -68286,8 +68296,6 @@ ff02::3 ip6-allhosts
 :: zhjfad.com
 0.0.0.0 zhlala.com
 :: zhlala.com
-0.0.0.0 zhongchengzp.com
-:: zhongchengzp.com
 0.0.0.0 zhongchouyan.com
 :: zhongchouyan.com
 0.0.0.0 zhongdoulicai.com
@@ -68624,8 +68632,6 @@ ff02::3 ip6-allhosts
 :: zuphekry.net
 0.0.0.0 zuszohaosnrssk.com
 :: zuszohaosnrssk.com
-0.0.0.0 zutodu.cn
-:: zutodu.cn
 0.0.0.0 zuzab.com
 :: zuzab.com
 0.0.0.0 zvs1.cnzz.com
