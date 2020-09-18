@@ -1,11 +1,11 @@
-# Checksum: MTYwMDM5ODIyNgo=
+# Checksum: MTYwMDQwOTExMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200918-1
-# TimeUpdated: 2020-09-18T03:03:46+00:00
+# Version: 1.6.1-20200918-2
+# TimeUpdated: 2020-09-18T06:05:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34372
+# Total: 34407
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -588,6 +588,8 @@ ff02::3 ip6-allhosts
 :: 15.taboola.com
 0.0.0.0 1503.net
 :: 1503.net
+0.0.0.0 152.wxsunrise.cn
+:: 152.wxsunrise.cn
 0.0.0.0 15257dddaccde96.com
 :: 15257dddaccde96.com
 0.0.0.0 152media.com
@@ -634,6 +636,8 @@ ff02::3 ip6-allhosts
 :: 17.huanqiu.com
 0.0.0.0 170yy.com
 :: 170yy.com
+0.0.0.0 171.wxsunrise.cn
+:: 171.wxsunrise.cn
 0.0.0.0 1711811.com
 :: 1711811.com
 0.0.0.0 17173im.allyes.com
@@ -2430,6 +2434,8 @@ ff02::3 ip6-allhosts
 :: 8292918saturday.sgbbc.cn
 0.0.0.0 83.locksmaker.com.cn
 :: 83.locksmaker.com.cn
+0.0.0.0 83.wxsunrise.cn
+:: 83.wxsunrise.cn
 0.0.0.0 8315.cn
 :: 8315.cn
 0.0.0.0 8368661.com
@@ -2932,6 +2938,8 @@ ff02::3 ip6-allhosts
 :: a.adtng.com
 0.0.0.0 a.alimama.cn
 :: a.alimama.cn
+0.0.0.0 a.amghais.cn
+:: a.amghais.cn
 0.0.0.0 a.api.ad-locus.com
 :: a.api.ad-locus.com
 0.0.0.0 a.appbaqend.com
@@ -3536,6 +3544,8 @@ ff02::3 ip6-allhosts
 :: abie25.top
 0.0.0.0 abie9.top
 :: abie9.top
+0.0.0.0 abjusouft.com
+:: abjusouft.com
 0.0.0.0 ablehed.pro
 :: ablehed.pro
 0.0.0.0 ablen03.tk
@@ -11160,6 +11170,8 @@ ff02::3 ip6-allhosts
 :: bdyxzx.com
 0.0.0.0 be-notified.com
 :: be-notified.com
+0.0.0.0 be.sinbinchina.cn
+:: be.sinbinchina.cn
 0.0.0.0 beabsolom.com
 :: beabsolom.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
@@ -12402,6 +12414,8 @@ ff02::3 ip6-allhosts
 :: boyaidare.club
 0.0.0.0 boyalebut.site
 :: boyalebut.site
+0.0.0.0 boyceoyc.com
+:: boyceoyc.com
 0.0.0.0 boycottons.club
 :: boycottons.club
 0.0.0.0 boylesportsreklame.com
@@ -13084,6 +13098,8 @@ ff02::3 ip6-allhosts
 :: c.lalaxit.cn
 0.0.0.0 c.lattebank.com
 :: c.lattebank.com
+0.0.0.0 c.lbsbbw.cn
+:: c.lbsbbw.cn
 0.0.0.0 c.lianwangtech.com
 :: c.lianwangtech.com
 0.0.0.0 c.medialytics.com
@@ -13092,6 +13108,8 @@ ff02::3 ip6-allhosts
 :: c.mgid.com
 0.0.0.0 c.mightiger.net
 :: c.mightiger.net
+0.0.0.0 c.mipcdn.com
+:: c.mipcdn.com
 0.0.0.0 c.mnet-ad.net
 :: c.mnet-ad.net
 0.0.0.0 c.mobishu.com
@@ -13984,6 +14002,8 @@ ff02::3 ip6-allhosts
 :: cdn.jamcdn.pro
 0.0.0.0 cdn.jesgoo.com
 :: cdn.jesgoo.com
+0.0.0.0 cdn.jiujhzp.com
+:: cdn.jiujhzp.com
 0.0.0.0 cdn.komoona.com
 :: cdn.komoona.com
 0.0.0.0 cdn.krxd.net
@@ -14430,6 +14450,8 @@ ff02::3 ip6-allhosts
 :: chandlertreatment.com
 0.0.0.0 chanel.cgongxifacai.top
 :: chanel.cgongxifacai.top
+0.0.0.0 chanel.dgongxifacai.top
+:: chanel.dgongxifacai.top
 0.0.0.0 chanelets-aurning.com
 :: chanelets-aurning.com
 0.0.0.0 chanet.com.cn
@@ -15768,6 +15790,8 @@ ff02::3 ip6-allhosts
 :: code.fastclick.net
 0.0.0.0 code.fjhongou.com
 :: code.fjhongou.com
+0.0.0.0 code.hnxcdjk.com
+:: code.hnxcdjk.com
 0.0.0.0 code.hot-mob.com
 :: code.hot-mob.com
 0.0.0.0 code.kejet.com
@@ -17690,6 +17714,8 @@ ff02::3 ip6-allhosts
 :: cw.guominziben.com
 0.0.0.0 cwmlm.com
 :: cwmlm.com
+0.0.0.0 cworsbumjgbuc.com
+:: cworsbumjgbuc.com
 0.0.0.0 cwpush.com
 :: cwpush.com
 0.0.0.0 cws-cctv.conviva.com
@@ -21014,6 +21040,8 @@ ff02::3 ip6-allhosts
 :: dxe2.heip.fr
 0.0.0.0 dxkkb5tytkivf.cloudfront.net
 :: dxkkb5tytkivf.cloudfront.net
+0.0.0.0 dxkkixczpsdaw.com
+:: dxkkixczpsdaw.com
 0.0.0.0 dxmci.com
 :: dxmci.com
 0.0.0.0 dxp.baidu.com
@@ -22486,6 +22514,8 @@ ff02::3 ip6-allhosts
 :: eo.aaah.xyz
 0.0.0.0 eo.aaaw.xyz
 :: eo.aaaw.xyz
+0.0.0.0 eo.bigcooe.xyz
+:: eo.bigcooe.xyz
 0.0.0.0 eo.byjr899.top
 :: eo.byjr899.top
 0.0.0.0 eo.c7b06j.cn
@@ -22588,6 +22618,8 @@ ff02::3 ip6-allhosts
 :: epanr.com
 0.0.0.0 epeex.com
 :: epeex.com
+0.0.0.0 ependerevid.club
+:: ependerevid.club
 0.0.0.0 eperfectdata.com
 :: eperfectdata.com
 0.0.0.0 epernn.cn
@@ -29916,6 +29948,8 @@ ff02::3 ip6-allhosts
 :: img.yingshidiguo.cn
 0.0.0.0 img.yinhemining.cn
 :: img.yinhemining.cn
+0.0.0.0 img.yjegf.com
+:: img.yjegf.com
 0.0.0.0 img.ynwqls.com
 :: img.ynwqls.com
 0.0.0.0 img.yrxmr.com
@@ -31256,6 +31290,8 @@ ff02::3 ip6-allhosts
 :: j.microad.net
 0.0.0.0 j.mmtu.top
 :: j.mmtu.top
+0.0.0.0 j.qhjrcw.com
+:: j.qhjrcw.com
 0.0.0.0 j.qiqivv.com
 :: j.qiqivv.com
 0.0.0.0 j.qiqiww.com
@@ -32588,6 +32624,8 @@ ff02::3 ip6-allhosts
 :: jzt.jd.com
 0.0.0.0 k.85wa.cn
 :: k.85wa.cn
+0.0.0.0 k.ailefen.com
+:: k.ailefen.com
 0.0.0.0 k.cnsayo.com
 :: k.cnsayo.com
 0.0.0.0 k.ctsywy.com
@@ -36412,6 +36450,8 @@ ff02::3 ip6-allhosts
 :: m.zwda.com
 0.0.0.0 m.zwdu.com
 :: m.zwdu.com
+0.0.0.0 m.zzcm5.com
+:: m.zzcm5.com
 0.0.0.0 m.zzhangqing.top
 :: m.zzhangqing.top
 0.0.0.0 m001.monerise.com
@@ -38336,6 +38376,8 @@ ff02::3 ip6-allhosts
 :: mo.alibdm.xyz
 0.0.0.0 mo.baidu.com
 :: mo.baidu.com
+0.0.0.0 mo.bigcooe.xyz
+:: mo.bigcooe.xyz
 0.0.0.0 mo.byjr899.top
 :: mo.byjr899.top
 0.0.0.0 mo.c7b06j.cn
@@ -38898,6 +38940,8 @@ ff02::3 ip6-allhosts
 :: mpltrack.com
 0.0.0.0 mpmcash.com
 :: mpmcash.com
+0.0.0.0 mpmzqgkpavhhkt.com
+:: mpmzqgkpavhhkt.com
 0.0.0.0 mpnrs.com
 :: mpnrs.com
 0.0.0.0 mpp.vindicosuite.com
@@ -39220,6 +39264,8 @@ ff02::3 ip6-allhosts
 :: mupteekr.net
 0.0.0.0 muqson0kgr.com
 :: muqson0kgr.com
+0.0.0.0 murdenedo.club
+:: murdenedo.club
 0.0.0.0 murkymouse.online
 :: murkymouse.online
 0.0.0.0 murroliving.com.cn
@@ -41522,8 +41568,6 @@ ff02::3 ip6-allhosts
 :: omgmta.qq.com
 0.0.0.0 omgmta1.qq.com
 :: omgmta1.qq.com
-0.0.0.0 omgnjvrjgpeg.com
-:: omgnjvrjgpeg.com
 0.0.0.0 omiki.com
 :: omiki.com
 0.0.0.0 omine.org
@@ -45408,6 +45452,8 @@ ff02::3 ip6-allhosts
 :: public.app.autohome.com.cn
 0.0.0.0 public.porn.fr
 :: public.porn.fr
+0.0.0.0 public.wlbaike.com
+:: public.wlbaike.com
 0.0.0.0 publicgood.com
 :: publicgood.com
 0.0.0.0 publicidad.net
@@ -46132,6 +46178,8 @@ ff02::3 ip6-allhosts
 :: qel-qel-fie.com
 0.0.0.0 qelbvlacy.com
 :: qelbvlacy.com
+0.0.0.0 qelrpourxvvg.com
+:: qelrpourxvvg.com
 0.0.0.0 qenuo.com
 :: qenuo.com
 0.0.0.0 qerusedpastrong.info
@@ -46376,6 +46424,8 @@ ff02::3 ip6-allhosts
 :: qrlgcrzmbuy.com
 0.0.0.0 qrlsx.com
 :: qrlsx.com
+0.0.0.0 qs.lindanmiaoxiang.cn
+:: qs.lindanmiaoxiang.cn
 0.0.0.0 qs.qsmdeyz.cn
 :: qs.qsmdeyz.cn
 0.0.0.0 qs01.cn
@@ -46524,6 +46574,8 @@ ff02::3 ip6-allhosts
 :: qutyan8848.com
 0.0.0.0 quw18.com
 :: quw18.com
+0.0.0.0 qvwa7.xxllz.top
+:: qvwa7.xxllz.top
 0.0.0.0 qw.baidu.com
 :: qw.baidu.com
 0.0.0.0 qwerfdx.com
@@ -46670,6 +46722,8 @@ ff02::3 ip6-allhosts
 :: r6.mo.baidu.com
 0.0.0.0 r66net.com
 :: r66net.com
+0.0.0.0 r6t.b3wg2.cn
+:: r6t.b3wg2.cn
 0.0.0.0 r6ztccbkdrbi.com
 :: r6ztccbkdrbi.com
 0.0.0.0 r7e0zhv8.com
@@ -51954,6 +52008,8 @@ ff02::3 ip6-allhosts
 :: so.auto999.cn
 0.0.0.0 so.tsscnw.cn
 :: so.tsscnw.cn
+0.0.0.0 so6.b3wg2.cn
+:: so6.b3wg2.cn
 0.0.0.0 so9l.com
 :: so9l.com
 0.0.0.0 soa-vip-ssl.xunlei.com
@@ -60116,6 +60172,8 @@ ff02::3 ip6-allhosts
 :: v.l0yjow.cn
 0.0.0.0 v.lalaxit.cn
 :: v.lalaxit.cn
+0.0.0.0 v.lbsbbw.cn
+:: v.lbsbbw.cn
 0.0.0.0 v.lystrw.cn
 :: v.lystrw.cn
 0.0.0.0 v.movad.de
@@ -60228,6 +60286,8 @@ ff02::3 ip6-allhosts
 :: v2.reachmax.cn
 0.0.0.0 v2.res.log.hunantv.com
 :: v2.res.log.hunantv.com
+0.0.0.0 v2.thefatherofsalmon.com
+:: v2.thefatherofsalmon.com
 0.0.0.0 v2.uyan.cc
 :: v2.uyan.cc
 0.0.0.0 v2cigs.com
@@ -61558,6 +61618,8 @@ ff02::3 ip6-allhosts
 :: wap001.bytravel.cn
 0.0.0.0 wap0c.m.wenxuemi6.com
 :: wap0c.m.wenxuemi6.com
+0.0.0.0 wap2.laogu.wang
+:: wap2.laogu.wang
 0.0.0.0 wap3.ucweb.com
 :: wap3.ucweb.com
 0.0.0.0 wapadv.com
@@ -62226,6 +62288,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -62852,6 +62916,8 @@ ff02::3 ip6-allhosts
 :: wr.da.netease.com
 0.0.0.0 wr.yiyouliao.com
 :: wr.yiyouliao.com
+0.0.0.0 wr31.vip
+:: wr31.vip
 0.0.0.0 wranjeon.xyz
 :: wranjeon.xyz
 0.0.0.0 wrapper.lemde.fr
@@ -64646,6 +64712,8 @@ ff02::3 ip6-allhosts
 :: www.iscrv.com
 0.0.0.0 www.itsmyturn.nablabee.com
 :: www.itsmyturn.nablabee.com
+0.0.0.0 www.jacklm1.com
+:: www.jacklm1.com
 0.0.0.0 www.jacklm2.com
 :: www.jacklm2.com
 0.0.0.0 www.jagcn.com
@@ -65126,6 +65194,8 @@ ff02::3 ip6-allhosts
 :: www.ppoi.org
 0.0.0.0 www.predictivadvertising.com
 :: www.predictivadvertising.com
+0.0.0.0 www.prjslxhtx003.top
+:: www.prjslxhtx003.top
 0.0.0.0 www.pro.cn
 :: www.pro.cn
 0.0.0.0 www.proxy-ddsjfhkmnk.now.sh
