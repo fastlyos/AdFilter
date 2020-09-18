@@ -1,11 +1,11 @@
-# Checksum: MTYwMDQ1MjQxNgo=
+# Checksum: MTYwMDQ2MzAxMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200918-6
-# TimeUpdated: 2020-09-18T18:06:56+00:00
+# Version: 1.6.1-20200918-7
+# TimeUpdated: 2020-09-18T21:03:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34438
+# Total: 34437
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -166,6 +166,8 @@ ff02::3 ip6-allhosts
 :: 0851ok.com
 0.0.0.0 086186.com
 :: 086186.com
+0.0.0.0 0923csfsteibv12.xyz
+:: 0923csfsteibv12.xyz
 0.0.0.0 0926a687679d337e9d.com
 :: 0926a687679d337e9d.com
 0.0.0.0 0956228a2df97a.com
@@ -3560,8 +3562,6 @@ ff02::3 ip6-allhosts
 :: ablehed.pro
 0.0.0.0 ablen05.tk
 :: ablen05.tk
-0.0.0.0 ablen08.tk
-:: ablen08.tk
 0.0.0.0 ablen11.tk
 :: ablen11.tk
 0.0.0.0 ablenctionalle.info
@@ -7324,8 +7324,6 @@ ff02::3 ip6-allhosts
 :: aimrawwas.site
 0.0.0.0 aimtell.com
 :: aimtell.com
-0.0.0.0 aimto.cn
-:: aimto.cn
 0.0.0.0 ainedprospe.club
 :: ainedprospe.club
 0.0.0.0 aintinuumdelos.com
@@ -9700,8 +9698,6 @@ ff02::3 ip6-allhosts
 :: astrouble.club
 0.0.0.0 asumi.shinobi.jp
 :: asumi.shinobi.jp
-0.0.0.0 asuydisi.com
-:: asuydisi.com
 0.0.0.0 asvatskaymj.club
 :: asvatskaymj.club
 0.0.0.0 aswl.zjhim.com
@@ -14702,8 +14698,6 @@ ff02::3 ip6-allhosts
 :: chugagre.com
 0.0.0.0 chuhanweb.com
 :: chuhanweb.com
-0.0.0.0 chunfuxie.cn
-:: chunfuxie.cn
 0.0.0.0 chunhangmall.com
 :: chunhangmall.com
 0.0.0.0 churchasisou.site
@@ -22718,6 +22712,8 @@ ff02::3 ip6-allhosts
 :: ereportz.com
 0.0.0.0 ergs4.com
 :: ergs4.com
+0.0.0.0 eriesfrequen.club
+:: eriesfrequen.club
 0.0.0.0 erificyggw.com
 :: erificyggw.com
 0.0.0.0 eriniquep.club
@@ -51730,6 +51726,8 @@ ff02::3 ip6-allhosts
 :: slaveforgetfulsneak.com
 0.0.0.0 slavial.pro
 :: slavial.pro
+0.0.0.0 slb.tiangoutai.com
+:: slb.tiangoutai.com
 0.0.0.0 slb.upshengyi.com
 :: slb.upshengyi.com
 0.0.0.0 slectrumclarat.fun
