@@ -1,11 +1,11 @@
-# Checksum: MTYwMDQwOTExMwo=
+# Checksum: MTYwMDQxOTgyMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200918-2
-# TimeUpdated: 2020-09-18T06:05:13+00:00
+# Version: 1.6.1-20200918-3
+# TimeUpdated: 2020-09-18T09:03:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34407
+# Total: 34429
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -184,6 +184,8 @@ ff02::3 ip6-allhosts
 :: 0bc.top
 0.0.0.0 0c8a10b46fc6.com
 :: 0c8a10b46fc6.com
+0.0.0.0 0c8edcf8e7526.com
+:: 0c8edcf8e7526.com
 0.0.0.0 0cf40a2064ce2.com
 :: 0cf40a2064ce2.com
 0.0.0.0 0ci.top
@@ -780,6 +782,8 @@ ff02::3 ip6-allhosts
 :: 1phads.com
 0.0.0.0 1q2w3.website
 :: 1q2w3.website
+0.0.0.0 1re.re
+:: 1re.re
 0.0.0.0 1rkcd8exld.monster
 :: 1rkcd8exld.monster
 0.0.0.0 1rm.xyz
@@ -1980,6 +1984,8 @@ ff02::3 ip6-allhosts
 :: 6612152.cn
 0.0.0.0 6613167.cn
 :: 6613167.cn
+0.0.0.0 664gp.com
+:: 664gp.com
 0.0.0.0 6666349.com
 :: 6666349.com
 0.0.0.0 6669667.com
@@ -2006,6 +2012,8 @@ ff02::3 ip6-allhosts
 :: 6711.com
 0.0.0.0 6728812.com
 :: 6728812.com
+0.0.0.0 6788787.com
+:: 6788787.com
 0.0.0.0 6789.net
 :: 6789.net
 0.0.0.0 67frzna9e9.com
@@ -2038,6 +2046,8 @@ ff02::3 ip6-allhosts
 :: 6af461b907c5b.com
 0.0.0.0 6b357cda0f.com
 :: 6b357cda0f.com
+0.0.0.0 6b43edadf3c.com
+:: 6b43edadf3c.com
 0.0.0.0 6b5c418918ebb008cc6.com
 :: 6b5c418918ebb008cc6.com
 0.0.0.0 6bgaput9ullc.com
@@ -2182,6 +2192,8 @@ ff02::3 ip6-allhosts
 :: 7577.cc
 0.0.0.0 757a51ce62f.com
 :: 757a51ce62f.com
+0.0.0.0 757e3befaa.com
+:: 757e3befaa.com
 0.0.0.0 758c824671f4fc0.com
 :: 758c824671f4fc0.com
 0.0.0.0 75to.com
@@ -3556,8 +3568,6 @@ ff02::3 ip6-allhosts
 :: ablen06.tk
 0.0.0.0 ablen08.tk
 :: ablen08.tk
-0.0.0.0 ablen10.tk
-:: ablen10.tk
 0.0.0.0 ablen11.tk
 :: ablen11.tk
 0.0.0.0 ablenctionalle.info
@@ -7504,6 +7514,8 @@ ff02::3 ip6-allhosts
 :: aleailarm.com
 0.0.0.0 aleaimbuy.site
 :: aleaimbuy.site
+0.0.0.0 alefrfobkoxbgaf.com
+:: alefrfobkoxbgaf.com
 0.0.0.0 aleilu.com
 :: aleilu.com
 0.0.0.0 aleinvest.xyz
@@ -9472,6 +9484,8 @@ ff02::3 ip6-allhosts
 :: arthwhilearthu.info
 0.0.0.0 artneesrparkete.info
 :: artneesrparkete.info
+0.0.0.0 artpever.com
+:: artpever.com
 0.0.0.0 artsmalle.pro
 :: artsmalle.pro
 0.0.0.0 as-farm.com
@@ -10172,6 +10186,8 @@ ff02::3 ip6-allhosts
 :: ayggsmmb.com
 0.0.0.0 ayidaye.m.zwdu.com
 :: ayidaye.m.zwdu.com
+0.0.0.0 aymaypibp.com
+:: aymaypibp.com
 0.0.0.0 ayrovalcontain.info
 :: ayrovalcontain.info
 0.0.0.0 aysurgentlymisun.info
@@ -14402,8 +14418,6 @@ ff02::3 ip6-allhosts
 :: cgjfanun12on.com
 0.0.0.0 cgskqg.com
 :: cgskqg.com
-0.0.0.0 cguru.ga
-:: cguru.ga
 0.0.0.0 cgx68vtoprov.com
 :: cgx68vtoprov.com
 0.0.0.0 cgz0213.com
@@ -16226,8 +16240,6 @@ ff02::3 ip6-allhosts
 :: confiant.msn.com
 0.0.0.0 config-ltvp.inmobi.com
 :: config-ltvp.inmobi.com
-0.0.0.0 config-vvs.glomex.com
-:: config-vvs.glomex.com
 0.0.0.0 config.adview.cn
 :: config.adview.cn
 0.0.0.0 config.baofeng.net
@@ -19842,6 +19854,8 @@ ff02::3 ip6-allhosts
 :: dis.us.criteo.com
 0.0.0.0 disappenedy.site
 :: disappenedy.site
+0.0.0.0 disavowtwelve.com
+:: disavowtwelve.com
 0.0.0.0 discountryvc.club
 :: discountryvc.club
 0.0.0.0 discountwound.com
@@ -22022,6 +22036,8 @@ ff02::3 ip6-allhosts
 :: ef.opendsp.tanx.com
 0.0.0.0 ef867a1be4f83922.com
 :: ef867a1be4f83922.com
+0.0.0.0 ef916a8b9110.com
+:: ef916a8b9110.com
 0.0.0.0 ef9377.com
 :: ef9377.com
 0.0.0.0 efatik.me
@@ -22830,6 +22846,8 @@ ff02::3 ip6-allhosts
 :: esf397vsf1nk.com
 0.0.0.0 esfivwvnawienn.com
 :: esfivwvnawienn.com
+0.0.0.0 esfrustrides.club
+:: esfrustrides.club
 0.0.0.0 esgvhaspsjg.com
 :: esgvhaspsjg.com
 0.0.0.0 eshortonempleae.info
@@ -23578,6 +23596,8 @@ ff02::3 ip6-allhosts
 :: f71bxwn500lj.com
 0.0.0.0 f7ds.liberation.fr
 :: f7ds.liberation.fr
+0.0.0.0 f8260adbf8558d6.com
+:: f8260adbf8558d6.com
 0.0.0.0 f8272.com
 :: f8272.com
 0.0.0.0 f8316b45436f.com
@@ -24016,6 +24036,8 @@ ff02::3 ip6-allhosts
 :: feelinedbusin.site
 0.0.0.0 feelineweatyeng.info
 :: feelineweatyeng.info
+0.0.0.0 feelinginspectorathlete.com
+:: feelinginspectorathlete.com
 0.0.0.0 feelophe.net
 :: feelophe.net
 0.0.0.0 feeohmchi.com
@@ -28896,6 +28918,8 @@ ff02::3 ip6-allhosts
 :: hulemedia.com
 0.0.0.0 huluads.info
 :: huluads.info
+0.0.0.0 hulyyabo.xyz
+:: hulyyabo.xyz
 0.0.0.0 humanding.com
 :: humanding.com
 0.0.0.0 humparsi.com
@@ -34566,6 +34590,8 @@ ff02::3 ip6-allhosts
 :: lmn-pou-win.com
 0.0.0.0 lmodr.biz
 :: lmodr.biz
+0.0.0.0 lmrlanov.com
+:: lmrlanov.com
 0.0.0.0 lmwap.awtks.com
 :: lmwap.awtks.com
 0.0.0.0 ln.ameba.jp
@@ -35144,6 +35170,8 @@ ff02::3 ip6-allhosts
 :: loudlunch.com
 0.0.0.0 louisan.cn
 :: louisan.cn
+0.0.0.0 loungepatientlyprogramme.com
+:: loungepatientlyprogramme.com
 0.0.0.0 lousivency.com.cn
 :: lousivency.com.cn
 0.0.0.0 lovacmar.click
@@ -38744,6 +38772,8 @@ ff02::3 ip6-allhosts
 :: monkeyminer.net
 0.0.0.0 monkeytracker.cz
 :: monkeytracker.cz
+0.0.0.0 monotonoussurveytoxic.com
+:: monotonoussurveytoxic.com
 0.0.0.0 monsoonads.com
 :: monsoonads.com
 0.0.0.0 monstat.com
@@ -41124,6 +41154,8 @@ ff02::3 ip6-allhosts
 :: nzezn.com
 0.0.0.0 nzfc.2zm4.cn
 :: nzfc.2zm4.cn
+0.0.0.0 nzkxmphfbqrfzs.com
+:: nzkxmphfbqrfzs.com
 0.0.0.0 nzme-ads.co.nz
 :: nzme-ads.co.nz
 0.0.0.0 nzphoenix.com
@@ -41226,6 +41258,8 @@ ff02::3 ip6-allhosts
 :: objects.tremormedia.com
 0.0.0.0 objectservers.com
 :: objectservers.com
+0.0.0.0 oblivionwatcherrebellious.com
+:: oblivionwatcherrebellious.com
 0.0.0.0 obnyujeibv.com
 :: obnyujeibv.com
 0.0.0.0 oboxads.com
@@ -43334,6 +43368,8 @@ ff02::3 ip6-allhosts
 :: phaboart.net
 0.0.0.0 phabsoun.net
 :: phabsoun.net
+0.0.0.0 phaignoo.com
+:: phaignoo.com
 0.0.0.0 phaikroo.net
 :: phaikroo.net
 0.0.0.0 phar.gu-web.net
@@ -44752,6 +44788,8 @@ ff02::3 ip6-allhosts
 :: prcappzone.intel.com
 0.0.0.0 prchecker.info
 :: prchecker.info
+0.0.0.0 prd-collector-anon.ex.co
+:: prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
 :: prd-collector-anon.playbuzz.com
 0.0.0.0 pre.api.tw06.xlmc.sandai.net
@@ -45382,6 +45420,8 @@ ff02::3 ip6-allhosts
 :: ptoosteg.com
 0.0.0.0 ptoulsey.com
 :: ptoulsey.com
+0.0.0.0 ptoumsid.net
+:: ptoumsid.net
 0.0.0.0 ptoushoa.com
 :: ptoushoa.com
 0.0.0.0 ptowhafuzi.pro
@@ -51384,6 +51424,8 @@ ff02::3 ip6-allhosts
 :: sig.atdmt.com
 0.0.0.0 sightcoloniansy.site
 :: sightcoloniansy.site
+0.0.0.0 sightjutfar.com
+:: sightjutfar.com
 0.0.0.0 signaly.co
 :: signaly.co
 0.0.0.0 signatu.com
@@ -55450,6 +55492,8 @@ ff02::3 ip6-allhosts
 :: tadsitblimp.com
 0.0.0.0 tafmaster.com
 :: tafmaster.com
+0.0.0.0 tag-manager.playbuzz.com
+:: tag-manager.playbuzz.com
 0.0.0.0 tag-store.ads-pixiv.net
 :: tag-store.ads-pixiv.net
 0.0.0.0 tag.aumago.com
@@ -62288,8 +62332,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -65996,6 +66038,8 @@ ff02::3 ip6-allhosts
 :: wxwm2.ikuailian.com
 0.0.0.0 wxxfqc.com
 :: wxxfqc.com
+0.0.0.0 wxyn0o3xmora.com
+:: wxyn0o3xmora.com
 0.0.0.0 wy.ce22d.cn
 :: wy.ce22d.cn
 0.0.0.0 wy213.com
