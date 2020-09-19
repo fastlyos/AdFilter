@@ -1,11 +1,11 @@
-# Checksum: MTYwMDQ5NTQ3Ngo=
+# Checksum: MTYwMDUwNjIxMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200919-2
-# TimeUpdated: 2020-09-19T06:04:36+00:00
+# Version: 1.6.1-20200919-3
+# TimeUpdated: 2020-09-19T09:03:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34453
+# Total: 34470
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7288,6 +7288,8 @@ ff02::3 ip6-allhosts
 :: aigneloa.com
 0.0.0.0 aigou023.com
 :: aigou023.com
+0.0.0.0 aiidbowoj.com
+:: aiidbowoj.com
 0.0.0.0 aijielang.cn
 :: aijielang.cn
 0.0.0.0 ailawlani.club
@@ -11490,6 +11492,8 @@ ff02::3 ip6-allhosts
 :: best2019-games-web1.com
 0.0.0.0 best5ex.com
 :: best5ex.com
+0.0.0.0 bestaryua.com
+:: bestaryua.com
 0.0.0.0 bestcasinopartner.com
 :: bestcasinopartner.com
 0.0.0.0 bestcond1tions.com
@@ -13032,6 +13036,8 @@ ff02::3 ip6-allhosts
 :: c.caijing123.com
 0.0.0.0 c.cdlkzb.com
 :: c.cdlkzb.com
+0.0.0.0 c.chaochao132.xyz
+:: c.chaochao132.xyz
 0.0.0.0 c.cnzz.com
 :: c.cnzz.com
 0.0.0.0 c.code222.com
@@ -17882,6 +17888,8 @@ ff02::3 ip6-allhosts
 :: d.haberler.com
 0.0.0.0 d.haireig.com
 :: d.haireig.com
+0.0.0.0 d.haiyong33.cn
+:: d.haiyong33.cn
 0.0.0.0 d.jbpbox.com
 :: d.jbpbox.com
 0.0.0.0 d.jjyx.com
@@ -22558,8 +22566,12 @@ ff02::3 ip6-allhosts
 :: eo.khbua.xyz
 0.0.0.0 eo.llqd5.cn
 :: eo.llqd5.cn
+0.0.0.0 eo.lulunote.cn
+:: eo.lulunote.cn
 0.0.0.0 eo.luveonline.cn
 :: eo.luveonline.cn
+0.0.0.0 eo.ohthub.com.cn
+:: eo.ohthub.com.cn
 0.0.0.0 eo.pgqoqv.cn
 :: eo.pgqoqv.cn
 0.0.0.0 eo.qpmue.xyz
@@ -25208,6 +25220,8 @@ ff02::3 ip6-allhosts
 :: g.163.com
 0.0.0.0 g.168.it168.com
 :: g.168.it168.com
+0.0.0.0 g.315jg.net
+:: g.315jg.net
 0.0.0.0 g.51network.com
 :: g.51network.com
 0.0.0.0 g.6sfg.com
@@ -28042,6 +28056,8 @@ ff02::3 ip6-allhosts
 :: hghm4u7b61.com
 0.0.0.0 hgo7r.cn
 :: hgo7r.cn
+0.0.0.0 hgra.ukmaaub.cn
+:: hgra.ukmaaub.cn
 0.0.0.0 hh.jiankang.com
 :: hh.jiankang.com
 0.0.0.0 hh.livehapp.com
@@ -29908,6 +29924,8 @@ ff02::3 ip6-allhosts
 :: img.libdd.com
 0.0.0.0 img.ma.social-touch.com
 :: img.ma.social-touch.com
+0.0.0.0 img.mosflower.cn
+:: img.mosflower.cn
 0.0.0.0 img.nahnoji.cz
 :: img.nahnoji.cz
 0.0.0.0 img.okd3.cn
@@ -33906,6 +33924,8 @@ ff02::3 ip6-allhosts
 :: ledou.dl.uu.cc
 0.0.0.0 ledraumt.com
 :: ledraumt.com
+0.0.0.0 ledsdwwmhapz.com
+:: ledsdwwmhapz.com
 0.0.0.0 lee789.com
 :: lee789.com
 0.0.0.0 leeneevo.net
@@ -38464,10 +38484,14 @@ ff02::3 ip6-allhosts
 :: mo.kugou.com
 0.0.0.0 mo.llqd5.cn
 :: mo.llqd5.cn
+0.0.0.0 mo.lulunote.cn
+:: mo.lulunote.cn
 0.0.0.0 mo.luveonline.cn
 :: mo.luveonline.cn
 0.0.0.0 mo.moonpig.com
 :: mo.moonpig.com
+0.0.0.0 mo.ohthub.com.cn
+:: mo.ohthub.com.cn
 0.0.0.0 mo.oneshouyou.cn
 :: mo.oneshouyou.cn
 0.0.0.0 mo.pgqoqv.cn
@@ -40218,6 +40242,8 @@ ff02::3 ip6-allhosts
 :: news.cxxtv.com
 0.0.0.0 news.docer.com
 :: news.docer.com
+0.0.0.0 news.fangdaijisuanqi.com
+:: news.fangdaijisuanqi.com
 0.0.0.0 news.fark.com
 :: news.fark.com
 0.0.0.0 news.hm.map.tanequ.cn
@@ -40612,6 +40638,8 @@ ff02::3 ip6-allhosts
 :: nkscdn.com
 0.0.0.0 nkyyls.cn
 :: nkyyls.cn
+0.0.0.0 nkzker.cn
+:: nkzker.cn
 0.0.0.0 nl-rcd.iqiyi.com
 :: nl-rcd.iqiyi.com
 0.0.0.0 nl.cookiescript.info
@@ -55120,6 +55148,8 @@ ff02::3 ip6-allhosts
 :: szb.tongpinw.com
 0.0.0.0 szdzbx.com
 :: szdzbx.com
+0.0.0.0 szfaq.com
+:: szfaq.com
 0.0.0.0 szggdw.com
 :: szggdw.com
 0.0.0.0 szh6.xyz
@@ -58852,6 +58882,8 @@ ff02::3 ip6-allhosts
 :: tunnl.com
 0.0.0.0 tuos.kyouad.com
 :: tuos.kyouad.com
+0.0.0.0 tuoxintrade.cn
+:: tuoxintrade.cn
 0.0.0.0 tur-tur-key.com
 :: tur-tur-key.com
 0.0.0.0 turboadv.com
@@ -67938,6 +67970,8 @@ ff02::3 ip6-allhosts
 :: yumi06.com
 0.0.0.0 yumimobi.com
 :: yumimobi.com
+0.0.0.0 yun-pdm5000.cn
+:: yun-pdm5000.cn
 0.0.0.0 yun.lvehaisen.com
 :: yun.lvehaisen.com
 0.0.0.0 yun.rili.cn
