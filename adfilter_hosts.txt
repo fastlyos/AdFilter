@@ -1,11 +1,11 @@
-# Checksum: MTYwMDUwNjIxMgo=
+# Checksum: MTYwMDUxNzA3NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200919-3
-# TimeUpdated: 2020-09-19T09:03:32+00:00
+# Version: 1.6.1-20200919-4
+# TimeUpdated: 2020-09-19T12:04:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34470
+# Total: 34475
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -13626,6 +13626,8 @@ ff02::3 ip6-allhosts
 :: car.mobadme.jp
 0.0.0.0 car.qcmrjx.com
 :: car.qcmrjx.com
+0.0.0.0 caradstag.casa
+:: caradstag.casa
 0.0.0.0 carambo.la
 :: carambo.la
 0.0.0.0 caramel.press
@@ -15764,6 +15766,8 @@ ff02::3 ip6-allhosts
 :: cobaltgroup.com
 0.0.0.0 cobdieink.com
 :: cobdieink.com
+0.0.0.0 coccusadmanlob.com
+:: coccusadmanlob.com
 0.0.0.0 cocoafortunately.com
 :: cocoafortunately.com
 0.0.0.0 cocoawu.b0.upaiyun.com
@@ -22036,6 +22040,8 @@ ff02::3 ip6-allhosts
 :: ef867a1be4f83922.com
 0.0.0.0 ef9377.com
 :: ef9377.com
+0.0.0.0 efashingsoccu.club
+:: efashingsoccu.club
 0.0.0.0 efatik.me
 :: efatik.me
 0.0.0.0 efd3b86a5fbddda.com
@@ -24320,6 +24326,8 @@ ff02::3 ip6-allhosts
 :: fisari.com
 0.0.0.0 fishkekcamp.info
 :: fishkekcamp.info
+0.0.0.0 fistcartyped.casa
+:: fistcartyped.casa
 0.0.0.0 fitbxtqgneq.com
 :: fitbxtqgneq.com
 0.0.0.0 fivecdm.com
@@ -36032,6 +36040,8 @@ ff02::3 ip6-allhosts
 :: m.jokfvqm.cn
 0.0.0.0 m.joyxv.com
 :: m.joyxv.com
+0.0.0.0 m.juhuasuanguanwang.cn
+:: m.juhuasuanguanwang.cn
 0.0.0.0 m.julitenj.com
 :: m.julitenj.com
 0.0.0.0 m.jusdq.com
@@ -39642,6 +39652,8 @@ ff02::3 ip6-allhosts
 :: n.cosbot.cn
 0.0.0.0 n.gemini.yahoo.com
 :: n.gemini.yahoo.com
+0.0.0.0 n.juhuasuanguanwang.cn
+:: n.juhuasuanguanwang.cn
 0.0.0.0 n.mailfire.io
 :: n.mailfire.io
 0.0.0.0 n.mark.letv.com
@@ -40638,8 +40650,6 @@ ff02::3 ip6-allhosts
 :: nkscdn.com
 0.0.0.0 nkyyls.cn
 :: nkyyls.cn
-0.0.0.0 nkzker.cn
-:: nkzker.cn
 0.0.0.0 nl-rcd.iqiyi.com
 :: nl-rcd.iqiyi.com
 0.0.0.0 nl.cookiescript.info
@@ -61916,6 +61926,8 @@ ff02::3 ip6-allhosts
 :: we.wecanimal.pt
 0.0.0.0 weaknickgale.icu
 :: weaknickgale.icu
+0.0.0.0 weaponsboardbriefly.com
+:: weaponsboardbriefly.com
 0.0.0.0 weaponsort.club
 :: weaponsort.club
 0.0.0.0 weareqy.com
@@ -67970,8 +67982,6 @@ ff02::3 ip6-allhosts
 :: yumi06.com
 0.0.0.0 yumimobi.com
 :: yumimobi.com
-0.0.0.0 yun-pdm5000.cn
-:: yun-pdm5000.cn
 0.0.0.0 yun.lvehaisen.com
 :: yun.lvehaisen.com
 0.0.0.0 yun.rili.cn
