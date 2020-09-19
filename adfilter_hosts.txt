@@ -1,11 +1,11 @@
-# Checksum: MTYwMDUyNzgxNQo=
+# Checksum: MTYwMDUzODY5NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200919-5
-# TimeUpdated: 2020-09-19T15:03:35+00:00
+# Version: 1.6.1-20200919-6
+# TimeUpdated: 2020-09-19T18:04:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34495
+# Total: 34497
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -582,8 +582,6 @@ ff02::3 ip6-allhosts
 :: 142904.com
 0.0.0.0 144.dragonparking.com
 :: 144.dragonparking.com
-0.0.0.0 1452e13d3fa.com
-:: 1452e13d3fa.com
 0.0.0.0 1480876790.rsc.cdn77.org
 :: 1480876790.rsc.cdn77.org
 0.0.0.0 1495039.com
@@ -1460,8 +1458,6 @@ ff02::3 ip6-allhosts
 :: 43137c93a82b0e81da.com
 0.0.0.0 43242.zh1144.com
 :: 43242.zh1144.com
-0.0.0.0 437301aa95.com
-:: 437301aa95.com
 0.0.0.0 43d6f284d10bfbbb3.com
 :: 43d6f284d10bfbbb3.com
 0.0.0.0 43gw.cn
@@ -4480,6 +4476,8 @@ ff02::3 ip6-allhosts
 :: adbd.liuxue86.com
 0.0.0.0 adbehavior.ximalaya.com
 :: adbehavior.ximalaya.com
+0.0.0.0 adbetclickin.pink
+:: adbetclickin.pink
 0.0.0.0 adbetnet.com
 :: adbetnet.com
 0.0.0.0 adbidgo.com
@@ -6482,6 +6480,8 @@ ff02::3 ip6-allhosts
 :: advantageglobalmarketing.com
 0.0.0.0 advantagemedia.com
 :: advantagemedia.com
+0.0.0.0 advantscivile.club
+:: advantscivile.club
 0.0.0.0 advapi.ahtv.cn
 :: advapi.ahtv.cn
 0.0.0.0 advard.com
@@ -10304,6 +10304,8 @@ ff02::3 ip6-allhosts
 :: b.unjs.com
 0.0.0.0 b.xcafe.com
 :: b.xcafe.com
+0.0.0.0 b014381c95cb.com
+:: b014381c95cb.com
 0.0.0.0 b02byun5xc3s.com
 :: b02byun5xc3s.com
 0.0.0.0 b07f916388fc6e06847.com
@@ -18612,6 +18614,8 @@ ff02::3 ip6-allhosts
 :: d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8360.com
 :: d8360.com
+0.0.0.0 d869381a42af33b.com
+:: d869381a42af33b.com
 0.0.0.0 d8885.com
 :: d8885.com
 0.0.0.0 d9.sina.com.cn
@@ -25042,8 +25046,6 @@ ff02::3 ip6-allhosts
 :: fugger.ipage.com
 0.0.0.0 fuguilm.com
 :: fuguilm.com
-0.0.0.0 fuherudo.online
-:: fuherudo.online
 0.0.0.0 fuialqqq.com
 :: fuialqqq.com
 0.0.0.0 fukkzdxfyrchhc.com
@@ -28926,6 +28928,8 @@ ff02::3 ip6-allhosts
 :: huhughyaw.com
 0.0.0.0 hui.sohu.com
 :: hui.sohu.com
+0.0.0.0 huichenbz.com
+:: huichenbz.com
 0.0.0.0 huichuan.sm.cn
 :: huichuan.sm.cn
 0.0.0.0 huician.cn
@@ -38848,8 +38852,6 @@ ff02::3 ip6-allhosts
 :: monsoonads.com
 0.0.0.0 monstat.com
 :: monstat.com
-0.0.0.0 montkpl.top
-:: montkpl.top
 0.0.0.0 monu.delivery
 :: monu.delivery
 0.0.0.0 mooaleoat.com
@@ -62450,6 +62452,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
