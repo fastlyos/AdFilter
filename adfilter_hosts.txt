@@ -1,11 +1,11 @@
-# Checksum: MTYwMDUzODY5NQo=
+# Checksum: MTYwMDU0OTQyNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200919-6
-# TimeUpdated: 2020-09-19T18:04:55+00:00
+# Version: 1.6.1-20200919-7
+# TimeUpdated: 2020-09-19T21:03:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34497
+# Total: 34504
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -14394,6 +14394,8 @@ ff02::3 ip6-allhosts
 :: cfg.imtt.qq.com
 0.0.0.0 cfgr1.com
 :: cfgr1.com
+0.0.0.0 cfhijdsb.cn
+:: cfhijdsb.cn
 0.0.0.0 cfps.cw.china-netwave.com
 :: cfps.cw.china-netwave.com
 0.0.0.0 cfredh.cn
@@ -35974,6 +35976,8 @@ ff02::3 ip6-allhosts
 :: m.gzxiuyuan.cn
 0.0.0.0 m.h2tywo.cn
 :: m.h2tywo.cn
+0.0.0.0 m.hainufamliy.top
+:: m.hainufamliy.top
 0.0.0.0 m.hcenc.com
 :: m.hcenc.com
 0.0.0.0 m.hchik.com
@@ -42424,6 +42428,8 @@ ff02::3 ip6-allhosts
 :: ox-i.cordillera.tv
 0.0.0.0 oxado.com
 :: oxado.com
+0.0.0.0 oxfjlzyhxjihk.com
+:: oxfjlzyhxjihk.com
 0.0.0.0 oxfordmail-gb.oxfordmail.co.uk
 :: oxfordmail-gb.oxfordmail.co.uk
 0.0.0.0 oxidy.com
@@ -51762,6 +51768,8 @@ ff02::3 ip6-allhosts
 :: sjdjcn.cn
 0.0.0.0 sjgnskf.com
 :: sjgnskf.com
+0.0.0.0 sjjazrfvzbkt.com
+:: sjjazrfvzbkt.com
 0.0.0.0 sjljz.cn
 :: sjljz.cn
 0.0.0.0 sjosteras.com
@@ -59934,6 +59942,8 @@ ff02::3 ip6-allhosts
 :: urimteku.com
 0.0.0.0 uriqirelle.xyz
 :: uriqirelle.xyz
+0.0.0.0 urkmuzzygjp.com
+:: urkmuzzygjp.com
 0.0.0.0 url.222bz.com
 :: url.222bz.com
 0.0.0.0 url.3400.org
@@ -64032,6 +64042,8 @@ ff02::3 ip6-allhosts
 :: www.8jzw.com
 0.0.0.0 www.9270.com.cn
 :: www.9270.com.cn
+0.0.0.0 www.93vitui.com
+:: www.93vitui.com
 0.0.0.0 www.9565365.com
 :: www.9565365.com
 0.0.0.0 www.9948000.com
@@ -66846,6 +66858,8 @@ ff02::3 ip6-allhosts
 :: xncgroup.cn
 0.0.0.0 xne1ocient87zxz.360doc.cn
 :: xne1ocient87zxz.360doc.cn
+0.0.0.0 xnigsnplwbox.com
+:: xnigsnplwbox.com
 0.0.0.0 xnjpg.com
 :: xnjpg.com
 0.0.0.0 xnjzsn.com
