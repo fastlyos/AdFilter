@@ -1,11 +1,11 @@
-# Checksum: MTYwMDYxNDIwMgo=
+# Checksum: MTYwMDYyNTAzMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200920-5
-# TimeUpdated: 2020-09-20T15:03:22+00:00
+# Version: 1.6.1-20200920-6
+# TimeUpdated: 2020-09-20T18:03:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34597
+# Total: 34607
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6614,6 +6614,8 @@ ff02::3 ip6-allhosts
 :: advinci.club
 0.0.0.0 advinci.co
 :: advinci.co
+0.0.0.0 advinci.life
+:: advinci.life
 0.0.0.0 advinci.net
 :: advinci.net
 0.0.0.0 advinci.uno
@@ -10992,6 +10994,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -14186,6 +14190,8 @@ ff02::3 ip6-allhosts
 :: cdna.tremormedia.com
 0.0.0.0 cdnads.com
 :: cdnads.com
+0.0.0.0 cdnanalytics.xyz
+:: cdnanalytics.xyz
 0.0.0.0 cdnapi.net
 :: cdnapi.net
 0.0.0.0 cdnas.hyperpromote.com
@@ -31478,6 +31484,8 @@ ff02::3 ip6-allhosts
 :: j17.shangc.net
 0.0.0.0 j17.xiumu.cn
 :: j17.xiumu.cn
+0.0.0.0 j2.979067.com
+:: j2.979067.com
 0.0.0.0 j2k9.in
 :: j2k9.in
 0.0.0.0 j6y54.xyz
@@ -35714,6 +35722,8 @@ ff02::3 ip6-allhosts
 :: m.031177.com
 0.0.0.0 m.0531mnk.net
 :: m.0531mnk.net
+0.0.0.0 m.0898xlj.cn
+:: m.0898xlj.cn
 0.0.0.0 m.118ex.cn
 :: m.118ex.cn
 0.0.0.0 m.1314sss.top
@@ -39730,6 +39740,8 @@ ff02::3 ip6-allhosts
 :: mytopf.com
 0.0.0.0 mytrack.pro
 :: mytrack.pro
+0.0.0.0 mytrackf73.com
+:: mytrackf73.com
 0.0.0.0 mytzdhz.cn
 :: mytzdhz.cn
 0.0.0.0 myunion1.tupians.com
@@ -43546,6 +43558,8 @@ ff02::3 ip6-allhosts
 :: pg88cdn.com
 0.0.0.0 pgapi.ksmobile.com
 :: pgapi.ksmobile.com
+0.0.0.0 pgdhapctt.com
+:: pgdhapctt.com
 0.0.0.0 pgdt.gtimg.cn
 :: pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
@@ -59620,6 +59634,8 @@ ff02::3 ip6-allhosts
 :: uimg.1qwe3r.com
 0.0.0.0 uimg.27admin.com
 :: uimg.27admin.com
+0.0.0.0 uincalcularlyt.club
+:: uincalcularlyt.club
 0.0.0.0 uinelypresse.info
 :: uinelypresse.info
 0.0.0.0 uiqwtgcp.com
@@ -62640,6 +62656,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -64314,6 +64332,8 @@ ff02::3 ip6-allhosts
 :: www.adm668.com
 0.0.0.0 www.admaji.com
 :: www.admaji.com
+0.0.0.0 www.admarket.mobi
+:: www.admarket.mobi
 0.0.0.0 www.admaster.com.cn
 :: www.admaster.com.cn
 0.0.0.0 www.adminer.com
