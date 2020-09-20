@@ -1,11 +1,11 @@
-# Checksum: MTYwMDU0OTQyNQo=
+# Checksum: MTYwMDU2MDU0MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200919-7
-# TimeUpdated: 2020-09-19T21:03:45+00:00
+# Version: 1.6.1-20200920-0
+# TimeUpdated: 2020-09-20T00:09:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34504
+# Total: 34514
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -952,6 +952,8 @@ ff02::3 ip6-allhosts
 :: 24counter.com
 0.0.0.0 24haitao.net
 :: 24haitao.net
+0.0.0.0 24kad.com
+:: 24kad.com
 0.0.0.0 24log.com
 :: 24log.com
 0.0.0.0 24log.de
@@ -1872,6 +1874,8 @@ ff02::3 ip6-allhosts
 :: 5pr1sfzsl9.com
 0.0.0.0 5pub.com
 :: 5pub.com
+0.0.0.0 5t59uw2iuh.com
+:: 5t59uw2iuh.com
 0.0.0.0 5ubei.com
 :: 5ubei.com
 0.0.0.0 5uu8.com
@@ -2032,8 +2036,6 @@ ff02::3 ip6-allhosts
 :: 688de7b3822de.com
 0.0.0.0 6942f24115b63.com
 :: 6942f24115b63.com
-0.0.0.0 6945k6.cn
-:: 6945k6.cn
 0.0.0.0 69i.club
 :: 69i.club
 0.0.0.0 69oxt4q05.com
@@ -12920,8 +12922,6 @@ ff02::3 ip6-allhosts
 :: bwp.theinsider.com.com
 0.0.0.0 bwuqqnxubseq.com
 :: bwuqqnxubseq.com
-0.0.0.0 bx.optimix.asia
-:: bx.optimix.asia
 0.0.0.0 bxg68.com
 :: bxg68.com
 0.0.0.0 bxgjpocfz1g1jiwb.pro
@@ -17800,6 +17800,8 @@ ff02::3 ip6-allhosts
 :: cyveillance.com
 0.0.0.0 cz.ifeng0.com
 :: cz.ifeng0.com
+0.0.0.0 cz01016102.cg2017.com
+:: cz01016102.cg2017.com
 0.0.0.0 cz4444.cn
 :: cz4444.cn
 0.0.0.0 czcetfjlisyjh.com
@@ -18662,6 +18664,8 @@ ff02::3 ip6-allhosts
 :: dacounter.com
 0.0.0.0 dada.dadawm.cc
 :: dada.dadawm.cc
+0.0.0.0 dadhuhram.com
+:: dadhuhram.com
 0.0.0.0 dadjia.com
 :: dadjia.com
 0.0.0.0 dadsanz.com
@@ -22096,6 +22100,8 @@ ff02::3 ip6-allhosts
 :: eggplant.cloud
 0.0.0.0 egjq.com.cn
 :: egjq.com.cn
+0.0.0.0 eglates.pro
+:: eglates.pro
 0.0.0.0 egqvppwseieyu.com
 :: egqvppwseieyu.com
 0.0.0.0 egrettyjokilin.info
@@ -24486,6 +24492,8 @@ ff02::3 ip6-allhosts
 :: flurry.cachefly.net
 0.0.0.0 flurry.com
 :: flurry.com
+0.0.0.0 flushafterwardinteger.com
+:: flushafterwardinteger.com
 0.0.0.0 flux.faloo.com
 :: flux.faloo.com
 0.0.0.0 flux16.com
@@ -25730,6 +25738,8 @@ ff02::3 ip6-allhosts
 :: gbr-eri-c1-s1.inf.nimiq.network
 0.0.0.0 gbr-eri-c1-s2.inf.nimiq.network
 :: gbr-eri-c1-s2.inf.nimiq.network
+0.0.0.0 gbrrrxbodqdlq.com
+:: gbrrrxbodqdlq.com
 0.0.0.0 gbylaoajzugbgj.com
 :: gbylaoajzugbgj.com
 0.0.0.0 gc.newsweek.com
@@ -25814,6 +25824,8 @@ ff02::3 ip6-allhosts
 :: gecko-hl.snssdk.com
 0.0.0.0 gedawang.com
 :: gedawang.com
+0.0.0.0 gedbunyascr.club
+:: gedbunyascr.club
 0.0.0.0 gedcompani.fun
 :: gedcompani.fun
 0.0.0.0 gedmhqqipuz6wfon.pro
@@ -29296,6 +29308,8 @@ ff02::3 ip6-allhosts
 :: i4.fuimg.com
 0.0.0.0 i4rsrcj6.top
 :: i4rsrcj6.top
+0.0.0.0 i4tvy8vk9f74.com
+:: i4tvy8vk9f74.com
 0.0.0.0 i5.akjunshi.com
 :: i5.akjunshi.com
 0.0.0.0 i568vc.cn
@@ -44968,6 +44982,8 @@ ff02::3 ip6-allhosts
 :: previsibilisais.website
 0.0.0.0 prexista.com
 :: prexista.com
+0.0.0.0 preyjustly.com
+:: preyjustly.com
 0.0.0.0 prfctmney.com
 :: prfctmney.com
 0.0.0.0 prg.smartadserver.com
@@ -47702,6 +47718,8 @@ ff02::3 ip6-allhosts
 :: reportionbreedy.pro
 0.0.0.0 reportlog.dftoutiao.com
 :: reportlog.dftoutiao.com
+0.0.0.0 reports-api.sqreen.io
+:: reports-api.sqreen.io
 0.0.0.0 reports.pagesuite-professional.co.uk
 :: reports.pagesuite-professional.co.uk
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
@@ -59442,6 +59460,8 @@ ff02::3 ip6-allhosts
 :: uid.mdbchina.com
 0.0.0.0 uie.data.cbc.ca
 :: uie.data.cbc.ca
+0.0.0.0 uieoogjarimcey.com
+:: uieoogjarimcey.com
 0.0.0.0 uigruwtql.com
 :: uigruwtql.com
 0.0.0.0 uim.tifbs.net
