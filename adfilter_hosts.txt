@@ -1,11 +1,11 @@
-# Checksum: MTYwMDU5MjYxOAo=
+# Checksum: MTYwMDYwMzQ4Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200920-3
-# TimeUpdated: 2020-09-20T09:03:38+00:00
+# Version: 1.6.1-20200920-4
+# TimeUpdated: 2020-09-20T12:04:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34592
+# Total: 34596
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5846,6 +5846,8 @@ ff02::3 ip6-allhosts
 :: adsage.com
 0.0.0.0 adsagony.com
 :: adsagony.com
+0.0.0.0 adsalvo.com
+:: adsalvo.com
 0.0.0.0 adsame.com
 :: adsame.com
 0.0.0.0 adsame.liba.com
@@ -8448,8 +8450,6 @@ ff02::3 ip6-allhosts
 :: anbalxkcpwa.com
 0.0.0.0 andase.com
 :: andase.com
-0.0.0.0 andbaybay.club
-:: andbaybay.club
 0.0.0.0 andbeyond.media
 :: andbeyond.media
 0.0.0.0 andersenit.dk
@@ -10992,6 +10992,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11456,8 +11458,6 @@ ff02::3 ip6-allhosts
 :: belvertising.be
 0.0.0.0 belwrite.com
 :: belwrite.com
-0.0.0.0 bemobpath.com
-:: bemobpath.com
 0.0.0.0 ben.crxmouse.com
 :: ben.crxmouse.com
 0.0.0.0 bench.uc.cn
@@ -13820,8 +13820,6 @@ ff02::3 ip6-allhosts
 :: cb4faf87ffae.com
 0.0.0.0 cba-fed-igh.com
 :: cba-fed-igh.com
-0.0.0.0 cbbp1.com
-:: cbbp1.com
 0.0.0.0 cbbsnmrwpqou.com
 :: cbbsnmrwpqou.com
 0.0.0.0 cbclickbank.com
@@ -14402,6 +14400,8 @@ ff02::3 ip6-allhosts
 :: cfcs1.duckdns.org
 0.0.0.0 cfeo.bealge.sogou.com
 :: cfeo.bealge.sogou.com
+0.0.0.0 cferw.com
+:: cferw.com
 0.0.0.0 cfff.net
 :: cfff.net
 0.0.0.0 cfg-cdn.aiclk.com
@@ -17682,6 +17682,8 @@ ff02::3 ip6-allhosts
 :: cueyetwee.site
 0.0.0.0 cui.m.1688.com
 :: cui.m.1688.com
+0.0.0.0 cularbernatio.club
+:: cularbernatio.club
 0.0.0.0 culreelt.com
 :: culreelt.com
 0.0.0.0 culsauwou.com
@@ -20478,8 +20480,6 @@ ff02::3 ip6-allhosts
 :: dorama.site
 0.0.0.0 dorangesource.alicdn.com
 :: dorangesource.alicdn.com
-0.0.0.0 dormitysature.info
-:: dormitysature.info
 0.0.0.0 dorsetecho-gb.dorsetecho.co.uk
 :: dorsetecho-gb.dorsetecho.co.uk
 0.0.0.0 dorthuredwardles.info
@@ -24600,6 +24600,8 @@ ff02::3 ip6-allhosts
 :: fnx2n3rqbuw7.com
 0.0.0.0 fnxmyx.cn
 :: fnxmyx.cn
+0.0.0.0 fnyhewjd.com
+:: fnyhewjd.com
 0.0.0.0 fnytdllpzdv.com
 :: fnytdllpzdv.com
 0.0.0.0 foaks.com
@@ -26654,6 +26656,8 @@ ff02::3 ip6-allhosts
 :: go.fapsite.com
 0.0.0.0 go.gogolm.xyz
 :: go.gogolm.xyz
+0.0.0.0 go.gotourls.bid
+:: go.gotourls.bid
 0.0.0.0 go.hangzhou.com.cn
 :: go.hangzhou.com.cn
 0.0.0.0 go.kukudm.com
@@ -28490,6 +28494,8 @@ ff02::3 ip6-allhosts
 :: hljdnserror4.wo.com.cn
 0.0.0.0 hljdnserror5.wo.com.cn
 :: hljdnserror5.wo.com.cn
+0.0.0.0 hljhufengling.cn
+:: hljhufengling.cn
 0.0.0.0 hljyjm.cn
 :: hljyjm.cn
 0.0.0.0 hlmiq.com
@@ -28590,6 +28596,8 @@ ff02::3 ip6-allhosts
 :: hoaphaiw.com
 0.0.0.0 hoawhaum.net
 :: hoawhaum.net
+0.0.0.0 hobfadbig.com
+:: hobfadbig.com
 0.0.0.0 hocgeese.com
 :: hocgeese.com
 0.0.0.0 hoemasfat.site
@@ -28858,8 +28866,6 @@ ff02::3 ip6-allhosts
 :: hrnklivlbhf.com
 0.0.0.0 hrthvf.xyz
 :: hrthvf.xyz
-0.0.0.0 hrtye.com
-:: hrtye.com
 0.0.0.0 hrum.hotelsapi.io
 :: hrum.hotelsapi.io
 0.0.0.0 hs.qhupdate.com
@@ -29076,8 +29082,6 @@ ff02::3 ip6-allhosts
 :: hurra.com
 0.0.0.0 husky.sogou.com
 :: husky.sogou.com
-0.0.0.0 hutrcksp.com
-:: hutrcksp.com
 0.0.0.0 huzhanbin.cn
 :: huzhanbin.cn
 0.0.0.0 hv.code.tanwanyx.com
@@ -29520,6 +29524,8 @@ ff02::3 ip6-allhosts
 :: ichaosheng.com
 0.0.0.0 ichecknotifyfriends.info
 :: ichecknotifyfriends.info
+0.0.0.0 icjvfvoh.com
+:: icjvfvoh.com
 0.0.0.0 iclbkrgjdstqt.com
 :: iclbkrgjdstqt.com
 0.0.0.0 iclick.cm.admaster.com.cn
@@ -29778,6 +29784,8 @@ ff02::3 ip6-allhosts
 :: ijpheyydhw1a.com
 0.0.0.0 ijrah.top
 :: ijrah.top
+0.0.0.0 iklmgdsfnajmoy.com
+:: iklmgdsfnajmoy.com
 0.0.0.0 ikuailian.com
 :: ikuailian.com
 0.0.0.0 ikunselt.com
@@ -31360,6 +31368,8 @@ ff02::3 ip6-allhosts
 :: iwstats.com
 0.0.0.0 iwx.mail.qq.com
 :: iwx.mail.qq.com
+0.0.0.0 ixhparehw.com
+:: ixhparehw.com
 0.0.0.0 ixiaa.com
 :: ixiaa.com
 0.0.0.0 ixkkhacwdxpgpt.com
@@ -32334,6 +32344,8 @@ ff02::3 ip6-allhosts
 :: js.ub.fang.com
 0.0.0.0 js.ubaike.cn
 :: js.ubaike.cn
+0.0.0.0 js.um0592.com
+:: js.um0592.com
 0.0.0.0 js.union-wifi.com
 :: js.union-wifi.com
 0.0.0.0 js.users.51.la
@@ -34448,6 +34460,8 @@ ff02::3 ip6-allhosts
 :: linkmyc.com
 0.0.0.0 linkoffers.net
 :: linkoffers.net
+0.0.0.0 linkonclick.com
+:: linkonclick.com
 0.0.0.0 linkpuls.idg.no
 :: linkpuls.idg.no
 0.0.0.0 linkpulse.com
@@ -34714,8 +34728,6 @@ ff02::3 ip6-allhosts
 :: llqss.top
 0.0.0.0 llrspkjasfqc.com
 :: llrspkjasfqc.com
-0.0.0.0 lltrsknoob.click
-:: lltrsknoob.click
 0.0.0.0 lm.35.com
 :: lm.35.com
 0.0.0.0 lm.ijq.tv
@@ -35468,8 +35480,6 @@ ff02::3 ip6-allhosts
 :: luckyorange.net
 0.0.0.0 luckypushh.com
 :: luckypushh.com
-0.0.0.0 lucretius-ada.com
-:: lucretius-ada.com
 0.0.0.0 lucting.cn
 :: lucting.cn
 0.0.0.0 ludlowadvertiser-gb.ludlowadvertiser.co.uk
@@ -41222,8 +41232,6 @@ ff02::3 ip6-allhosts
 :: numberium.com
 0.0.0.0 numbers.md
 :: numbers.md
-0.0.0.0 numbertrck.com
-:: numbertrck.com
 0.0.0.0 numerino.cz
 :: numerino.cz
 0.0.0.0 nummobile.com
@@ -45238,6 +45246,8 @@ ff02::3 ip6-allhosts
 :: projectagora.tech
 0.0.0.0 projectagoralibs.com
 :: projectagoralibs.com
+0.0.0.0 projectagoraservices.com
+:: projectagoraservices.com
 0.0.0.0 projectagoratech.com
 :: projectagoratech.com
 0.0.0.0 projectpoi.com
@@ -48632,8 +48642,6 @@ ff02::3 ip6-allhosts
 :: rs2.qq.com
 0.0.0.0 rsalcau.com
 :: rsalcau.com
-0.0.0.0 rsalcdp.com
-:: rsalcdp.com
 0.0.0.0 rsalchk.com
 :: rsalchk.com
 0.0.0.0 rsaltsjt.com
@@ -49780,8 +49788,6 @@ ff02::3 ip6-allhosts
 :: sadv.dadapro.com
 0.0.0.0 safe-click.net
 :: safe-click.net
-0.0.0.0 safe-connection21.com
-:: safe-connection21.com
 0.0.0.0 safe.nimiq.com
 :: safe.nimiq.com
 0.0.0.0 safe.ucweb.com
@@ -57006,8 +57012,6 @@ ff02::3 ip6-allhosts
 :: tk.storetail.io
 0.0.0.0 tk.wo685.com
 :: tk.wo685.com
-0.0.0.0 tkbo.com
-:: tkbo.com
 0.0.0.0 tkd777.cn
 :: tkd777.cn
 0.0.0.0 tkl.meizhebao.cn
@@ -58650,8 +58654,6 @@ ff02::3 ip6-allhosts
 :: trck.meinprospekt.de
 0.0.0.0 trck.spoteffects.net
 :: trck.spoteffects.net
-0.0.0.0 trckcommerce.com
-:: trckcommerce.com
 0.0.0.0 trckr.nordiskemedier.dk
 :: trckr.nordiskemedier.dk
 0.0.0.0 treammicr.club
@@ -62078,6 +62080,8 @@ ff02::3 ip6-allhosts
 :: wb.brand.sogou.com
 0.0.0.0 wb.gtimg.com
 :: wb.gtimg.com
+0.0.0.0 wbaogaqvrukprx.com
+:: wbaogaqvrukprx.com
 0.0.0.0 wbapp.mobile.sina.cn
 :: wbapp.mobile.sina.cn
 0.0.0.0 wbapp.uve.weibo.com
@@ -65246,6 +65250,8 @@ ff02::3 ip6-allhosts
 :: www.lvjian66.com
 0.0.0.0 www.lx167.com
 :: www.lx167.com
+0.0.0.0 www.lxms2004.com
+:: www.lxms2004.com
 0.0.0.0 www.lynndollin.com
 :: www.lynndollin.com
 0.0.0.0 www.lyztdz.com
@@ -67126,6 +67132,8 @@ ff02::3 ip6-allhosts
 :: xsnfmaxicj.com
 0.0.0.0 xsolid.baidu.com
 :: xsolid.baidu.com
+0.0.0.0 xsortxrmtpykh.com
+:: xsortxrmtpykh.com
 0.0.0.0 xsrs.com
 :: xsrs.com
 0.0.0.0 xsrzmhriydfcqx.com
