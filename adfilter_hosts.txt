@@ -1,11 +1,11 @@
-# Checksum: MTYwMDYzNTgyMAo=
+# Checksum: MTYwMDY0Njk0NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200920-7
-# TimeUpdated: 2020-09-20T21:03:40+00:00
+# Version: 1.6.1-20200921-0
+# TimeUpdated: 2020-09-21T00:09:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34617
+# Total: 34621
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -19234,6 +19234,8 @@ ff02::3 ip6-allhosts
 :: dcxmy.com
 0.0.0.0 dd.iask.cn
 :: dd.iask.cn
+0.0.0.0 dd.nytimes.com
+:: dd.nytimes.com
 0.0.0.0 dd.wx16999.com
 :: dd.wx16999.com
 0.0.0.0 dd1.diymianmo.com
@@ -25042,6 +25044,8 @@ ff02::3 ip6-allhosts
 :: frutrun.com
 0.0.0.0 fryawlauk.com
 :: fryawlauk.com
+0.0.0.0 frzynewnpg.com
+:: frzynewnpg.com
 0.0.0.0 fs-client-logger.herokuapp.com
 :: fs-client-logger.herokuapp.com
 0.0.0.0 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
@@ -28038,6 +28042,8 @@ ff02::3 ip6-allhosts
 :: helpgrid1.ksmobile.com
 0.0.0.0 helpinfo.cn
 :: helpinfo.cn
+0.0.0.0 hematuresl.club
+:: hematuresl.club
 0.0.0.0 hemmieconverset.info
 :: hemmieconverset.info
 0.0.0.0 hemnes.win
@@ -30014,6 +30020,8 @@ ff02::3 ip6-allhosts
 :: img.chengruide.com
 0.0.0.0 img.cmm.xmfish.com
 :: img.cmm.xmfish.com
+0.0.0.0 img.cnsofas.com
+:: img.cnsofas.com
 0.0.0.0 img.czywssj.com
 :: img.czywssj.com
 0.0.0.0 img.dawenxue.org
