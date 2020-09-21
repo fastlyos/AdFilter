@@ -1,11 +1,11 @@
-# Checksum: MTYwMDY4OTg4MAo=
+# Checksum: MTYwMDcwMDY0Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200921-4
-# TimeUpdated: 2020-09-21T12:04:40+00:00
+# Version: 1.6.1-20200921-5
+# TimeUpdated: 2020-09-21T15:04:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34657
+# Total: 34662
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -852,6 +852,8 @@ ff02::3 ip6-allhosts
 :: 2018.qucaigg.com
 0.0.0.0 2018haoyunlai.com
 :: 2018haoyunlai.com
+0.0.0.0 201n.com
+:: 201n.com
 0.0.0.0 2020mustang.com
 :: 2020mustang.com
 0.0.0.0 203710.com
@@ -11004,6 +11006,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11772,8 +11776,6 @@ ff02::3 ip6-allhosts
 :: bigcattracks.com
 0.0.0.0 bigchoicegroup.com
 :: bigchoicegroup.com
-0.0.0.0 bigcooa.xyz
-:: bigcooa.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -13250,6 +13252,8 @@ ff02::3 ip6-allhosts
 :: c.wwkqh.top
 0.0.0.0 c.x.oanda.com
 :: c.x.oanda.com
+0.0.0.0 c.xhsxgmt.cn
+:: c.xhsxgmt.cn
 0.0.0.0 c.xiaobaipan.com
 :: c.xiaobaipan.com
 0.0.0.0 c.xsbnxxzw.cn
@@ -21970,6 +21974,8 @@ ff02::3 ip6-allhosts
 :: edhappearer.info
 0.0.0.0 edhindexest.space
 :: edhindexest.space
+0.0.0.0 edimpleteexce.club
+:: edimpleteexce.club
 0.0.0.0 edintorni.net
 :: edintorni.net
 0.0.0.0 editor.staging2.crazyegg.com
@@ -35792,6 +35798,8 @@ ff02::3 ip6-allhosts
 :: m.23txt.com
 0.0.0.0 m.24haitao.net
 :: m.24haitao.net
+0.0.0.0 m.29hgg.cn
+:: m.29hgg.cn
 0.0.0.0 m.2l06k.cn
 :: m.2l06k.cn
 0.0.0.0 m.2l7ha.cn
@@ -68268,6 +68276,8 @@ ff02::3 ip6-allhosts
 :: ysont.cn
 0.0.0.0 ystammedre.info
 :: ystammedre.info
+0.0.0.0 ystructingac.club
+:: ystructingac.club
 0.0.0.0 yt-adp.nosdn.127.net
 :: yt-adp.nosdn.127.net
 0.0.0.0 yt-adp.ws.126.net
