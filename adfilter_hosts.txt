@@ -1,11 +1,11 @@
-# Checksum: MTYwMDcxMTQzNgo=
+# Checksum: MTYwMDcyMjIyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200921-6
-# TimeUpdated: 2020-09-21T18:03:56+00:00
+# Version: 1.6.1-20200921-7
+# TimeUpdated: 2020-09-21T21:03:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34656
+# Total: 34666
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3122,6 +3122,8 @@ ff02::3 ip6-allhosts
 :: a.tuizhuti.com
 0.0.0.0 a.tvsou.com
 :: a.tvsou.com
+0.0.0.0 a.tyncar.com
+:: a.tyncar.com
 0.0.0.0 a.ucoz.net
 :: a.ucoz.net
 0.0.0.0 a.umilu.com
@@ -4408,6 +4410,8 @@ ff02::3 ip6-allhosts
 :: ad7.on.cc
 0.0.0.0 ad8.adfarm1.adition.com
 :: ad8.adfarm1.adition.com
+0.0.0.0 ad8888.top
+:: ad8888.top
 0.0.0.0 ad9377.com
 :: ad9377.com
 0.0.0.0 ada.baidu.com
@@ -6026,6 +6030,8 @@ ff02::3 ip6-allhosts
 :: adsfundi.com
 0.0.0.0 adsfuse.com
 :: adsfuse.com
+0.0.0.0 adsgangsta.com
+:: adsgangsta.com
 0.0.0.0 adsgroup.qq.com
 :: adsgroup.qq.com
 0.0.0.0 adshack.com
@@ -14350,6 +14356,8 @@ ff02::3 ip6-allhosts
 :: centwrite.com
 0.0.0.0 ceparateauab.info
 :: ceparateauab.info
+0.0.0.0 cepegas.com
+:: cepegas.com
 0.0.0.0 cepossilenty.club
 :: cepossilenty.club
 0.0.0.0 ceprovidingsesse.info
@@ -17908,6 +17916,8 @@ ff02::3 ip6-allhosts
 :: d.39.net
 0.0.0.0 d.517sccts.cn
 :: d.517sccts.cn
+0.0.0.0 d.6xw.com
+:: d.6xw.com
 0.0.0.0 d.721sjv.xyz
 :: d.721sjv.xyz
 0.0.0.0 d.admx.baixing.com
@@ -19304,6 +19314,8 @@ ff02::3 ip6-allhosts
 :: de.moneroocean.stream
 0.0.0.0 de01.rayjump.com
 :: de01.rayjump.com
+0.0.0.0 de093o.cn
+:: de093o.cn
 0.0.0.0 de17a.com
 :: de17a.com
 0.0.0.0 deal.maabm.com
@@ -21876,6 +21888,8 @@ ff02::3 ip6-allhosts
 :: ecmc.bdimg.com
 0.0.0.0 ecn5.com
 :: ecn5.com
+0.0.0.0 eco.2t4fe.xyz
+:: eco.2t4fe.xyz
 0.0.0.0 eco.taobao.com
 :: eco.taobao.com
 0.0.0.0 ecomgxh.kuwo.cn
@@ -24452,6 +24466,8 @@ ff02::3 ip6-allhosts
 :: fkart.xyz
 0.0.0.0 fkbwtoopwg.com
 :: fkbwtoopwg.com
+0.0.0.0 fkfpkhijf.com
+:: fkfpkhijf.com
 0.0.0.0 fkkse.com
 :: fkkse.com
 0.0.0.0 fkku194.com
@@ -31284,6 +31300,8 @@ ff02::3 ip6-allhosts
 :: it760.com
 0.0.0.0 itad.linetv.tw
 :: itad.linetv.tw
+0.0.0.0 itadapi.ithome.com.tw
+:: itadapi.ithome.com.tw
 0.0.0.0 italianadirectory.com
 :: italianadirectory.com
 0.0.0.0 itaoxiaoshuo.com
@@ -39576,6 +39594,8 @@ ff02::3 ip6-allhosts
 :: mvip.zhuba8.com
 0.0.0.0 mvnuyjsdgle.com
 :: mvnuyjsdgle.com
+0.0.0.0 mvo.g45td.xyz
+:: mvo.g45td.xyz
 0.0.0.0 mvo.nwffx.xyz
 :: mvo.nwffx.xyz
 0.0.0.0 mvo.ythbr.xyz
@@ -39752,6 +39772,8 @@ ff02::3 ip6-allhosts
 :: mypagerank.net
 0.0.0.0 myrdrcts.com
 :: myrdrcts.com
+0.0.0.0 myreferer.com
+:: myreferer.com
 0.0.0.0 myroitracking.com
 :: myroitracking.com
 0.0.0.0 myrtb.net
@@ -68658,8 +68680,6 @@ ff02::3 ip6-allhosts
 :: zdjby.cn
 0.0.0.0 zdlogs.sphereup.com
 :: zdlogs.sphereup.com
-0.0.0.0 zdovrb.cn
-:: zdovrb.cn
 0.0.0.0 zdw.w8.com.cn
 :: zdw.w8.com.cn
 0.0.0.0 zeads.com
