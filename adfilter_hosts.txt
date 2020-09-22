@@ -1,8 +1,8 @@
-# Checksum: MTYwMDc0MzgxNQo=
+# Checksum: MTYwMDc1NDY1OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200922-1
-# TimeUpdated: 2020-09-22T03:03:35+00:00
+# Version: 1.6.1-20200922-2
+# TimeUpdated: 2020-09-22T06:04:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 34689
@@ -166,6 +166,8 @@ ff02::3 ip6-allhosts
 :: 0851ok.com
 0.0.0.0 086186.com
 :: 086186.com
+0.0.0.0 0921vch.xyz
+:: 0921vch.xyz
 0.0.0.0 0923csfsteibv12.xyz
 :: 0923csfsteibv12.xyz
 0.0.0.0 0926a687679d337e9d.com
@@ -1534,8 +1536,6 @@ ff02::3 ip6-allhosts
 :: 4eacccd99990beed317.com
 0.0.0.0 4edidqmtzlsa.com
 :: 4edidqmtzlsa.com
-0.0.0.0 4excel.cn
-:: 4excel.cn
 0.0.0.0 4exlkjnngs.com
 :: 4exlkjnngs.com
 0.0.0.0 4f2sm1y1ss.com
@@ -11002,8 +11002,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -24058,6 +24056,8 @@ ff02::3 ip6-allhosts
 :: fdplttrk.com
 0.0.0.0 fds.api.moji.com
 :: fds.api.moji.com
+0.0.0.0 fdvilavipz.com
+:: fdvilavipz.com
 0.0.0.0 fdxdjkswppg.com
 :: fdxdjkswppg.com
 0.0.0.0 fe-au.imrworldwide.com
@@ -31366,6 +31366,8 @@ ff02::3 ip6-allhosts
 :: itspsmup.com
 0.0.0.0 itsup.com
 :: itsup.com
+0.0.0.0 ittorchicer.com
+:: ittorchicer.com
 0.0.0.0 itv.hexun.com
 :: itv.hexun.com
 0.0.0.0 itw.me
@@ -34766,6 +34768,8 @@ ff02::3 ip6-allhosts
 :: lk.remenxs.com
 0.0.0.0 lk1mft33pj2f.com
 :: lk1mft33pj2f.com
+0.0.0.0 lkamujrx.com
+:: lkamujrx.com
 0.0.0.0 lkbf.0532ci.com.cn
 :: lkbf.0532ci.com.cn
 0.0.0.0 lkme.cc
@@ -62806,8 +62810,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63226,8 +63228,6 @@ ff02::3 ip6-allhosts
 :: wlshotel.cn
 0.0.0.0 wlwootzzijp.com
 :: wlwootzzijp.com
-0.0.0.0 wlzohrpjbuq.com
-:: wlzohrpjbuq.com
 0.0.0.0 wm-abms.com
 :: wm-abms.com
 0.0.0.0 wm.20150.net
@@ -66818,6 +66818,8 @@ ff02::3 ip6-allhosts
 :: xfqifppx.com
 0.0.0.0 xfs5yhr1.com
 :: xfs5yhr1.com
+0.0.0.0 xfya3.cn
+:: xfya3.cn
 0.0.0.0 xfytjx.cn
 :: xfytjx.cn
 0.0.0.0 xg.g52bl.cn
@@ -68512,8 +68514,6 @@ ff02::3 ip6-allhosts
 :: yyeks.com
 0.0.0.0 yyhqch.com
 :: yyhqch.com
-0.0.0.0 yyjvimo.com
-:: yyjvimo.com
 0.0.0.0 yylys.com
 :: yylys.com
 0.0.0.0 yymmsd.cn
