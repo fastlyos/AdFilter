@@ -1,11 +1,11 @@
-# Checksum: MTYwMDg3MzQzOQo=
+# Checksum: MTYwMDg4NDIzOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200923-5
-# TimeUpdated: 2020-09-23T15:03:59+00:00
+# Version: 1.6.1-20200923-6
+# TimeUpdated: 2020-09-23T18:03:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34740
+# Total: 34743
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1496,8 +1496,6 @@ ff02::3 ip6-allhosts
 :: 466128.com
 0.0.0.0 4690y10pvpq8.com
 :: 4690y10pvpq8.com
-0.0.0.0 46a5e78eda.com
-:: 46a5e78eda.com
 0.0.0.0 46sg.com
 :: 46sg.com
 0.0.0.0 4702fb341ddf276d.com
@@ -8296,6 +8294,10 @@ ff02::3 ip6-allhosts
 :: analytics.sleeknote.com
 0.0.0.0 analytics.smallpdf.com
 :: analytics.smallpdf.com
+0.0.0.0 analytics.snappea.com
+:: analytics.snappea.com
+0.0.0.0 analytics.snaptube.app
+:: analytics.snaptube.app
 0.0.0.0 analytics.snidigital.com
 :: analytics.snidigital.com
 0.0.0.0 analytics.snssdk.com
@@ -12004,8 +12006,6 @@ ff02::3 ip6-allhosts
 :: bjedpt.com
 0.0.0.0 bjgtsh.com
 :: bjgtsh.com
-0.0.0.0 bjhengdiao.com
-:: bjhengdiao.com
 0.0.0.0 bjhjw.com.cn
 :: bjhjw.com.cn
 0.0.0.0 bjhuhangjy.com
@@ -12674,6 +12674,8 @@ ff02::3 ip6-allhosts
 :: browsiprod.com
 0.0.0.0 brqvld0p.com
 :: brqvld0p.com
+0.0.0.0 brrqeprqsrvrt.com
+:: brrqeprqsrvrt.com
 0.0.0.0 brtsumthree.com
 :: brtsumthree.com
 0.0.0.0 brucelead.com
@@ -17796,8 +17798,6 @@ ff02::3 ip6-allhosts
 :: cvintertain.club
 0.0.0.0 cvqgnkeqme.com
 :: cvqgnkeqme.com
-0.0.0.0 cvsuqfsul.com
-:: cvsuqfsul.com
 0.0.0.0 cvt.mydas.mobi
 :: cvt.mydas.mobi
 0.0.0.0 cvypzafq.com
@@ -18608,8 +18608,6 @@ ff02::3 ip6-allhosts
 :: d4.sina.com.cn
 0.0.0.0 d4.sinaimg.cn
 :: d4.sinaimg.cn
-0.0.0.0 d409255ce88.com
-:: d409255ce88.com
 0.0.0.0 d41.co
 :: d41.co
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
@@ -51104,6 +51102,8 @@ ff02::3 ip6-allhosts
 :: sensor.org.ua
 0.0.0.0 sensors.cloud.tencent.com
 :: sensors.cloud.tencent.com
+0.0.0.0 sensors.snappea.com
+:: sensors.snappea.com
 0.0.0.0 sensorsdata.ruguoapp.com
 :: sensorsdata.ruguoapp.com
 0.0.0.0 sentry.nullrefexcep.com
@@ -57314,6 +57314,8 @@ ff02::3 ip6-allhosts
 :: tmfkuesmlpto.com
 0.0.0.0 tmgr.ccmbg.com
 :: tmgr.ccmbg.com
+0.0.0.0 tmhfbwgpvzcxly.com
+:: tmhfbwgpvzcxly.com
 0.0.0.0 tmmjgcp.cn
 :: tmmjgcp.cn
 0.0.0.0 tmn-d.openx.net
@@ -62850,6 +62852,8 @@ ff02::3 ip6-allhosts
 :: weq.me
 0.0.0.0 werbe-sponsor.de
 :: werbe-sponsor.de
+0.0.0.0 weredadmitt.club
+:: weredadmitt.club
 0.0.0.0 werpig.com
 :: werpig.com
 0.0.0.0 wervp.com
@@ -62898,6 +62902,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com

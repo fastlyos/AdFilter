@@ -1,11 +1,11 @@
-! Checksum: MTYwMDg3MzQzOQo=
+! Checksum: MTYwMDg4NDIzOAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.1-20200923-5
-! TimeUpdated: 2020-09-23T15:03:59+00:00
+! Version: 1.6.1-20200923-6
+! TimeUpdated: 2020-09-23T18:03:58+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 34740
+! Total: 34743
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -746,7 +746,6 @@
 |45f2373b26b8e2.com^
 |466128.com^
 |4690y10pvpq8.com^
-|46a5e78eda.com^
 |46sg.com^
 |4702fb341ddf276d.com^
 |473863a8ef28.com^
@@ -4146,6 +4145,8 @@
 |analytics.slashdotmedia.com^
 |analytics.sleeknote.com^
 |analytics.smallpdf.com^
+|analytics.snappea.com^
+|analytics.snaptube.app^
 |analytics.snidigital.com^
 |analytics.snssdk.com^
 |analytics.socialblade.com^
@@ -6000,7 +6001,6 @@
 |bjeai.com^
 |bjedpt.com^
 |bjgtsh.com^
-|bjhengdiao.com^
 |bjhjw.com.cn^
 |bjhuhangjy.com^
 |bjlmok.com^
@@ -6335,6 +6335,7 @@
 |browsersurf.12finance.com^
 |browsiprod.com^
 |brqvld0p.com^
+|brrqeprqsrvrt.com^
 |brtsumthree.com^
 |brucelead.com^
 |bruceleadx.com^
@@ -8896,7 +8897,6 @@
 |cvda.17173.com^
 |cvintertain.club^
 |cvqgnkeqme.com^
-|cvsuqfsul.com^
 |cvt.mydas.mobi^
 |cvypzafq.com^
 |cw.guominziben.com^
@@ -9302,7 +9302,6 @@
 |d4.mobaders.com^
 |d4.sina.com.cn^
 |d4.sinaimg.cn^
-|d409255ce88.com^
 |d41.co^
 |d4ax0r5detcsu.cloudfront.net^
 |d4d48974197052ea.com^
@@ -25550,6 +25549,7 @@
 |sensic.net^
 |sensor.org.ua^
 |sensors.cloud.tencent.com^
+|sensors.snappea.com^
 |sensorsdata.ruguoapp.com^
 |sentry.nullrefexcep.com^
 |senzapudore.it^
@@ -28655,6 +28655,7 @@
 |tmea116.oss-cn-beijing.aliyuncs.com^
 |tmfkuesmlpto.com^
 |tmgr.ccmbg.com^
+|tmhfbwgpvzcxly.com^
 |tmmjgcp.cn^
 |tmn-d.openx.net^
 |tmp.hnshanju.com^
@@ -31423,6 +31424,7 @@
 |wepmmzpypfwq.com^
 |weq.me^
 |werbe-sponsor.de^
+|weredadmitt.club^
 |werpig.com^
 |wervp.com^
 |wes.df.telemetry.microsoft.com^
@@ -31447,6 +31449,7 @@
 |wgf.ioahdio.com^
 |wghmgbjpxmlxa.com^
 |wgie.0z5jn.cn^
+|wgmgmg.biqugeso.com^
 |wgnlz.com^
 |wgnpq.com^
 |wgo.mmstat.com^
