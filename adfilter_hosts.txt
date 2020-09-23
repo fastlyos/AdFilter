@@ -1,11 +1,11 @@
-# Checksum: MTYwMDg1MTgyOAo=
+# Checksum: MTYwMDg2MjY4MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200923-3
-# TimeUpdated: 2020-09-23T09:03:48+00:00
+# Version: 1.6.1-20200923-4
+# TimeUpdated: 2020-09-23T12:04:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34723
+# Total: 34726
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -200,6 +200,8 @@ ff02::3 ip6-allhosts
 :: 0dbcf515975d.com
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
 :: 0e6fc55ed3d4c2c2ba0.com
+0.0.0.0 0f461325bf56c3e1b9.com
+:: 0f461325bf56c3e1b9.com
 0.0.0.0 0fwg.cn
 :: 0fwg.cn
 0.0.0.0 0gctp5ht.top
@@ -6090,8 +6092,6 @@ ff02::3 ip6-allhosts
 :: adskom.com
 0.0.0.0 adskpak.com
 :: adskpak.com
-0.0.0.0 adslala.com
-:: adslala.com
 0.0.0.0 adslidango.com
 :: adslidango.com
 0.0.0.0 adslingers.com
@@ -8850,6 +8850,8 @@ ff02::3 ip6-allhosts
 :: api.growingio.com
 0.0.0.0 api.h4game.net
 :: api.h4game.net
+0.0.0.0 api.hfyhjg.cn
+:: api.hfyhjg.cn
 0.0.0.0 api.iapps.ifeng.com
 :: api.iapps.ifeng.com
 0.0.0.0 api.iimedia.cn
@@ -10162,6 +10164,8 @@ ff02::3 ip6-allhosts
 :: awstaticdn.net
 0.0.0.0 awsurveys.com
 :: awsurveys.com
+0.0.0.0 awyys.com
+:: awyys.com
 0.0.0.0 awzbijw.com
 :: awzbijw.com
 0.0.0.0 ax.120ask.com
@@ -15506,6 +15510,8 @@ ff02::3 ip6-allhosts
 :: clubpenguinclub.com
 0.0.0.0 clvk.viki.io
 :: clvk.viki.io
+0.0.0.0 clzfurcqmlgw.com
+:: clzfurcqmlgw.com
 0.0.0.0 cm-exchange.toast.com
 :: cm-exchange.toast.com
 0.0.0.0 cm.adgrx.com
@@ -18664,8 +18670,6 @@ ff02::3 ip6-allhosts
 :: d7dza8s7j2am6.cloudfront.net
 0.0.0.0 d7e10fa2099.com
 :: d7e10fa2099.com
-0.0.0.0 d7s3muv.cn
-:: d7s3muv.cn
 0.0.0.0 d8.sina.com.cn
 :: d8.sina.com.cn
 0.0.0.0 d8.sinaimg.cn
@@ -31658,6 +31662,8 @@ ff02::3 ip6-allhosts
 :: javbucks.com
 0.0.0.0 javhd.com
 :: javhd.com
+0.0.0.0 jaxwrwvxfscq.com
+:: jaxwrwvxfscq.com
 0.0.0.0 jaymancash.com
 :: jaymancash.com
 0.0.0.0 jazmonbetter.pro
@@ -62868,8 +62874,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -68512,6 +68516,8 @@ ff02::3 ip6-allhosts
 :: yuu360.com
 0.0.0.0 yuunion.com
 :: yuunion.com
+0.0.0.0 yuwxounw.com
+:: yuwxounw.com
 0.0.0.0 yuxiangrc.com
 :: yuxiangrc.com
 0.0.0.0 yuxiny.com
