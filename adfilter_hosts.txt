@@ -1,11 +1,11 @@
-# Checksum: MTYwMDg2MjY4MQo=
+# Checksum: MTYwMDg3MzQzOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200923-4
-# TimeUpdated: 2020-09-23T12:04:41+00:00
+# Version: 1.6.1-20200923-5
+# TimeUpdated: 2020-09-23T15:03:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34726
+# Total: 34740
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1496,6 +1496,8 @@ ff02::3 ip6-allhosts
 :: 466128.com
 0.0.0.0 4690y10pvpq8.com
 :: 4690y10pvpq8.com
+0.0.0.0 46a5e78eda.com
+:: 46a5e78eda.com
 0.0.0.0 46sg.com
 :: 46sg.com
 0.0.0.0 4702fb341ddf276d.com
@@ -2578,6 +2580,8 @@ ff02::3 ip6-allhosts
 :: 8b4pea.c.admaster.com.cn
 0.0.0.0 8b6dfa.v.admaster.com.cn
 :: 8b6dfa.v.admaster.com.cn
+0.0.0.0 8baf7ae42000024.com
+:: 8baf7ae42000024.com
 0.0.0.0 8bef5bb6b351ca5e.com
 :: 8bef5bb6b351ca5e.com
 0.0.0.0 8bf8170108e3304.com
@@ -7798,8 +7802,6 @@ ff02::3 ip6-allhosts
 :: amateurcouplewebcam.com
 0.0.0.0 amaumomt.com
 :: amaumomt.com
-0.0.0.0 amavirgin.pro
-:: amavirgin.pro
 0.0.0.0 amazingairplane.com
 :: amazingairplane.com
 0.0.0.0 amazingcounters.com
@@ -9416,6 +9418,8 @@ ff02::3 ip6-allhosts
 :: areasons.club
 0.0.0.0 areasonsimon.club
 :: areasonsimon.club
+0.0.0.0 arefusedfollo.club
+:: arefusedfollo.club
 0.0.0.0 arejoysew.com
 :: arejoysew.com
 0.0.0.0 arentpremi.space
@@ -12436,6 +12440,8 @@ ff02::3 ip6-allhosts
 :: bostonwall.com
 0.0.0.0 bostoppa.club
 :: bostoppa.club
+0.0.0.0 bot-checker.com
+:: bot-checker.com
 0.0.0.0 botdetector.ru
 :: botdetector.ru
 0.0.0.0 botize.com
@@ -14632,6 +14638,8 @@ ff02::3 ip6-allhosts
 :: checkru.net
 0.0.0.0 checkstat.nl
 :: checkstat.nl
+0.0.0.0 checkyofeed.com
+:: checkyofeed.com
 0.0.0.0 cheeltee.net
 :: cheeltee.net
 0.0.0.0 cheer.cjoy.com.cn
@@ -14666,6 +14674,8 @@ ff02::3 ip6-allhosts
 :: chexiw.com
 0.0.0.0 chgdf.cn
 :: chgdf.cn
+0.0.0.0 chgilks.com
+:: chgilks.com
 0.0.0.0 chiasephim.xyz
 :: chiasephim.xyz
 0.0.0.0 chicbuy.info
@@ -14716,6 +14726,8 @@ ff02::3 ip6-allhosts
 :: chiuhua.com.cn
 0.0.0.0 chjriixbqmppwm.com
 :: chjriixbqmppwm.com
+0.0.0.0 chkfdt.com
+:: chkfdt.com
 0.0.0.0 chkpt.zdnet.com
 :: chkpt.zdnet.com
 0.0.0.0 chmproxy.bid
@@ -14732,6 +14744,8 @@ ff02::3 ip6-allhosts
 :: chocohjuanfhdhf.com
 0.0.0.0 choice.microsoft.com.nsatc.net
 :: choice.microsoft.com.nsatc.net
+0.0.0.0 choinsiden.club
+:: choinsiden.club
 0.0.0.0 chokertraffic.com
 :: chokertraffic.com
 0.0.0.0 choogeet.net
@@ -18566,8 +18580,6 @@ ff02::3 ip6-allhosts
 :: d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3rxqouo2bn71j.cloudfront.net
 :: d3rxqouo2bn71j.cloudfront.net
-0.0.0.0 d3s5kn5t.cn
-:: d3s5kn5t.cn
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
 :: d3s7ggfq1s6jlj.cloudfront.net
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
@@ -18596,6 +18608,8 @@ ff02::3 ip6-allhosts
 :: d4.sina.com.cn
 0.0.0.0 d4.sinaimg.cn
 :: d4.sinaimg.cn
+0.0.0.0 d409255ce88.com
+:: d409255ce88.com
 0.0.0.0 d41.co
 :: d41.co
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
@@ -18646,8 +18660,6 @@ ff02::3 ip6-allhosts
 :: d6jfiirio372.com
 0.0.0.0 d6jkenny8w8yo.cloudfront.net
 :: d6jkenny8w8yo.cloudfront.net
-0.0.0.0 d6s3mov.cn
-:: d6s3mov.cn
 0.0.0.0 d6sav80kktzcx.cloudfront.net
 :: d6sav80kktzcx.cloudfront.net
 0.0.0.0 d7.mobaders.com
@@ -21710,6 +21722,8 @@ ff02::3 ip6-allhosts
 :: eap.enorth.com.cn
 0.0.0.0 eaqxjz6bra.com
 :: eaqxjz6bra.com
+0.0.0.0 eardepth-prisists.com
+:: eardepth-prisists.com
 0.0.0.0 eardewova.com
 :: eardewova.com
 0.0.0.0 earednorthymisund.info
@@ -24946,6 +24960,8 @@ ff02::3 ip6-allhosts
 :: freecouponbiz.com
 0.0.0.0 freedrive.cn
 :: freedrive.cn
+0.0.0.0 freeevpn.info
+:: freeevpn.info
 0.0.0.0 freegamespub.com
 :: freegamespub.com
 0.0.0.0 freegeoip.app
@@ -31610,6 +31626,8 @@ ff02::3 ip6-allhosts
 :: jajbufmcl.com
 0.0.0.0 jakzpcgrxgda.com
 :: jakzpcgrxgda.com
+0.0.0.0 jamcdn.pro
+:: jamcdn.pro
 0.0.0.0 jamdomn.pro
 :: jamdomn.pro
 0.0.0.0 jamestop.xyz
@@ -40426,6 +40444,8 @@ ff02::3 ip6-allhosts
 :: neuesdate.com
 0.0.0.0 neurishot.info
 :: neurishot.info
+0.0.0.0 neuronales.xyz
+:: neuronales.xyz
 0.0.0.0 never.ovh
 :: never.ovh
 0.0.0.0 never2date.com
@@ -54840,6 +54860,8 @@ ff02::3 ip6-allhosts
 :: streamsend.com
 0.0.0.0 streamspeedygreatlyapplication.best
 :: streamspeedygreatlyapplication.best
+0.0.0.0 streamyourvid.com
+:: streamyourvid.com
 0.0.0.0 streem.com.au
 :: streem.com.au
 0.0.0.0 stremanp.com
@@ -61584,6 +61606,8 @@ ff02::3 ip6-allhosts
 :: vitalads.net
 0.0.0.0 vitoryjober.club
 :: vitoryjober.club
+0.0.0.0 vivdq.com
+:: vivdq.com
 0.0.0.0 vividcash.com
 :: vividcash.com
 0.0.0.0 vivistats.com
@@ -67720,6 +67744,8 @@ ff02::3 ip6-allhosts
 :: yar7faf2a8cadf.zjlanbi.com
 0.0.0.0 yashi.com
 :: yashi.com
+0.0.0.0 yasmwesikz.com
+:: yasmwesikz.com
 0.0.0.0 yassociallya.club
 :: yassociallya.club
 0.0.0.0 yast.rutube.ru
@@ -69048,6 +69074,8 @@ ff02::3 ip6-allhosts
 :: zidedge.com
 0.0.0.0 ziebgbikz.com
 :: ziebgbikz.com
+0.0.0.0 zifjgjddpy.com
+:: zifjgjddpy.com
 0.0.0.0 ziig.com.cn
 :: ziig.com.cn
 0.0.0.0 zijaipse.com
