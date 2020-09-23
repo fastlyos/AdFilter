@@ -1,11 +1,11 @@
-# Checksum: MTYwMDg0MTA3OQo=
+# Checksum: MTYwMDg1MTgyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.1-20200923-2
-# TimeUpdated: 2020-09-23T06:04:39+00:00
+# Version: 1.6.1-20200923-3
+# TimeUpdated: 2020-09-23T09:03:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34716
+# Total: 34723
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11010,6 +11010,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11312,8 +11314,6 @@ ff02::3 ip6-allhosts
 :: beacons5.gvt2.com
 0.0.0.0 beaconstreetservices.com
 :: beaconstreetservices.com
-0.0.0.0 beacyoryjkbhqb.com
-:: beacyoryjkbhqb.com
 0.0.0.0 beagle.prod.tda.link
 :: beagle.prod.tda.link
 0.0.0.0 beak.bd.313.nl
@@ -25462,6 +25462,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g1.08160.cn
@@ -41806,6 +41808,8 @@ ff02::3 ip6-allhosts
 :: oinkinns.tk
 0.0.0.0 oinqqbzs.com
 :: oinqqbzs.com
+0.0.0.0 oir85.cn
+:: oir85.cn
 0.0.0.0 oiycak.com
 :: oiycak.com
 0.0.0.0 ojaulrop.com
@@ -61788,6 +61792,8 @@ ff02::3 ip6-allhosts
 :: vpie.net
 0.0.0.0 vpkq.cn
 :: vpkq.cn
+0.0.0.0 vpn.baolq666.com
+:: vpn.baolq666.com
 0.0.0.0 vpn.celueziben.com
 :: vpn.celueziben.com
 0.0.0.0 vpn.ch-hr12333.com
@@ -62862,6 +62868,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63474,6 +63482,8 @@ ff02::3 ip6-allhosts
 :: wqgdajjozr.com
 0.0.0.0 wqgkainysj.ru
 :: wqgkainysj.ru
+0.0.0.0 wqkqrmzldk.com
+:: wqkqrmzldk.com
 0.0.0.0 wqlkp.com
 :: wqlkp.com
 0.0.0.0 wqmobile.com
@@ -67394,6 +67404,8 @@ ff02::3 ip6-allhosts
 :: xtendente.club
 0.0.0.0 xtendmedia.com
 :: xtendmedia.com
+0.0.0.0 xtensotherec.club
+:: xtensotherec.club
 0.0.0.0 xtmuasvldoiz.com
 :: xtmuasvldoiz.com
 0.0.0.0 xtrack.capetown.gov.za
@@ -67996,6 +68008,8 @@ ff02::3 ip6-allhosts
 :: yifuls.com
 0.0.0.0 yigemi.com
 :: yigemi.com
+0.0.0.0 yigyx.com
+:: yigyx.com
 0.0.0.0 yihubaiying.com
 :: yihubaiying.com
 0.0.0.0 yiiwoo.com
