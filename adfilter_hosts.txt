@@ -1,11 +1,11 @@
-# Checksum: MTYwMDkyMDM5Ngo=
+# Checksum: MTYwMDkyNzQ0MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200924-1
-# TimeUpdated: 2020-09-24T04:06:36+00:00
+# Version: 1.6.3-20200924-2
+# TimeUpdated: 2020-09-24T06:04:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34695
+# Total: 34705
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7380,6 +7380,8 @@ ff02::3 ip6-allhosts
 :: airportedede.club
 0.0.0.0 airpr.com
 :: airpr.com
+0.0.0.0 airproxyproxy.pw
+:: airproxyproxy.pw
 0.0.0.0 airproxyunblocked.org
 :: airproxyunblocked.org
 0.0.0.0 airpush.com
@@ -7808,6 +7810,8 @@ ff02::3 ip6-allhosts
 :: amc.m.qiuwu.net
 0.0.0.0 amcdn.vn
 :: amcdn.vn
+0.0.0.0 amcpusvcit.com
+:: amcpusvcit.com
 0.0.0.0 amdcopen.m.taobao.com
 :: amdcopen.m.taobao.com
 0.0.0.0 amerallyluke.club
@@ -8144,6 +8148,8 @@ ff02::3 ip6-allhosts
 :: analytics.kidoz.net
 0.0.0.0 analytics.liftoff.io
 :: analytics.liftoff.io
+0.0.0.0 analytics.linktr.ee
+:: analytics.linktr.ee
 0.0.0.0 analytics.live.com
 :: analytics.live.com
 0.0.0.0 analytics.liveact.cri-mw.jp
@@ -10548,6 +10554,8 @@ ff02::3 ip6-allhosts
 :: baicoath.net
 0.0.0.0 baid1.okooo.com
 :: baid1.okooo.com
+0.0.0.0 baidu.cybcyw.com
+:: baidu.cybcyw.com
 0.0.0.0 baidu.dsp.tansuotv.com
 :: baidu.dsp.tansuotv.com
 0.0.0.0 baidu.greenxf.cn
@@ -11308,8 +11316,6 @@ ff02::3 ip6-allhosts
 :: beaconstreetservices.com
 0.0.0.0 beagle.prod.tda.link
 :: beagle.prod.tda.link
-0.0.0.0 beak.bd.313.nl
-:: beak.bd.313.nl
 0.0.0.0 beam.remp.impresa.pt
 :: beam.remp.impresa.pt
 0.0.0.0 beam.remp.nv.ua
@@ -23628,6 +23634,8 @@ ff02::3 ip6-allhosts
 :: f1.ichong123.com
 0.0.0.0 f1.luoshenbest.cn
 :: f1.luoshenbest.cn
+0.0.0.0 f1.lutouwang.net
+:: f1.lutouwang.net
 0.0.0.0 f1.meishichina.com
 :: f1.meishichina.com
 0.0.0.0 f1.p0y.cn
@@ -33412,6 +33420,8 @@ ff02::3 ip6-allhosts
 :: kodnkhqvbxpc.com
 0.0.0.0 kohiquor.com
 :: kohiquor.com
+0.0.0.0 koimplishing.club
+:: koimplishing.club
 0.0.0.0 koindut.com
 :: koindut.com
 0.0.0.0 kokofits.com
@@ -35692,6 +35702,8 @@ ff02::3 ip6-allhosts
 :: lyadu.com
 0.0.0.0 lyapi.1391.com
 :: lyapi.1391.com
+0.0.0.0 lyaustrymich.club
+:: lyaustrymich.club
 0.0.0.0 lychangxu.cn
 :: lychangxu.cn
 0.0.0.0 lycos-eu.imrworldwide.com
@@ -35808,6 +35820,8 @@ ff02::3 ip6-allhosts
 :: m.24haitao.net
 0.0.0.0 m.29hgg.cn
 :: m.29hgg.cn
+0.0.0.0 m.2fnrc.cn
+:: m.2fnrc.cn
 0.0.0.0 m.2l06k.cn
 :: m.2l06k.cn
 0.0.0.0 m.2l7ha.cn
@@ -65720,6 +65734,8 @@ ff02::3 ip6-allhosts
 :: www.predictivadvertising.com
 0.0.0.0 www.prjslxhtx003.top
 :: www.prjslxhtx003.top
+0.0.0.0 www.prjslxhtx005.top
+:: www.prjslxhtx005.top
 0.0.0.0 www.pro.cn
 :: www.pro.cn
 0.0.0.0 www.proxy-ddsjfhkmnk.now.sh
@@ -67306,6 +67322,8 @@ ff02::3 ip6-allhosts
 :: xsc.x81zw.com
 0.0.0.0 xsgpzbipelo.com
 :: xsgpzbipelo.com
+0.0.0.0 xsmangbomdick.com
+:: xsmangbomdick.com
 0.0.0.0 xsnfmaxicj.com
 :: xsnfmaxicj.com
 0.0.0.0 xsolid.baidu.com
@@ -68136,6 +68154,8 @@ ff02::3 ip6-allhosts
 :: ynqmordtj.com
 0.0.0.0 ynuf.alibaba.com
 :: ynuf.alibaba.com
+0.0.0.0 ynwqls.com
+:: ynwqls.com
 0.0.0.0 ynyfcz.cn
 :: ynyfcz.cn
 0.0.0.0 ynzby.cn
