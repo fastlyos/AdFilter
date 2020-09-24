@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.2
+# Current Version: 1.6.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -66,6 +66,7 @@ function GetData() {
         "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
         "https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt"
         "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
+        "https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt"
         "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt"
         "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt"
