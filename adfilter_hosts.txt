@@ -1,11 +1,11 @@
-# Checksum: MTYwMDkzODIzNAo=
+# Checksum: MTYwMDk0OTA3Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200924-3
-# TimeUpdated: 2020-09-24T09:03:54+00:00
+# Version: 1.6.3-20200924-4
+# TimeUpdated: 2020-09-24T12:04:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34714
+# Total: 34715
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -17960,8 +17960,6 @@ ff02::3 ip6-allhosts
 :: d.haberler.com
 0.0.0.0 d.haireig.com
 :: d.haireig.com
-0.0.0.0 d.haiyong33.cn
-:: d.haiyong33.cn
 0.0.0.0 d.jbpbox.com
 :: d.jbpbox.com
 0.0.0.0 d.jjyx.com
@@ -23824,6 +23822,8 @@ ff02::3 ip6-allhosts
 :: fan-yong.com
 0.0.0.0 fancialeldak.site
 :: fancialeldak.site
+0.0.0.0 fancialsilveun.club
+:: fancialsilveun.club
 0.0.0.0 fancymedia-cm.admaster.com.cn
 :: fancymedia-cm.admaster.com.cn
 0.0.0.0 fandelcot.com
@@ -40002,8 +40002,6 @@ ff02::3 ip6-allhosts
 :: naircastlecywr.club
 0.0.0.0 naj.sk
 :: naj.sk
-0.0.0.0 najingyi.cn
-:: najingyi.cn
 0.0.0.0 najva.com
 :: najva.com
 0.0.0.0 najyzdlmqq.com
@@ -62832,8 +62830,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -65750,8 +65746,14 @@ ff02::3 ip6-allhosts
 :: www.predictivadvertising.com
 0.0.0.0 www.prjslxhtx003.top
 :: www.prjslxhtx003.top
+0.0.0.0 www.prjslxhtx004.top
+:: www.prjslxhtx004.top
 0.0.0.0 www.prjslxhtx005.top
 :: www.prjslxhtx005.top
+0.0.0.0 www.prjslxhtx006.top
+:: www.prjslxhtx006.top
+0.0.0.0 www.prjslxhtx007.top
+:: www.prjslxhtx007.top
 0.0.0.0 www.pro.cn
 :: www.pro.cn
 0.0.0.0 www.proxy-ddsjfhkmnk.now.sh
