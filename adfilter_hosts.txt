@@ -1,11 +1,11 @@
-# Checksum: MTYwMDk1OTgzOAo=
+# Checksum: MTYwMDk3MDYzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200924-5
-# TimeUpdated: 2020-09-24T15:03:58+00:00
+# Version: 1.6.3-20200924-6
+# TimeUpdated: 2020-09-24T18:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34721
+# Total: 34725
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11016,6 +11016,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -47024,6 +47026,8 @@ ff02::3 ip6-allhosts
 :: qxfly.com
 0.0.0.0 qxm.pluto.sogou.com
 :: qxm.pluto.sogou.com
+0.0.0.0 qxvmcpqcao.com
+:: qxvmcpqcao.com
 0.0.0.0 qxxys.com
 :: qxxys.com
 0.0.0.0 qycjrkfzx.com
@@ -59146,8 +59150,6 @@ ff02::3 ip6-allhosts
 :: ttauri.whathifi.com
 0.0.0.0 ttbc.cc
 :: ttbc.cc
-0.0.0.0 ttbc33.com
-:: ttbc33.com
 0.0.0.0 ttcdn.cn
 :: ttcdn.cn
 0.0.0.0 ttdbj.com
@@ -62740,8 +62742,6 @@ ff02::3 ip6-allhosts
 :: weixinfb.cn
 0.0.0.0 weixingshexiangji.net
 :: weixingshexiangji.net
-0.0.0.0 weiyajz.cn
-:: weiyajz.cn
 0.0.0.0 weizjzg.com
 :: weizjzg.com
 0.0.0.0 wejibk.com.cn
@@ -62842,6 +62842,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63106,6 +63108,8 @@ ff02::3 ip6-allhosts
 :: wildxxxparties.com
 0.0.0.0 wilf.cn
 :: wilf.cn
+0.0.0.0 willioninterpr.club
+:: willioninterpr.club
 0.0.0.0 wiltsglosstandard-gb.wiltsglosstandard.co.uk
 :: wiltsglosstandard-gb.wiltsglosstandard.co.uk
 0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
@@ -65428,6 +65432,8 @@ ff02::3 ip6-allhosts
 :: www.laoqu123.com
 0.0.0.0 www.laserveradedomaina.com
 :: www.laserveradedomaina.com
+0.0.0.0 www.ledhenone.com
+:: www.ledhenone.com
 0.0.0.0 www.lessplay.com
 :: www.lessplay.com
 0.0.0.0 www.liangao.com
@@ -68950,6 +68956,8 @@ ff02::3 ip6-allhosts
 :: zhanzhang.baidu.com
 0.0.0.0 zhanzhang.net
 :: zhanzhang.net
+0.0.0.0 zhengyejixie.com
+:: zhengyejixie.com
 0.0.0.0 zhengzhoupengbo.com
 :: zhengzhoupengbo.com
 0.0.0.0 zhenhun.co
