@@ -1,11 +1,11 @@
-# Checksum: MTYwMDk3MDYzNQo=
+# Checksum: MTYwMDk4MTQzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200924-6
-# TimeUpdated: 2020-09-24T18:03:55+00:00
+# Version: 1.6.3-20200924-7
+# TimeUpdated: 2020-09-24T21:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34725
+# Total: 34729
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7678,6 +7678,8 @@ ff02::3 ip6-allhosts
 :: allpass.salemwebnetwork.com
 0.0.0.0 allsporttv.com
 :: allsporttv.com
+0.0.0.0 alltagcloud.info
+:: alltagcloud.info
 0.0.0.0 alltracked.com
 :: alltracked.com
 0.0.0.0 allure-ng.net
@@ -23022,6 +23024,8 @@ ff02::3 ip6-allhosts
 :: et.w.inmobi.cn
 0.0.0.0 et.w.inmobi.com
 :: et.w.inmobi.com
+0.0.0.0 etacontralmi.club
+:: etacontralmi.club
 0.0.0.0 etargetnet.com
 :: etargetnet.com
 0.0.0.0 etc-eu.beeppool.org
@@ -28886,6 +28890,8 @@ ff02::3 ip6-allhosts
 :: hprofits.com
 0.0.0.0 hpwdohgicpmi.com
 :: hpwdohgicpmi.com
+0.0.0.0 hpwoowyxhrsatx.com
+:: hpwoowyxhrsatx.com
 0.0.0.0 hpyjmp.com
 :: hpyjmp.com
 0.0.0.0 hpyrdr.com
@@ -29440,6 +29446,8 @@ ff02::3 ip6-allhosts
 :: i8.i8ggwm.com
 0.0.0.0 i864ekhq.com
 :: i864ekhq.com
+0.0.0.0 i87b3.cn
+:: i87b3.cn
 0.0.0.0 i99i.org
 :: i99i.org
 0.0.0.0 ia.51.la
