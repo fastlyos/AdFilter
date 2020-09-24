@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.1
+# Current Version: 1.6.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -107,16 +107,6 @@ function GenerateInformation() {
     adfilter_title="Zhijie's Ad Filter"
     adfilter_total=$(awk 'NR == FNR { tmp[$0] = 1 } NR > FNR { if ( tmp[$0] != 1 ) print }' ./filter_allow.tmp ./filter_block.tmp | sort | uniq > ./checklist.tmp && sed -n '$=' ./checklist.tmp)
     adfilter_version=$(cat ../release.sh | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$((10#$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
-    function adfilter_adblock() {
-        echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adblock.txt
-        echo "! Title: ${adfilter_title} for Adblock" >> ../adfilter_adblock.txt
-        echo "! Description: ${adfilter_description}" >> ../adfilter_adblock.txt
-        echo "! Version: ${adfilter_version}" >> ../adfilter_adblock.txt
-        echo "! TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_adblock.txt
-        echo "! Expires: ${adfilter_expires}" >> ../adfilter_adblock.txt
-        echo "! Homepage: ${adfilter_homepage}" >> ../adfilter_adblock.txt
-        echo "! Total: ${adfilter_total}" >> ../adfilter_adblock.txt
-    }
     function adfilter_adguardhome() {
         echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adguardhome.txt
         echo "! Title: ${adfilter_title} for AdGuard Home (DNS-level)" >> ../adfilter_adguardhome.txt
@@ -197,7 +187,6 @@ function GenerateInformation() {
         echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_unbound.conf
         echo "# Total: ${adfilter_total}" >> ../adfilter_unbound.conf
     }
-    adfilter_adblock
     adfilter_adguardhome
     adfilter_dnsmasq
     adfilter_domains
@@ -211,7 +200,6 @@ function OutputData() {
     if [ ! -f "../adfilter_domains.txt" ]; then
         GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
-            echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
             echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adguardhome.txt
             echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
             echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
@@ -232,7 +220,6 @@ function OutputData() {
         else
             GenerateInformation
             for filter_data_task in "${!filter_data[@]}"; do
-                echo "||${filter_data[$filter_data_task]}^" >> ../adfilter_adblock.txt
                 echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adguardhome.txt
                 echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
                 echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
