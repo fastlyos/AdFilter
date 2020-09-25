@@ -1,11 +1,11 @@
-# Checksum: MTYwMTAxMzkyOAo=
+# Checksum: MTYwMTAyNDYzNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200925-2
-# TimeUpdated: 2020-09-25T06:05:28+00:00
+# Version: 1.6.3-20200925-3
+# TimeUpdated: 2020-09-25T09:03:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34737
+# Total: 34740
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2808,8 +2808,6 @@ ff02::3 ip6-allhosts
 :: 99counters.com
 0.0.0.0 99dqw.com
 :: 99dqw.com
-0.0.0.0 99f8719c6d.com
-:: 99f8719c6d.com
 0.0.0.0 99lolo.com
 :: 99lolo.com
 0.0.0.0 99nfft.com
@@ -3950,6 +3948,8 @@ ff02::3 ip6-allhosts
 :: ad-indicator.com
 0.0.0.0 ad-locus.com
 :: ad-locus.com
+0.0.0.0 ad-log.dable.io
+:: ad-log.dable.io
 0.0.0.0 ad-maven.com
 :: ad-maven.com
 0.0.0.0 ad-miner.com
@@ -6842,6 +6842,8 @@ ff02::3 ip6-allhosts
 :: aegzjowko.com
 0.0.0.0 aelphotog.pro
 :: aelphotog.pro
+0.0.0.0 aem-collector.daumkakao.io
+:: aem-collector.daumkakao.io
 0.0.0.0 aemediatraffic.com
 :: aemediatraffic.com
 0.0.0.0 aenan.pw
@@ -10604,8 +10606,6 @@ ff02::3 ip6-allhosts
 :: baidustatic.com
 0.0.0.0 baidut.github.io
 :: baidut.github.io
-0.0.0.0 baiduvip.life
-:: baiduvip.life
 0.0.0.0 baiduyoukualiyun.com
 :: baiduyoukualiyun.com
 0.0.0.0 baiduyubaidu.com
@@ -13944,8 +13944,6 @@ ff02::3 ip6-allhosts
 :: cdaz.icu
 0.0.0.0 cdcz.xyz
 :: cdcz.xyz
-0.0.0.0 cddjdjwatndgja.com
-:: cddjdjwatndgja.com
 0.0.0.0 cdfzcz.com
 :: cdfzcz.com
 0.0.0.0 cdgfa.ifeng.com
@@ -20880,6 +20878,8 @@ ff02::3 ip6-allhosts
 :: dspserver.ad.cmvideo.cn
 0.0.0.0 dsptrack.mobshark.net
 :: dsptrack.mobshark.net
+0.0.0.0 dssdr.top
+:: dssdr.top
 0.0.0.0 dsstrk.com
 :: dsstrk.com
 0.0.0.0 dstik9906m659.cloudfront.net
@@ -33700,6 +33700,8 @@ ff02::3 ip6-allhosts
 :: kymirasite.pro
 0.0.0.0 kyouad.com
 :: kyouad.com
+0.0.0.0 kyson.kakao.com
+:: kyson.kakao.com
 0.0.0.0 kythodoby.pro
 :: kythodoby.pro
 0.0.0.0 kyunheet.cn
@@ -35860,6 +35862,8 @@ ff02::3 ip6-allhosts
 :: m.2l06k.cn
 0.0.0.0 m.2l7ha.cn
 :: m.2l7ha.cn
+0.0.0.0 m.36ia2.cn
+:: m.36ia2.cn
 0.0.0.0 m.3987.com
 :: m.3987.com
 0.0.0.0 m.3md74lw.top
@@ -42568,6 +42572,8 @@ ff02::3 ip6-allhosts
 :: oughgoalityabo.info
 0.0.0.0 ouhegapy.net
 :: ouhegapy.net
+0.0.0.0 oujlnbyavjhy.com
+:: oujlnbyavjhy.com
 0.0.0.0 oujouniw.com
 :: oujouniw.com
 0.0.0.0 oukreesy.net
@@ -47934,6 +47940,8 @@ ff02::3 ip6-allhosts
 :: remarketstats.com
 0.0.0.0 remarypolike.site
 :: remarypolike.site
+0.0.0.0 rementalava.club
+:: rementalava.club
 0.0.0.0 remind.me
 :: remind.me
 0.0.0.0 remintrex.com
@@ -52802,8 +52810,6 @@ ff02::3 ip6-allhosts
 :: sovernment.club
 0.0.0.0 sovieashlig.club
 :: sovieashlig.club
-0.0.0.0 sowhypepse.pro
-:: sowhypepse.pro
 0.0.0.0 soyue.cc
 :: soyue.cc
 0.0.0.0 soza6rsz3ezi.com
