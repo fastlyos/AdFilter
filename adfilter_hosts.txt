@@ -1,11 +1,11 @@
-# Checksum: MTYwMTAwMzAyOAo=
+# Checksum: MTYwMTAxMzkyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200925-1
-# TimeUpdated: 2020-09-25T03:03:48+00:00
+# Version: 1.6.3-20200925-2
+# TimeUpdated: 2020-09-25T06:05:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34725
+# Total: 34737
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2808,6 +2808,8 @@ ff02::3 ip6-allhosts
 :: 99counters.com
 0.0.0.0 99dqw.com
 :: 99dqw.com
+0.0.0.0 99f8719c6d.com
+:: 99f8719c6d.com
 0.0.0.0 99lolo.com
 :: 99lolo.com
 0.0.0.0 99nfft.com
@@ -5610,8 +5612,6 @@ ff02::3 ip6-allhosts
 :: ads.b10f.jp
 0.0.0.0 ads.bridgetrack.com
 :: ads.bridgetrack.com
-0.0.0.0 ads.bssdl.kugou.com
-:: ads.bssdl.kugou.com
 0.0.0.0 ads.cc
 :: ads.cc
 0.0.0.0 ads.ccstock.cn
@@ -5704,6 +5704,8 @@ ff02::3 ip6-allhosts
 :: ads.passiontimes.hk
 0.0.0.0 ads.playboy.com
 :: ads.playboy.com
+0.0.0.0 ads.playground.xyz
+:: ads.playground.xyz
 0.0.0.0 ads.pro-market.net
 :: ads.pro-market.net
 0.0.0.0 ads.pubmatic.com
@@ -9496,6 +9498,8 @@ ff02::3 ip6-allhosts
 :: arrowpushengine.com
 0.0.0.0 arsdev.net
 :: arsdev.net
+0.0.0.0 arshgkcfdhgr.com
+:: arshgkcfdhgr.com
 0.0.0.0 art.theta.sogoucdn.com
 :: art.theta.sogoucdn.com
 0.0.0.0 artamkari.com
@@ -11018,8 +11022,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -14216,6 +14218,8 @@ ff02::3 ip6-allhosts
 :: cdn7.network
 0.0.0.0 cdn7.rocks
 :: cdn7.rocks
+0.0.0.0 cdn777.net
+:: cdn777.net
 0.0.0.0 cdna.tremormedia.com
 :: cdna.tremormedia.com
 0.0.0.0 cdnads.com
@@ -19958,6 +19962,8 @@ ff02::3 ip6-allhosts
 :: display.digitalriver.com
 0.0.0.0 display.studio
 :: display.studio
+0.0.0.0 displaycontentnetwork.com
+:: displaycontentnetwork.com
 0.0.0.0 displaymarketplace.com
 :: displaymarketplace.com
 0.0.0.0 displaynetworkprofit.com
@@ -22922,6 +22928,8 @@ ff02::3 ip6-allhosts
 :: escortso.com
 0.0.0.0 escowledge.club
 :: escowledge.club
+0.0.0.0 escriminimini.club
+:: escriminimini.club
 0.0.0.0 esdipherecoordi.info
 :: esdipherecoordi.info
 0.0.0.0 esearchvision.com
@@ -24292,6 +24300,8 @@ ff02::3 ip6-allhosts
 :: fghmc.ga25.com
 0.0.0.0 fgoverhead.club
 :: fgoverhead.club
+0.0.0.0 fhbv.cn
+:: fhbv.cn
 0.0.0.0 fhkfffnepwia.com
 :: fhkfffnepwia.com
 0.0.0.0 fhluqrhmqs.com
@@ -25272,8 +25282,6 @@ ff02::3 ip6-allhosts
 :: fwbntw.com
 0.0.0.0 fwix.com
 :: fwix.com
-0.0.0.0 fwpixel.com
-:: fwpixel.com
 0.0.0.0 fwqekk.top
 :: fwqekk.top
 0.0.0.0 fwrrcnkzn5ik.com
@@ -27062,6 +27070,8 @@ ff02::3 ip6-allhosts
 :: graunada.com
 0.0.0.0 gravitec.net
 :: gravitec.net
+0.0.0.0 graxarosi.pro
+:: graxarosi.pro
 0.0.0.0 grazeit.com
 :: grazeit.com
 0.0.0.0 gre542vv.x33xs.com
@@ -27704,6 +27714,8 @@ ff02::3 ip6-allhosts
 :: handy-tab.com
 0.0.0.0 handycam.alicdn.com
 :: handycam.alicdn.com
+0.0.0.0 hangorientalauto.com
+:: hangorientalauto.com
 0.0.0.0 hanhooo.cn
 :: hanhooo.cn
 0.0.0.0 hanmiyong.com
@@ -28322,6 +28334,8 @@ ff02::3 ip6-allhosts
 :: himandy.com
 0.0.0.0 himediads.com
 :: himediads.com
+0.0.0.0 himizoli.pro
+:: himizoli.pro
 0.0.0.0 himselvepostly.site
 :: himselvepostly.site
 0.0.0.0 himselves.com
@@ -32120,6 +32134,8 @@ ff02::3 ip6-allhosts
 :: johays.co
 0.0.0.0 johtzj.com
 :: johtzj.com
+0.0.0.0 jokehow.com
+:: jokehow.com
 0.0.0.0 jolic2.com
 :: jolic2.com
 0.0.0.0 jomys.xyz
@@ -34300,6 +34316,8 @@ ff02::3 ip6-allhosts
 :: lfriqmklpsbtq.com
 0.0.0.0 lfstmedia.com
 :: lfstmedia.com
+0.0.0.0 lftqch650apz.com
+:: lftqch650apz.com
 0.0.0.0 lftxali.fancyapi.com
 :: lftxali.fancyapi.com
 0.0.0.0 lfyuanai.com
@@ -41600,6 +41618,8 @@ ff02::3 ip6-allhosts
 :: observer.ip-label.net
 0.0.0.0 observerapp.com
 :: observerapp.com
+0.0.0.0 obstacleconsideringheadphone.com
+:: obstacleconsideringheadphone.com
 0.0.0.0 obtainlylibuk.club
 :: obtainlylibuk.club
 0.0.0.0 obx.tt3edd.com
@@ -43054,6 +43074,8 @@ ff02::3 ip6-allhosts
 :: paidstats.com
 0.0.0.0 paimgcdn-feed.baidu.com
 :: paimgcdn-feed.baidu.com
+0.0.0.0 painsko.com
+:: painsko.com
 0.0.0.0 paintifiercute.club
 :: paintifiercute.club
 0.0.0.0 pakbanners.com
@@ -46658,8 +46680,6 @@ ff02::3 ip6-allhosts
 :: qianwei.wang
 0.0.0.0 qianyilamian.cn
 :: qianyilamian.cn
-0.0.0.0 qianyuntengyue.com
-:: qianyuntengyue.com
 0.0.0.0 qichexin.com
 :: qichexin.com
 0.0.0.0 qidou.com
@@ -49044,6 +49064,8 @@ ff02::3 ip6-allhosts
 :: russionsdeath.fun
 0.0.0.0 rusticprice.com
 :: rusticprice.com
+0.0.0.0 rustleobtainedflute.com
+:: rustleobtainedflute.com
 0.0.0.0 rustyellow.com
 :: rustyellow.com
 0.0.0.0 rutarget.ru
@@ -52780,6 +52802,8 @@ ff02::3 ip6-allhosts
 :: sovernment.club
 0.0.0.0 sovieashlig.club
 :: sovieashlig.club
+0.0.0.0 sowhypepse.pro
+:: sowhypepse.pro
 0.0.0.0 soyue.cc
 :: soyue.cc
 0.0.0.0 soza6rsz3ezi.com
@@ -61866,6 +61890,8 @@ ff02::3 ip6-allhosts
 :: vtrtl.de
 0.0.0.0 vuhaupso.net
 :: vuhaupso.net
+0.0.0.0 vujhqcemrpqj.com
+:: vujhqcemrpqj.com
 0.0.0.0 vukhhjzd.com
 :: vukhhjzd.com
 0.0.0.0 vulging.pro
@@ -62840,8 +62866,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
