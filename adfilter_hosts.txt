@@ -1,8 +1,8 @@
-# Checksum: MTYwMTA0NjI3MQo=
+# Checksum: MTYwMTA1NzA0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200925-5
-# TimeUpdated: 2020-09-25T15:04:31+00:00
+# Version: 1.6.3-20200925-6
+# TimeUpdated: 2020-09-25T18:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 34761
@@ -110,6 +110,8 @@ ff02::3 ip6-allhosts
 :: 04zl.cn
 0.0.0.0 050y9lhe8p.com
 :: 050y9lhe8p.com
+0.0.0.0 0511code.com
+:: 0511code.com
 0.0.0.0 0512pifa.com.cn
 :: 0512pifa.com.cn
 0.0.0.0 0512s.com
@@ -472,8 +474,6 @@ ff02::3 ip6-allhosts
 :: 116zhuce.com
 0.0.0.0 1178.shucong.com
 :: 1178.shucong.com
-0.0.0.0 1183f06f6212.com
-:: 1183f06f6212.com
 0.0.0.0 1188.com
 :: 1188.com
 0.0.0.0 118aa629a7968e75e.com
@@ -1030,8 +1030,6 @@ ff02::3 ip6-allhosts
 :: 2a12be6140880286.com
 0.0.0.0 2b815136jjjv.com
 :: 2b815136jjjv.com
-0.0.0.0 2bb9dcf84c.com
-:: 2bb9dcf84c.com
 0.0.0.0 2bbb379103988619ef.com
 :: 2bbb379103988619ef.com
 0.0.0.0 2beon.co.kr
@@ -12298,8 +12296,6 @@ ff02::3 ip6-allhosts
 :: boardy.huanqiu.com
 0.0.0.0 boayipids.com
 :: boayipids.com
-0.0.0.0 bob-bob-bobble.com
-:: bob-bob-bobble.com
 0.0.0.0 bobaidu8.com
 :: bobaidu8.com
 0.0.0.0 bobo.163.com
@@ -13280,8 +13276,6 @@ ff02::3 ip6-allhosts
 :: c0011.boursorama.com
 0.0.0.0 c02.3dwwwgame.com
 :: c02.3dwwwgame.com
-0.0.0.0 c029aa09b9f.com
-:: c029aa09b9f.com
 0.0.0.0 c02o3mpych.com
 :: c02o3mpych.com
 0.0.0.0 c03.optimix.asia
@@ -23726,8 +23720,6 @@ ff02::3 ip6-allhosts
 :: f8260adbf8558d6.com
 0.0.0.0 f8272.com
 :: f8272.com
-0.0.0.0 f82af04fb2888.com
-:: f82af04fb2888.com
 0.0.0.0 f8316b45436f.com
 :: f8316b45436f.com
 0.0.0.0 f92j5.com
@@ -24656,6 +24648,8 @@ ff02::3 ip6-allhosts
 :: fnacgbik9v14.com
 0.0.0.0 fncash.com
 :: fncash.com
+0.0.0.0 fndvovywrtghk.com
+:: fndvovywrtghk.com
 0.0.0.0 fnkjj.com
 :: fnkjj.com
 0.0.0.0 fnkyyrgraizy.com
@@ -52254,6 +52248,8 @@ ff02::3 ip6-allhosts
 :: slingpic.com
 0.0.0.0 slipstream.skyscanner.net
 :: slipstream.skyscanner.net
+0.0.0.0 slivercommander.cn
+:: slivercommander.cn
 0.0.0.0 sloansagnersro.com
 :: sloansagnersro.com
 0.0.0.0 sloeri.com
@@ -59838,6 +59834,8 @@ ff02::3 ip6-allhosts
 :: ugrastes.uk
 0.0.0.0 ugvip.com
 :: ugvip.com
+0.0.0.0 uh64b.cn
+:: uh64b.cn
 0.0.0.0 uh9qulew9rjj.com
 :: uh9qulew9rjj.com
 0.0.0.0 uhbixtfhwdtmd.com
@@ -62800,6 +62798,8 @@ ff02::3 ip6-allhosts
 :: weimineiyixiu.cn
 0.0.0.0 weinberinaz.site
 :: weinberinaz.site
+0.0.0.0 weinmanised.club
+:: weinmanised.club
 0.0.0.0 weiqiqu.cn
 :: weiqiqu.cn
 0.0.0.0 weishi.baidu.com
