@@ -1,11 +1,11 @@
-# Checksum: MTYwMTEwMDMyNgo=
+# Checksum: MTYwMTExMTAzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200926-2
-# TimeUpdated: 2020-09-26T06:05:26+00:00
+# Version: 1.6.3-20200926-3
+# TimeUpdated: 2020-09-26T09:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34804
+# Total: 34807
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7364,8 +7364,6 @@ ff02::3 ip6-allhosts
 :: aio.lp.mydas.mobi
 0.0.0.0 aio.media
 :: aio.media
-0.0.0.0 aioemfxj.com
-:: aioemfxj.com
 0.0.0.0 aionfavoura.club
 :: aionfavoura.club
 0.0.0.0 aiphotogram.club
@@ -10930,8 +10928,6 @@ ff02::3 ip6-allhosts
 :: bbdm.051661.com
 0.0.0.0 bbelements.com
 :: bbelements.com
-0.0.0.0 bbeyay41026.cn
-:: bbeyay41026.cn
 0.0.0.0 bbhyqp.com
 :: bbhyqp.com
 0.0.0.0 bbn.gzblogger.cn
@@ -11024,6 +11020,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11640,8 +11638,6 @@ ff02::3 ip6-allhosts
 :: betsonsport.ru
 0.0.0.0 betteradsystem.com
 :: betteradsystem.com
-0.0.0.0 bettercontentservice.top
-:: bettercontentservice.top
 0.0.0.0 bettermetrics.co
 :: bettermetrics.co
 0.0.0.0 betternoon.club
@@ -17806,6 +17802,8 @@ ff02::3 ip6-allhosts
 :: cxad.cn
 0.0.0.0 cxcxt.com
 :: cxcxt.com
+0.0.0.0 cxlm.net.cn
+:: cxlm.net.cn
 0.0.0.0 cxt.deutsche-bank.de
 :: cxt.deutsche-bank.de
 0.0.0.0 cy123.cc
@@ -27026,6 +27024,8 @@ ff02::3 ip6-allhosts
 :: gpursultspinessi.info
 0.0.0.0 gpxsfsxsfm.com
 :: gpxsfsxsfm.com
+0.0.0.0 gql.reddit.com
+:: gql.reddit.com
 0.0.0.0 gqqdlckj8y.com
 :: gqqdlckj8y.com
 0.0.0.0 gqusxhuexmu.com
@@ -42254,6 +42254,8 @@ ff02::3 ip6-allhosts
 :: ooop.zqwlkj.cn
 0.0.0.0 oopepoul.net
 :: oopepoul.net
+0.0.0.0 oops.redditmedia.com
+:: oops.redditmedia.com
 0.0.0.0 oopt.fr
 :: oopt.fr
 0.0.0.0 ooq5z.com
@@ -61740,6 +61742,8 @@ ff02::3 ip6-allhosts
 :: vknrfwwxhxaxupqp.pro
 0.0.0.0 vkuay.com
 :: vkuay.com
+0.0.0.0 vkudpjuvg.com
+:: vkudpjuvg.com
 0.0.0.0 vkvvvnppfmm.com
 :: vkvvvnppfmm.com
 0.0.0.0 vkznlzueuuebb.com
@@ -66120,6 +66124,8 @@ ff02::3 ip6-allhosts
 :: www.sxcdn5.herokuapp.com
 0.0.0.0 www.sxcdn6.now.sh
 :: www.sxcdn6.now.sh
+0.0.0.0 www.sxdyrq.com
+:: www.sxdyrq.com
 0.0.0.0 www.sytcyf.com
 :: www.sytcyf.com
 0.0.0.0 www.szshouzhai.com
