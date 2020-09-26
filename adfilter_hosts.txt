@@ -1,11 +1,11 @@
-# Checksum: MTYwMTE0MzQ2Nwo=
+# Checksum: MTYwMTE1NDIzNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200926-6
-# TimeUpdated: 2020-09-26T18:04:27+00:00
+# Version: 1.6.3-20200926-7
+# TimeUpdated: 2020-09-26T21:03:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34822
+# Total: 34828
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1068,6 +1068,8 @@ ff02::3 ip6-allhosts
 :: 2f5a1f1fab21a56.com
 0.0.0.0 2fnrc.cn
 :: 2fnrc.cn
+0.0.0.0 2fx32.cn
+:: 2fx32.cn
 0.0.0.0 2g2h.com
 :: 2g2h.com
 0.0.0.0 2g6gj3aojcrj.com
@@ -10276,8 +10278,6 @@ ff02::3 ip6-allhosts
 :: b.77shw.com
 0.0.0.0 b.77vcd.com
 :: b.77vcd.com
-0.0.0.0 b.9dreams.net
-:: b.9dreams.net
 0.0.0.0 b.admedia.com
 :: b.admedia.com
 0.0.0.0 b.ads1.msn.com
@@ -22060,6 +22060,8 @@ ff02::3 ip6-allhosts
 :: ee.u4q2.cn
 0.0.0.0 ee.uh64b.cn
 :: ee.uh64b.cn
+0.0.0.0 ee.xfya3.cn
+:: ee.xfya3.cn
 0.0.0.0 ee.zn8ni.cn
 :: ee.zn8ni.cn
 0.0.0.0 ee.zowmgxpz.cn
@@ -24468,6 +24470,8 @@ ff02::3 ip6-allhosts
 :: fitbxtqgneq.com
 0.0.0.0 fivecdm.com
 :: fivecdm.com
+0.0.0.0 fiwatmctnaqec.com
+:: fiwatmctnaqec.com
 0.0.0.0 fix.hpplay.cn
 :: fix.hpplay.cn
 0.0.0.0 fixchidie.com
@@ -40642,6 +40646,8 @@ ff02::3 ip6-allhosts
 :: news.mpush.qq.com
 0.0.0.0 news.net.finam.ru
 :: news.net.finam.ru
+0.0.0.0 news.poxi5.com
+:: news.poxi5.com
 0.0.0.0 news.push.126.net
 :: news.push.126.net
 0.0.0.0 news.qhstatic.com
@@ -41526,6 +41532,8 @@ ff02::3 ip6-allhosts
 :: nvxzjmowusg.com
 0.0.0.0 nw5.jkjjkj.top
 :: nw5.jkjjkj.top
+0.0.0.0 nwffx.xyz
+:: nwffx.xyz
 0.0.0.0 nwfhalifax.com
 :: nwfhalifax.com
 0.0.0.0 nwjabizlgseab.com
@@ -50608,6 +50616,8 @@ ff02::3 ip6-allhosts
 :: sddnserror8.wo.com.cn
 0.0.0.0 sddnserror9.wo.com.cn
 :: sddnserror9.wo.com.cn
+0.0.0.0 sdfjtwp.com
+:: sdfjtwp.com
 0.0.0.0 sdfp.snssdk.com
 :: sdfp.snssdk.com
 0.0.0.0 sdfsdvc.com
@@ -51188,6 +51198,8 @@ ff02::3 ip6-allhosts
 :: semtracker.de
 0.0.0.0 sendmepush.com
 :: sendmepush.com
+0.0.0.0 sendptp.com
+:: sendptp.com
 0.0.0.0 sendsay.ru
 :: sendsay.ru
 0.0.0.0 sendtraffic.com
