@@ -1,11 +1,11 @@
-# Checksum: MTYwMTEzMjYyNgo=
+# Checksum: MTYwMTE0MzQ2Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200926-5
-# TimeUpdated: 2020-09-26T15:03:46+00:00
+# Version: 1.6.3-20200926-6
+# TimeUpdated: 2020-09-26T18:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34818
+# Total: 34822
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11024,8 +11024,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -22804,6 +22802,8 @@ ff02::3 ip6-allhosts
 :: eqrauafet.com
 0.0.0.0 eqx.smartadserver.com
 :: eqx.smartadserver.com
+0.0.0.0 eqzjfqkioowkle.com
+:: eqzjfqkioowkle.com
 0.0.0.0 er.5ykj.com
 :: er.5ykj.com
 0.0.0.0 er.mmi.bemobile.ua
@@ -23470,6 +23470,8 @@ ff02::3 ip6-allhosts
 :: exitjunction.com
 0.0.0.0 exitmonitor.com
 :: exitmonitor.com
+0.0.0.0 exlpor.com
+:: exlpor.com
 0.0.0.0 exmarketplace.com
 :: exmarketplace.com
 0.0.0.0 exmarkt.de
@@ -38140,6 +38142,8 @@ ff02::3 ip6-allhosts
 :: mfcvxw.cn
 0.0.0.0 mfeed.newzfind.com
 :: mfeed.newzfind.com
+0.0.0.0 mffsqhmzeycb.com
+:: mffsqhmzeycb.com
 0.0.0.0 mfhsvkepu.com
 :: mfhsvkepu.com
 0.0.0.0 mfio.cf
@@ -39778,6 +39782,8 @@ ff02::3 ip6-allhosts
 :: mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
 :: mxcdn2.now.sh
+0.0.0.0 mxdregs.com
+:: mxdregs.com
 0.0.0.0 mxm.plipala.com
 :: mxm.plipala.com
 0.0.0.0 mxmrt.com
@@ -69152,6 +69158,8 @@ ff02::3 ip6-allhosts
 :: zhfyws.com
 0.0.0.0 zhgg.dre8.com
 :: zhgg.dre8.com
+0.0.0.0 zhggw.dre8.com
+:: zhggw.dre8.com
 0.0.0.0 zhichangwo.com
 :: zhichangwo.com
 0.0.0.0 zhichi08.com
