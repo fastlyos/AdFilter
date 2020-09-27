@@ -1,11 +1,11 @@
-# Checksum: MTYwMTE5NzQzOQo=
+# Checksum: MTYwMTIwODI4MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200927-3
-# TimeUpdated: 2020-09-27T09:03:59+00:00
+# Version: 1.6.3-20200927-4
+# TimeUpdated: 2020-09-27T12:04:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34861
+# Total: 34866
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2862,8 +2862,6 @@ ff02::3 ip6-allhosts
 :: 9d766be9a3.com
 0.0.0.0 9d7in.cn
 :: 9d7in.cn
-0.0.0.0 9dreams.net
-:: 9dreams.net
 0.0.0.0 9dtiny.cn
 :: 9dtiny.cn
 0.0.0.0 9e5420f6be48ccc.com
@@ -15486,6 +15484,8 @@ ff02::3 ip6-allhosts
 :: cloudmade.com
 0.0.0.0 cloudmobi.net
 :: cloudmobi.net
+0.0.0.0 cloudplane.xyz
+:: cloudplane.xyz
 0.0.0.0 cloudpush.iqiyi.com
 :: cloudpush.iqiyi.com
 0.0.0.0 cloudservice12.kingsoft-office-service.com
@@ -17256,6 +17256,8 @@ ff02::3 ip6-allhosts
 :: cpro.cr173.com
 0.0.0.0 cpro.fangtoo.com
 :: cpro.fangtoo.com
+0.0.0.0 cpro.xixiliya.cn
+:: cpro.xixiliya.cn
 0.0.0.0 cpro.zhidao.baidu.com
 :: cpro.zhidao.baidu.com
 0.0.0.0 cpro.zol.com.cn
@@ -22222,6 +22224,8 @@ ff02::3 ip6-allhosts
 :: eiuuiormjc.com
 0.0.0.0 eiv.baidu.com
 :: eiv.baidu.com
+0.0.0.0 eiygqumgrobos.com
+:: eiygqumgrobos.com
 0.0.0.0 ejdkqclkzq.com
 :: ejdkqclkzq.com
 0.0.0.0 ejectfeudburly.com
@@ -27050,8 +27054,6 @@ ff02::3 ip6-allhosts
 :: gpursultspinessi.info
 0.0.0.0 gpxsfsxsfm.com
 :: gpxsfsxsfm.com
-0.0.0.0 gql.reddit.com
-:: gql.reddit.com
 0.0.0.0 gqqdlckj8y.com
 :: gqqdlckj8y.com
 0.0.0.0 gqusxhuexmu.com
@@ -29238,6 +29240,8 @@ ff02::3 ip6-allhosts
 :: hvato.info
 0.0.0.0 hvawrj8yeqru.com
 :: hvawrj8yeqru.com
+0.0.0.0 hvtlipnbfwu.com
+:: hvtlipnbfwu.com
 0.0.0.0 hvxhmsiz.com
 :: hvxhmsiz.com
 0.0.0.0 hw6.com
@@ -34240,6 +34244,8 @@ ff02::3 ip6-allhosts
 :: leavilysover.site
 0.0.0.0 lebkeresxa.ml
 :: lebkeresxa.ml
+0.0.0.0 lebneeklnuru.com
+:: lebneeklnuru.com
 0.0.0.0 leche69.com
 :: leche69.com
 0.0.0.0 ledburyreporter-gb.ledburyreporter.co.uk
@@ -35814,8 +35820,6 @@ ff02::3 ip6-allhosts
 :: lwhitectionphy.club
 0.0.0.0 lwhsdfc.cn
 :: lwhsdfc.cn
-0.0.0.0 lwlscy.com
-:: lwlscy.com
 0.0.0.0 lwxjg.com
 :: lwxjg.com
 0.0.0.0 lwxlsj.wap.xsbiquge.com
@@ -38024,6 +38028,8 @@ ff02::3 ip6-allhosts
 :: mercury.jd.com
 0.0.0.0 mercy.ga
 :: mercy.ga
+0.0.0.0 mercyusuallylikewise.com
+:: mercyusuallylikewise.com
 0.0.0.0 meried.co
 :: meried.co
 0.0.0.0 meriesbefor.fun
@@ -43246,6 +43252,8 @@ ff02::3 ip6-allhosts
 :: pangolin.snssdk.com
 0.0.0.0 panieswol.club
 :: panieswol.club
+0.0.0.0 panieswolf.club
+:: panieswolf.club
 0.0.0.0 panoll.com
 :: panoll.com
 0.0.0.0 panoramio.com
@@ -44170,6 +44178,8 @@ ff02::3 ip6-allhosts
 :: pikacn.com
 0.0.0.0 pilgrimarym.club
 :: pilgrimarym.club
+0.0.0.0 pillowagecredulous.com
+:: pillowagecredulous.com
 0.0.0.0 pimlog.baidu.com
 :: pimlog.baidu.com
 0.0.0.0 pimpmypr.de
@@ -47022,8 +47032,6 @@ ff02::3 ip6-allhosts
 :: qrlgcrzmbuy.com
 0.0.0.0 qrlsx.com
 :: qrlsx.com
-0.0.0.0 qrzlaatf.xyz
-:: qrzlaatf.xyz
 0.0.0.0 qs.lindanmiaoxiang.cn
 :: qs.lindanmiaoxiang.cn
 0.0.0.0 qs.qsmdeyz.cn
@@ -58304,6 +58312,8 @@ ff02::3 ip6-allhosts
 :: tracker.affirm.com
 0.0.0.0 tracker.anandtech.com
 :: tracker.anandtech.com
+0.0.0.0 tracker.arc.io
+:: tracker.arc.io
 0.0.0.0 tracker.azet.sk
 :: tracker.azet.sk
 0.0.0.0 tracker.beezup.com
