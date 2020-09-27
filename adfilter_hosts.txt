@@ -1,11 +1,11 @@
-# Checksum: MTYwMTIyOTg1Ngo=
+# Checksum: MTYwMTI0MDY0Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200927-6
-# TimeUpdated: 2020-09-27T18:04:16+00:00
+# Version: 1.6.3-20200927-7
+# TimeUpdated: 2020-09-27T21:04:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34872
+# Total: 34879
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2156,8 +2156,6 @@ ff02::3 ip6-allhosts
 :: 7080555.com
 0.0.0.0 7089e5b41f87.com
 :: 7089e5b41f87.com
-0.0.0.0 70950.com
-:: 70950.com
 0.0.0.0 70e.com
 :: 70e.com
 0.0.0.0 70ee6484605f.com
@@ -4434,6 +4432,8 @@ ff02::3 ip6-allhosts
 :: adacado.com
 0.0.0.0 adaccount.csdn.net
 :: adaccount.csdn.net
+0.0.0.0 adacgov.cn
+:: adacgov.cn
 0.0.0.0 adaction.se
 :: adaction.se
 0.0.0.0 adacts.com
@@ -22170,6 +22170,8 @@ ff02::3 ip6-allhosts
 :: effiliates.cn
 0.0.0.0 effixtile-inceive.com
 :: effixtile-inceive.com
+0.0.0.0 eficdbhnojt.com
+:: eficdbhnojt.com
 0.0.0.0 efo25978.eeo1h1.cn
 :: efo25978.eeo1h1.cn
 0.0.0.0 eforeantheirma.info
@@ -22220,6 +22222,8 @@ ff02::3 ip6-allhosts
 :: eighbourge.club
 0.0.0.0 eikegolehem.com
 :: eikegolehem.com
+0.0.0.0 eilsrichaels.club
+:: eilsrichaels.club
 0.0.0.0 eitherewindoor.club
 :: eitherewindoor.club
 0.0.0.0 eiuuiormjc.com
@@ -46890,6 +46894,8 @@ ff02::3 ip6-allhosts
 :: qitwoxzibesak.com
 0.0.0.0 qiumodies.com
 :: qiumodies.com
+0.0.0.0 qiunckxdgf.com
+:: qiunckxdgf.com
 0.0.0.0 qiwo.cc
 :: qiwo.cc
 0.0.0.0 qiximed.com
@@ -59994,6 +60000,8 @@ ff02::3 ip6-allhosts
 :: ufuuwfdwsayls.com
 0.0.0.0 ug.snssdk.com
 :: ug.snssdk.com
+0.0.0.0 ugahbedypf.com
+:: ugahbedypf.com
 0.0.0.0 ugc.moji001.com
 :: ugc.moji001.com
 0.0.0.0 ugdtimg.com
@@ -60046,6 +60054,8 @@ ff02::3 ip6-allhosts
 :: uieoogjarimcey.com
 0.0.0.0 uigruwtql.com
 :: uigruwtql.com
+0.0.0.0 uiiswaeojpfee.com
+:: uiiswaeojpfee.com
 0.0.0.0 uim.tifbs.net
 :: uim.tifbs.net
 0.0.0.0 uimg.123hala.com
@@ -62032,6 +62042,8 @@ ff02::3 ip6-allhosts
 :: vpn.celueziben.com
 0.0.0.0 vpn.ch-hr12333.com
 :: vpn.ch-hr12333.com
+0.0.0.0 vpn.yike0515.com
+:: vpn.yike0515.com
 0.0.0.0 vpn.zhengyejixie.com
 :: vpn.zhengyejixie.com
 0.0.0.0 vpn2.beeppool.org
@@ -66460,6 +66472,8 @@ ff02::3 ip6-allhosts
 :: www.wasm.stream
 0.0.0.0 www.web605.cn
 :: www.web605.cn
+0.0.0.0 www.webassembly.st
+:: www.webassembly.st
 0.0.0.0 www.webassembly.stream
 :: www.webassembly.stream
 0.0.0.0 www.webdissector.com
