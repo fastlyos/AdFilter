@@ -1,11 +1,11 @@
-# Checksum: MTYwMTIwODI4MQo=
+# Checksum: MTYwMTIxOTAxOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200927-4
-# TimeUpdated: 2020-09-27T12:04:41+00:00
+# Version: 1.6.3-20200927-5
+# TimeUpdated: 2020-09-27T15:03:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34866
+# Total: 34873
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1650,6 +1650,8 @@ ff02::3 ip6-allhosts
 :: 51gugu.com
 0.0.0.0 51gxqm.com
 :: 51gxqm.com
+0.0.0.0 51juejinjie.com.cn
+:: 51juejinjie.com.cn
 0.0.0.0 51kaowang.com
 :: 51kaowang.com
 0.0.0.0 51link.com
@@ -11028,6 +11030,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11794,6 +11798,8 @@ ff02::3 ip6-allhosts
 :: bigcattracks.com
 0.0.0.0 bigchoicegroup.com
 :: bigchoicegroup.com
+0.0.0.0 bigcook.xyz
+:: bigcook.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -25814,6 +25820,8 @@ ff02::3 ip6-allhosts
 :: ganggao123456.com
 0.0.0.0 gangidance.com
 :: gangidance.com
+0.0.0.0 gangstsurv.club
+:: gangstsurv.club
 0.0.0.0 gangtiebang.net
 :: gangtiebang.net
 0.0.0.0 ganja.com
@@ -32044,6 +32052,8 @@ ff02::3 ip6-allhosts
 :: jindu179.com
 0.0.0.0 jing.58.com
 :: jing.58.com
+0.0.0.0 jingassumptil.club
+:: jingassumptil.club
 0.0.0.0 jingdayiyuan.com
 :: jingdayiyuan.com
 0.0.0.0 jinghuazhijia.com
@@ -62426,6 +62436,8 @@ ff02::3 ip6-allhosts
 :: wap001.bytravel.cn
 0.0.0.0 wap0c.m.wenxuemi6.com
 :: wap0c.m.wenxuemi6.com
+0.0.0.0 wap1.laogu.wang
+:: wap1.laogu.wang
 0.0.0.0 wap2.laogu.wang
 :: wap2.laogu.wang
 0.0.0.0 wap3.ucweb.com
@@ -69380,6 +69392,8 @@ ff02::3 ip6-allhosts
 :: zizidi.com
 0.0.0.0 zjbdt.com
 :: zjbdt.com
+0.0.0.0 zjgfq.com
+:: zjgfq.com
 0.0.0.0 zjhoudao.com
 :: zjhoudao.com
 0.0.0.0 zjj.xhdccz.com
