@@ -1,11 +1,11 @@
-# Checksum: MTYwMTIxOTAxOQo=
+# Checksum: MTYwMTIyOTg1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200927-5
-# TimeUpdated: 2020-09-27T15:03:39+00:00
+# Version: 1.6.3-20200927-6
+# TimeUpdated: 2020-09-27T18:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34873
+# Total: 34872
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1274,6 +1274,8 @@ ff02::3 ip6-allhosts
 :: 36c00e71c2df28.com
 0.0.0.0 36g.top
 :: 36g.top
+0.0.0.0 36ia2.cn
+:: 36ia2.cn
 0.0.0.0 36pn.com
 :: 36pn.com
 0.0.0.0 3761fcd24ef9281f5.com
@@ -2564,8 +2566,6 @@ ff02::3 ip6-allhosts
 :: 88cpc.com
 0.0.0.0 88d7b6aa44fb8eb.com
 :: 88d7b6aa44fb8eb.com
-0.0.0.0 88eg.cn
-:: 88eg.cn
 0.0.0.0 88hb7evabd.com
 :: 88hb7evabd.com
 0.0.0.0 88ng.com
@@ -11030,8 +11030,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11798,8 +11796,6 @@ ff02::3 ip6-allhosts
 :: bigcattracks.com
 0.0.0.0 bigchoicegroup.com
 :: bigchoicegroup.com
-0.0.0.0 bigcook.xyz
-:: bigcook.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -28976,6 +28972,8 @@ ff02::3 ip6-allhosts
 :: hpd.baidu.com
 0.0.0.0 hpeprovisioning17.live
 :: hpeprovisioning17.live
+0.0.0.0 hplctrsd.com
+:: hplctrsd.com
 0.0.0.0 hplose.de
 :: hplose.de
 0.0.0.0 hpplay.cn
@@ -67930,6 +67928,8 @@ ff02::3 ip6-allhosts
 :: ya-counter.ru
 0.0.0.0 yaba.org.cn
 :: yaba.org.cn
+0.0.0.0 yabo816.com
+:: yabo816.com
 0.0.0.0 yaboshadi.com
 :: yaboshadi.com
 0.0.0.0 yac.beeppool.org
@@ -69392,8 +69392,6 @@ ff02::3 ip6-allhosts
 :: zizidi.com
 0.0.0.0 zjbdt.com
 :: zjbdt.com
-0.0.0.0 zjgfq.com
-:: zjgfq.com
 0.0.0.0 zjhoudao.com
 :: zjhoudao.com
 0.0.0.0 zjj.xhdccz.com
