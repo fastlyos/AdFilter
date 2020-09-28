@@ -1,11 +1,11 @@
-# Checksum: MTYwMTMxNjI1OQo=
+# Checksum: MTYwMTMyNzAyMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200928-6
-# TimeUpdated: 2020-09-28T18:04:19+00:00
+# Version: 1.6.3-20200928-7
+# TimeUpdated: 2020-09-28T21:03:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34943
+# Total: 34948
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -634,8 +634,6 @@ ff02::3 ip6-allhosts
 :: 168.it168.com
 0.0.0.0 1680660.com
 :: 1680660.com
-0.0.0.0 1680go.com
-:: 1680go.com
 0.0.0.0 168ey.com
 :: 168ey.com
 0.0.0.0 168xiazai.com
@@ -3556,6 +3554,8 @@ ff02::3 ip6-allhosts
 :: abema-adx.ameba.jp
 0.0.0.0 abergently.club
 :: abergently.club
+0.0.0.0 aberrings.club
+:: aberrings.club
 0.0.0.0 abfcfxfkzmiqht.com
 :: abfcfxfkzmiqht.com
 0.0.0.0 abfirst.cn
@@ -28420,6 +28420,8 @@ ff02::3 ip6-allhosts
 :: highfalutinhoney.com
 0.0.0.0 highlianimo.club
 :: highlianimo.club
+0.0.0.0 highmetrics.com
+:: highmetrics.com
 0.0.0.0 highnessbackwardsyuri.com
 :: highnessbackwardsyuri.com
 0.0.0.0 highnets.com
@@ -29164,6 +29166,8 @@ ff02::3 ip6-allhosts
 :: huanqiucaizhi.com
 0.0.0.0 huanrentv.cn
 :: huanrentv.cn
+0.0.0.0 huapuzs.com
+:: huapuzs.com
 0.0.0.0 huashuowork.com
 :: huashuowork.com
 0.0.0.0 huatakj.com
@@ -31552,6 +31556,8 @@ ff02::3 ip6-allhosts
 :: iv.doubleclick.net
 0.0.0.0 ivcbrasil.org.br
 :: ivcbrasil.org.br
+0.0.0.0 ivkfuasf.com
+:: ivkfuasf.com
 0.0.0.0 ivoophie.net
 :: ivoophie.net
 0.0.0.0 ivy.pcauto.com.cn
@@ -36452,6 +36458,8 @@ ff02::3 ip6-allhosts
 :: m.jbanb.com
 0.0.0.0 m.jcaik.com
 :: m.jcaik.com
+0.0.0.0 m.jcboloni.cn
+:: m.jcboloni.cn
 0.0.0.0 m.jdf494.cn
 :: m.jdf494.cn
 0.0.0.0 m.jdhq188.cn
@@ -38744,6 +38752,8 @@ ff02::3 ip6-allhosts
 :: mlstat.com
 0.0.0.0 mlsys.xyz
 :: mlsys.xyz
+0.0.0.0 mlsyuvxhhmvd.com
+:: mlsyuvxhhmvd.com
 0.0.0.0 mlweb.dmlab.hu
 :: mlweb.dmlab.hu
 0.0.0.0 mm-cgnews.com
