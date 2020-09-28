@@ -1,11 +1,11 @@
-# Checksum: MTYwMTI4MzgzNAo=
+# Checksum: MTYwMTI5NDY4Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200928-3
-# TimeUpdated: 2020-09-28T09:03:54+00:00
+# Version: 1.6.3-20200928-4
+# TimeUpdated: 2020-09-28T12:04:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34911
+# Total: 34917
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -472,6 +472,8 @@ ff02::3 ip6-allhosts
 :: 116zhuce.com
 0.0.0.0 1178.shucong.com
 :: 1178.shucong.com
+0.0.0.0 1183f06f6212.com
+:: 1183f06f6212.com
 0.0.0.0 1188.com
 :: 1188.com
 0.0.0.0 118aa629a7968e75e.com
@@ -1180,8 +1182,6 @@ ff02::3 ip6-allhosts
 :: 321tui.com
 0.0.0.0 324.com
 :: 324.com
-0.0.0.0 32414.com
-:: 32414.com
 0.0.0.0 32666099.com
 :: 32666099.com
 0.0.0.0 327d49j2xt0nsr6o.pro
@@ -2522,6 +2522,8 @@ ff02::3 ip6-allhosts
 :: 86up9en9vv.buzz
 0.0.0.0 87159d7b62fc885.com
 :: 87159d7b62fc885.com
+0.0.0.0 8761f9f83613.com
+:: 8761f9f83613.com
 0.0.0.0 87680dh.com
 :: 87680dh.com
 0.0.0.0 878090.com
@@ -2860,6 +2862,8 @@ ff02::3 ip6-allhosts
 :: 9d766be9a3.com
 0.0.0.0 9d7in.cn
 :: 9d7in.cn
+0.0.0.0 9dc93a7c1dd.com
+:: 9dc93a7c1dd.com
 0.0.0.0 9dtiny.cn
 :: 9dtiny.cn
 0.0.0.0 9e5420f6be48ccc.com
@@ -6042,8 +6046,6 @@ ff02::3 ip6-allhosts
 :: adshack.com
 0.0.0.0 adshare.toutiao.com
 :: adshare.toutiao.com
-0.0.0.0 adshark.site
-:: adshark.site
 0.0.0.0 adshexa.com
 :: adshexa.com
 0.0.0.0 adshmct.qq.com
@@ -7260,6 +7262,8 @@ ff02::3 ip6-allhosts
 :: ahstrelgnh.com
 0.0.0.0 ahszgog.com
 :: ahszgog.com
+0.0.0.0 ahumourned.club
+:: ahumourned.club
 0.0.0.0 ahxhny.cn
 :: ahxhny.cn
 0.0.0.0 ahyau.com
@@ -10350,8 +10354,6 @@ ff02::3 ip6-allhosts
 :: b.smartvideo.youku.com
 0.0.0.0 b.tukucc.com
 :: b.tukucc.com
-0.0.0.0 b.turbo.az
-:: b.turbo.az
 0.0.0.0 b.tvsou.com
 :: b.tvsou.com
 0.0.0.0 b.ukeiae.com
@@ -11042,8 +11044,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11118,6 +11118,8 @@ ff02::3 ip6-allhosts
 :: bdasd.wmxa.cn
 0.0.0.0 bdash-cloud.com
 :: bdash-cloud.com
+0.0.0.0 bdbdqkdkfb.xyz
+:: bdbdqkdkfb.xyz
 0.0.0.0 bdcdncmn-gd.inter.71edge.com
 :: bdcdncmn-gd.inter.71edge.com
 0.0.0.0 bdcm.kandianla.com
@@ -35746,6 +35748,8 @@ ff02::3 ip6-allhosts
 :: luckypushh.com
 0.0.0.0 lucting.cn
 :: lucting.cn
+0.0.0.0 ludithyshi.pro
+:: ludithyshi.pro
 0.0.0.0 ludlowadvertiser-gb.ludlowadvertiser.co.uk
 :: ludlowadvertiser-gb.ludlowadvertiser.co.uk
 0.0.0.0 lufax.com
@@ -37558,6 +37562,8 @@ ff02::3 ip6-allhosts
 :: maxymiser.com
 0.0.0.0 maxymiser.net
 :: maxymiser.net
+0.0.0.0 maycanrami.tk
+:: maycanrami.tk
 0.0.0.0 mayiad.com
 :: mayiad.com
 0.0.0.0 maysunmedia.com
@@ -41336,6 +41342,8 @@ ff02::3 ip6-allhosts
 :: novadune.com
 0.0.0.0 novaminers.tk
 :: novaminers.tk
+0.0.0.0 novatrck.icu
+:: novatrck.icu
 0.0.0.0 novelsns.html5.qq.com
 :: novelsns.html5.qq.com
 0.0.0.0 novelty.media
@@ -53460,8 +53468,12 @@ ff02::3 ip6-allhosts
 :: spontaneousguarded.com
 0.0.0.0 spoonslaxoil.com
 :: spoonslaxoil.com
+0.0.0.0 sport205.club
+:: sport205.club
 0.0.0.0 sportradarserving.com
 :: sportradarserving.com
+0.0.0.0 sports-live-streams.club
+:: sports-live-streams.club
 0.0.0.0 sports-streams-online.best
 :: sports-streams-online.best
 0.0.0.0 sports-streams-online.com
@@ -63180,8 +63192,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -68666,6 +68676,8 @@ ff02::3 ip6-allhosts
 :: yourlucky.top
 0.0.0.0 yourquickads.com
 :: yourquickads.com
+0.0.0.0 yoursports.stream
+:: yoursports.stream
 0.0.0.0 yousee.com
 :: yousee.com
 0.0.0.0 youso.crazyegg.com
