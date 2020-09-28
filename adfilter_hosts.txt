@@ -1,11 +1,11 @@
-# Checksum: MTYwMTI3MzA2NAo=
+# Checksum: MTYwMTI4MzgzNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200928-2
-# TimeUpdated: 2020-09-28T06:04:24+00:00
+# Version: 1.6.3-20200928-3
+# TimeUpdated: 2020-09-28T09:03:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34902
+# Total: 34911
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1808,6 +1808,8 @@ ff02::3 ip6-allhosts
 :: 58f7c1ff30eb.com
 0.0.0.0 58isg.cn
 :: 58isg.cn
+0.0.0.0 58lm.vip
+:: 58lm.vip
 0.0.0.0 58xiangka.com
 :: 58xiangka.com
 0.0.0.0 58xiao.cn
@@ -11040,6 +11042,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -14906,8 +14910,6 @@ ff02::3 ip6-allhosts
 :: ckg.vipyl.com
 0.0.0.0 ckjyck.qxs.la
 :: ckjyck.qxs.la
-0.0.0.0 cklad.xyz
-:: cklad.xyz
 0.0.0.0 cklecreditie.info
 :: cklecreditie.info
 0.0.0.0 ckmap.mediav.com
@@ -21964,8 +21966,6 @@ ff02::3 ip6-allhosts
 :: ed.aijielang.cn
 0.0.0.0 ed9wkbpy.com
 :: ed9wkbpy.com
-0.0.0.0 edajin.com
-:: edajin.com
 0.0.0.0 edampeci.com
 :: edampeci.com
 0.0.0.0 edchargina.pro
@@ -24846,6 +24846,8 @@ ff02::3 ip6-allhosts
 :: fortpush.com
 0.0.0.0 fortrader.ru
 :: fortrader.ru
+0.0.0.0 fortsexpres.club
+:: fortsexpres.club
 0.0.0.0 fortunitystar.club
 :: fortunitystar.club
 0.0.0.0 fortvision.com
@@ -52694,6 +52696,8 @@ ff02::3 ip6-allhosts
 :: sniperlog.ru
 0.0.0.0 sniphub.com
 :: sniphub.com
+0.0.0.0 snmgqbgbrh.com
+:: snmgqbgbrh.com
 0.0.0.0 snmi.cn
 :: snmi.cn
 0.0.0.0 snoobi.com
@@ -63176,6 +63180,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63658,6 +63664,8 @@ ff02::3 ip6-allhosts
 :: wokekk.com
 0.0.0.0 wokfirsax.com
 :: wokfirsax.com
+0.0.0.0 wolopcqjzajiht.com
+:: wolopcqjzajiht.com
 0.0.0.0 wolvedfdg.club
 :: wolvedfdg.club
 0.0.0.0 womanear.com
@@ -63742,6 +63750,8 @@ ff02::3 ip6-allhosts
 :: wos.lv
 0.0.0.0 woshiyunying.com
 :: woshiyunying.com
+0.0.0.0 wotto.cn
+:: wotto.cn
 0.0.0.0 wouhaish.com
 :: wouhaish.com
 0.0.0.0 wouvista.com
@@ -63822,6 +63832,8 @@ ff02::3 ip6-allhosts
 :: wrkl.xyz
 0.0.0.0 wrmcfyzl.com
 :: wrmcfyzl.com
+0.0.0.0 wrnrxzstxtjsn.com
+:: wrnrxzstxtjsn.com
 0.0.0.0 wrongerababan.info
 :: wrongerababan.info
 0.0.0.0 wronpeci.com
@@ -64294,6 +64306,8 @@ ff02::3 ip6-allhosts
 :: ws27.crypto-loot.com
 0.0.0.0 ws29.crypto-loot.com
 :: ws29.crypto-loot.com
+0.0.0.0 ws3.g-content.bid
+:: ws3.g-content.bid
 0.0.0.0 ws3.minr.pw
 :: ws3.minr.pw
 0.0.0.0 ws30.crypto-loot.com
@@ -67716,6 +67730,8 @@ ff02::3 ip6-allhosts
 :: xsrzmhriydfcqx.com
 0.0.0.0 xstar.cc
 :: xstar.cc
+0.0.0.0 xsuinfhoxpoz.com
+:: xsuinfhoxpoz.com
 0.0.0.0 xsweb.pxuns.com
 :: xsweb.pxuns.com
 0.0.0.0 xswezzwxh.com
@@ -68258,6 +68274,8 @@ ff02::3 ip6-allhosts
 :: yfyoyo.com
 0.0.0.0 yfzcuw.cn
 :: yfzcuw.cn
+0.0.0.0 yg10x.cn
+:: yg10x.cn
 0.0.0.0 yg592gpmrh0q.com
 :: yg592gpmrh0q.com
 0.0.0.0 ygblogtag.cn
