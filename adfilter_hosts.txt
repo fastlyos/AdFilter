@@ -1,11 +1,11 @@
-# Checksum: MTYwMTMwNTQ1NQo=
+# Checksum: MTYwMTMxNjI1OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200928-5
-# TimeUpdated: 2020-09-28T15:04:15+00:00
+# Version: 1.6.3-20200928-6
+# TimeUpdated: 2020-09-28T18:04:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34940
+# Total: 34943
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3382,6 +3382,8 @@ ff02::3 ip6-allhosts
 :: a777.oadz.com
 0.0.0.0 a8.net
 :: a8.net
+0.0.0.0 a8.o4p7y.cn
+:: a8.o4p7y.cn
 0.0.0.0 a814.oadz.com
 :: a814.oadz.com
 0.0.0.0 a8ht.hipp.fr
@@ -8680,8 +8682,6 @@ ff02::3 ip6-allhosts
 :: aos.wall.youmi.net
 0.0.0.0 aosztecuq.com
 :: aosztecuq.com
-0.0.0.0 aotetu.cn
-:: aotetu.cn
 0.0.0.0 aoyinn.com
 :: aoyinn.com
 0.0.0.0 ap-srv.net
@@ -11050,8 +11050,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -13868,6 +13866,8 @@ ff02::3 ip6-allhosts
 :: cawbarthe.com
 0.0.0.0 cawsodpet.club
 :: cawsodpet.club
+0.0.0.0 caykotranybjvx.com
+:: caykotranybjvx.com
 0.0.0.0 cb-content.com
 :: cb-content.com
 0.0.0.0 cb.alimama.cn
@@ -44228,6 +44228,8 @@ ff02::3 ip6-allhosts
 :: picturesquefilms.net
 0.0.0.0 pictureturn.com
 :: pictureturn.com
+0.0.0.0 picznhen.com
+:: picznhen.com
 0.0.0.0 pie.net.pk
 :: pie.net.pk
 0.0.0.0 pieaa.com
@@ -47322,6 +47324,8 @@ ff02::3 ip6-allhosts
 :: qzxcvb.m.zwdu.com
 0.0.0.0 qzxmtyy.com
 :: qzxmtyy.com
+0.0.0.0 qzylyp.com
+:: qzylyp.com
 0.0.0.0 qzzepglnyaufi.com
 :: qzzepglnyaufi.com
 0.0.0.0 qzzljx.com
@@ -50460,6 +50464,8 @@ ff02::3 ip6-allhosts
 :: sayyac.com
 0.0.0.0 sayyac.net
 :: sayyac.net
+0.0.0.0 sayzziir.com
+:: sayzziir.com
 0.0.0.0 sb.scorecardresearch.com
 :: sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
