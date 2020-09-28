@@ -1,11 +1,11 @@
-# Checksum: MTYwMTI5NDY4Ngo=
+# Checksum: MTYwMTMwNTQ1NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200928-4
-# TimeUpdated: 2020-09-28T12:04:46+00:00
+# Version: 1.6.3-20200928-5
+# TimeUpdated: 2020-09-28T15:04:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34917
+# Total: 34940
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2714,6 +2714,8 @@ ff02::3 ip6-allhosts
 :: 9270.com.cn
 0.0.0.0 927a8dd1afec73.com
 :: 927a8dd1afec73.com
+0.0.0.0 9282821monday.hqnpwzu.cn
+:: 9282821monday.hqnpwzu.cn
 0.0.0.0 929516.com
 :: 929516.com
 0.0.0.0 92caijing.com
@@ -3930,6 +3932,8 @@ ff02::3 ip6-allhosts
 :: ad-bg.adwo.com
 0.0.0.0 ad-brix.com
 :: ad-brix.com
+0.0.0.0 ad-cdn.qingting.fm
+:: ad-cdn.qingting.fm
 0.0.0.0 ad-channel.woyeahgo.tk
 :: ad-channel.woyeahgo.tk
 0.0.0.0 ad-clicks.com
@@ -7236,8 +7240,6 @@ ff02::3 ip6-allhosts
 :: agxclick.com
 0.0.0.0 ahalogy.com
 :: ahalogy.com
-0.0.0.0 ahcnxuepput.com
-:: ahcnxuepput.com
 0.0.0.0 aheadday.com
 :: aheadday.com
 0.0.0.0 ahhuazhen.com
@@ -8668,8 +8670,6 @@ ff02::3 ip6-allhosts
 :: aoovqo8t.stats.lncld.net
 0.0.0.0 aoparking.com
 :: aoparking.com
-0.0.0.0 aopxnvrugx.com
-:: aopxnvrugx.com
 0.0.0.0 aoredi.com
 :: aoredi.com
 0.0.0.0 aos-creative.prf.hn
@@ -8680,10 +8680,14 @@ ff02::3 ip6-allhosts
 :: aos.wall.youmi.net
 0.0.0.0 aosztecuq.com
 :: aosztecuq.com
+0.0.0.0 aotetu.cn
+:: aotetu.cn
 0.0.0.0 aoyinn.com
 :: aoyinn.com
 0.0.0.0 ap-srv.net
 :: ap-srv.net
+0.0.0.0 ap.cpatrk.net
+:: ap.cpatrk.net
 0.0.0.0 ap.dongqiudi.com
 :: ap.dongqiudi.com
 0.0.0.0 ap.ksrong.com
@@ -8800,6 +8804,8 @@ ff02::3 ip6-allhosts
 :: api.android.dianru.com
 0.0.0.0 api.anti.wauee.com
 :: api.anti.wauee.com
+0.0.0.0 api.applink.mob.com
+:: api.applink.mob.com
 0.0.0.0 api.appodeal.com
 :: api.appodeal.com
 0.0.0.0 api.apps.sina.cn
@@ -11044,6 +11050,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11118,8 +11126,6 @@ ff02::3 ip6-allhosts
 :: bdasd.wmxa.cn
 0.0.0.0 bdash-cloud.com
 :: bdash-cloud.com
-0.0.0.0 bdbdqkdkfb.xyz
-:: bdbdqkdkfb.xyz
 0.0.0.0 bdcdncmn-gd.inter.71edge.com
 :: bdcdncmn-gd.inter.71edge.com
 0.0.0.0 bdcm.kandianla.com
@@ -11132,6 +11138,8 @@ ff02::3 ip6-allhosts
 :: bdcode.youke.com
 0.0.0.0 bdcode1.haodou.com
 :: bdcode1.haodou.com
+0.0.0.0 bdcouc.xyz
+:: bdcouc.xyz
 0.0.0.0 bdd.hainan.net
 :: bdd.hainan.net
 0.0.0.0 bddm.999d.com
@@ -11226,8 +11234,6 @@ ff02::3 ip6-allhosts
 :: bdsearch.2345.com
 0.0.0.0 bdstatic.eastmoney.com
 :: bdstatic.eastmoney.com
-0.0.0.0 bdtongfei.cn
-:: bdtongfei.cn
 0.0.0.0 bdtwxreri.com
 :: bdtwxreri.com
 0.0.0.0 bdu.focus.cn
@@ -12438,6 +12444,8 @@ ff02::3 ip6-allhosts
 :: bopvetgel.com
 0.0.0.0 boratestfishke.info
 :: boratestfishke.info
+0.0.0.0 borazita.com
+:: borazita.com
 0.0.0.0 bordeded.pro
 :: bordeded.pro
 0.0.0.0 borehamwoodtimes-gb.borehamwoodtimes.co.uk
@@ -14410,6 +14418,8 @@ ff02::3 ip6-allhosts
 :: certifica.com
 0.0.0.0 certified-apps.com
 :: certified-apps.com
+0.0.0.0 certify-js.alexametrics.com
+:: certify-js.alexametrics.com
 0.0.0.0 cesikelylibrarie.site
 :: cesikelylibrarie.site
 0.0.0.0 cespousseluniv.info
@@ -15848,6 +15858,8 @@ ff02::3 ip6-allhosts
 :: cnzz.cn
 0.0.0.0 cnzz.mmstat.com
 :: cnzz.mmstat.com
+0.0.0.0 cnzz.oo5548q.top
+:: cnzz.oo5548q.top
 0.0.0.0 co.dtech.baofeng.com
 :: co.dtech.baofeng.com
 0.0.0.0 coazuthu.net
@@ -20854,6 +20866,8 @@ ff02::3 ip6-allhosts
 :: ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsa-mfp.fengshows.cn
 :: dsa-mfp.fengshows.cn
+0.0.0.0 dsa.iigs9.com
+:: dsa.iigs9.com
 0.0.0.0 dsdydk.com
 :: dsdydk.com
 0.0.0.0 dsf4t5jfds34j.com
@@ -26026,6 +26040,8 @@ ff02::3 ip6-allhosts
 :: gebralefukim.site
 0.0.0.0 gecko-hl.snssdk.com
 :: gecko-hl.snssdk.com
+0.0.0.0 gecko-lq.snssdk.com
+:: gecko-lq.snssdk.com
 0.0.0.0 gedawang.com
 :: gedawang.com
 0.0.0.0 gedbunyascr.club
@@ -30396,6 +30412,8 @@ ff02::3 ip6-allhosts
 :: imgapp.yeyou.com
 0.0.0.0 imgc.cymzc.com
 :: imgc.cymzc.com
+0.0.0.0 imgcdn.caolvch.com
+:: imgcdn.caolvch.com
 0.0.0.0 imgcdn.mazaibang.com
 :: imgcdn.mazaibang.com
 0.0.0.0 imgcdn.wapx.cn
@@ -34098,6 +34116,8 @@ ff02::3 ip6-allhosts
 :: layerloop.com
 0.0.0.0 laygunwow.com
 :: laygunwow.com
+0.0.0.0 layouttransparent.com
+:: layouttransparent.com
 0.0.0.0 layshyjar.com
 :: layshyjar.com
 0.0.0.0 lb.gtimg.com
@@ -34168,6 +34188,8 @@ ff02::3 ip6-allhosts
 :: ldingchristing.site
 0.0.0.0 ldpgl.code.mytanwan.com
 :: ldpgl.code.mytanwan.com
+0.0.0.0 ldrummaroise.club
+:: ldrummaroise.club
 0.0.0.0 lds.zui.com
 :: lds.zui.com
 0.0.0.0 ldt1duixoe.com
@@ -35114,6 +35136,8 @@ ff02::3 ip6-allhosts
 :: loftygreater.com
 0.0.0.0 lofv.xyz
 :: lofv.xyz
+0.0.0.0 log-api.pangolin-sdk-toutiao.com
+:: log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-dmp.suishenyun.cn
 :: log-dmp.suishenyun.cn
 0.0.0.0 log-hl.snssdk.com
@@ -37742,6 +37766,8 @@ ff02::3 ip6-allhosts
 :: me.afp.chinanews.com
 0.0.0.0 me.com.x9wj2.cn
 :: me.com.x9wj2.cn
+0.0.0.0 me.cpatrk.net
+:: me.cpatrk.net
 0.0.0.0 me.xdrig.com
 :: me.xdrig.com
 0.0.0.0 meadigital.com
@@ -37960,6 +37986,8 @@ ff02::3 ip6-allhosts
 :: megast.at
 0.0.0.0 megavisites.com
 :: megavisites.com
+0.0.0.0 megmeallab.com
+:: megmeallab.com
 0.0.0.0 megmobpoi.club
 :: megmobpoi.club
 0.0.0.0 megpacokjce.bid
@@ -43462,6 +43490,8 @@ ff02::3 ip6-allhosts
 :: paservices.tech
 0.0.0.0 pass-1234.com
 :: pass-1234.com
+0.0.0.0 pass.ttbc33.com
+:: pass.ttbc33.com
 0.0.0.0 pass1.soogif.com
 :: pass1.soogif.com
 0.0.0.0 pass2.soogif.com
@@ -44220,6 +44250,8 @@ ff02::3 ip6-allhosts
 :: pigwinspath.icu
 0.0.0.0 pikacn.com
 :: pikacn.com
+0.0.0.0 pilgrimary.club
+:: pilgrimary.club
 0.0.0.0 pilgrimarym.club
 :: pilgrimarym.club
 0.0.0.0 pillowagecredulous.com
@@ -50776,8 +50808,12 @@ ff02::3 ip6-allhosts
 :: sdk.open.talk.gepush.com
 0.0.0.0 sdk.open.talk.igexin.com
 :: sdk.open.talk.igexin.com
+0.0.0.0 sdk.s.360.cn
+:: sdk.s.360.cn
 0.0.0.0 sdk.stats-locations.com
 :: sdk.stats-locations.com
+0.0.0.0 sdk.tf.360.cn
+:: sdk.tf.360.cn
 0.0.0.0 sdk.zsdfm.com
 :: sdk.zsdfm.com
 0.0.0.0 sdk2.youguoquan.com
@@ -50814,6 +50850,8 @@ ff02::3 ip6-allhosts
 :: sdkm.w.inmobi.com
 0.0.0.0 sdkpay.uu.cc
 :: sdkpay.uu.cc
+0.0.0.0 sdkrec.tf.360.cn
+:: sdkrec.tf.360.cn
 0.0.0.0 sdks.stats-locations.com
 :: sdks.stats-locations.com
 0.0.0.0 sdksp.video.qq.com
@@ -53886,6 +53924,8 @@ ff02::3 ip6-allhosts
 :: staging2.crazyegg.com
 0.0.0.0 stagingjobshq.com
 :: stagingjobshq.com
+0.0.0.0 staglance.club
+:: staglance.club
 0.0.0.0 staimpor.net
 :: staimpor.net
 0.0.0.0 staitchu.com
@@ -65296,6 +65336,8 @@ ff02::3 ip6-allhosts
 :: www.dero.crypto-webminer.com
 0.0.0.0 www.devappgrant.space
 :: www.devappgrant.space
+0.0.0.0 www.dgtauto.com
+:: www.dgtauto.com
 0.0.0.0 www.dianjoy.com
 :: www.dianjoy.com
 0.0.0.0 www.dianru.com
@@ -68706,6 +68748,8 @@ ff02::3 ip6-allhosts
 :: youyijia021.com
 0.0.0.0 youyoumw.com
 :: youyoumw.com
+0.0.0.0 yowlcapkegs.com
+:: yowlcapkegs.com
 0.0.0.0 yoxus.cn
 :: yoxus.cn
 0.0.0.0 yoyi.tv
@@ -69236,6 +69280,8 @@ ff02::3 ip6-allhosts
 :: zergnet.com
 0.0.0.0 zero.kz
 :: zero.kz
+0.0.0.0 zero.wewakir.top
+:: zero.wewakir.top
 0.0.0.0 zeroidtech.com
 :: zeroidtech.com
 0.0.0.0 zerolullaby.com
