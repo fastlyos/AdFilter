@@ -1,11 +1,11 @@
-# Checksum: MTYwMTM3MDI2Mwo=
+# Checksum: MTYwMTM4MTA5Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200929-3
-# TimeUpdated: 2020-09-29T09:04:23+00:00
+# Version: 1.6.3-20200929-4
+# TimeUpdated: 2020-09-29T12:04:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34973
+# Total: 34979
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2094,6 +2094,8 @@ ff02::3 ip6-allhosts
 :: 6f363e072e82206b.com
 0.0.0.0 6f7mh6hfro.buzz
 :: 6f7mh6hfro.buzz
+0.0.0.0 6gijbgjyzc14.com
+:: 6gijbgjyzc14.com
 0.0.0.0 6huu.com
 :: 6huu.com
 0.0.0.0 6i4uibyg0c82.com
@@ -2676,8 +2678,6 @@ ff02::3 ip6-allhosts
 :: 9053fe03868ab.com
 0.0.0.0 91.51rmc.com
 :: 91.51rmc.com
-0.0.0.0 911.cc
-:: 911.cc
 0.0.0.0 913h6.cn
 :: 913h6.cn
 0.0.0.0 913nd.dieti-natura.es
@@ -3768,6 +3768,8 @@ ff02::3 ip6-allhosts
 :: acf-webmaster.net
 0.0.0.0 acgbenzi.com
 :: acgbenzi.com
+0.0.0.0 achaithe.com
+:: achaithe.com
 0.0.0.0 achcdn.com
 :: achcdn.com
 0.0.0.0 achicih.gitee.io
@@ -11070,6 +11072,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -13560,6 +13564,8 @@ ff02::3 ip6-allhosts
 :: caicaicai.121yy.com
 0.0.0.0 caihongxuan.com
 :: caihongxuan.com
+0.0.0.0 caikouli.com
+:: caikouli.com
 0.0.0.0 cailawyer.cn
 :: cailawyer.cn
 0.0.0.0 caing.adsame.com
@@ -18400,6 +18406,8 @@ ff02::3 ip6-allhosts
 :: d2ip7iv1l4ergv.cloudfront.net
 0.0.0.0 d2izls9pm2f64q.cloudfront.net
 :: d2izls9pm2f64q.cloudfront.net
+0.0.0.0 d2j042cj1421wi.cloudfront.net
+:: d2j042cj1421wi.cloudfront.net
 0.0.0.0 d2k7b1tjy36ro0.cloudfront.net
 :: d2k7b1tjy36ro0.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
@@ -23856,6 +23864,8 @@ ff02::3 ip6-allhosts
 :: fadedsnow.com
 0.0.0.0 fadsabs.com
 :: fadsabs.com
+0.0.0.0 fadsabz.com
+:: fadsabz.com
 0.0.0.0 fadsans.com
 :: fadsans.com
 0.0.0.0 fadsanz.com
@@ -52972,6 +52982,8 @@ ff02::3 ip6-allhosts
 :: soft.data.weather.360.cn
 0.0.0.0 soft.jiegeng.com
 :: soft.jiegeng.com
+0.0.0.0 soft.qymma.com
+:: soft.qymma.com
 0.0.0.0 soft.tbs.imtt.qq.com
 :: soft.tbs.imtt.qq.com
 0.0.0.0 soft.zhidian3g.cn
