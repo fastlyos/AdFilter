@@ -1,11 +1,11 @@
-# Checksum: MTYwMTM0ODYzMwo=
+# Checksum: MTYwMTM1OTQ3MQo=
 # Title: Zhijie's Ad Filter for Surge (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200929-1
-# TimeUpdated: 2020-09-29T03:03:53+00:00
+# Version: 1.6.3-20200929-2
+# TimeUpdated: 2020-09-29T06:04:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34978
+# Total: 34972
 DOMAIN,0.r.msn.com
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,001.0x1f4b0.com
@@ -82,9 +82,9 @@ DOMAIN,0796gou.com
 DOMAIN,0798ls.com
 DOMAIN,0851ok.com
 DOMAIN,086186.com
+DOMAIN,0898hhh.com
 DOMAIN,0923csfsteibv12.xyz
 DOMAIN,0926a687679d337e9d.com
-DOMAIN,0928vld.xyz
 DOMAIN,0956228a2df97a.com
 DOMAIN,09_19.supfree.net
 DOMAIN,0a0qetx8et.com
@@ -284,6 +284,7 @@ DOMAIN,12l22.net
 DOMAIN,12mnkys.com
 DOMAIN,12place.com
 DOMAIN,12rge.xyz
+DOMAIN,12xlwin6a.net
 DOMAIN,13023.url.7wkw.com
 DOMAIN,13190546cd1dec9bbdc.com
 DOMAIN,133uu.com
@@ -1223,6 +1224,7 @@ DOMAIN,815ff.com
 DOMAIN,817.dopa.com
 DOMAIN,818.dopa.com
 DOMAIN,81c.cn
+DOMAIN,81mxshc8cpe0.com
 DOMAIN,822.dlads.cn
 DOMAIN,822f797ef9d68ad3.com
 DOMAIN,8233fa03a40c92d.com
@@ -2712,6 +2714,7 @@ DOMAIN,adpai.thepaper.cn
 DOMAIN,adparlor.com
 DOMAIN,adpass.co.uk
 DOMAIN,adpay.com
+DOMAIN,adpay.network
 DOMAIN,adpays.net
 DOMAIN,adpdx.com
 DOMAIN,adpeepshosted.com
@@ -3983,7 +3986,6 @@ DOMAIN,analyse.weather.com.cn
 DOMAIN,analysis.120ask.com
 DOMAIN,analysis.afreecatv.com
 DOMAIN,analysis.fi
-DOMAIN,analysis.focalprice.com
 DOMAIN,analysis.polarisoffice.com
 DOMAIN,analysis.shinobi.jp
 DOMAIN,analysistools.net
@@ -3993,7 +3995,6 @@ DOMAIN,analytic.imlive.com
 DOMAIN,analytic.press
 DOMAIN,analytic.xingcloud.com
 DOMAIN,analytic20.detik.com
-DOMAIN,analyticapi.piri.net
 DOMAIN,analyticcdn.globalmailer.com
 DOMAIN,analytics-api.smzdm.com
 DOMAIN,analytics-cms.whitebeard.me
@@ -4039,7 +4040,6 @@ DOMAIN,analytics.callbell.eu
 DOMAIN,analytics.carambatv.ru
 DOMAIN,analytics.carambo.la
 DOMAIN,analytics.ceneo.pl
-DOMAIN,analytics.cervellio.com
 DOMAIN,analytics.chase.com
 DOMAIN,analytics.cincopa.com
 DOMAIN,analytics.clickpathmedia.com
@@ -4066,7 +4066,6 @@ DOMAIN,analytics.eip.telegraph.co.uk
 DOMAIN,analytics.erepublic.com
 DOMAIN,analytics.favcy.com
 DOMAIN,analytics.faw.sky.com
-DOMAIN,analytics.femalefirst.co.uk
 DOMAIN,analytics.ff.avast.com
 DOMAIN,analytics.footballdb.com
 DOMAIN,analytics.foresee.com
@@ -4096,7 +4095,6 @@ DOMAIN,analytics.kaggle.io
 DOMAIN,analytics.kaltura.com
 DOMAIN,analytics.kapost.com
 DOMAIN,analytics.kidoz.net
-DOMAIN,analytics.ku6.com
 DOMAIN,analytics.liftoff.io
 DOMAIN,analytics.linktr.ee
 DOMAIN,analytics.live.com
@@ -4105,7 +4103,6 @@ DOMAIN,analytics.livestream.com
 DOMAIN,analytics.localytics.com
 DOMAIN,analytics.logsss.com
 DOMAIN,analytics.loop-cloud.de
-DOMAIN,analytics.ma.tune.com
 DOMAIN,analytics.mailmunch.co
 DOMAIN,analytics.matchbin.com
 DOMAIN,analytics.meaww.com
@@ -4126,7 +4123,6 @@ DOMAIN,analytics.msnbc.msn.com
 DOMAIN,analytics.myfidevs.io
 DOMAIN,analytics.myfinance.com
 DOMAIN,analytics.newscred.com
-DOMAIN,analytics.newsinc.com
 DOMAIN,analytics.nextopia.net
 DOMAIN,analytics.ngfiles.com
 DOMAIN,analytics.nike.com
@@ -4160,7 +4156,6 @@ DOMAIN,analytics.rogersmedia.com
 DOMAIN,analytics.salesanalytics.io
 DOMAIN,analytics.sanoma.fi
 DOMAIN,analytics.schoolwires.com
-DOMAIN,analytics.services.distractify.com
 DOMAIN,analytics.servogram.io
 DOMAIN,analytics.sgnapps.com
 DOMAIN,analytics.shareaholic.com
@@ -4197,7 +4192,6 @@ DOMAIN,analytics.thenest.com
 DOMAIN,analytics.theneweuropean.co.uk
 DOMAIN,analytics.thenewslens.com
 DOMAIN,analytics.thetab.com
-DOMAIN,analytics.thevideo.me
 DOMAIN,analytics.tiktok.com
 DOMAIN,analytics.tio.ch
 DOMAIN,analytics.tool.lu
@@ -4215,21 +4209,16 @@ DOMAIN,analytics.valiuz.com
 DOMAIN,analytics.vanillaforums.com
 DOMAIN,analytics.vendemore.com
 DOMAIN,analytics.video.meredithcorp.io
-DOMAIN,analytics.volvocars.com
 DOMAIN,analytics.vooxe.com
 DOMAIN,analytics.wanmei.com
 DOMAIN,analytics.webads.eu
 DOMAIN,analytics.webgains.io
 DOMAIN,analytics.websolute.it
-DOMAIN,analytics.wetpaint.me
-DOMAIN,analytics.whatculture.com
 DOMAIN,analytics.wildtangent.com
 DOMAIN,analytics.witglobal.net
 DOMAIN,analytics.woozooo.com
 DOMAIN,analytics.worldtable.co
-DOMAIN,analytics.ws.126.net
 DOMAIN,analytics.xgimi.com
-DOMAIN,analytics.xyscdn.com
 DOMAIN,analytics.yahoo.com
 DOMAIN,analytics.yam.com
 DOMAIN,analytics.yola.net
@@ -4250,7 +4239,6 @@ DOMAIN,analyticsnew.overwolf.com
 DOMAIN,analyticson.com
 DOMAIN,analyticswizard.com
 DOMAIN,analyze.full-marke.com
-DOMAIN,analyze.yahooapis.com
 DOMAIN,analyzer.fc2.com
 DOMAIN,analyzer2.fc2.com
 DOMAIN,analyzer51.fc2.com
@@ -4920,7 +4908,6 @@ DOMAIN,atanx.alicdn.com
 DOMAIN,atanx2.alicdn.com
 DOMAIN,atas.io
 DOMAIN,atatus.com
-DOMAIN,atax.gamestats.com
 DOMAIN,atconnect.npo.nl
 DOMAIN,atcryp.com
 DOMAIN,atelovesinothic.info
@@ -5448,6 +5435,7 @@ DOMAIN,baofeng.m.cn.miaozhen.com
 DOMAIN,baoyatu.cc
 DOMAIN,bapkt.com
 DOMAIN,bapres.cn
+DOMAIN,baqcpdctexlwgp.com
 DOMAIN,bar.baidu.com
 DOMAIN,baremetrics.com
 DOMAIN,barfsmiaowpit.com
@@ -5975,6 +5963,7 @@ DOMAIN,bipwrite.com
 DOMAIN,biquge22.com
 DOMAIN,birdmedia.com
 DOMAIN,biroads.com
+DOMAIN,birung.club
 DOMAIN,bishoppeda.club
 DOMAIN,bishpolicen.club
 DOMAIN,bisiraczyxbu.com
@@ -7987,7 +7976,6 @@ DOMAIN,codedexchange.com
 DOMAIN,codefund.io
 DOMAIN,codejumps.com
 DOMAIN,codemylife.info
-DOMAIN,codenew.kanshuhai.com
 DOMAIN,codenow.cn
 DOMAIN,codeonclick.com
 DOMAIN,codetips.wang
@@ -9967,6 +9955,7 @@ DOMAIN,dilutercelebraltygu.info
 DOMAIN,dimessing-parker.com
 DOMAIN,dimestore.com
 DOMAIN,dimfarlow.com
+DOMAIN,diminishkidnapping.com
 DOMAIN,dimml.io
 DOMAIN,dimpawlam.com
 DOMAIN,dinastycoin.crypto-webminer.com
@@ -13597,6 +13586,7 @@ DOMAIN,graivaik.com
 DOMAIN,graizoah.com
 DOMAIN,gramombird.com
 DOMAIN,grampouz.net
+DOMAIN,gramsoakton.casa
 DOMAIN,grand-ads.com
 DOMAIN,grand.ele.me
 DOMAIN,grandparen.club
@@ -14660,6 +14650,7 @@ DOMAIN,huodong.mobilem.360.cn
 DOMAIN,huodonghezi.cn
 DOMAIN,huodonghezi.com
 DOMAIN,huomob.com
+DOMAIN,huovernment.club
 DOMAIN,huoying666.com
 DOMAIN,hupsouft.net
 DOMAIN,hupuzhibo.cn
@@ -14842,6 +14833,7 @@ DOMAIN,iadmusicmat.music.126.net
 DOMAIN,iadmusicmatvideo.music.126.net
 DOMAIN,ialgregarderol.fun
 DOMAIN,iam-agof-app.irquest.com
+DOMAIN,iammvucrpj.com
 DOMAIN,iangs.com
 DOMAIN,ianisedover.info
 DOMAIN,ianxalim.pw
@@ -14899,6 +14891,7 @@ DOMAIN,icon.51.la
 DOMAIN,icon.cnmo.com
 DOMAIN,icon.cnzz.com
 DOMAIN,icon.users.51.la
+DOMAIN,icon2count.com
 DOMAIN,icons.mydrivers.com
 DOMAIN,iconstadper.com
 DOMAIN,icstats.nl
@@ -15272,7 +15265,6 @@ DOMAIN,imp.adsmogo.com
 DOMAIN,imp.adsmogo.mobi
 DOMAIN,imp.adsmogo.net
 DOMAIN,imp.affiliator.com
-DOMAIN,imp.asahi.com
 DOMAIN,imp.clickability.com
 DOMAIN,imp.cnmo.com
 DOMAIN,imp.constantcontact.com
@@ -17082,6 +17074,7 @@ DOMAIN,laydcilck.com
 DOMAIN,layer-ad.org
 DOMAIN,layerloop.com
 DOMAIN,laygunwow.com
+DOMAIN,layoutovuleads.casa
 DOMAIN,layouttransparent.com
 DOMAIN,layshyjar.com
 DOMAIN,lb.gtimg.com
@@ -19235,6 +19228,7 @@ DOMAIN,milabra.com
 DOMAIN,mileporn.com
 DOMAIN,milfordmercury-gb.milfordmercury.co.uk
 DOMAIN,milk.yesky.com.cn
+DOMAIN,milkytarcub.com
 DOMAIN,millagesert.info
 DOMAIN,millennialmedia.com
 DOMAIN,millioncash.ru
@@ -21909,7 +21903,6 @@ DOMAIN,peerius.com
 DOMAIN,peethobo.com
 DOMAIN,pegaumsi.com
 DOMAIN,pegloang.com
-DOMAIN,pejhnrurllsq.com
 DOMAIN,pejqoq4cafo3bg9yqqqtk5e6s6.com
 DOMAIN,pemainedperio.info
 DOMAIN,penarthtimes-gb.penarthtimes.co.uk
@@ -22800,6 +22793,7 @@ DOMAIN,privatewebseiten.com
 DOMAIN,privy.com
 DOMAIN,prizel.com
 DOMAIN,prjcq.com
+DOMAIN,prjslxhtx005.top
 DOMAIN,prm-native.com
 DOMAIN,prmobiles.com
 DOMAIN,prnetwork.de
@@ -24024,6 +24018,7 @@ DOMAIN,reddot-api.gclick.cn
 DOMAIN,redewdit.pro
 DOMAIN,redeye.williamhill.com
 DOMAIN,redfastlabs.com
+DOMAIN,redfunlob.casa
 DOMAIN,redhillandreigatelife-gb.redhillandreigatelife.co.uk
 DOMAIN,redianad.com
 DOMAIN,redintelligence.net
@@ -29612,6 +29607,7 @@ DOMAIN,trbo.com
 DOMAIN,trc.adsage.com
 DOMAIN,trc.pushnami.com
 DOMAIN,trc.taboola.com
+DOMAIN,trc85.com
 DOMAIN,trck.bdi-services.de
 DOMAIN,trck.cyberport.de
 DOMAIN,trck.meinprospekt.de
@@ -30349,7 +30345,6 @@ DOMAIN,urchin.5173.com
 DOMAIN,urchin.lstat.youku.com
 DOMAIN,urchrevening.info
 DOMAIN,urd103.analysys.cn
-DOMAIN,urd240.analysys.cn
 DOMAIN,urd345.analysys.cn
 DOMAIN,urdercomp.space
 DOMAIN,uremechangec.info
@@ -30602,7 +30597,6 @@ DOMAIN,v1.phb123.com
 DOMAIN,v1.play.log.hunantv.com
 DOMAIN,v1.res.log.hunantv.com
 DOMAIN,v1.ujian.cc
-DOMAIN,v10-win.vortex.data.microsft.com.akadns.net
 DOMAIN,v10.cnzz.com
 DOMAIN,v11.cnzz.com
 DOMAIN,v11media.com
@@ -31835,6 +31829,7 @@ DOMAIN,wityamdog.com
 DOMAIN,wiwapaxo.xyz
 DOMAIN,wiyun.com
 DOMAIN,wizaly.com
+DOMAIN,wizhumpgyros.com
 DOMAIN,wizliebeg.com
 DOMAIN,wizwarsum.site
 DOMAIN,wj.jiancai365.cn
@@ -34310,7 +34305,6 @@ DOMAIN,yldmgrimg.net
 DOMAIN,yljiaoluo.com
 DOMAIN,yllanala.pw
 DOMAIN,yllix.com
-DOMAIN,ylnmzwwc.com
 DOMAIN,ylog.hiido.com
 DOMAIN,ylog.huya.com
 DOMAIN,ylqbiljjlyq.com

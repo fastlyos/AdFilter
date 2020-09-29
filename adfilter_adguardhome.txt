@@ -1,11 +1,11 @@
-! Checksum: MTYwMTM0ODYzMwo=
+! Checksum: MTYwMTM1OTQ3MQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.3-20200929-1
-! TimeUpdated: 2020-09-29T03:03:53+00:00
+! Version: 1.6.3-20200929-2
+! TimeUpdated: 2020-09-29T06:04:31+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 34978
+! Total: 34972
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -82,9 +82,9 @@
 |0798ls.com^
 |0851ok.com^
 |086186.com^
+|0898hhh.com^
 |0923csfsteibv12.xyz^
 |0926a687679d337e9d.com^
-|0928vld.xyz^
 |0956228a2df97a.com^
 |09_19.supfree.net^
 |0a0qetx8et.com^
@@ -284,6 +284,7 @@
 |12mnkys.com^
 |12place.com^
 |12rge.xyz^
+|12xlwin6a.net^
 |13023.url.7wkw.com^
 |13190546cd1dec9bbdc.com^
 |133uu.com^
@@ -1223,6 +1224,7 @@
 |817.dopa.com^
 |818.dopa.com^
 |81c.cn^
+|81mxshc8cpe0.com^
 |822.dlads.cn^
 |822f797ef9d68ad3.com^
 |8233fa03a40c92d.com^
@@ -2712,6 +2714,7 @@
 |adparlor.com^
 |adpass.co.uk^
 |adpay.com^
+|adpay.network^
 |adpays.net^
 |adpdx.com^
 |adpeepshosted.com^
@@ -3983,7 +3986,6 @@
 |analysis.120ask.com^
 |analysis.afreecatv.com^
 |analysis.fi^
-|analysis.focalprice.com^
 |analysis.polarisoffice.com^
 |analysis.shinobi.jp^
 |analysistools.net^
@@ -3993,7 +3995,6 @@
 |analytic.press^
 |analytic.xingcloud.com^
 |analytic20.detik.com^
-|analyticapi.piri.net^
 |analyticcdn.globalmailer.com^
 |analytics-api.smzdm.com^
 |analytics-cms.whitebeard.me^
@@ -4039,7 +4040,6 @@
 |analytics.carambatv.ru^
 |analytics.carambo.la^
 |analytics.ceneo.pl^
-|analytics.cervellio.com^
 |analytics.chase.com^
 |analytics.cincopa.com^
 |analytics.clickpathmedia.com^
@@ -4066,7 +4066,6 @@
 |analytics.erepublic.com^
 |analytics.favcy.com^
 |analytics.faw.sky.com^
-|analytics.femalefirst.co.uk^
 |analytics.ff.avast.com^
 |analytics.footballdb.com^
 |analytics.foresee.com^
@@ -4096,7 +4095,6 @@
 |analytics.kaltura.com^
 |analytics.kapost.com^
 |analytics.kidoz.net^
-|analytics.ku6.com^
 |analytics.liftoff.io^
 |analytics.linktr.ee^
 |analytics.live.com^
@@ -4105,7 +4103,6 @@
 |analytics.localytics.com^
 |analytics.logsss.com^
 |analytics.loop-cloud.de^
-|analytics.ma.tune.com^
 |analytics.mailmunch.co^
 |analytics.matchbin.com^
 |analytics.meaww.com^
@@ -4126,7 +4123,6 @@
 |analytics.myfidevs.io^
 |analytics.myfinance.com^
 |analytics.newscred.com^
-|analytics.newsinc.com^
 |analytics.nextopia.net^
 |analytics.ngfiles.com^
 |analytics.nike.com^
@@ -4160,7 +4156,6 @@
 |analytics.salesanalytics.io^
 |analytics.sanoma.fi^
 |analytics.schoolwires.com^
-|analytics.services.distractify.com^
 |analytics.servogram.io^
 |analytics.sgnapps.com^
 |analytics.shareaholic.com^
@@ -4197,7 +4192,6 @@
 |analytics.theneweuropean.co.uk^
 |analytics.thenewslens.com^
 |analytics.thetab.com^
-|analytics.thevideo.me^
 |analytics.tiktok.com^
 |analytics.tio.ch^
 |analytics.tool.lu^
@@ -4215,21 +4209,16 @@
 |analytics.vanillaforums.com^
 |analytics.vendemore.com^
 |analytics.video.meredithcorp.io^
-|analytics.volvocars.com^
 |analytics.vooxe.com^
 |analytics.wanmei.com^
 |analytics.webads.eu^
 |analytics.webgains.io^
 |analytics.websolute.it^
-|analytics.wetpaint.me^
-|analytics.whatculture.com^
 |analytics.wildtangent.com^
 |analytics.witglobal.net^
 |analytics.woozooo.com^
 |analytics.worldtable.co^
-|analytics.ws.126.net^
 |analytics.xgimi.com^
-|analytics.xyscdn.com^
 |analytics.yahoo.com^
 |analytics.yam.com^
 |analytics.yola.net^
@@ -4250,7 +4239,6 @@
 |analyticson.com^
 |analyticswizard.com^
 |analyze.full-marke.com^
-|analyze.yahooapis.com^
 |analyzer.fc2.com^
 |analyzer2.fc2.com^
 |analyzer51.fc2.com^
@@ -4920,7 +4908,6 @@
 |atanx2.alicdn.com^
 |atas.io^
 |atatus.com^
-|atax.gamestats.com^
 |atconnect.npo.nl^
 |atcryp.com^
 |atelovesinothic.info^
@@ -5448,6 +5435,7 @@
 |baoyatu.cc^
 |bapkt.com^
 |bapres.cn^
+|baqcpdctexlwgp.com^
 |bar.baidu.com^
 |baremetrics.com^
 |barfsmiaowpit.com^
@@ -5975,6 +5963,7 @@
 |biquge22.com^
 |birdmedia.com^
 |biroads.com^
+|birung.club^
 |bishoppeda.club^
 |bishpolicen.club^
 |bisiraczyxbu.com^
@@ -7987,7 +7976,6 @@
 |codefund.io^
 |codejumps.com^
 |codemylife.info^
-|codenew.kanshuhai.com^
 |codenow.cn^
 |codeonclick.com^
 |codetips.wang^
@@ -9967,6 +9955,7 @@
 |dimessing-parker.com^
 |dimestore.com^
 |dimfarlow.com^
+|diminishkidnapping.com^
 |dimml.io^
 |dimpawlam.com^
 |dinastycoin.crypto-webminer.com^
@@ -13597,6 +13586,7 @@
 |graizoah.com^
 |gramombird.com^
 |grampouz.net^
+|gramsoakton.casa^
 |grand-ads.com^
 |grand.ele.me^
 |grandparen.club^
@@ -14660,6 +14650,7 @@
 |huodonghezi.cn^
 |huodonghezi.com^
 |huomob.com^
+|huovernment.club^
 |huoying666.com^
 |hupsouft.net^
 |hupuzhibo.cn^
@@ -14842,6 +14833,7 @@
 |iadmusicmatvideo.music.126.net^
 |ialgregarderol.fun^
 |iam-agof-app.irquest.com^
+|iammvucrpj.com^
 |iangs.com^
 |ianisedover.info^
 |ianxalim.pw^
@@ -14899,6 +14891,7 @@
 |icon.cnmo.com^
 |icon.cnzz.com^
 |icon.users.51.la^
+|icon2count.com^
 |icons.mydrivers.com^
 |iconstadper.com^
 |icstats.nl^
@@ -15272,7 +15265,6 @@
 |imp.adsmogo.mobi^
 |imp.adsmogo.net^
 |imp.affiliator.com^
-|imp.asahi.com^
 |imp.clickability.com^
 |imp.cnmo.com^
 |imp.constantcontact.com^
@@ -17082,6 +17074,7 @@
 |layer-ad.org^
 |layerloop.com^
 |laygunwow.com^
+|layoutovuleads.casa^
 |layouttransparent.com^
 |layshyjar.com^
 |lb.gtimg.com^
@@ -19235,6 +19228,7 @@
 |mileporn.com^
 |milfordmercury-gb.milfordmercury.co.uk^
 |milk.yesky.com.cn^
+|milkytarcub.com^
 |millagesert.info^
 |millennialmedia.com^
 |millioncash.ru^
@@ -21909,7 +21903,6 @@
 |peethobo.com^
 |pegaumsi.com^
 |pegloang.com^
-|pejhnrurllsq.com^
 |pejqoq4cafo3bg9yqqqtk5e6s6.com^
 |pemainedperio.info^
 |penarthtimes-gb.penarthtimes.co.uk^
@@ -22800,6 +22793,7 @@
 |privy.com^
 |prizel.com^
 |prjcq.com^
+|prjslxhtx005.top^
 |prm-native.com^
 |prmobiles.com^
 |prnetwork.de^
@@ -24024,6 +24018,7 @@
 |redewdit.pro^
 |redeye.williamhill.com^
 |redfastlabs.com^
+|redfunlob.casa^
 |redhillandreigatelife-gb.redhillandreigatelife.co.uk^
 |redianad.com^
 |redintelligence.net^
@@ -29612,6 +29607,7 @@
 |trc.adsage.com^
 |trc.pushnami.com^
 |trc.taboola.com^
+|trc85.com^
 |trck.bdi-services.de^
 |trck.cyberport.de^
 |trck.meinprospekt.de^
@@ -30349,7 +30345,6 @@
 |urchin.lstat.youku.com^
 |urchrevening.info^
 |urd103.analysys.cn^
-|urd240.analysys.cn^
 |urd345.analysys.cn^
 |urdercomp.space^
 |uremechangec.info^
@@ -30602,7 +30597,6 @@
 |v1.play.log.hunantv.com^
 |v1.res.log.hunantv.com^
 |v1.ujian.cc^
-|v10-win.vortex.data.microsft.com.akadns.net^
 |v10.cnzz.com^
 |v11.cnzz.com^
 |v11media.com^
@@ -31835,6 +31829,7 @@
 |wiwapaxo.xyz^
 |wiyun.com^
 |wizaly.com^
+|wizhumpgyros.com^
 |wizliebeg.com^
 |wizwarsum.site^
 |wj.jiancai365.cn^
@@ -34310,7 +34305,6 @@
 |yljiaoluo.com^
 |yllanala.pw^
 |yllix.com^
-|ylnmzwwc.com^
 |ylog.hiido.com^
 |ylog.huya.com^
 |ylqbiljjlyq.com^
