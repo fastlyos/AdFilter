@@ -1,11 +1,11 @@
-# Checksum: MTYwMTQwMjY1MAo=
+# Checksum: MTYwMTQxMzQ0MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200929-6
-# TimeUpdated: 2020-09-29T18:04:10+00:00
+# Version: 1.6.3-20200929-7
+# TimeUpdated: 2020-09-29T21:04:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34986
+# Total: 34985
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -14746,8 +14746,6 @@ ff02::3 ip6-allhosts
 :: chinaheh.com
 0.0.0.0 chinauma.net
 :: chinauma.net
-0.0.0.0 chinaweian.com
-:: chinaweian.com
 0.0.0.0 chinaxiedu.cn
 :: chinaxiedu.cn
 0.0.0.0 chinazmob.com
@@ -14972,8 +14970,6 @@ ff02::3 ip6-allhosts
 :: clairedikio.club
 0.0.0.0 clancy.spiceworks.com
 :: clancy.spiceworks.com
-0.0.0.0 clandia.cn
-:: clandia.cn
 0.0.0.0 clarins.com.cn
 :: clarins.com.cn
 0.0.0.0 clarity.abacast.com
@@ -16496,6 +16492,8 @@ ff02::3 ip6-allhosts
 :: content.adriver.ru
 0.0.0.0 content.livesportmedia.eu
 :: content.livesportmedia.eu
+0.0.0.0 content.liveuniverse.com
+:: content.liveuniverse.com
 0.0.0.0 content.s8bbs.com
 :: content.s8bbs.com
 0.0.0.0 content.secondspace.com
@@ -20682,8 +20680,6 @@ ff02::3 ip6-allhosts
 :: down.xiazaidc.com
 0.0.0.0 down1oads.com
 :: down1oads.com
-0.0.0.0 downcdn.top
-:: downcdn.top
 0.0.0.0 downlaod.xiaocen.com
 :: downlaod.xiaocen.com
 0.0.0.0 download-performance.com
@@ -35022,6 +35018,8 @@ ff02::3 ip6-allhosts
 :: lkqd.net
 0.0.0.0 lkskkssuoa.com
 :: lkskkssuoa.com
+0.0.0.0 lkubjgrjslmgxo.com
+:: lkubjgrjslmgxo.com
 0.0.0.0 lkxanf7ad6g.zgyryt.com
 :: lkxanf7ad6g.zgyryt.com
 0.0.0.0 lkyuoybczr.com
