@@ -1,11 +1,11 @@
-# Checksum: MTYwMTM1OTQ3MQo=
+# Checksum: MTYwMTM3MDI2Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200929-2
-# TimeUpdated: 2020-09-29T06:04:31+00:00
+# Version: 1.6.3-20200929-3
+# TimeUpdated: 2020-09-29T09:04:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34972
+# Total: 34973
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -168,8 +168,6 @@ ff02::3 ip6-allhosts
 :: 0851ok.com
 0.0.0.0 086186.com
 :: 086186.com
-0.0.0.0 0898hhh.com
-:: 0898hhh.com
 0.0.0.0 0923csfsteibv12.xyz
 :: 0923csfsteibv12.xyz
 0.0.0.0 0926a687679d337e9d.com
@@ -2158,6 +2156,8 @@ ff02::3 ip6-allhosts
 :: 7080555.com
 0.0.0.0 7089e5b41f87.com
 :: 7089e5b41f87.com
+0.0.0.0 70950.com
+:: 70950.com
 0.0.0.0 70e.com
 :: 70e.com
 0.0.0.0 70ee6484605f.com
@@ -2658,6 +2658,8 @@ ff02::3 ip6-allhosts
 :: 8v1.cn
 0.0.0.0 8wey4x0c.com
 :: 8wey4x0c.com
+0.0.0.0 8wtkfxiss1o2.com
+:: 8wtkfxiss1o2.com
 0.0.0.0 8xkr.xyz
 :: 8xkr.xyz
 0.0.0.0 8yrn.cn
@@ -3654,6 +3656,8 @@ ff02::3 ip6-allhosts
 :: abtshield.com
 0.0.0.0 abtt.pufenchuanmu.com
 :: abtt.pufenchuanmu.com
+0.0.0.0 abundled.club
+:: abundled.club
 0.0.0.0 abuse8.com
 :: abuse8.com
 0.0.0.0 abusedbabysitters.com
@@ -11066,8 +11070,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -12080,8 +12082,6 @@ ff02::3 ip6-allhosts
 :: bjygfd.com
 0.0.0.0 bjzcbx.com
 :: bjzcbx.com
-0.0.0.0 bjzhwx.dre8.com
-:: bjzhwx.dre8.com
 0.0.0.0 bk9gun.vpser.net
 :: bk9gun.vpser.net
 0.0.0.0 bkcommdata.v.qq.com
@@ -15920,8 +15920,6 @@ ff02::3 ip6-allhosts
 :: code.ditiezu.net
 0.0.0.0 code.fastclick.net
 :: code.fastclick.net
-0.0.0.0 code.fjhongou.com
-:: code.fjhongou.com
 0.0.0.0 code.hnxcdjk.com
 :: code.hnxcdjk.com
 0.0.0.0 code.hot-mob.com
@@ -28382,6 +28380,8 @@ ff02::3 ip6-allhosts
 :: hh.livehapp.com
 0.0.0.0 hh6666.com
 :: hh6666.com
+0.0.0.0 hhb123.tk
+:: hhb123.tk
 0.0.0.0 hhbekxxw5d9e.pflexads.com
 :: hhbekxxw5d9e.pflexads.com
 0.0.0.0 hhcskj.com
@@ -38566,6 +38566,8 @@ ff02::3 ip6-allhosts
 :: minessetion.info
 0.0.0.0 minewhat.com
 :: minewhat.com
+0.0.0.0 mingboxieye.com
+:: mingboxieye.com
 0.0.0.0 minhdz.com
 :: minhdz.com
 0.0.0.0 mini.cpc.sogou.com
@@ -44988,6 +44990,8 @@ ff02::3 ip6-allhosts
 :: pod.xpress.com
 0.0.0.0 podbwdcrmjufmr.com
 :: podbwdcrmjufmr.com
+0.0.0.0 podhopfit.site
+:: podhopfit.site
 0.0.0.0 poemsproduced.com
 :: poemsproduced.com
 0.0.0.0 point-of-entry.com
@@ -45590,8 +45594,6 @@ ff02::3 ip6-allhosts
 :: prizel.com
 0.0.0.0 prjcq.com
 :: prjcq.com
-0.0.0.0 prjslxhtx005.top
-:: prjslxhtx005.top
 0.0.0.0 prm-native.com
 :: prm-native.com
 0.0.0.0 prmobiles.com
@@ -57200,6 +57202,8 @@ ff02::3 ip6-allhosts
 :: thescottishfarmer-gb.thescottishfarmer.co.uk
 0.0.0.0 thesearchagency.net
 :: thesearchagency.net
+0.0.0.0 thesister.club
+:: thesister.club
 0.0.0.0 theslingshot.com
 :: theslingshot.com
 0.0.0.0 thesocialsexnetwork.com
@@ -63292,8 +63296,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
