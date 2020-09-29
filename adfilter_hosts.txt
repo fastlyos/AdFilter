@@ -1,8 +1,8 @@
-# Checksum: MTYwMTM4MTA5Nwo=
+# Checksum: MTYwMTM5MTg0OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200929-4
-# TimeUpdated: 2020-09-29T12:04:57+00:00
+# Version: 1.6.3-20200929-5
+# TimeUpdated: 2020-09-29T15:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 34979
@@ -2466,8 +2466,6 @@ ff02::3 ip6-allhosts
 :: 823bc1a6cd3f1657.com
 0.0.0.0 82448dceaaa13034.com
 :: 82448dceaaa13034.com
-0.0.0.0 825145.com
-:: 825145.com
 0.0.0.0 827649.com
 :: 827649.com
 0.0.0.0 827fa7c868b4b.com
@@ -5406,6 +5404,8 @@ ff02::3 ip6-allhosts
 :: adoperatorx.com
 0.0.0.0 adopexchange.com
 :: adopexchange.com
+0.0.0.0 adopshost.me
+:: adopshost.me
 0.0.0.0 adoptim.com
 :: adoptim.com
 0.0.0.0 adorika.com
@@ -7094,8 +7094,6 @@ ff02::3 ip6-allhosts
 :: affplanet.com
 0.0.0.0 affrh2015.com
 :: affrh2015.com
-0.0.0.0 affrh2020.com
-:: affrh2020.com
 0.0.0.0 affrh2022.com
 :: affrh2022.com
 0.0.0.0 afftrack.com
@@ -8566,8 +8564,6 @@ ff02::3 ip6-allhosts
 :: angorch-cdr7.com
 0.0.0.0 angusmemor.info
 :: angusmemor.info
-0.0.0.0 anhuilitian.net
-:: anhuilitian.net
 0.0.0.0 anime.reactor.cc
 :: anime.reactor.cc
 0.0.0.0 animeidhentai.com
@@ -9546,8 +9542,6 @@ ff02::3 ip6-allhosts
 :: arrowpushengine.com
 0.0.0.0 arsdev.net
 :: arsdev.net
-0.0.0.0 arshgkcfdhgr.com
-:: arshgkcfdhgr.com
 0.0.0.0 art.theta.sogoucdn.com
 :: art.theta.sogoucdn.com
 0.0.0.0 artamkari.com
@@ -9900,8 +9894,6 @@ ff02::3 ip6-allhosts
 :: atsptp.com
 0.0.0.0 att.stargame.com
 :: att.stargame.com
-0.0.0.0 attach.s8bbs.com
-:: attach.s8bbs.com
 0.0.0.0 attacketslovern.info
 :: attacketslovern.info
 0.0.0.0 attacketsun.space
@@ -10706,8 +10698,6 @@ ff02::3 ip6-allhosts
 :: baletingo.com
 0.0.0.0 balmoralmkt.com
 :: balmoralmkt.com
-0.0.0.0 baltchd.net
-:: baltchd.net
 0.0.0.0 balvalur.com
 :: balvalur.com
 0.0.0.0 bam-bam-slam.com
@@ -11606,6 +11596,8 @@ ff02::3 ip6-allhosts
 :: bestcontactform.com
 0.0.0.0 bestcontentcompany.top
 :: bestcontentcompany.top
+0.0.0.0 bestcontenthost.com
+:: bestcontenthost.com
 0.0.0.0 bestcontentservice.top
 :: bestcontentservice.top
 0.0.0.0 bestcontentsoftware.top
@@ -12758,8 +12750,6 @@ ff02::3 ip6-allhosts
 :: bsch.serving-sys.com
 0.0.0.0 bscy05.cn
 :: bscy05.cn
-0.0.0.0 bsdev.cn
-:: bsdev.cn
 0.0.0.0 bshare.cn
 :: bshare.cn
 0.0.0.0 bsiet.husky.sogou.com
@@ -15496,8 +15486,6 @@ ff02::3 ip6-allhosts
 :: clmcom.com
 0.0.0.0 clnk.me
 :: clnk.me
-0.0.0.0 clnlyfxit.com
-:: clnlyfxit.com
 0.0.0.0 clockdisplaystoring.com
 :: clockdisplaystoring.com
 0.0.0.0 clog.go.com
@@ -17924,8 +17912,6 @@ ff02::3 ip6-allhosts
 :: cytroncdn.videojj.com
 0.0.0.0 cyveillance.com
 :: cyveillance.com
-0.0.0.0 cz.ifeng0.com
-:: cz.ifeng0.com
 0.0.0.0 cz01016102.cg2017.com
 :: cz01016102.cg2017.com
 0.0.0.0 cz4444.cn
@@ -19496,6 +19482,8 @@ ff02::3 ip6-allhosts
 :: delainlygoverhe.info
 0.0.0.0 delegatediscussion.com
 :: delegatediscussion.com
+0.0.0.0 deliberateporridge.com
+:: deliberateporridge.com
 0.0.0.0 delidatax.net
 :: delidatax.net
 0.0.0.0 deliver.kuwo.cn
@@ -24452,6 +24440,8 @@ ff02::3 ip6-allhosts
 :: fiestataseel.club
 0.0.0.0 fiferentsdr.club
 :: fiferentsdr.club
+0.0.0.0 fifoyegflivpk.com
+:: fifoyegflivpk.com
 0.0.0.0 fiksu.com
 :: fiksu.com
 0.0.0.0 filament-stats.herokuapp.com
@@ -24576,6 +24566,8 @@ ff02::3 ip6-allhosts
 :: fixchidie.com
 0.0.0.0 fixcounter.com
 :: fixcounter.com
+0.0.0.0 fixedlyuncoveradjoin.com
+:: fixedlyuncoveradjoin.com
 0.0.0.0 fixionmedia.com
 :: fixionmedia.com
 0.0.0.0 fixpass.net
@@ -25302,6 +25294,8 @@ ff02::3 ip6-allhosts
 :: fuialqqq.com
 0.0.0.0 fukkzdxfyrchhc.com
 :: fukkzdxfyrchhc.com
+0.0.0.0 fulfilledcompensatedelightful.com
+:: fulfilledcompensatedelightful.com
 0.0.0.0 fumeiti.cc
 :: fumeiti.cc
 0.0.0.0 fun-hits.com
@@ -33494,6 +33488,8 @@ ff02::3 ip6-allhosts
 :: kitnmedia.com
 0.0.0.0 kitrigthy.com
 :: kitrigthy.com
+0.0.0.0 kiuprocessary.club
+:: kiuprocessary.club
 0.0.0.0 kiwi-offers.com
 :: kiwi-offers.com
 0.0.0.0 kiwihk.net
@@ -35698,6 +35694,8 @@ ff02::3 ip6-allhosts
 :: lovfp.com
 0.0.0.0 lowancein.club
 :: lowancein.club
+0.0.0.0 loweredabhorrenceproposed.com
+:: loweredabhorrenceproposed.com
 0.0.0.0 lowlocket.com
 :: lowlocket.com
 0.0.0.0 lowtyroguer.com
@@ -40914,6 +40912,8 @@ ff02::3 ip6-allhosts
 :: nextstat.com
 0.0.0.0 nexttime.ovh
 :: nexttime.ovh
+0.0.0.0 nfanxxuegzp.com
+:: nfanxxuegzp.com
 0.0.0.0 nfarmerlycompa.info
 :: nfarmerlycompa.info
 0.0.0.0 nfdnserror1.wo.com.cn
