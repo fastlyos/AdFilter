@@ -1,11 +1,11 @@
-# Checksum: MTYwMTM5MTg0OQo=
+# Checksum: MTYwMTQwMjY1MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200929-5
-# TimeUpdated: 2020-09-29T15:04:09+00:00
+# Version: 1.6.3-20200929-6
+# TimeUpdated: 2020-09-29T18:04:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34979
+# Total: 34986
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11062,8 +11062,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -11596,8 +11594,6 @@ ff02::3 ip6-allhosts
 :: bestcontactform.com
 0.0.0.0 bestcontentcompany.top
 :: bestcontentcompany.top
-0.0.0.0 bestcontenthost.com
-:: bestcontenthost.com
 0.0.0.0 bestcontentservice.top
 :: bestcontentservice.top
 0.0.0.0 bestcontentsoftware.top
@@ -12800,6 +12796,8 @@ ff02::3 ip6-allhosts
 :: btrace.qq.com
 0.0.0.0 btrace.video.qq.com
 :: btrace.video.qq.com
+0.0.0.0 bts05.site
+:: bts05.site
 0.0.0.0 btstats.devtribu.fr
 :: btstats.devtribu.fr
 0.0.0.0 bttbgroup.com
@@ -20684,6 +20682,8 @@ ff02::3 ip6-allhosts
 :: down.xiazaidc.com
 0.0.0.0 down1oads.com
 :: down1oads.com
+0.0.0.0 downcdn.top
+:: downcdn.top
 0.0.0.0 downlaod.xiaocen.com
 :: downlaod.xiaocen.com
 0.0.0.0 download-performance.com
@@ -22472,6 +22472,8 @@ ff02::3 ip6-allhosts
 :: embed.e2ma.net
 0.0.0.0 embeddedanalytics.com
 :: embeddedanalytics.com
+0.0.0.0 embertogethe.club
+:: embertogethe.club
 0.0.0.0 embraceforgivingfrenzy.com
 :: embraceforgivingfrenzy.com
 0.0.0.0 emdcadvertise.eastmoney.com
@@ -42832,6 +42834,8 @@ ff02::3 ip6-allhosts
 :: oufauthy.net
 0.0.0.0 ouftukoo.net
 :: ouftukoo.net
+0.0.0.0 oughaoxixcfe.com
+:: oughaoxixcfe.com
 0.0.0.0 oughgoalityabo.info
 :: oughgoalityabo.info
 0.0.0.0 ouhegapy.net
@@ -48812,6 +48816,8 @@ ff02::3 ip6-allhosts
 :: rjk1.com
 0.0.0.0 rjs.niuxgame77.com
 :: rjs.niuxgame77.com
+0.0.0.0 rjwotofyxoszk.com
+:: rjwotofyxoszk.com
 0.0.0.0 rkdms.com
 :: rkdms.com
 0.0.0.0 rktch.com
@@ -56984,6 +56990,8 @@ ff02::3 ip6-allhosts
 :: tesfatheleshs.club
 0.0.0.0 tesla.oscaro.com
 :: tesla.oscaro.com
+0.0.0.0 teslaamg.obs.cn-east-3.myhuaweicloud.com
+:: teslaamg.obs.cn-east-3.myhuaweicloud.com
 0.0.0.0 tesswithoughcle.info
 :: tesswithoughcle.info
 0.0.0.0 test-api-explorer.beeppool.org
@@ -57178,6 +57186,8 @@ ff02::3 ip6-allhosts
 :: thenlathettors.pro
 0.0.0.0 thenorthernecho-gb.thenorthernecho.co.uk
 :: thenorthernecho-gb.thenorthernecho.co.uk
+0.0.0.0 theodorus-flo.com
+:: theodorus-flo.com
 0.0.0.0 theonecdn.com
 :: theonecdn.com
 0.0.0.0 theoutplay.com
@@ -61494,6 +61504,8 @@ ff02::3 ip6-allhosts
 :: veewakim.net
 0.0.0.0 vegas-1.xmrpool.net
 :: vegas-1.xmrpool.net
+0.0.0.0 vegoid.cn
+:: vegoid.cn
 0.0.0.0 veille-referencement.com
 :: veille-referencement.com
 0.0.0.0 veilsrichae.club
@@ -62178,6 +62190,8 @@ ff02::3 ip6-allhosts
 :: voredi.com
 0.0.0.0 vortex-win-sandbox.data.microsoft.com
 :: vortex-win-sandbox.data.microsoft.com
+0.0.0.0 vospendence.club
+:: vospendence.club
 0.0.0.0 vot.beeppool.org
 :: vot.beeppool.org
 0.0.0.0 vote.sibnet.ru
