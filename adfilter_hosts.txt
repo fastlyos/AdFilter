@@ -1,8 +1,8 @@
-# Checksum: MTYwMTQ3ODI2Mwo=
+# Checksum: MTYwMTQ4OTA1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200930-5
-# TimeUpdated: 2020-09-30T15:04:23+00:00
+# Version: 1.6.3-20200930-6
+# TimeUpdated: 2020-09-30T18:04:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 35030
@@ -1934,8 +1934,6 @@ ff02::3 ip6-allhosts
 :: 606w.cn
 0.0.0.0 6071.com
 :: 6071.com
-0.0.0.0 609623.com
-:: 609623.com
 0.0.0.0 60999.cn
 :: 60999.cn
 0.0.0.0 61165.com
@@ -7350,6 +7348,8 @@ ff02::3 ip6-allhosts
 :: aiidbowoj.com
 0.0.0.0 aijielang.cn
 :: aijielang.cn
+0.0.0.0 aikan6.com
+:: aikan6.com
 0.0.0.0 ailawlani.club
 :: ailawlani.club
 0.0.0.0 aileenvideos.pro
@@ -8470,8 +8470,6 @@ ff02::3 ip6-allhosts
 :: analytics3.dopool.com
 0.0.0.0 analytics3.starschina.com
 :: analytics3.starschina.com
-0.0.0.0 analyticschecker.com
-:: analyticschecker.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 :: analyticsengine.s3.amazonaws.com
 0.0.0.0 analyticsip.net
@@ -9632,8 +9630,6 @@ ff02::3 ip6-allhosts
 :: asd.zuhaowan8.com
 0.0.0.0 asdasdad.net
 :: asdasdad.net
-0.0.0.0 aseabnyw.com
-:: aseabnyw.com
 0.0.0.0 asearch.alicdn.com
 :: asearch.alicdn.com
 0.0.0.0 asepurch.pro
@@ -12064,8 +12060,6 @@ ff02::3 ip6-allhosts
 :: bjs.faxingzhan.com
 0.0.0.0 bjs.mscto.com
 :: bjs.mscto.com
-0.0.0.0 bjtopchance.com
-:: bjtopchance.com
 0.0.0.0 bjtrld.com
 :: bjtrld.com
 0.0.0.0 bjuser.jpush.cn
@@ -22258,8 +22252,6 @@ ff02::3 ip6-allhosts
 :: egjq.com.cn
 0.0.0.0 eglates.pro
 :: eglates.pro
-0.0.0.0 egozne.cn
-:: egozne.cn
 0.0.0.0 egqvppwseieyu.com
 :: egqvppwseieyu.com
 0.0.0.0 egrettyjokilin.info
@@ -33830,6 +33822,8 @@ ff02::3 ip6-allhosts
 :: kuaiboads.com
 0.0.0.0 kuaidibiaoju.com
 :: kuaidibiaoju.com
+0.0.0.0 kuaidibox.cn
+:: kuaidibox.cn
 0.0.0.0 kuaidifeng.cn
 :: kuaidifeng.cn
 0.0.0.0 kuaigao.rrsdl.com
@@ -47202,6 +47196,8 @@ ff02::3 ip6-allhosts
 :: qqhuhu.com
 0.0.0.0 qqiat.com
 :: qqiat.com
+0.0.0.0 qqipjtzgo.com
+:: qqipjtzgo.com
 0.0.0.0 qqm98.com
 :: qqm98.com
 0.0.0.0 qqqwes.com
@@ -51396,6 +51392,8 @@ ff02::3 ip6-allhosts
 :: segments.adap.tv
 0.0.0.0 sehiba.com
 :: sehiba.com
+0.0.0.0 seislational.club
+:: seislational.club
 0.0.0.0 seitentipp.com
 :: seitentipp.com
 0.0.0.0 seitwert.de
@@ -55446,6 +55444,8 @@ ff02::3 ip6-allhosts
 :: suggestvideos.xyz
 0.0.0.0 sugodeku.com
 :: sugodeku.com
+0.0.0.0 sugqlryshxarn.com
+:: sugqlryshxarn.com
 0.0.0.0 sugs.m.sm.cn
 :: sugs.m.sm.cn
 0.0.0.0 suitarserviku.site
