@@ -1,11 +1,11 @@
-# Checksum: MTYwMTQ0NTg3Mwo=
+# Checksum: MTYwMTQ1NjY1MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200930-2
-# TimeUpdated: 2020-09-30T06:04:33+00:00
+# Version: 1.6.3-20200930-3
+# TimeUpdated: 2020-09-30T09:04:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35022
+# Total: 35024
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4720,6 +4720,8 @@ ff02::3 ip6-allhosts
 :: addoor.net
 0.0.0.0 address9.com
 :: address9.com
+0.0.0.0 addressen.club
+:: addressen.club
 0.0.0.0 addression.club
 :: addression.club
 0.0.0.0 addroid.com
@@ -11062,8 +11064,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -17100,6 +17100,8 @@ ff02::3 ip6-allhosts
 :: counterlevel.de
 0.0.0.0 counteronline.de
 :: counteronline.de
+0.0.0.0 counterry.club
+:: counterry.club
 0.0.0.0 counters.freewebs.com
 :: counters.freewebs.com
 0.0.0.0 counters4u.com
@@ -36924,6 +36926,8 @@ ff02::3 ip6-allhosts
 :: m.xabaiya.cn
 0.0.0.0 m.xcy8.com
 :: m.xcy8.com
+0.0.0.0 m.xfya3.cn
+:: m.xfya3.cn
 0.0.0.0 m.xhaiu.com
 :: m.xhaiu.com
 0.0.0.0 m.xhera.cn
@@ -63384,8 +63388,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63780,6 +63782,8 @@ ff02::3 ip6-allhosts
 :: wkclick.baidu.com
 0.0.0.0 wkctj.baidu.com
 :: wkctj.baidu.com
+0.0.0.0 wkjava.top
+:: wkjava.top
 0.0.0.0 wkm89.cn
 :: wkm89.cn
 0.0.0.0 wksrx.cn
