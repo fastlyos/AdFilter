@@ -1,11 +1,11 @@
-# Checksum: MTYwMTQ2NzUwMQo=
+# Checksum: MTYwMTQ3ODI2Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200930-4
-# TimeUpdated: 2020-09-30T12:05:01+00:00
+# Version: 1.6.3-20200930-5
+# TimeUpdated: 2020-09-30T15:04:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35025
+# Total: 35030
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -944,6 +944,8 @@ ff02::3 ip6-allhosts
 :: 23txt.com
 0.0.0.0 24200.h5ixp.com
 :: 24200.h5ixp.com
+0.0.0.0 2444efc8cd8e.com
+:: 2444efc8cd8e.com
 0.0.0.0 247-inc.com
 :: 247-inc.com
 0.0.0.0 247ilabs.com
@@ -7260,6 +7262,8 @@ ff02::3 ip6-allhosts
 :: ahalogy.com
 0.0.0.0 aheadday.com
 :: aheadday.com
+0.0.0.0 ahelessenge.club
+:: ahelessenge.club
 0.0.0.0 ahhuazhen.com
 :: ahhuazhen.com
 0.0.0.0 ahjdwb31.xyz
@@ -11060,8 +11064,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -22256,6 +22258,8 @@ ff02::3 ip6-allhosts
 :: egjq.com.cn
 0.0.0.0 eglates.pro
 :: eglates.pro
+0.0.0.0 egozne.cn
+:: egozne.cn
 0.0.0.0 egqvppwseieyu.com
 :: egqvppwseieyu.com
 0.0.0.0 egrettyjokilin.info
@@ -34130,6 +34134,8 @@ ff02::3 ip6-allhosts
 :: laolinow.com
 0.0.0.0 laoqu123.com
 :: laoqu123.com
+0.0.0.0 lardydanger.com
+:: lardydanger.com
 0.0.0.0 laredintonw.space
 :: laredintonw.space
 0.0.0.0 larentisol.com
@@ -39756,6 +39762,8 @@ ff02::3 ip6-allhosts
 :: msgtag.com
 0.0.0.0 msgv6.qy.net
 :: msgv6.qy.net
+0.0.0.0 msgwxozk.com
+:: msgwxozk.com
 0.0.0.0 mshow.fang.com
 :: mshow.fang.com
 0.0.0.0 msite.baidu.com
@@ -56906,6 +56914,8 @@ ff02::3 ip6-allhosts
 :: teendestruction.com
 0.0.0.0 teensexgfs.com
 :: teensexgfs.com
+0.0.0.0 teeplyinsidere.club
+:: teeplyinsidere.club
 0.0.0.0 teesheel.net
 :: teesheel.net
 0.0.0.0 teinfo.wps.cn
