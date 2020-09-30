@@ -1,11 +1,11 @@
-! Checksum: MTYwMTQ4OTA1Mwo=
+! Checksum: MTYwMTQ5OTg1Ngo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.3-20200930-6
-! TimeUpdated: 2020-09-30T18:04:13+00:00
+! Version: 1.6.3-20200930-7
+! TimeUpdated: 2020-09-30T21:04:16+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 35030
+! Total: 35033
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -72,6 +72,7 @@
 |05xz0h2xo799.com^
 |06362.com^
 |065b42ba2b.se^
+|06dd0894cce50c.com^
 |06f09b1008ae993a5a.com^
 |07171.com^
 |07346e971b1ec7f.com^
@@ -1230,6 +1231,7 @@
 |8233fa03a40c92d.com^
 |823bc1a6cd3f1657.com^
 |82448dceaaa13034.com^
+|825145.com^
 |827649.com^
 |827fa7c868b4b.com^
 |8292918saturday.sgbbc.cn^
@@ -1335,6 +1337,7 @@
 |90370.com^
 |9053fe03868ab.com^
 |91.51rmc.com^
+|910weixin.com^
 |913h6.cn^
 |913nd.dieti-natura.es^
 |913vt.com^
@@ -1926,7 +1929,6 @@
 |action.logger.baofeng.com^
 |actionallocator.com^
 |actiondesk.com^
-|actionlocker.com^
 |actirinius.com^
 |activation.nimiq.com^
 |active-tracking.de^
@@ -7235,6 +7237,7 @@
 |cfceu.duckdns.org^
 |cfcloudcdn.com^
 |cfcs1.duckdns.org^
+|cfdanet.com^
 |cfeo.bealge.sogou.com^
 |cferw.com^
 |cfff.net^
@@ -13043,6 +13046,7 @@
 |gedmhqqipuz6wfon.pro^
 |gedspecificano.info^
 |gedus.cn^
+|geede.info^
 |geepwnfly.club^
 |geethoap.com^
 |gefwrite.com^
@@ -16909,7 +16913,6 @@
 |kuaibaopay.com^
 |kuaiboads.com^
 |kuaidibiaoju.com^
-|kuaidibox.cn^
 |kuaidifeng.cn^
 |kuaigao.rrsdl.com^
 |kuaikaiapp.com^

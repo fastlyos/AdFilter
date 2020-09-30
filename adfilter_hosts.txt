@@ -1,11 +1,11 @@
-# Checksum: MTYwMTQ4OTA1Mwo=
+# Checksum: MTYwMTQ5OTg1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200930-6
-# TimeUpdated: 2020-09-30T18:04:13+00:00
+# Version: 1.6.3-20200930-7
+# TimeUpdated: 2020-09-30T21:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35030
+# Total: 35033
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -148,6 +148,8 @@ ff02::3 ip6-allhosts
 :: 06362.com
 0.0.0.0 065b42ba2b.se
 :: 065b42ba2b.se
+0.0.0.0 06dd0894cce50c.com
+:: 06dd0894cce50c.com
 0.0.0.0 06f09b1008ae993a5a.com
 :: 06f09b1008ae993a5a.com
 0.0.0.0 07171.com
@@ -2464,6 +2466,8 @@ ff02::3 ip6-allhosts
 :: 823bc1a6cd3f1657.com
 0.0.0.0 82448dceaaa13034.com
 :: 82448dceaaa13034.com
+0.0.0.0 825145.com
+:: 825145.com
 0.0.0.0 827649.com
 :: 827649.com
 0.0.0.0 827fa7c868b4b.com
@@ -2674,6 +2678,8 @@ ff02::3 ip6-allhosts
 :: 9053fe03868ab.com
 0.0.0.0 91.51rmc.com
 :: 91.51rmc.com
+0.0.0.0 910weixin.com
+:: 910weixin.com
 0.0.0.0 913h6.cn
 :: 913h6.cn
 0.0.0.0 913nd.dieti-natura.es
@@ -3856,8 +3862,6 @@ ff02::3 ip6-allhosts
 :: actionallocator.com
 0.0.0.0 actiondesk.com
 :: actiondesk.com
-0.0.0.0 actionlocker.com
-:: actionlocker.com
 0.0.0.0 actirinius.com
 :: actirinius.com
 0.0.0.0 activation.nimiq.com
@@ -14474,6 +14478,8 @@ ff02::3 ip6-allhosts
 :: cfcloudcdn.com
 0.0.0.0 cfcs1.duckdns.org
 :: cfcs1.duckdns.org
+0.0.0.0 cfdanet.com
+:: cfdanet.com
 0.0.0.0 cfeo.bealge.sogou.com
 :: cfeo.bealge.sogou.com
 0.0.0.0 cferw.com
@@ -26090,6 +26096,8 @@ ff02::3 ip6-allhosts
 :: gedspecificano.info
 0.0.0.0 gedus.cn
 :: gedus.cn
+0.0.0.0 geede.info
+:: geede.info
 0.0.0.0 geepwnfly.club
 :: geepwnfly.club
 0.0.0.0 geethoap.com
@@ -33822,8 +33830,6 @@ ff02::3 ip6-allhosts
 :: kuaiboads.com
 0.0.0.0 kuaidibiaoju.com
 :: kuaidibiaoju.com
-0.0.0.0 kuaidibox.cn
-:: kuaidibox.cn
 0.0.0.0 kuaidifeng.cn
 :: kuaidifeng.cn
 0.0.0.0 kuaigao.rrsdl.com
