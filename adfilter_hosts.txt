@@ -1,11 +1,11 @@
-# Checksum: MTYwMTQ1NjY1MAo=
+# Checksum: MTYwMTQ2NzUwMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20200930-3
-# TimeUpdated: 2020-09-30T09:04:10+00:00
+# Version: 1.6.3-20200930-4
+# TimeUpdated: 2020-09-30T12:05:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35024
+# Total: 35025
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1142,8 +1142,6 @@ ff02::3 ip6-allhosts
 :: 302a67cac6.com
 0.0.0.0 302br.net
 :: 302br.net
-0.0.0.0 30350f.com
-:: 30350f.com
 0.0.0.0 303marketplace.com
 :: 303marketplace.com
 0.0.0.0 307.cc
@@ -1926,8 +1924,6 @@ ff02::3 ip6-allhosts
 :: 600zi.com
 0.0.0.0 602d76e204c032.com
 :: 602d76e204c032.com
-0.0.0.0 605296.com
-:: 605296.com
 0.0.0.0 60608787.com
 :: 60608787.com
 0.0.0.0 6068a17eed25.com
@@ -4566,8 +4562,6 @@ ff02::3 ip6-allhosts
 :: adbuddiz.com
 0.0.0.0 adbuff.com
 :: adbuff.com
-0.0.0.0 adbuka.com.ng
-:: adbuka.com.ng
 0.0.0.0 adbukaserver.com
 :: adbukaserver.com
 0.0.0.0 adbutler-fermion.com
@@ -9374,6 +9368,8 @@ ff02::3 ip6-allhosts
 :: apsmediaagency.com
 0.0.0.0 aptausad.com
 :: aptausad.com
+0.0.0.0 apus.tech
+:: apus.tech
 0.0.0.0 apvdr.com
 :: apvdr.com
 0.0.0.0 apx.moatads.com
@@ -11064,6 +11060,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -37894,6 +37892,8 @@ ff02::3 ip6-allhosts
 :: medcovern.club
 0.0.0.0 medi-8.net
 :: medi-8.net
+0.0.0.0 media-app.com
+:: media-app.com
 0.0.0.0 media-click.ru
 :: media-click.ru
 0.0.0.0 media-general.com
@@ -67366,6 +67366,8 @@ ff02::3 ip6-allhosts
 :: xcounter.ch
 0.0.0.0 xcvgdf.party
 :: xcvgdf.party
+0.0.0.0 xcvibxsdchxh.com
+:: xcvibxsdchxh.com
 0.0.0.0 xcvtpwxz.com
 :: xcvtpwxz.com
 0.0.0.0 xcy8.com
