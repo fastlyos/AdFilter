@@ -1,11 +1,11 @@
-# Checksum: MTYwMTU2NDcwNgo=
+# Checksum: MTYwMTU3NTQ0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201001-5
-# TimeUpdated: 2020-10-01T15:05:06+00:00
+# Version: 1.6.3-20201001-6
+# TimeUpdated: 2020-10-01T18:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35069
+# Total: 35073
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -12054,6 +12054,8 @@ ff02::3 ip6-allhosts
 :: bjhuhangjy.com
 0.0.0.0 bjlmok.com
 :: bjlmok.com
+0.0.0.0 bjlrdxcjnyxuba.com
+:: bjlrdxcjnyxuba.com
 0.0.0.0 bjmcmj.cn
 :: bjmcmj.cn
 0.0.0.0 bjqftcty.com
@@ -43452,6 +43454,8 @@ ff02::3 ip6-allhosts
 :: painsko.com
 0.0.0.0 paintifiercute.club
 :: paintifiercute.club
+0.0.0.0 paishuno.net
+:: paishuno.net
 0.0.0.0 pakbanners.com
 :: pakbanners.com
 0.0.0.0 pakistant.club
@@ -45916,6 +45920,8 @@ ff02::3 ip6-allhosts
 :: propgoservice.com
 0.0.0.0 prophet.heise.de
 :: prophet.heise.de
+0.0.0.0 proportly.club
+:: proportly.club
 0.0.0.0 props.id
 :: props.id
 0.0.0.0 propu.sh
@@ -46206,6 +46212,8 @@ ff02::3 ip6-allhosts
 :: pto-slb-09.com
 0.0.0.0 ptoafauz.net
 :: ptoafauz.net
+0.0.0.0 ptoahaistais.com
+:: ptoahaistais.com
 0.0.0.0 ptocmaux.com
 :: ptocmaux.com
 0.0.0.0 ptogheeb.net
