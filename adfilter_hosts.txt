@@ -1,11 +1,11 @@
-# Checksum: MTYwMTU1Mzg5Nwo=
+# Checksum: MTYwMTU2NDcwNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201001-4
-# TimeUpdated: 2020-10-01T12:04:57+00:00
+# Version: 1.6.3-20201001-5
+# TimeUpdated: 2020-10-01T15:05:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35061
+# Total: 35069
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -122,8 +122,6 @@ ff02::3 ip6-allhosts
 :: 0531mnk.net
 0.0.0.0 0532ci.com.cn
 :: 0532ci.com.cn
-0.0.0.0 0551huayanbdf.com
-:: 0551huayanbdf.com
 0.0.0.0 0571hy.com
 :: 0571hy.com
 0.0.0.0 0571yy.com
@@ -1010,6 +1008,8 @@ ff02::3 ip6-allhosts
 :: 2785.dlads.cn
 0.0.0.0 27admin.com
 :: 27admin.com
+0.0.0.0 27f35.cn
+:: 27f35.cn
 0.0.0.0 27vckaccbto7p761.pro
 :: 27vckaccbto7p761.pro
 0.0.0.0 280dp.com
@@ -9672,8 +9672,6 @@ ff02::3 ip6-allhosts
 :: asianimage-gb.asianimage.co.uk
 0.0.0.0 asimgs.pplive.cn
 :: asimgs.pplive.cn
-0.0.0.0 asir.vip
-:: asir.vip
 0.0.0.0 askallalb.club
 :: askallalb.club
 0.0.0.0 askbegrag.com
@@ -10122,6 +10120,8 @@ ff02::3 ip6-allhosts
 :: avenseo.com
 0.0.0.0 averaladmi.info
 :: averaladmi.info
+0.0.0.0 averalist.club
+:: averalist.club
 0.0.0.0 averallasew.club
 :: averallasew.club
 0.0.0.0 avercarto.com
@@ -11366,6 +11366,8 @@ ff02::3 ip6-allhosts
 :: beaconstreetservices.com
 0.0.0.0 beagle.prod.tda.link
 :: beagle.prod.tda.link
+0.0.0.0 beak.bd.313.nl
+:: beak.bd.313.nl
 0.0.0.0 beam.remp.impresa.pt
 :: beam.remp.impresa.pt
 0.0.0.0 beam.remp.nv.ua
@@ -11740,8 +11742,6 @@ ff02::3 ip6-allhosts
 :: bgpng.me
 0.0.0.0 bgrndi.com
 :: bgrndi.com
-0.0.0.0 bgvfceqpqzx.com
-:: bgvfceqpqzx.com
 0.0.0.0 bh.contextweb.com
 :: bh.contextweb.com
 0.0.0.0 bh3.net
@@ -14542,8 +14542,6 @@ ff02::3 ip6-allhosts
 :: cgz0213.com
 0.0.0.0 cgzu.b0lc.cn
 :: cgzu.b0lc.cn
-0.0.0.0 ch-hr12333.com
-:: ch-hr12333.com
 0.0.0.0 ch0p.darty.com
 :: ch0p.darty.com
 0.0.0.0 chachors.net
@@ -21070,6 +21068,8 @@ ff02::3 ip6-allhosts
 :: duckspatterncosign.com
 0.0.0.0 duclick.baidu.com
 :: duclick.baidu.com
+0.0.0.0 ductstrangledozen.com
+:: ductstrangledozen.com
 0.0.0.0 dudleynews-gb.dudleynews.co.uk
 :: dudleynews-gb.dudleynews.co.uk
 0.0.0.0 dudm.qingsj.cn
@@ -22946,6 +22946,8 @@ ff02::3 ip6-allhosts
 :: eriesfrequen.club
 0.0.0.0 erificyggw.com
 :: erificyggw.com
+0.0.0.0 eringassumpt.club
+:: eringassumpt.club
 0.0.0.0 eriniquep.club
 :: eriniquep.club
 0.0.0.0 erkhxw.com
@@ -25040,6 +25042,8 @@ ff02::3 ip6-allhosts
 :: franecki.net
 0.0.0.0 frankfurt-1.xmrpool.net
 :: frankfurt-1.xmrpool.net
+0.0.0.0 fraudoutrageoustransport.com
+:: fraudoutrageoustransport.com
 0.0.0.0 frclyody.com
 :: frclyody.com
 0.0.0.0 frdhq.cn
@@ -26086,6 +26090,8 @@ ff02::3 ip6-allhosts
 :: gdtimg.com
 0.0.0.0 gdunt.com
 :: gdunt.com
+0.0.0.0 gdxisixdrk.com
+:: gdxisixdrk.com
 0.0.0.0 gdyn.cnn.com
 :: gdyn.cnn.com
 0.0.0.0 ge-ge-force.com
@@ -41862,6 +41868,8 @@ ff02::3 ip6-allhosts
 :: nzphoenix.com
 0.0.0.0 nztrimhg5fd1.com
 :: nztrimhg5fd1.com
+0.0.0.0 nzydzsw.com
+:: nzydzsw.com
 0.0.0.0 o-e.xyz
 :: o-e.xyz
 0.0.0.0 o-oo.ooo
@@ -58154,6 +58162,8 @@ ff02::3 ip6-allhosts
 :: toufangke.com
 0.0.0.0 toufangzhe.cn
 :: toufangzhe.cn
+0.0.0.0 toughopponent.com
+:: toughopponent.com
 0.0.0.0 touglesy.net
 :: touglesy.net
 0.0.0.0 tour.mrskin.com
@@ -60970,6 +60980,8 @@ ff02::3 ip6-allhosts
 :: usage.seibert-media.io
 0.0.0.0 usairguw.com
 :: usairguw.com
+0.0.0.0 usan.dps1.cn
+:: usan.dps1.cn
 0.0.0.0 usao.77gog.com
 :: usao.77gog.com
 0.0.0.0 usbanners.com
@@ -61136,6 +61148,8 @@ ff02::3 ip6-allhosts
 :: uu.85655095.com
 0.0.0.0 uu.qq.com
 :: uu.qq.com
+0.0.0.0 uu1.3gu.com
+:: uu1.3gu.com
 0.0.0.0 uuaajohul.com
 :: uuaajohul.com
 0.0.0.0 uucm.cn
@@ -62808,6 +62822,8 @@ ff02::3 ip6-allhosts
 :: warfarewithdigestion.com
 0.0.0.0 warlog.ru
 :: warlog.ru
+0.0.0.0 warmmyselfharness.com
+:: warmmyselfharness.com
 0.0.0.0 warp.prnewswire.co.uk
 :: warp.prnewswire.co.uk
 0.0.0.0 warpwrite.com
