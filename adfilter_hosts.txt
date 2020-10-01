@@ -1,11 +1,11 @@
-# Checksum: MTYwMTU0MzA0MQo=
+# Checksum: MTYwMTU1Mzg5Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201001-3
-# TimeUpdated: 2020-10-01T09:04:01+00:00
+# Version: 1.6.3-20201001-4
+# TimeUpdated: 2020-10-01T12:04:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35058
+# Total: 35061
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7602,6 +7602,8 @@ ff02::3 ip6-allhosts
 :: alexandria.marfeelcdn.com
 0.0.0.0 alfatraffic.com
 :: alfatraffic.com
+0.0.0.0 alflying.win
+:: alflying.win
 0.0.0.0 alfynetwork.com
 :: alfynetwork.com
 0.0.0.0 algocashmaster.com
@@ -10656,8 +10658,6 @@ ff02::3 ip6-allhosts
 :: baike.biz
 0.0.0.0 baikebcs.bdimg.com
 :: baikebcs.bdimg.com
-0.0.0.0 baimuyuan.com.cn
-:: baimuyuan.com.cn
 0.0.0.0 baipagid.com
 :: baipagid.com
 0.0.0.0 bairenad.com
@@ -11062,8 +11062,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -13674,6 +13672,8 @@ ff02::3 ip6-allhosts
 :: canlytics.com
 0.0.0.0 cannontwin.com
 :: cannontwin.com
+0.0.0.0 canoeklix.com
+:: canoeklix.com
 0.0.0.0 canonch.pro
 :: canonch.pro
 0.0.0.0 canopylabs.com
@@ -17372,6 +17372,8 @@ ff02::3 ip6-allhosts
 :: cqyhd.com
 0.0.0.0 cqyirsc.com
 :: cqyirsc.com
+0.0.0.0 cqzspt888.cn
+:: cqzspt888.cn
 0.0.0.0 cr-brands.net
 :: cr-brands.net
 0.0.0.0 cr-nielsen.com
@@ -25482,6 +25484,8 @@ ff02::3 ip6-allhosts
 :: fygpdajgtsqp.com
 0.0.0.0 fyjyhm.com
 :: fyjyhm.com
+0.0.0.0 fylusiucmzdjl.com
+:: fylusiucmzdjl.com
 0.0.0.0 fyq.wlgszt.com
 :: fyq.wlgszt.com
 0.0.0.0 fyreball.com
@@ -60004,6 +60008,8 @@ ff02::3 ip6-allhosts
 :: tyaqy.m.cn.miaozhen.com
 0.0.0.0 tyborlawlkz.com
 :: tyborlawlkz.com
+0.0.0.0 tybwfgqq.com
+:: tybwfgqq.com
 0.0.0.0 tydd.hunterwish.cn
 :: tydd.hunterwish.cn
 0.0.0.0 tyh.taobao.com
