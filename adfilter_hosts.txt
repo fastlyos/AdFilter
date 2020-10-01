@@ -1,11 +1,11 @@
-# Checksum: MTYwMTU3NTQ0Ngo=
+# Checksum: MTYwMTU4NjIzNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201001-6
-# TimeUpdated: 2020-10-01T18:04:06+00:00
+# Version: 1.6.3-20201001-7
+# TimeUpdated: 2020-10-01T21:03:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35073
+# Total: 35083
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10216,6 +10216,8 @@ ff02::3 ip6-allhosts
 :: awstaticdn.net
 0.0.0.0 awsurveys.com
 :: awsurveys.com
+0.0.0.0 awtks.com
+:: awtks.com
 0.0.0.0 awyys.com
 :: awyys.com
 0.0.0.0 awzbijw.com
@@ -34472,6 +34474,8 @@ ff02::3 ip6-allhosts
 :: leiki.com
 0.0.0.0 leimardog.com
 :: leimardog.com
+0.0.0.0 lejhdbxl.com
+:: lejhdbxl.com
 0.0.0.0 lele999.com
 :: lele999.com
 0.0.0.0 leletuitui.com
@@ -37910,6 +37914,8 @@ ff02::3 ip6-allhosts
 :: me.xdrig.com
 0.0.0.0 meadigital.com
 :: meadigital.com
+0.0.0.0 meapk.com
+:: meapk.com
 0.0.0.0 measure.ameblo.jp
 :: measure.ameblo.jp
 0.0.0.0 measure.ly
@@ -42070,6 +42076,8 @@ ff02::3 ip6-allhosts
 :: oende.cn
 0.0.0.0 oevery.com
 :: oevery.com
+0.0.0.0 oevujdgj.com
+:: oevujdgj.com
 0.0.0.0 oexbdfnbentzd.com
 :: oexbdfnbentzd.com
 0.0.0.0 ofapes.com
@@ -46370,6 +46378,8 @@ ff02::3 ip6-allhosts
 :: puhtml.com
 0.0.0.0 pukrazopchatka.com
 :: pukrazopchatka.com
+0.0.0.0 puktazxh.com
+:: puktazxh.com
 0.0.0.0 pull.push.sogou.com
 :: pull.push.sogou.com
 0.0.0.0 pulleymarketing.com
@@ -47442,6 +47452,8 @@ ff02::3 ip6-allhosts
 :: quowupsouefjej.com
 0.0.0.0 qupinhj.com
 :: qupinhj.com
+0.0.0.0 qutaobi.com
+:: qutaobi.com
 0.0.0.0 qutyan8848.com
 :: qutyan8848.com
 0.0.0.0 quw18.com
@@ -48780,6 +48792,8 @@ ff02::3 ip6-allhosts
 :: rh.qq.com
 0.0.0.0 rh1hilm7j0ae.com
 :: rh1hilm7j0ae.com
+0.0.0.0 rhcamehnhkntzy.com
+:: rhcamehnhkntzy.com
 0.0.0.0 rheaddelainlyco.info
 :: rheaddelainlyco.info
 0.0.0.0 rhema-coaching.com
@@ -57408,6 +57422,8 @@ ff02::3 ip6-allhosts
 :: thighiny.com
 0.0.0.0 thighlykamsh.site
 :: thighlykamsh.site
+0.0.0.0 thikraik.net
+:: thikraik.net
 0.0.0.0 thimoaph.net
 :: thimoaph.net
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
@@ -61452,6 +61468,8 @@ ff02::3 ip6-allhosts
 :: v6.cnzz.com
 0.0.0.0 v6.klmc88.cn
 :: v6.klmc88.cn
+0.0.0.0 v68.ink
+:: v68.ink
 0.0.0.0 v7.cnzz.com
 :: v7.cnzz.com
 0.0.0.0 v7.shaoyumuye.com
@@ -65074,6 +65092,8 @@ ff02::3 ip6-allhosts
 :: www.88eg.cn
 0.0.0.0 www.8jzw.com
 :: www.8jzw.com
+0.0.0.0 www.910weixin.com
+:: www.910weixin.com
 0.0.0.0 www.9270.com.cn
 :: www.9270.com.cn
 0.0.0.0 www.93vitui.com
