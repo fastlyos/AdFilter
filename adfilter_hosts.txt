@@ -1,11 +1,11 @@
-# Checksum: MTYwMTY1MTAzNwo=
+# Checksum: MTYwMTY2MTg1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201002-5
-# TimeUpdated: 2020-10-02T15:03:57+00:00
+# Version: 1.6.3-20201002-6
+# TimeUpdated: 2020-10-02T18:04:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35176
+# Total: 35192
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -688,6 +688,8 @@ ff02::3 ip6-allhosts
 :: 1818bobo.com
 0.0.0.0 181ue.com
 :: 181ue.com
+0.0.0.0 188api.com
+:: 188api.com
 0.0.0.0 188server.com
 :: 188server.com
 0.0.0.0 188xiaoba.net
@@ -4808,6 +4810,8 @@ ff02::3 ip6-allhosts
 :: adf.dahe.cn
 0.0.0.0 adf01.net
 :: adf01.net
+0.0.0.0 adfancy.com.cn
+:: adfancy.com.cn
 0.0.0.0 adfclick1.com
 :: adfclick1.com
 0.0.0.0 adfeedstrk.com
@@ -8576,6 +8580,8 @@ ff02::3 ip6-allhosts
 :: angorch-cdr7.com
 0.0.0.0 angusmemor.info
 :: angusmemor.info
+0.0.0.0 anhuilitian.net
+:: anhuilitian.net
 0.0.0.0 anime.reactor.cc
 :: anime.reactor.cc
 0.0.0.0 animeidhentai.com
@@ -10976,8 +10982,6 @@ ff02::3 ip6-allhosts
 :: baypops.com
 0.0.0.0 baysexthy.com
 :: baysexthy.com
-0.0.0.0 bayunblocked.eu
-:: bayunblocked.eu
 0.0.0.0 baywest.ac
 :: baywest.ac
 0.0.0.0 bazinga.mse.sogou.com
@@ -11094,8 +11098,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -14982,6 +14984,8 @@ ff02::3 ip6-allhosts
 :: ckg.vipyl.com
 0.0.0.0 ckjyck.qxs.la
 :: ckjyck.qxs.la
+0.0.0.0 ckkqgycwljxib.com
+:: ckkqgycwljxib.com
 0.0.0.0 cklecreditie.info
 :: cklecreditie.info
 0.0.0.0 ckmap.mediav.com
@@ -23144,6 +23148,8 @@ ff02::3 ip6-allhosts
 :: esgvhaspsjg.com
 0.0.0.0 eshortonempleae.info
 :: eshortonempleae.info
+0.0.0.0 eshowever.club
+:: eshowever.club
 0.0.0.0 esidentioncoa.club
 :: esidentioncoa.club
 0.0.0.0 esignificanvi.info
@@ -24036,8 +24042,18 @@ ff02::3 ip6-allhosts
 :: fancialeldak.site
 0.0.0.0 fancialsilveun.club
 :: fancialsilveun.club
+0.0.0.0 fancydigital.com.cn
+:: fancydigital.com.cn
+0.0.0.0 fancydmp.com
+:: fancydmp.com
+0.0.0.0 fancydsp.com
+:: fancydsp.com
 0.0.0.0 fancymedia-cm.admaster.com.cn
 :: fancymedia-cm.admaster.com.cn
+0.0.0.0 fancysmp.com
+:: fancysmp.com
+0.0.0.0 fancysocialtalk.com
+:: fancysocialtalk.com
 0.0.0.0 fandelcot.com
 :: fandelcot.com
 0.0.0.0 fandmo.com
@@ -31412,8 +31428,6 @@ ff02::3 ip6-allhosts
 :: iosipa.b0.upaiyun.com
 0.0.0.0 iotechnologies.com
 :: iotechnologies.com
-0.0.0.0 iouqxvr.cn
-:: iouqxvr.cn
 0.0.0.0 iozsmwjezobro.com
 :: iozsmwjezobro.com
 0.0.0.0 ip-label.net
@@ -42386,6 +42400,8 @@ ff02::3 ip6-allhosts
 :: oldmilram.com
 0.0.0.0 oldnayfey.com
 :: oldnayfey.com
+0.0.0.0 oldrummarim.club
+:: oldrummarim.club
 0.0.0.0 oldtips.beeppool.org
 :: oldtips.beeppool.org
 0.0.0.0 olfkptkfop.com
@@ -65120,6 +65136,8 @@ ff02::3 ip6-allhosts
 :: www.163ren.com
 0.0.0.0 www.1680go.com
 :: www.1680go.com
+0.0.0.0 www.188api.com
+:: www.188api.com
 0.0.0.0 www.18dusun.com
 :: www.18dusun.com
 0.0.0.0 www.1933000.com
@@ -65366,6 +65384,8 @@ ff02::3 ip6-allhosts
 :: www.adbtc.top
 0.0.0.0 www.adcolony.com
 :: www.adcolony.com
+0.0.0.0 www.adfancy.com.cn
+:: www.adfancy.com.cn
 0.0.0.0 www.adfreetv.ch
 :: www.adfreetv.ch
 0.0.0.0 www.adless.io
@@ -65866,6 +65886,16 @@ ff02::3 ip6-allhosts
 :: www.etzbnfuigipwvs.ru
 0.0.0.0 www.f1tbit.com
 :: www.f1tbit.com
+0.0.0.0 www.fancydigital.com.cn
+:: www.fancydigital.com.cn
+0.0.0.0 www.fancydmp.com
+:: www.fancydmp.com
+0.0.0.0 www.fancydsp.com
+:: www.fancydsp.com
+0.0.0.0 www.fancysmp.com
+:: www.fancysmp.com
+0.0.0.0 www.fancysocialtalk.com
+:: www.fancysocialtalk.com
 0.0.0.0 www.fangyi.cn
 :: www.fangyi.cn
 0.0.0.0 www.fanqianbb.com
@@ -69260,6 +69290,8 @@ ff02::3 ip6-allhosts
 :: yr023.com
 0.0.0.0 yr9n47004g.com
 :: yr9n47004g.com
+0.0.0.0 yrmxtvqpp.com
+:: yrmxtvqpp.com
 0.0.0.0 yrsjqzfku.com
 :: yrsjqzfku.com
 0.0.0.0 yrxmr.com
