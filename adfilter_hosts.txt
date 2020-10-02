@@ -1,11 +1,11 @@
-# Checksum: MTYwMTY0MDM5NQo=
+# Checksum: MTYwMTY1MTAzNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201002-4
-# TimeUpdated: 2020-10-02T12:06:35+00:00
+# Version: 1.6.3-20201002-5
+# TimeUpdated: 2020-10-02T15:03:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35171
+# Total: 35176
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1184,8 +1184,6 @@ ff02::3 ip6-allhosts
 :: 321tui.com
 0.0.0.0 324.com
 :: 324.com
-0.0.0.0 32414.com
-:: 32414.com
 0.0.0.0 32666099.com
 :: 32666099.com
 0.0.0.0 327d49j2xt0nsr6o.pro
@@ -11096,6 +11094,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -25778,6 +25778,8 @@ ff02::3 ip6-allhosts
 :: g3763602365.co
 0.0.0.0 g3961686700.co
 :: g3961686700.co
+0.0.0.0 g3ao2q.cn
+:: g3ao2q.cn
 0.0.0.0 g3bxbinwsgdf.com
 :: g3bxbinwsgdf.com
 0.0.0.0 g3j2wzmon8b.com
@@ -31410,6 +31412,8 @@ ff02::3 ip6-allhosts
 :: iosipa.b0.upaiyun.com
 0.0.0.0 iotechnologies.com
 :: iotechnologies.com
+0.0.0.0 iouqxvr.cn
+:: iouqxvr.cn
 0.0.0.0 iozsmwjezobro.com
 :: iozsmwjezobro.com
 0.0.0.0 ip-label.net
@@ -40116,6 +40120,8 @@ ff02::3 ip6-allhosts
 :: mvnuyjsdgle.com
 0.0.0.0 mvo.bd6t4.xyz
 :: mvo.bd6t4.xyz
+0.0.0.0 mvo.m456d.xyz
+:: mvo.m456d.xyz
 0.0.0.0 mvo.nefcd.xyz
 :: mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
@@ -45460,6 +45466,8 @@ ff02::3 ip6-allhosts
 :: popxxx.net
 0.0.0.0 poraryguib.club
 :: poraryguib.club
+0.0.0.0 poratav.com
+:: poratav.com
 0.0.0.0 porchiteds.club
 :: porchiteds.club
 0.0.0.0 poredii.com
@@ -68154,6 +68162,8 @@ ff02::3 ip6-allhosts
 :: xoyoijhp.com
 0.0.0.0 xp3366.com
 :: xp3366.com
+0.0.0.0 xp666.com
+:: xp666.com
 0.0.0.0 xpctraffic.com
 :: xpctraffic.com
 0.0.0.0 xpcy.m.gxwztv.com
