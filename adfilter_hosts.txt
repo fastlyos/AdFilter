@@ -1,11 +1,11 @@
-# Checksum: MTYwMTU4NjIzNwo=
+# Checksum: MTYwMTU5NzMxNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201001-7
-# TimeUpdated: 2020-10-01T21:03:57+00:00
+# Version: 1.6.3-20201002-0
+# TimeUpdated: 2020-10-02T00:08:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35083
+# Total: 35089
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11064,6 +11064,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -13070,6 +13072,8 @@ ff02::3 ip6-allhosts
 :: bzclk.baidu.com
 0.0.0.0 bzgxqj.com
 :: bzgxqj.com
+0.0.0.0 bzsukdfbotd.com
+:: bzsukdfbotd.com
 0.0.0.0 c-hzgt2.getui.com
 :: c-hzgt2.getui.com
 0.0.0.0 c-nfa.jd.com
@@ -16080,8 +16084,6 @@ ff02::3 ip6-allhosts
 :: colleable.info
 0.0.0.0 collect-test.arabam.com
 :: collect-test.arabam.com
-0.0.0.0 collect.albacross.com
-:: collect.albacross.com
 0.0.0.0 collect.ptengine.cn
 :: collect.ptengine.cn
 0.0.0.0 collect.rewardstyle.com
@@ -27578,6 +27580,8 @@ ff02::3 ip6-allhosts
 :: gurun.cc
 0.0.0.0 gururevenue.com
 :: gururevenue.com
+0.0.0.0 gus.host
+:: gus.host
 0.0.0.0 gushifanyi.com
 :: gushifanyi.com
 0.0.0.0 gutouwang.net
@@ -39960,6 +39964,8 @@ ff02::3 ip6-allhosts
 :: mupteekr.net
 0.0.0.0 muqson0kgr.com
 :: muqson0kgr.com
+0.0.0.0 murdened.club
+:: murdened.club
 0.0.0.0 murdenedo.club
 :: murdenedo.club
 0.0.0.0 murkymouse.online
@@ -40006,6 +40012,8 @@ ff02::3 ip6-allhosts
 :: mvnuyjsdgle.com
 0.0.0.0 mvo.bd6t4.xyz
 :: mvo.bd6t4.xyz
+0.0.0.0 mvo.nefcd.xyz
+:: mvo.nefcd.xyz
 0.0.0.0 mvo.nwffx.xyz
 :: mvo.nwffx.xyz
 0.0.0.0 mvo.osidf.xyz
@@ -62360,6 +62368,8 @@ ff02::3 ip6-allhosts
 :: voredi.com
 0.0.0.0 vortex-win-sandbox.data.microsoft.com
 :: vortex-win-sandbox.data.microsoft.com
+0.0.0.0 vortex.hulu.com
+:: vortex.hulu.com
 0.0.0.0 vospendence.club
 :: vospendence.club
 0.0.0.0 vot.beeppool.org
@@ -63496,6 +63506,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
