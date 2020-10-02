@@ -1,11 +1,11 @@
-# Checksum: MTYwMTYwNzg2Mgo=
+# Checksum: MTYwMTYxODg1MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201002-1
-# TimeUpdated: 2020-10-02T03:04:22+00:00
+# Version: 1.6.3-20201002-2
+# TimeUpdated: 2020-10-02T06:07:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35149
+# Total: 35151
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1576,6 +1576,8 @@ ff02::3 ip6-allhosts
 :: 4jpf0karrejn6yla.pro
 0.0.0.0 4link.it
 :: 4link.it
+0.0.0.0 4name.com
+:: 4name.com
 0.0.0.0 4nemiaje2.aupig.cn
 :: 4nemiaje2.aupig.cn
 0.0.0.0 4o64flb.com
@@ -2186,8 +2188,6 @@ ff02::3 ip6-allhosts
 :: 729dcbaa57e80c1e.com
 0.0.0.0 72b8869dfc34690.com
 :: 72b8869dfc34690.com
-0.0.0.0 730f6ff856.com
-:: 730f6ff856.com
 0.0.0.0 73508.com
 :: 73508.com
 0.0.0.0 736f35dde67b7da2976.com
@@ -2876,6 +2876,8 @@ ff02::3 ip6-allhosts
 :: 9d7in.cn
 0.0.0.0 9dc93a7c1dd.com
 :: 9dc93a7c1dd.com
+0.0.0.0 9dreams.net
+:: 9dreams.net
 0.0.0.0 9dtiny.cn
 :: 9dtiny.cn
 0.0.0.0 9e5420f6be48ccc.com
@@ -4196,6 +4198,8 @@ ff02::3 ip6-allhosts
 :: ad.kissanime.io
 0.0.0.0 ad.kisscartoon.io
 :: ad.kisscartoon.io
+0.0.0.0 ad.kokkk2.com
+:: ad.kokkk2.com
 0.0.0.0 ad.leadbolt.net
 :: ad.leadbolt.net
 0.0.0.0 ad.leadboltads.net
@@ -9344,8 +9348,6 @@ ff02::3 ip6-allhosts
 :: appsflyer.com
 0.0.0.0 appsmall.mobi
 :: appsmall.mobi
-0.0.0.0 appsrv1.madserving.cn
-:: appsrv1.madserving.cn
 0.0.0.0 appsupport.qq.com
 :: appsupport.qq.com
 0.0.0.0 appsupport.stargame.com
@@ -15392,6 +15394,8 @@ ff02::3 ip6-allhosts
 :: clicktracks.com
 0.0.0.0 clicktripz.com
 :: clicktripz.com
+0.0.0.0 clicktrkservices.com
+:: clicktrkservices.com
 0.0.0.0 clickupto.com
 :: clickupto.com
 0.0.0.0 clickwinks.com
@@ -25064,6 +25068,8 @@ ff02::3 ip6-allhosts
 :: fqceyqo.com
 0.0.0.0 fqcqmjdn.com
 :: fqcqmjdn.com
+0.0.0.0 fqcwtrbxzhjsiu.com
+:: fqcwtrbxzhjsiu.com
 0.0.0.0 fqkvanldq.com
 :: fqkvanldq.com
 0.0.0.0 fqsecure.com
@@ -27118,8 +27124,6 @@ ff02::3 ip6-allhosts
 :: googleplus.party
 0.0.0.0 googlerank.info
 :: googlerank.info
-0.0.0.0 googlesierai.xyz
-:: googlesierai.xyz
 0.0.0.0 googlesyndication.com
 :: googlesyndication.com
 0.0.0.0 googlevideoads.com
@@ -32160,6 +32164,8 @@ ff02::3 ip6-allhosts
 :: jh76fy.xyz
 0.0.0.0 jhakie.com
 :: jhakie.com
+0.0.0.0 jhbrc.xyz
+:: jhbrc.xyz
 0.0.0.0 jhbsq.cn
 :: jhbsq.cn
 0.0.0.0 jheva.com
@@ -32414,8 +32420,6 @@ ff02::3 ip6-allhosts
 :: jmxlaser.com
 0.0.0.0 jndczg.com
 :: jndczg.com
-0.0.0.0 jngxxwythaf.com
-:: jngxxwythaf.com
 0.0.0.0 jnnezwibrkwpz.com
 :: jnnezwibrkwpz.com
 0.0.0.0 jnrsjm.com
@@ -33774,6 +33778,8 @@ ff02::3 ip6-allhosts
 :: knutenegros.pro
 0.0.0.0 knutsfordguardian-gb.knutsfordguardian.co.uk
 :: knutsfordguardian-gb.knutsfordguardian.co.uk
+0.0.0.0 knvhqxpt.com
+:: knvhqxpt.com
 0.0.0.0 koapsooh.click
 :: koapsooh.click
 0.0.0.0 koaptooh.net
@@ -34030,8 +34036,6 @@ ff02::3 ip6-allhosts
 :: kxewpz.com
 0.0.0.0 kxlogo.knet.cn
 :: kxlogo.knet.cn
-0.0.0.0 kxpkadaivbm.com
-:: kxpkadaivbm.com
 0.0.0.0 kxqvnfcg.xyz
 :: kxqvnfcg.xyz
 0.0.0.0 kxrxh.com
@@ -35198,8 +35202,6 @@ ff02::3 ip6-allhosts
 :: lledcorfinni.club
 0.0.0.0 llisthonolialate.club
 :: llisthonolialate.club
-0.0.0.0 lliumrpvj.com
-:: lliumrpvj.com
 0.0.0.0 lloenerginqu.info
 :: lloenerginqu.info
 0.0.0.0 lloogg.com
@@ -41244,6 +41246,8 @@ ff02::3 ip6-allhosts
 :: nik.io
 0.0.0.0 nike666.com
 :: nike666.com
+0.0.0.0 niledestratherg.club
+:: niledestratherg.club
 0.0.0.0 niltutch.com
 :: niltutch.com
 0.0.0.0 nim.qiyukf.com
@@ -43064,8 +43068,6 @@ ff02::3 ip6-allhosts
 :: ountringch.club
 0.0.0.0 ountryvener.club
 :: ountryvener.club
-0.0.0.0 ounyrilukncbj.com
-:: ounyrilukncbj.com
 0.0.0.0 oupai.cc
 :: oupai.cc
 0.0.0.0 oupushee.com
@@ -68420,6 +68422,8 @@ ff02::3 ip6-allhosts
 :: xzooimhkjiwp.com
 0.0.0.0 xzq.greenxf.net
 :: xzq.greenxf.net
+0.0.0.0 xzqxz.net
+:: xzqxz.net
 0.0.0.0 xztyzs.cn
 :: xztyzs.cn
 0.0.0.0 xzyituo.com
