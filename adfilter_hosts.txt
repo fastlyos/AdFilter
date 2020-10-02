@@ -1,11 +1,11 @@
-# Checksum: MTYwMTY2MTg1Mwo=
+# Checksum: MTYwMTY3MjY2MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201002-6
-# TimeUpdated: 2020-10-02T18:04:13+00:00
+# Version: 1.6.3-20201002-7
+# TimeUpdated: 2020-10-02T21:04:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35192
+# Total: 35188
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -688,8 +688,6 @@ ff02::3 ip6-allhosts
 :: 1818bobo.com
 0.0.0.0 181ue.com
 :: 181ue.com
-0.0.0.0 188api.com
-:: 188api.com
 0.0.0.0 188server.com
 :: 188server.com
 0.0.0.0 188xiaoba.net
@@ -2322,6 +2320,8 @@ ff02::3 ip6-allhosts
 :: 7bpeople.com
 0.0.0.0 7bwan.com
 :: 7bwan.com
+0.0.0.0 7cjsh.cn
+:: 7cjsh.cn
 0.0.0.0 7clink.com
 :: 7clink.com
 0.0.0.0 7cxcrejm.com
@@ -4810,8 +4810,6 @@ ff02::3 ip6-allhosts
 :: adf.dahe.cn
 0.0.0.0 adf01.net
 :: adf01.net
-0.0.0.0 adfancy.com.cn
-:: adfancy.com.cn
 0.0.0.0 adfclick1.com
 :: adfclick1.com
 0.0.0.0 adfeedstrk.com
@@ -17452,8 +17450,6 @@ ff02::3 ip6-allhosts
 :: crakmedia.com
 0.0.0.0 craktraffic.com
 :: craktraffic.com
-0.0.0.0 cralp.cn
-:: cralp.cn
 0.0.0.0 crashapi.growingio.com
 :: crashapi.growingio.com
 0.0.0.0 crashes.mo.wps.cn
@@ -24050,10 +24046,6 @@ ff02::3 ip6-allhosts
 :: fancydsp.com
 0.0.0.0 fancymedia-cm.admaster.com.cn
 :: fancymedia-cm.admaster.com.cn
-0.0.0.0 fancysmp.com
-:: fancysmp.com
-0.0.0.0 fancysocialtalk.com
-:: fancysocialtalk.com
 0.0.0.0 fandelcot.com
 :: fandelcot.com
 0.0.0.0 fandmo.com
@@ -24632,6 +24624,8 @@ ff02::3 ip6-allhosts
 :: finead.cn
 0.0.0.0 fingahvf.top
 :: fingahvf.top
+0.0.0.0 fingerous.club
+:: fingerous.club
 0.0.0.0 fingsmelis.pro
 :: fingsmelis.pro
 0.0.0.0 finized.co
@@ -34418,6 +34412,8 @@ ff02::3 ip6-allhosts
 :: ldingchristing.site
 0.0.0.0 ldpgl.code.mytanwan.com
 :: ldpgl.code.mytanwan.com
+0.0.0.0 ldpubkzh.com
+:: ldpubkzh.com
 0.0.0.0 ldrummaroise.club
 :: ldrummaroise.club
 0.0.0.0 lds.zui.com
@@ -43274,6 +43270,8 @@ ff02::3 ip6-allhosts
 :: ozugzufdxniu.com
 0.0.0.0 ozwjhdler.com
 :: ozwjhdler.com
+0.0.0.0 p-digital-server.com
+:: p-digital-server.com
 0.0.0.0 p-l.play.aiseet.atianqi.com
 :: p-l.play.aiseet.atianqi.com
 0.0.0.0 p-td.com
@@ -65136,8 +65134,6 @@ ff02::3 ip6-allhosts
 :: www.163ren.com
 0.0.0.0 www.1680go.com
 :: www.1680go.com
-0.0.0.0 www.188api.com
-:: www.188api.com
 0.0.0.0 www.18dusun.com
 :: www.18dusun.com
 0.0.0.0 www.1933000.com
@@ -65384,8 +65380,6 @@ ff02::3 ip6-allhosts
 :: www.adbtc.top
 0.0.0.0 www.adcolony.com
 :: www.adcolony.com
-0.0.0.0 www.adfancy.com.cn
-:: www.adfancy.com.cn
 0.0.0.0 www.adfreetv.ch
 :: www.adfreetv.ch
 0.0.0.0 www.adless.io
@@ -65894,8 +65888,6 @@ ff02::3 ip6-allhosts
 :: www.fancydsp.com
 0.0.0.0 www.fancysmp.com
 :: www.fancysmp.com
-0.0.0.0 www.fancysocialtalk.com
-:: www.fancysocialtalk.com
 0.0.0.0 www.fangyi.cn
 :: www.fangyi.cn
 0.0.0.0 www.fanqianbb.com
