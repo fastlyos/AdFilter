@@ -1,11 +1,11 @@
-# Checksum: MTYwMTYxODg1MQo=
+# Checksum: MTYwMTYyOTQ1OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201002-2
-# TimeUpdated: 2020-10-02T06:07:31+00:00
+# Version: 1.6.3-20201002-3
+# TimeUpdated: 2020-10-02T09:04:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35151
+# Total: 35163
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -102,8 +102,6 @@ ff02::3 ip6-allhosts
 :: 02b5da94a2bd4aea.com
 0.0.0.0 039ad0897e6da.com
 :: 039ad0897e6da.com
-0.0.0.0 04426f8b7ce9b069431.com
-:: 04426f8b7ce9b069431.com
 0.0.0.0 0451106.com
 :: 0451106.com
 0.0.0.0 04zl.cn
@@ -3484,6 +3482,8 @@ ff02::3 ip6-allhosts
 :: aapsis.com
 0.0.0.0 aarqdivjxstu.com
 :: aarqdivjxstu.com
+0.0.0.0 aasyy.com
+:: aasyy.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
 :: aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-eu-dub.amazon.com
@@ -10026,6 +10026,8 @@ ff02::3 ip6-allhosts
 :: aulrains.com
 0.0.0.0 aumpoabi.com
 :: aumpoabi.com
+0.0.0.0 auqefmhsutnldv.com
+:: auqefmhsutnldv.com
 0.0.0.0 aurdeert.net
 :: aurdeert.net
 0.0.0.0 aurdosti.com
@@ -14698,6 +14700,8 @@ ff02::3 ip6-allhosts
 :: che0.com
 0.0.0.0 check-now.online
 :: check-now.online
+0.0.0.0 check-out-this.site
+:: check-out-this.site
 0.0.0.0 checkabil.com
 :: checkabil.com
 0.0.0.0 checkeffect.at
@@ -17970,8 +17974,6 @@ ff02::3 ip6-allhosts
 :: czk.gemeiyun.com
 0.0.0.0 czlhgz.com
 :: czlhgz.com
-0.0.0.0 czobtirdnwqhn.com
-:: czobtirdnwqhn.com
 0.0.0.0 czpush.com
 :: czpush.com
 0.0.0.0 czspwzutqpbr.com
@@ -24612,6 +24614,8 @@ ff02::3 ip6-allhosts
 :: fingsmelis.pro
 0.0.0.0 finized.co
 :: finized.co
+0.0.0.0 fiozxmznaba.com
+:: fiozxmznaba.com
 0.0.0.0 firaxtech.com
 :: firaxtech.com
 0.0.0.0 firebaselogging.googleapis.com
@@ -25552,6 +25556,8 @@ ff02::3 ip6-allhosts
 :: fygpdajgtsqp.com
 0.0.0.0 fyjyhm.com
 :: fyjyhm.com
+0.0.0.0 fykmahfa.com
+:: fykmahfa.com
 0.0.0.0 fylusiucmzdjl.com
 :: fylusiucmzdjl.com
 0.0.0.0 fyq.wlgszt.com
@@ -25572,6 +25578,8 @@ ff02::3 ip6-allhosts
 :: fzb01.qiushibaike.com
 0.0.0.0 fzdfwy.com
 :: fzdfwy.com
+0.0.0.0 fzeahussyd.com
+:: fzeahussyd.com
 0.0.0.0 fzgitqrqrsyyiv.com
 :: fzgitqrqrsyyiv.com
 0.0.0.0 fzglqyy.com
@@ -26092,6 +26100,8 @@ ff02::3 ip6-allhosts
 :: gbr-eri-c1-s2.inf.nimiq.network
 0.0.0.0 gbrrrxbodqdlq.com
 :: gbrrrxbodqdlq.com
+0.0.0.0 gbwnpchivh.com
+:: gbwnpchivh.com
 0.0.0.0 gbylaoajzugbgj.com
 :: gbylaoajzugbgj.com
 0.0.0.0 gc.newsweek.com
@@ -31070,6 +31080,8 @@ ff02::3 ip6-allhosts
 :: inrecsys.popin.cc
 0.0.0.0 ins.pplive.com
 :: ins.pplive.com
+0.0.0.0 insectadvertisesecretly.com
+:: insectadvertisesecretly.com
 0.0.0.0 insenz.com
 :: insenz.com
 0.0.0.0 inside-graph.com
@@ -41064,6 +41076,8 @@ ff02::3 ip6-allhosts
 :: newswifiapi.dftoutiao.com
 0.0.0.0 newtab-media.com
 :: newtab-media.com
+0.0.0.0 newthuads.com
+:: newthuads.com
 0.0.0.0 newton-api.ele.me
 :: newton-api.ele.me
 0.0.0.0 newtueads.com
@@ -48702,6 +48716,8 @@ ff02::3 ip6-allhosts
 :: resource.ws.kukuplay.com
 0.0.0.0 resources.infolinks.com
 :: resources.infolinks.com
+0.0.0.0 respecies.club
+:: respecies.club
 0.0.0.0 responder.wt.heise.de
 :: responder.wt.heise.de
 0.0.0.0 response.pure360.com
@@ -53966,6 +53982,8 @@ ff02::3 ip6-allhosts
 :: squealingturn.com
 0.0.0.0 squeeder.com
 :: squeeder.com
+0.0.0.0 squeezedthoughtfully.com
+:: squeezedthoughtfully.com
 0.0.0.0 squidanalytics.com
 :: squidanalytics.com
 0.0.0.0 squirrelhands.com
@@ -57856,6 +57874,8 @@ ff02::3 ip6-allhosts
 :: tjlog.easou.com
 0.0.0.0 tjlog.ps.easou.com
 :: tjlog.ps.easou.com
+0.0.0.0 tjmqetufuzn.com
+:: tjmqetufuzn.com
 0.0.0.0 tjoomo.com
 :: tjoomo.com
 0.0.0.0 tjpv.twh5.com
@@ -57956,6 +57976,8 @@ ff02::3 ip6-allhosts
 :: tmgr.ccmbg.com
 0.0.0.0 tmhfbwgpvzcxly.com
 :: tmhfbwgpvzcxly.com
+0.0.0.0 tmjhdyghjm.com
+:: tmjhdyghjm.com
 0.0.0.0 tmjivakr.com
 :: tmjivakr.com
 0.0.0.0 tmmjgcp.cn
@@ -59566,6 +59588,8 @@ ff02::3 ip6-allhosts
 :: treksol.net
 0.0.0.0 trellian.com
 :: trellian.com
+0.0.0.0 tremblingkeyboardassistant.com
+:: tremblingkeyboardassistant.com
 0.0.0.0 tremembersy.site
 :: tremembersy.site
 0.0.0.0 tremorhub.com
