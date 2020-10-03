@@ -1,11 +1,11 @@
-# Checksum: MTYwMTcxNTg1Mgo=
+# Checksum: MTYwMTcyNjY4NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201003-3
-# TimeUpdated: 2020-10-03T09:04:12+00:00
+# Version: 1.6.3-20201003-4
+# TimeUpdated: 2020-10-03T12:04:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35208
+# Total: 35206
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -582,6 +582,8 @@ ff02::3 ip6-allhosts
 :: 139site.com
 0.0.0.0 13vm73vbmp.com
 :: 13vm73vbmp.com
+0.0.0.0 13wnjs.com
+:: 13wnjs.com
 0.0.0.0 13yg.cn
 :: 13yg.cn
 0.0.0.0 142904.com
@@ -1128,8 +1130,6 @@ ff02::3 ip6-allhosts
 :: 2yt.cn
 0.0.0.0 2yt.net
 :: 2yt.net
-0.0.0.0 2zm4.cn
-:: 2zm4.cn
 0.0.0.0 3.5646.cn
 :: 3.5646.cn
 0.0.0.0 3.chuanyi5.com
@@ -1366,8 +1366,6 @@ ff02::3 ip6-allhosts
 :: 3f32172d509aeb0.com
 0.0.0.0 3file.info
 :: 3file.info
-0.0.0.0 3fp43qvh.trade
-:: 3fp43qvh.trade
 0.0.0.0 3g.990.net
 :: 3g.990.net
 0.0.0.0 3gl.net
@@ -2546,8 +2544,6 @@ ff02::3 ip6-allhosts
 :: 87gw0fl0rc11.com
 0.0.0.0 88-baidu.com
 :: 88-baidu.com
-0.0.0.0 88-sms.com
-:: 88-sms.com
 0.0.0.0 88461059da0a12ea.com
 :: 88461059da0a12ea.com
 0.0.0.0 8866786.com
@@ -10116,8 +10112,6 @@ ff02::3 ip6-allhosts
 :: automateyourlist.com
 0.0.0.0 automaticside.com
 :: automaticside.com
-0.0.0.0 automationeventually.com
-:: automationeventually.com
 0.0.0.0 automoc.net
 :: automoc.net
 0.0.0.0 autopilothq.com
@@ -48690,6 +48684,8 @@ ff02::3 ip6-allhosts
 :: request.issuu.com
 0.0.0.0 requested.cn
 :: requested.cn
+0.0.0.0 requestion.club
+:: requestion.club
 0.0.0.0 requiredcollectfilm.info
 :: requiredcollectfilm.info
 0.0.0.0 requivalfun.club
