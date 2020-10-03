@@ -1,11 +1,11 @@
-# Checksum: MTYwMTczNzU5NAo=
+# Checksum: MTYwMTc0ODI1Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201003-5
-# TimeUpdated: 2020-10-03T15:06:34+00:00
+# Version: 1.6.3-20201003-6
+# TimeUpdated: 2020-10-03T18:04:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35216
+# Total: 35215
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -414,8 +414,6 @@ ff02::3 ip6-allhosts
 :: 100fenlm.cn
 0.0.0.0 100fenlm.com
 :: 100fenlm.com
-0.0.0.0 100peng.com
-:: 100peng.com
 0.0.0.0 100rifu.com
 :: 100rifu.com
 0.0.0.0 100te.com
@@ -2216,8 +2214,6 @@ ff02::3 ip6-allhosts
 :: 74p030.cn
 0.0.0.0 7540.com
 :: 7540.com
-0.0.0.0 754daf9cd396259.com
-:: 754daf9cd396259.com
 0.0.0.0 7577.cc
 :: 7577.cc
 0.0.0.0 757a51ce62f.com
@@ -7816,6 +7812,8 @@ ff02::3 ip6-allhosts
 :: alzexa.com
 0.0.0.0 alzwa133.xyz
 :: alzwa133.xyz
+0.0.0.0 am-display.com
+:: am-display.com
 0.0.0.0 am-trc-events.taboola.com
 :: am-trc-events.taboola.com
 0.0.0.0 am.6park.com
@@ -11094,8 +11092,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -12206,8 +12202,6 @@ ff02::3 ip6-allhosts
 :: blogcounter.com
 0.0.0.0 blogcounter.de
 :: blogcounter.de
-0.0.0.0 blogdaka.cc
-:: blogdaka.cc
 0.0.0.0 blogdaka.xyz
 :: blogdaka.xyz
 0.0.0.0 blogengage.com
@@ -28248,6 +28242,8 @@ ff02::3 ip6-allhosts
 :: hcenc.com
 0.0.0.0 hcg82f2b.com
 :: hcg82f2b.com
+0.0.0.0 hcgtkmes.com
+:: hcgtkmes.com
 0.0.0.0 hchik.com
 :: hchik.com
 0.0.0.0 hcprzx.cn
@@ -39464,6 +39460,8 @@ ff02::3 ip6-allhosts
 :: modgirtspod.work
 0.0.0.0 modificant.club
 :: modificant.club
+0.0.0.0 modificantra.club
+:: modificantra.club
 0.0.0.0 modraytor.com
 :: modraytor.com
 0.0.0.0 modulepush.com
