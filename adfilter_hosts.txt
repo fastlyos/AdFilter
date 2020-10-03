@@ -1,11 +1,11 @@
-# Checksum: MTYwMTcyNjY4NQo=
+# Checksum: MTYwMTczNzU5NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201003-4
-# TimeUpdated: 2020-10-03T12:04:45+00:00
+# Version: 1.6.3-20201003-5
+# TimeUpdated: 2020-10-03T15:06:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35206
+# Total: 35216
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -100,6 +100,8 @@ ff02::3 ip6-allhosts
 :: 02aa19117f396e9.com
 0.0.0.0 02b5da94a2bd4aea.com
 :: 02b5da94a2bd4aea.com
+0.0.0.0 03196688.com
+:: 03196688.com
 0.0.0.0 039ad0897e6da.com
 :: 039ad0897e6da.com
 0.0.0.0 0451106.com
@@ -3482,8 +3484,6 @@ ff02::3 ip6-allhosts
 :: aappf.pt
 0.0.0.0 aapsis.com
 :: aapsis.com
-0.0.0.0 aarqdivjxstu.com
-:: aarqdivjxstu.com
 0.0.0.0 aasyy.com
 :: aasyy.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
@@ -11084,6 +11084,8 @@ ff02::3 ip6-allhosts
 :: bd1.click.com.cn
 0.0.0.0 bd1.dopa.com
 :: bd1.dopa.com
+0.0.0.0 bd1.fengdu100.com
+:: bd1.fengdu100.com
 0.0.0.0 bd1.flfgw.cn
 :: bd1.flfgw.cn
 0.0.0.0 bd1.guancha.cn
@@ -11092,6 +11094,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -12520,6 +12524,8 @@ ff02::3 ip6-allhosts
 :: botize.com
 0.0.0.0 botman.ninja
 :: botman.ninja
+0.0.0.0 botscanner.com
+:: botscanner.com
 0.0.0.0 botsvisit.com
 :: botsvisit.com
 0.0.0.0 botuu.adsame.com
@@ -13824,8 +13830,6 @@ ff02::3 ip6-allhosts
 :: carticuladx.club
 0.0.0.0 cartoontube.com
 :: cartoontube.com
-0.0.0.0 cartorkins.com
-:: cartorkins.com
 0.0.0.0 carts.guru
 :: carts.guru
 0.0.0.0 cas.clickability.com
@@ -23928,6 +23932,8 @@ ff02::3 ip6-allhosts
 :: f8272.com
 0.0.0.0 f8316b45436f.com
 :: f8316b45436f.com
+0.0.0.0 f853150605ccb.com
+:: f853150605ccb.com
 0.0.0.0 f92j5.com
 :: f92j5.com
 0.0.0.0 f99.265958.com
@@ -23952,6 +23958,8 @@ ff02::3 ip6-allhosts
 :: facebruek.online
 0.0.0.0 faceporn.com
 :: faceporn.com
+0.0.0.0 facetexamgrabbed.com
+:: facetexamgrabbed.com
 0.0.0.0 facetz.net
 :: facetz.net
 0.0.0.0 facil-iti.com
@@ -26124,6 +26132,8 @@ ff02::3 ip6-allhosts
 :: gb686.cn
 0.0.0.0 gbeik.com
 :: gbeik.com
+0.0.0.0 gbfeexoyo.com
+:: gbfeexoyo.com
 0.0.0.0 gbotvisit.com
 :: gbotvisit.com
 0.0.0.0 gbr-eri-c1-s1.inf.nimiq.network
@@ -28720,6 +28730,8 @@ ff02::3 ip6-allhosts
 :: hit-now.com
 0.0.0.0 hit-parade.com
 :: hit-parade.com
+0.0.0.0 hit.acstat.com
+:: hit.acstat.com
 0.0.0.0 hit.copesa.cl
 :: hit.copesa.cl
 0.0.0.0 hit.demirorenteknoloji.com
@@ -30754,6 +30766,8 @@ ff02::3 ip6-allhosts
 :: impactslam.com
 0.0.0.0 impeacknow.xyz
 :: impeacknow.xyz
+0.0.0.0 implishing.club
+:: implishing.club
 0.0.0.0 implix.com
 :: implix.com
 0.0.0.0 impore.com
@@ -45642,6 +45656,8 @@ ff02::3 ip6-allhosts
 :: poyang.cn
 0.0.0.0 poyang.com
 :: poyang.com
+0.0.0.0 poyecjzk.com
+:: poyecjzk.com
 0.0.0.0 pp.teksty-pesenok.ru
 :: pp.teksty-pesenok.ru
 0.0.0.0 pp.wayqq.com
@@ -52310,6 +52326,8 @@ ff02::3 ip6-allhosts
 :: shmonekisot.com
 0.0.0.0 sho9wbox.com
 :: sho9wbox.com
+0.0.0.0 shoagnie.com
+:: shoagnie.com
 0.0.0.0 shoawhom.com
 :: shoawhom.com
 0.0.0.0 shockinggrass.com
@@ -70304,6 +70322,8 @@ ff02::3 ip6-allhosts
 :: zutodu.cn
 0.0.0.0 zuzab.com
 :: zuzab.com
+0.0.0.0 zvmldjxh.com
+:: zvmldjxh.com
 0.0.0.0 zvs1.cnzz.com
 :: zvs1.cnzz.com
 0.0.0.0 zvs2.cnzz.com

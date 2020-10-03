@@ -1,11 +1,11 @@
-! Checksum: MTYwMTcyNjY4NQo=
+! Checksum: MTYwMTczNzU5NAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.3-20201003-4
-! TimeUpdated: 2020-10-03T12:04:45+00:00
+! Version: 1.6.3-20201003-5
+! TimeUpdated: 2020-10-03T15:06:34+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 35206
+! Total: 35216
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -48,6 +48,7 @@
 |028yhtz.com^
 |02aa19117f396e9.com^
 |02b5da94a2bd4aea.com^
+|03196688.com^
 |039ad0897e6da.com^
 |0451106.com^
 |04zl.cn^
@@ -1739,7 +1740,6 @@
 |aamapi.com^
 |aappf.pt^
 |aapsis.com^
-|aarqdivjxstu.com^
 |aasyy.com^
 |aax-cpm.amazon-adsystem.com^
 |aax-eu-dub.amazon.com^
@@ -5540,10 +5540,12 @@
 |bd1.99danji.com^
 |bd1.click.com.cn^
 |bd1.dopa.com^
+|bd1.fengdu100.com^
 |bd1.flfgw.cn^
 |bd1.guancha.cn^
 |bd1.idgdmg.com.cn^
 |bd1.idgdmgroup.com.cn^
+|bd1.it028.net.cn^
 |bd1.jinbaozy.com^
 |bd1.jobui.com^
 |bd1.ningboseo0574.com^
@@ -6258,6 +6260,7 @@
 |botdetector.ru^
 |botize.com^
 |botman.ninja^
+|botscanner.com^
 |botsvisit.com^
 |botuu.adsame.com^
 |boubeeth.com^
@@ -6910,7 +6913,6 @@
 |cartekj.com^
 |carticuladx.club^
 |cartoontube.com^
-|cartorkins.com^
 |carts.guru^
 |cas.clickability.com^
 |cas.criteo.com^
@@ -11962,6 +11964,7 @@
 |f8260adbf8558d6.com^
 |f8272.com^
 |f8316b45436f.com^
+|f853150605ccb.com^
 |f92j5.com^
 |f99.265958.com^
 |f99.gdsoq.com^
@@ -11974,6 +11977,7 @@
 |facebookma.cn^
 |facebruek.online^
 |faceporn.com^
+|facetexamgrabbed.com^
 |facetz.net^
 |facil-iti.com^
 |fadama.com^
@@ -13060,6 +13064,7 @@
 |gb0rd.com^
 |gb686.cn^
 |gbeik.com^
+|gbfeexoyo.com^
 |gbotvisit.com^
 |gbr-eri-c1-s1.inf.nimiq.network^
 |gbr-eri-c1-s2.inf.nimiq.network^
@@ -14358,6 +14363,7 @@
 |hit-counts.com^
 |hit-now.com^
 |hit-parade.com^
+|hit.acstat.com^
 |hit.copesa.cl^
 |hit.demirorenteknoloji.com^
 |hit.duhnet.tv^
@@ -15375,6 +15381,7 @@
 |impactserving.com^
 |impactslam.com^
 |impeacknow.xyz^
+|implishing.club^
 |implix.com^
 |impore.com^
 |importedincrease.com^
@@ -22819,6 +22826,7 @@
 |poxtebnltkehh.com^
 |poyang.cn^
 |poyang.com^
+|poyecjzk.com^
 |pp.teksty-pesenok.ru^
 |pp.wayqq.com^
 |pp2.dhzw.org^
@@ -26153,6 +26161,7 @@
 |shkunjia.com.cn^
 |shmonekisot.com^
 |sho9wbox.com^
+|shoagnie.com^
 |shoawhom.com^
 |shockinggrass.com^
 |shockingship.com^
@@ -35150,6 +35159,7 @@
 |zuszohaosnrssk.com^
 |zutodu.cn^
 |zuzab.com^
+|zvmldjxh.com^
 |zvs1.cnzz.com^
 |zvs2.cnzz.com^
 |zvsuhljiha-a.akamaihd.net^
