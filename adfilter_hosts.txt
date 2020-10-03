@@ -1,11 +1,11 @@
-# Checksum: MTYwMTc0ODI1Mgo=
+# Checksum: MTYwMTc1OTAzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201003-6
-# TimeUpdated: 2020-10-03T18:04:12+00:00
+# Version: 1.6.3-20201003-7
+# TimeUpdated: 2020-10-03T21:03:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35215
+# Total: 35217
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2780,8 +2780,6 @@ ff02::3 ip6-allhosts
 :: 958so.cn
 0.0.0.0 9596yy.com
 :: 9596yy.com
-0.0.0.0 95a44ebca8b1abc20.com
-:: 95a44ebca8b1abc20.com
 0.0.0.0 9639927.com
 :: 9639927.com
 0.0.0.0 963fc.com
@@ -7240,8 +7238,6 @@ ff02::3 ip6-allhosts
 :: agn.aty.snmsohu.aisee.tv
 0.0.0.0 agn.aty.sohu.com
 :: agn.aty.sohu.com
-0.0.0.0 agpiysffnuld.com
-:: agpiysffnuld.com
 0.0.0.0 agr.voiceads.cn
 :: agr.voiceads.cn
 0.0.0.0 agrammemarg.info
@@ -8736,6 +8732,8 @@ ff02::3 ip6-allhosts
 :: apester.com
 0.0.0.0 apestsagai.club
 :: apestsagai.club
+0.0.0.0 apexcdn.com
+:: apexcdn.com
 0.0.0.0 apextwo.com
 :: apextwo.com
 0.0.0.0 aphicbouncil.club
@@ -13098,6 +13096,8 @@ ff02::3 ip6-allhosts
 :: byvue.com
 0.0.0.0 byxlivaqzo.com
 :: byxlivaqzo.com
+0.0.0.0 byzoo.org
+:: byzoo.org
 0.0.0.0 bza.co
 :: bza.co
 0.0.0.0 bzclk.baidu.com
@@ -23216,6 +23216,8 @@ ff02::3 ip6-allhosts
 :: esumptive.club
 0.0.0.0 eswaldderinao.site
 :: eswaldderinao.site
+0.0.0.0 esyzdb.com
+:: esyzdb.com
 0.0.0.0 et-code.ru
 :: et-code.ru
 0.0.0.0 et.emarbox.com
@@ -27542,6 +27544,8 @@ ff02::3 ip6-allhosts
 :: grvmedia.com
 0.0.0.0 gsdolqvdjr.com
 :: gsdolqvdjr.com
+0.0.0.0 gsdsccoo.com
+:: gsdsccoo.com
 0.0.0.0 gsecondscreen.com
 :: gsecondscreen.com
 0.0.0.0 gsezbakx.com
