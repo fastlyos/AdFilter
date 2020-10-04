@@ -1,11 +1,11 @@
-# Checksum: MTYwMTc4MDY1Mgo=
+# Checksum: MTYwMTc5MTQ4MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201004-1
-# TimeUpdated: 2020-10-04T03:04:12+00:00
+# Version: 1.6.3-20201004-2
+# TimeUpdated: 2020-10-04T06:04:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35230
+# Total: 35233
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -158,8 +158,6 @@ ff02::3 ip6-allhosts
 :: 073c0cec65916314a.com
 0.0.0.0 0755man.cn
 :: 0755man.cn
-0.0.0.0 07567b5175d.com
-:: 07567b5175d.com
 0.0.0.0 0756j.com
 :: 0756j.com
 0.0.0.0 0796gou.com
@@ -742,8 +740,6 @@ ff02::3 ip6-allhosts
 :: 1b6a637cbe7bb65ac.com
 0.0.0.0 1bcde.com
 :: 1bcde.com
-0.0.0.0 1c0910ee64.com
-:: 1c0910ee64.com
 0.0.0.0 1ccbt.com
 :: 1ccbt.com
 0.0.0.0 1ced38bdc42b883.com
@@ -1564,8 +1560,6 @@ ff02::3 ip6-allhosts
 :: 4f2sm1y1ss.com
 0.0.0.0 4f6b2af479d337cf.com
 :: 4f6b2af479d337cf.com
-0.0.0.0 4f9d88054fa2b.com
-:: 4f9d88054fa2b.com
 0.0.0.0 4fb0a3bf4a3d38.com
 :: 4fb0a3bf4a3d38.com
 0.0.0.0 4ggww.com
@@ -2074,8 +2068,6 @@ ff02::3 ip6-allhosts
 :: 6af461b907c5b.com
 0.0.0.0 6b357cda0f.com
 :: 6b357cda0f.com
-0.0.0.0 6b4bcc240ad94.com
-:: 6b4bcc240ad94.com
 0.0.0.0 6b5c418918ebb008cc6.com
 :: 6b5c418918ebb008cc6.com
 0.0.0.0 6bgaput9ullc.com
@@ -2296,8 +2288,6 @@ ff02::3 ip6-allhosts
 :: 7839e0482307b9276b.com
 0.0.0.0 788111.com
 :: 788111.com
-0.0.0.0 788522cceae.com
-:: 788522cceae.com
 0.0.0.0 789.kakamobi.cn
 :: 789.kakamobi.cn
 0.0.0.0 7891655.cn
@@ -10984,6 +10974,8 @@ ff02::3 ip6-allhosts
 :: baypops.com
 0.0.0.0 baysexthy.com
 :: baysexthy.com
+0.0.0.0 bayunblocked.eu
+:: bayunblocked.eu
 0.0.0.0 baywest.ac
 :: baywest.ac
 0.0.0.0 bazinga.mse.sogou.com
@@ -14324,6 +14316,8 @@ ff02::3 ip6-allhosts
 :: cdna.tremormedia.com
 0.0.0.0 cdnads.com
 :: cdnads.com
+0.0.0.0 cdnanalytics.xyz
+:: cdnanalytics.xyz
 0.0.0.0 cdnapi.net
 :: cdnapi.net
 0.0.0.0 cdnas.hyperpromote.com
@@ -17566,6 +17560,8 @@ ff02::3 ip6-allhosts
 :: cretextsma.info
 0.0.0.0 crewita.co
 :: crewita.co
+0.0.0.0 cribsectstux.com
+:: cribsectstux.com
 0.0.0.0 crimentasaju.site
 :: crimentasaju.site
 0.0.0.0 criminglynuk.pro
@@ -17738,6 +17734,8 @@ ff02::3 ip6-allhosts
 :: cssimplicanab.info
 0.0.0.0 cssrvsync.com
 :: cssrvsync.com
+0.0.0.0 cstats.sankakucomplex.com
+:: cstats.sankakucomplex.com
 0.0.0.0 cstm.baidu.com
 :: cstm.baidu.com
 0.0.0.0 cstmedia.com.cn
@@ -18786,8 +18784,6 @@ ff02::3 ip6-allhosts
 :: d72gb9oukw3j.com
 0.0.0.0 d77777777.com
 :: d77777777.com
-0.0.0.0 d7a14c3e5ce6.com
-:: d7a14c3e5ce6.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 :: d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d7dza8s7j2am6.cloudfront.net
@@ -23878,8 +23874,6 @@ ff02::3 ip6-allhosts
 :: f.yijikm.com
 0.0.0.0 f01ed651eca.com
 :: f01ed651eca.com
-0.0.0.0 f0568e9dc4e9.com
-:: f0568e9dc4e9.com
 0.0.0.0 f09vhflf10.com
 :: f09vhflf10.com
 0.0.0.0 f1.ichong123.com
@@ -26326,6 +26320,8 @@ ff02::3 ip6-allhosts
 :: geniusdisplay.com
 0.0.0.0 geniusonclick.com
 :: geniusonclick.com
+0.0.0.0 genuinealiaspuzzled.com
+:: genuinealiaspuzzled.com
 0.0.0.0 geo-targetly.com
 :: geo-targetly.com
 0.0.0.0 geo.6play.fr
@@ -36680,6 +36676,8 @@ ff02::3 ip6-allhosts
 :: m.gzrljx.cn
 0.0.0.0 m.gzxiuyuan.cn
 :: m.gzxiuyuan.cn
+0.0.0.0 m.h0x.cn
+:: m.h0x.cn
 0.0.0.0 m.hainufamliy.top
 :: m.hainufamliy.top
 0.0.0.0 m.hcenc.com
@@ -37264,8 +37262,6 @@ ff02::3 ip6-allhosts
 :: m001.monerise.com
 0.0.0.0 m0hcppadsnq8.com
 :: m0hcppadsnq8.com
-0.0.0.0 m0mentum.net
-:: m0mentum.net
 0.0.0.0 m1.100how.com
 :: m1.100how.com
 0.0.0.0 m1.27com.com
@@ -44112,6 +44108,8 @@ ff02::3 ip6-allhosts
 :: pdywlbjkeq.work
 0.0.0.0 peacepowder.com
 :: peacepowder.com
+0.0.0.0 peachsquat.com
+:: peachsquat.com
 0.0.0.0 peakclick.com
 :: peakclick.com
 0.0.0.0 peakcounter.dk
@@ -60084,6 +60082,8 @@ ff02::3 ip6-allhosts
 :: tui.weibo.com
 0.0.0.0 tui.yeshen.com
 :: tui.yeshen.com
+0.0.0.0 tui1999.com
+:: tui1999.com
 0.0.0.0 tuia.cn
 :: tuia.cn
 0.0.0.0 tuiguang.178.com
@@ -63876,6 +63876,8 @@ ff02::3 ip6-allhosts
 :: whoaremyfriends.com
 0.0.0.0 whoaremyfriends.net
 :: whoaremyfriends.net
+0.0.0.0 whoclick.cn
+:: whoclick.cn
 0.0.0.0 whohuphi.com
 :: whohuphi.com
 0.0.0.0 whoisonline.net
@@ -65510,6 +65512,8 @@ ff02::3 ip6-allhosts
 :: www.aizhigu.com.cn
 0.0.0.0 www.ajcryptominer.com
 :: www.ajcryptominer.com
+0.0.0.0 www.alitx963.com
+:: www.alitx963.com
 0.0.0.0 www.aliyoo999.com
 :: www.aliyoo999.com
 0.0.0.0 www.allfontshere.press
@@ -67458,6 +67462,8 @@ ff02::3 ip6-allhosts
 :: www.zxziyuan.com
 0.0.0.0 www.zz123.com
 :: www.zz123.com
+0.0.0.0 www1.wxnmh.com
+:: www1.wxnmh.com
 0.0.0.0 www2.adfreetv.ch
 :: www2.adfreetv.ch
 0.0.0.0 www2.smartadserver.com
