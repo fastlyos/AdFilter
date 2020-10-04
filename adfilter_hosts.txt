@@ -1,11 +1,11 @@
-# Checksum: MTYwMTc5MTQ4MQo=
+# Checksum: MTYwMTgwMjIzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201004-2
-# TimeUpdated: 2020-10-04T06:04:41+00:00
+# Version: 1.6.3-20201004-3
+# TimeUpdated: 2020-10-04T09:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35233
+# Total: 35236
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -8652,8 +8652,6 @@ ff02::3 ip6-allhosts
 :: antivirus.baidu.com
 0.0.0.0 antns.com
 :: antns.com
-0.0.0.0 antoball.com
-:: antoball.com
 0.0.0.0 antonynton.com
 :: antonynton.com
 0.0.0.0 antrademic.club
@@ -12884,8 +12882,6 @@ ff02::3 ip6-allhosts
 :: bug-bounty2.nimiq-network.com
 0.0.0.0 bug-bounty3.nimiq-network.com
 :: bug-bounty3.nimiq-network.com
-0.0.0.0 bugcreator.cn
-:: bugcreator.cn
 0.0.0.0 bugherd.com
 :: bugherd.com
 0.0.0.0 buglethemfouls.casa
@@ -32944,6 +32940,8 @@ ff02::3 ip6-allhosts
 :: js6882.jianbangjiaoyu.com
 0.0.0.0 js84.enyayinxiang.com
 :: js84.enyayinxiang.com
+0.0.0.0 js883.anreson.net
+:: js883.anreson.net
 0.0.0.0 js883.cnbole.net
 :: js883.cnbole.net
 0.0.0.0 js883.dragoncent.com
@@ -43888,6 +43886,8 @@ ff02::3 ip6-allhosts
 :: passeseuro.com
 0.0.0.0 passeura.com
 :: passeura.com
+0.0.0.0 passioncrunchfingernail.com
+:: passioncrunchfingernail.com
 0.0.0.0 passionfruitads.com
 :: passionfruitads.com
 0.0.0.0 passive-earner.com
@@ -44264,6 +44264,8 @@ ff02::3 ip6-allhosts
 :: pertycleaner.site
 0.0.0.0 perytakeryca.fun
 :: perytakeryca.fun
+0.0.0.0 pestilenttidefilth.org
+:: pestilenttidefilth.org
 0.0.0.0 petachiefund.club
 :: petachiefund.club
 0.0.0.0 petametrics.com
@@ -61776,6 +61778,8 @@ ff02::3 ip6-allhosts
 :: vaipsona.com
 0.0.0.0 vaipsouw.com
 :: vaipsouw.com
+0.0.0.0 vaivafie.net
+:: vaivafie.net
 0.0.0.0 val.atm.cp31.ott.cibntv.net
 :: val.atm.cp31.ott.cibntv.net
 0.0.0.0 val.atm.youku.com
@@ -63856,6 +63860,8 @@ ff02::3 ip6-allhosts
 :: whichtalk.com
 0.0.0.0 whistleout.s3.amazonaws.com
 :: whistleout.s3.amazonaws.com
+0.0.0.0 whistlingenrapturereprint.com
+:: whistlingenrapturereprint.com
 0.0.0.0 whitective.club
 :: whitective.club
 0.0.0.0 whitepixel.com
