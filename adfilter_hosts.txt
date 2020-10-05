@@ -1,11 +1,11 @@
-# Checksum: MTYwMTg0NTQ0Mgo=
+# Checksum: MTYwMTg1NjU5MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201004-7
-# TimeUpdated: 2020-10-04T21:04:02+00:00
+# Version: 1.6.3-20201005-0
+# TimeUpdated: 2020-10-05T00:09:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35344
+# Total: 35346
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -736,6 +736,8 @@ ff02::3 ip6-allhosts
 :: 1affmedia.com
 0.0.0.0 1aogoh1j81g3.com
 :: 1aogoh1j81g3.com
+0.0.0.0 1b01adcc41.com
+:: 1b01adcc41.com
 0.0.0.0 1b6a637cbe7bb65ac.com
 :: 1b6a637cbe7bb65ac.com
 0.0.0.0 1bcde.com
@@ -11096,8 +11098,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -12214,8 +12214,6 @@ ff02::3 ip6-allhosts
 :: blogcounter.com
 0.0.0.0 blogcounter.de
 :: blogcounter.de
-0.0.0.0 blogdaka.xyz
-:: blogdaka.xyz
 0.0.0.0 blogengage.com
 :: blogengage.com
 0.0.0.0 bloggerads.net
@@ -40432,6 +40430,8 @@ ff02::3 ip6-allhosts
 :: myroitracking.com
 0.0.0.0 myrtb.net
 :: myrtb.net
+0.0.0.0 myrtlerepresentationathwart.com
+:: myrtlerepresentationathwart.com
 0.0.0.0 mysagagame.com
 :: mysagagame.com
 0.0.0.0 myscoop-tracking.googlecode.com
@@ -47454,6 +47454,8 @@ ff02::3 ip6-allhosts
 :: qjfcdn1220.0101122.com
 0.0.0.0 qjhlc.com
 :: qjhlc.com
+0.0.0.0 qjjto.com
+:: qjjto.com
 0.0.0.0 qjueu.com
 :: qjueu.com
 0.0.0.0 qkkjd.com
@@ -61960,6 +61962,8 @@ ff02::3 ip6-allhosts
 :: vbds84p3ct02.com
 0.0.0.0 vbe.voyage-prive.be
 :: vbe.voyage-prive.be
+0.0.0.0 vbebblpht.com
+:: vbebblpht.com
 0.0.0.0 vbjhsdcuv.com
 :: vbjhsdcuv.com
 0.0.0.0 vbnm888.com
@@ -63868,8 +63872,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -63950,6 +63952,8 @@ ff02::3 ip6-allhosts
 :: whicherinc.club
 0.0.0.0 whichtalk.com
 :: whichtalk.com
+0.0.0.0 whispercustom.com
+:: whispercustom.com
 0.0.0.0 whistleout.s3.amazonaws.com
 :: whistleout.s3.amazonaws.com
 0.0.0.0 whistlingenrapturereprint.com
