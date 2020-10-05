@@ -1,11 +1,11 @@
-# Checksum: MTYwMTkxMDI1MAo=
+# Checksum: MTYwMTkyMTA3MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201005-5
-# TimeUpdated: 2020-10-05T15:04:10+00:00
+# Version: 1.6.3-20201005-6
+# TimeUpdated: 2020-10-05T18:04:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35389
+# Total: 35394
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -17998,6 +17998,8 @@ ff02::3 ip6-allhosts
 :: cytroncdn.videojj.com
 0.0.0.0 cyveillance.com
 :: cyveillance.com
+0.0.0.0 cz.ifeng0.com
+:: cz.ifeng0.com
 0.0.0.0 cz01016102.cg2017.com
 :: cz01016102.cg2017.com
 0.0.0.0 cz4444.cn
@@ -18782,6 +18784,8 @@ ff02::3 ip6-allhosts
 :: d6.sina.com.cn
 0.0.0.0 d6.sinaimg.cn
 :: d6.sinaimg.cn
+0.0.0.0 d602196786e42d.com
+:: d602196786e42d.com
 0.0.0.0 d63a3au5lqmtu.cloudfront.net
 :: d63a3au5lqmtu.cloudfront.net
 0.0.0.0 d6jfiirio372.com
@@ -32984,6 +32988,8 @@ ff02::3 ip6-allhosts
 :: js1210.yongkang6.com
 0.0.0.0 js1315.cnbole.net
 :: js1315.cnbole.net
+0.0.0.0 js1940.anreson.net
+:: js1940.anreson.net
 0.0.0.0 js2.battmd168a1.xyz
 :: js2.battmd168a1.xyz
 0.0.0.0 js2.battmd168a2.xyz
@@ -40980,6 +40986,8 @@ ff02::3 ip6-allhosts
 :: nervoussummer.com
 0.0.0.0 neshedfrie.club
 :: neshedfrie.club
+0.0.0.0 nesjournin.top
+:: nesjournin.top
 0.0.0.0 nesoaghu.net
 :: nesoaghu.net
 0.0.0.0 nesparklines.info
@@ -42468,6 +42476,8 @@ ff02::3 ip6-allhosts
 :: ogrfi3uyt7.com
 0.0.0.0 ogrid.org
 :: ogrid.org
+0.0.0.0 ogskle.com
+:: ogskle.com
 0.0.0.0 ogt.jp
 :: ogt.jp
 0.0.0.0 ogwykjkqbhf.com
