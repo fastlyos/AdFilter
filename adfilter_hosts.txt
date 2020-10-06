@@ -1,11 +1,11 @@
-# Checksum: MTYwMTk5NjY3NAo=
+# Checksum: MTYwMjAwNzQ1MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201006-5
-# TimeUpdated: 2020-10-06T15:04:34+00:00
+# Version: 1.6.3-20201006-6
+# TimeUpdated: 2020-10-06T18:04:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35428
+# Total: 35445
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -586,6 +586,8 @@ ff02::3 ip6-allhosts
 :: 139site.com
 0.0.0.0 13vm73vbmp.com
 :: 13vm73vbmp.com
+0.0.0.0 13wn.com
+:: 13wn.com
 0.0.0.0 13wnjs.com
 :: 13wnjs.com
 0.0.0.0 13yg.cn
@@ -5220,6 +5222,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admatrix.jp
@@ -5938,6 +5942,8 @@ ff02::3 ip6-allhosts
 :: adsbr.info
 0.0.0.0 adsbro.com
 :: adsbro.com
+0.0.0.0 adsbrook.com
+:: adsbrook.com
 0.0.0.0 adsc.wasu.tv
 :: adsc.wasu.tv
 0.0.0.0 adscale.de
@@ -10460,8 +10466,6 @@ ff02::3 ip6-allhosts
 :: b1.baomihua.com
 0.0.0.0 b1.c1km4.com
 :: b1.c1km4.com
-0.0.0.0 b1.fengdu100.com
-:: b1.fengdu100.com
 0.0.0.0 b1.xiao84.com
 :: b1.xiao84.com
 0.0.0.0 b13481647cf775c5.com
@@ -18048,6 +18052,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -23154,6 +23160,8 @@ ff02::3 ip6-allhosts
 :: ers.baidu.com
 0.0.0.0 ersagreem.club
 :: ersagreem.club
+0.0.0.0 erscdf.com
+:: erscdf.com
 0.0.0.0 ersfeatural.club
 :: ersfeatural.club
 0.0.0.0 ersfeaturall.info
@@ -32326,6 +32334,8 @@ ff02::3 ip6-allhosts
 :: jfqkj.com
 0.0.0.0 jfrwheneva.club
 :: jfrwheneva.club
+0.0.0.0 jfsdiwmnbsk002.top
+:: jfsdiwmnbsk002.top
 0.0.0.0 jfy-stone.cn
 :: jfy-stone.cn
 0.0.0.0 jg.bjpengyi.com
@@ -33948,6 +33958,8 @@ ff02::3 ip6-allhosts
 :: kmd365.com
 0.0.0.0 kmindex.ru
 :: kmindex.ru
+0.0.0.0 kmovuj.com
+:: kmovuj.com
 0.0.0.0 kn.aishake.cn
 :: kn.aishake.cn
 0.0.0.0 kn.archrug.com
@@ -34606,6 +34618,8 @@ ff02::3 ip6-allhosts
 :: lds.zui.com
 0.0.0.0 ldt1duixoe.com
 :: ldt1duixoe.com
+0.0.0.0 ldutvi.com
+:: ldutvi.com
 0.0.0.0 ldwidentconc.space
 :: ldwidentconc.space
 0.0.0.0 ldy.350.com
@@ -35620,6 +35634,8 @@ ff02::3 ip6-allhosts
 :: log.droid4x.cn
 0.0.0.0 log.ecgh.dk
 :: log.ecgh.dk
+0.0.0.0 log.ergeduoduo.com
+:: log.ergeduoduo.com
 0.0.0.0 log.etoday.co.kr
 :: log.etoday.co.kr
 0.0.0.0 log.event.cnool.net
@@ -44898,6 +44914,8 @@ ff02::3 ip6-allhosts
 :: pistyll.bleacherreport.com
 0.0.0.0 pisucbaart.com
 :: pisucbaart.com
+0.0.0.0 pitegirlfridg.top
+:: pitegirlfridg.top
 0.0.0.0 piti.bplaced.net
 :: piti.bplaced.net
 0.0.0.0 piticlik.com
@@ -47464,6 +47482,8 @@ ff02::3 ip6-allhosts
 :: qhdjhw.com
 0.0.0.0 qhdop.com
 :: qhdop.com
+0.0.0.0 qhdzljxsb.cn
+:: qhdzljxsb.cn
 0.0.0.0 qhkhchjqawst.com
 :: qhkhchjqawst.com
 0.0.0.0 qhl.bealge.sogou.com
@@ -48242,6 +48262,8 @@ ff02::3 ip6-allhosts
 :: rbs.haiyunx.com
 0.0.0.0 rbtjkx.cn
 :: rbtjkx.cn
+0.0.0.0 rbuppjvcn.com
+:: rbuppjvcn.com
 0.0.0.0 rbxtrk.com
 :: rbxtrk.com
 0.0.0.0 rbywg.com
@@ -49598,6 +49620,8 @@ ff02::3 ip6-allhosts
 :: rottilderum.cam
 0.0.0.0 rotumal.com
 :: rotumal.com
+0.0.0.0 roughthos.top
+:: roughthos.top
 0.0.0.0 roujaufu.net
 :: roujaufu.net
 0.0.0.0 roujonoa.net
@@ -51350,6 +51374,8 @@ ff02::3 ip6-allhosts
 :: sdac.lenovomm.com
 0.0.0.0 sdahxz.xyz
 :: sdahxz.xyz
+0.0.0.0 sdajxz.xyz
+:: sdajxz.xyz
 0.0.0.0 sdasasyydd.com
 :: sdasasyydd.com
 0.0.0.0 sdb.amazonaws.com
@@ -55864,6 +55890,8 @@ ff02::3 ip6-allhosts
 :: stroublederel.club
 0.0.0.0 strs.jp
 :: strs.jp
+0.0.0.0 struq.com
+:: struq.com
 0.0.0.0 strychninique.site
 :: strychninique.site
 0.0.0.0 sts.batmobi.net
@@ -59642,6 +59670,8 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -60654,6 +60684,8 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
+0.0.0.0 u8.hujiang.com
+:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
@@ -63080,6 +63112,8 @@ ff02::3 ip6-allhosts
 :: vxrpmslex.com
 0.0.0.0 vxsnk.com
 :: vxsnk.com
+0.0.0.0 vyatdrilrtgeh.com
+:: vyatdrilrtgeh.com
 0.0.0.0 vyk.admaster.com.cn
 :: vyk.admaster.com.cn
 0.0.0.0 vysgpewbyfbiob.com
