@@ -1,11 +1,11 @@
-# Checksum: MTYwMTk2NDM3Ngo=
+# Checksum: MTYwMTk3NTA0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201006-2
-# TimeUpdated: 2020-10-06T06:06:16+00:00
+# Version: 1.6.3-20201006-3
+# TimeUpdated: 2020-10-06T09:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35409
+# Total: 35414
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5222,6 +5222,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admatrix.jp
@@ -12470,8 +12472,6 @@ ff02::3 ip6-allhosts
 :: boo-box.com
 0.0.0.0 boodlewrite.com
 :: boodlewrite.com
-0.0.0.0 book9.net
-:: book9.net
 0.0.0.0 bookbudd.com
 :: bookbudd.com
 0.0.0.0 bookingdragon.com
@@ -18046,6 +18046,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -59614,6 +59616,8 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -60626,6 +60630,8 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
+0.0.0.0 u8.hujiang.com
+:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
@@ -63060,6 +63066,8 @@ ff02::3 ip6-allhosts
 :: vz-cdn.trafficjunky.net
 0.0.0.0 vz.yunmowu.com
 :: vz.yunmowu.com
+0.0.0.0 vzkdyladanuudb.com
+:: vzkdyladanuudb.com
 0.0.0.0 vznntmjdb.com
 :: vznntmjdb.com
 0.0.0.0 w.bid.ljrtb.cn
@@ -64528,6 +64536,8 @@ ff02::3 ip6-allhosts
 :: wordshipopa.club
 0.0.0.0 woredi.com
 :: woredi.com
+0.0.0.0 workedlew.top
+:: workedlew.top
 0.0.0.0 worker.minero.cc
 :: worker.minero.cc
 0.0.0.0 workshirty.club
