@@ -1,8 +1,8 @@
-# Checksum: MTYwMTk4NTkwNAo=
+# Checksum: MTYwMTk5NjY3NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201006-4
-# TimeUpdated: 2020-10-06T12:05:04+00:00
+# Version: 1.6.3-20201006-5
+# TimeUpdated: 2020-10-06T15:04:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 35428
@@ -5072,6 +5072,8 @@ ff02::3 ip6-allhosts
 :: adjwl.com
 0.0.0.0 adk.funshion.com
 :: adk.funshion.com
+0.0.0.0 adk2.co
+:: adk2.co
 0.0.0.0 adk2.com
 :: adk2.com
 0.0.0.0 adkengage.com
@@ -5218,8 +5220,6 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
-0.0.0.0 admaster.com
-:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admatrix.jp
@@ -6988,8 +6988,6 @@ ff02::3 ip6-allhosts
 :: affiliate-api.ti-media.net
 0.0.0.0 affiliate-b.com
 :: affiliate-b.com
-0.0.0.0 affiliate-gate.com
-:: affiliate-gate.com
 0.0.0.0 affiliate-robot.com
 :: affiliate-robot.com
 0.0.0.0 affiliate.com
@@ -7830,6 +7828,8 @@ ff02::3 ip6-allhosts
 :: alxsite.com
 0.0.0.0 alxzes.com
 :: alxzes.com
+0.0.0.0 alythoriticalt.club
+:: alythoriticalt.club
 0.0.0.0 alzexa.com
 :: alzexa.com
 0.0.0.0 alzwa133.xyz
@@ -10460,6 +10460,8 @@ ff02::3 ip6-allhosts
 :: b1.baomihua.com
 0.0.0.0 b1.c1km4.com
 :: b1.c1km4.com
+0.0.0.0 b1.fengdu100.com
+:: b1.fengdu100.com
 0.0.0.0 b1.xiao84.com
 :: b1.xiao84.com
 0.0.0.0 b13481647cf775c5.com
@@ -10930,6 +10932,8 @@ ff02::3 ip6-allhosts
 :: barfsmiaowpit.com
 0.0.0.0 bargainingrip.com
 :: bargainingrip.com
+0.0.0.0 bargaret.club
+:: bargaret.club
 0.0.0.0 barilliance.net
 :: barilliance.net
 0.0.0.0 barium.cheezdev.com
@@ -12610,8 +12614,6 @@ ff02::3 ip6-allhosts
 :: bposterss.net
 0.0.0.0 bptracking.com
 :: bptracking.com
-0.0.0.0 bqhnj.cn
-:: bqhnj.cn
 0.0.0.0 bqiovml.com
 :: bqiovml.com
 0.0.0.0 bqqsdv73724.cn
@@ -14360,8 +14362,6 @@ ff02::3 ip6-allhosts
 :: cdncache2-a.akamaihd.net
 0.0.0.0 cdnfarm18.com
 :: cdnfarm18.com
-0.0.0.0 cdnfile.xyz
-:: cdnfile.xyz
 0.0.0.0 cdnimg.liehu.ijinshan.com
 :: cdnimg.liehu.ijinshan.com
 0.0.0.0 cdnis.hyperpromote.com
@@ -18048,8 +18048,6 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
-0.0.0.0 czywssj.com
-:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -45484,6 +45482,8 @@ ff02::3 ip6-allhosts
 :: podbwdcrmjufmr.com
 0.0.0.0 podhopfit.site
 :: podhopfit.site
+0.0.0.0 poemsdeucewee.com
+:: poemsdeucewee.com
 0.0.0.0 poemsproduced.com
 :: poemsproduced.com
 0.0.0.0 poignantcover.com
@@ -54062,6 +54062,8 @@ ff02::3 ip6-allhosts
 :: specimense.club
 0.0.0.0 specimensspittleentrepreneur.com
 :: specimensspittleentrepreneur.com
+0.0.0.0 speckdiversitypiety.com
+:: speckdiversitypiety.com
 0.0.0.0 spectate.com
 :: spectate.com
 0.0.0.0 spectato.com
@@ -58802,6 +58804,8 @@ ff02::3 ip6-allhosts
 :: trac.oferting.net
 0.0.0.0 trac.oferting.org
 :: trac.oferting.org
+0.0.0.0 tracc.it
+:: tracc.it
 0.0.0.0 traccoon.intellectsoft.net
 :: traccoon.intellectsoft.net
 0.0.0.0 tracdelight.com
@@ -59638,8 +59642,6 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
-0.0.0.0 trade.mtime.com
-:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -60652,8 +60654,6 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
-0.0.0.0 u8.hujiang.com
-:: u8.hujiang.com
 0.0.0.0 u88.cn
 :: u88.cn
 0.0.0.0 u8ad.com
