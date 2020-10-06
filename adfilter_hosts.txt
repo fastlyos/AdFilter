@@ -1,11 +1,11 @@
-# Checksum: MTYwMTkzMTgzNgo=
+# Checksum: MTYwMTk0Mjk3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201005-7
-# TimeUpdated: 2020-10-05T21:03:56+00:00
+# Version: 1.6.3-20201006-0
+# TimeUpdated: 2020-10-06T00:09:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35397
+# Total: 35404
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3466,6 +3466,8 @@ ff02::3 ip6-allhosts
 :: aaalian.com
 0.0.0.0 aaayc.cn
 :: aaayc.cn
+0.0.0.0 aabbccddeeffgg.cn
+:: aabbccddeeffgg.cn
 0.0.0.0 aabmxezph.com
 :: aabmxezph.com
 0.0.0.0 aadajnnn133.xyz
@@ -6572,6 +6574,8 @@ ff02::3 ip6-allhosts
 :: advertarium.com.ua
 0.0.0.0 advertbox.us
 :: advertbox.us
+0.0.0.0 adverti.io
+:: adverti.io
 0.0.0.0 advertica-cdn.com
 :: advertica-cdn.com
 0.0.0.0 advertica.ae
@@ -15068,8 +15072,6 @@ ff02::3 ip6-allhosts
 :: class64deal.com
 0.0.0.0 classic.39health.com
 :: classic.39health.com
-0.0.0.0 classicgir.cn
-:: classicgir.cn
 0.0.0.0 classionreactice.info
 :: classionreactice.info
 0.0.0.0 classisingew.club
@@ -26302,6 +26304,8 @@ ff02::3 ip6-allhosts
 :: geepwnfly.club
 0.0.0.0 geethoap.com
 :: geethoap.com
+0.0.0.0 geffortyser.top
+:: geffortyser.top
 0.0.0.0 gefwrite.com
 :: gefwrite.com
 0.0.0.0 geistm.com
@@ -34068,6 +34072,8 @@ ff02::3 ip6-allhosts
 :: krenovo.online
 0.0.0.0 krison.xyz
 :: krison.xyz
+0.0.0.0 krjleggwikuil.com
+:: krjleggwikuil.com
 0.0.0.0 kropka.onet.pl
 :: kropka.onet.pl
 0.0.0.0 krq.yymmsd.cn
@@ -48138,6 +48144,8 @@ ff02::3 ip6-allhosts
 :: rasittlbpwnbys.com
 0.0.0.0 raspiadkwcecz.com
 :: raspiadkwcecz.com
+0.0.0.0 ratesphospit.club
+:: ratesphospit.club
 0.0.0.0 rating-widget.com
 :: rating-widget.com
 0.0.0.0 rating.in
@@ -52346,6 +52354,8 @@ ff02::3 ip6-allhosts
 :: shanghuitianxia.cn
 0.0.0.0 shangjiabiao.com
 :: shangjiabiao.com
+0.0.0.0 shangmiss.wap.xsbiquge.com
+:: shangmiss.wap.xsbiquge.com
 0.0.0.0 shangtuke.cn
 :: shangtuke.cn
 0.0.0.0 shangyingwm.com
@@ -56536,6 +56546,8 @@ ff02::3 ip6-allhosts
 :: sztbjs.com
 0.0.0.0 szvr.com
 :: szvr.com
+0.0.0.0 szxc868.com
+:: szxc868.com
 0.0.0.0 szyr474.com
 :: szyr474.com
 0.0.0.0 szyuke.cn
@@ -64354,6 +64366,8 @@ ff02::3 ip6-allhosts
 :: wj.jiancai365.cn
 0.0.0.0 wjdfv.com
 :: wjdfv.com
+0.0.0.0 wjodtshzu.com
+:: wjodtshzu.com
 0.0.0.0 wjyhao.com
 :: wjyhao.com
 0.0.0.0 wka8.com
