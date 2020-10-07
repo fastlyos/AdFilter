@@ -1,11 +1,11 @@
-# Checksum: MTYwMjA2MTQ1Mgo=
+# Checksum: MTYwMjA3MjMxNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.4-20201007-3
-# TimeUpdated: 2020-10-07T09:04:12+00:00
+# Version: 1.6.4-20201007-4
+# TimeUpdated: 2020-10-07T12:05:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 41808
+# Total: 41834
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -642,6 +642,8 @@ ff02::3 ip6-allhosts
 :: 1495039.com
 0.0.0.0 14nuzznszbdp.com
 :: 14nuzznszbdp.com
+0.0.0.0 14so.cn
+:: 14so.cn
 0.0.0.0 15.taboola.com
 :: 15.taboola.com
 0.0.0.0 1503.net
@@ -1102,8 +1104,6 @@ ff02::3 ip6-allhosts
 :: 258zw.com
 0.0.0.0 25haich4342.ru
 :: 25haich4342.ru
-0.0.0.0 268mob.cn
-:: 268mob.cn
 0.0.0.0 26gg.bnq86.com
 :: 26gg.bnq86.com
 0.0.0.0 2725.dlads.cn
@@ -1972,8 +1972,6 @@ ff02::3 ip6-allhosts
 :: 56bfc388bf12.com
 0.0.0.0 56space.com
 :: 56space.com
-0.0.0.0 56yk.com
-:: 56yk.com
 0.0.0.0 57.com.cn
 :: 57.com.cn
 0.0.0.0 5726303d87522d05.com
@@ -9000,6 +8998,8 @@ ff02::3 ip6-allhosts
 :: aim4media.com
 0.0.0.0 aima.weathercn.com
 :: aima.weathercn.com
+0.0.0.0 aimamparc.club
+:: aimamparc.club
 0.0.0.0 aimatch.com
 :: aimatch.com
 0.0.0.0 aimato.com
@@ -13306,6 +13306,8 @@ ff02::3 ip6-allhosts
 :: bayctrk.com
 0.0.0.0 bayimob.com
 :: bayimob.com
+0.0.0.0 bayonetbikes.com
+:: bayonetbikes.com
 0.0.0.0 baypirateproxy.org
 :: baypirateproxy.org
 0.0.0.0 baypirateproxy.pw
@@ -13362,8 +13364,6 @@ ff02::3 ip6-allhosts
 :: bc.coupons.com
 0.0.0.0 bc.infoblog.today
 :: bc.infoblog.today
-0.0.0.0 bc.infovps.site
-:: bc.infovps.site
 0.0.0.0 bc.qunar.com
 :: bc.qunar.com
 0.0.0.0 bc0a.com
@@ -13908,6 +13908,8 @@ ff02::3 ip6-allhosts
 :: behybmunweid.com
 0.0.0.0 bei7.clewx.com
 :: bei7.clewx.com
+0.0.0.0 beifmu.com
+:: beifmu.com
 0.0.0.0 beijing.buzhi5.com
 :: beijing.buzhi5.com
 0.0.0.0 beijinglvyou.net.cn
@@ -14692,6 +14694,8 @@ ff02::3 ip6-allhosts
 :: blacktri-a.akamaihd.net
 0.0.0.0 blacktri.com
 :: blacktri.com
+0.0.0.0 blacurlik.com
+:: blacurlik.com
 0.0.0.0 blaghfpd.com
 :: blaghfpd.com
 0.0.0.0 blaick.com
@@ -19954,6 +19958,8 @@ ff02::3 ip6-allhosts
 :: contadorvisitasgratis.com
 0.0.0.0 contadorweb.com
 :: contadorweb.com
+0.0.0.0 contalyze.com
+:: contalyze.com
 0.0.0.0 contatoreaccessi.com
 :: contatoreaccessi.com
 0.0.0.0 contaxe.com
@@ -26684,6 +26690,8 @@ ff02::3 ip6-allhosts
 :: eg-p2.eurogamer.net
 0.0.0.0 eg.gitpapa.com
 :: eg.gitpapa.com
+0.0.0.0 egadvertising.com
+:: egadvertising.com
 0.0.0.0 egamingonline.com
 :: egamingonline.com
 0.0.0.0 egamiplatform.tv
@@ -26702,6 +26710,8 @@ ff02::3 ip6-allhosts
 :: egrettyjokilin.info
 0.0.0.0 egroacho.com
 :: egroacho.com
+0.0.0.0 egxlbyokjk.com
+:: egxlbyokjk.com
 0.0.0.0 eharmony.com.au
 :: eharmony.com.au
 0.0.0.0 ehdj.njguluyu.cn
@@ -27504,6 +27514,8 @@ ff02::3 ip6-allhosts
 :: ereportz.com
 0.0.0.0 ergs4.com
 :: ergs4.com
+0.0.0.0 ericalmessar.club
+:: ericalmessar.club
 0.0.0.0 eriesfrequen.club
 :: eriesfrequen.club
 0.0.0.0 erificyggw.com
@@ -28238,6 +28250,8 @@ ff02::3 ip6-allhosts
 :: exgfpunished.com
 0.0.0.0 exh.xuhuihui.top
 :: exh.xuhuihui.top
+0.0.0.0 exit-x.net
+:: exit-x.net
 0.0.0.0 exit.beeppool.org
 :: exit.beeppool.org
 0.0.0.0 exit.macandbumble.com
@@ -29210,6 +29224,8 @@ ff02::3 ip6-allhosts
 :: fessoovy.com
 0.0.0.0 festaporno.com
 :: festaporno.com
+0.0.0.0 fesurvivial.club
+:: fesurvivial.club
 0.0.0.0 fethungi.com
 :: fethungi.com
 0.0.0.0 feverhappyjack.com
@@ -30210,6 +30226,8 @@ ff02::3 ip6-allhosts
 :: frevi.net
 0.0.0.0 frfnlvnpzeju.com
 :: frfnlvnpzeju.com
+0.0.0.0 frhbrkjgerikm2f8mjek09.com
+:: frhbrkjgerikm2f8mjek09.com
 0.0.0.0 friendlybcs.pro
 :: friendlybcs.pro
 0.0.0.0 friendlyduck.com
@@ -34226,6 +34244,8 @@ ff02::3 ip6-allhosts
 :: hinesdenien.club
 0.0.0.0 hingenerall.club
 :: hingenerall.club
+0.0.0.0 hinkslovel.top
+:: hinkslovel.top
 0.0.0.0 hiopdi.com
 :: hiopdi.com
 0.0.0.0 hioqbb99.biqugeso.com
@@ -36934,6 +36954,8 @@ ff02::3 ip6-allhosts
 :: infostroy.nnov.ru
 0.0.0.0 infotor.me
 :: infotor.me
+0.0.0.0 infovps.site
+:: infovps.site
 0.0.0.0 infox.sg
 :: infox.sg
 0.0.0.0 infrashift.com
@@ -37422,6 +37444,8 @@ ff02::3 ip6-allhosts
 :: iojpbletb.com
 0.0.0.0 iol.io
 :: iol.io
+0.0.0.0 iomppdwwmbvq.com
+:: iomppdwwmbvq.com
 0.0.0.0 ionaloutlerscrisi.fun
 :: ionaloutlerscrisi.fun
 0.0.0.0 ionrefreshotsev.info
@@ -37702,6 +37726,8 @@ ff02::3 ip6-allhosts
 :: ispeakvideo.ru
 0.0.0.0 issuecdn.baidupcs.com
 :: issuecdn.baidupcs.com
+0.0.0.0 issuesconsultationsocially.com
+:: issuesconsultationsocially.com
 0.0.0.0 ist-track.com
 :: ist-track.com
 0.0.0.0 istana-impian.com
@@ -42674,6 +42700,8 @@ ff02::3 ip6-allhosts
 :: loodoost.net
 0.0.0.0 loodyas.com
 :: loodyas.com
+0.0.0.0 loohiwez.net
+:: loohiwez.net
 0.0.0.0 look.kfiopkln.com
 :: look.kfiopkln.com
 0.0.0.0 lookery.com
@@ -46102,6 +46130,8 @@ ff02::3 ip6-allhosts
 :: mimgoal.com
 0.0.0.0 mimicromax.com
 :: mimicromax.com
+0.0.0.0 mimilcnf.pro
+:: mimilcnf.pro
 0.0.0.0 mimosamajor.com
 :: mimosamajor.com
 0.0.0.0 mimpiphy.net
@@ -47906,6 +47936,8 @@ ff02::3 ip6-allhosts
 :: myaffiliateprogram.com
 0.0.0.0 myaffiliates.com
 :: myaffiliates.com
+0.0.0.0 myams.cn
+:: myams.cn
 0.0.0.0 myashot.txxx.com
 :: myashot.txxx.com
 0.0.0.0 myaudience.de
@@ -52716,6 +52748,8 @@ ff02::3 ip6-allhosts
 :: performax.cz
 0.0.0.0 performit.club
 :: performit.club
+0.0.0.0 pergavelshot.com
+:: pergavelshot.com
 0.0.0.0 perhangeflets.site
 :: perhangeflets.site
 0.0.0.0 perinstallcash.com
@@ -54746,6 +54780,8 @@ ff02::3 ip6-allhosts
 :: prigmaperf.me
 0.0.0.0 prikolizdesa.com
 :: prikolizdesa.com
+0.0.0.0 prime-hunter.com
+:: prime-hunter.com
 0.0.0.0 primead.jp
 :: primead.jp
 0.0.0.0 primebc1.website
@@ -54920,6 +54956,8 @@ ff02::3 ip6-allhosts
 :: programmatic.cz
 0.0.0.0 programmatictrader.com
 :: programmatictrader.com
+0.0.0.0 prograph.club
+:: prograph.club
 0.0.0.0 prographiciko.site
 :: prographiciko.site
 0.0.0.0 prohibited.cn
@@ -57426,6 +57464,8 @@ ff02::3 ip6-allhosts
 :: rdiul.com
 0.0.0.0 rdr.wargaming.net
 :: rdr.wargaming.net
+0.0.0.0 rdrceting.com
+:: rdrceting.com
 0.0.0.0 rdrtrk.com
 :: rdrtrk.com
 0.0.0.0 rdsa2012.com
@@ -61726,6 +61766,8 @@ ff02::3 ip6-allhosts
 :: selfcampaign.com
 0.0.0.0 selfishsea.com
 :: selfishsea.com
+0.0.0.0 selfpuc.com
+:: selfpuc.com
 0.0.0.0 sell1.etlong.com
 :: sell1.etlong.com
 0.0.0.0 sellaction.net
@@ -61992,6 +62034,8 @@ ff02::3 ip6-allhosts
 :: server2034.ru
 0.0.0.0 server4.nullrefexcep.com
 :: server4.nullrefexcep.com
+0.0.0.0 server4ads.com
+:: server4ads.com
 0.0.0.0 serveraddr.service.kugou.com
 :: serveraddr.service.kugou.com
 0.0.0.0 serverbid.com
@@ -63406,6 +63450,8 @@ ff02::3 ip6-allhosts
 :: smokerdecoy.com
 0.0.0.0 smonitor.com.br
 :: smonitor.com.br
+0.0.0.0 smoothlyconsulatecrossroad.com
+:: smoothlyconsulatecrossroad.com
 0.0.0.0 smothere.pro
 :: smothere.pro
 0.0.0.0 smowtion.com
@@ -63738,6 +63784,8 @@ ff02::3 ip6-allhosts
 :: soknm.com
 0.0.0.0 soko.ai
 :: soko.ai
+0.0.0.0 sokoyo-fq.com
+:: sokoyo-fq.com
 0.0.0.0 sokrati.com
 :: sokrati.com
 0.0.0.0 solanog.com
@@ -75030,6 +75078,8 @@ ff02::3 ip6-allhosts
 :: vvmblock.ru
 0.0.0.0 vvnna.com
 :: vvnna.com
+0.0.0.0 vvshsrdlf.com
+:: vvshsrdlf.com
 0.0.0.0 vvtysgrbmx.com
 :: vvtysgrbmx.com
 0.0.0.0 vvv.ieduw.com
@@ -82294,6 +82344,8 @@ ff02::3 ip6-allhosts
 :: youtui.net
 0.0.0.0 youtui456.com
 :: youtui456.com
+0.0.0.0 youvisit.com
+:: youvisit.com
 0.0.0.0 youweiprint.com
 :: youweiprint.com
 0.0.0.0 youwugong.jobui.com
