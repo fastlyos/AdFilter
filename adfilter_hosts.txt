@@ -1,11 +1,11 @@
-# Checksum: MTYwMjA5Mzg1NAo=
+# Checksum: MTYwMjEwNDY0Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.4-20201007-6
-# TimeUpdated: 2020-10-07T18:04:14+00:00
+# Version: 1.6.4-20201007-7
+# TimeUpdated: 2020-10-07T21:04:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 41839
+# Total: 41844
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2984,8 +2984,6 @@ ff02::3 ip6-allhosts
 :: 91taojin.com
 0.0.0.0 91veg.com
 :: 91veg.com
-0.0.0.0 91xry.com
-:: 91xry.com
 0.0.0.0 91ysa.com
 :: 91ysa.com
 0.0.0.0 920sbo17zn88.com
@@ -13196,6 +13194,8 @@ ff02::3 ip6-allhosts
 :: baodaozhan.cn
 0.0.0.0 baofeng.m.cn.miaozhen.com
 :: baofeng.m.cn.miaozhen.com
+0.0.0.0 baolutongwuye.cn
+:: baolutongwuye.cn
 0.0.0.0 baoyatu.cc
 :: baoyatu.cc
 0.0.0.0 bapkt.com
@@ -13448,6 +13448,8 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
+0.0.0.0 bd1.it028.net.cn
+:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -30172,6 +30174,8 @@ ff02::3 ip6-allhosts
 :: freestats.tv
 0.0.0.0 freestats.ws
 :: freestats.ws
+0.0.0.0 freetellafriend.com
+:: freetellafriend.com
 0.0.0.0 freetrafficsystem.com
 :: freetrafficsystem.com
 0.0.0.0 freetricktipss.info
@@ -66152,6 +66156,8 @@ ff02::3 ip6-allhosts
 :: stg8.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 :: sthelensstar-gb.sthelensstar.co.uk
+0.0.0.0 sthourselft.top
+:: sthourselft.top
 0.0.0.0 stickssheep.com
 :: stickssheep.com
 0.0.0.0 stickyadstv.com
@@ -76216,6 +76222,8 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
+0.0.0.0 wgmgmg.biqugeso.com
+:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
@@ -77474,6 +77482,8 @@ ff02::3 ip6-allhosts
 :: ws1.bmst.pw
 0.0.0.0 ws1.datouniao.com
 :: ws1.datouniao.com
+0.0.0.0 ws1.g-content.bid
+:: ws1.g-content.bid
 0.0.0.0 ws1.minr.pw
 :: ws1.minr.pw
 0.0.0.0 ws1.stati.bid
