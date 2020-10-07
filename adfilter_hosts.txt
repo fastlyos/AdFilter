@@ -1,11 +1,11 @@
-# Checksum: MTYwMjAxODIyNwo=
+# Checksum: MTYwMjAyOTM5MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.3-20201006-7
-# TimeUpdated: 2020-10-06T21:03:47+00:00
+# Version: 1.6.3-20201007-0
+# TimeUpdated: 2020-10-07T00:09:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 35447
+# Total: 35452
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1758,8 +1758,6 @@ ff02::3 ip6-allhosts
 :: 550b3ikb9j.com
 0.0.0.0 550sky.com
 :: 550sky.com
-0.0.0.0 550tg.com
-:: 550tg.com
 0.0.0.0 555lu.com
 :: 555lu.com
 0.0.0.0 555p555p.com
@@ -3176,8 +3174,6 @@ ff02::3 ip6-allhosts
 :: a.ucoz.net
 0.0.0.0 a.umilu.com
 :: a.umilu.com
-0.0.0.0 a.ut8d8.com
-:: a.ut8d8.com
 0.0.0.0 a.vdo.ai
 :: a.vdo.ai
 0.0.0.0 a.visualrevenue.com
@@ -13226,6 +13222,8 @@ ff02::3 ip6-allhosts
 :: c.dcghp.top
 0.0.0.0 c.dcgwnhk.cn
 :: c.dcgwnhk.cn
+0.0.0.0 c.dg186.cn
+:: c.dg186.cn
 0.0.0.0 c.domob.cn
 :: c.domob.cn
 0.0.0.0 c.duomai.com
@@ -23938,6 +23936,8 @@ ff02::3 ip6-allhosts
 :: f.staticlp.com
 0.0.0.0 f.ustclsy.com
 :: f.ustclsy.com
+0.0.0.0 f.vanein.com
+:: f.vanein.com
 0.0.0.0 f.yijikm.com
 :: f.yijikm.com
 0.0.0.0 f01ed651eca.com
@@ -29192,6 +29192,8 @@ ff02::3 ip6-allhosts
 :: horedi.com
 0.0.0.0 horheloopo.com
 :: horheloopo.com
+0.0.0.0 horiticalagen.club
+:: horiticalagen.club
 0.0.0.0 horizon-track.globo.com
 :: horizon-track.globo.com
 0.0.0.0 horizon.globo.com
@@ -30314,6 +30316,8 @@ ff02::3 ip6-allhosts
 :: ii.u1e9.cn
 0.0.0.0 iia1.pikacn.com
 :: iia1.pikacn.com
+0.0.0.0 iiad.liuliguo.com
+:: iiad.liuliguo.com
 0.0.0.0 iialqejeka.com
 :: iialqejeka.com
 0.0.0.0 iibcejrrfhxh.com
@@ -39528,6 +39532,8 @@ ff02::3 ip6-allhosts
 :: mobalyzer.net
 0.0.0.0 mobappconfig.securities.eastmoney.com
 :: mobappconfig.securities.eastmoney.com
+0.0.0.0 mobatori.com
+:: mobatori.com
 0.0.0.0 mobbahjug.com
 :: mobbahjug.com
 0.0.0.0 mobclix.com
@@ -40614,6 +40620,8 @@ ff02::3 ip6-allhosts
 :: mzlit.com
 0.0.0.0 mzmnrczlsqtlya.com
 :: mzmnrczlsqtlya.com
+0.0.0.0 mzmtpdcouoa.com
+:: mzmtpdcouoa.com
 0.0.0.0 mznzltgotp.com
 :: mznzltgotp.com
 0.0.0.0 mzol7lbm.com
@@ -61832,6 +61840,8 @@ ff02::3 ip6-allhosts
 :: v.center
 0.0.0.0 v.dcgwnhk.cn
 :: v.dcgwnhk.cn
+0.0.0.0 v.dg186.cn
+:: v.dg186.cn
 0.0.0.0 v.domob.cn
 :: v.domob.cn
 0.0.0.0 v.e7002.com
