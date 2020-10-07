@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.3
+# Current Version: 1.6.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -20,7 +20,10 @@ function GetData() {
         "https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
         "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
         "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/11.txt"
         "https://filters.adtidy.org/extension/chromium/filters/14.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/15.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/2.txt"
         "https://filters.adtidy.org/extension/chromium/filters/224.txt"
         "https://filters.adtidy.org/extension/chromium/filters/3.txt"
         "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
