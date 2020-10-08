@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.4
+# Current Version: 1.6.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
@@ -20,12 +20,22 @@ function GetData() {
         "https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
         "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
         "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/1.txt"
         "https://filters.adtidy.org/extension/chromium/filters/11.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/12.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/13.txt"
         "https://filters.adtidy.org/extension/chromium/filters/14.txt"
         "https://filters.adtidy.org/extension/chromium/filters/15.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/16.txt"
         "https://filters.adtidy.org/extension/chromium/filters/2.txt"
         "https://filters.adtidy.org/extension/chromium/filters/224.txt"
         "https://filters.adtidy.org/extension/chromium/filters/3.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/4.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/5.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/6.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/7.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/8.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/9.txt"
         "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt"
         "https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt"
         "https://raw.githubusercontent.com/VeleSila/VELE-SILA-List/gh-pages/KaFanList.txt"
@@ -64,6 +74,7 @@ function GetData() {
     )
     filter_white=(
         "https://easylist-downloads.adblockplus.org/exceptionrules.txt"
+        "https://filters.adtidy.org/extension/chromium/filters/10.txt"
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/white_list.txt"
         "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt"
         "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
