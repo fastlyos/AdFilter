@@ -1,11 +1,11 @@
-# Checksum: MTYwMjEwNDY0Nwo=
+# Checksum: MTYwMjExNTY5NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.4-20201007-7
-# TimeUpdated: 2020-10-07T21:04:07+00:00
+# Version: 1.6.4-20201008-0
+# TimeUpdated: 2020-10-08T00:08:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 41844
+# Total: 41854
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1406,6 +1406,8 @@ ff02::3 ip6-allhosts
 :: 360popunder.com
 0.0.0.0 360protected.com
 :: 360protected.com
+0.0.0.0 360shopping.com.cn
+:: 360shopping.com.cn
 0.0.0.0 360tag.com
 :: 360tag.com
 0.0.0.0 360vip.front99.com
@@ -1510,6 +1512,8 @@ ff02::3 ip6-allhosts
 :: 3cnce854.com
 0.0.0.0 3d0da2373af57.com
 :: 3d0da2373af57.com
+0.0.0.0 3d1a1e7f6db3.com
+:: 3d1a1e7f6db3.com
 0.0.0.0 3d643f542787c62a7.com
 :: 3d643f542787c62a7.com
 0.0.0.0 3djd3.xyz
@@ -1608,10 +1612,14 @@ ff02::3 ip6-allhosts
 :: 40ceexln7929.com
 0.0.0.0 40nuggets.com
 :: 40nuggets.com
+0.0.0.0 4108f01cc82.com
+:: 4108f01cc82.com
 0.0.0.0 4141d006e4f4dd17ab9.com
 :: 4141d006e4f4dd17ab9.com
 0.0.0.0 4171764.fls.doubleclick.net
 :: 4171764.fls.doubleclick.net
+0.0.0.0 417c76f52b0.com
+:: 417c76f52b0.com
 0.0.0.0 41df76c67812005c.com
 :: 41df76c67812005c.com
 0.0.0.0 41ef19c0f0794e058c.com
@@ -8936,8 +8944,6 @@ ff02::3 ip6-allhosts
 :: aicydb.com
 0.0.0.0 aid.send.microad.jp
 :: aid.send.microad.jp
-0.0.0.0 aidaicn.com
-:: aidaicn.com
 0.0.0.0 aidaigry.com
 :: aidaigry.com
 0.0.0.0 aidalbark.site
@@ -12762,6 +12768,8 @@ ff02::3 ip6-allhosts
 :: bad.maienyanjing.cn
 0.0.0.0 bad1.51gxqm.com
 :: bad1.51gxqm.com
+0.0.0.0 bad359d353.com
+:: bad359d353.com
 0.0.0.0 badad.googleplex.com
 :: badad.googleplex.com
 0.0.0.0 badamareus.com
@@ -13448,8 +13456,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmg.com.cn
 0.0.0.0 bd1.idgdmgroup.com.cn
 :: bd1.idgdmgroup.com.cn
-0.0.0.0 bd1.it028.net.cn
-:: bd1.it028.net.cn
 0.0.0.0 bd1.jinbaozy.com
 :: bd1.jinbaozy.com
 0.0.0.0 bd1.jobui.com
@@ -13668,8 +13674,6 @@ ff02::3 ip6-allhosts
 :: beabsolom.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
 :: beacon-fullpage-predictor.goguardian.com
-0.0.0.0 beacon-us-sjc1.rubiconproject.com
-:: beacon-us-sjc1.rubiconproject.com
 0.0.0.0 beacon.affil.walmart.com
 :: beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
@@ -13852,6 +13856,8 @@ ff02::3 ip6-allhosts
 :: beeaimaid.com
 0.0.0.0 beeashale.club
 :: beeashale.club
+0.0.0.0 beefraidmob.com
+:: beefraidmob.com
 0.0.0.0 beeftransmission.com
 :: beeftransmission.com
 0.0.0.0 beegotou.net
@@ -17562,8 +17568,6 @@ ff02::3 ip6-allhosts
 :: ceraitoa.com
 0.0.0.0 cerizoug.net
 :: cerizoug.net
-0.0.0.0 cerotop.com
-:: cerotop.com
 0.0.0.0 cerseleme.club
 :: cerseleme.club
 0.0.0.0 certainedds.club
@@ -22020,6 +22024,8 @@ ff02::3 ip6-allhosts
 :: d1tracker.ru
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 :: d1uanozc5el74n.cloudfront.net
+0.0.0.0 d1ukp4rdr0i4nl.cloudfront.net
+:: d1ukp4rdr0i4nl.cloudfront.net
 0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 :: d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d1uy7uzra011au.cloudfront.net
@@ -27796,6 +27802,8 @@ ff02::3 ip6-allhosts
 :: ethtrader.de
 0.0.0.0 etl.xlmc.sandai.net
 :: etl.xlmc.sandai.net
+0.0.0.0 etlcrfkkfl.com
+:: etlcrfkkfl.com
 0.0.0.0 etmattemptholla.info
 :: etmattemptholla.info
 0.0.0.0 etnpool.minekitten.io
@@ -28556,6 +28564,8 @@ ff02::3 ip6-allhosts
 :: f45ff72fec5426ae.com
 0.0.0.0 f4906b7c15ba.com
 :: f4906b7c15ba.com
+0.0.0.0 f4f32de8e64d.com
+:: f4f32de8e64d.com
 0.0.0.0 f5.dfcwg.com
 :: f5.dfcwg.com
 0.0.0.0 f5.mtqys.com
@@ -32700,6 +32710,8 @@ ff02::3 ip6-allhosts
 :: graphinsider.com
 0.0.0.0 graphli.net
 :: graphli.net
+0.0.0.0 graterfleeconduct.com
+:: graterfleeconduct.com
 0.0.0.0 gratis-besucherzaehler.de
 :: gratis-besucherzaehler.de
 0.0.0.0 gratis-counter-gratis.de
@@ -34654,6 +34666,8 @@ ff02::3 ip6-allhosts
 :: homematch.com.tw
 0.0.0.0 homenick.biz
 :: homenick.biz
+0.0.0.0 homesicktitanic.com
+:: homesicktitanic.com
 0.0.0.0 homeyloanedmes.work
 :: homeyloanedmes.work
 0.0.0.0 homrus.net
@@ -34880,6 +34894,8 @@ ff02::3 ip6-allhosts
 :: houtai.2345.cn
 0.0.0.0 houtai.2345.com
 :: houtai.2345.com
+0.0.0.0 houtrelen.top
+:: houtrelen.top
 0.0.0.0 houyi.logger.baofeng.com
 :: houyi.logger.baofeng.com
 0.0.0.0 hover.in
@@ -53268,6 +53284,8 @@ ff02::3 ip6-allhosts
 :: pingback.issuu.com
 0.0.0.0 pingback.sogou.com
 :: pingback.sogou.com
+0.0.0.0 pingclock.net
+:: pingclock.net
 0.0.0.0 pingdishonest.com
 :: pingdishonest.com
 0.0.0.0 pingfore.qq.com
@@ -53988,6 +54006,8 @@ ff02::3 ip6-allhosts
 :: pngme.ru
 0.0.0.0 pnhfc.com
 :: pnhfc.com
+0.0.0.0 pnhtmagmhbu.com
+:: pnhtmagmhbu.com
 0.0.0.0 pnkdlqeibm.com
 :: pnkdlqeibm.com
 0.0.0.0 pnperf.com
@@ -69438,6 +69458,8 @@ ff02::3 ip6-allhosts
 :: toblog.ctobsnssdk.com
 0.0.0.0 toblog.snssdk.com
 :: toblog.snssdk.com
+0.0.0.0 tochgw.com
+:: tochgw.com
 0.0.0.0 todayapp.tv
 :: todayapp.tv
 0.0.0.0 todayjiaxiang.cn
@@ -76222,8 +76244,6 @@ ff02::3 ip6-allhosts
 :: wghmgbjpxmlxa.com
 0.0.0.0 wgie.0z5jn.cn
 :: wgie.0z5jn.cn
-0.0.0.0 wgmgmg.biqugeso.com
-:: wgmgmg.biqugeso.com
 0.0.0.0 wgnlz.com
 :: wgnlz.com
 0.0.0.0 wgnpq.com
