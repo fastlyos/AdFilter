@@ -1,11 +1,11 @@
-# Checksum: MTYwMjEzNzAzNgo=
+# Checksum: MTYwMjE0Nzg0OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201008-2
-# TimeUpdated: 2020-10-08T06:03:56+00:00
+# Version: 1.6.5-20201008-3
+# TimeUpdated: 2020-10-08T09:04:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43167
+# Total: 43169
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2968,8 +2968,6 @@ ff02::3 ip6-allhosts
 :: 85tgw.com
 0.0.0.0 85un.com
 :: 85un.com
-0.0.0.0 85wa.cn
-:: 85wa.cn
 0.0.0.0 85yvarcbovwp.com
 :: 85yvarcbovwp.com
 0.0.0.0 860010.com
@@ -3624,6 +3622,8 @@ ff02::3 ip6-allhosts
 :: a.doko.moe
 0.0.0.0 a.dtprofit.com
 :: a.dtprofit.com
+0.0.0.0 a.dxzy163.com
+:: a.dxzy163.com
 0.0.0.0 a.dyjqd.com
 :: a.dyjqd.com
 0.0.0.0 a.ecook.cn
@@ -9314,6 +9314,8 @@ ff02::3 ip6-allhosts
 :: aicydb.com
 0.0.0.0 aid.send.microad.jp
 :: aid.send.microad.jp
+0.0.0.0 aidaicn.com
+:: aidaicn.com
 0.0.0.0 aidaigry.com
 :: aidaigry.com
 0.0.0.0 aidalbark.site
@@ -9588,8 +9590,6 @@ ff02::3 ip6-allhosts
 :: alb.reddit.com
 0.0.0.0 albacross.com
 :: albacross.com
-0.0.0.0 albado.xyz
-:: albado.xyz
 0.0.0.0 albalbant.com
 :: albalbant.com
 0.0.0.0 albarkale.site
@@ -9722,8 +9722,6 @@ ff02::3 ip6-allhosts
 :: alisinak.com
 0.0.0.0 alissl.ucdl.pp.uc.cn
 :: alissl.ucdl.pp.uc.cn
-0.0.0.0 alistatic.cn
-:: alistatic.cn
 0.0.0.0 alitianxia168.com
 :: alitianxia168.com
 0.0.0.0 aliticalpassister.info
@@ -12126,8 +12124,6 @@ ff02::3 ip6-allhosts
 :: ashbowany.site
 0.0.0.0 ashcdn.com
 :: ashcdn.com
-0.0.0.0 ashchiasp.club
-:: ashchiasp.club
 0.0.0.0 ashemeth.com
 :: ashemeth.com
 0.0.0.0 ashiping.com
@@ -14870,6 +14866,8 @@ ff02::3 ip6-allhosts
 :: bigchoicegroup.com
 0.0.0.0 bigclick.me
 :: bigclick.me
+0.0.0.0 bigcoon.xyz
+:: bigcoon.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -50866,6 +50864,8 @@ ff02::3 ip6-allhosts
 :: ngisolomba.club
 0.0.0.0 ngjzmt.com
 :: ngjzmt.com
+0.0.0.0 ngknowle.top
+:: ngknowle.top
 0.0.0.0 nglattemptenlan.fun
 :: nglattemptenlan.fun
 0.0.0.0 ngleaccinemad.site
@@ -53392,6 +53392,8 @@ ff02::3 ip6-allhosts
 :: oxfjlzyhxjihk.com
 0.0.0.0 oxfordmail-gb.oxfordmail.co.uk
 :: oxfordmail-gb.oxfordmail.co.uk
+0.0.0.0 oxfpvhulqwv.com
+:: oxfpvhulqwv.com
 0.0.0.0 oxidy.com
 :: oxidy.com
 0.0.0.0 oxifwsabgd.nzz.ch
@@ -58550,6 +58552,8 @@ ff02::3 ip6-allhosts
 :: qiwo.cc
 0.0.0.0 qiximed.com
 :: qiximed.com
+0.0.0.0 qixour.com
+:: qixour.com
 0.0.0.0 qiye11.ejunshi.net
 :: qiye11.ejunshi.net
 0.0.0.0 qiyeb.iaskbus.com
