@@ -1,11 +1,11 @@
-# Checksum: MTYwMjEyNjIyNQo=
+# Checksum: MTYwMjEzNzAzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201008-1
-# TimeUpdated: 2020-10-08T03:03:45+00:00
+# Version: 1.6.5-20201008-2
+# TimeUpdated: 2020-10-08T06:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43170
+# Total: 43167
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2968,6 +2968,8 @@ ff02::3 ip6-allhosts
 :: 85tgw.com
 0.0.0.0 85un.com
 :: 85un.com
+0.0.0.0 85wa.cn
+:: 85wa.cn
 0.0.0.0 85yvarcbovwp.com
 :: 85yvarcbovwp.com
 0.0.0.0 860010.com
@@ -9344,6 +9346,8 @@ ff02::3 ip6-allhosts
 :: aikan6.com
 0.0.0.0 ailamtrieuphu.com
 :: ailamtrieuphu.com
+0.0.0.0 ailaskarc.club
+:: ailaskarc.club
 0.0.0.0 ailawlani.club
 :: ailawlani.club
 0.0.0.0 aileenvideos.pro
@@ -9584,8 +9588,6 @@ ff02::3 ip6-allhosts
 :: alb.reddit.com
 0.0.0.0 albacross.com
 :: albacross.com
-0.0.0.0 albado-tech.xyz
-:: albado-tech.xyz
 0.0.0.0 albado.xyz
 :: albado.xyz
 0.0.0.0 albalbant.com
@@ -23104,6 +23106,8 @@ ff02::3 ip6-allhosts
 :: d3.sinaimg.cn
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 :: d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+0.0.0.0 d30sxnvlkawtwa.cloudfront.net
+:: d30sxnvlkawtwa.cloudfront.net
 0.0.0.0 d30zrwt3s044zr.cloudfront.net
 :: d30zrwt3s044zr.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
@@ -24106,6 +24110,8 @@ ff02::3 ip6-allhosts
 :: dcentatorsstrial.info
 0.0.0.0 dcfnihzg81pa.com
 :: dcfnihzg81pa.com
+0.0.0.0 dchnguasrxubf.com
+:: dchnguasrxubf.com
 0.0.0.0 dcjg1gv1px1h.cloudfront.net
 :: dcjg1gv1px1h.cloudfront.net
 0.0.0.0 dcjs.cig.com.cn
@@ -25994,8 +26000,6 @@ ff02::3 ip6-allhosts
 :: dp3.play.aiseet.atianqi.com
 0.0.0.0 dp3.qq.com
 :: dp3.qq.com
-0.0.0.0 dp3.qq.comqq
-:: dp3.qq.comqq
 0.0.0.0 dpallyihgtgu.com
 :: dpallyihgtgu.com
 0.0.0.0 dpb3g4kqr8xz.cloudfront.net
@@ -34268,6 +34272,8 @@ ff02::3 ip6-allhosts
 :: gtenormous.club
 0.0.0.0 gtg02.bestsecurepractice.com
 :: gtg02.bestsecurepractice.com
+0.0.0.0 gthhumili.top
+:: gthhumili.top
 0.0.0.0 gtifund.cn
 :: gtifund.cn
 0.0.0.0 gtlp.net.cn
@@ -34476,6 +34482,8 @@ ff02::3 ip6-allhosts
 :: gz06x5tqlj.com
 0.0.0.0 gz51la.com
 :: gz51la.com
+0.0.0.0 gzayyacwy.com
+:: gzayyacwy.com
 0.0.0.0 gzcl999.com
 :: gzcl999.com
 0.0.0.0 gzdhzb.com
@@ -41432,6 +41440,8 @@ ff02::3 ip6-allhosts
 :: khimandi.info
 0.0.0.0 khlgauqt2000.com
 :: khlgauqt2000.com
+0.0.0.0 khnwegnamm.com
+:: khnwegnamm.com
 0.0.0.0 khomuto.info
 :: khomuto.info
 0.0.0.0 khrtac.xiangha.com
@@ -43276,8 +43286,6 @@ ff02::3 ip6-allhosts
 :: linkpulse.com
 0.0.0.0 linkredirect.biz
 :: linkredirect.biz
-0.0.0.0 linkredirect.cf
-:: linkredirect.cf
 0.0.0.0 linkreferral.com
 :: linkreferral.com
 0.0.0.0 links-and-traffic.com
@@ -43384,8 +43392,6 @@ ff02::3 ip6-allhosts
 :: liujiaqi.top
 0.0.0.0 liuliguo.com
 :: liuliguo.com
-0.0.0.0 liulwxrybupyzu.com
-:: liulwxrybupyzu.com
 0.0.0.0 live.cxo.name
 :: live.cxo.name
 0.0.0.0 live.ec2.cxo.name
@@ -43936,8 +43942,6 @@ ff02::3 ip6-allhosts
 :: log.popin.cc
 0.0.0.0 log.prezi.com
 :: log.prezi.com
-0.0.0.0 log.propermessage.io
-:: log.propermessage.io
 0.0.0.0 log.qchannel03.cn
 :: log.qchannel03.cn
 0.0.0.0 log.rc.hunantv.com
@@ -44700,8 +44704,6 @@ ff02::3 ip6-allhosts
 :: lwhitectionphy.club
 0.0.0.0 lwhsdfc.cn
 :: lwhsdfc.cn
-0.0.0.0 lwtduavwbep.com
-:: lwtduavwbep.com
 0.0.0.0 lwxjg.com
 :: lwxjg.com
 0.0.0.0 lwxlsj.wap.xsbiquge.com
@@ -46250,6 +46252,8 @@ ff02::3 ip6-allhosts
 :: managining.club
 0.0.0.0 manatomicbru.site
 :: manatomicbru.site
+0.0.0.0 manbragshep.com
+:: manbragshep.com
 0.0.0.0 mancehostic.site
 :: mancehostic.site
 0.0.0.0 mandearersi.club
@@ -54862,8 +54866,6 @@ ff02::3 ip6-allhosts
 :: phookree.com
 0.0.0.0 phoossax.net
 :: phoossax.net
-0.0.0.0 phorm.kr
-:: phorm.kr
 0.0.0.0 phormlabs.com
 :: phormlabs.com
 0.0.0.0 photo-ads.zaloapp.com
@@ -58296,6 +58298,8 @@ ff02::3 ip6-allhosts
 :: q8ux4fscc7.com
 0.0.0.0 q92dapm6fgp4.com
 :: q92dapm6fgp4.com
+0.0.0.0 q9y39.cn
+:: q9y39.cn
 0.0.0.0 qaadv.com
 :: qaadv.com
 0.0.0.0 qadabra.com
@@ -58432,8 +58436,6 @@ ff02::3 ip6-allhosts
 :: qexegqtytk.bid
 0.0.0.0 qeyps.com
 :: qeyps.com
-0.0.0.0 qezcdxxskinzi.com
-:: qezcdxxskinzi.com
 0.0.0.0 qfdn3gyfbs.com
 :: qfdn3gyfbs.com
 0.0.0.0 qfhmhhj.info
@@ -59514,8 +59516,6 @@ ff02::3 ip6-allhosts
 :: rdingsalm.club
 0.0.0.0 rdiul.com
 :: rdiul.com
-0.0.0.0 rdoovrzqazvpgv.com
-:: rdoovrzqazvpgv.com
 0.0.0.0 rdr.wargaming.net
 :: rdr.wargaming.net
 0.0.0.0 rdrceting.com
@@ -61568,6 +61568,8 @@ ff02::3 ip6-allhosts
 :: ruskhw.cn
 0.0.0.0 russian-cuties.info
 :: russian-cuties.info
+0.0.0.0 russianemasculateincident.com
+:: russianemasculateincident.com
 0.0.0.0 russianlovematch.com
 :: russianlovematch.com
 0.0.0.0 russionsdeath.fun
@@ -64590,6 +64592,8 @@ ff02::3 ip6-allhosts
 :: shemirta.info
 0.0.0.0 shence.hupu.com
 :: shence.hupu.com
+0.0.0.0 shengchaopiao.cn
+:: shengchaopiao.cn
 0.0.0.0 shenglonghg.net
 :: shenglonghg.net
 0.0.0.0 shenhao258.top
@@ -66988,8 +66992,6 @@ ff02::3 ip6-allhosts
 :: ssl2anyone5.com
 0.0.0.0 ssl4anyone2.com
 :: ssl4anyone2.com
-0.0.0.0 ssl4anyone3.com
-:: ssl4anyone3.com
 0.0.0.0 ssl4go.ga
 :: ssl4go.ga
 0.0.0.0 sslcheckerapi.com
@@ -67646,8 +67648,6 @@ ff02::3 ip6-allhosts
 :: static.g.pptv.com
 0.0.0.0 static.gg.uuu9.com
 :: static.gg.uuu9.com
-0.0.0.0 static.googeadsserving.cn
-:: static.googeadsserving.cn
 0.0.0.0 static.googleadsserving.cn
 :: static.googleadsserving.cn
 0.0.0.0 static.gridsumdissector.com
@@ -69184,8 +69184,6 @@ ff02::3 ip6-allhosts
 :: swtkc.cn
 0.0.0.0 swzhaohuo.com.cn
 :: swzhaohuo.com.cn
-0.0.0.0 sxbhzs.net
-:: sxbhzs.net
 0.0.0.0 sxc.xmrzw.cn
 :: sxc.xmrzw.cn
 0.0.0.0 sxcdn02.now.sh
@@ -71492,8 +71490,6 @@ ff02::3 ip6-allhosts
 :: tizernet.com
 0.0.0.0 tizeroff.ru
 :: tizeroff.ru
-0.0.0.0 tizerset.net
-:: tizerset.net
 0.0.0.0 tizerstock.com
 :: tizerstock.com
 0.0.0.0 tizgo.ml
@@ -74962,6 +74958,8 @@ ff02::3 ip6-allhosts
 :: ums.adtechus.com
 0.0.0.0 umusjdiehxbn.com
 :: umusjdiehxbn.com
+0.0.0.0 umyijmhalvbk.com
+:: umyijmhalvbk.com
 0.0.0.0 un.soarfi.cn
 :: un.soarfi.cn
 0.0.0.0 un.winasdaq.com
@@ -78792,8 +78790,6 @@ ff02::3 ip6-allhosts
 :: whereascredentialsurmise.com
 0.0.0.0 wheredoyoucomefrom.ovh
 :: wheredoyoucomefrom.ovh
-0.0.0.0 wherestion.com
-:: wherestion.com
 0.0.0.0 wheretogo.bid
 :: wheretogo.bid
 0.0.0.0 wheshaud.net
@@ -85970,8 +85966,6 @@ ff02::3 ip6-allhosts
 :: znsv.baidu.com
 0.0.0.0 znu1ertrovgs.org
 :: znu1ertrovgs.org
-0.0.0.0 znztvqgtaivf.com
-:: znztvqgtaivf.com
 0.0.0.0 zo.club
 :: zo.club
 0.0.0.0 zo.game
