@@ -1,11 +1,11 @@
-# Checksum: MTYwMjE4MDI1Mgo=
+# Checksum: MTYwMjE5MTA0MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201008-6
-# TimeUpdated: 2020-10-08T18:04:12+00:00
+# Version: 1.6.5-20201008-7
+# TimeUpdated: 2020-10-08T21:04:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43199
+# Total: 43210
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5782,6 +5782,8 @@ ff02::3 ip6-allhosts
 :: add.in.ua
 0.0.0.0 add.mmyuer.com
 :: add.mmyuer.com
+0.0.0.0 addabai.com
+:: addabai.com
 0.0.0.0 addaim.com
 :: addaim.com
 0.0.0.0 addapptr.com
@@ -9400,6 +9402,8 @@ ff02::3 ip6-allhosts
 :: aio.lp.mydas.mobi
 0.0.0.0 aio.media
 :: aio.media
+0.0.0.0 aiode.cn
+:: aiode.cn
 0.0.0.0 aionfavoura.club
 :: aionfavoura.club
 0.0.0.0 aiphotogram.club
@@ -12464,6 +12468,8 @@ ff02::3 ip6-allhosts
 :: au737.com
 0.0.0.0 au79nt5wic4x.com
 :: au79nt5wic4x.com
+0.0.0.0 auberginises.xyz
+:: auberginises.xyz
 0.0.0.0 auction.unityads.unity3d.com
 :: auction.unityads.unity3d.com
 0.0.0.0 auctionnudge.com
@@ -16426,6 +16432,8 @@ ff02::3 ip6-allhosts
 :: bvlbzzeqaafkj.com
 0.0.0.0 bvoer.com
 :: bvoer.com
+0.0.0.0 bvvqtaltc.com
+:: bvvqtaltc.com
 0.0.0.0 bw.scupio.com
 :: bw.scupio.com
 0.0.0.0 bw95vpjda.ru
@@ -16804,8 +16812,6 @@ ff02::3 ip6-allhosts
 :: c.youdao.com
 0.0.0.0 c.zlongad.com
 :: c.zlongad.com
-0.0.0.0 c.zmjuan.org
-:: c.zmjuan.org
 0.0.0.0 c0.adalyser.com
 :: c0.adalyser.com
 0.0.0.0 c0011.boursorama.com
@@ -39180,6 +39186,8 @@ ff02::3 ip6-allhosts
 :: istlandoll.com
 0.0.0.0 istrack.com
 :: istrack.com
+0.0.0.0 istreamsche.com
+:: istreamsche.com
 0.0.0.0 isupopc.com
 :: isupopc.com
 0.0.0.0 isurpopc.com
@@ -42524,6 +42532,8 @@ ff02::3 ip6-allhosts
 :: lb.statsevent.com
 0.0.0.0 lb.usemaxserver.de
 :: lb.usemaxserver.de
+0.0.0.0 lbsohfnkqgxo.com
+:: lbsohfnkqgxo.com
 0.0.0.0 lbstatic-a.akamaihd.net
 :: lbstatic-a.akamaihd.net
 0.0.0.0 lbszb.tongbu.com
@@ -44758,6 +44768,8 @@ ff02::3 ip6-allhosts
 :: lychangxu.cn
 0.0.0.0 lycodz.com
 :: lycodz.com
+0.0.0.0 lycooc.com
+:: lycooc.com
 0.0.0.0 lycos-eu.imrworldwide.com
 :: lycos-eu.imrworldwide.com
 0.0.0.0 lyczhb.com
@@ -56236,6 +56248,8 @@ ff02::3 ip6-allhosts
 :: poraryguib.club
 0.0.0.0 poratav.com
 :: poratav.com
+0.0.0.0 poratedp.top
+:: poratedp.top
 0.0.0.0 porchiteds.club
 :: porchiteds.club
 0.0.0.0 poredii.com
@@ -60176,6 +60190,8 @@ ff02::3 ip6-allhosts
 :: remarketingpixel.com
 0.0.0.0 remarketstats.com
 :: remarketstats.com
+0.0.0.0 remarravions.xyz
+:: remarravions.xyz
 0.0.0.0 remarypolike.site
 :: remarypolike.site
 0.0.0.0 rememberroute.com
@@ -63284,8 +63300,12 @@ ff02::3 ip6-allhosts
 :: sda.tamdiem247.com
 0.0.0.0 sdac.lenovomm.com
 :: sdac.lenovomm.com
+0.0.0.0 sdadxz.xyz
+:: sdadxz.xyz
 0.0.0.0 sdahxz.xyz
 :: sdahxz.xyz
+0.0.0.0 sdaixz.xyz
+:: sdaixz.xyz
 0.0.0.0 sdajxz.xyz
 :: sdajxz.xyz
 0.0.0.0 sdasasyydd.com
@@ -75050,6 +75070,8 @@ ff02::3 ip6-allhosts
 :: uncoveredcircle.com
 0.0.0.0 uncoveredexpert.com
 :: uncoveredexpert.com
+0.0.0.0 uncyane.com
+:: uncyane.com
 0.0.0.0 undayblogg.club
 :: undayblogg.club
 0.0.0.0 undedcontried.info
