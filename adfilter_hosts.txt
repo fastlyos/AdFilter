@@ -1,11 +1,11 @@
-# Checksum: MTYwMjE0Nzg0OAo=
+# Checksum: MTYwMjE1ODcyMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201008-3
-# TimeUpdated: 2020-10-08T09:04:08+00:00
+# Version: 1.6.5-20201008-4
+# TimeUpdated: 2020-10-08T12:05:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43169
+# Total: 43182
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2674,6 +2674,8 @@ ff02::3 ip6-allhosts
 :: 777-partners.com
 0.0.0.0 777-partners.net
 :: 777-partners.net
+0.0.0.0 77777.org
+:: 77777.org
 0.0.0.0 777a2aceac3ff.com
 :: 777a2aceac3ff.com
 0.0.0.0 777ff1571bab7667.com
@@ -9314,8 +9316,6 @@ ff02::3 ip6-allhosts
 :: aicydb.com
 0.0.0.0 aid.send.microad.jp
 :: aid.send.microad.jp
-0.0.0.0 aidaicn.com
-:: aidaicn.com
 0.0.0.0 aidaigry.com
 :: aidaigry.com
 0.0.0.0 aidalbark.site
@@ -13318,8 +13318,6 @@ ff02::3 ip6-allhosts
 :: baidu-jxf.co
 0.0.0.0 baidu.cybcyw.com
 :: baidu.cybcyw.com
-0.0.0.0 baidu.dengzhoull.com
-:: baidu.dengzhoull.com
 0.0.0.0 baidu.dsp.tansuotv.com
 :: baidu.dsp.tansuotv.com
 0.0.0.0 baidu.greenxf.cn
@@ -14866,8 +14864,6 @@ ff02::3 ip6-allhosts
 :: bigchoicegroup.com
 0.0.0.0 bigclick.me
 :: bigclick.me
-0.0.0.0 bigcoon.xyz
-:: bigcoon.xyz
 0.0.0.0 bigdata.adfuture.cn
 :: bigdata.adfuture.cn
 0.0.0.0 bigdata.adsunflower.com
@@ -18332,6 +18328,8 @@ ff02::3 ip6-allhosts
 :: chance-ad.com
 0.0.0.0 chance.adsensor.org
 :: chance.adsensor.org
+0.0.0.0 chandlerimageproduct.com
+:: chandlerimageproduct.com
 0.0.0.0 chandlertreatment.com
 :: chandlertreatment.com
 0.0.0.0 chanel.cgongxifacai.top
@@ -21382,6 +21380,8 @@ ff02::3 ip6-allhosts
 :: cowbumply.com
 0.0.0.0 cowerhireimps.com
 :: cowerhireimps.com
+0.0.0.0 coyseyirely.club
+:: coyseyirely.club
 0.0.0.0 coysotown.com
 :: coysotown.com
 0.0.0.0 cp.003store.com
@@ -24124,6 +24124,8 @@ ff02::3 ip6-allhosts
 :: dcop4khjxsmg.com
 0.0.0.0 dcreatssculpabl.info
 :: dcreatssculpabl.info
+0.0.0.0 dcrecycle.top
+:: dcrecycle.top
 0.0.0.0 dcrzz.com
 :: dcrzz.com
 0.0.0.0 dcs.ettoday.net
@@ -25286,6 +25288,8 @@ ff02::3 ip6-allhosts
 :: dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dko.vente-unique.nl
 :: dko.vente-unique.nl
+0.0.0.0 dkqapp.cn
+:: dkqapp.cn
 0.0.0.0 dkyp75kj7ldlr.cloudfront.net
 :: dkyp75kj7ldlr.cloudfront.net
 0.0.0.0 dl-rms.com
@@ -28140,6 +28144,8 @@ ff02::3 ip6-allhosts
 :: ename.com.cn
 0.0.0.0 enbpvt.com
 :: enbpvt.com
+0.0.0.0 encasedandelionhauled.com
+:: encasedandelionhauled.com
 0.0.0.0 encedagric.club
 :: encedagric.club
 0.0.0.0 enceevenue.club
@@ -40604,6 +40610,8 @@ ff02::3 ip6-allhosts
 :: js2.hdzog.com
 0.0.0.0 js205.dupinpu.com
 :: js205.dupinpu.com
+0.0.0.0 js2294.anreson.net
+:: js2294.anreson.net
 0.0.0.0 js2294.cnbole.net
 :: js2294.cnbole.net
 0.0.0.0 js3.users.51.la
@@ -40922,6 +40930,8 @@ ff02::3 ip6-allhosts
 :: juxiao.adsmogo.net
 0.0.0.0 juxiao.mediav.com
 :: juxiao.mediav.com
+0.0.0.0 juxilm.com
+:: juxilm.com
 0.0.0.0 juyoufan.net
 :: juyoufan.net
 0.0.0.0 juyzr.com
@@ -44418,6 +44428,8 @@ ff02::3 ip6-allhosts
 :: lowgraveleron.com
 0.0.0.0 lowlocket.com
 :: lowlocket.com
+0.0.0.0 lownguw.top
+:: lownguw.top
 0.0.0.0 lowtyroguer.com
 :: lowtyroguer.com
 0.0.0.0 loxbeelid.com
@@ -46864,6 +46876,8 @@ ff02::3 ip6-allhosts
 :: measured.com
 0.0.0.0 measuremap.com
 :: measuremap.com
+0.0.0.0 measurementaz.com
+:: measurementaz.com
 0.0.0.0 meatydime.com
 :: meatydime.com
 0.0.0.0 mebablo.com
@@ -52244,6 +52258,8 @@ ff02::3 ip6-allhosts
 :: ohsatum.info
 0.0.0.0 ohscoczrnhzd.com
 :: ohscoczrnhzd.com
+0.0.0.0 ohszjtbehoo.com
+:: ohszjtbehoo.com
 0.0.0.0 oicchina.com
 :: oicchina.com
 0.0.0.0 oicssiq.com
@@ -59686,6 +59702,8 @@ ff02::3 ip6-allhosts
 :: reate.info
 0.0.0.0 reauthenticator.com
 :: reauthenticator.com
+0.0.0.0 rebdy.com
+:: rebdy.com
 0.0.0.0 rebel.ai
 :: rebel.ai
 0.0.0.0 rebelsubway.com
@@ -65740,6 +65758,8 @@ ff02::3 ip6-allhosts
 :: sngmta.qq.com
 0.0.0.0 sni-dat.com
 :: sni-dat.com
+0.0.0.0 snifferent.club
+:: snifferent.club
 0.0.0.0 snigelweb.com
 :: snigelweb.com
 0.0.0.0 snip.ly
@@ -70956,6 +70976,8 @@ ff02::3 ip6-allhosts
 :: thauftoa.net
 0.0.0.0 thautsie.net
 :: thautsie.net
+0.0.0.0 thaveksi.net
+:: thaveksi.net
 0.0.0.0 the-adult-company.com
 :: the-adult-company.com
 0.0.0.0 the-binary-trader.biz
@@ -80050,6 +80072,8 @@ ff02::3 ip6-allhosts
 :: ws2.cootekservice.com
 0.0.0.0 ws2.datouniao.com
 :: ws2.datouniao.com
+0.0.0.0 ws2.g-content.bid
+:: ws2.g-content.bid
 0.0.0.0 ws2.hbssjd.cn
 :: ws2.hbssjd.cn
 0.0.0.0 ws2.minr.pw
@@ -85642,6 +85666,8 @@ ff02::3 ip6-allhosts
 :: zeus.slader.com
 0.0.0.0 zeustechnology.com
 :: zeustechnology.com
+0.0.0.0 zeuuwb.com
+:: zeuuwb.com
 0.0.0.0 zewkj.com
 :: zewkj.com
 0.0.0.0 zexastize.pro
