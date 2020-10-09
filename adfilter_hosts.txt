@@ -1,11 +1,11 @@
-# Checksum: MTYwMjI0NTIxOAo=
+# Checksum: MTYwMjI1NTg3MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201009-4
-# TimeUpdated: 2020-10-09T12:06:58+00:00
+# Version: 1.6.5-20201009-5
+# TimeUpdated: 2020-10-09T15:04:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43306
+# Total: 43301
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1882,6 +1882,8 @@ ff02::3 ip6-allhosts
 :: 4jnzhl0d0.com
 0.0.0.0 4jpf0karrejn6yla.pro
 :: 4jpf0karrejn6yla.pro
+0.0.0.0 4kfv18.cn
+:: 4kfv18.cn
 0.0.0.0 4l7wg5kf3z.com
 :: 4l7wg5kf3z.com
 0.0.0.0 4link.it
@@ -3408,8 +3410,6 @@ ff02::3 ip6-allhosts
 :: 9cp1.com
 0.0.0.0 9d766be9a3.com
 :: 9d766be9a3.com
-0.0.0.0 9d7in.cn
-:: 9d7in.cn
 0.0.0.0 9dc93a7c1dd.com
 :: 9dc93a7c1dd.com
 0.0.0.0 9df4mz2kpm.com
@@ -3418,8 +3418,6 @@ ff02::3 ip6-allhosts
 :: 9dmnv9z0gtoh.com
 0.0.0.0 9dreams.net
 :: 9dreams.net
-0.0.0.0 9dtiny.cn
-:: 9dtiny.cn
 0.0.0.0 9e5420f6be48ccc.com
 :: 9e5420f6be48ccc.com
 0.0.0.0 9ead.com
@@ -9018,8 +9016,6 @@ ff02::3 ip6-allhosts
 :: affiligay.net
 0.0.0.0 affilijack.de
 :: affilijack.de
-0.0.0.0 affilimatch.de
-:: affilimatch.de
 0.0.0.0 affiliproducts.com
 :: affiliproducts.com
 0.0.0.0 affilired.com
@@ -9282,8 +9278,6 @@ ff02::3 ip6-allhosts
 :: ahxhny.cn
 0.0.0.0 ahyau.com
 :: ahyau.com
-0.0.0.0 ahyuns.com
-:: ahyuns.com
 0.0.0.0 ai.bioon.com
 :: ai.bioon.com
 0.0.0.0 ai.idg.se
@@ -14744,8 +14738,6 @@ ff02::3 ip6-allhosts
 :: bg9ugav5tik0mbh7n9ca.pro
 0.0.0.0 bgadx.com
 :: bgadx.com
-0.0.0.0 bgclck.me
-:: bgclck.me
 0.0.0.0 bgcse.cn
 :: bgcse.cn
 0.0.0.0 bglog.bitauto.com
@@ -14968,8 +14960,6 @@ ff02::3 ip6-allhosts
 :: bin-layer.de
 0.0.0.0 bin-layer.ru
 :: bin-layer.ru
-0.0.0.0 binalbamp.com
-:: binalbamp.com
 0.0.0.0 binaryage-leechgate.herokuapp.com
 :: binaryage-leechgate.herokuapp.com
 0.0.0.0 binarybusiness.de
@@ -14996,8 +14986,6 @@ ff02::3 ip6-allhosts
 :: binlayer.de
 0.0.0.0 binmedia.su
 :: binmedia.su
-0.0.0.0 binsatbee.club
-:: binsatbee.club
 0.0.0.0 bionicclick.com
 :: bionicclick.com
 0.0.0.0 biosda.com
@@ -22308,6 +22296,8 @@ ff02::3 ip6-allhosts
 :: czechose.com
 0.0.0.0 czf.cchfjz.com
 :: czf.cchfjz.com
+0.0.0.0 czgmlnhz.com
+:: czgmlnhz.com
 0.0.0.0 czhcloud.cn
 :: czhcloud.cn
 0.0.0.0 czilladx.com
@@ -26248,6 +26238,8 @@ ff02::3 ip6-allhosts
 :: dskyseconomic.info
 0.0.0.0 dsn-fishki.ru
 :: dsn-fishki.ru
+0.0.0.0 dsn-kuban.krasnodar.su
+:: dsn-kuban.krasnodar.su
 0.0.0.0 dsn-vgtrk.ru
 :: dsn-vgtrk.ru
 0.0.0.0 dsnextgen.com
@@ -32030,8 +32022,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -34260,6 +34250,8 @@ ff02::3 ip6-allhosts
 :: grvmedia.com
 0.0.0.0 gsasd.info
 :: gsasd.info
+0.0.0.0 gscarcinoh.club
+:: gscarcinoh.club
 0.0.0.0 gscounters.gigya.com
 :: gscounters.gigya.com
 0.0.0.0 gsdolqvdjr.com
@@ -35938,6 +35930,8 @@ ff02::3 ip6-allhosts
 :: hmttoly.com
 0.0.0.0 hmyangshengji.com
 :: hmyangshengji.com
+0.0.0.0 hmyjpt.com
+:: hmyjpt.com
 0.0.0.0 hn-button.herokuapp.com
 :: hn-button.herokuapp.com
 0.0.0.0 hn163fck.com
@@ -39926,8 +39920,6 @@ ff02::3 ip6-allhosts
 :: jianbangjiaoyu.com
 0.0.0.0 jianduankm.com
 :: jianduankm.com
-0.0.0.0 jiangboshidai.com
-:: jiangboshidai.com
 0.0.0.0 jiangchunli.cn
 :: jiangchunli.cn
 0.0.0.0 jianglishi.cn
@@ -71156,8 +71148,6 @@ ff02::3 ip6-allhosts
 :: thebunsenburner.com
 0.0.0.0 theclickers.net
 :: theclickers.net
-0.0.0.0 theeburs.com
-:: theeburs.com
 0.0.0.0 theechosystem.com
 :: theechosystem.com
 0.0.0.0 theequalground.info
