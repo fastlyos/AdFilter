@@ -1,11 +1,11 @@
-# Checksum: MTYwMjM0MjUwMAo=
+# Checksum: MTYwMjM1MzA3MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201010-5
-# TimeUpdated: 2020-10-10T15:08:20+00:00
+# Version: 1.6.5-20201010-6
+# TimeUpdated: 2020-10-10T18:04:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43328
+# Total: 43332
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3762,6 +3762,8 @@ ff02::3 ip6-allhosts
 :: a.ucoz.net
 0.0.0.0 a.umilu.com
 :: a.umilu.com
+0.0.0.0 a.ut8d8.com
+:: a.ut8d8.com
 0.0.0.0 a.vdo.ai
 :: a.vdo.ai
 0.0.0.0 a.visualrevenue.com
@@ -14118,6 +14120,8 @@ ff02::3 ip6-allhosts
 :: bdsearch.2345.com
 0.0.0.0 bdstatic.eastmoney.com
 :: bdstatic.eastmoney.com
+0.0.0.0 bdtongfei.cn
+:: bdtongfei.cn
 0.0.0.0 bdtwxreri.com
 :: bdtwxreri.com
 0.0.0.0 bdu.focus.cn
@@ -18760,8 +18764,6 @@ ff02::3 ip6-allhosts
 :: cklecreditie.info
 0.0.0.0 ckmap.mediav.com
 :: ckmap.mediav.com
-0.0.0.0 ckombcgg.com
-:: ckombcgg.com
 0.0.0.0 ckrf1.com
 :: ckrf1.com
 0.0.0.0 ckseeknew.com
@@ -24668,6 +24670,8 @@ ff02::3 ip6-allhosts
 :: developer.jsecoin.com
 0.0.0.0 developermedia.com
 :: developermedia.com
+0.0.0.0 developingstripes.com
+:: developingstripes.com
 0.0.0.0 device9.com
 :: device9.com
 0.0.0.0 devisprox-media.s3-website-eu-west-1.amazonaws.com
@@ -24758,6 +24762,8 @@ ff02::3 ip6-allhosts
 :: dgaoz.com
 0.0.0.0 dgfggy.com
 :: dgfggy.com
+0.0.0.0 dglscm.cn
+:: dglscm.cn
 0.0.0.0 dgmatix.com
 :: dgmatix.com
 0.0.0.0 dgmaustralia.com
@@ -63404,6 +63410,8 @@ ff02::3 ip6-allhosts
 :: sdac.lenovomm.com
 0.0.0.0 sdadxz.xyz
 :: sdadxz.xyz
+0.0.0.0 sdagxz.xyz
+:: sdagxz.xyz
 0.0.0.0 sdahxz.xyz
 :: sdahxz.xyz
 0.0.0.0 sdaixz.xyz
