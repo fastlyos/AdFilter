@@ -1,11 +1,11 @@
-# Checksum: MTYwMjI3NzQ0MAo=
+# Checksum: MTYwMjI4ODU4NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201009-7
-# TimeUpdated: 2020-10-09T21:04:00+00:00
+# Version: 1.6.5-20201010-0
+# TimeUpdated: 2020-10-10T00:09:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43309
+# Total: 43320
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -808,6 +808,8 @@ ff02::3 ip6-allhosts
 :: 1999019.com
 0.0.0.0 1999sg.com
 :: 1999sg.com
+0.0.0.0 19a782bc982.com
+:: 19a782bc982.com
 0.0.0.0 19b45a16170729.com
 :: 19b45a16170729.com
 0.0.0.0 19beda38dc2ce42.com
@@ -1802,8 +1804,6 @@ ff02::3 ip6-allhosts
 :: 4736.in
 0.0.0.0 473863a8ef28.com
 :: 473863a8ef28.com
-0.0.0.0 47f624b2e6c6072e.com
-:: 47f624b2e6c6072e.com
 0.0.0.0 47r.cn
 :: 47r.cn
 0.0.0.0 4808.jianbihua.com
@@ -2632,6 +2632,8 @@ ff02::3 ip6-allhosts
 :: 757a51ce62f.com
 0.0.0.0 758c824671f4fc0.com
 :: 758c824671f4fc0.com
+0.0.0.0 75a91a1683.com
+:: 75a91a1683.com
 0.0.0.0 75to.com
 :: 75to.com
 0.0.0.0 761a280af77152d.com
@@ -2744,6 +2746,8 @@ ff02::3 ip6-allhosts
 :: 7bpeople.com
 0.0.0.0 7bwan.com
 :: 7bwan.com
+0.0.0.0 7car.com.cn
+:: 7car.com.cn
 0.0.0.0 7cjsh.cn
 :: 7cjsh.cn
 0.0.0.0 7clink.com
@@ -7546,8 +7550,6 @@ ff02::3 ip6-allhosts
 :: adsenseguard.com
 0.0.0.0 adsentiz.ru
 :: adsentiz.ru
-0.0.0.0 adser.io
-:: adser.io
 0.0.0.0 adserve.com
 :: adserve.com
 0.0.0.0 adserve.donanimhaber.com
@@ -9236,6 +9238,8 @@ ff02::3 ip6-allhosts
 :: agxclick.com
 0.0.0.0 ahaclub.ru
 :: ahaclub.ru
+0.0.0.0 ahadsply.com
+:: ahadsply.com
 0.0.0.0 ahalogy.com
 :: ahalogy.com
 0.0.0.0 ahamastom.com
@@ -9344,8 +9348,6 @@ ff02::3 ip6-allhosts
 :: ailamtrieuphu.com
 0.0.0.0 ailaskarc.club
 :: ailaskarc.club
-0.0.0.0 ailawlani.club
-:: ailawlani.club
 0.0.0.0 aileenvideos.pro
 :: aileenvideos.pro
 0.0.0.0 ailefen.com
@@ -9750,8 +9752,6 @@ ff02::3 ip6-allhosts
 :: all2cnjuh34jb.com
 0.0.0.0 allanetmilean.club
 :: allanetmilean.club
-0.0.0.0 allartand.club
-:: allartand.club
 0.0.0.0 allashail.club
 :: allashail.club
 0.0.0.0 allayravage.com
@@ -12874,8 +12874,6 @@ ff02::3 ip6-allhosts
 :: ayclinical.com
 0.0.0.0 ayfzryxitsusx.com
 :: ayfzryxitsusx.com
-0.0.0.0 ayggsmmb.com
-:: ayggsmmb.com
 0.0.0.0 aymaypibp.com
 :: aymaypibp.com
 0.0.0.0 ayrovalcontain.info
@@ -13152,8 +13150,6 @@ ff02::3 ip6-allhosts
 :: b5h7.com
 0.0.0.0 b5qpg.cn
 :: b5qpg.cn
-0.0.0.0 b60228e270e363f6.com
-:: b60228e270e363f6.com
 0.0.0.0 b666.penzainform.ru
 :: b666.penzainform.ru
 0.0.0.0 b6aa6257a22451c.com
@@ -14030,6 +14026,8 @@ ff02::3 ip6-allhosts
 :: bdasd.wmxa.cn
 0.0.0.0 bdash-cloud.com
 :: bdash-cloud.com
+0.0.0.0 bdbdqqkbxb.xyz
+:: bdbdqqkbxb.xyz
 0.0.0.0 bdcdncmn-gd.inter.71edge.com
 :: bdcdncmn-gd.inter.71edge.com
 0.0.0.0 bdcm.kandianla.com
@@ -21478,6 +21476,8 @@ ff02::3 ip6-allhosts
 :: cpiyz.com
 0.0.0.0 cpl1.ru
 :: cpl1.ru
+0.0.0.0 cpm-ad.com
+:: cpm-ad.com
 0.0.0.0 cpm.193g.cn
 :: cpm.193g.cn
 0.0.0.0 cpm.amateurcommunity.com
@@ -22598,6 +22598,8 @@ ff02::3 ip6-allhosts
 :: d1bxkgbbc428vi.cloudfront.net
 0.0.0.0 d1byvlfiet2h9q.cloudfront.net
 :: d1byvlfiet2h9q.cloudfront.net
+0.0.0.0 d1c4d437f10.com
+:: d1c4d437f10.com
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 :: d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1cerpgff739r9.cloudfront.net
@@ -29380,6 +29382,8 @@ ff02::3 ip6-allhosts
 :: excuseearthquake.com
 0.0.0.0 exd4.destinia.com.au
 :: exd4.destinia.com.au
+0.0.0.0 exe.io
+:: exe.io
 0.0.0.0 exebid.ru
 :: exebid.ru
 0.0.0.0 execution-ci360.rai.it
@@ -39176,6 +39180,8 @@ ff02::3 ip6-allhosts
 :: isodhsd.pro
 0.0.0.0 isohits.com
 :: isohits.com
+0.0.0.0 isolationowen.com
+:: isolationowen.com
 0.0.0.0 isonlynews.net
 :: isonlynews.net
 0.0.0.0 isparkmedia.com
@@ -53522,6 +53528,8 @@ ff02::3 ip6-allhosts
 :: oyhnizdr4bxkz0.com
 0.0.0.0 oyi9f1kbaj.com
 :: oyi9f1kbaj.com
+0.0.0.0 oyndqimgof.com
+:: oyndqimgof.com
 0.0.0.0 oysterscarton.com
 :: oysterscarton.com
 0.0.0.0 ozdpxc.com
@@ -54718,6 +54726,8 @@ ff02::3 ip6-allhosts
 :: pergavelshot.com
 0.0.0.0 perhangeflets.site
 :: perhangeflets.site
+0.0.0.0 perhapscommabudge.com
+:: perhapscommabudge.com
 0.0.0.0 perinstallcash.com
 :: perinstallcash.com
 0.0.0.0 perion.com
@@ -57182,6 +57192,8 @@ ff02::3 ip6-allhosts
 :: prospecteye.com
 0.0.0.0 prosperent.com
 :: prosperent.com
+0.0.0.0 prospergenerosityperformance.com
+:: prospergenerosityperformance.com
 0.0.0.0 prospero.ru
 :: prospero.ru
 0.0.0.0 prosumsit.com
@@ -58708,6 +58720,8 @@ ff02::3 ip6-allhosts
 :: ql.uzuzuz.com
 0.0.0.0 qlaot.com
 :: qlaot.com
+0.0.0.0 qlblpyslxciorl.com
+:: qlblpyslxciorl.com
 0.0.0.0 qlisv.siemens6es7.com
 :: qlisv.siemens6es7.com
 0.0.0.0 qlkms.ga
@@ -66830,6 +66844,8 @@ ff02::3 ip6-allhosts
 :: sports-streams-online.xyz
 0.0.0.0 sportstream365.com
 :: sportstream365.com
+0.0.0.0 sportstreams.xyz
+:: sportstreams.xyz
 0.0.0.0 sportsyndicator.com
 :: sportsyndicator.com
 0.0.0.0 sporttv.today
@@ -68480,6 +68496,8 @@ ff02::3 ip6-allhosts
 :: steadfastsound.com
 0.0.0.0 steadfastsystem.com
 :: steadfastsystem.com
+0.0.0.0 steakyesembarrass.com
+:: steakyesembarrass.com
 0.0.0.0 stealth.nl
 :: stealth.nl
 0.0.0.0 stealthlockers.com
@@ -78754,6 +78772,8 @@ ff02::3 ip6-allhosts
 :: wegotmedia.com
 0.0.0.0 weibomingzi.com
 :: weibomingzi.com
+0.0.0.0 weiguanwang888.com
+:: weiguanwang888.com
 0.0.0.0 weiguizhizuo.com
 :: weiguizhizuo.com
 0.0.0.0 weihuiyungou.com
@@ -86538,6 +86558,8 @@ ff02::3 ip6-allhosts
 :: zxl.qzbxfs.com
 0.0.0.0 zxr.fzxrjx.com
 :: zxr.fzxrjx.com
+0.0.0.0 zxryytzesvn.com
+:: zxryytzesvn.com
 0.0.0.0 zxsddfs.pro
 :: zxsddfs.pro
 0.0.0.0 zxw51.com
