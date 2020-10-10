@@ -1,11 +1,11 @@
-# Checksum: MTYwMjMzMTUzMAo=
+# Checksum: MTYwMjM0MjUwMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201010-4
-# TimeUpdated: 2020-10-10T12:05:30+00:00
+# Version: 1.6.5-20201010-5
+# TimeUpdated: 2020-10-10T15:08:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43326
+# Total: 43328
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1876,6 +1876,8 @@ ff02::3 ip6-allhosts
 :: 4jpf0karrejn6yla.pro
 0.0.0.0 4kfv18.cn
 :: 4kfv18.cn
+0.0.0.0 4kmovies.online
+:: 4kmovies.online
 0.0.0.0 4l7wg5kf3z.com
 :: 4l7wg5kf3z.com
 0.0.0.0 4link.it
@@ -3270,8 +3272,6 @@ ff02::3 ip6-allhosts
 :: 93vitui.com
 0.0.0.0 941adu.com
 :: 941adu.com
-0.0.0.0 944e66f8683ac43c.com
-:: 944e66f8683ac43c.com
 0.0.0.0 9453hot.com
 :: 9453hot.com
 0.0.0.0 94ab.com
@@ -5888,8 +5888,6 @@ ff02::3 ip6-allhosts
 :: adex.sato.my.id
 0.0.0.0 adexc.net
 :: adexc.net
-0.0.0.0 adexchange.io
-:: adexchange.io
 0.0.0.0 adexchangecloud.com
 :: adexchangecloud.com
 0.0.0.0 adexchangedirect.com
@@ -6022,8 +6020,6 @@ ff02::3 ip6-allhosts
 :: adglaze.com
 0.0.0.0 adgoi.com
 :: adgoi.com
-0.0.0.0 adgoi.mobi
-:: adgoi.mobi
 0.0.0.0 adgoji.com
 :: adgoji.com
 0.0.0.0 adgomob.com
@@ -12712,8 +12708,6 @@ ff02::3 ip6-allhosts
 :: avoadsservices.com
 0.0.0.0 avpris.ru
 :: avpris.ru
-0.0.0.0 avsmt.cn
-:: avsmt.cn
 0.0.0.0 avstat.it
 :: avstat.it
 0.0.0.0 avwincall.info
@@ -13642,8 +13636,6 @@ ff02::3 ip6-allhosts
 :: banners.videosz.com
 0.0.0.0 banners.webcams.com
 :: banners.webcams.com
-0.0.0.0 banners.webmasterplan.com
-:: banners.webmasterplan.com
 0.0.0.0 bannershotlink.perfectgonzo.com
 :: bannershotlink.perfectgonzo.com
 0.0.0.0 bannersmania.com
@@ -20618,8 +20610,6 @@ ff02::3 ip6-allhosts
 :: contentdigital.info
 0.0.0.0 contentexchange.me
 :: contentexchange.me
-0.0.0.0 contentfeed.net
-:: contentfeed.net
 0.0.0.0 contentiakol.club
 :: contentiakol.club
 0.0.0.0 contentinsights.com
@@ -22240,6 +22230,8 @@ ff02::3 ip6-allhosts
 :: cymichaire.club
 0.0.0.0 cyneburg-yam.com
 :: cyneburg-yam.com
+0.0.0.0 cyp889.cn
+:: cyp889.cn
 0.0.0.0 cypr.com
 :: cypr.com
 0.0.0.0 cysd.7kww.net
@@ -30426,6 +30418,8 @@ ff02::3 ip6-allhosts
 :: festads.com
 0.0.0.0 festaporno.com
 :: festaporno.com
+0.0.0.0 festivaleradicate.com
+:: festivaleradicate.com
 0.0.0.0 fesurvivial.club
 :: fesurvivial.club
 0.0.0.0 fethungi.com
@@ -34814,6 +34808,8 @@ ff02::3 ip6-allhosts
 :: haltinggold.com
 0.0.0.0 hamadotax.site
 :: hamadotax.site
+0.0.0.0 hamanalogy.com
+:: hamanalogy.com
 0.0.0.0 hamlipboat.com
 :: hamlipboat.com
 0.0.0.0 hammerhearing.com
@@ -50032,6 +50028,8 @@ ff02::3 ip6-allhosts
 :: nadvideo.baidu.com
 0.0.0.0 naganoadigei.com
 :: naganoadigei.com
+0.0.0.0 naghocmu.com
+:: naghocmu.com
 0.0.0.0 nagrande.com
 :: nagrande.com
 0.0.0.0 nah9v7mdppff.com
@@ -52866,6 +52864,8 @@ ff02::3 ip6-allhosts
 :: ope.tanx.com
 0.0.0.0 opehs.tanx.com
 :: opehs.tanx.com
+0.0.0.0 opekoobs.net
+:: opekoobs.net
 0.0.0.0 open-pixon.ads-pixiv.net
 :: open-pixon.ads-pixiv.net
 0.0.0.0 open-uc.cn
@@ -63410,6 +63410,8 @@ ff02::3 ip6-allhosts
 :: sdaixz.xyz
 0.0.0.0 sdajxz.xyz
 :: sdajxz.xyz
+0.0.0.0 sdalxz.xyz
+:: sdalxz.xyz
 0.0.0.0 sdasasyydd.com
 :: sdasasyydd.com
 0.0.0.0 sdb.amazonaws.com
@@ -64852,8 +64854,6 @@ ff02::3 ip6-allhosts
 :: shodroph.net
 0.0.0.0 shoelace.com
 :: shoelace.com
-0.0.0.0 shofda.com
-:: shofda.com
 0.0.0.0 shofteph.com
 :: shofteph.com
 0.0.0.0 shokala.com
@@ -74972,6 +74972,8 @@ ff02::3 ip6-allhosts
 :: uhfdsplo.com
 0.0.0.0 uhijmv.cn
 :: uhijmv.cn
+0.0.0.0 uhodsplo.com
+:: uhodsplo.com
 0.0.0.0 uhpnngxvuvwtd.com
 :: uhpnngxvuvwtd.com
 0.0.0.0 uhsmmaq4l2n5.com
@@ -78244,6 +78246,8 @@ ff02::3 ip6-allhosts
 :: waust.at
 0.0.0.0 wauthaum.com
 :: wauthaum.com
+0.0.0.0 wautoosa.net
+:: wautoosa.net
 0.0.0.0 wauzoust.com
 :: wauzoust.com
 0.0.0.0 wavecurersquire.cam
