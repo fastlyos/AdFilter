@@ -1,11 +1,11 @@
-# Checksum: MTYwMjQyODYzOAo=
+# Checksum: MTYwMjQzOTQ0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201011-5
-# TimeUpdated: 2020-10-11T15:03:58+00:00
+# Version: 1.6.5-20201011-6
+# TimeUpdated: 2020-10-11T18:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43346
+# Total: 43348
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -188,6 +188,8 @@ ff02::3 ip6-allhosts
 :: 0926a687679d337e9d.com
 0.0.0.0 0937js.com
 :: 0937js.com
+0.0.0.0 0937jyg.com
+:: 0937jyg.com
 0.0.0.0 0956228a2df97a.com
 :: 0956228a2df97a.com
 0.0.0.0 09_19.supfree.net
@@ -1452,8 +1454,6 @@ ff02::3 ip6-allhosts
 :: 34pavouhj7.com
 0.0.0.0 350media.com
 :: 350media.com
-0.0.0.0 3585656d9351553f.com
-:: 3585656d9351553f.com
 0.0.0.0 35d59588f15966.com
 :: 35d59588f15966.com
 0.0.0.0 35jd5gql9m.monster
@@ -1740,8 +1740,6 @@ ff02::3 ip6-allhosts
 :: 42eed1a0d9c129.com
 0.0.0.0 42r.cn
 :: 42r.cn
-0.0.0.0 42ye.com
-:: 42ye.com
 0.0.0.0 43031aaaecd84428.com
 :: 43031aaaecd84428.com
 0.0.0.0 43137c93a82b0e81da.com
@@ -3112,8 +3110,6 @@ ff02::3 ip6-allhosts
 :: 8gzijqo4c85j.com
 0.0.0.0 8ixrxa2tnr.com
 :: 8ixrxa2tnr.com
-0.0.0.0 8kegwpjw50.com
-:: 8kegwpjw50.com
 0.0.0.0 8le8le.com
 :: 8le8le.com
 0.0.0.0 8lgju1jryo7c.com
@@ -9352,8 +9348,6 @@ ff02::3 ip6-allhosts
 :: aim4media.com
 0.0.0.0 aima.weathercn.com
 :: aima.weathercn.com
-0.0.0.0 aimamparc.club
-:: aimamparc.club
 0.0.0.0 aimatch.com
 :: aimatch.com
 0.0.0.0 aimato.com
@@ -16358,6 +16352,8 @@ ff02::3 ip6-allhosts
 :: buzzoole.com
 0.0.0.0 buzzparadise.com
 :: buzzparadise.com
+0.0.0.0 buzzvids-direct.com
+:: buzzvids-direct.com
 0.0.0.0 buzzzoo.net
 :: buzzzoo.net
 0.0.0.0 bvakl.ifeng.com
@@ -23340,6 +23336,8 @@ ff02::3 ip6-allhosts
 :: d41.co
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 :: d49z64r3ud4kq.cloudfront.net
+0.0.0.0 d4a77d8bc81ae17.com
+:: d4a77d8bc81ae17.com
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 :: d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d4d48974197052ea.com
@@ -25864,6 +25862,8 @@ ff02::3 ip6-allhosts
 :: doubtfulrainstorm.com
 0.0.0.0 doucheng123.com
 :: doucheng123.com
+0.0.0.0 doudao.cn
+:: doudao.cn
 0.0.0.0 doudouguo.com
 :: doudouguo.com
 0.0.0.0 doudouknot.com
@@ -29348,6 +29348,8 @@ ff02::3 ip6-allhosts
 :: excuseearthquake.com
 0.0.0.0 exd4.destinia.com.au
 :: exd4.destinia.com.au
+0.0.0.0 exe.bid
+:: exe.bid
 0.0.0.0 exe.io
 :: exe.io
 0.0.0.0 exebid.ru
@@ -36320,6 +36322,8 @@ ff02::3 ip6-allhosts
 :: hqs7.cnzz.com
 0.0.0.0 hqs9.cnzz.com
 :: hqs9.cnzz.com
+0.0.0.0 hqsjc.com
+:: hqsjc.com
 0.0.0.0 hqygz.com
 :: hqygz.com
 0.0.0.0 hrahdmon.com
