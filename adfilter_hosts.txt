@@ -1,11 +1,11 @@
-# Checksum: MTYwMjM5NjI5MQo=
+# Checksum: MTYwMjQwNzA1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201011-2
-# TimeUpdated: 2020-10-11T06:04:51+00:00
+# Version: 1.6.5-20201011-3
+# TimeUpdated: 2020-10-11T09:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43334
+# Total: 43347
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1952,6 +1952,8 @@ ff02::3 ip6-allhosts
 :: 50bang.org
 0.0.0.0 50bots.nullrefexcep.com
 :: 50bots.nullrefexcep.com
+0.0.0.0 51189fb815.com
+:: 51189fb815.com
 0.0.0.0 5125129.com
 :: 5125129.com
 0.0.0.0 512612.com
@@ -9074,8 +9076,6 @@ ff02::3 ip6-allhosts
 :: afj.xasjpf.com
 0.0.0.0 afjlb.com
 :: afjlb.com
-0.0.0.0 afletedly.info
-:: afletedly.info
 0.0.0.0 afm.pipi.cn
 :: afm.pipi.cn
 0.0.0.0 afp.adchina.com
@@ -10690,8 +10690,6 @@ ff02::3 ip6-allhosts
 :: anastasiasaffiliate.com
 0.0.0.0 anatomicele.site
 :: anatomicele.site
-0.0.0.0 anbalxkcpwa.com
-:: anbalxkcpwa.com
 0.0.0.0 andarmair.club
 :: andarmair.club
 0.0.0.0 andase.com
@@ -13648,8 +13646,6 @@ ff02::3 ip6-allhosts
 :: bannery.navratdoreality.cz
 0.0.0.0 bannet.fryazino.net
 :: bannet.fryazino.net
-0.0.0.0 banniere.reussissonsensemble.fr
-:: banniere.reussissonsensemble.fr
 0.0.0.0 bannneddd.xyz
 :: bannneddd.xyz
 0.0.0.0 bannuncio.com
@@ -14686,8 +14682,6 @@ ff02::3 ip6-allhosts
 :: bfshan.cn
 0.0.0.0 bft.zoosnet.net
 :: bft.zoosnet.net
-0.0.0.0 bfvkxdhrnx.com
-:: bfvkxdhrnx.com
 0.0.0.0 bg.vimgon.com
 :: bg.vimgon.com
 0.0.0.0 bg6s0.com
@@ -15532,6 +15526,8 @@ ff02::3 ip6-allhosts
 :: bolili.info
 0.0.0.0 bolizirs.com
 :: bolizirs.com
+0.0.0.0 bolrookr.com
+:: bolrookr.com
 0.0.0.0 bolshoykush.ru
 :: bolshoykush.ru
 0.0.0.0 bolt.jebe.renren.com
@@ -33308,6 +33304,8 @@ ff02::3 ip6-allhosts
 :: glbtrk.com
 0.0.0.0 gld35wndkn.com
 :: gld35wndkn.com
+0.0.0.0 gleambeverleydominate.com
+:: gleambeverleydominate.com
 0.0.0.0 gleamingtrade.com
 :: gleamingtrade.com
 0.0.0.0 gleaminist.info
@@ -47892,6 +47890,10 @@ ff02::3 ip6-allhosts
 :: miner-11.team.nimiq.agency
 0.0.0.0 miner-13.team.nimiq.agency
 :: miner-13.team.nimiq.agency
+0.0.0.0 miner-16.team.nimiq.agency
+:: miner-16.team.nimiq.agency
+0.0.0.0 miner-2.team.nimiq.agency
+:: miner-2.team.nimiq.agency
 0.0.0.0 miner-deu-1.inf.nimiq.network
 :: miner-deu-1.inf.nimiq.network
 0.0.0.0 miner-deu-2.inf.nimiq.network
@@ -47998,6 +48000,8 @@ ff02::3 ip6-allhosts
 :: minkatu.com
 0.0.0.0 minologyhesia.site
 :: minologyhesia.site
+0.0.0.0 minorexportshopping.com
+:: minorexportshopping.com
 0.0.0.0 minormeeting.com
 :: minormeeting.com
 0.0.0.0 minr.nullrefexcep.com
@@ -49546,6 +49550,8 @@ ff02::3 ip6-allhosts
 :: mutary.com
 0.0.0.0 mutinyhq.com
 :: mutinyhq.com
+0.0.0.0 muttonvalet.com
+:: muttonvalet.com
 0.0.0.0 muusn.cn
 :: muusn.cn
 0.0.0.0 muvflix.com
@@ -50070,6 +50076,8 @@ ff02::3 ip6-allhosts
 :: nameads.com
 0.0.0.0 namedq.com
 :: namedq.com
+0.0.0.0 namemek.com
+:: namemek.com
 0.0.0.0 namesakeoscilloscopemarquis.com
 :: namesakeoscilloscopemarquis.com
 0.0.0.0 nametraff.com
@@ -52428,6 +52436,8 @@ ff02::3 ip6-allhosts
 :: oktpage.com
 0.0.0.0 okuis.com
 :: okuis.com
+0.0.0.0 okvidihqc.com
+:: okvidihqc.com
 0.0.0.0 okwfx.cn
 :: okwfx.cn
 0.0.0.0 okx6.site
@@ -59366,6 +59376,8 @@ ff02::3 ip6-allhosts
 :: rampanel.com
 0.0.0.0 rampmetrics.com
 :: rampmetrics.com
+0.0.0.0 ranacrelegalize.com
+:: ranacrelegalize.com
 0.0.0.0 rancidloss.com
 :: rancidloss.com
 0.0.0.0 rand.com.ru
@@ -60250,6 +60262,8 @@ ff02::3 ip6-allhosts
 :: relappro.com
 0.0.0.0 relatedweboffers.com
 :: relatedweboffers.com
+0.0.0.0 relaxingovercomeexaggerate.com
+:: relaxingovercomeexaggerate.com
 0.0.0.0 relead.com
 :: relead.com
 0.0.0.0 release-me.ru
@@ -60780,6 +60794,8 @@ ff02::3 ip6-allhosts
 :: rgy1wk.ru
 0.0.0.0 rgyun.com
 :: rgyun.com
+0.0.0.0 rgyuvwsiuw.com
+:: rgyuvwsiuw.com
 0.0.0.0 rh.code.jjyx.com
 :: rh.code.jjyx.com
 0.0.0.0 rh.greenbetterkids.com
@@ -68516,6 +68532,8 @@ ff02::3 ip6-allhosts
 :: steadfastsound.com
 0.0.0.0 steadfastsystem.com
 :: steadfastsystem.com
+0.0.0.0 steadilyhooray.com
+:: steadilyhooray.com
 0.0.0.0 steakyesembarrass.com
 :: steakyesembarrass.com
 0.0.0.0 stealth.nl
@@ -68772,6 +68790,8 @@ ff02::3 ip6-allhosts
 :: street-on-which.info
 0.0.0.0 stremanp.com
 :: stremanp.com
+0.0.0.0 stressbureaucracyneighbour.com
+:: stressbureaucracyneighbour.com
 0.0.0.0 stressfulpyjamas.com
 :: stressfulpyjamas.com
 0.0.0.0 strialcurity.site
@@ -70890,6 +70910,8 @@ ff02::3 ip6-allhosts
 :: templates.sharethrough.com
 0.0.0.0 tempo.inc.com
 :: tempo.inc.com
+0.0.0.0 tempobanners.com
+:: tempobanners.com
 0.0.0.0 temposnitehah.work
 :: temposnitehah.work
 0.0.0.0 temptedcreationnovel.com
@@ -71438,6 +71460,8 @@ ff02::3 ip6-allhosts
 :: thoudroa.net
 0.0.0.0 thoughtsondance.info
 :: thoughtsondance.info
+0.0.0.0 thoughuttered.com
+:: thoughuttered.com
 0.0.0.0 thoutiquede.club
 :: thoutiquede.club
 0.0.0.0 thqwivyhdpoem.com
@@ -71622,6 +71646,8 @@ ff02::3 ip6-allhosts
 :: tirqeso.ru
 0.0.0.0 tirrevealsdi.fun
 :: tirrevealsdi.fun
+0.0.0.0 tisagama.com
+:: tisagama.com
 0.0.0.0 tiser.com
 :: tiser.com
 0.0.0.0 tiser.com.au
