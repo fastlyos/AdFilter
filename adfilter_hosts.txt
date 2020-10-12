@@ -1,11 +1,11 @@
-# Checksum: MTYwMjQ4MjY5Ngo=
+# Checksum: MTYwMjQ5MzQ1NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201012-2
-# TimeUpdated: 2020-10-12T06:04:56+00:00
+# Version: 1.6.5-20201012-3
+# TimeUpdated: 2020-10-12T09:04:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43348
+# Total: 43354
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -168,8 +168,6 @@ ff02::3 ip6-allhosts
 :: 0755man.cn
 0.0.0.0 0756j.com
 :: 0756j.com
-0.0.0.0 078f1809206a.com
-:: 078f1809206a.com
 0.0.0.0 0796gou.com
 :: 0796gou.com
 0.0.0.0 0798ls.com
@@ -654,8 +652,6 @@ ff02::3 ip6-allhosts
 :: 142904.com
 0.0.0.0 144.dragonparking.com
 :: 144.dragonparking.com
-0.0.0.0 144f1817788.com
-:: 144f1817788.com
 0.0.0.0 1480876790.rsc.cdn77.org
 :: 1480876790.rsc.cdn77.org
 0.0.0.0 1495039.com
@@ -1232,8 +1228,6 @@ ff02::3 ip6-allhosts
 :: 2cnt.net
 0.0.0.0 2d52156c065481.com
 :: 2d52156c065481.com
-0.0.0.0 2dee7f1db0d07.com
-:: 2dee7f1db0d07.com
 0.0.0.0 2dpt.com
 :: 2dpt.com
 0.0.0.0 2ed354b39d61a.com
@@ -2088,8 +2082,6 @@ ff02::3 ip6-allhosts
 :: 550b3ikb9j.com
 0.0.0.0 550sky.com
 :: 550sky.com
-0.0.0.0 552239b90400b7.com
-:: 552239b90400b7.com
 0.0.0.0 555lu.com
 :: 555lu.com
 0.0.0.0 555p555p.com
@@ -2186,8 +2178,6 @@ ff02::3 ip6-allhosts
 :: 5c43cbc0f41.com
 0.0.0.0 5c577fc74618431b.com
 :: 5c577fc74618431b.com
-0.0.0.0 5c70f601e62.com
-:: 5c70f601e62.com
 0.0.0.0 5cwr93yyd4lf.com
 :: 5cwr93yyd4lf.com
 0.0.0.0 5d02977f6511aa.com
@@ -2452,6 +2442,8 @@ ff02::3 ip6-allhosts
 :: 6af461b907c5b.com
 0.0.0.0 6b357cda0f.com
 :: 6b357cda0f.com
+0.0.0.0 6b4bcc240ad94.com
+:: 6b4bcc240ad94.com
 0.0.0.0 6b5c418918ebb008cc6.com
 :: 6b5c418918ebb008cc6.com
 0.0.0.0 6bgaput9ullc.com
@@ -3258,6 +3250,8 @@ ff02::3 ip6-allhosts
 :: 9377or.com
 0.0.0.0 9377os.com
 :: 9377os.com
+0.0.0.0 93aihbjs7bv4.com
+:: 93aihbjs7bv4.com
 0.0.0.0 93c8c9a28e1db445.com
 :: 93c8c9a28e1db445.com
 0.0.0.0 93ta.cn
@@ -13826,8 +13820,6 @@ ff02::3 ip6-allhosts
 :: bc.qunar.com
 0.0.0.0 bc0a.com
 :: bc0a.com
-0.0.0.0 bc99433dd8.com
-:: bc99433dd8.com
 0.0.0.0 bcash4you.com
 :: bcash4you.com
 0.0.0.0 bcd.esprit.de
@@ -17534,8 +17526,6 @@ ff02::3 ip6-allhosts
 :: cd87c85eb2890d048d2.com
 0.0.0.0 cdaz.icu
 :: cdaz.icu
-0.0.0.0 cdc439411397.com
-:: cdc439411397.com
 0.0.0.0 cdcwn.xyz
 :: cdcwn.xyz
 0.0.0.0 cdcz.xyz
@@ -32100,6 +32090,8 @@ ff02::3 ip6-allhosts
 :: g4.iqilu.com
 0.0.0.0 g4159771035.co
 :: g4159771035.co
+0.0.0.0 g4357855370.co
+:: g4357855370.co
 0.0.0.0 g4p.redtram.com
 :: g4p.redtram.com
 0.0.0.0 g4rre.xyz
@@ -47906,6 +47898,10 @@ ff02::3 ip6-allhosts
 :: miner-16.team.nimiq.agency
 0.0.0.0 miner-2.team.nimiq.agency
 :: miner-2.team.nimiq.agency
+0.0.0.0 miner-5.team.nimiq.agency
+:: miner-5.team.nimiq.agency
+0.0.0.0 miner-6.team.nimiq.agency
+:: miner-6.team.nimiq.agency
 0.0.0.0 miner-deu-1.inf.nimiq.network
 :: miner-deu-1.inf.nimiq.network
 0.0.0.0 miner-deu-2.inf.nimiq.network
@@ -48978,6 +48974,8 @@ ff02::3 ip6-allhosts
 :: moritava.com
 0.0.0.0 mormont.gamer-network.net
 :: mormont.gamer-network.net
+0.0.0.0 morningsophisticatedcenter.com
+:: morningsophisticatedcenter.com
 0.0.0.0 mortantameron.club
 :: mortantameron.club
 0.0.0.0 mortcollect.com
@@ -64880,6 +64878,8 @@ ff02::3 ip6-allhosts
 :: shiptoud.com
 0.0.0.0 shitiphu.com
 :: shitiphu.com
+0.0.0.0 shiyaokejishanghai.com
+:: shiyaokejishanghai.com
 0.0.0.0 shizen-no-megumi.com
 :: shizen-no-megumi.com
 0.0.0.0 shj.tjawst.com
@@ -68932,6 +68932,8 @@ ff02::3 ip6-allhosts
 :: su.bdimg.com
 0.0.0.0 su.bdstatic.com
 :: su.bdstatic.com
+0.0.0.0 suangtianw.com
+:: suangtianw.com
 0.0.0.0 sub.alisinak.com
 :: sub.alisinak.com
 0.0.0.0 sub.avgle.com
@@ -69040,6 +69042,8 @@ ff02::3 ip6-allhosts
 :: suite6ixty6ix.com
 0.0.0.0 suitesmart.com
 :: suitesmart.com
+0.0.0.0 suitmatters.cn
+:: suitmatters.cn
 0.0.0.0 sulkybutter.com
 :: sulkybutter.com
 0.0.0.0 sultiyearsena.site
@@ -73104,6 +73108,8 @@ ff02::3 ip6-allhosts
 :: tracker.stileo.it
 0.0.0.0 tracker.tgbus.com
 :: tracker.tgbus.com
+0.0.0.0 tracker.thinkermail.com
+:: tracker.thinkermail.com
 0.0.0.0 tracker.thinkindot.com
 :: tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
@@ -75930,6 +75936,8 @@ ff02::3 ip6-allhosts
 :: usocial.pro
 0.0.0.0 usp1.baidu.com
 :: usp1.baidu.com
+0.0.0.0 usr.trava.io
+:: usr.trava.io
 0.0.0.0 uss-pid.lenovomm.com
 :: uss-pid.lenovomm.com
 0.0.0.0 uss1star.com
@@ -77602,6 +77610,8 @@ ff02::3 ip6-allhosts
 :: vongomedia.ru
 0.0.0.0 voob.ru
 :: voob.ru
+0.0.0.0 voocl.com
+:: voocl.com
 0.0.0.0 voodoo-ads.io
 :: voodoo-ads.io
 0.0.0.0 voodoo.com
@@ -78878,6 +78888,8 @@ ff02::3 ip6-allhosts
 :: weixin.renrenying.com
 0.0.0.0 weixinfb.cn
 :: weixinfb.cn
+0.0.0.0 weizhenwx.com
+:: weizhenwx.com
 0.0.0.0 weizjzg.com
 :: weizjzg.com
 0.0.0.0 wejibk.com.cn
