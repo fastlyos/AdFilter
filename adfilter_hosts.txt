@@ -1,11 +1,11 @@
-# Checksum: MTYwMjUwNDMzMQo=
+# Checksum: MTYwMjUxNTA2Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201012-4
-# TimeUpdated: 2020-10-12T12:05:31+00:00
+# Version: 1.6.5-20201012-5
+# TimeUpdated: 2020-10-12T15:04:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43360
+# Total: 43368
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2704,6 +2704,8 @@ ff02::3 ip6-allhosts
 :: 7891655.cn
 0.0.0.0 78986ba32c.com
 :: 78986ba32c.com
+0.0.0.0 789a42c1a33aa5.com
+:: 789a42c1a33aa5.com
 0.0.0.0 78tdd75.com
 :: 78tdd75.com
 0.0.0.0 7987809d62.com
@@ -17172,6 +17174,8 @@ ff02::3 ip6-allhosts
 :: caodaye.com
 0.0.0.0 caolvch.com
 :: caolvch.com
+0.0.0.0 caomindianying.com
+:: caomindianying.com
 0.0.0.0 cap-cap-pop.com
 :: cap-cap-pop.com
 0.0.0.0 cap.touclick.com
@@ -23198,6 +23202,8 @@ ff02::3 ip6-allhosts
 :: d3f.houyi.baofeng.net
 0.0.0.0 d3f4u3khr0ycep.cloudfront.net
 :: d3f4u3khr0ycep.cloudfront.net
+0.0.0.0 d3ff17fd7ab86.com
+:: d3ff17fd7ab86.com
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 :: d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3g.qq.com
@@ -34370,6 +34376,8 @@ ff02::3 ip6-allhosts
 :: gudangbanner.com
 0.0.0.0 guduopu.com
 :: guduopu.com
+0.0.0.0 guemechan.top
+:: guemechan.top
 0.0.0.0 gueselambe.club
 :: gueselambe.club
 0.0.0.0 guess.tf.360.cn
@@ -42870,8 +42878,6 @@ ff02::3 ip6-allhosts
 :: leoneaningtoldre.pro
 0.0.0.0 leontius-eli.com
 :: leontius-eli.com
-0.0.0.0 leoyard.com
-:: leoyard.com
 0.0.0.0 lep114.cn
 :: lep114.cn
 0.0.0.0 lepinsar.com
@@ -51894,6 +51900,8 @@ ff02::3 ip6-allhosts
 :: nvxzjmowusg.com
 0.0.0.0 nw5.jkjjkj.top
 :: nw5.jkjjkj.top
+0.0.0.0 nwa88nx9uxzh.com
+:: nwa88nx9uxzh.com
 0.0.0.0 nwave.de
 :: nwave.de
 0.0.0.0 nwffx.xyz
@@ -58762,6 +58770,8 @@ ff02::3 ip6-allhosts
 :: qjueu.com
 0.0.0.0 qkkjd.com
 :: qkkjd.com
+0.0.0.0 qkptx.com
+:: qkptx.com
 0.0.0.0 qkrcmiwa289z.com
 :: qkrcmiwa289z.com
 0.0.0.0 qkzwxhcleqj.com
@@ -64116,6 +64126,8 @@ ff02::3 ip6-allhosts
 :: seldos.com.tr
 0.0.0.0 select.brealtime.com
 :: select.brealtime.com
+0.0.0.0 selectad.com
+:: selectad.com
 0.0.0.0 selectionship.com
 :: selectionship.com
 0.0.0.0 selectionsugar.com
@@ -68024,6 +68036,8 @@ ff02::3 ip6-allhosts
 :: statis.yunfancdn.com
 0.0.0.0 statis1.mama.cn
 :: statis1.mama.cn
+0.0.0.0 statistic.date
+:: statistic.date
 0.0.0.0 statistic.gamona.de
 :: statistic.gamona.de
 0.0.0.0 statistic.imgpay.ru
@@ -86036,6 +86050,8 @@ ff02::3 ip6-allhosts
 :: zfkmw.com
 0.0.0.0 zfnvguzg.com
 :: zfnvguzg.com
+0.0.0.0 zfoffp.com
+:: zfoffp.com
 0.0.0.0 zfood029.com
 :: zfood029.com
 0.0.0.0 zfsfkp.com
