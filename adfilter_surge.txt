@@ -1,11 +1,11 @@
-# Checksum: MTYwMjUxNTA2Mgo=
+# Checksum: MTYwMjUyNTg3NQo=
 # Title: Zhijie's Ad Filter for Surge (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201012-5
-# TimeUpdated: 2020-10-12T15:04:22+00:00
+# Version: 1.6.5-20201012-6
+# TimeUpdated: 2020-10-12T18:04:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43368
+# Total: 43385
 DOMAIN,0.r.msn.com
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,001.0x1f4b0.com
@@ -862,6 +862,7 @@ DOMAIN,4242lll.com
 DOMAIN,4242uuu.com
 DOMAIN,425555a.com
 DOMAIN,426g.com
+DOMAIN,42791bdc2481f6c.com
 DOMAIN,427tbezplqv5.com
 DOMAIN,429999d.com
 DOMAIN,42a5d530ec972d8994.com
@@ -1021,7 +1022,6 @@ DOMAIN,52kmh.com
 DOMAIN,52kmk.com
 DOMAIN,52lubo.cn
 DOMAIN,52m.xde6.net
-DOMAIN,52shouyou.com.cn
 DOMAIN,52yugan.com
 DOMAIN,52zfl.com
 DOMAIN,532xcxypmpnp.com
@@ -1082,7 +1082,6 @@ DOMAIN,5aac971e.qivsod.com
 DOMAIN,5advertise.com
 DOMAIN,5b5a93686577c13.com
 DOMAIN,5baf1288cf.dl8.me
-DOMAIN,5bir9vuqcq.com
 DOMAIN,5c.com.cn
 DOMAIN,5c43cbc0f41.com
 DOMAIN,5c577fc74618431b.com
@@ -1157,6 +1156,7 @@ DOMAIN,625c9289e60793.com
 DOMAIN,626uc.com
 DOMAIN,628e7ae68a3357896.com
 DOMAIN,62b70ac32d4614b.com
+DOMAIN,62wm.com
 DOMAIN,631.dlads.cn
 DOMAIN,63fut3uw0b.xyz
 DOMAIN,63kc.com
@@ -2576,6 +2576,7 @@ DOMAIN,ad.outsidehub.com
 DOMAIN,ad.outstream.today
 DOMAIN,ad.oyy.ru
 DOMAIN,ad.pandora.tv
+DOMAIN,ad.particlenews.com
 DOMAIN,ad.pchome.com.tw
 DOMAIN,ad.period-calendar.com
 DOMAIN,ad.pickple.net
@@ -5070,6 +5071,7 @@ DOMAIN,analytic.press
 DOMAIN,analytic.xingcloud.com
 DOMAIN,analytic20.detik.com
 DOMAIN,analyticcdn.globalmailer.com
+DOMAIN,analytics-api.a-f.io
 DOMAIN,analytics-api.smzdm.com
 DOMAIN,analytics-cms.whitebeard.me
 DOMAIN,analytics-consent-manager.azureedge.net
@@ -5086,6 +5088,7 @@ DOMAIN,analytics-udg.netdna-ssl.com
 DOMAIN,analytics-union.xunlei.com
 DOMAIN,analytics.163.com
 DOMAIN,analytics.30m.com
+DOMAIN,analytics.a-f.io
 DOMAIN,analytics.aasaam.com
 DOMAIN,analytics.ad.daum.net
 DOMAIN,analytics.adfreetime.com
@@ -8406,6 +8409,7 @@ DOMAIN,c26e9ccd4e063b.com
 DOMAIN,c2s.startappnetwork.com
 DOMAIN,c3.gostats.cn
 DOMAIN,c3.moogos.com
+DOMAIN,c3h5cae95p.ru
 DOMAIN,c3metrics.com
 DOMAIN,c3pool.com
 DOMAIN,c3t-system-err.club
@@ -11599,7 +11603,6 @@ DOMAIN,d3em0905j9y6sm.cloudfront.net
 DOMAIN,d3eyd961wi10bl.cloudfront.net
 DOMAIN,d3f.houyi.baofeng.net
 DOMAIN,d3f4u3khr0ycep.cloudfront.net
-DOMAIN,d3ff17fd7ab86.com
 DOMAIN,d3fqhkmofpujs3.cloudfront.net
 DOMAIN,d3g.qq.com
 DOMAIN,d3g5ovfngjw9bw.cloudfront.net
@@ -13004,6 +13007,7 @@ DOMAIN,dpallyihgtgu.com
 DOMAIN,dpb3g4kqr8xz.cloudfront.net
 DOMAIN,dpbfm6h358sh7.cloudfront.net
 DOMAIN,dpd9yiocsyy6p.cloudfront.net
+DOMAIN,dpjszs.com
 DOMAIN,dpm.bluray-disc.de
 DOMAIN,dpm.demdex.net
 DOMAIN,dpmsrv.com
@@ -13039,6 +13043,7 @@ DOMAIN,dramaticcondition.com
 DOMAIN,dratio.com
 DOMAIN,draulinehandon.info
 DOMAIN,drawservant.com
+DOMAIN,draydaisbitch.com
 DOMAIN,drbwugautcgh.com
 DOMAIN,drd.hauchi.com.tw
 DOMAIN,drda5yf9kgz5p.cloudfront.net
@@ -15419,6 +15424,7 @@ DOMAIN,flightsy.bid
 DOMAIN,flightsy.win
 DOMAIN,flimsycircle.com
 DOMAIN,flimsythought.com
+DOMAIN,flinter.pro
 DOMAIN,flipflap.pro
 DOMAIN,flipy6sudy.com
 DOMAIN,flirt4e.com
@@ -16485,6 +16491,7 @@ DOMAIN,gettipsz.info
 DOMAIN,gettopup.com
 DOMAIN,getui.com
 DOMAIN,getui.net
+DOMAIN,geuniveruls.top
 DOMAIN,gewuwen.com
 DOMAIN,gexampletebaptin.info
 DOMAIN,gexlwn.com
@@ -16688,6 +16695,7 @@ DOMAIN,global-surveys.co
 DOMAIN,global.appnext.com
 DOMAIN,global.mgr.consensu.org
 DOMAIN,global.msads.net
+DOMAIN,global.px.quantserve.com
 DOMAIN,global.ymtracking.com
 DOMAIN,globaladmedia.com
 DOMAIN,globaladmedia.net
@@ -22004,9 +22012,11 @@ DOMAIN,log.orchidscape.net
 DOMAIN,log.outbrain.com
 DOMAIN,log.outbrainimg.com
 DOMAIN,log.p2p.hunantv.com
+DOMAIN,log.particlenews.com
 DOMAIN,log.pinterest.com
 DOMAIN,log.popin.cc
 DOMAIN,log.prezi.com
+DOMAIN,log.propermessage.io
 DOMAIN,log.qchannel03.cn
 DOMAIN,log.rc.hunantv.com
 DOMAIN,log.reformal.ru
@@ -22060,6 +22070,7 @@ DOMAIN,log2.molitv.cn
 DOMAIN,log2.mtime.cn
 DOMAIN,log2.musical.ly
 DOMAIN,log2.ru
+DOMAIN,log2.spotify.com
 DOMAIN,log4x.nixcdn.com
 DOMAIN,logaholic.com
 DOMAIN,logbor.com
@@ -23952,6 +23963,7 @@ DOMAIN,minekitten.io
 DOMAIN,minemytraffic.com
 DOMAIN,minently.com
 DOMAIN,miner-1.team.nimiq.agency
+DOMAIN,miner-10.team.nimiq.agency
 DOMAIN,miner-11.team.nimiq.agency
 DOMAIN,miner-13.team.nimiq.agency
 DOMAIN,miner-16.team.nimiq.agency
@@ -24773,6 +24785,7 @@ DOMAIN,munitedoploko.site
 DOMAIN,munroadaz.site
 DOMAIN,mupads.de
 DOMAIN,mupteekr.net
+DOMAIN,muqsad.xyz
 DOMAIN,muqson0kgr.com
 DOMAIN,murcs.org
 DOMAIN,murdened.club
@@ -36051,6 +36064,7 @@ DOMAIN,tokenads.com
 DOMAIN,tolethembehisy.club
 DOMAIN,tollfreeforwarding.com
 DOMAIN,tom.allyes.com
+DOMAIN,tombspyelates.com
 DOMAIN,tomekas.com
 DOMAIN,tommyperseverance.com
 DOMAIN,tonefuse.com
@@ -38723,6 +38737,7 @@ DOMAIN,vk77lnizckm6.com
 DOMAIN,vkaofq64zz.com
 DOMAIN,vkcdnservice.appspot.com
 DOMAIN,vkcdnservice.com
+DOMAIN,vkekyx.com
 DOMAIN,vkkpv.com
 DOMAIN,vklike.com
 DOMAIN,vknrfwwxhxaxupqp.pro
@@ -39621,6 +39636,7 @@ DOMAIN,widget.convertiser.com
 DOMAIN,widget.criteo.com
 DOMAIN,widget.crowdignite.com
 DOMAIN,widget.ezprice.com.tw
+DOMAIN,widget.feedot-lawyer.ru
 DOMAIN,widget.headlines.pw
 DOMAIN,widget.jobberman.com
 DOMAIN,widget.market-place.su
@@ -43275,6 +43291,7 @@ DOMAIN,zt2088.com
 DOMAIN,ztcadx.com
 DOMAIN,ztd.szkdst.com
 DOMAIN,ztdsp.com
+DOMAIN,zteikg.com
 DOMAIN,ztevents.zaloapp.com
 DOMAIN,ztgame.com
 DOMAIN,ztidu.com

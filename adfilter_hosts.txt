@@ -1,11 +1,11 @@
-# Checksum: MTYwMjUxNTA2Mgo=
+# Checksum: MTYwMjUyNTg3NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201012-5
-# TimeUpdated: 2020-10-12T15:04:22+00:00
+# Version: 1.6.5-20201012-6
+# TimeUpdated: 2020-10-12T18:04:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43368
+# Total: 43385
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1728,6 +1728,8 @@ ff02::3 ip6-allhosts
 :: 425555a.com
 0.0.0.0 426g.com
 :: 426g.com
+0.0.0.0 42791bdc2481f6c.com
+:: 42791bdc2481f6c.com
 0.0.0.0 427tbezplqv5.com
 :: 427tbezplqv5.com
 0.0.0.0 429999d.com
@@ -2046,8 +2048,6 @@ ff02::3 ip6-allhosts
 :: 52lubo.cn
 0.0.0.0 52m.xde6.net
 :: 52m.xde6.net
-0.0.0.0 52shouyou.com.cn
-:: 52shouyou.com.cn
 0.0.0.0 52yugan.com
 :: 52yugan.com
 0.0.0.0 52zfl.com
@@ -2168,8 +2168,6 @@ ff02::3 ip6-allhosts
 :: 5b5a93686577c13.com
 0.0.0.0 5baf1288cf.dl8.me
 :: 5baf1288cf.dl8.me
-0.0.0.0 5bir9vuqcq.com
-:: 5bir9vuqcq.com
 0.0.0.0 5c.com.cn
 :: 5c.com.cn
 0.0.0.0 5c43cbc0f41.com
@@ -2318,6 +2316,8 @@ ff02::3 ip6-allhosts
 :: 628e7ae68a3357896.com
 0.0.0.0 62b70ac32d4614b.com
 :: 62b70ac32d4614b.com
+0.0.0.0 62wm.com
+:: 62wm.com
 0.0.0.0 631.dlads.cn
 :: 631.dlads.cn
 0.0.0.0 63fut3uw0b.xyz
@@ -5156,6 +5156,8 @@ ff02::3 ip6-allhosts
 :: ad.oyy.ru
 0.0.0.0 ad.pandora.tv
 :: ad.pandora.tv
+0.0.0.0 ad.particlenews.com
+:: ad.particlenews.com
 0.0.0.0 ad.pchome.com.tw
 :: ad.pchome.com.tw
 0.0.0.0 ad.period-calendar.com
@@ -10144,6 +10146,8 @@ ff02::3 ip6-allhosts
 :: analytic20.detik.com
 0.0.0.0 analyticcdn.globalmailer.com
 :: analyticcdn.globalmailer.com
+0.0.0.0 analytics-api.a-f.io
+:: analytics-api.a-f.io
 0.0.0.0 analytics-api.smzdm.com
 :: analytics-api.smzdm.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -10176,6 +10180,8 @@ ff02::3 ip6-allhosts
 :: analytics.163.com
 0.0.0.0 analytics.30m.com
 :: analytics.30m.com
+0.0.0.0 analytics.a-f.io
+:: analytics.a-f.io
 0.0.0.0 analytics.aasaam.com
 :: analytics.aasaam.com
 0.0.0.0 analytics.ad.daum.net
@@ -16816,6 +16822,8 @@ ff02::3 ip6-allhosts
 :: c3.gostats.cn
 0.0.0.0 c3.moogos.com
 :: c3.moogos.com
+0.0.0.0 c3h5cae95p.ru
+:: c3h5cae95p.ru
 0.0.0.0 c3metrics.com
 :: c3metrics.com
 0.0.0.0 c3pool.com
@@ -23202,8 +23210,6 @@ ff02::3 ip6-allhosts
 :: d3f.houyi.baofeng.net
 0.0.0.0 d3f4u3khr0ycep.cloudfront.net
 :: d3f4u3khr0ycep.cloudfront.net
-0.0.0.0 d3ff17fd7ab86.com
-:: d3ff17fd7ab86.com
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 :: d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3g.qq.com
@@ -26012,6 +26018,8 @@ ff02::3 ip6-allhosts
 :: dpbfm6h358sh7.cloudfront.net
 0.0.0.0 dpd9yiocsyy6p.cloudfront.net
 :: dpd9yiocsyy6p.cloudfront.net
+0.0.0.0 dpjszs.com
+:: dpjszs.com
 0.0.0.0 dpm.bluray-disc.de
 :: dpm.bluray-disc.de
 0.0.0.0 dpm.demdex.net
@@ -26082,6 +26090,8 @@ ff02::3 ip6-allhosts
 :: draulinehandon.info
 0.0.0.0 drawservant.com
 :: drawservant.com
+0.0.0.0 draydaisbitch.com
+:: draydaisbitch.com
 0.0.0.0 drbwugautcgh.com
 :: drbwugautcgh.com
 0.0.0.0 drd.hauchi.com.tw
@@ -30842,6 +30852,8 @@ ff02::3 ip6-allhosts
 :: flimsycircle.com
 0.0.0.0 flimsythought.com
 :: flimsythought.com
+0.0.0.0 flinter.pro
+:: flinter.pro
 0.0.0.0 flipflap.pro
 :: flipflap.pro
 0.0.0.0 flipy6sudy.com
@@ -32974,6 +32986,8 @@ ff02::3 ip6-allhosts
 :: getui.com
 0.0.0.0 getui.net
 :: getui.net
+0.0.0.0 geuniveruls.top
+:: geuniveruls.top
 0.0.0.0 gewuwen.com
 :: gewuwen.com
 0.0.0.0 gexampletebaptin.info
@@ -33380,6 +33394,8 @@ ff02::3 ip6-allhosts
 :: global.mgr.consensu.org
 0.0.0.0 global.msads.net
 :: global.msads.net
+0.0.0.0 global.px.quantserve.com
+:: global.px.quantserve.com
 0.0.0.0 global.ymtracking.com
 :: global.ymtracking.com
 0.0.0.0 globaladmedia.com
@@ -44012,12 +44028,16 @@ ff02::3 ip6-allhosts
 :: log.outbrainimg.com
 0.0.0.0 log.p2p.hunantv.com
 :: log.p2p.hunantv.com
+0.0.0.0 log.particlenews.com
+:: log.particlenews.com
 0.0.0.0 log.pinterest.com
 :: log.pinterest.com
 0.0.0.0 log.popin.cc
 :: log.popin.cc
 0.0.0.0 log.prezi.com
 :: log.prezi.com
+0.0.0.0 log.propermessage.io
+:: log.propermessage.io
 0.0.0.0 log.qchannel03.cn
 :: log.qchannel03.cn
 0.0.0.0 log.rc.hunantv.com
@@ -44124,6 +44144,8 @@ ff02::3 ip6-allhosts
 :: log2.musical.ly
 0.0.0.0 log2.ru
 :: log2.ru
+0.0.0.0 log2.spotify.com
+:: log2.spotify.com
 0.0.0.0 log4x.nixcdn.com
 :: log4x.nixcdn.com
 0.0.0.0 logaholic.com
@@ -47908,6 +47930,8 @@ ff02::3 ip6-allhosts
 :: minently.com
 0.0.0.0 miner-1.team.nimiq.agency
 :: miner-1.team.nimiq.agency
+0.0.0.0 miner-10.team.nimiq.agency
+:: miner-10.team.nimiq.agency
 0.0.0.0 miner-11.team.nimiq.agency
 :: miner-11.team.nimiq.agency
 0.0.0.0 miner-13.team.nimiq.agency
@@ -49550,6 +49574,8 @@ ff02::3 ip6-allhosts
 :: mupads.de
 0.0.0.0 mupteekr.net
 :: mupteekr.net
+0.0.0.0 muqsad.xyz
+:: muqsad.xyz
 0.0.0.0 muqson0kgr.com
 :: muqson0kgr.com
 0.0.0.0 murcs.org
@@ -72106,6 +72132,8 @@ ff02::3 ip6-allhosts
 :: tollfreeforwarding.com
 0.0.0.0 tom.allyes.com
 :: tom.allyes.com
+0.0.0.0 tombspyelates.com
+:: tombspyelates.com
 0.0.0.0 tomekas.com
 :: tomekas.com
 0.0.0.0 tommyperseverance.com
@@ -77450,6 +77478,8 @@ ff02::3 ip6-allhosts
 :: vkcdnservice.appspot.com
 0.0.0.0 vkcdnservice.com
 :: vkcdnservice.com
+0.0.0.0 vkekyx.com
+:: vkekyx.com
 0.0.0.0 vkkpv.com
 :: vkkpv.com
 0.0.0.0 vklike.com
@@ -79246,6 +79276,8 @@ ff02::3 ip6-allhosts
 :: widget.crowdignite.com
 0.0.0.0 widget.ezprice.com.tw
 :: widget.ezprice.com.tw
+0.0.0.0 widget.feedot-lawyer.ru
+:: widget.feedot-lawyer.ru
 0.0.0.0 widget.headlines.pw
 :: widget.headlines.pw
 0.0.0.0 widget.jobberman.com
@@ -86554,6 +86586,8 @@ ff02::3 ip6-allhosts
 :: ztd.szkdst.com
 0.0.0.0 ztdsp.com
 :: ztdsp.com
+0.0.0.0 zteikg.com
+:: zteikg.com
 0.0.0.0 ztevents.zaloapp.com
 :: ztevents.zaloapp.com
 0.0.0.0 ztgame.com
