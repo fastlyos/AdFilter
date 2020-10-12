@@ -1,11 +1,11 @@
-# Checksum: MTYwMjQ5MzQ1NAo=
+# Checksum: MTYwMjUwNDMzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201012-3
-# TimeUpdated: 2020-10-12T09:04:14+00:00
+# Version: 1.6.5-20201012-4
+# TimeUpdated: 2020-10-12T12:05:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43354
+# Total: 43360
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -642,8 +642,6 @@ ff02::3 ip6-allhosts
 :: 13p76nnir.de
 0.0.0.0 13vm73vbmp.com
 :: 13vm73vbmp.com
-0.0.0.0 13wn.com
-:: 13wn.com
 0.0.0.0 13wnjs.com
 :: 13wnjs.com
 0.0.0.0 13yg.cn
@@ -11760,6 +11758,8 @@ ff02::3 ip6-allhosts
 :: aqjdigkqvmakz.com
 0.0.0.0 aqknmbh198dn.com
 :: aqknmbh198dn.com
+0.0.0.0 aqpjyujihpbggj.com
+:: aqpjyujihpbggj.com
 0.0.0.0 aqtracker.com
 :: aqtracker.com
 0.0.0.0 aquaticalarm.com
@@ -11940,6 +11940,8 @@ ff02::3 ip6-allhosts
 :: arpxs.com
 0.0.0.0 arragostripl.fun
 :: arragostripl.fun
+0.0.0.0 arrariedcra.club
+:: arrariedcra.club
 0.0.0.0 arrlnk.com
 :: arrlnk.com
 0.0.0.0 arrowkeeperdigest.com
@@ -15990,6 +15992,8 @@ ff02::3 ip6-allhosts
 :: bruisebaseball.com
 0.0.0.0 brushdaughter.com
 :: brushdaughter.com
+0.0.0.0 bruvwmrxudd.com
+:: bruvwmrxudd.com
 0.0.0.0 brznetwork.com
 :: brznetwork.com
 0.0.0.0 bs.commontools.net
@@ -18284,8 +18288,6 @@ ff02::3 ip6-allhosts
 :: changechickens.com
 0.0.0.0 changement.pro
 :: changement.pro
-0.0.0.0 changmaoxinjzo.com
-:: changmaoxinjzo.com
 0.0.0.0 chango.com
 :: chango.com
 0.0.0.0 changyan.sohu.com
@@ -21544,6 +21546,8 @@ ff02::3 ip6-allhosts
 :: cpxinteractive.com
 0.0.0.0 cpxl.golem.de
 :: cpxl.golem.de
+0.0.0.0 cqbaitong.cn
+:: cqbaitong.cn
 0.0.0.0 cqfangduan.com
 :: cqfangduan.com
 0.0.0.0 cqftonline.com
@@ -28250,6 +28254,8 @@ ff02::3 ip6-allhosts
 :: engine64.com
 0.0.0.0 engineseeker.com
 :: engineseeker.com
+0.0.0.0 engingalon.top
+:: engingalon.top
 0.0.0.0 engingsecondu.info
 :: engingsecondu.info
 0.0.0.0 englingedrxa.club
@@ -32472,6 +32478,8 @@ ff02::3 ip6-allhosts
 :: gbrrrxbodqdlq.com
 0.0.0.0 gbs.gamingmedia.ru
 :: gbs.gamingmedia.ru
+0.0.0.0 gbtoxwxmahhctv.com
+:: gbtoxwxmahhctv.com
 0.0.0.0 gbucket.ch
 :: gbucket.ch
 0.0.0.0 gbwnpchivh.com
@@ -42862,6 +42870,8 @@ ff02::3 ip6-allhosts
 :: leoneaningtoldre.pro
 0.0.0.0 leontius-eli.com
 :: leontius-eli.com
+0.0.0.0 leoyard.com
+:: leoyard.com
 0.0.0.0 lep114.cn
 :: lep114.cn
 0.0.0.0 lepinsar.com
@@ -44550,6 +44560,8 @@ ff02::3 ip6-allhosts
 :: lryfmcok.com
 0.0.0.0 ls.l.qq.com
 :: ls.l.qq.com
+0.0.0.0 ls.namemek.com
+:: ls.namemek.com
 0.0.0.0 ls.srvcs.tumblr.com
 :: ls.srvcs.tumblr.com
 0.0.0.0 ls9x.pk965.com
@@ -63448,6 +63460,8 @@ ff02::3 ip6-allhosts
 :: sd5doozry8.com
 0.0.0.0 sda.tamdiem247.com
 :: sda.tamdiem247.com
+0.0.0.0 sdaaxz.xyz
+:: sdaaxz.xyz
 0.0.0.0 sdac.lenovomm.com
 :: sdac.lenovomm.com
 0.0.0.0 sdadxz.xyz
@@ -64878,8 +64892,6 @@ ff02::3 ip6-allhosts
 :: shiptoud.com
 0.0.0.0 shitiphu.com
 :: shitiphu.com
-0.0.0.0 shiyaokejishanghai.com
-:: shiyaokejishanghai.com
 0.0.0.0 shizen-no-megumi.com
 :: shizen-no-megumi.com
 0.0.0.0 shj.tjawst.com
@@ -68932,8 +68944,6 @@ ff02::3 ip6-allhosts
 :: su.bdimg.com
 0.0.0.0 su.bdstatic.com
 :: su.bdstatic.com
-0.0.0.0 suangtianw.com
-:: suangtianw.com
 0.0.0.0 sub.alisinak.com
 :: sub.alisinak.com
 0.0.0.0 sub.avgle.com
@@ -72298,6 +72308,8 @@ ff02::3 ip6-allhosts
 :: topcto.ru
 0.0.0.0 topdepo.com
 :: topdepo.com
+0.0.0.0 topdisplaycontent.com
+:: topdisplaycontent.com
 0.0.0.0 topdisplaynetwork.com
 :: topdisplaynetwork.com
 0.0.0.0 topeuro.biz
@@ -74006,6 +74018,8 @@ ff02::3 ip6-allhosts
 :: trippealbirthda.info
 0.0.0.0 triptease.net
 :: triptease.net
+0.0.0.0 trireacteurs.xyz
+:: trireacteurs.xyz
 0.0.0.0 trk-cdpetl.emdlz.com.cn
 :: trk-cdpetl.emdlz.com.cn
 0.0.0.0 trk.10ru.pt
@@ -77610,8 +77624,6 @@ ff02::3 ip6-allhosts
 :: vongomedia.ru
 0.0.0.0 voob.ru
 :: voob.ru
-0.0.0.0 voocl.com
-:: voocl.com
 0.0.0.0 voodoo-ads.io
 :: voodoo-ads.io
 0.0.0.0 voodoo.com
@@ -78888,8 +78900,6 @@ ff02::3 ip6-allhosts
 :: weixin.renrenying.com
 0.0.0.0 weixinfb.cn
 :: weixinfb.cn
-0.0.0.0 weizhenwx.com
-:: weizhenwx.com
 0.0.0.0 weizjzg.com
 :: weizjzg.com
 0.0.0.0 wejibk.com.cn
@@ -83974,6 +83984,8 @@ ff02::3 ip6-allhosts
 :: xn--2qux23c9ziyrq.icu
 0.0.0.0 xn--2qux23c9ziyrq.ink
 :: xn--2qux23c9ziyrq.ink
+0.0.0.0 xn--2qux23c9ziyrq.plus
+:: xn--2qux23c9ziyrq.plus
 0.0.0.0 xn--2qux23c9ziyrq.ren
 :: xn--2qux23c9ziyrq.ren
 0.0.0.0 xn--2qux23c9ziyrq.site
