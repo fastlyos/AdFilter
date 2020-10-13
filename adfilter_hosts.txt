@@ -1,11 +1,11 @@
-# Checksum: MTYwMjU3OTg2OAo=
+# Checksum: MTYwMjU5MDcyNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201013-3
-# TimeUpdated: 2020-10-13T09:04:28+00:00
+# Version: 1.6.5-20201013-4
+# TimeUpdated: 2020-10-13T12:05:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43415
+# Total: 43419
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -126,6 +126,8 @@ ff02::3 ip6-allhosts
 :: 0512s.com
 0.0.0.0 0516bm.com
 :: 0516bm.com
+0.0.0.0 0531kt.com
+:: 0531kt.com
 0.0.0.0 0531mnk.net
 :: 0531mnk.net
 0.0.0.0 0532ci.com.cn
@@ -13996,6 +13998,8 @@ ff02::3 ip6-allhosts
 :: bd4travel.com
 0.0.0.0 bd888.qizuang.com
 :: bd888.qizuang.com
+0.0.0.0 bda1.ayule.net
+:: bda1.ayule.net
 0.0.0.0 bdad.gaotie.net
 :: bdad.gaotie.net
 0.0.0.0 bdapi.ads.oppomobile.com
@@ -18638,8 +18642,6 @@ ff02::3 ip6-allhosts
 :: chystechagre.pro
 0.0.0.0 ci-marketing.de
 :: ci-marketing.de
-0.0.0.0 ci-web.cn
-:: ci-web.cn
 0.0.0.0 cialundertain.fun
 :: cialundertain.fun
 0.0.0.0 cibleclick.com
@@ -18666,6 +18668,8 @@ ff02::3 ip6-allhosts
 :: cike666.com
 0.0.0.0 ciksolre.net
 :: ciksolre.net
+0.0.0.0 cilcountee.top
+:: cilcountee.top
 0.0.0.0 cilidaquan.pw
 :: cilidaquan.pw
 0.0.0.0 cimoghuk.net
@@ -29928,6 +29932,8 @@ ff02::3 ip6-allhosts
 :: fairyceiling.com
 0.0.0.0 faithknotpositive.com
 :: faithknotpositive.com
+0.0.0.0 fakinggivewacko.com
+:: fakinggivewacko.com
 0.0.0.0 faktor.io
 :: faktor.io
 0.0.0.0 falcoware.com
@@ -41116,8 +41122,6 @@ ff02::3 ip6-allhosts
 :: jxkybegp.com
 0.0.0.0 jxlqgs.com
 :: jxlqgs.com
-0.0.0.0 jxmzyg.com
-:: jxmzyg.com
 0.0.0.0 jxqfu.cn
 :: jxqfu.cn
 0.0.0.0 jxwlkssb.com
@@ -47992,6 +47996,8 @@ ff02::3 ip6-allhosts
 :: miner-13.team.nimiq.agency
 0.0.0.0 miner-16.team.nimiq.agency
 :: miner-16.team.nimiq.agency
+0.0.0.0 miner-19.team.nimiq.agency
+:: miner-19.team.nimiq.agency
 0.0.0.0 miner-2.team.nimiq.agency
 :: miner-2.team.nimiq.agency
 0.0.0.0 miner-5.team.nimiq.agency
@@ -67274,6 +67280,8 @@ ff02::3 ip6-allhosts
 :: ssaa.cc
 0.0.0.0 ssac.suning.com
 :: ssac.suning.com
+0.0.0.0 ssaffortyya.club
+:: ssaffortyya.club
 0.0.0.0 ssalarmcrit.club
 :: ssalarmcrit.club
 0.0.0.0 ssb.ah499.com
