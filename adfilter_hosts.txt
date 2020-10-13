@@ -1,11 +1,11 @@
-# Checksum: MTYwMjYwMTQ3NQo=
+# Checksum: MTYwMjYxMjI4NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201013-5
-# TimeUpdated: 2020-10-13T15:04:35+00:00
+# Version: 1.6.5-20201013-6
+# TimeUpdated: 2020-10-13T18:04:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43434
+# Total: 43449
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -834,6 +834,8 @@ ff02::3 ip6-allhosts
 :: 1ccbt.com
 0.0.0.0 1ced38bdc42b883.com
 :: 1ced38bdc42b883.com
+0.0.0.0 1d1a.com
+:: 1d1a.com
 0.0.0.0 1dmp.io
 :: 1dmp.io
 0.0.0.0 1ea1sley.com
@@ -9506,8 +9508,6 @@ ff02::3 ip6-allhosts
 :: ajcryptominer.com
 0.0.0.0 ajdivotdelbloab24.jio.com
 :: ajdivotdelbloab24.jio.com
-0.0.0.0 ajhdf.com
-:: ajhdf.com
 0.0.0.0 ajiez.com
 :: ajiez.com
 0.0.0.0 ajillionmax.com
@@ -10898,6 +10898,8 @@ ff02::3 ip6-allhosts
 :: anyfiles.ru
 0.0.0.0 anymedia.lv
 :: anymedia.lv
+0.0.0.0 anymind360.com
+:: anymind360.com
 0.0.0.0 anyonemyth.com
 :: anyonemyth.com
 0.0.0.0 anyporn.com
@@ -16210,6 +16212,12 @@ ff02::3 ip6-allhosts
 :: bulletindualpartial.com
 0.0.0.0 bulletprofit.com
 :: bulletprofit.com
+0.0.0.0 bulletprofitadclick.com
+:: bulletprofitadclick.com
+0.0.0.0 bulletprofitads.com
+:: bulletprofitads.com
+0.0.0.0 bulletprofitpop.com
+:: bulletprofitpop.com
 0.0.0.0 bullhouse.network
 :: bullhouse.network
 0.0.0.0 bultenler.klscdn.com
@@ -27826,8 +27834,12 @@ ff02::3 ip6-allhosts
 :: egamiplatform.tv
 0.0.0.0 egesckx.cn
 :: egesckx.cn
+0.0.0.0 egfbynnwhco.com
+:: egfbynnwhco.com
 0.0.0.0 eggplant.cloud
 :: eggplant.cloud
+0.0.0.0 eginnisseco.top
+:: eginnisseco.top
 0.0.0.0 egjq.com.cn
 :: egjq.com.cn
 0.0.0.0 eglates.pro
@@ -39482,6 +39494,8 @@ ff02::3 ip6-allhosts
 :: iwhha.top
 0.0.0.0 iwinnersadvantage.com
 :: iwinnersadvantage.com
+0.0.0.0 iwkjldjp.com
+:: iwkjldjp.com
 0.0.0.0 iwlnzreu5vlx.com
 :: iwlnzreu5vlx.com
 0.0.0.0 iwqzrm.com
@@ -44154,6 +44168,8 @@ ff02::3 ip6-allhosts
 :: log.thanhnien.vn
 0.0.0.0 log.tienphong.vn
 :: log.tienphong.vn
+0.0.0.0 log.tinnhanhchungkhoan.vn
+:: log.tinnhanhchungkhoan.vn
 0.0.0.0 log.ttbc-hcm.gov.vn
 :: log.ttbc-hcm.gov.vn
 0.0.0.0 log.umsns.com
@@ -44354,6 +44370,8 @@ ff02::3 ip6-allhosts
 :: logs1.reatimes.vn
 0.0.0.0 logsbin.dantri.com.vn
 :: logsbin.dantri.com.vn
+0.0.0.0 logscafef.channelvn.net
+:: logscafef.channelvn.net
 0.0.0.0 logsink.zedge.net
 :: logsink.zedge.net
 0.0.0.0 logsoc.ru
@@ -50506,6 +50524,8 @@ ff02::3 ip6-allhosts
 :: negotiatetime.com
 0.0.0.0 nehersheteen.pro
 :: nehersheteen.pro
+0.0.0.0 nehodyshy.pro
+:: nehodyshy.pro
 0.0.0.0 neighborlywatch.com
 :: neighborlywatch.com
 0.0.0.0 neitherspreta.site
@@ -51838,6 +51858,8 @@ ff02::3 ip6-allhosts
 :: nspmotion.com
 0.0.0.0 nspot.co
 :: nspot.co
+0.0.0.0 nsrealbig.ru
+:: nsrealbig.ru
 0.0.0.0 nsserviewssti.club
 :: nsserviewssti.club
 0.0.0.0 nstat.headlines.pw
@@ -65342,6 +65364,8 @@ ff02::3 ip6-allhosts
 :: signaly.co
 0.0.0.0 signatu.com
 :: signatu.com
+0.0.0.0 signbullswaif.com
+:: signbullswaif.com
 0.0.0.0 signershipreg.club
 :: signershipreg.club
 0.0.0.0 significbystal.club
@@ -66390,6 +66414,8 @@ ff02::3 ip6-allhosts
 :: solocpm.com
 0.0.0.0 soltitate.site
 :: soltitate.site
+0.0.0.0 solty.biz
+:: solty.biz
 0.0.0.0 solutelynewt.site
 :: solutelynewt.site
 0.0.0.0 solution911.com
@@ -66988,6 +67014,8 @@ ff02::3 ip6-allhosts
 :: spitter.pauk.ru
 0.0.0.0 spittsprevi.club
 :: spittsprevi.club
+0.0.0.0 spixel.socy.es
+:: spixel.socy.es
 0.0.0.0 spkrth.scw.systems
 :: spkrth.scw.systems
 0.0.0.0 spl.ztvx8.com
@@ -69836,6 +69864,8 @@ ff02::3 ip6-allhosts
 :: syp.shcfpx.com
 0.0.0.0 syphilohmmaging.site
 :: syphilohmmaging.site
+0.0.0.0 syrupmagical.com
+:: syrupmagical.com
 0.0.0.0 sys.refocus.ru
 :: sys.refocus.ru
 0.0.0.0 sys.zhangyue.com
