@@ -1,11 +1,11 @@
-# Checksum: MTYwMjYxMjI4NAo=
+# Checksum: MTYwMjYyMzA2OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201013-6
-# TimeUpdated: 2020-10-13T18:04:44+00:00
+# Version: 1.6.5-20201013-7
+# TimeUpdated: 2020-10-13T21:04:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43449
+# Total: 43453
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -25408,6 +25408,8 @@ ff02::3 ip6-allhosts
 :: dlevisionexpr.site
 0.0.0.0 dlfvgndsdfsn.com
 :: dlfvgndsdfsn.com
+0.0.0.0 dlgriyjm.com
+:: dlgriyjm.com
 0.0.0.0 dlimg.lovfp.com
 :: dlimg.lovfp.com
 0.0.0.0 dlive.pagesjaunes.fr
@@ -37090,6 +37092,8 @@ ff02::3 ip6-allhosts
 :: ianisedover.info
 0.0.0.0 ianxalim.pw
 :: ianxalim.pw
+0.0.0.0 iapurlkukrwd.com
+:: iapurlkukrwd.com
 0.0.0.0 iarfina.pw
 :: iarfina.pw
 0.0.0.0 iarvyre.pw
@@ -39866,6 +39870,8 @@ ff02::3 ip6-allhosts
 :: jdflower.cn
 0.0.0.0 jdgsgl.com
 :: jdgsgl.com
+0.0.0.0 jdkic.com
+:: jdkic.com
 0.0.0.0 jdlhg.com
 :: jdlhg.com
 0.0.0.0 jdouzzxkyukv.com
@@ -48274,6 +48280,8 @@ ff02::3 ip6-allhosts
 :: mjavagames.ru
 0.0.0.0 mjbuuxt7l18r.com
 :: mjbuuxt7l18r.com
+0.0.0.0 mjcvdxnmp.com
+:: mjcvdxnmp.com
 0.0.0.0 mjita.cn
 :: mjita.cn
 0.0.0.0 mjkvwpabdce.com
@@ -51520,6 +51528,8 @@ ff02::3 ip6-allhosts
 :: nol.yahoo.com
 0.0.0.0 nomalleadzuaff.com
 :: nomalleadzuaff.com
+0.0.0.0 nomicidenti.top
+:: nomicidenti.top
 0.0.0.0 nompakru.click
 :: nompakru.click
 0.0.0.0 nonchalantnerve.com
@@ -51858,8 +51868,6 @@ ff02::3 ip6-allhosts
 :: nspmotion.com
 0.0.0.0 nspot.co
 :: nspot.co
-0.0.0.0 nsrealbig.ru
-:: nsrealbig.ru
 0.0.0.0 nsserviewssti.club
 :: nsserviewssti.club
 0.0.0.0 nstat.headlines.pw
