@@ -1,11 +1,11 @@
-# Checksum: MTYwMjY1NTUyMgo=
+# Checksum: MTYwMjY2NjI3Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201014-2
-# TimeUpdated: 2020-10-14T06:05:22+00:00
+# Version: 1.6.5-20201014-3
+# TimeUpdated: 2020-10-14T09:04:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43447
+# Total: 43449
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9044,8 +9044,6 @@ ff02::3 ip6-allhosts
 :: afftrack.pro
 0.0.0.0 afftrack001.com
 :: afftrack001.com
-0.0.0.0 afftracks.online
-:: afftracks.online
 0.0.0.0 afftrk.online
 :: afftrk.online
 0.0.0.0 affutdmedia.com
@@ -9708,6 +9706,8 @@ ff02::3 ip6-allhosts
 :: alisinak.com
 0.0.0.0 alissl.ucdl.pp.uc.cn
 :: alissl.ucdl.pp.uc.cn
+0.0.0.0 alistatic.cn
+:: alistatic.cn
 0.0.0.0 alitianxia168.com
 :: alitianxia168.com
 0.0.0.0 aliticalpassister.info
@@ -13826,6 +13826,8 @@ ff02::3 ip6-allhosts
 :: bbom2b434493.com
 0.0.0.0 bbp.brazzers.com
 :: bbp.brazzers.com
+0.0.0.0 bbs.search.nkwwnx.com
+:: bbs.search.nkwwnx.com
 0.0.0.0 bbsimages.zkxf119.com
 :: bbsimages.zkxf119.com
 0.0.0.0 bbthat.com
@@ -48038,6 +48040,8 @@ ff02::3 ip6-allhosts
 :: miner-19.team.nimiq.agency
 0.0.0.0 miner-2.team.nimiq.agency
 :: miner-2.team.nimiq.agency
+0.0.0.0 miner-3.team.nimiq.agency
+:: miner-3.team.nimiq.agency
 0.0.0.0 miner-5.team.nimiq.agency
 :: miner-5.team.nimiq.agency
 0.0.0.0 miner-6.team.nimiq.agency
