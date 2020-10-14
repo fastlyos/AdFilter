@@ -1,11 +1,11 @@
-# Checksum: MTYwMjY3NzEzNwo=
+# Checksum: MTYwMjY4Nzk3Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201014-4
-# TimeUpdated: 2020-10-14T12:05:37+00:00
+# Version: 1.6.5-20201014-5
+# TimeUpdated: 2020-10-14T15:06:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43457
+# Total: 43465
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1456,6 +1456,8 @@ ff02::3 ip6-allhosts
 :: 34pavouhj7.com
 0.0.0.0 350media.com
 :: 350media.com
+0.0.0.0 35clouds.com.cn
+:: 35clouds.com.cn
 0.0.0.0 35d59588f15966.com
 :: 35d59588f15966.com
 0.0.0.0 35jd5gql9m.monster
@@ -10008,8 +10010,6 @@ ff02::3 ip6-allhosts
 :: amhpbhyxfgvd.com
 0.0.0.0 amiderations.info
 :: amiderations.info
-0.0.0.0 amifgpprfrbsm.com
-:: amifgpprfrbsm.com
 0.0.0.0 amigo-biz.ru
 :: amigo-biz.ru
 0.0.0.0 amikay.com
@@ -13028,6 +13028,8 @@ ff02::3 ip6-allhosts
 :: b014381c95cb.com
 0.0.0.0 b02byun5xc3s.com
 :: b02byun5xc3s.com
+0.0.0.0 b07b29ceb5c.com
+:: b07b29ceb5c.com
 0.0.0.0 b07f916388fc6e06847.com
 :: b07f916388fc6e06847.com
 0.0.0.0 b0d3ea12ec1b93f7af9.com
@@ -13106,6 +13108,8 @@ ff02::3 ip6-allhosts
 :: b2bcontext.ru
 0.0.0.0 b2bvideo.ru
 :: b2bvideo.ru
+0.0.0.0 b2e92952aa6.com
+:: b2e92952aa6.com
 0.0.0.0 b2pk.com
 :: b2pk.com
 0.0.0.0 b3.jandan.net
@@ -24114,6 +24118,8 @@ ff02::3 ip6-allhosts
 :: dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 :: dc8xl0ndzn2cb.cloudfront.net
+0.0.0.0 dc9e1b75d8.com
+:: dc9e1b75d8.com
 0.0.0.0 dcad.watersoul.com
 :: dcad.watersoul.com
 0.0.0.0 dcads.sina.com.cn
@@ -24634,6 +24640,8 @@ ff02::3 ip6-allhosts
 :: desk.cmix.org
 0.0.0.0 deskdecision.com
 :: deskdecision.com
+0.0.0.0 deskminkgnu.com
+:: deskminkgnu.com
 0.0.0.0 despearingle.co
 :: despearingle.co
 0.0.0.0 despitalyt.club
@@ -26414,6 +26422,8 @@ ff02::3 ip6-allhosts
 :: du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 :: du8783wkf05yr.cloudfront.net
+0.0.0.0 du9zgx.cn
+:: du9zgx.cn
 0.0.0.0 dualmarket.info
 :: dualmarket.info
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
@@ -31136,6 +31146,8 @@ ff02::3 ip6-allhosts
 :: foocheeb.net
 0.0.0.0 food5.net
 :: food5.net
+0.0.0.0 foodaino.net
+:: foodaino.net
 0.0.0.0 foodieblogroll.com
 :: foodieblogroll.com
 0.0.0.0 fooheety.com
@@ -32668,6 +32680,8 @@ ff02::3 ip6-allhosts
 :: geebicom.net
 0.0.0.0 geede.info
 :: geede.info
+0.0.0.0 geedoovu.net
+:: geedoovu.net
 0.0.0.0 geek-nerd-server.firebaseapp.com
 :: geek-nerd-server.firebaseapp.com
 0.0.0.0 geepwnfly.club
@@ -33832,8 +33846,6 @@ ff02::3 ip6-allhosts
 :: goodcounter.org
 0.0.0.0 goodgz.cn
 :: goodgz.cn
-0.0.0.0 goodkee.cn
-:: goodkee.cn
 0.0.0.0 goodkind.ru
 :: goodkind.ru
 0.0.0.0 goodkino.biz
@@ -40938,8 +40950,6 @@ ff02::3 ip6-allhosts
 :: jsurvey.cn
 0.0.0.0 jsw.xz6d.com
 :: jsw.xz6d.com
-0.0.0.0 jswnuq.cn
-:: jswnuq.cn
 0.0.0.0 jsyjwj.com
 :: jsyjwj.com
 0.0.0.0 jsyzw132.com
@@ -43888,8 +43898,6 @@ ff02::3 ip6-allhosts
 :: loaphizu.com
 0.0.0.0 loaphour.com
 :: loaphour.com
-0.0.0.0 lobmuc.cn
-:: lobmuc.cn
 0.0.0.0 loboclick.com
 :: loboclick.com
 0.0.0.0 lobster.unionpeer.com
@@ -44648,6 +44656,8 @@ ff02::3 ip6-allhosts
 :: lpirha.com
 0.0.0.0 lpjxzs.com
 :: lpjxzs.com
+0.0.0.0 lplesacciner.top
+:: lplesacciner.top
 0.0.0.0 lplxiaohu.m.biqubao.com
 :: lplxiaohu.m.biqubao.com
 0.0.0.0 lpqhkj.cn
@@ -52282,6 +52292,8 @@ ff02::3 ip6-allhosts
 :: objectservers.com
 0.0.0.0 obladv.ru
 :: obladv.ru
+0.0.0.0 obliteratebedblue.com
+:: obliteratebedblue.com
 0.0.0.0 oblivionwatcherrebellious.com
 :: oblivionwatcherrebellious.com
 0.0.0.0 oblivki.biz
@@ -55398,6 +55410,8 @@ ff02::3 ip6-allhosts
 :: picsti.com
 0.0.0.0 picture.duokan.com
 :: picture.duokan.com
+0.0.0.0 picturesdeepertwinkle.com
+:: picturesdeepertwinkle.com
 0.0.0.0 picturesquefilms.net
 :: picturesquefilms.net
 0.0.0.0 pictureturn.com
@@ -57724,6 +57738,8 @@ ff02::3 ip6-allhosts
 :: pteefoak.com
 0.0.0.0 pteegloa.com
 :: pteegloa.com
+0.0.0.0 pteenoum.com
+:: pteenoum.com
 0.0.0.0 ptengine.cn
 :: ptengine.cn
 0.0.0.0 ptengine.com
