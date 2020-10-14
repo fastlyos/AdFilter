@@ -1,11 +1,11 @@
-# Checksum: MTYwMjYyMzA2OAo=
+# Checksum: MTYwMjYzNDE5MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201013-7
-# TimeUpdated: 2020-10-13T21:04:28+00:00
+# Version: 1.6.5-20201014-0
+# TimeUpdated: 2020-10-14T00:09:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43453
+# Total: 43457
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -8172,8 +8172,6 @@ ff02::3 ip6-allhosts
 :: adultsense.org
 0.0.0.0 adultsonly.pro
 :: adultsonly.pro
-0.0.0.0 adulttds.com
-:: adulttds.com
 0.0.0.0 adulttraffic.ru
 :: adulttraffic.ru
 0.0.0.0 adulttubetraffic.com
@@ -10084,8 +10082,6 @@ ff02::3 ip6-allhosts
 :: amunx.de
 0.0.0.0 amusementmorning.com
 :: amusementmorning.com
-0.0.0.0 amxdt.com
-:: amxdt.com
 0.0.0.0 amz.steamprices.com
 :: amz.steamprices.com
 0.0.0.0 amzbr.com
@@ -20142,8 +20138,6 @@ ff02::3 ip6-allhosts
 :: collector-axa.cloud.ca.com
 0.0.0.0 collector-cdn.github.com
 :: collector-cdn.github.com
-0.0.0.0 collector-medium.lightstep.com
-:: collector-medium.lightstep.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 :: collector-px0py5pczn.octopart.com
 0.0.0.0 collector.appconsent.io
@@ -36678,6 +36672,8 @@ ff02::3 ip6-allhosts
 :: huomob.com
 0.0.0.0 huovernment.club
 :: huovernment.club
+0.0.0.0 huoyiad2.cn
+:: huoyiad2.cn
 0.0.0.0 huoying666.com
 :: huoying666.com
 0.0.0.0 hupsouft.net
@@ -43726,6 +43722,8 @@ ff02::3 ip6-allhosts
 :: ljuer.com
 0.0.0.0 ljzsucmiodrro.com
 :: ljzsucmiodrro.com
+0.0.0.0 lk.4jzl.cn
+:: lk.4jzl.cn
 0.0.0.0 lk.brand.sogou.com
 :: lk.brand.sogou.com
 0.0.0.0 lk.remenxs.com
@@ -50852,6 +50850,8 @@ ff02::3 ip6-allhosts
 :: newrrb.bid
 0.0.0.0 news-code.com
 :: news-code.com
+0.0.0.0 news-headlines.co
+:: news-headlines.co
 0.0.0.0 news-img.51y5.net
 :: news-img.51y5.net
 0.0.0.0 news-jupiter.com
@@ -52976,6 +52976,8 @@ ff02::3 ip6-allhosts
 :: onsidentss.top
 0.0.0.0 onsnv.com
 :: onsnv.com
+0.0.0.0 onsoutsider.top
+:: onsoutsider.top
 0.0.0.0 onstunkyr.com
 :: onstunkyr.com
 0.0.0.0 onunughegmar.club
@@ -65676,6 +65678,8 @@ ff02::3 ip6-allhosts
 :: sjjazrfvzbkt.com
 0.0.0.0 sjljz.cn
 :: sjljz.cn
+0.0.0.0 sjmwkj.cn
+:: sjmwkj.cn
 0.0.0.0 sjosteras.com
 :: sjosteras.com
 0.0.0.0 sjsmartcontent.org
@@ -69484,6 +69488,8 @@ ff02::3 ip6-allhosts
 :: susfvjh.pro
 0.0.0.0 sushipool.com
 :: sushipool.com
+0.0.0.0 susistorsde.club
+:: susistorsde.club
 0.0.0.0 susm0q6jys.com
 :: susm0q6jys.com
 0.0.0.0 suspendseed.com
@@ -79090,6 +79096,8 @@ ff02::3 ip6-allhosts
 :: weiiii.com
 0.0.0.0 weiledi.com
 :: weiledi.com
+0.0.0.0 weimeicar.cn
+:: weimeicar.cn
 0.0.0.0 weimineiyixiu.cn
 :: weimineiyixiu.cn
 0.0.0.0 weinberinaz.site
