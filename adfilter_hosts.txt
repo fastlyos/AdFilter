@@ -1,11 +1,11 @@
-# Checksum: MTYwMjY5ODY3OQo=
+# Checksum: MTYwMjcwOTQ0OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201014-6
-# TimeUpdated: 2020-10-14T18:04:39+00:00
+# Version: 1.6.5-20201014-7
+# TimeUpdated: 2020-10-14T21:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43477
+# Total: 43484
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3288,6 +3288,8 @@ ff02::3 ip6-allhosts
 :: 958so.cn
 0.0.0.0 9596yy.com
 :: 9596yy.com
+0.0.0.0 95a44ebca8b1abc20.com
+:: 95a44ebca8b1abc20.com
 0.0.0.0 95p2.com
 :: 95p2.com
 0.0.0.0 95p5qep4aq.com
@@ -23244,6 +23246,8 @@ ff02::3 ip6-allhosts
 :: d3f.houyi.baofeng.net
 0.0.0.0 d3f4u3khr0ycep.cloudfront.net
 :: d3f4u3khr0ycep.cloudfront.net
+0.0.0.0 d3ff17fd7ab86.com
+:: d3ff17fd7ab86.com
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 :: d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3g.qq.com
@@ -33348,6 +33352,8 @@ ff02::3 ip6-allhosts
 :: gjc.gjirafa.com
 0.0.0.0 gjdawsvqs.com
 :: gjdawsvqs.com
+0.0.0.0 gjdnksgfwoj.com
+:: gjdnksgfwoj.com
 0.0.0.0 gjdogaqhtzaqj.com
 :: gjdogaqhtzaqj.com
 0.0.0.0 gjghy.com
@@ -63940,6 +63946,8 @@ ff02::3 ip6-allhosts
 :: searchx.eu
 0.0.0.0 seasonssna.fun
 :: seasonssna.fun
+0.0.0.0 seativeflypa.top
+:: seativeflypa.top
 0.0.0.0 seatsmoke.com
 :: seatsmoke.com
 0.0.0.0 seavideo-ak.espn.go.com
@@ -65338,6 +65346,8 @@ ff02::3 ip6-allhosts
 :: shutternsbe.info
 0.0.0.0 shuttle.bayescom.com
 :: shuttle.bayescom.com
+0.0.0.0 shuwuzhan.com
+:: shuwuzhan.com
 0.0.0.0 shuzilm.cn
 :: shuzilm.cn
 0.0.0.0 shweflix.com
@@ -70762,6 +70772,8 @@ ff02::3 ip6-allhosts
 :: targetfuel.com
 0.0.0.0 targeting.perso.aws.arc.pub
 :: targeting.perso.aws.arc.pub
+0.0.0.0 targeting.tbt.arcpublishing.com
+:: targeting.tbt.arcpublishing.com
 0.0.0.0 targeting.voxus.tv
 :: targeting.voxus.tv
 0.0.0.0 targetingnow.com
@@ -75850,6 +75862,8 @@ ff02::3 ip6-allhosts
 :: upapi.net
 0.0.0.0 upasiansex.com
 :: upasiansex.com
+0.0.0.0 upcash.ru
+:: upcash.ru
 0.0.0.0 upclick.ru
 :: upclick.ru
 0.0.0.0 upcum.com
