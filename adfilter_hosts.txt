@@ -1,11 +1,11 @@
-# Checksum: MTYwMjY0NDY0OAo=
+# Checksum: MTYwMjY1NTUyMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201014-1
-# TimeUpdated: 2020-10-14T03:04:08+00:00
+# Version: 1.6.5-20201014-2
+# TimeUpdated: 2020-10-14T06:05:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43444
+# Total: 43447
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1824,8 +1824,6 @@ ff02::3 ip6-allhosts
 :: 4affiliate.net
 0.0.0.0 4ak50p1xo77f.com
 :: 4ak50p1xo77f.com
-0.0.0.0 4aqi9vrzr2.com
-:: 4aqi9vrzr2.com
 0.0.0.0 4at7qxbdty4y.com
 :: 4at7qxbdty4y.com
 0.0.0.0 4b6994dfa47cee4.com
@@ -2554,6 +2552,8 @@ ff02::3 ip6-allhosts
 :: 7017042b83a65ea.com
 0.0.0.0 703531862.vws.vegacdn.vn
 :: 703531862.vws.vegacdn.vn
+0.0.0.0 706529.com
+:: 706529.com
 0.0.0.0 7080555.com
 :: 7080555.com
 0.0.0.0 7089e5b41f87.com
@@ -12014,6 +12014,8 @@ ff02::3 ip6-allhosts
 :: as.gamevui.com
 0.0.0.0 as.inbox.com
 :: as.inbox.com
+0.0.0.0 as.jdkic.com
+:: as.jdkic.com
 0.0.0.0 as.kejet.com
 :: as.kejet.com
 0.0.0.0 as.kejet.net
@@ -20396,6 +20398,8 @@ ff02::3 ip6-allhosts
 :: concernedcondition.com
 0.0.0.0 concertainwqa.club
 :: concertainwqa.club
+0.0.0.0 concesspon.top
+:: concesspon.top
 0.0.0.0 concordhorace.com
 :: concordhorace.com
 0.0.0.0 conde.adsame.com
@@ -44996,8 +45000,6 @@ ff02::3 ip6-allhosts
 :: lzjl.com
 0.0.0.0 lzkjsj.com
 :: lzkjsj.com
-0.0.0.0 lzmlwmp.ovh
-:: lzmlwmp.ovh
 0.0.0.0 lzmm8.com
 :: lzmm8.com
 0.0.0.0 lzpgstae.com
@@ -48324,6 +48326,8 @@ ff02::3 ip6-allhosts
 :: mlb.did.ijinshan.com
 0.0.0.0 mldy.rsgbt.cn
 :: mldy.rsgbt.cn
+0.0.0.0 mldy.wttpgq.cn
+:: mldy.wttpgq.cn
 0.0.0.0 mldy.xdaay.cn
 :: mldy.xdaay.cn
 0.0.0.0 mldy.yxxgab.cn
@@ -54608,8 +54612,6 @@ ff02::3 ip6-allhosts
 :: pbcde.com
 0.0.0.0 pbd.sogou.com
 :: pbd.sogou.com
-0.0.0.0 pbmvz.com
-:: pbmvz.com
 0.0.0.0 pbnet.ru
 :: pbnet.ru
 0.0.0.0 pbnusnsr.com
@@ -58654,8 +58656,6 @@ ff02::3 ip6-allhosts
 :: qai-ir.quartic.pl
 0.0.0.0 qai.quartic.pl
 :: qai.quartic.pl
-0.0.0.0 qaiqromd.com
-:: qaiqromd.com
 0.0.0.0 qaizylhmcxv.com
 :: qaizylhmcxv.com
 0.0.0.0 qakdki.com
@@ -65384,6 +65384,8 @@ ff02::3 ip6-allhosts
 :: signoredom.com
 0.0.0.0 signout.website
 :: signout.website
+0.0.0.0 signstu.top
+:: signstu.top
 0.0.0.0 signup-way.com
 :: signup-way.com
 0.0.0.0 sigo99.com
@@ -75662,6 +75664,8 @@ ff02::3 ip6-allhosts
 :: unisound.cdnvideo.ru
 0.0.0.0 unitethecows.com
 :: unitethecows.com
+0.0.0.0 units.knotch.it
+:: units.knotch.it
 0.0.0.0 unityads.unity3d.com
 :: unityads.unity3d.com
 0.0.0.0 unityads.unitychina.cn
@@ -77922,6 +77926,8 @@ ff02::3 ip6-allhosts
 :: vptbn.com
 0.0.0.0 vpvsy.com
 :: vpvsy.com
+0.0.0.0 vpwdweham.com
+:: vpwdweham.com
 0.0.0.0 vqc6fyl3.com
 :: vqc6fyl3.com
 0.0.0.0 vqcilhkfwvks.com
