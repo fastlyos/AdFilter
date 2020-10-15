@@ -1,11 +1,11 @@
-# Checksum: MTYwMjc3NDMxNwo=
+# Checksum: MTYwMjc4NTA3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201015-5
-# TimeUpdated: 2020-10-15T15:05:17+00:00
+# Version: 1.6.5-20201015-6
+# TimeUpdated: 2020-10-15T18:04:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43527
+# Total: 43538
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1632,8 +1632,6 @@ ff02::3 ip6-allhosts
 :: 3i1cx7b9nupt.com
 0.0.0.0 3jia5.com
 :: 3jia5.com
-0.0.0.0 3jmcwio.com
-:: 3jmcwio.com
 0.0.0.0 3lift.com
 :: 3lift.com
 0.0.0.0 3lr67y45.com
@@ -7694,6 +7692,8 @@ ff02::3 ip6-allhosts
 :: adshows.21cn.com
 0.0.0.0 adshuffle.com
 :: adshuffle.com
+0.0.0.0 adshunter.fra1.digitaloceanspaces.com
+:: adshunter.fra1.digitaloceanspaces.com
 0.0.0.0 adsiduous.com
 :: adsiduous.com
 0.0.0.0 adsignals.com
@@ -8158,8 +8158,6 @@ ff02::3 ip6-allhosts
 :: adultmoda.com
 0.0.0.0 adultmoviegroup.com
 :: adultmoviegroup.com
-0.0.0.0 adultpay.net
-:: adultpay.net
 0.0.0.0 adultsadv.com
 :: adultsadv.com
 0.0.0.0 adultsense.com
@@ -9600,6 +9598,8 @@ ff02::3 ip6-allhosts
 :: aleaidass.site
 0.0.0.0 aleaimbuy.site
 :: aleaimbuy.site
+0.0.0.0 aleapeact.club
+:: aleapeact.club
 0.0.0.0 aleapeapt.club
 :: aleapeapt.club
 0.0.0.0 alefrfobkoxbgaf.com
@@ -16840,8 +16840,6 @@ ff02::3 ip6-allhosts
 :: c2.popads.net
 0.0.0.0 c2.statcounter.com
 :: c2.statcounter.com
-0.0.0.0 c21b3cc85b.com
-:: c21b3cc85b.com
 0.0.0.0 c26e9ccd4e063b.com
 :: c26e9ccd4e063b.com
 0.0.0.0 c2s.startappnetwork.com
@@ -17852,6 +17850,8 @@ ff02::3 ip6-allhosts
 :: cdn.pulpix.com
 0.0.0.0 cdn.qutyan8848.com
 :: cdn.qutyan8848.com
+0.0.0.0 cdn.resonate.com
+:: cdn.resonate.com
 0.0.0.0 cdn.rhombusads.com
 :: cdn.rhombusads.com
 0.0.0.0 cdn.rocks.io
@@ -18810,6 +18810,8 @@ ff02::3 ip6-allhosts
 :: clacson24.com
 0.0.0.0 clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
 :: clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
+0.0.0.0 claimbit.tk
+:: claimbit.tk
 0.0.0.0 clairedikio.club
 :: clairedikio.club
 0.0.0.0 clalaviluc.xyz
@@ -22098,6 +22100,8 @@ ff02::3 ip6-allhosts
 :: cuev.in
 0.0.0.0 cueyetwee.site
 :: cueyetwee.site
+0.0.0.0 cufcw.com
+:: cufcw.com
 0.0.0.0 cui.m.1688.com
 :: cui.m.1688.com
 0.0.0.0 cuiron.de
@@ -22206,6 +22210,8 @@ ff02::3 ip6-allhosts
 :: cvypzafq.com
 0.0.0.0 cw.guominziben.com
 :: cw.guominziben.com
+0.0.0.0 cwj2h.cn
+:: cwj2h.cn
 0.0.0.0 cwkhyupiwzcjy.com
 :: cwkhyupiwzcjy.com
 0.0.0.0 cworsbumjgbuc.com
@@ -26592,6 +26598,8 @@ ff02::3 ip6-allhosts
 :: dvtwezyzog.com
 0.0.0.0 dvv.c1345.cn
 :: dvv.c1345.cn
+0.0.0.0 dvv.muyfgf.xyz
+:: dvv.muyfgf.xyz
 0.0.0.0 dvv.qeiowc.xyz
 :: dvv.qeiowc.xyz
 0.0.0.0 dvv.strbgi.xyz
@@ -28802,6 +28810,8 @@ ff02::3 ip6-allhosts
 :: ers.baidu.com
 0.0.0.0 ersagreem.club
 :: ersagreem.club
+0.0.0.0 erscausineb.top
+:: erscausineb.top
 0.0.0.0 erscdf.com
 :: erscdf.com
 0.0.0.0 ersfeatural.club
@@ -30962,6 +30972,8 @@ ff02::3 ip6-allhosts
 :: fljozww19f.com
 0.0.0.0 flmuqa.com
 :: flmuqa.com
+0.0.0.0 flnfbaoozuib.com
+:: flnfbaoozuib.com
 0.0.0.0 float.co.kankan.com
 :: float.co.kankan.com
 0.0.0.0 float.kankan.com
@@ -42816,6 +42828,8 @@ ff02::3 ip6-allhosts
 :: leadad.mobi
 0.0.0.0 leadadvert.info
 :: leadadvert.info
+0.0.0.0 leadbi.com
+:: leadbi.com
 0.0.0.0 leadbolt.com
 :: leadbolt.com
 0.0.0.0 leadbolt.net
@@ -47906,6 +47920,8 @@ ff02::3 ip6-allhosts
 :: mhdufile.1391.com
 0.0.0.0 mhggzg.com
 :: mhggzg.com
+0.0.0.0 mhhjqfjujxwrfa.com
+:: mhhjqfjujxwrfa.com
 0.0.0.0 mhj765.xyz
 :: mhj765.xyz
 0.0.0.0 mhjk.1391.com
@@ -54102,6 +54118,8 @@ ff02::3 ip6-allhosts
 :: pad.zhywyl.cn
 0.0.0.0 paddleangle.com
 :: paddleangle.com
+0.0.0.0 paddocsweek.com
+:: paddocsweek.com
 0.0.0.0 padma-fed.com
 :: padma-fed.com
 0.0.0.0 padpitnon.site
@@ -79070,6 +79088,8 @@ ff02::3 ip6-allhosts
 :: webpushcloud.info
 0.0.0.0 webpushr.com
 :: webpushr.com
+0.0.0.0 websanalytic.com
+:: websanalytic.com
 0.0.0.0 websc.org
 :: websc.org
 0.0.0.0 websd8.com
@@ -85212,6 +85232,8 @@ ff02::3 ip6-allhosts
 :: yh303030.com
 0.0.0.0 yh6u.dealeusedevoyages.com
 :: yh6u.dealeusedevoyages.com
+0.0.0.0 yheyg94gjv2o.ru
+:: yheyg94gjv2o.ru
 0.0.0.0 yhig.info
 :: yhig.info
 0.0.0.0 yhjinm.cn
