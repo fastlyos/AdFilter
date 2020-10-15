@@ -1,11 +1,11 @@
-# Checksum: MTYwMjc1MjY3MAo=
+# Checksum: MTYwMjc2MzU0MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201015-3
-# TimeUpdated: 2020-10-15T09:04:30+00:00
+# Version: 1.6.5-20201015-4
+# TimeUpdated: 2020-10-15T12:05:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43500
+# Total: 43509
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -76,6 +76,8 @@ ff02::3 ip6-allhosts
 :: 012.tw
 0.0.0.0 012469af389a1d1246d.com
 :: 012469af389a1d1246d.com
+0.0.0.0 018520.com
+:: 018520.com
 0.0.0.0 019103.com
 :: 019103.com
 0.0.0.0 01daa.lutci.com
@@ -11926,6 +11928,8 @@ ff02::3 ip6-allhosts
 :: arlime.com
 0.0.0.0 arlottencert.club
 :: arlottencert.club
+0.0.0.0 armashair.site
+:: armashair.site
 0.0.0.0 armatchints.info
 :: armatchints.info
 0.0.0.0 armaturehurt.com
@@ -15152,6 +15156,8 @@ ff02::3 ip6-allhosts
 :: bkcommdata.v.qq.com
 0.0.0.0 bkdurgyahjhb.com
 :: bkdurgyahjhb.com
+0.0.0.0 bkhzwuddpxjmyu.com
+:: bkhzwuddpxjmyu.com
 0.0.0.0 bkrkv.com
 :: bkrkv.com
 0.0.0.0 bksoup.v.qq.com
@@ -18036,6 +18042,8 @@ ff02::3 ip6-allhosts
 :: cdntrf.de
 0.0.0.0 cdnvideo.mobi
 :: cdnvideo.mobi
+0.0.0.0 cdooewrzvec.com
+:: cdooewrzvec.com
 0.0.0.0 cdp.cloud.unity3d.com
 :: cdp.cloud.unity3d.com
 0.0.0.0 cds.51y5.net
@@ -25960,6 +25968,8 @@ ff02::3 ip6-allhosts
 :: doudouguo.com
 0.0.0.0 doudouknot.com
 :: doudouknot.com
+0.0.0.0 doufoacu.net
+:: doufoacu.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
 :: doug1izaerwt3.cloudfront.net
 0.0.0.0 dougou88.com
@@ -43302,6 +43312,8 @@ ff02::3 ip6-allhosts
 :: lie2anyone.com
 0.0.0.0 lieqitianxia.cn
 :: lieqitianxia.cn
+0.0.0.0 liersmagne.club
+:: liersmagne.club
 0.0.0.0 liex.ru
 :: liex.ru
 0.0.0.0 lieying.cn
@@ -49286,6 +49298,8 @@ ff02::3 ip6-allhosts
 :: mozist.com
 0.0.0.0 mozoo.go2cloud.org
 :: mozoo.go2cloud.org
+0.0.0.0 mozqca.cn
+:: mozqca.cn
 0.0.0.0 mp-a.info
 :: mp-a.info
 0.0.0.0 mp-b.info
@@ -76920,6 +76934,8 @@ ff02::3 ip6-allhosts
 :: vch.voyage-prive.ch
 0.0.0.0 vchim.com
 :: vchim.com
+0.0.0.0 vchiy.com
+:: vchiy.com
 0.0.0.0 vclick.vn
 :: vclick.vn
 0.0.0.0 vcmedia.com
@@ -78086,6 +78102,8 @@ ff02::3 ip6-allhosts
 :: vserv.mobi
 0.0.0.0 vsesumki.com
 :: vsesumki.com
+0.0.0.0 vsetfdtwhp.com
+:: vsetfdtwhp.com
 0.0.0.0 vsexshop.ru
 :: vsexshop.ru
 0.0.0.0 vsmokhklbw.com
