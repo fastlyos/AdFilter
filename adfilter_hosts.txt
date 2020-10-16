@@ -1,8 +1,8 @@
-# Checksum: MTYwMjg3MTQ2NQo=
+# Checksum: MTYwMjg4MjI2OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201016-6
-# TimeUpdated: 2020-10-16T18:04:25+00:00
+# Version: 1.6.5-20201016-7
+# TimeUpdated: 2020-10-16T21:04:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 43582
@@ -374,8 +374,6 @@ ff02::3 ip6-allhosts
 :: 1.mgff.com
 0.0.0.0 1.mm100.com
 :: 1.mm100.com
-0.0.0.0 1.mobiuppedmedia.com
-:: 1.mobiuppedmedia.com
 0.0.0.0 1.modzj.net
 :: 1.modzj.net
 0.0.0.0 1.nanrenwo.net
@@ -3652,8 +3650,6 @@ ff02::3 ip6-allhosts
 :: a.hsbianma.com
 0.0.0.0 a.hstrck.com
 :: a.hstrck.com
-0.0.0.0 a.icdol.com
-:: a.icdol.com
 0.0.0.0 a.ihref.com
 :: a.ihref.com
 0.0.0.0 a.imgso.cn
@@ -5194,6 +5190,8 @@ ff02::3 ip6-allhosts
 :: ad.plus-a.net
 0.0.0.0 ad.pornimg.xyz
 :: ad.pornimg.xyz
+0.0.0.0 ad.pr.ameba.jp
+:: ad.pr.ameba.jp
 0.0.0.0 ad.prismamediadigital.com
 :: ad.prismamediadigital.com
 0.0.0.0 ad.propellerads.com
@@ -11320,6 +11318,8 @@ ff02::3 ip6-allhosts
 :: api.unthem.com
 0.0.0.0 api.userstyles.org
 :: api.userstyles.org
+0.0.0.0 api.vasb.cn
+:: api.vasb.cn
 0.0.0.0 api.viaxmr.com
 :: api.viaxmr.com
 0.0.0.0 api.viglink.com
@@ -13674,8 +13674,6 @@ ff02::3 ip6-allhosts
 :: bantex.ru
 0.0.0.0 baobaoshiye.com.cn
 :: baobaoshiye.com.cn
-0.0.0.0 baodaozhan.cn
-:: baodaozhan.cn
 0.0.0.0 baofeng.m.cn.miaozhen.com
 :: baofeng.m.cn.miaozhen.com
 0.0.0.0 baoyatu.cc
@@ -28970,6 +28968,8 @@ ff02::3 ip6-allhosts
 :: estoopsi.com
 0.0.0.0 estrack.net
 :: estrack.net
+0.0.0.0 estranched.top
+:: estranched.top
 0.0.0.0 estream.xyz
 :: estream.xyz
 0.0.0.0 esumptive.club
