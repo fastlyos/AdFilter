@@ -1,11 +1,11 @@
-# Checksum: MTYwMjgyODMwNAo=
+# Checksum: MTYwMjgzOTA1NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201016-2
-# TimeUpdated: 2020-10-16T06:05:04+00:00
+# Version: 1.6.5-20201016-3
+# TimeUpdated: 2020-10-16T09:04:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43541
+# Total: 43542
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -17362,8 +17362,6 @@ ff02::3 ip6-allhosts
 :: cashcount.com
 0.0.0.0 cashdorado.de
 :: cashdorado.de
-0.0.0.0 cashinme.com
-:: cashinme.com
 0.0.0.0 cashlayer.com
 :: cashlayer.com
 0.0.0.0 cashmylinks.com
@@ -20620,8 +20618,6 @@ ff02::3 ip6-allhosts
 :: content.adriver.ru
 0.0.0.0 content.livesportmedia.eu
 :: content.livesportmedia.eu
-0.0.0.0 content.liveuniverse.com
-:: content.liveuniverse.com
 0.0.0.0 content.mql5.com
 :: content.mql5.com
 0.0.0.0 content.printdirect.ru
@@ -45112,6 +45108,8 @@ ff02::3 ip6-allhosts
 :: m.1314sss.top
 0.0.0.0 m.169bj.cn
 :: m.169bj.cn
+0.0.0.0 m.181mob.com
+:: m.181mob.com
 0.0.0.0 m.20mao.com
 :: m.20mao.com
 0.0.0.0 m.23txt.com
@@ -48106,6 +48104,8 @@ ff02::3 ip6-allhosts
 :: miner-10.team.nimiq.agency
 0.0.0.0 miner-11.team.nimiq.agency
 :: miner-11.team.nimiq.agency
+0.0.0.0 miner-12.team.nimiq.agency
+:: miner-12.team.nimiq.agency
 0.0.0.0 miner-13.team.nimiq.agency
 :: miner-13.team.nimiq.agency
 0.0.0.0 miner-16.team.nimiq.agency
@@ -60772,6 +60772,8 @@ ff02::3 ip6-allhosts
 :: representativeskipcloudy.com
 0.0.0.0 represented.cn
 :: represented.cn
+0.0.0.0 represiderp.top
+:: represiderp.top
 0.0.0.0 reprocautious.com
 :: reprocautious.com
 0.0.0.0 repruggob.com
