@@ -1,11 +1,11 @@
-# Checksum: MTYwMjg1MDA1Nwo=
+# Checksum: MTYwMjg2MDcyMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201016-4
-# TimeUpdated: 2020-10-16T12:07:37+00:00
+# Version: 1.6.5-20201016-5
+# TimeUpdated: 2020-10-16T15:05:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43273
+# Total: 43271
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1320,6 +1320,8 @@ ff02::3 ip6-allhosts
 :: 2wxb5.cn
 0.0.0.0 2xclick.ru
 :: 2xclick.ru
+0.0.0.0 2ydl.axbxgg.com
+:: 2ydl.axbxgg.com
 0.0.0.0 2yt.cn
 :: 2yt.cn
 0.0.0.0 2yt.net
@@ -4580,6 +4582,8 @@ ff02::3 ip6-allhosts
 :: activehosted.com
 0.0.0.0 activemeter.com
 :: activemeter.com
+0.0.0.0 activepr.info
+:: activepr.info
 0.0.0.0 activepr.ru
 :: activepr.ru
 0.0.0.0 activeprospects.com
@@ -6386,8 +6390,6 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
-0.0.0.0 admaster.com
-:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admatic.com.tr
@@ -9614,6 +9616,8 @@ ff02::3 ip6-allhosts
 :: alflying.win
 0.0.0.0 alfynetwork.com
 :: alfynetwork.com
+0.0.0.0 algat.intergoles.me
+:: algat.intergoles.me
 0.0.0.0 algocashmaster.com
 :: algocashmaster.com
 0.0.0.0 algocashmaster.net
@@ -9682,8 +9686,6 @@ ff02::3 ip6-allhosts
 :: aliveachiever.com
 0.0.0.0 aliyoo999.com
 :: aliyoo999.com
-0.0.0.0 aliyunf.xyz
-:: aliyunf.xyz
 0.0.0.0 aliyunxin.com
 :: aliyunxin.com
 0.0.0.0 alkemics.com
@@ -22250,8 +22252,6 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
-0.0.0.0 czywssj.com
-:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -30558,8 +30558,6 @@ ff02::3 ip6-allhosts
 :: files2.sogou.com
 0.0.0.0 filestube.com
 :: filestube.com
-0.0.0.0 filesusr.com
-:: filesusr.com
 0.0.0.0 filetarget.com
 :: filetarget.com
 0.0.0.0 filetarget.net
@@ -36300,6 +36298,8 @@ ff02::3 ip6-allhosts
 :: howeverhou.fun
 0.0.0.0 howtodoblog.com
 :: howtodoblog.com
+0.0.0.0 howtubray.com
+:: howtubray.com
 0.0.0.0 hpasvfsndgr.com
 :: hpasvfsndgr.com
 0.0.0.0 hpcyk.com
@@ -42836,6 +42836,8 @@ ff02::3 ip6-allhosts
 :: lereforeightc.site
 0.0.0.0 lerenzx.cn
 :: lerenzx.cn
+0.0.0.0 leroj.elitegol.tv
+:: leroj.elitegol.tv
 0.0.0.0 lesanmo.top
 :: lesanmo.top
 0.0.0.0 lesbianoyster.com
@@ -55018,6 +55020,8 @@ ff02::3 ip6-allhosts
 :: phoenix-widget.com
 0.0.0.0 phoenix.untd.com
 :: phoenix.untd.com
+0.0.0.0 phoenixnk.cn
+:: phoenixnk.cn
 0.0.0.0 phokukse.com
 :: phokukse.com
 0.0.0.0 phonalytics.com
@@ -67172,8 +67176,6 @@ ff02::3 ip6-allhosts
 :: srvpub.com
 0.0.0.0 srvtrck.com
 :: srvtrck.com
-0.0.0.0 srwiiu.cn
-:: srwiiu.cn
 0.0.0.0 srx.com.sg
 :: srx.com.sg
 0.0.0.0 ss.chelaile.net.cn
@@ -70466,8 +70468,6 @@ ff02::3 ip6-allhosts
 :: taohanpai.com
 0.0.0.0 taojingu.cn
 :: taojingu.cn
-0.0.0.0 taomochou.cn
-:: taomochou.cn
 0.0.0.0 taorun.com
 :: taorun.com
 0.0.0.0 taose06.com
@@ -73620,8 +73620,6 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
-0.0.0.0 trade.mtime.com
-:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -86088,8 +86086,6 @@ ff02::3 ip6-allhosts
 :: zismone.ru
 0.0.0.0 zisu.cn.com
 :: zisu.cn.com
-0.0.0.0 zixun8.com
-:: zixun8.com
 0.0.0.0 zixuncooperation.html5.qq.com
 :: zixuncooperation.html5.qq.com
 0.0.0.0 ziye8.com
