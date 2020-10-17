@@ -1,11 +1,11 @@
-# Checksum: MTYwMjkzNjMxNQo=
+# Checksum: MTYwMjk0NzI1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201017-4
-# TimeUpdated: 2020-10-17T12:05:15+00:00
+# Version: 1.6.5-20201017-5
+# TimeUpdated: 2020-10-17T15:07:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43331
+# Total: 43332
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9478,8 +9478,6 @@ ff02::3 ip6-allhosts
 :: aj2073.online
 0.0.0.0 aj2142.online
 :: aj2142.online
-0.0.0.0 aj2170.online
-:: aj2170.online
 0.0.0.0 aj2178.online
 :: aj2178.online
 0.0.0.0 aj2208.online
@@ -13986,8 +13984,6 @@ ff02::3 ip6-allhosts
 :: bdapi.ads.oppomobile.com
 0.0.0.0 bdasd.chdbook.cn
 :: bdasd.chdbook.cn
-0.0.0.0 bdasd.chinabig.com.cn
-:: bdasd.chinabig.com.cn
 0.0.0.0 bdasd.wmxa.cn
 :: bdasd.wmxa.cn
 0.0.0.0 bdash-cloud.com
@@ -30494,6 +30490,8 @@ ff02::3 ip6-allhosts
 :: ffortyimagist.info
 0.0.0.0 ffre.ffrepair.com
 :: ffre.ffrepair.com
+0.0.0.0 ffupiiv.cn
+:: ffupiiv.cn
 0.0.0.0 ffwap.com
 :: ffwap.com
 0.0.0.0 ffychb.com
@@ -62892,6 +62890,8 @@ ff02::3 ip6-allhosts
 :: sacchaeleduk.com
 0.0.0.0 saccomplex.info
 :: saccomplex.info
+0.0.0.0 sachbs.club
+:: sachbs.club
 0.0.0.0 sad.qeo.cn
 :: sad.qeo.cn
 0.0.0.0 sad2tizer.ru
@@ -84392,6 +84392,8 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 :: xy33.smallable.com
+0.0.0.0 xyadtlyy.com
+:: xyadtlyy.com
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xyimg.net
