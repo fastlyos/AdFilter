@@ -1,11 +1,11 @@
-# Checksum: MTYwMjkxNDY5MQo=
+# Checksum: MTYwMjkyNTQ1OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201017-2
-# TimeUpdated: 2020-10-17T06:04:51+00:00
+# Version: 1.6.5-20201017-3
+# TimeUpdated: 2020-10-17T09:04:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43623
+# Total: 43625
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7976,8 +7976,6 @@ ff02::3 ip6-allhosts
 :: adswrapme.click
 0.0.0.0 adsx.greystripe.com
 :: adsx.greystripe.com
-0.0.0.0 adsxgm.com
-:: adsxgm.com
 0.0.0.0 adsxyz.com
 :: adsxyz.com
 0.0.0.0 adsy.mail.bg
@@ -14128,8 +14126,6 @@ ff02::3 ip6-allhosts
 :: bdmjs.xywy.com
 0.0.0.0 bdmm.xywy.com
 :: bdmm.xywy.com
-0.0.0.0 bdozkocgkljj.com
-:: bdozkocgkljj.com
 0.0.0.0 bdp.cn
 :: bdp.cn
 0.0.0.0 bdplus.baidu.com
@@ -26510,6 +26506,8 @@ ff02::3 ip6-allhosts
 :: duhtate.ru
 0.0.0.0 duiba.com.cn
 :: duiba.com.cn
+0.0.0.0 dujbubzvrdw.com
+:: dujbubzvrdw.com
 0.0.0.0 dulewang.com
 :: dulewang.com
 0.0.0.0 dull.bankofamerica.com
@@ -45890,6 +45888,8 @@ ff02::3 ip6-allhosts
 :: m.sfscooter.cn
 0.0.0.0 m.shanbara.jp
 :: m.shanbara.jp
+0.0.0.0 m.shilian168.cn
+:: m.shilian168.cn
 0.0.0.0 m.simba.taobao.com
 :: m.simba.taobao.com
 0.0.0.0 m.sinostoneauction.cn
@@ -81036,6 +81036,8 @@ ff02::3 ip6-allhosts
 :: wsvike.cn
 0.0.0.0 wsxxu.com
 :: wsxxu.com
+0.0.0.0 wszzb.top
+:: wszzb.top
 0.0.0.0 wt-eu02.net
 :: wt-eu02.net
 0.0.0.0 wt-safetag.com
@@ -85596,6 +85598,8 @@ ff02::3 ip6-allhosts
 :: ykrec.youku.com
 0.0.0.0 ykrectab.youku.com
 :: ykrectab.youku.com
+0.0.0.0 ykrpxgxdebx.com
+:: ykrpxgxdebx.com
 0.0.0.0 yktd.m.cn.miaozhen.com
 :: yktd.m.cn.miaozhen.com
 0.0.0.0 yktj.yzz.cn
