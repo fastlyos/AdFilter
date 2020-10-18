@@ -1,11 +1,11 @@
-# Checksum: MTYwMzA0NDI4MAo=
+# Checksum: MTYwMzA1NTA0Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201018-6
-# TimeUpdated: 2020-10-18T18:04:40+00:00
+# Version: 1.6.5-20201018-7
+# TimeUpdated: 2020-10-18T21:04:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43689
+# Total: 43697
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -654,6 +654,8 @@ ff02::3 ip6-allhosts
 :: 13p76nnir.de
 0.0.0.0 13vm73vbmp.com
 :: 13vm73vbmp.com
+0.0.0.0 13wn.com
+:: 13wn.com
 0.0.0.0 13wnjs.com
 :: 13wnjs.com
 0.0.0.0 13yg.cn
@@ -4134,6 +4136,8 @@ ff02::3 ip6-allhosts
 :: aagqrr.com
 0.0.0.0 aahvz.top
 :: aahvz.top
+0.0.0.0 aaitudxr.com
+:: aaitudxr.com
 0.0.0.0 aakkzzz.com
 :: aakkzzz.com
 0.0.0.0 aaliyahiya.com
@@ -14694,6 +14698,8 @@ ff02::3 ip6-allhosts
 :: beusable.net
 0.0.0.0 bewaslac.com
 :: bewaslac.com
+0.0.0.0 bewaycare.com
+:: bewaycare.com
 0.0.0.0 bewilderedblade.com
 :: bewilderedblade.com
 0.0.0.0 bf-tools.net
@@ -19866,6 +19872,8 @@ ff02::3 ip6-allhosts
 :: cnt.rate.ru
 0.0.0.0 cnt.st
 :: cnt.st
+0.0.0.0 cnt.statistic.date
+:: cnt.statistic.date
 0.0.0.0 cnt.vivatube.com
 :: cnt.vivatube.com
 0.0.0.0 cnt.xhamster.com
@@ -26642,6 +26650,8 @@ ff02::3 ip6-allhosts
 :: dvv.c1345.cn
 0.0.0.0 dvv.lkgtvc.xyz
 :: dvv.lkgtvc.xyz
+0.0.0.0 dvv.muqsad.xyz
+:: dvv.muqsad.xyz
 0.0.0.0 dvv.muyfgf.xyz
 :: dvv.muyfgf.xyz
 0.0.0.0 dvv.qeiowc.xyz
@@ -31434,6 +31444,8 @@ ff02::3 ip6-allhosts
 :: fpeegzspcgnjt.com
 0.0.0.0 fpjs.io
 :: fpjs.io
+0.0.0.0 fpmef.com
+:: fpmef.com
 0.0.0.0 fprnt.com
 :: fprnt.com
 0.0.0.0 fptad.com
@@ -56228,6 +56240,8 @@ ff02::3 ip6-allhosts
 :: play.es
 0.0.0.0 play.estream.to
 :: play.estream.to
+0.0.0.0 play.estream.xyz
+:: play.estream.xyz
 0.0.0.0 play.feesocrald.com
 :: play.feesocrald.com
 0.0.0.0 play.freebsd.nnna.ru
@@ -75480,6 +75494,8 @@ ff02::3 ip6-allhosts
 :: uat1.bfsspadserver.8le8le.com
 0.0.0.0 uatu.newsquestdigital.co.uk
 :: uatu.newsquestdigital.co.uk
+0.0.0.0 uayzbioy.com
+:: uayzbioy.com
 0.0.0.0 ub1.job592.com
 :: ub1.job592.com
 0.0.0.0 ubar-pro4.ru
