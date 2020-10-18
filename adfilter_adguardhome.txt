@@ -1,8 +1,8 @@
-! Checksum: MTYwMzAzMzQ0MQo=
+! Checksum: MTYwMzA0NDI4MAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.5-20201018-5
-! TimeUpdated: 2020-10-18T15:04:01+00:00
+! Version: 1.6.5-20201018-6
+! TimeUpdated: 2020-10-18T18:04:40+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
 ! Total: 43689
@@ -2082,7 +2082,6 @@
 |aax-us-west.amazon-adsystem.com^
 |aax.amazon-adsystem.com^
 |aaxdetect.com^
-|aaxtuhit.com^
 |ab.advertiserurl.com^
 |ab.cnbanbao.com^
 |ab.dydab.com^
@@ -5029,6 +5028,7 @@
 |amountant.club^
 |amp-error-reporting.appspot.com^
 |amp.rd.linksynergy.com^
+|ampallall.site^
 |amparcaim.club^
 |ampclicks.com^
 |ampleteexis.info^
