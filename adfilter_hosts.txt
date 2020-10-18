@@ -1,11 +1,11 @@
-# Checksum: MTYwMzAyMjc1MQo=
+# Checksum: MTYwMzAzMzQ0MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201018-4
-# TimeUpdated: 2020-10-18T12:05:51+00:00
+# Version: 1.6.5-20201018-5
+# TimeUpdated: 2020-10-18T15:04:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43685
+# Total: 43689
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -188,8 +188,6 @@ ff02::3 ip6-allhosts
 :: 0879dbbeb31e0c83d.com
 0.0.0.0 0916video.ru
 :: 0916video.ru
-0.0.0.0 0923csfsteibv12.xyz
-:: 0923csfsteibv12.xyz
 0.0.0.0 0926a687679d337e9d.com
 :: 0926a687679d337e9d.com
 0.0.0.0 0937js.com
@@ -6452,6 +6450,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admatic.com.tr
@@ -17550,6 +17550,8 @@ ff02::3 ip6-allhosts
 :: cc.xwscg.com
 0.0.0.0 cc.zeit.de
 :: cc.zeit.de
+0.0.0.0 cc1.juxilm.com
+:: cc1.juxilm.com
 0.0.0.0 cc3.ifeng.com
 :: cc3.ifeng.com
 0.0.0.0 cc599.com
@@ -22370,6 +22372,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -45122,6 +45126,8 @@ ff02::3 ip6-allhosts
 :: lxqcgj.com
 0.0.0.0 lxtrack.com
 :: lxtrack.com
+0.0.0.0 lxwfjjnowwhld.com
+:: lxwfjjnowwhld.com
 0.0.0.0 lxykalyvq.com
 :: lxykalyvq.com
 0.0.0.0 lyadu.com
@@ -74196,6 +74202,8 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
