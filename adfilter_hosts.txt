@@ -1,11 +1,11 @@
-# Checksum: MTYwMzAwMTA4NQo=
+# Checksum: MTYwMzAxMTg2Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201018-2
-# TimeUpdated: 2020-10-18T06:04:45+00:00
+# Version: 1.6.5-20201018-3
+# TimeUpdated: 2020-10-18T09:04:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43668
+# Total: 43669
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2618,8 +2618,6 @@ ff02::3 ip6-allhosts
 :: 73s.xyz
 0.0.0.0 74069d6dc66.com
 :: 74069d6dc66.com
-0.0.0.0 740805.com
-:: 740805.com
 0.0.0.0 7419fec8ce83.com
 :: 7419fec8ce83.com
 0.0.0.0 743m1.11a12.com
@@ -18110,8 +18108,6 @@ ff02::3 ip6-allhosts
 :: ceepq.com
 0.0.0.0 cef9c80977e050.com
 :: cef9c80977e050.com
-0.0.0.0 cefqvuhygky.com
-:: cefqvuhygky.com
 0.0.0.0 ceincreatedaughtcha.info
 :: ceincreatedaughtcha.info
 0.0.0.0 cekyryfagyhy.ga
@@ -26986,6 +26982,8 @@ ff02::3 ip6-allhosts
 :: e.gk277.cn
 0.0.0.0 e.gxjfh.com
 :: e.gxjfh.com
+0.0.0.0 e.gxkyl.com
+:: e.gxkyl.com
 0.0.0.0 e.hcenc.com
 :: e.hcenc.com
 0.0.0.0 e.hellomingpian.com
@@ -73880,6 +73878,8 @@ ff02::3 ip6-allhosts
 :: tracking.hrs.de
 0.0.0.0 tracking.hsn.com
 :: tracking.hsn.com
+0.0.0.0 tracking.html5games.com
+:: tracking.html5games.com
 0.0.0.0 tracking.hurlmedia.design
 :: tracking.hurlmedia.design
 0.0.0.0 tracking.infos-du-net.com
@@ -81114,6 +81114,8 @@ ff02::3 ip6-allhosts
 :: wstat.wibiya.com
 0.0.0.0 wstats.e-wok.tv
 :: wstats.e-wok.tv
+0.0.0.0 wstats.gameblog.fr
+:: wstats.gameblog.fr
 0.0.0.0 wstatslive.com
 :: wstatslive.com
 0.0.0.0 wstztt.com
