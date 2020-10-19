@@ -1,11 +1,11 @@
-# Checksum: MTYwMzEwOTEzNAo=
+# Checksum: MTYwMzExOTg4MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201019-4
-# TimeUpdated: 2020-10-19T12:05:34+00:00
+# Version: 1.6.5-20201019-5
+# TimeUpdated: 2020-10-19T15:04:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43745
+# Total: 43753
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1250,6 +1250,8 @@ ff02::3 ip6-allhosts
 :: 2cnjuh34jbstar.com
 0.0.0.0 2cnt.net
 :: 2cnt.net
+0.0.0.0 2d-c.cn
+:: 2d-c.cn
 0.0.0.0 2d52156c065481.com
 :: 2d52156c065481.com
 0.0.0.0 2dpt.com
@@ -15288,8 +15290,6 @@ ff02::3 ip6-allhosts
 :: blockadsnot.com
 0.0.0.0 blockchaintop.nl
 :: blockchaintop.nl
-0.0.0.0 blockmetrics.com
-:: blockmetrics.com
 0.0.0.0 blog-stat.com
 :: blog-stat.com
 0.0.0.0 blog-webkatalog.de
@@ -38496,6 +38496,8 @@ ff02::3 ip6-allhosts
 :: in.pomhz.com
 0.0.0.0 in.qzkxt.com
 :: in.qzkxt.com
+0.0.0.0 in.taomochou.cn
+:: in.taomochou.cn
 0.0.0.0 in.zog.link
 :: in.zog.link
 0.0.0.0 in1.feed.uu.cc
@@ -42550,6 +42552,8 @@ ff02::3 ip6-allhosts
 :: kz.mieyisi.com
 0.0.0.0 kz.zf678.com
 :: kz.zf678.com
+0.0.0.0 kz.zzkoubei.com
+:: kz.zzkoubei.com
 0.0.0.0 kzmipklxanggf.com
 :: kzmipklxanggf.com
 0.0.0.0 kzsha.com
@@ -52732,6 +52736,8 @@ ff02::3 ip6-allhosts
 :: oddertabrhino.com
 0.0.0.0 oddomane.com
 :: oddomane.com
+0.0.0.0 odf.qjbjs8.cc
+:: odf.qjbjs8.cc
 0.0.0.0 odinkod.ru
 :: odinkod.ru
 0.0.0.0 odoscope.cloud
@@ -75448,6 +75454,8 @@ ff02::3 ip6-allhosts
 :: tz.1688988.com
 0.0.0.0 tz.obboob.cn
 :: tz.obboob.cn
+0.0.0.0 tz.yuanmengbi.com
+:: tz.yuanmengbi.com
 0.0.0.0 u-mob.cn
 :: u-mob.cn
 0.0.0.0 u-on.eu
@@ -79076,6 +79084,8 @@ ff02::3 ip6-allhosts
 :: wateryvan.com
 0.0.0.0 watfordobserver-gb.watfordobserver.co.uk
 :: watfordobserver-gb.watfordobserver.co.uk
+0.0.0.0 watgzh.com
+:: watgzh.com
 0.0.0.0 watieb.com
 :: watieb.com
 0.0.0.0 watrz.com
@@ -83488,6 +83498,8 @@ ff02::3 ip6-allhosts
 :: www.touclick.com
 0.0.0.0 www.toujing1.top
 :: www.toujing1.top
+0.0.0.0 www.toujing2.top
+:: www.toujing2.top
 0.0.0.0 www.toutiaopage.com
 :: www.toutiaopage.com
 0.0.0.0 www.tradeadexchange.com
@@ -86436,6 +86448,8 @@ ff02::3 ip6-allhosts
 :: yyp17.com
 0.0.0.0 yyshow.top
 :: yyshow.top
+0.0.0.0 yyt.gfe3uh.cc
+:: yyt.gfe3uh.cc
 0.0.0.0 yyuin.com
 :: yyuin.com
 0.0.0.0 yyy6999.com
@@ -86454,6 +86468,8 @@ ff02::3 ip6-allhosts
 :: yzxls.com
 0.0.0.0 yzygo.com
 :: yzygo.com
+0.0.0.0 yzyszy.com
+:: yzyszy.com
 0.0.0.0 z.cdn.braun634.com
 :: z.cdn.braun634.com
 0.0.0.0 z.cdn.trafficdok.com
