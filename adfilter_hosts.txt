@@ -1,8 +1,8 @@
-# Checksum: MTYwMzEzMDY4OQo=
+# Checksum: MTYwMzE0MTc5NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201019-6
-# TimeUpdated: 2020-10-19T18:04:49+00:00
+# Version: 1.6.5-20201019-7
+# TimeUpdated: 2020-10-19T21:09:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 43764
@@ -3482,6 +3482,8 @@ ff02::3 ip6-allhosts
 :: 9s6q.cn
 0.0.0.0 9t5.me
 :: 9t5.me
+0.0.0.0 9tn.cc
+:: 9tn.cc
 0.0.0.0 9ts3tpia.com
 :: 9ts3tpia.com
 0.0.0.0 9tumza4dp4o9.com
@@ -6848,8 +6850,6 @@ ff02::3 ip6-allhosts
 :: adpnut.com
 0.0.0.0 adpolestar.net
 :: adpolestar.net
-0.0.0.0 adpon.jp
-:: adpon.jp
 0.0.0.0 adpone.com
 :: adpone.com
 0.0.0.0 adpop-1.com
@@ -16326,8 +16326,6 @@ ff02::3 ip6-allhosts
 :: burt.io
 0.0.0.0 burytimes-gb.burytimes.co.uk
 :: burytimes-gb.burytimes.co.uk
-0.0.0.0 busandcob.site
-:: busandcob.site
 0.0.0.0 busfarmum.com
 :: busfarmum.com
 0.0.0.0 bushoagh.com
@@ -16480,8 +16478,6 @@ ff02::3 ip6-allhosts
 :: bxjch.top
 0.0.0.0 bxjpl.cn
 :: bxjpl.cn
-0.0.0.0 bxjt518.com
-:: bxjt518.com
 0.0.0.0 bxs.bilandgo.com
 :: bxs.bilandgo.com
 0.0.0.0 by.mbai.cn
@@ -18978,8 +18974,6 @@ ff02::3 ip6-allhosts
 :: clicationsul.club
 0.0.0.0 cliccabanner.com
 :: cliccabanner.com
-0.0.0.0 click-cpa.net
-:: click-cpa.net
 0.0.0.0 click-da-click.com
 :: click-da-click.com
 0.0.0.0 click-url.com
@@ -35852,8 +35846,6 @@ ff02::3 ip6-allhosts
 :: highnets.com
 0.0.0.0 highprofitnetwork.com
 :: highprofitnetwork.com
-0.0.0.0 highter.top
-:: highter.top
 0.0.0.0 higoo4.com
 :: higoo4.com
 0.0.0.0 hihifenxiang.com
@@ -42134,6 +42126,8 @@ ff02::3 ip6-allhosts
 :: klsdee.com
 0.0.0.0 klsdmr.com
 :: klsdmr.com
+0.0.0.0 kltces.com
+:: kltces.com
 0.0.0.0 kltent.cn
 :: kltent.cn
 0.0.0.0 klvvo.xhzlovehyx.cn
@@ -42726,6 +42720,8 @@ ff02::3 ip6-allhosts
 :: ladsoks.com
 0.0.0.0 ladsokz.com
 :: ladsokz.com
+0.0.0.0 ladsp.jp
+:: ladsp.jp
 0.0.0.0 ladspms.com
 :: ladspms.com
 0.0.0.0 ladspmz.com
@@ -75864,6 +75860,8 @@ ff02::3 ip6-allhosts
 :: uigruwtql.com
 0.0.0.0 uiiswaeojpfee.com
 :: uiiswaeojpfee.com
+0.0.0.0 uilsplentialde.top
+:: uilsplentialde.top
 0.0.0.0 uim.tifbs.net
 :: uim.tifbs.net
 0.0.0.0 uimg.123hala.com
@@ -84698,6 +84696,8 @@ ff02::3 ip6-allhosts
 :: xlcun.com
 0.0.0.0 xlfhttdeordzp.com
 :: xlfhttdeordzp.com
+0.0.0.0 xlftcc.com
+:: xlftcc.com
 0.0.0.0 xlnuj.com
 :: xlnuj.com
 0.0.0.0 xlog-va.musical.ly
