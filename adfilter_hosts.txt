@@ -1,11 +1,11 @@
-# Checksum: MTYwMzExOTg4MAo=
+# Checksum: MTYwMzEzMDY4OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201019-5
-# TimeUpdated: 2020-10-19T15:04:40+00:00
+# Version: 1.6.5-20201019-6
+# TimeUpdated: 2020-10-19T18:04:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43753
+# Total: 43764
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6366,6 +6366,8 @@ ff02::3 ip6-allhosts
 :: adlogists.com
 0.0.0.0 adlook.me
 :: adlook.me
+0.0.0.0 adlook.net
+:: adlook.net
 0.0.0.0 adloop.co
 :: adloop.co
 0.0.0.0 adlooxtracking.com
@@ -6846,6 +6848,8 @@ ff02::3 ip6-allhosts
 :: adpnut.com
 0.0.0.0 adpolestar.net
 :: adpolestar.net
+0.0.0.0 adpon.jp
+:: adpon.jp
 0.0.0.0 adpone.com
 :: adpone.com
 0.0.0.0 adpop-1.com
@@ -16790,8 +16794,6 @@ ff02::3 ip6-allhosts
 :: c.uaa.iqiyi.com
 0.0.0.0 c.uoyrsd.com
 :: c.uoyrsd.com
-0.0.0.0 c.v-meng.org
-:: c.v-meng.org
 0.0.0.0 c.v4dwkcv.com
 :: c.v4dwkcv.com
 0.0.0.0 c.votrube.ru
@@ -19812,6 +19814,8 @@ ff02::3 ip6-allhosts
 :: cnbole.net
 0.0.0.0 cncy8.com
 :: cncy8.com
+0.0.0.0 cndgrpfuuijg.com
+:: cndgrpfuuijg.com
 0.0.0.0 cndjs-1251973891.coshk.myqcloud.com
 :: cndjs-1251973891.coshk.myqcloud.com
 0.0.0.0 cndmye.ru
@@ -28446,6 +28450,8 @@ ff02::3 ip6-allhosts
 :: engine.laweekly.com
 0.0.0.0 engine.lvehaisen.com
 :: engine.lvehaisen.com
+0.0.0.0 engine.partylemons.com
+:: engine.partylemons.com
 0.0.0.0 engine.tuia.cn
 :: engine.tuia.cn
 0.0.0.0 engine.tuicoco.com
@@ -33788,6 +33794,8 @@ ff02::3 ip6-allhosts
 :: go.5211game.com
 0.0.0.0 go.admost.com
 :: go.admost.com
+0.0.0.0 go.bestmobiworld.com
+:: go.bestmobiworld.com
 0.0.0.0 go.dlads.cn
 :: go.dlads.cn
 0.0.0.0 go.ero-advertising.com
@@ -35844,6 +35852,8 @@ ff02::3 ip6-allhosts
 :: highnets.com
 0.0.0.0 highprofitnetwork.com
 :: highprofitnetwork.com
+0.0.0.0 highter.top
+:: highter.top
 0.0.0.0 higoo4.com
 :: higoo4.com
 0.0.0.0 hihifenxiang.com
@@ -36898,6 +36908,8 @@ ff02::3 ip6-allhosts
 :: hurtteeth.com
 0.0.0.0 husbandbazaar.com
 :: husbandbazaar.com
+0.0.0.0 husfly.com
+:: husfly.com
 0.0.0.0 husky.sogou.com
 :: husky.sogou.com
 0.0.0.0 huzhanbin.cn
@@ -52500,6 +52512,8 @@ ff02::3 ip6-allhosts
 :: nzixhx.com
 0.0.0.0 nzkxmphfbqrfzs.com
 :: nzkxmphfbqrfzs.com
+0.0.0.0 nzlydrgumirn.com
+:: nzlydrgumirn.com
 0.0.0.0 nzme-ads.co.nz
 :: nzme-ads.co.nz
 0.0.0.0 nzphoenix.com
@@ -52934,6 +52948,8 @@ ff02::3 ip6-allhosts
 :: oimg.nbcuni.com
 0.0.0.0 oinqqbzs.com
 :: oinqqbzs.com
+0.0.0.0 oinvalentpriv.top
+:: oinvalentpriv.top
 0.0.0.0 oir85.cn
 :: oir85.cn
 0.0.0.0 oix.com
@@ -53332,6 +53348,8 @@ ff02::3 ip6-allhosts
 :: onlyalad.net
 0.0.0.0 onlyshow.top
 :: onlyshow.top
+0.0.0.0 onmarshtompor.com
+:: onmarshtompor.com
 0.0.0.0 onolinclosesr.club
 :: onolinclosesr.club
 0.0.0.0 onpato.ru
@@ -53644,6 +53662,8 @@ ff02::3 ip6-allhosts
 :: optnmnstr.com
 0.0.0.0 optnmstr.com
 :: optnmstr.com
+0.0.0.0 optnumbhigh.com
+:: optnumbhigh.com
 0.0.0.0 optout.crsspxl.com
 :: optout.crsspxl.com
 0.0.0.0 opus.analytics.yahoo.com
@@ -54122,6 +54142,8 @@ ff02::3 ip6-allhosts
 :: oyndqimgof.com
 0.0.0.0 oysterscarton.com
 :: oysterscarton.com
+0.0.0.0 ozcdkiphvsnrht.com
+:: ozcdkiphvsnrht.com
 0.0.0.0 ozdpxc.com
 :: ozdpxc.com
 0.0.0.0 ozelmedikal.com
@@ -72494,6 +72516,8 @@ ff02::3 ip6-allhosts
 :: tizerfly.net
 0.0.0.0 tizergun.net
 :: tizergun.net
+0.0.0.0 tizerlady.ru
+:: tizerlady.ru
 0.0.0.0 tizermedias.com
 :: tizermedias.com
 0.0.0.0 tizermine.net
@@ -86468,8 +86492,6 @@ ff02::3 ip6-allhosts
 :: yzxls.com
 0.0.0.0 yzygo.com
 :: yzygo.com
-0.0.0.0 yzyszy.com
-:: yzyszy.com
 0.0.0.0 z.cdn.braun634.com
 :: z.cdn.braun634.com
 0.0.0.0 z.cdn.trafficdok.com
