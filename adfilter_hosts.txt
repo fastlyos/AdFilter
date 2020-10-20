@@ -1,8 +1,8 @@
-# Checksum: MTYwMzIxNzA2OAo=
+# Checksum: MTYwMzIyODE2MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201020-6
-# TimeUpdated: 2020-10-20T18:04:28+00:00
+# Version: 1.6.5-20201020-7
+# TimeUpdated: 2020-10-20T21:09:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 43853
@@ -1310,6 +1310,8 @@ ff02::3 ip6-allhosts
 :: 2parale.ro
 0.0.0.0 2performant.com
 :: 2performant.com
+0.0.0.0 2polj.top
+:: 2polj.top
 0.0.0.0 2ptxxjjzpy.com
 :: 2ptxxjjzpy.com
 0.0.0.0 2pxg8bcf.top
@@ -14162,8 +14164,6 @@ ff02::3 ip6-allhosts
 :: bdsearch.2345.com
 0.0.0.0 bdstatic.eastmoney.com
 :: bdstatic.eastmoney.com
-0.0.0.0 bdtongfei.cn
-:: bdtongfei.cn
 0.0.0.0 bdtwxreri.com
 :: bdtwxreri.com
 0.0.0.0 bdu.focus.cn
@@ -14800,8 +14800,6 @@ ff02::3 ip6-allhosts
 :: biallo2.de
 0.0.0.0 biallo3.de
 :: biallo3.de
-0.0.0.0 biandaosheng.com
-:: biandaosheng.com
 0.0.0.0 bianxianmao.com
 :: bianxianmao.com
 0.0.0.0 bianxianwu.com
@@ -18048,8 +18046,6 @@ ff02::3 ip6-allhosts
 :: cdnjke.com
 0.0.0.0 cdnjsp.wang
 :: cdnjsp.wang
-0.0.0.0 cdnkimg.com
-:: cdnkimg.com
 0.0.0.0 cdnlog.zhenai.com
 :: cdnlog.zhenai.com
 0.0.0.0 cdnmaster.cn
@@ -53004,6 +53000,8 @@ ff02::3 ip6-allhosts
 :: ohwx.7cjsh.cn
 0.0.0.0 oicchina.com
 :: oicchina.com
+0.0.0.0 oicretarifiedy.top
+:: oicretarifiedy.top
 0.0.0.0 oicssiq.com
 :: oicssiq.com
 0.0.0.0 oijkse.com
@@ -57416,6 +57414,8 @@ ff02::3 ip6-allhosts
 :: prd-collector-anon.playbuzz.com
 0.0.0.0 prdele.eu
 :: prdele.eu
+0.0.0.0 pre.glotgrx.com
+:: pre.glotgrx.com
 0.0.0.0 pre.ra.icast.cn
 :: pre.ra.icast.cn
 0.0.0.0 preadyaggrego.club
