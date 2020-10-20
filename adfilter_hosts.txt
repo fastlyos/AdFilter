@@ -1,11 +1,11 @@
-# Checksum: MTYwMzE5NTUzMQo=
+# Checksum: MTYwMzIwNjI4Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201020-4
-# TimeUpdated: 2020-10-20T12:05:31+00:00
+# Version: 1.6.5-20201020-5
+# TimeUpdated: 2020-10-20T15:04:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43825
+# Total: 43835
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2824,6 +2824,8 @@ ff02::3 ip6-allhosts
 :: 7mx.eider.com
 0.0.0.0 7n32vb7tn4w7n373a.top
 :: 7n32vb7tn4w7n373a.top
+0.0.0.0 7news.site
+:: 7news.site
 0.0.0.0 7o2o.com
 :: 7o2o.com
 0.0.0.0 7offers.ru
@@ -11506,6 +11508,10 @@ ff02::3 ip6-allhosts
 :: app.acm.dzwww.com
 0.0.0.0 app.adjust.io
 :: app.adjust.io
+0.0.0.0 app.adjust.net.in
+:: app.adjust.net.in
+0.0.0.0 app.adjust.world
+:: app.adjust.world
 0.0.0.0 app.agent.yunfancdn.com
 :: app.agent.yunfancdn.com
 0.0.0.0 app.airtrack.jp
@@ -15532,6 +15538,8 @@ ff02::3 ip6-allhosts
 :: boayipids.com
 0.0.0.0 bobaidu8.com
 :: bobaidu8.com
+0.0.0.0 bobarmale.online
+:: bobarmale.online
 0.0.0.0 bobi-bobi.info
 :: bobi-bobi.info
 0.0.0.0 bobi-mobi.info
@@ -18602,8 +18610,6 @@ ff02::3 ip6-allhosts
 :: chitika.com
 0.0.0.0 chiuhua.com.cn
 :: chiuhua.com.cn
-0.0.0.0 chjriixbqmppwm.com
-:: chjriixbqmppwm.com
 0.0.0.0 chkfdt.com
 :: chkfdt.com
 0.0.0.0 chkpt.zdnet.com
@@ -20880,6 +20886,8 @@ ff02::3 ip6-allhosts
 :: cookiex.ngd.yahoo.com
 0.0.0.0 cooladata.com
 :: cooladata.com
+0.0.0.0 coolbook.cc
+:: coolbook.cc
 0.0.0.0 coolcpms.com
 :: coolcpms.com
 0.0.0.0 coolerads.com
@@ -31800,6 +31808,8 @@ ff02::3 ip6-allhosts
 :: frutrun.com
 0.0.0.0 frvid.ru
 :: frvid.ru
+0.0.0.0 frvpeuulyprl.com
+:: frvpeuulyprl.com
 0.0.0.0 fryawlauk.com
 :: fryawlauk.com
 0.0.0.0 frzynewnpg.com
@@ -43214,6 +43224,8 @@ ff02::3 ip6-allhosts
 :: legalledgtjuj.club
 0.0.0.0 legandruk.com
 :: legandruk.com
+0.0.0.0 legedlunchar.top
+:: legedlunchar.top
 0.0.0.0 legenhit.com
 :: legenhit.com
 0.0.0.0 legislands.club
@@ -46854,6 +46866,8 @@ ff02::3 ip6-allhosts
 :: manyou.com
 0.0.0.0 mao1.jsnovel.com
 :: mao1.jsnovel.com
+0.0.0.0 maobujie.com
+:: maobujie.com
 0.0.0.0 maomaotang.com
 :: maomaotang.com
 0.0.0.0 maoyumao.net
@@ -52256,6 +52270,8 @@ ff02::3 ip6-allhosts
 :: nsg.symantec.com
 0.0.0.0 nshes.ru
 :: nshes.ru
+0.0.0.0 nsidereturn.club
+:: nsidereturn.club
 0.0.0.0 nskoxgsb.com
 :: nskoxgsb.com
 0.0.0.0 nslaingeninfinedna.info
@@ -62544,6 +62560,8 @@ ff02::3 ip6-allhosts
 :: rva.outbrain.com
 0.0.0.0 rvb.quanliyouxi.cn
 :: rvb.quanliyouxi.cn
+0.0.0.0 rvbxnnwdsi.com
+:: rvbxnnwdsi.com
 0.0.0.0 rviceschoolr.club
 :: rviceschoolr.club
 0.0.0.0 rvnc72k.com
@@ -66322,8 +66340,6 @@ ff02::3 ip6-allhosts
 :: skytraf.xyz
 0.0.0.0 skytvonline.tv
 :: skytvonline.tv
-0.0.0.0 skywinners.com.cn
-:: skywinners.com.cn
 0.0.0.0 sl-ct5.com
 :: sl-ct5.com
 0.0.0.0 sl.hpplay.cn
@@ -66616,6 +66632,8 @@ ff02::3 ip6-allhosts
 :: smintmouse.com
 0.0.0.0 smitionsory.co
 :: smitionsory.co
+0.0.0.0 smjhzmln.com
+:: smjhzmln.com
 0.0.0.0 smjs.allyes.com
 :: smjs.allyes.com
 0.0.0.0 smoggysnakes.com
@@ -84922,6 +84940,8 @@ ff02::3 ip6-allhosts
 :: xn--2ssq0ktxigkq.cc
 0.0.0.0 xn--2ssq0ktxigkq.com
 :: xn--2ssq0ktxigkq.com
+0.0.0.0 xn--3bs795g.zone
+:: xn--3bs795g.zone
 0.0.0.0 xn--4gqqc629gbju.com
 :: xn--4gqqc629gbju.com
 0.0.0.0 xn--4gqvdz18f.xyz
