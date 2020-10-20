@@ -1,11 +1,11 @@
-# Checksum: MTYwMzE0MTc5NAo=
+# Checksum: MTYwMzE1MjYxNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201019-7
-# TimeUpdated: 2020-10-19T21:09:54+00:00
+# Version: 1.6.5-20201020-0
+# TimeUpdated: 2020-10-20T00:10:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43764
+# Total: 43770
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -948,6 +948,8 @@ ff02::3 ip6-allhosts
 :: 1uejo00npy.buzz
 0.0.0.0 1ulebzhsv7.buzz
 :: 1ulebzhsv7.buzz
+0.0.0.0 1under.ru
+:: 1under.ru
 0.0.0.0 1uno1xkktau4.com
 :: 1uno1xkktau4.com
 0.0.0.0 1v7.cn
@@ -3542,8 +3544,6 @@ ff02::3 ip6-allhosts
 :: a-static.com
 0.0.0.0 a.19869.com
 :: a.19869.com
-0.0.0.0 a.198banjia.com
-:: a.198banjia.com
 0.0.0.0 a.20minutes.fr
 :: a.20minutes.fr
 0.0.0.0 a.4aqq.com
@@ -19800,8 +19800,6 @@ ff02::3 ip6-allhosts
 :: cnadid.com
 0.0.0.0 cnbanbao.com
 :: cnbanbao.com
-0.0.0.0 cnbarnfxq.com
-:: cnbarnfxq.com
 0.0.0.0 cnbj1.fds.api.xiaomi.com
 :: cnbj1.fds.api.xiaomi.com
 0.0.0.0 cnbole.net
@@ -23794,6 +23792,8 @@ ff02::3 ip6-allhosts
 :: damskiy.xyz
 0.0.0.0 damsoloist.com
 :: damsoloist.com
+0.0.0.0 damumu.xyz
+:: damumu.xyz
 0.0.0.0 damuzhi118.com
 :: damuzhi118.com
 0.0.0.0 dana123.com
@@ -42720,8 +42720,6 @@ ff02::3 ip6-allhosts
 :: ladsoks.com
 0.0.0.0 ladsokz.com
 :: ladsokz.com
-0.0.0.0 ladsp.jp
-:: ladsp.jp
 0.0.0.0 ladspms.com
 :: ladspms.com
 0.0.0.0 ladspmz.com
@@ -44634,6 +44632,8 @@ ff02::3 ip6-allhosts
 :: logs.dashlane.com
 0.0.0.0 logs.eresmas.com
 :: logs.eresmas.com
+0.0.0.0 logs.gaaana.com
+:: logs.gaaana.com
 0.0.0.0 logs.gaana.com
 :: logs.gaana.com
 0.0.0.0 logs.ggweb.nl
@@ -44946,6 +44946,8 @@ ff02::3 ip6-allhosts
 :: lptracker.ru
 0.0.0.0 lpwzjhkuwbe.com
 :: lpwzjhkuwbe.com
+0.0.0.0 lpxdkhfauevov.com
+:: lpxdkhfauevov.com
 0.0.0.0 lq.booktxt.net
 :: lq.booktxt.net
 0.0.0.0 lqagwvarq.com
@@ -45422,6 +45424,8 @@ ff02::3 ip6-allhosts
 :: m.acswyw.cn
 0.0.0.0 m.ad.zhangyue.com
 :: m.ad.zhangyue.com
+0.0.0.0 m.adaog.com
+:: m.adaog.com
 0.0.0.0 m.addthis.com
 :: m.addthis.com
 0.0.0.0 m.addthisedge.com
@@ -45578,6 +45582,8 @@ ff02::3 ip6-allhosts
 :: m.dante2007.com
 0.0.0.0 m.data.mob.com
 :: m.data.mob.com
+0.0.0.0 m.dbaij.com
+:: m.dbaij.com
 0.0.0.0 m.dbaof.com
 :: m.dbaof.com
 0.0.0.0 m.dgaoz.com
@@ -50092,6 +50098,8 @@ ff02::3 ip6-allhosts
 :: mvchallenges.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 mvip.zhuba8.com
 :: mvip.zhuba8.com
+0.0.0.0 mvo.12rge.xyz
+:: mvo.12rge.xyz
 0.0.0.0 mvo.bd6t4.xyz
 :: mvo.bd6t4.xyz
 0.0.0.0 mvo.m456d.xyz
@@ -65296,6 +65304,8 @@ ff02::3 ip6-allhosts
 :: sftrack.searchforce.net
 0.0.0.0 sfxl.com.cn
 :: sfxl.com.cn
+0.0.0.0 sfz023.com
+:: sfz023.com
 0.0.0.0 sfzhd.top
 :: sfzhd.top
 0.0.0.0 sg-autorepondeur.com
@@ -72676,6 +72686,8 @@ ff02::3 ip6-allhosts
 :: tle.ru
 0.0.0.0 tlgprhsl.com
 :: tlgprhsl.com
+0.0.0.0 tlhiatdhw.com
+:: tlhiatdhw.com
 0.0.0.0 tlocatering.club
 :: tlocatering.club
 0.0.0.0 tlootas.org
