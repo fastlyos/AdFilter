@@ -1,11 +1,11 @@
-# Checksum: MTYwMzIyODE2MQo=
+# Checksum: MTYwMzIzOTAyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.5-20201020-7
-# TimeUpdated: 2020-10-20T21:09:21+00:00
+# Version: 1.6.5-20201021-0
+# TimeUpdated: 2020-10-21T00:10:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43853
+# Total: 43858
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7664,6 +7664,8 @@ ff02::3 ip6-allhosts
 :: adserving.unibet.com
 0.0.0.0 adservingfactory.com
 :: adservingfactory.com
+0.0.0.0 adservinginternational.com
+:: adservinginternational.com
 0.0.0.0 adservme.com
 :: adservme.com
 0.0.0.0 adservone.com
@@ -12164,6 +12166,8 @@ ff02::3 ip6-allhosts
 :: ashcdn.com
 0.0.0.0 ashemeth.com
 :: ashemeth.com
+0.0.0.0 ashingcontro.top
+:: ashingcontro.top
 0.0.0.0 ashiping.com
 :: ashiping.com
 0.0.0.0 ashot.txxx.com
@@ -14164,6 +14168,8 @@ ff02::3 ip6-allhosts
 :: bdsearch.2345.com
 0.0.0.0 bdstatic.eastmoney.com
 :: bdstatic.eastmoney.com
+0.0.0.0 bdtongfei.cn
+:: bdtongfei.cn
 0.0.0.0 bdtwxreri.com
 :: bdtwxreri.com
 0.0.0.0 bdu.focus.cn
@@ -20096,8 +20102,6 @@ ff02::3 ip6-allhosts
 :: coinhiver.com
 0.0.0.0 coinhives.com
 :: coinhives.com
-0.0.0.0 coinhub.win
-:: coinhub.win
 0.0.0.0 coinimp.com
 :: coinimp.com
 0.0.0.0 coinimp.net
@@ -46868,6 +46872,8 @@ ff02::3 ip6-allhosts
 :: mansion66.com
 0.0.0.0 mantedtonisms.info
 :: mantedtonisms.info
+0.0.0.0 manuaisadultos.com.br
+:: manuaisadultos.com.br
 0.0.0.0 manughl.de
 :: manughl.de
 0.0.0.0 manychat.com
@@ -54072,6 +54078,8 @@ ff02::3 ip6-allhosts
 :: outils2.worldoo.info
 0.0.0.0 outlookabsorb.com
 :: outlookabsorb.com
+0.0.0.0 outotheret.club
+:: outotheret.club
 0.0.0.0 output.nend.net
 :: output.nend.net
 0.0.0.0 outseeltor.com
@@ -75880,6 +75888,8 @@ ff02::3 ip6-allhosts
 :: uelllwrite.com
 0.0.0.0 ueopf.com
 :: ueopf.com
+0.0.0.0 ueopjincquazoo.com
+:: ueopjincquazoo.com
 0.0.0.0 uestat.video.qiyi.com
 :: uestat.video.qiyi.com
 0.0.0.0 ueuerea.com
