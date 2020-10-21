@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Current Version: 1.6.5
+# Current Version: 1.6.6
 
 ## How to get and use?
-# git clone "https://github.com/hezhijie0327/AdFilter.git" && chmod 0777 ./AdFilter/release.sh && bash ./AdFilter/release.sh
+# git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
 
 ## Function
 # Get Data
