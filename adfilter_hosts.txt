@@ -1,11 +1,11 @@
-# Checksum: MTYwMzI3MTA4NQo=
+# Checksum: MTYwMzI4MTkzMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201021-3
-# TimeUpdated: 2020-10-21T09:04:45+00:00
+# Version: 1.6.6-20201021-4
+# TimeUpdated: 2020-10-21T12:05:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43867
+# Total: 43871
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -892,6 +892,8 @@ ff02::3 ip6-allhosts
 :: 1loop.com
 0.0.0.0 1maode.com
 :: 1maode.com
+0.0.0.0 1mb034.cn
+:: 1mb034.cn
 0.0.0.0 1mob.com
 :: 1mob.com
 0.0.0.0 1mp.mobi
@@ -1166,6 +1168,8 @@ ff02::3 ip6-allhosts
 :: 25348f89a3.com
 0.0.0.0 2559a303164ddde96.com
 :: 2559a303164ddde96.com
+0.0.0.0 256k.xyz
+:: 256k.xyz
 0.0.0.0 258pcf.com
 :: 258pcf.com
 0.0.0.0 258ydh.com
@@ -2190,8 +2194,6 @@ ff02::3 ip6-allhosts
 :: 5aa8f31e2f5d.com
 0.0.0.0 5aac971e.qivsod.com
 :: 5aac971e.qivsod.com
-0.0.0.0 5advertise.com
-:: 5advertise.com
 0.0.0.0 5b5a93686577c13.com
 :: 5b5a93686577c13.com
 0.0.0.0 5baf1288cf.dl8.me
@@ -18744,8 +18746,6 @@ ff02::3 ip6-allhosts
 :: cinsurmours.club
 0.0.0.0 cipateamondrevie.info
 :: cipateamondrevie.info
-0.0.0.0 circle.am
-:: circle.am
 0.0.0.0 circuitewate.space
 :: circuitewate.space
 0.0.0.0 circular-counters.com
@@ -35142,6 +35142,8 @@ ff02::3 ip6-allhosts
 :: hamlipboat.com
 0.0.0.0 hammerhearing.com
 :: hammerhearing.com
+0.0.0.0 hampionsfu.club
+:: hampionsfu.club
 0.0.0.0 hampshirechronicle-gb.hampshirechronicle.co.uk
 :: hampshirechronicle-gb.hampshirechronicle.co.uk
 0.0.0.0 hamsterpierrejews.com
@@ -35820,6 +35822,8 @@ ff02::3 ip6-allhosts
 :: hhourtrk2.com
 0.0.0.0 hhppyt.com
 :: hhppyt.com
+0.0.0.0 hhunvu.com
+:: hhunvu.com
 0.0.0.0 hhvip86.com
 :: hhvip86.com
 0.0.0.0 hhvip87.com
@@ -45386,6 +45390,8 @@ ff02::3 ip6-allhosts
 :: lzpgstae.com
 0.0.0.0 lzrikate.com
 :: lzrikate.com
+0.0.0.0 lzwla.top
+:: lzwla.top
 0.0.0.0 lzytt.com
 :: lzytt.com
 0.0.0.0 lzzqqc.com
@@ -81534,6 +81540,8 @@ ff02::3 ip6-allhosts
 :: wu65.com
 0.0.0.0 wudang05.com
 :: wudang05.com
+0.0.0.0 wudejia.com
+:: wudejia.com
 0.0.0.0 wudr.net
 :: wudr.net
 0.0.0.0 wufel.ml
