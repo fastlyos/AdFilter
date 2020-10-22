@@ -1,11 +1,11 @@
-# Checksum: MTYwMzM2ODM0OAo=
+# Checksum: MTYwMzM3OTA3Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201022-4
-# TimeUpdated: 2020-10-22T12:05:48+00:00
+# Version: 1.6.6-20201022-5
+# TimeUpdated: 2020-10-22T15:04:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43923
+# Total: 43934
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10052,6 +10052,8 @@ ff02::3 ip6-allhosts
 :: amesgraduatel.site
 0.0.0.0 amfi.gou.sogou.com
 :: amfi.gou.sogou.com
+0.0.0.0 amghais.cn
+:: amghais.cn
 0.0.0.0 amhpbhyxfgvd.com
 :: amhpbhyxfgvd.com
 0.0.0.0 amiderations.info
@@ -10288,6 +10290,8 @@ ff02::3 ip6-allhosts
 :: analytics.brandcrumb.com
 0.0.0.0 analytics.brave.com
 :: analytics.brave.com
+0.0.0.0 analytics.brunch.co.kr
+:: analytics.brunch.co.kr
 0.0.0.0 analytics.businessinsider.com
 :: analytics.businessinsider.com
 0.0.0.0 analytics.callbell.eu
@@ -11600,6 +11604,8 @@ ff02::3 ip6-allhosts
 :: apparentsav.club
 0.0.0.0 apparest.com
 :: apparest.com
+0.0.0.0 appboy-images.com
+:: appboy-images.com
 0.0.0.0 appboy.com
 :: appboy.com
 0.0.0.0 appboycdn.com
@@ -18752,6 +18758,8 @@ ff02::3 ip6-allhosts
 :: cinsurmours.club
 0.0.0.0 cipateamondrevie.info
 :: cipateamondrevie.info
+0.0.0.0 circle.am
+:: circle.am
 0.0.0.0 circuitewate.space
 :: circuitewate.space
 0.0.0.0 circular-counters.com
@@ -24478,6 +24486,8 @@ ff02::3 ip6-allhosts
 :: deepc.cc
 0.0.0.0 deepchannel.com
 :: deepchannel.com
+0.0.0.0 deepdive.zum.com
+:: deepdive.zum.com
 0.0.0.0 deepintent.com
 :: deepintent.com
 0.0.0.0 deepknow.egoid.me
@@ -24558,6 +24568,8 @@ ff02::3 ip6-allhosts
 :: deliver.oztam.com.au
 0.0.0.0 deliver.ptgncdn.com
 :: deliver.ptgncdn.com
+0.0.0.0 delivery-cdn-cf.adswizz.com
+:: delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery-dev.thebloggernetwork.com
 :: delivery-dev.thebloggernetwork.com
 0.0.0.0 delivery-pc.wasu.cn
@@ -30830,6 +30842,8 @@ ff02::3 ip6-allhosts
 :: ficusoid.xyz
 0.0.0.0 fiechaev.com
 :: fiechaev.com
+0.0.0.0 fiedinherite.top
+:: fiedinherite.top
 0.0.0.0 fiehff.com
 :: fiehff.com
 0.0.0.0 fiestataseel.club
@@ -32336,6 +32350,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -42656,8 +42672,6 @@ ff02::3 ip6-allhosts
 :: kxewpz.com
 0.0.0.0 kxlogo.knet.cn
 :: kxlogo.knet.cn
-0.0.0.0 kxpdajoet.com
-:: kxpdajoet.com
 0.0.0.0 kxqvnfcg.xyz
 :: kxqvnfcg.xyz
 0.0.0.0 kxrxh.com
@@ -44410,6 +44424,8 @@ ff02::3 ip6-allhosts
 :: log.china.cn
 0.0.0.0 log.cizion.com
 :: log.cizion.com
+0.0.0.0 log.cloud.sbs.co.kr
+:: log.cloud.sbs.co.kr
 0.0.0.0 log.cmpassport.com
 :: log.cmpassport.com
 0.0.0.0 log.codemarketing.cloud
@@ -44658,6 +44674,8 @@ ff02::3 ip6-allhosts
 :: log4x.nixcdn.com
 0.0.0.0 logaholic.com
 :: logaholic.com
+0.0.0.0 logapi.tv.naver.com
+:: logapi.tv.naver.com
 0.0.0.0 logbor.com
 :: logbor.com
 0.0.0.0 logconfig.polarisoffice.com
@@ -52786,8 +52804,6 @@ ff02::3 ip6-allhosts
 :: oalselry.com
 0.0.0.0 oapseele.net
 :: oapseele.net
-0.0.0.0 oaqjwapqdho.com
-:: oaqjwapqdho.com
 0.0.0.0 oaraunal.com
 :: oaraunal.com
 0.0.0.0 oardilin.com
@@ -76320,6 +76336,8 @@ ff02::3 ip6-allhosts
 :: ums.adtechus.com
 0.0.0.0 umusjdiehxbn.com
 :: umusjdiehxbn.com
+0.0.0.0 umxxuqpbhylyy.com
+:: umxxuqpbhylyy.com
 0.0.0.0 umyijmhalvbk.com
 :: umyijmhalvbk.com
 0.0.0.0 un.soarfi.cn
@@ -76788,6 +76806,8 @@ ff02::3 ip6-allhosts
 :: urercontalproces.info
 0.0.0.0 ureresponsbrit.club
 :: ureresponsbrit.club
+0.0.0.0 uresnecessf.club
+:: uresnecessf.club
 0.0.0.0 ureticrelingse.top
 :: ureticrelingse.top
 0.0.0.0 urgeousimp.club
@@ -80666,6 +80686,8 @@ ff02::3 ip6-allhosts
 :: wl.houyi.baofeng.net
 0.0.0.0 wl.xsoftmall.com
 :: wl.xsoftmall.com
+0.0.0.0 wl.yna.co.kr
+:: wl.yna.co.kr
 0.0.0.0 wl963.com
 :: wl963.com
 0.0.0.0 wla.vivaldi.com
