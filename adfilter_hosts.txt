@@ -1,11 +1,11 @@
-# Checksum: MTYwMzM1NzQ3NAo=
+# Checksum: MTYwMzM2ODM0OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201022-3
-# TimeUpdated: 2020-10-22T09:04:34+00:00
+# Version: 1.6.6-20201022-4
+# TimeUpdated: 2020-10-22T12:05:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43918
+# Total: 43923
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1540,8 +1540,6 @@ ff02::3 ip6-allhosts
 :: 36ia2.cn
 0.0.0.0 36pn.com
 :: 36pn.com
-0.0.0.0 3761fcd24ef9281f5.com
-:: 3761fcd24ef9281f5.com
 0.0.0.0 3798.com
 :: 3798.com
 0.0.0.0 37cs.com
@@ -5516,6 +5514,8 @@ ff02::3 ip6-allhosts
 :: adadvisor.net
 0.0.0.0 adagionet.com
 :: adagionet.com
+0.0.0.0 adagropro.bid
+:: adagropro.bid
 0.0.0.0 adalizer.com
 :: adalizer.com
 0.0.0.0 adalliance.io
@@ -9190,6 +9190,8 @@ ff02::3 ip6-allhosts
 :: ag.qq.com
 0.0.0.0 ag1.zuszw.com
 :: ag1.zuszw.com
+0.0.0.0 agacelebir.com
+:: agacelebir.com
 0.0.0.0 againstanctu.info
 :: againstanctu.info
 0.0.0.0 agaso.de
@@ -12892,6 +12894,8 @@ ff02::3 ip6-allhosts
 :: axad.shinobi.jp
 0.0.0.0 axbet20.com
 :: axbet20.com
+0.0.0.0 axbxgg.com
+:: axbxgg.com
 0.0.0.0 axecash.com
 :: axecash.com
 0.0.0.0 axeldivision.com
@@ -13266,6 +13270,8 @@ ff02::3 ip6-allhosts
 :: back.marketing
 0.0.0.0 backbeatmedia.com
 :: backbeatmedia.com
+0.0.0.0 backforward.bid
+:: backforward.bid
 0.0.0.0 backlink-test.de
 :: backlink-test.de
 0.0.0.0 backlink-umsonst.de
@@ -27270,8 +27276,6 @@ ff02::3 ip6-allhosts
 :: e350570881272e.com
 0.0.0.0 e376ef28103177cc.com
 :: e376ef28103177cc.com
-0.0.0.0 e3edf10711.com
-:: e3edf10711.com
 0.0.0.0 e3tmyc4rbs.com
 :: e3tmyc4rbs.com
 0.0.0.0 e4npw6g7c9kk.com
@@ -32332,8 +32336,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -40540,8 +40542,6 @@ ff02::3 ip6-allhosts
 :: jiuku.cc
 0.0.0.0 jiupinshan.cn
 :: jiupinshan.cn
-0.0.0.0 jiuwanzi.com
-:: jiuwanzi.com
 0.0.0.0 jiuyuntian3.cn
 :: jiuyuntian3.cn
 0.0.0.0 jiuzhilan.com
@@ -40654,8 +40654,6 @@ ff02::3 ip6-allhosts
 :: jnctgldbxc.com
 0.0.0.0 jndczg.com
 :: jndczg.com
-0.0.0.0 jndfrqz.com
-:: jndfrqz.com
 0.0.0.0 jnnezwibrkwpz.com
 :: jnnezwibrkwpz.com
 0.0.0.0 jnrsjm.com
@@ -42658,6 +42656,8 @@ ff02::3 ip6-allhosts
 :: kxewpz.com
 0.0.0.0 kxlogo.knet.cn
 :: kxlogo.knet.cn
+0.0.0.0 kxpdajoet.com
+:: kxpdajoet.com
 0.0.0.0 kxqvnfcg.xyz
 :: kxqvnfcg.xyz
 0.0.0.0 kxrxh.com
@@ -51840,6 +51840,8 @@ ff02::3 ip6-allhosts
 :: nishfarmerlypas.info
 0.0.0.0 nishoagn.com
 :: nishoagn.com
+0.0.0.0 nislanelibrar.top
+:: nislanelibrar.top
 0.0.0.0 nistdeathersd.club
 :: nistdeathersd.club
 0.0.0.0 nitmus.com
@@ -52784,6 +52786,8 @@ ff02::3 ip6-allhosts
 :: oalselry.com
 0.0.0.0 oapseele.net
 :: oapseele.net
+0.0.0.0 oaqjwapqdho.com
+:: oaqjwapqdho.com
 0.0.0.0 oaraunal.com
 :: oaraunal.com
 0.0.0.0 oardilin.com
@@ -65372,6 +65376,8 @@ ff02::3 ip6-allhosts
 :: servote.de
 0.0.0.0 servustats.com
 :: servustats.com
+0.0.0.0 servw.bid
+:: servw.bid
 0.0.0.0 serwrities.club
 :: serwrities.club
 0.0.0.0 sesbromandi.club
@@ -66000,6 +66006,8 @@ ff02::3 ip6-allhosts
 :: shroughtened.com
 0.0.0.0 shsistnovem.top
 :: shsistnovem.top
+0.0.0.0 shsnjj.top
+:: shsnjj.top
 0.0.0.0 shtatuo.cn
 :: shtatuo.cn
 0.0.0.0 shtt.shuqw.com
@@ -72626,8 +72634,6 @@ ff02::3 ip6-allhosts
 :: tidytrail.com
 0.0.0.0 tieecstasythrong.com
 :: tieecstasythrong.com
-0.0.0.0 tieqifeng.com
-:: tieqifeng.com
 0.0.0.0 tiexing.com
 :: tiexing.com
 0.0.0.0 tifybecausingp.info
@@ -74032,6 +74038,8 @@ ff02::3 ip6-allhosts
 :: tracker-id.cdiscount.com
 0.0.0.0 tracker-tds.info
 :: tracker-tds.info
+0.0.0.0 tracker.520call.me
+:: tracker.520call.me
 0.0.0.0 tracker.adotmob.com
 :: tracker.adotmob.com
 0.0.0.0 tracker.affiliate.iqoption.com
@@ -75842,6 +75850,8 @@ ff02::3 ip6-allhosts
 :: u2tshop.ru
 0.0.0.0 u39chju32a.com
 :: u39chju32a.com
+0.0.0.0 u3y8v8u2.ackcdn.net
+:: u3y8v8u2.ackcdn.net
 0.0.0.0 u51.me
 :: u51.me
 0.0.0.0 u595sebqih.com
