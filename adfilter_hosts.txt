@@ -1,11 +1,11 @@
-# Checksum: MTYwMzM3OTA3Mwo=
+# Checksum: MTYwMzM4OTg4MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201022-5
-# TimeUpdated: 2020-10-22T15:04:33+00:00
+# Version: 1.6.6-20201022-6
+# TimeUpdated: 2020-10-22T18:04:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43934
+# Total: 43943
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2110,6 +2110,8 @@ ff02::3 ip6-allhosts
 :: 550b3ikb9j.com
 0.0.0.0 550sky.com
 :: 550sky.com
+0.0.0.0 552239b90400b7.com
+:: 552239b90400b7.com
 0.0.0.0 555lu.com
 :: 555lu.com
 0.0.0.0 555p555p.com
@@ -5858,6 +5860,8 @@ ff02::3 ip6-allhosts
 :: additionant.com
 0.0.0.0 addkt.com
 :: addkt.com
+0.0.0.0 addlog.thuvienphapluat.vn
+:: addlog.thuvienphapluat.vn
 0.0.0.0 addmob.info
 :: addmob.info
 0.0.0.0 addnow.com
@@ -10052,8 +10056,6 @@ ff02::3 ip6-allhosts
 :: amesgraduatel.site
 0.0.0.0 amfi.gou.sogou.com
 :: amfi.gou.sogou.com
-0.0.0.0 amghais.cn
-:: amghais.cn
 0.0.0.0 amhpbhyxfgvd.com
 :: amhpbhyxfgvd.com
 0.0.0.0 amiderations.info
@@ -34290,6 +34292,8 @@ ff02::3 ip6-allhosts
 :: gqqdlckj8y.com
 0.0.0.0 gqsgcdcxsmxw.com
 :: gqsgcdcxsmxw.com
+0.0.0.0 gqtffirr.com
+:: gqtffirr.com
 0.0.0.0 gqusxhuexmu.com
 :: gqusxhuexmu.com
 0.0.0.0 gqutnukt.com
@@ -35168,6 +35172,8 @@ ff02::3 ip6-allhosts
 :: halldata.com
 0.0.0.0 halleyperson.pro
 :: halleyperson.pro
+0.0.0.0 hallhesyaw.com
+:: hallhesyaw.com
 0.0.0.0 hallowelt.cc
 :: hallowelt.cc
 0.0.0.0 haloapps.com
@@ -37280,8 +37286,6 @@ ff02::3 ip6-allhosts
 :: i.qihaoqu.com
 0.0.0.0 i.skimresources.com
 :: i.skimresources.com
-0.0.0.0 i.snssdk.com
-:: i.snssdk.com
 0.0.0.0 i.ssix.io
 :: i.ssix.io
 0.0.0.0 i.stat.nearme.com.cn
@@ -44414,6 +44418,8 @@ ff02::3 ip6-allhosts
 :: log.baodauthau.vn
 0.0.0.0 log.baomoi.com
 :: log.baomoi.com
+0.0.0.0 log.baonghean.vn
+:: log.baonghean.vn
 0.0.0.0 log.baophapluat.vn
 :: log.baophapluat.vn
 0.0.0.0 log.batdongsan.com.vn
@@ -48306,6 +48312,8 @@ ff02::3 ip6-allhosts
 :: mgr.aduu.cn
 0.0.0.0 mgrantzenint.fun
 :: mgrantzenint.fun
+0.0.0.0 mgsqbazssiq.com
+:: mgsqbazssiq.com
 0.0.0.0 mgsue.cn
 :: mgsue.cn
 0.0.0.0 mgtv-bbqn.oss-cn-beijing.aliyuncs.com
@@ -53004,6 +53012,8 @@ ff02::3 ip6-allhosts
 :: offergate.pro
 0.0.0.0 offerimage.com
 :: offerimage.com
+0.0.0.0 offerjuice.me
+:: offerjuice.me
 0.0.0.0 offermatica.com
 :: offermatica.com
 0.0.0.0 offerpoint.net
@@ -60510,6 +60520,8 @@ ff02::3 ip6-allhosts
 :: rcgi.video.qq.com
 0.0.0.0 rchitereach.info
 :: rchitereach.info
+0.0.0.0 rchs.1mb034.cn
+:: rchs.1mb034.cn
 0.0.0.0 rclmc.top
 :: rclmc.top
 0.0.0.0 rcm-cn.amazon.cn
@@ -75408,6 +75420,8 @@ ff02::3 ip6-allhosts
 :: tu.biddingx.com
 0.0.0.0 tu.cvnad.com
 :: tu.cvnad.com
+0.0.0.0 tu.njflfd.com
+:: tu.njflfd.com
 0.0.0.0 tu.zx110.org
 :: tu.zx110.org
 0.0.0.0 tu42het22n.com
@@ -76960,6 +76974,8 @@ ff02::3 ip6-allhosts
 :: usedbreat.club
 0.0.0.0 usedexample.com
 :: usedexample.com
+0.0.0.0 usefathom.com
+:: usefathom.com
 0.0.0.0 usefomo.com
 :: usefomo.com
 0.0.0.0 useg.nextdigital.com.hk
@@ -77030,6 +77046,8 @@ ff02::3 ip6-allhosts
 :: userstats.shopee.vn
 0.0.0.0 userzoom.com
 :: userzoom.com
+0.0.0.0 usesfathom.com
+:: usesfathom.com
 0.0.0.0 ushoofop.com
 :: ushoofop.com
 0.0.0.0 ushooque.net
