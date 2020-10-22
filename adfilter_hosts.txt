@@ -1,11 +1,11 @@
-# Checksum: MTYwMzM4OTg4MQo=
+# Checksum: MTYwMzQwMDYzOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201022-6
-# TimeUpdated: 2020-10-22T18:04:41+00:00
+# Version: 1.6.6-20201022-7
+# TimeUpdated: 2020-10-22T21:03:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43943
+# Total: 43945
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -32982,6 +32982,8 @@ ff02::3 ip6-allhosts
 :: genecute.com
 0.0.0.0 genelajans.com
 :: genelajans.com
+0.0.0.0 generablep.top
+:: generablep.top
 0.0.0.0 generalizationentertain.com
 :: generalizationentertain.com
 0.0.0.0 generaltracking.de
@@ -41328,6 +41330,8 @@ ff02::3 ip6-allhosts
 :: jsyjwj.com
 0.0.0.0 jsyzw132.com
 :: jsyzw132.com
+0.0.0.0 jtdxz.top
+:: jtdxz.top
 0.0.0.0 jti.husky.sogou.com
 :: jti.husky.sogou.com
 0.0.0.0 jtpc2pa9o2n7.com
@@ -53286,6 +53290,8 @@ ff02::3 ip6-allhosts
 :: olstats.onlylady.com
 0.0.0.0 olthlikechgq.com
 :: olthlikechgq.com
+0.0.0.0 olxt.top
+:: olxt.top
 0.0.0.0 olytics.omeda.com
 :: olytics.omeda.com
 0.0.0.0 om.dowjoneson.com
@@ -77046,8 +77052,6 @@ ff02::3 ip6-allhosts
 :: userstats.shopee.vn
 0.0.0.0 userzoom.com
 :: userzoom.com
-0.0.0.0 usesfathom.com
-:: usesfathom.com
 0.0.0.0 ushoofop.com
 :: ushoofop.com
 0.0.0.0 ushooque.net
