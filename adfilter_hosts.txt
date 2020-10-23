@@ -1,11 +1,11 @@
-# Checksum: MTYwMzQ1NDgzNgo=
+# Checksum: MTYwMzQ2NTQ5NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201023-4
-# TimeUpdated: 2020-10-23T12:07:16+00:00
+# Version: 1.6.6-20201023-5
+# TimeUpdated: 2020-10-23T15:04:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43973
+# Total: 43974
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -324,8 +324,6 @@ ff02::3 ip6-allhosts
 :: 1.ajiyuming.com
 0.0.0.0 1.arpun.com
 :: 1.arpun.com
-0.0.0.0 1.bangdan5.com
-:: 1.bangdan5.com
 0.0.0.0 1.bashenghuo.com
 :: 1.bashenghuo.com
 0.0.0.0 1.bh5.com.cn
@@ -2168,8 +2166,6 @@ ff02::3 ip6-allhosts
 :: 58b291f917728a2.com
 0.0.0.0 58f7c1ff30eb.com
 :: 58f7c1ff30eb.com
-0.0.0.0 58isg.cn
-:: 58isg.cn
 0.0.0.0 58lm.vip
 :: 58lm.vip
 0.0.0.0 58xiangka.com
@@ -9624,6 +9620,8 @@ ff02::3 ip6-allhosts
 :: al.newxue.com
 0.0.0.0 ala.durasite.net
 :: ala.durasite.net
+0.0.0.0 alaccinalcom.top
+:: alaccinalcom.top
 0.0.0.0 alahnavideos.pro
 :: alahnavideos.pro
 0.0.0.0 alappropolylibe.site
@@ -16718,8 +16716,6 @@ ff02::3 ip6-allhosts
 :: c.jsbgh.cn
 0.0.0.0 c.k429fma.com
 :: c.k429fma.com
-0.0.0.0 c.kbf365.cn
-:: c.kbf365.cn
 0.0.0.0 c.kuaiduizuoye.com
 :: c.kuaiduizuoye.com
 0.0.0.0 c.kuwo.cn
@@ -21696,6 +21692,8 @@ ff02::3 ip6-allhosts
 :: cqbaitong.cn
 0.0.0.0 cqfangduan.com
 :: cqfangduan.com
+0.0.0.0 cqflplcldh.com
+:: cqflplcldh.com
 0.0.0.0 cqftonline.com
 :: cqftonline.com
 0.0.0.0 cqgya.com
@@ -51958,6 +51956,8 @@ ff02::3 ip6-allhosts
 :: njmpacc.com
 0.0.0.0 njmztqqtigys.com
 :: njmztqqtigys.com
+0.0.0.0 njohvxs.cn
+:: njohvxs.cn
 0.0.0.0 njqyjlyh.com
 :: njqyjlyh.com
 0.0.0.0 njs.manhuahome.com
@@ -75092,6 +75092,8 @@ ff02::3 ip6-allhosts
 :: trfsltions.info
 0.0.0.0 trgtcdn.com
 :: trgtcdn.com
+0.0.0.0 trhccn.cn
+:: trhccn.cn
 0.0.0.0 triadmedianetwork.com
 :: triadmedianetwork.com
 0.0.0.0 trial.alcohol-soft.com
