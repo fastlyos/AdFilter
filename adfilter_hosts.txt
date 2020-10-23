@@ -1,11 +1,11 @@
-# Checksum: MTYwMzQzMzA5NQo=
+# Checksum: MTYwMzQ0Mzg3Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201023-2
-# TimeUpdated: 2020-10-23T06:04:55+00:00
+# Version: 1.6.6-20201023-3
+# TimeUpdated: 2020-10-23T09:04:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43958
+# Total: 43963
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3248,6 +3248,8 @@ ff02::3 ip6-allhosts
 :: 91lmgg.com
 0.0.0.0 91sanguo.cn
 :: 91sanguo.cn
+0.0.0.0 91say.cc
+:: 91say.cc
 0.0.0.0 91taojin.com
 :: 91taojin.com
 0.0.0.0 91veg.com
@@ -17156,6 +17158,8 @@ ff02::3 ip6-allhosts
 :: calculatorstatement.com
 0.0.0.0 calfsbreedstax.com
 :: calfsbreedstax.com
+0.0.0.0 caljqsml.com
+:: caljqsml.com
 0.0.0.0 call-tracking.by
 :: call-tracking.by
 0.0.0.0 call-tracking.co.uk
@@ -59992,6 +59996,8 @@ ff02::3 ip6-allhosts
 :: quizzicalzephyr.com
 0.0.0.0 qujishu.com
 :: qujishu.com
+0.0.0.0 quldu.com
+:: quldu.com
 0.0.0.0 qulsqiqrev.com
 :: qulsqiqrev.com
 0.0.0.0 qumagee.com
@@ -63028,6 +63034,8 @@ ff02::3 ip6-allhosts
 :: s.jjcclc.top
 0.0.0.0 s.jpush.cn
 :: s.jpush.cn
+0.0.0.0 s.jtdxz.top
+:: s.jtdxz.top
 0.0.0.0 s.jxhcyc.com
 :: s.jxhcyc.com
 0.0.0.0 s.kenh14.vn
@@ -65636,6 +65644,8 @@ ff02::3 ip6-allhosts
 :: sgqqhydoovcd.com
 0.0.0.0 sgr1.com
 :: sgr1.com
+0.0.0.0 sgycfrrkz.com
+:: sgycfrrkz.com
 0.0.0.0 sh.adingo.jp
 :: sh.adingo.jp
 0.0.0.0 sh.hsfzexsg.com
