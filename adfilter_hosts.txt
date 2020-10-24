@@ -1,11 +1,11 @@
-# Checksum: MTYwMzU1MTg3OQo=
+# Checksum: MTYwMzU2MjY2OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201024-5
-# TimeUpdated: 2020-10-24T15:04:39+00:00
+# Version: 1.6.6-20201024-6
+# TimeUpdated: 2020-10-24T18:04:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44005
+# Total: 44009
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -222,8 +222,6 @@ ff02::3 ip6-allhosts
 :: 0ci.top
 0.0.0.0 0d20bff8143.com
 :: 0d20bff8143.com
-0.0.0.0 0dbcf515975d.com
-:: 0dbcf515975d.com
 0.0.0.0 0dc3c6535c5.com
 :: 0dc3c6535c5.com
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
@@ -658,8 +656,6 @@ ff02::3 ip6-allhosts
 :: 13vm73vbmp.com
 0.0.0.0 13wn.com
 :: 13wn.com
-0.0.0.0 13wnjs.com
-:: 13wnjs.com
 0.0.0.0 13yg.cn
 :: 13yg.cn
 0.0.0.0 142904.com
@@ -1652,8 +1648,6 @@ ff02::3 ip6-allhosts
 :: 3gporn.biz
 0.0.0.0 3i1cx7b9nupt.com
 :: 3i1cx7b9nupt.com
-0.0.0.0 3isk.tv
-:: 3isk.tv
 0.0.0.0 3jia5.com
 :: 3jia5.com
 0.0.0.0 3lift.com
@@ -5114,6 +5108,8 @@ ff02::3 ip6-allhosts
 :: ad.kokkk2.com
 0.0.0.0 ad.land.to
 :: ad.land.to
+0.0.0.0 ad.lapa.pub
+:: ad.lapa.pub
 0.0.0.0 ad.leadbolt.net
 :: ad.leadbolt.net
 0.0.0.0 ad.leadboltads.net
@@ -8854,6 +8850,8 @@ ff02::3 ip6-allhosts
 :: af-z.jp
 0.0.0.0 af.fukuishimbun.co.jp
 :: af.fukuishimbun.co.jp
+0.0.0.0 af755b27b5e472.com
+:: af755b27b5e472.com
 0.0.0.0 afa9bdfa63bf7.com
 :: afa9bdfa63bf7.com
 0.0.0.0 afairweb.com
@@ -10052,8 +10050,6 @@ ff02::3 ip6-allhosts
 :: amesgraduatel.site
 0.0.0.0 amfi.gou.sogou.com
 :: amfi.gou.sogou.com
-0.0.0.0 amghmej.cn
-:: amghmej.cn
 0.0.0.0 amhpbhyxfgvd.com
 :: amhpbhyxfgvd.com
 0.0.0.0 amiderations.info
@@ -42376,6 +42372,8 @@ ff02::3 ip6-allhosts
 :: knowlead.io
 0.0.0.0 knowledgedc.club
 :: knowledgedc.club
+0.0.0.0 knowledgevine.net
+:: knowledgevine.net
 0.0.0.0 knutenegros.pro
 :: knutenegros.pro
 0.0.0.0 knutsfordguardian-gb.knutsfordguardian.co.uk
@@ -42724,6 +42722,8 @@ ff02::3 ip6-allhosts
 :: kxrxh.com
 0.0.0.0 kyad88.com
 :: kyad88.com
+0.0.0.0 kygssorgg.com
+:: kygssorgg.com
 0.0.0.0 kymirasite.pro
 :: kymirasite.pro
 0.0.0.0 kyouad.com
@@ -52588,6 +52588,8 @@ ff02::3 ip6-allhosts
 :: ntx.quanliyouxi.cn
 0.0.0.0 ntxiangtai.com
 :: ntxiangtai.com
+0.0.0.0 ntymurmud.top
+:: ntymurmud.top
 0.0.0.0 nuclearads.com
 :: nuclearads.com
 0.0.0.0 nucleo.ml
@@ -56720,6 +56722,8 @@ ff02::3 ip6-allhosts
 :: play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 :: play1.videos.vidto.me
+0.0.0.0 play2.biz
+:: play2.biz
 0.0.0.0 play2.flashx.pw
 :: play2.flashx.pw
 0.0.0.0 play4.flashx.pw
@@ -59714,6 +59718,8 @@ ff02::3 ip6-allhosts
 :: qjhlc.com
 0.0.0.0 qjjto.com
 :: qjjto.com
+0.0.0.0 qjrlcrkhnj.com
+:: qjrlcrkhnj.com
 0.0.0.0 qjueu.com
 :: qjueu.com
 0.0.0.0 qkkjd.com
@@ -73992,6 +73998,8 @@ ff02::3 ip6-allhosts
 :: track.ktplay.com
 0.0.0.0 track.kyoads.com
 :: track.kyoads.com
+0.0.0.0 track.lapa.pub
+:: track.lapa.pub
 0.0.0.0 track.laredoute.fr
 :: track.laredoute.fr
 0.0.0.0 track.leadhit.io
