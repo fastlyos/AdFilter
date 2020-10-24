@@ -1,11 +1,11 @@
-# Checksum: MTYwMzQ5ODIyOQo=
+# Checksum: MTYwMzUwODY2Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201024-0
-# TimeUpdated: 2020-10-24T00:10:29+00:00
+# Version: 1.6.6-20201024-1
+# TimeUpdated: 2020-10-24T03:04:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43986
+# Total: 43976
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5162,8 +5162,6 @@ ff02::3 ip6-allhosts
 :: ad.munion.in
 0.0.0.0 ad.muyang888.top
 :: ad.muyang888.top
-0.0.0.0 ad.mwork.vn
-:: ad.mwork.vn
 0.0.0.0 ad.myinstashot.com
 :: ad.myinstashot.com
 0.0.0.0 ad.naver.com
@@ -10924,6 +10922,8 @@ ff02::3 ip6-allhosts
 :: ants.vn
 0.0.0.0 antvoice.com
 :: antvoice.com
+0.0.0.0 anuk.9pb0h.cn
+:: anuk.9pb0h.cn
 0.0.0.0 anunciospatrocinados.com
 :: anunciospatrocinados.com
 0.0.0.0 anura.io
@@ -27586,8 +27586,6 @@ ff02::3 ip6-allhosts
 :: eatmenticha.top
 0.0.0.0 eatp.evztib.xyz
 :: eatp.evztib.xyz
-0.0.0.0 eatxurmf.com
-:: eatxurmf.com
 0.0.0.0 eatyfailiffacc.club
 :: eatyfailiffacc.club
 0.0.0.0 eavs02.eqifa.com
@@ -28344,8 +28342,6 @@ ff02::3 ip6-allhosts
 :: embraceforgivingfrenzy.com
 0.0.0.0 emdcadvertise.eastmoney.com
 :: emdcadvertise.eastmoney.com
-0.0.0.0 emdqaycbvqz.com
-:: emdqaycbvqz.com
 0.0.0.0 emediate.apmmedia.net
 :: emediate.apmmedia.net
 0.0.0.0 emediate.dk
@@ -32674,8 +32670,6 @@ ff02::3 ip6-allhosts
 :: gamecps.com
 0.0.0.0 gamediad.com
 :: gamediad.com
-0.0.0.0 gameriew.com
-:: gameriew.com
 0.0.0.0 gamersad.com
 :: gamersad.com
 0.0.0.0 gamersbanner.com
@@ -33484,6 +33478,8 @@ ff02::3 ip6-allhosts
 :: ggsafe.com
 0.0.0.0 ggsaffiliates.com
 :: ggsaffiliates.com
+0.0.0.0 ggsgww.cn
+:: ggsgww.cn
 0.0.0.0 ggstreaming.azurewebsites.net
 :: ggstreaming.azurewebsites.net
 0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
@@ -41240,6 +41236,8 @@ ff02::3 ip6-allhosts
 :: jsadt.com
 0.0.0.0 jsapi.html5.qq.com
 :: jsapi.html5.qq.com
+0.0.0.0 jsb.high-minded.net
+:: jsb.high-minded.net
 0.0.0.0 jsb.qianzhan.com
 :: jsb.qianzhan.com
 0.0.0.0 jsc.adskeeper.co.uk
@@ -41624,8 +41622,6 @@ ff02::3 ip6-allhosts
 :: jzjpj.cnzz.kld666.com
 0.0.0.0 jzkapp.com
 :: jzkapp.com
-0.0.0.0 jzohcwnovrk.com
-:: jzohcwnovrk.com
 0.0.0.0 jzqce.com
 :: jzqce.com
 0.0.0.0 jzt.jd.com
@@ -42292,8 +42288,6 @@ ff02::3 ip6-allhosts
 :: klsdmr.com
 0.0.0.0 kltces.com
 :: kltces.com
-0.0.0.0 kltent.cn
-:: kltent.cn
 0.0.0.0 klvvo.xhzlovehyx.cn
 :: klvvo.xhzlovehyx.cn
 0.0.0.0 klz28.com
@@ -42332,8 +42326,6 @@ ff02::3 ip6-allhosts
 :: kn.qhdfxkj.com
 0.0.0.0 kn.qqqmdq.com
 :: kn.qqqmdq.com
-0.0.0.0 kn.ylrca.cn
-:: kn.ylrca.cn
 0.0.0.0 knet.cn
 :: knet.cn
 0.0.0.0 knewy.com
@@ -42414,8 +42406,6 @@ ff02::3 ip6-allhosts
 :: koncbabae.com
 0.0.0.0 kongbao858.com
 :: kongbao858.com
-0.0.0.0 kongssew.com
-:: kongssew.com
 0.0.0.0 kono-research.de
 :: kono-research.de
 0.0.0.0 kont-news.com
@@ -47512,6 +47502,8 @@ ff02::3 ip6-allhosts
 :: mcs.snssdk.com
 0.0.0.0 mcskucrxgwx.com
 :: mcskucrxgwx.com
+0.0.0.0 mcteu.cn
+:: mcteu.cn
 0.0.0.0 mctqu.com
 :: mctqu.com
 0.0.0.0 md-nx.com
@@ -50136,6 +50128,8 @@ ff02::3 ip6-allhosts
 :: mtburn.jp
 0.0.0.0 mtc.nhk.or.jp
 :: mtc.nhk.or.jp
+0.0.0.0 mtcat.cn
+:: mtcat.cn
 0.0.0.0 mtdata10.ru
 :: mtdata10.ru
 0.0.0.0 mtecso.online
@@ -50248,8 +50242,6 @@ ff02::3 ip6-allhosts
 :: municalwarn.top
 0.0.0.0 munitedoploko.site
 :: munitedoploko.site
-0.0.0.0 munpprwlhric.com
-:: munpprwlhric.com
 0.0.0.0 munroadaz.site
 :: munroadaz.site
 0.0.0.0 mupads.de
@@ -50970,8 +50962,6 @@ ff02::3 ip6-allhosts
 :: nbgorv.cn
 0.0.0.0 nbhubocsduzn.com
 :: nbhubocsduzn.com
-0.0.0.0 nbhxgjz.com
-:: nbhxgjz.com
 0.0.0.0 nbjmp.com
 :: nbjmp.com
 0.0.0.0 nbrecsys.4paradigm.com
@@ -56902,8 +56892,6 @@ ff02::3 ip6-allhosts
 :: pmpubs.com
 0.0.0.0 pms.mb.qq.com
 :: pms.mb.qq.com
-0.0.0.0 pmshy.cn
-:: pmshy.cn
 0.0.0.0 pmssrv.mercadolibre.com.mx
 :: pmssrv.mercadolibre.com.mx
 0.0.0.0 pmssrv.mercadolibre.com.ve
@@ -57416,6 +57404,8 @@ ff02::3 ip6-allhosts
 :: potjevleesch.xyz
 0.0.0.0 potpourrichordataoscilloscope.com
 :: potpourrichordataoscilloscope.com
+0.0.0.0 pottendent.top
+:: pottendent.top
 0.0.0.0 potu.xyz
 :: potu.xyz
 0.0.0.0 poubotem.com
@@ -59864,8 +59854,6 @@ ff02::3 ip6-allhosts
 :: qsart.cn
 0.0.0.0 qservz.com
 :: qservz.com
-0.0.0.0 qsfgszjm.com
-:: qsfgszjm.com
 0.0.0.0 qshare.ru
 :: qshare.ru
 0.0.0.0 qshxc.com
@@ -62462,6 +62450,8 @@ ff02::3 ip6-allhosts
 :: rscxwmj.cn
 0.0.0.0 rsdescriptsrem.info
 :: rsdescriptsrem.info
+0.0.0.0 rselffreedsc.top
+:: rselffreedsc.top
 0.0.0.0 rselfresolated.club
 :: rselfresolated.club
 0.0.0.0 rsesmalikes.top
@@ -63134,6 +63124,8 @@ ff02::3 ip6-allhosts
 :: s.soha.vn
 0.0.0.0 s.sqszs.top
 :: s.sqszs.top
+0.0.0.0 s.srvsynd.com
+:: s.srvsynd.com
 0.0.0.0 s.ssggba.top
 :: s.ssggba.top
 0.0.0.0 s.sufficient.cn
@@ -75828,8 +75820,6 @@ ff02::3 ip6-allhosts
 :: txzs168.net
 0.0.0.0 tyaqy.m.cn.miaozhen.com
 :: tyaqy.m.cn.miaozhen.com
-0.0.0.0 tyborlawlkz.com
-:: tyborlawlkz.com
 0.0.0.0 tybwfgqq.com
 :: tybwfgqq.com
 0.0.0.0 tydd.hunterwish.cn
@@ -76310,8 +76300,6 @@ ff02::3 ip6-allhosts
 :: uklvebsp.com
 0.0.0.0 uklyolpqnt.com
 :: uklyolpqnt.com
-0.0.0.0 uklyv.cn
-:: uklyv.cn
 0.0.0.0 ukrbanner.net
 :: ukrbanner.net
 0.0.0.0 ukwotnfnhk.com
@@ -77780,8 +77768,6 @@ ff02::3 ip6-allhosts
 :: vbe.voyage-prive.be
 0.0.0.0 vbebblpht.com
 :: vbebblpht.com
-0.0.0.0 vbjhsdcuv.com
-:: vbjhsdcuv.com
 0.0.0.0 vbnm888.com
 :: vbnm888.com
 0.0.0.0 vboro.de
@@ -78726,8 +78712,6 @@ ff02::3 ip6-allhosts
 :: vneffwecka.com
 0.0.0.0 vnf4.belleetbio.com
 :: vnf4.belleetbio.com
-0.0.0.0 vngztuqon.com
-:: vngztuqon.com
 0.0.0.0 vniwis.pro
 :: vniwis.pro
 0.0.0.0 vnl1.voyage-prive.nl
@@ -79014,6 +78998,8 @@ ff02::3 ip6-allhosts
 :: vt4dlx.ru
 0.0.0.0 vtf2f.banque-casino.fr
 :: vtf2f.banque-casino.fr
+0.0.0.0 vtgcvsmzxiyoz.com
+:: vtgcvsmzxiyoz.com
 0.0.0.0 vth05dse.com
 :: vth05dse.com
 0.0.0.0 vthhmbfo.com
@@ -80190,8 +80176,6 @@ ff02::3 ip6-allhosts
 :: wensoono.com
 0.0.0.0 wenzhougy.cn
 :: wenzhougy.cn
-0.0.0.0 weoukcpr.com
-:: weoukcpr.com
 0.0.0.0 weownthetraffic.com
 :: weownthetraffic.com
 0.0.0.0 wepmmzpypfwq.com
@@ -85432,8 +85416,6 @@ ff02::3 ip6-allhosts
 :: xrqrpdxqpm.com
 0.0.0.0 xrtzf.com
 :: xrtzf.com
-0.0.0.0 xrvyetdriwzp.com
-:: xrvyetdriwzp.com
 0.0.0.0 xs.1drj.com
 :: xs.1drj.com
 0.0.0.0 xs.he9630.com
@@ -85458,8 +85440,6 @@ ff02::3 ip6-allhosts
 :: xslt.alexa.com
 0.0.0.0 xsmangbomdick.com
 :: xsmangbomdick.com
-0.0.0.0 xsnfmaxicj.com
-:: xsnfmaxicj.com
 0.0.0.0 xsolid.baidu.com
 :: xsolid.baidu.com
 0.0.0.0 xsortxrmtpykh.com
@@ -86664,8 +86644,6 @@ ff02::3 ip6-allhosts
 :: ys2000.cdn.bcebos.com
 0.0.0.0 ys3e965d.top
 :: ys3e965d.top
-0.0.0.0 ysdhe.com
-:: ysdhe.com
 0.0.0.0 ysensionlatio.space
 :: ysensionlatio.space
 0.0.0.0 ysgsq.cn
@@ -87542,6 +87520,8 @@ ff02::3 ip6-allhosts
 :: zjuwjdc.com
 0.0.0.0 zjvnet.allyes.com
 :: zjvnet.allyes.com
+0.0.0.0 zjxrg.top
+:: zjxrg.top
 0.0.0.0 zk.91post.com
 :: zk.91post.com
 0.0.0.0 zkba9.cn
