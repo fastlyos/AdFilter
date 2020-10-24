@@ -1,11 +1,11 @@
-# Checksum: MTYwMzQ4NzA0Nwo=
+# Checksum: MTYwMzQ5ODIyOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201023-7
-# TimeUpdated: 2020-10-23T21:04:07+00:00
+# Version: 1.6.6-20201024-0
+# TimeUpdated: 2020-10-24T00:10:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43984
+# Total: 43986
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10646,8 +10646,6 @@ ff02::3 ip6-allhosts
 :: analytics.unibuddy.co
 0.0.0.0 analytics.upworthy.com
 :: analytics.upworthy.com
-0.0.0.0 analytics.urx.io
-:: analytics.urx.io
 0.0.0.0 analytics.us.archive.org
 :: analytics.us.archive.org
 0.0.0.0 analytics.valiuz.com
@@ -18548,8 +18546,6 @@ ff02::3 ip6-allhosts
 :: chenggao.cn
 0.0.0.0 chengruide.com
 :: chengruide.com
-0.0.0.0 chengzhao95511.com
-:: chengzhao95511.com
 0.0.0.0 chenshengyu.cn
 :: chenshengyu.cn
 0.0.0.0 cherriesobituary.com
@@ -24656,6 +24652,8 @@ ff02::3 ip6-allhosts
 :: demkc32bq01ah.cloudfront.net
 0.0.0.0 demo.adsame.com
 :: demo.adsame.com
+0.0.0.0 demo.jointreport-switch.com
+:: demo.jointreport-switch.com
 0.0.0.0 demo.nimiq.com
 :: demo.nimiq.com
 0.0.0.0 demo.rhombusads.com
@@ -30986,6 +30984,8 @@ ff02::3 ip6-allhosts
 :: fingerous.club
 0.0.0.0 fingsmelis.pro
 :: fingsmelis.pro
+0.0.0.0 finistentcou.top
+:: finistentcou.top
 0.0.0.0 finitiesstaffec.top
 :: finitiesstaffec.top
 0.0.0.0 finized.co
@@ -63420,6 +63420,8 @@ ff02::3 ip6-allhosts
 :: s2.leshi123.cc
 0.0.0.0 s2.play.estream.to
 :: s2.play.estream.to
+0.0.0.0 s2.play.estream.xyz
+:: s2.play.estream.xyz
 0.0.0.0 s2.play.vidzi.tv
 :: s2.play.vidzi.tv
 0.0.0.0 s2.play1.videos.videos.vidto.me
@@ -63830,6 +63832,8 @@ ff02::3 ip6-allhosts
 :: sadspmz.com
 0.0.0.0 sadv.dadapro.com
 :: sadv.dadapro.com
+0.0.0.0 safe-aisle.jointreport-switch.com
+:: safe-aisle.jointreport-switch.com
 0.0.0.0 safe-click.net
 :: safe-click.net
 0.0.0.0 safe.nimiq.com
