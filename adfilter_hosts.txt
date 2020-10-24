@@ -1,11 +1,11 @@
-# Checksum: MTYwMzUwODY2Ngo=
+# Checksum: MTYwMzUxOTQ4MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201024-1
-# TimeUpdated: 2020-10-24T03:04:26+00:00
+# Version: 1.6.6-20201024-2
+# TimeUpdated: 2020-10-24T06:04:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 43976
+# Total: 43972
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1776,8 +1776,6 @@ ff02::3 ip6-allhosts
 :: 43d6f284d10bfbbb3.com
 0.0.0.0 43gw.cn
 :: 43gw.cn
-0.0.0.0 43plc.com
-:: 43plc.com
 0.0.0.0 43yagowe3y.com
 :: 43yagowe3y.com
 0.0.0.0 44.dragonparking.com
@@ -6792,6 +6790,8 @@ ff02::3 ip6-allhosts
 :: adpark.de
 0.0.0.0 adparlor.com
 :: adparlor.com
+0.0.0.0 adpartner.it
+:: adpartner.it
 0.0.0.0 adpartner.pro
 :: adpartner.pro
 0.0.0.0 adpass.co.uk
@@ -15382,8 +15382,6 @@ ff02::3 ip6-allhosts
 :: blogreaderproject.com
 0.0.0.0 blogroll.livedoor.net
 :: blogroll.livedoor.net
-0.0.0.0 blogscounter.com
-:: blogscounter.com
 0.0.0.0 blogsontop.com
 :: blogsontop.com
 0.0.0.0 blogtopsites.com
@@ -19432,8 +19430,6 @@ ff02::3 ip6-allhosts
 :: clipbongda.info
 0.0.0.0 cliquemidia.com
 :: cliquemidia.com
-0.0.0.0 clix.vn
-:: clix.vn
 0.0.0.0 clixco.in
 :: clixco.in
 0.0.0.0 clixcount.com
@@ -20412,8 +20408,6 @@ ff02::3 ip6-allhosts
 :: communits.club
 0.0.0.0 community.cms.gclick.cn
 :: community.cms.gclick.cn
-0.0.0.0 community.monerise.com
-:: community.monerise.com
 0.0.0.0 companiedoml.site
 :: companiedoml.site
 0.0.0.0 compare.easyviaggio.com
@@ -33478,8 +33472,6 @@ ff02::3 ip6-allhosts
 :: ggsafe.com
 0.0.0.0 ggsaffiliates.com
 :: ggsaffiliates.com
-0.0.0.0 ggsgww.cn
-:: ggsgww.cn
 0.0.0.0 ggstreaming.azurewebsites.net
 :: ggstreaming.azurewebsites.net
 0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
@@ -47502,8 +47494,6 @@ ff02::3 ip6-allhosts
 :: mcs.snssdk.com
 0.0.0.0 mcskucrxgwx.com
 :: mcskucrxgwx.com
-0.0.0.0 mcteu.cn
-:: mcteu.cn
 0.0.0.0 mctqu.com
 :: mctqu.com
 0.0.0.0 md-nx.com
@@ -50128,8 +50118,6 @@ ff02::3 ip6-allhosts
 :: mtburn.jp
 0.0.0.0 mtc.nhk.or.jp
 :: mtc.nhk.or.jp
-0.0.0.0 mtcat.cn
-:: mtcat.cn
 0.0.0.0 mtdata10.ru
 :: mtdata10.ru
 0.0.0.0 mtecso.online
@@ -66144,6 +66132,8 @@ ff02::3 ip6-allhosts
 :: shuwuzhan.com
 0.0.0.0 shuzilm.cn
 :: shuzilm.cn
+0.0.0.0 shvjvbmyyyfa.com
+:: shvjvbmyyyfa.com
 0.0.0.0 shweflix.com
 :: shweflix.com
 0.0.0.0 shyama-jay.com
@@ -66416,6 +66406,8 @@ ff02::3 ip6-allhosts
 :: siteanaliz.org
 0.0.0.0 siteapps.com
 :: siteapps.com
+0.0.0.0 sitebakup.com
+:: sitebakup.com
 0.0.0.0 sitebot.cn
 :: sitebot.cn
 0.0.0.0 sitebrand.com
