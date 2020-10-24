@@ -1,11 +1,11 @@
-# Checksum: MTYwMzU0MTI2Ngo=
+# Checksum: MTYwMzU1MTg3OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201024-4
-# TimeUpdated: 2020-10-24T12:07:46+00:00
+# Version: 1.6.6-20201024-5
+# TimeUpdated: 2020-10-24T15:04:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44004
+# Total: 44005
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -854,8 +854,6 @@ ff02::3 ip6-allhosts
 :: 1ced38bdc42b883.com
 0.0.0.0 1d1a.com
 :: 1d1a.com
-0.0.0.0 1dcc8be72aa.com
-:: 1dcc8be72aa.com
 0.0.0.0 1dmp.io
 :: 1dmp.io
 0.0.0.0 1ea1sley.com
@@ -4062,8 +4060,6 @@ ff02::3 ip6-allhosts
 :: a751.oadz.com
 0.0.0.0 a777.oadz.com
 :: a777.oadz.com
-0.0.0.0 a7t89g4a.cn
-:: a7t89g4a.cn
 0.0.0.0 a8.net
 :: a8.net
 0.0.0.0 a8.o4p7y.cn
@@ -10056,6 +10052,8 @@ ff02::3 ip6-allhosts
 :: amesgraduatel.site
 0.0.0.0 amfi.gou.sogou.com
 :: amfi.gou.sogou.com
+0.0.0.0 amghmej.cn
+:: amghmej.cn
 0.0.0.0 amhpbhyxfgvd.com
 :: amhpbhyxfgvd.com
 0.0.0.0 amiderations.info
@@ -10988,8 +10986,6 @@ ff02::3 ip6-allhosts
 :: aos.prf.hn
 0.0.0.0 aos.wall.youmi.net
 :: aos.wall.youmi.net
-0.0.0.0 aoyinn.com
-:: aoyinn.com
 0.0.0.0 ap-srv.net
 :: ap-srv.net
 0.0.0.0 ap.ad-feed.com
@@ -11504,6 +11500,8 @@ ff02::3 ip6-allhosts
 :: app-adforce.jp
 0.0.0.0 app-analytics-cn.huami.com
 :: app-analytics-cn.huami.com
+0.0.0.0 app-analytics-v2.snapchat.com
+:: app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.huami.com
 :: app-analytics.huami.com
 0.0.0.0 app-g.39.net
@@ -12006,8 +12004,6 @@ ff02::3 ip6-allhosts
 :: armatchints.info
 0.0.0.0 armaturehurt.com
 :: armaturehurt.com
-0.0.0.0 armbadare.site
-:: armbadare.site
 0.0.0.0 armedearring.com
 :: armedearring.com
 0.0.0.0 armi.media
@@ -14366,8 +14362,6 @@ ff02::3 ip6-allhosts
 :: beaverads.com
 0.0.0.0 beavertron.com
 :: beavertron.com
-0.0.0.0 beba40a764.com
-:: beba40a764.com
 0.0.0.0 bebadu.com
 :: bebadu.com
 0.0.0.0 bebasads.com
@@ -14790,6 +14784,8 @@ ff02::3 ip6-allhosts
 :: bg9ugav5tik0mbh7n9ca.pro
 0.0.0.0 bgadx.com
 :: bgadx.com
+0.0.0.0 bgclck.me
+:: bgclck.me
 0.0.0.0 bgcse.cn
 :: bgcse.cn
 0.0.0.0 bglog.bitauto.com
@@ -30062,8 +30058,6 @@ ff02::3 ip6-allhosts
 :: f6ce.com
 0.0.0.0 f6dy9wgfbf.ru
 :: f6dy9wgfbf.ru
-0.0.0.0 f6fd947d0f7.com
-:: f6fd947d0f7.com
 0.0.0.0 f70123.com
 :: f70123.com
 0.0.0.0 f71bxwn500lj.com
@@ -36336,6 +36330,8 @@ ff02::3 ip6-allhosts
 :: hlserve.com
 0.0.0.0 hly.com
 :: hly.com
+0.0.0.0 hlykwstrvxa.com
+:: hlykwstrvxa.com
 0.0.0.0 hlzad.com
 :: hlzad.com
 0.0.0.0 hm.baidu.com
@@ -36586,6 +36582,8 @@ ff02::3 ip6-allhosts
 :: hosoojat.net
 0.0.0.0 hospitality-optimizer.com
 :: hospitality-optimizer.com
+0.0.0.0 hospitecor.top
+:: hospitecor.top
 0.0.0.0 hospitecrew.club
 :: hospitecrew.club
 0.0.0.0 host-host-ads.com
@@ -59366,6 +59364,8 @@ ff02::3 ip6-allhosts
 :: pypkrvtepsha.com
 0.0.0.0 pyq6n.com
 :: pyq6n.com
+0.0.0.0 pyxjwks.com
+:: pyxjwks.com
 0.0.0.0 pyzhtj.com
 :: pyzhtj.com
 0.0.0.0 pyzkk.com
@@ -74022,6 +74022,8 @@ ff02::3 ip6-allhosts
 :: track.mypcbackup.com
 0.0.0.0 track.netzero.net
 :: track.netzero.net
+0.0.0.0 track.nifty.com
+:: track.nifty.com
 0.0.0.0 track.ning.com
 :: track.ning.com
 0.0.0.0 track.noddus.com
