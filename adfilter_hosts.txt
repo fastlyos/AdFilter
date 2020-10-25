@@ -1,11 +1,11 @@
-# Checksum: MTYwMzYyNzUyOQo=
+# Checksum: MTYwMzYzODI3OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201025-4
-# TimeUpdated: 2020-10-25T12:05:29+00:00
+# Version: 1.6.6-20201025-5
+# TimeUpdated: 2020-10-25T15:04:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44044
+# Total: 44048
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3256,8 +3256,6 @@ ff02::3 ip6-allhosts
 :: 927a8dd1afec73.com
 0.0.0.0 9282821monday.hqnpwzu.cn
 :: 9282821monday.hqnpwzu.cn
-0.0.0.0 929516.com
-:: 929516.com
 0.0.0.0 92caijing.com
 :: 92caijing.com
 0.0.0.0 92x.tumblr.com
@@ -12208,8 +12206,6 @@ ff02::3 ip6-allhosts
 :: asimgs.pplive.cn
 0.0.0.0 asing.ru
 :: asing.ru
-0.0.0.0 askarmalb.club
-:: askarmalb.club
 0.0.0.0 askaspalb.online
 :: askaspalb.online
 0.0.0.0 askbegrag.com
@@ -22040,6 +22036,8 @@ ff02::3 ip6-allhosts
 :: csdata1.com
 0.0.0.0 cse3.chausport.com
 :: cse3.chausport.com
+0.0.0.0 csgtfruit.com
+:: csgtfruit.com
 0.0.0.0 csheaven.com
 :: csheaven.com
 0.0.0.0 cshi.ru
@@ -24530,6 +24528,8 @@ ff02::3 ip6-allhosts
 :: dehua.ixinfan.com
 0.0.0.0 dehua.mengtubo.com
 :: dehua.mengtubo.com
+0.0.0.0 dehuaguanyin.com
+:: dehuaguanyin.com
 0.0.0.0 dehydratedpredestinationplenty.com
 :: dehydratedpredestinationplenty.com
 0.0.0.0 deiligejenter.com
@@ -38650,6 +38650,8 @@ ff02::3 ip6-allhosts
 :: in.jxhcyc.com
 0.0.0.0 in.ml314.com
 :: in.ml314.com
+0.0.0.0 in.mxmrt.com
+:: in.mxmrt.com
 0.0.0.0 in.ndtzx.com
 :: in.ndtzx.com
 0.0.0.0 in.pomhz.com
@@ -48238,6 +48240,8 @@ ff02::3 ip6-allhosts
 :: metrics.cbn.com
 0.0.0.0 metrics.cbslocal.com
 :: metrics.cbslocal.com
+0.0.0.0 metrics.claspws.tv
+:: metrics.claspws.tv
 0.0.0.0 metrics.cnn.com
 :: metrics.cnn.com
 0.0.0.0 metrics.coccoc.com
@@ -66958,6 +66962,8 @@ ff02::3 ip6-allhosts
 :: smetrics.att.com
 0.0.0.0 smetrics.centurylink.com
 :: smetrics.centurylink.com
+0.0.0.0 smetrics.cnn.com
+:: smetrics.cnn.com
 0.0.0.0 smetrics.delta.com
 :: smetrics.delta.com
 0.0.0.0 smetrics.marriott.com
@@ -72950,6 +72956,8 @@ ff02::3 ip6-allhosts
 :: tisref.com
 0.0.0.0 tissage-extension.com
 :: tissage-extension.com
+0.0.0.0 tistianmaga.top
+:: tistianmaga.top
 0.0.0.0 titag.com
 :: titag.com
 0.0.0.0 titan-solar.cn
