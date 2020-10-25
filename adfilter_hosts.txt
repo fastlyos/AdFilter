@@ -1,11 +1,11 @@
-# Checksum: MTYwMzY0OTA4NAo=
+# Checksum: MTYwMzY1OTg1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201025-6
-# TimeUpdated: 2020-10-25T18:04:44+00:00
+# Version: 1.6.6-20201025-7
+# TimeUpdated: 2020-10-25T21:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44055
+# Total: 44061
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1944,6 +1944,8 @@ ff02::3 ip6-allhosts
 :: 4wnetwork.com
 0.0.0.0 4y3vbu5bxql6177n.pro
 :: 4y3vbu5bxql6177n.pro
+0.0.0.0 4z5o27.cn
+:: 4z5o27.cn
 0.0.0.0 5.5ppt.net
 :: 5.5ppt.net
 0.0.0.0 5.douben8.com
@@ -9256,6 +9258,8 @@ ff02::3 ip6-allhosts
 :: agn.aty.sohu.com
 0.0.0.0 agogdebitape.com
 :: agogdebitape.com
+0.0.0.0 agqjjcwm.com
+:: agqjjcwm.com
 0.0.0.0 agr.voiceads.cn
 :: agr.voiceads.cn
 0.0.0.0 agrammemarg.info
@@ -9934,6 +9938,8 @@ ff02::3 ip6-allhosts
 :: als.baidu.com
 0.0.0.0 altadefinizione.blue
 :: altadefinizione.blue
+0.0.0.0 altarisoluzione.online
+:: altarisoluzione.online
 0.0.0.0 altastat.com
 :: altastat.com
 0.0.0.0 altavista.ovh
@@ -33496,6 +33502,8 @@ ff02::3 ip6-allhosts
 :: ggsafe.com
 0.0.0.0 ggsaffiliates.com
 :: ggsaffiliates.com
+0.0.0.0 ggskt.com
+:: ggskt.com
 0.0.0.0 ggstreaming.azurewebsites.net
 :: ggstreaming.azurewebsites.net
 0.0.0.0 ggtp-1255424916.cos.ap-chengdu.myqcloud.com
@@ -60146,6 +60154,8 @@ ff02::3 ip6-allhosts
 :: qutyan8848.com
 0.0.0.0 quw18.com
 :: quw18.com
+0.0.0.0 qvfwckuehf.com
+:: qvfwckuehf.com
 0.0.0.0 qvwa7.xxllz.top
 :: qvwa7.xxllz.top
 0.0.0.0 qw.baidu.com
@@ -87618,6 +87628,8 @@ ff02::3 ip6-allhosts
 :: zim-zim-zam.com
 0.0.0.0 zinfluentlyw.club
 :: zinfluentlyw.club
+0.0.0.0 zingtormanc.top
+:: zingtormanc.top
 0.0.0.0 zinhavnpak.com
 :: zinhavnpak.com
 0.0.0.0 zinlar.pw
