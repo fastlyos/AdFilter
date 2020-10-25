@@ -1,11 +1,11 @@
-# Checksum: MTYwMzYwNTg5MQo=
+# Checksum: MTYwMzYxNjY2Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201025-2
-# TimeUpdated: 2020-10-25T06:04:51+00:00
+# Version: 1.6.6-20201025-3
+# TimeUpdated: 2020-10-25T09:04:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44023
+# Total: 44026
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9762,8 +9762,6 @@ ff02::3 ip6-allhosts
 :: alisinak.com
 0.0.0.0 alissl.ucdl.pp.uc.cn
 :: alissl.ucdl.pp.uc.cn
-0.0.0.0 alistatic.cn
-:: alistatic.cn
 0.0.0.0 alitianxia168.com
 :: alitianxia168.com
 0.0.0.0 aliticalpassister.info
@@ -15400,6 +15398,8 @@ ff02::3 ip6-allhosts
 :: blu5fdclr.com
 0.0.0.0 bludoistores.info
 :: bludoistores.info
+0.0.0.0 blueadvertise.com
+:: blueadvertise.com
 0.0.0.0 bluecava.com
 :: bluecava.com
 0.0.0.0 blueconic.net
@@ -50822,6 +50822,8 @@ ff02::3 ip6-allhosts
 :: naganoadigei.com
 0.0.0.0 naghocmu.com
 :: naghocmu.com
+0.0.0.0 naginaldev.top
+:: naginaldev.top
 0.0.0.0 nagrande.com
 :: nagrande.com
 0.0.0.0 nah9v7mdppff.com
@@ -72532,6 +72534,8 @@ ff02::3 ip6-allhosts
 :: thernouverge.site
 0.0.0.0 theroswaf.com
 :: theroswaf.com
+0.0.0.0 therses.com
+:: therses.com
 0.0.0.0 therubiqube.com
 :: therubiqube.com
 0.0.0.0 thescottishfarmer-gb.thescottishfarmer.co.uk
@@ -77896,6 +77900,8 @@ ff02::3 ip6-allhosts
 :: vcr.staging2.crazyegg.com
 0.0.0.0 vcslotoplay.com
 :: vcslotoplay.com
+0.0.0.0 vctgwjsgivo.com
+:: vctgwjsgivo.com
 0.0.0.0 vcuor.com
 :: vcuor.com
 0.0.0.0 vcwrigdrnh.com
