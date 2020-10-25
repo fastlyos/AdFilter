@@ -1,11 +1,11 @@
-# Checksum: MTYwMzYzODI3OQo=
+# Checksum: MTYwMzY0OTA4NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201025-5
-# TimeUpdated: 2020-10-25T15:04:39+00:00
+# Version: 1.6.6-20201025-6
+# TimeUpdated: 2020-10-25T18:04:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44048
+# Total: 44055
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5114,6 +5114,8 @@ ff02::3 ip6-allhosts
 :: ad.leadbolt.net
 0.0.0.0 ad.leadboltads.net
 :: ad.leadboltads.net
+0.0.0.0 ad.letmeads.com
+:: ad.letmeads.com
 0.0.0.0 ad.lflucky.com
 :: ad.lflucky.com
 0.0.0.0 ad.linkprice.com
@@ -16490,8 +16492,6 @@ ff02::3 ip6-allhosts
 :: bwbw2kje848hsmla.ru
 0.0.0.0 bwinpartypartners.com
 :: bwinpartypartners.com
-0.0.0.0 bwoipfjnvbw.com
-:: bwoipfjnvbw.com
 0.0.0.0 bwp.theinsider.com.com
 :: bwp.theinsider.com.com
 0.0.0.0 bwtsrv.com
@@ -22206,6 +22206,8 @@ ff02::3 ip6-allhosts
 :: culsauwou.com
 0.0.0.0 cultidifficient.info
 :: cultidifficient.info
+0.0.0.0 culttolerant.com
+:: culttolerant.com
 0.0.0.0 culturedcrayon.com
 :: culturedcrayon.com
 0.0.0.0 cultwithough.info
@@ -24528,8 +24530,6 @@ ff02::3 ip6-allhosts
 :: dehua.ixinfan.com
 0.0.0.0 dehua.mengtubo.com
 :: dehua.mengtubo.com
-0.0.0.0 dehuaguanyin.com
-:: dehuaguanyin.com
 0.0.0.0 dehydratedpredestinationplenty.com
 :: dehydratedpredestinationplenty.com
 0.0.0.0 deiligejenter.com
@@ -30722,6 +30722,8 @@ ff02::3 ip6-allhosts
 :: fenixm.com
 0.0.0.0 fenqihome.com
 :: fenqihome.com
+0.0.0.0 feozcthyfbdc.com
+:: feozcthyfbdc.com
 0.0.0.0 feqii.com
 :: feqii.com
 0.0.0.0 feraciumus.com
@@ -32852,6 +32854,8 @@ ff02::3 ip6-allhosts
 :: gbtoxwxmahhctv.com
 0.0.0.0 gbucket.ch
 :: gbucket.ch
+0.0.0.0 gbwess.com
+:: gbwess.com
 0.0.0.0 gbwnpchivh.com
 :: gbwnpchivh.com
 0.0.0.0 gbylaoajzugbgj.com
@@ -36800,6 +36804,8 @@ ff02::3 ip6-allhosts
 :: hrjg.com.cn
 0.0.0.0 hrnklivlbhf.com
 :: hrnklivlbhf.com
+0.0.0.0 hrsstrokecocoon.com
+:: hrsstrokecocoon.com
 0.0.0.0 hrthvf.xyz
 :: hrthvf.xyz
 0.0.0.0 hrum.hotelsapi.io
@@ -52558,6 +52564,8 @@ ff02::3 ip6-allhosts
 :: nsserviewssti.club
 0.0.0.0 nstat.headlines.pw
 :: nstat.headlines.pw
+0.0.0.0 nstlnjtrufu.com
+:: nstlnjtrufu.com
 0.0.0.0 nstracking.com
 :: nstracking.com
 0.0.0.0 nstructhow.top
@@ -65236,6 +65244,8 @@ ff02::3 ip6-allhosts
 :: selectr.net
 0.0.0.0 selectroduced.com
 :: selectroduced.com
+0.0.0.0 selfbiological.com
+:: selfbiological.com
 0.0.0.0 selfcampaign.com
 :: selfcampaign.com
 0.0.0.0 selfishsea.com
@@ -72438,6 +72448,8 @@ ff02::3 ip6-allhosts
 :: thaixaux.net
 0.0.0.0 thamsais.com
 :: thamsais.com
+0.0.0.0 thankfuladdress.com
+:: thankfuladdress.com
 0.0.0.0 thanksinhabitedregretful.com
 :: thanksinhabitedregretful.com
 0.0.0.0 thankswrite.com
@@ -80482,6 +80494,8 @@ ff02::3 ip6-allhosts
 :: whicherinc.club
 0.0.0.0 whichtalk.com
 :: whichtalk.com
+0.0.0.0 whimsoplynx.com
+:: whimsoplynx.com
 0.0.0.0 whirlwealth.com
 :: whirlwealth.com
 0.0.0.0 whiskyqueue.com
