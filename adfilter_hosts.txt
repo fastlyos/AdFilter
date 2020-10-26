@@ -1,11 +1,11 @@
-# Checksum: MTYwMzY3MTA1Ngo=
+# Checksum: MTYwMzY4MTQ4NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201026-0
-# TimeUpdated: 2020-10-26T00:10:56+00:00
+# Version: 1.6.6-20201026-1
+# TimeUpdated: 2020-10-26T03:04:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44072
+# Total: 44077
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9372,8 +9372,6 @@ ff02::3 ip6-allhosts
 :: aid.send.microad.jp
 0.0.0.0 aidaigry.com
 :: aidaigry.com
-0.0.0.0 aidalbark.site
-:: aidalbark.site
 0.0.0.0 aidata.io
 :: aidata.io
 0.0.0.0 aider-res.meizu.com
@@ -54118,6 +54116,8 @@ ff02::3 ip6-allhosts
 :: oriondigital.ru
 0.0.0.0 orionis.techradar.com
 :: orionis.techradar.com
+0.0.0.0 orisapple.top
+:: orisapple.top
 0.0.0.0 orjzy.com
 :: orjzy.com
 0.0.0.0 orminecommi.fun
@@ -54664,6 +54664,8 @@ ff02::3 ip6-allhosts
 :: p.tinynewsfeed.com
 0.0.0.0 p.travelsmarter.net
 :: p.travelsmarter.net
+0.0.0.0 p.vtdtfl.cn
+:: p.vtdtfl.cn
 0.0.0.0 p.vtracy.de
 :: p.vtracy.de
 0.0.0.0 p.whytoss.com
@@ -60270,6 +60272,8 @@ ff02::3 ip6-allhosts
 :: r.99waiyu.com
 0.0.0.0 r.ad1.ru
 :: r.ad1.ru
+0.0.0.0 r.airrn.cn
+:: r.airrn.cn
 0.0.0.0 r.alimc1.top
 :: r.alimc1.top
 0.0.0.0 r.bbci.co.uk
@@ -77574,6 +77578,8 @@ ff02::3 ip6-allhosts
 :: v.ffupiiv.cn
 0.0.0.0 v.gdt.qq.com
 :: v.gdt.qq.com
+0.0.0.0 v.ggsgww.cn
+:: v.ggsgww.cn
 0.0.0.0 v.heygugu.com
 :: v.heygugu.com
 0.0.0.0 v.irs01.com
@@ -77630,6 +77636,8 @@ ff02::3 ip6-allhosts
 :: v.tgslww.cn
 0.0.0.0 v.tlscqw.cn
 :: v.tlscqw.cn
+0.0.0.0 v.tr31t.cn
+:: v.tr31t.cn
 0.0.0.0 v.tysjkw.cn
 :: v.tysjkw.cn
 0.0.0.0 v.u22l.cc
@@ -78596,6 +78604,8 @@ ff02::3 ip6-allhosts
 :: vipbanner.de
 0.0.0.0 vipblogers.ru
 :: vipblogers.ru
+0.0.0.0 vipchaoshi.cn
+:: vipchaoshi.cn
 0.0.0.0 vipcpms.com
 :: vipcpms.com
 0.0.0.0 viperotika.net
