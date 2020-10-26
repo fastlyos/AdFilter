@@ -1,11 +1,11 @@
-# Checksum: MTYwMzY1OTg1Ngo=
+# Checksum: MTYwMzY3MTA1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201025-7
-# TimeUpdated: 2020-10-25T21:04:16+00:00
+# Version: 1.6.6-20201026-0
+# TimeUpdated: 2020-10-26T00:10:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44061
+# Total: 44072
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1474,6 +1474,8 @@ ff02::3 ip6-allhosts
 :: 34ed5da2977d1ace.com
 0.0.0.0 34pavouhj7.com
 :: 34pavouhj7.com
+0.0.0.0 350media.com
+:: 350media.com
 0.0.0.0 35d59588f15966.com
 :: 35d59588f15966.com
 0.0.0.0 35jd5gql9m.monster
@@ -3070,8 +3072,6 @@ ff02::3 ip6-allhosts
 :: 88viet.com
 0.0.0.0 88vwin.com
 :: 88vwin.com
-0.0.0.0 890x.com
-:: 890x.com
 0.0.0.0 8910ad.com
 :: 8910ad.com
 0.0.0.0 899v.com
@@ -4504,6 +4504,8 @@ ff02::3 ip6-allhosts
 :: acexedge.com
 0.0.0.0 acf-webmaster.net
 :: acf-webmaster.net
+0.0.0.0 acgbenzi.com
+:: acgbenzi.com
 0.0.0.0 achaithe.com
 :: achaithe.com
 0.0.0.0 achcdn.com
@@ -9160,6 +9162,8 @@ ff02::3 ip6-allhosts
 :: afptrack.csbew.com
 0.0.0.0 afraidlanguage.com
 :: afraidlanguage.com
+0.0.0.0 afrfndbumyyt.com
+:: afrfndbumyyt.com
 0.0.0.0 africaewgrhdtb.com
 :: africaewgrhdtb.com
 0.0.0.0 africawin.com
@@ -10054,6 +10058,8 @@ ff02::3 ip6-allhosts
 :: amdcopen.m.taobao.com
 0.0.0.0 amerallyluke.club
 :: amerallyluke.club
+0.0.0.0 america.monerise.com
+:: america.monerise.com
 0.0.0.0 amesgraduatel.site
 :: amesgraduatel.site
 0.0.0.0 amfi.gou.sogou.com
@@ -10116,8 +10122,6 @@ ff02::3 ip6-allhosts
 :: amradmin.5173.com
 0.0.0.0 amre.work
 :: amre.work
-0.0.0.0 amrnhiqy.com
-:: amrnhiqy.com
 0.0.0.0 ams.lenovomm.com
 :: ams.lenovomm.com
 0.0.0.0 amsfi.com
@@ -14834,6 +14838,8 @@ ff02::3 ip6-allhosts
 :: biallo2.de
 0.0.0.0 biallo3.de
 :: biallo3.de
+0.0.0.0 biandaosheng.com
+:: biandaosheng.com
 0.0.0.0 bianxianmao.com
 :: bianxianmao.com
 0.0.0.0 bianxianwu.com
@@ -19682,6 +19688,8 @@ ff02::3 ip6-allhosts
 :: cmdts.ksmobile.com
 0.0.0.0 cmfads.com
 :: cmfads.com
+0.0.0.0 cmhomlaipa.com
+:: cmhomlaipa.com
 0.0.0.0 cmix.org
 :: cmix.org
 0.0.0.0 cmllk1.info
@@ -29176,6 +29184,8 @@ ff02::3 ip6-allhosts
 :: esuuqqdmsuil.com
 0.0.0.0 eswaldderinao.site
 :: eswaldderinao.site
+0.0.0.0 eswaterialw.top
+:: eswaterialw.top
 0.0.0.0 esyzdb.com
 :: esyzdb.com
 0.0.0.0 et-cod.com
@@ -40786,6 +40796,8 @@ ff02::3 ip6-allhosts
 :: johtzj.com
 0.0.0.0 join.xlgirls.com
 :: join.xlgirls.com
+0.0.0.0 jointreport-switch.com
+:: jointreport-switch.com
 0.0.0.0 jokehow.com
 :: jokehow.com
 0.0.0.0 jokoshep.com
@@ -50396,6 +50408,8 @@ ff02::3 ip6-allhosts
 :: mvnuyjsdgle.com
 0.0.0.0 mvo.12rge.xyz
 :: mvo.12rge.xyz
+0.0.0.0 mvo.3werf.xyz
+:: mvo.3werf.xyz
 0.0.0.0 mvo.4w5ef.xyz
 :: mvo.4w5ef.xyz
 0.0.0.0 mvo.875tf.xyz
@@ -53976,6 +53990,8 @@ ff02::3 ip6-allhosts
 :: optify.net
 0.0.0.0 optimahub.com
 :: optimahub.com
+0.0.0.0 optimaladbid.com
+:: optimaladbid.com
 0.0.0.0 optimallimit.com
 :: optimallimit.com
 0.0.0.0 optimierung-der-website.de
@@ -58092,6 +58108,8 @@ ff02::3 ip6-allhosts
 :: prolinessyu.club
 0.0.0.0 prom.gome.com.cn
 :: prom.gome.com.cn
+0.0.0.0 promclickapp.biz
+:: promclickapp.biz
 0.0.0.0 promiserkololla.site
 :: promiserkololla.site
 0.0.0.0 promo-bc.com
@@ -77466,6 +77484,8 @@ ff02::3 ip6-allhosts
 :: uxusheppared.club
 0.0.0.0 uymjbn.com
 :: uymjbn.com
+0.0.0.0 uymjshdxxneu.com
+:: uymjshdxxneu.com
 0.0.0.0 uymkdz9s.com
 :: uymkdz9s.com
 0.0.0.0 uyunad.com
@@ -80018,6 +80038,8 @@ ff02::3 ip6-allhosts
 :: webmaster.erotik.com
 0.0.0.0 webmasterplan.com
 :: webmasterplan.com
+0.0.0.0 webmasterskyi.com
+:: webmasterskyi.com
 0.0.0.0 webmasterspub.com
 :: webmasterspub.com
 0.0.0.0 webmeter.ws
