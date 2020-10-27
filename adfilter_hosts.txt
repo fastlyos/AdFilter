@@ -1,11 +1,11 @@
-# Checksum: MTYwMzgyMTg3NQo=
+# Checksum: MTYwMzgzMjY2Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201027-6
-# TimeUpdated: 2020-10-27T18:04:35+00:00
+# Version: 1.6.6-20201027-7
+# TimeUpdated: 2020-10-27T21:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44130
+# Total: 44135
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2436,6 +2436,8 @@ ff02::3 ip6-allhosts
 :: 685wo.com
 0.0.0.0 68665565.com
 :: 68665565.com
+0.0.0.0 6868bbe42af8e518.com
+:: 6868bbe42af8e518.com
 0.0.0.0 68710266.com
 :: 68710266.com
 0.0.0.0 688de7b3822de.com
@@ -9424,6 +9426,8 @@ ff02::3 ip6-allhosts
 :: aim4media.com
 0.0.0.0 aima.weathercn.com
 :: aima.weathercn.com
+0.0.0.0 aimamparc.club
+:: aimamparc.club
 0.0.0.0 aimatch.com
 :: aimatch.com
 0.0.0.0 aimato.com
@@ -12408,6 +12412,8 @@ ff02::3 ip6-allhosts
 :: ate.spritmonitor.de
 0.0.0.0 atech.ne.jp
 :: atech.ne.jp
+0.0.0.0 ateddiscr.top
+:: ateddiscr.top
 0.0.0.0 atelovesinothic.info
 :: atelovesinothic.info
 0.0.0.0 atemda.com
@@ -13230,6 +13236,8 @@ ff02::3 ip6-allhosts
 :: b5h7.com
 0.0.0.0 b5qpg.cn
 :: b5qpg.cn
+0.0.0.0 b60228e270e363f6.com
+:: b60228e270e363f6.com
 0.0.0.0 b666.penzainform.ru
 :: b666.penzainform.ru
 0.0.0.0 b6aa6257a22451c.com
@@ -14814,8 +14822,6 @@ ff02::3 ip6-allhosts
 :: bh100.com.cn
 0.0.0.0 bh3.net
 :: bh3.net
-0.0.0.0 bhaoea.cn
-:: bhaoea.cn
 0.0.0.0 bhcf764sf8pg.com
 :: bhcf764sf8pg.com
 0.0.0.0 bhcumsc.com
@@ -26296,6 +26302,8 @@ ff02::3 ip6-allhosts
 :: dqeqsiwc.com
 0.0.0.0 dqhi3ea93ztgv.cloudfront.net
 :: dqhi3ea93ztgv.cloudfront.net
+0.0.0.0 dqq.lnfund.org.cn
+:: dqq.lnfund.org.cn
 0.0.0.0 dqsft.com
 :: dqsft.com
 0.0.0.0 dquanticw.top
@@ -35554,6 +35562,8 @@ ff02::3 ip6-allhosts
 :: hbx.df-srv.de
 0.0.0.0 hbyyzm.com
 :: hbyyzm.com
+0.0.0.0 hbzjht.com
+:: hbzjht.com
 0.0.0.0 hc.uralweb.ru
 :: hc.uralweb.ru
 0.0.0.0 hcadv.video.ums.uc.cn
