@@ -1,11 +1,11 @@
-# Checksum: MTYwMzkwODI5Mwo=
+# Checksum: MTYwMzkxOTA2OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201028-6
-# TimeUpdated: 2020-10-28T18:04:53+00:00
+# Version: 1.6.6-20201028-7
+# TimeUpdated: 2020-10-28T21:04:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44186
+# Total: 44192
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1536,6 +1536,8 @@ ff02::3 ip6-allhosts
 :: 36ia2.cn
 0.0.0.0 36pn.com
 :: 36pn.com
+0.0.0.0 376zf.com
+:: 376zf.com
 0.0.0.0 3798.com
 :: 3798.com
 0.0.0.0 37cs.com
@@ -15698,6 +15700,8 @@ ff02::3 ip6-allhosts
 :: boom.1ccbt.com
 0.0.0.0 boomads.com
 :: boomads.com
+0.0.0.0 boomerang.com.au
+:: boomerang.com.au
 0.0.0.0 boomerang.dell.com
 :: boomerang.dell.com
 0.0.0.0 boomtrain.com
@@ -32030,6 +32034,8 @@ ff02::3 ip6-allhosts
 :: ftigken.online
 0.0.0.0 ftp.coinlab.biz
 :: ftp.coinlab.biz
+0.0.0.0 ftp.freecontent.info
+:: ftp.freecontent.info
 0.0.0.0 ftp.freecontent.net
 :: ftp.freecontent.net
 0.0.0.0 ftp0118.info
@@ -44490,6 +44496,8 @@ ff02::3 ip6-allhosts
 :: lnsbhzy.cn
 0.0.0.0 lnymd.com
 :: lnymd.com
+0.0.0.0 lnyypjocad.com
+:: lnyypjocad.com
 0.0.0.0 lnzangcha.com
 :: lnzangcha.com
 0.0.0.0 loa-traffic.com
@@ -46010,6 +46018,8 @@ ff02::3 ip6-allhosts
 :: m.fangzhanla.cn
 0.0.0.0 m.fbaot.com
 :: m.fbaot.com
+0.0.0.0 m.fcaot.com
+:: m.fcaot.com
 0.0.0.0 m.fcuit.com
 :: m.fcuit.com
 0.0.0.0 m.fcunq.com
@@ -66854,6 +66864,8 @@ ff02::3 ip6-allhosts
 :: sjczsc.com
 0.0.0.0 sjdjcn.cn
 :: sjdjcn.cn
+0.0.0.0 sjeffrontagr.top
+:: sjeffrontagr.top
 0.0.0.0 sjgnskf.com
 :: sjgnskf.com
 0.0.0.0 sjjazrfvzbkt.com
