@@ -1,11 +1,11 @@
-# Checksum: MTYwMzgzMjY2Nwo=
+# Checksum: MTYwMzg0Mzg1Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201027-7
-# TimeUpdated: 2020-10-27T21:04:27+00:00
+# Version: 1.6.6-20201028-0
+# TimeUpdated: 2020-10-28T00:10:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44135
+# Total: 44148
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -124,8 +124,6 @@ ff02::3 ip6-allhosts
 :: 04zl.cn
 0.0.0.0 050y9lhe8p.com
 :: 050y9lhe8p.com
-0.0.0.0 0511code.com
-:: 0511code.com
 0.0.0.0 0512pifa.com.cn
 :: 0512pifa.com.cn
 0.0.0.0 0512s.com
@@ -650,6 +648,8 @@ ff02::3 ip6-allhosts
 :: 133gp.com
 0.0.0.0 133uu.com
 :: 133uu.com
+0.0.0.0 1357902.cn
+:: 1357902.cn
 0.0.0.0 138lm.com
 :: 138lm.com
 0.0.0.0 139site.com
@@ -19566,6 +19566,8 @@ ff02::3 ip6-allhosts
 :: clouderrorreporting.googleapis.com
 0.0.0.0 cloudfastads.ru
 :: cloudfastads.ru
+0.0.0.0 cloudflareinsights.com
+:: cloudflareinsights.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 :: cloudfront-labs.amazonaws.com
 0.0.0.0 cloudgallery.net
@@ -24888,6 +24890,8 @@ ff02::3 ip6-allhosts
 :: developingstripes.com
 0.0.0.0 device9.com
 :: device9.com
+0.0.0.0 devilspanmute.com
+:: devilspanmute.com
 0.0.0.0 devisprox-media.s3-website-eu-west-1.amazonaws.com
 :: devisprox-media.s3-website-eu-west-1.amazonaws.com
 0.0.0.0 devkiforyou.org
@@ -24966,6 +24970,8 @@ ff02::3 ip6-allhosts
 :: dfp.suning.com
 0.0.0.0 dftoutiao.com
 :: dftoutiao.com
+0.0.0.0 dfyudpyceqoy.com
+:: dfyudpyceqoy.com
 0.0.0.0 dg.egjq.com.cn
 :: dg.egjq.com.cn
 0.0.0.0 dg.haizirv.cn
@@ -28818,6 +28824,8 @@ ff02::3 ip6-allhosts
 :: eondunpea.com
 0.0.0.0 eonwayaha.com
 :: eonwayaha.com
+0.0.0.0 eopazyxdkppnz.com
+:: eopazyxdkppnz.com
 0.0.0.0 eoredi.com
 :: eoredi.com
 0.0.0.0 eosads.com
@@ -37608,6 +37616,8 @@ ff02::3 ip6-allhosts
 :: icast.cn
 0.0.0.0 icbwyfg.pro
 :: icbwyfg.pro
+0.0.0.0 iccompanzens.fun
+:: iccompanzens.fun
 0.0.0.0 icdirect.com
 :: icdirect.com
 0.0.0.0 ice-media.ru
@@ -42618,6 +42628,8 @@ ff02::3 ip6-allhosts
 :: krasisa.info
 0.0.0.0 krb.devphp.org.ua
 :: krb.devphp.org.ua
+0.0.0.0 krboeyeq.com
+:: krboeyeq.com
 0.0.0.0 krenovo.online
 :: krenovo.online
 0.0.0.0 krison.xyz
@@ -47652,6 +47664,8 @@ ff02::3 ip6-allhosts
 :: mcount.ru
 0.0.0.0 mcprofits.com
 :: mcprofits.com
+0.0.0.0 mcs-va.tiktokv.com
+:: mcs-va.tiktokv.com
 0.0.0.0 mcs.delvenetworks.com
 :: mcs.delvenetworks.com
 0.0.0.0 mcs.snssdk.com
@@ -53446,6 +53460,8 @@ ff02::3 ip6-allhosts
 :: oktopost.com
 0.0.0.0 oktpage.com
 :: oktpage.com
+0.0.0.0 okueroskynt.com
+:: okueroskynt.com
 0.0.0.0 okuis.com
 :: okuis.com
 0.0.0.0 okvidihqc.com
@@ -60672,6 +60688,8 @@ ff02::3 ip6-allhosts
 :: raspiadkwcecz.com
 0.0.0.0 rasskaju.ru
 :: rasskaju.ru
+0.0.0.0 ratappe.com
+:: ratappe.com
 0.0.0.0 ratesphospit.club
 :: ratesphospit.club
 0.0.0.0 rating-widget.com
@@ -65094,6 +65112,8 @@ ff02::3 ip6-allhosts
 :: secured-phone.club
 0.0.0.0 securee.ru
 :: securee.ru
+0.0.0.0 securegate.xyz
+:: securegate.xyz
 0.0.0.0 secureintl.com
 :: secureintl.com
 0.0.0.0 securemoney.ru
@@ -71184,6 +71204,8 @@ ff02::3 ip6-allhosts
 :: t.atpanel.com
 0.0.0.0 t.av.st
 :: t.av.st
+0.0.0.0 t.basictool.vip
+:: t.basictool.vip
 0.0.0.0 t.beop.io
 :: t.beop.io
 0.0.0.0 t.beopinion.com
@@ -71972,6 +71994,8 @@ ff02::3 ip6-allhosts
 :: tbjfw.com
 0.0.0.0 tbnmmjm.com
 :: tbnmmjm.com
+0.0.0.0 tbtrck.com
+:: tbtrck.com
 0.0.0.0 tbv157xq.com
 :: tbv157xq.com
 0.0.0.0 tc-clicks.com
@@ -78476,6 +78500,8 @@ ff02::3 ip6-allhosts
 :: video2.stream.vidzi.tv
 0.0.0.0 video231.oss-cn-beijing.aliyuncs.com
 :: video231.oss-cn-beijing.aliyuncs.com
+0.0.0.0 videoaccess.xyz
+:: videoaccess.xyz
 0.0.0.0 videoadex.com
 :: videoadex.com
 0.0.0.0 videoburner2015.com
