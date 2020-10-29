@@ -1,11 +1,11 @@
-# Checksum: MTYwMzk1MTUwMgo=
+# Checksum: MTYwMzk2MjI4MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201029-2
-# TimeUpdated: 2020-10-29T06:05:02+00:00
+# Version: 1.6.6-20201029-3
+# TimeUpdated: 2020-10-29T09:04:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44195
+# Total: 44204
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1486,6 +1486,8 @@ ff02::3 ip6-allhosts
 :: 360640.com
 0.0.0.0 360ads.com
 :: 360ads.com
+0.0.0.0 360adshost.com
+:: 360adshost.com
 0.0.0.0 360doo.com
 :: 360doo.com
 0.0.0.0 360fenxi.mediav.com
@@ -2648,6 +2650,8 @@ ff02::3 ip6-allhosts
 :: 7631.com
 0.0.0.0 7651d44da06c.com
 :: 7651d44da06c.com
+0.0.0.0 7667bab1751ff777.com
+:: 7667bab1751ff777.com
 0.0.0.0 766ba.net
 :: 766ba.net
 0.0.0.0 76802.net
@@ -2952,6 +2956,8 @@ ff02::3 ip6-allhosts
 :: 8368661.com
 0.0.0.0 8387334b12ae7d.com
 :: 8387334b12ae7d.com
+0.0.0.0 83f7fa5133e0e.com
+:: 83f7fa5133e0e.com
 0.0.0.0 84232.com
 :: 84232.com
 0.0.0.0 84544232a4185d6.com
@@ -15534,6 +15540,8 @@ ff02::3 ip6-allhosts
 :: bnhtml.com
 0.0.0.0 bnlif.com
 :: bnlif.com
+0.0.0.0 bnlqhnqnqveo.com
+:: bnlqhnqnqveo.com
 0.0.0.0 bnmla.com
 :: bnmla.com
 0.0.0.0 bnnr.pornpics.com
@@ -16522,6 +16530,8 @@ ff02::3 ip6-allhosts
 :: bwp.theinsider.com.com
 0.0.0.0 bwtsrv.com
 :: bwtsrv.com
+0.0.0.0 bx9000.top
+:: bx9000.top
 0.0.0.0 bxg68.com
 :: bxg68.com
 0.0.0.0 bxgjpocfz1g1jiwb.pro
@@ -18408,6 +18418,8 @@ ff02::3 ip6-allhosts
 :: chance.adsensor.org
 0.0.0.0 chandlerimageproduct.com
 :: chandlerimageproduct.com
+0.0.0.0 chandlertreatment.com
+:: chandlertreatment.com
 0.0.0.0 chanel.cgongxifacai.top
 :: chanel.cgongxifacai.top
 0.0.0.0 chanel.dgongxifacai.top
@@ -20422,6 +20434,8 @@ ff02::3 ip6-allhosts
 :: communits.club
 0.0.0.0 community.cms.gclick.cn
 :: community.cms.gclick.cn
+0.0.0.0 community.monerise.com
+:: community.monerise.com
 0.0.0.0 companiedoml.site
 :: companiedoml.site
 0.0.0.0 compare.easyviaggio.com
@@ -22400,6 +22414,8 @@ ff02::3 ip6-allhosts
 :: cygnus.com
 0.0.0.0 cyih0e43aty7.com
 :: cyih0e43aty7.com
+0.0.0.0 cyjybkrmzstpid.com
+:: cyjybkrmzstpid.com
 0.0.0.0 cymichaire.club
 :: cymichaire.club
 0.0.0.0 cyneburg-yam.com
@@ -50418,6 +50434,8 @@ ff02::3 ip6-allhosts
 :: mtvekq.com
 0.0.0.0 mtvp05j.com
 :: mtvp05j.com
+0.0.0.0 mtzddtrs.com
+:: mtzddtrs.com
 0.0.0.0 mtzenhigqg.com
 :: mtzenhigqg.com
 0.0.0.0 mu722.com
@@ -53086,8 +53104,6 @@ ff02::3 ip6-allhosts
 :: oafishobservation.com
 0.0.0.0 oagudsey.uk
 :: oagudsey.uk
-0.0.0.0 oagwl3372h.com
-:: oagwl3372h.com
 0.0.0.0 oainternetservices.com
 :: oainternetservices.com
 0.0.0.0 oajujirg.net
@@ -73074,6 +73090,8 @@ ff02::3 ip6-allhosts
 :: tianmidian.com
 0.0.0.0 tianshu-x.gtimg.cn
 :: tianshu-x.gtimg.cn
+0.0.0.0 tianyanzs.com
+:: tianyanzs.com
 0.0.0.0 tiaolianbao.com
 :: tiaolianbao.com
 0.0.0.0 tiaoweiyou.cn
@@ -73992,8 +74010,6 @@ ff02::3 ip6-allhosts
 :: toughopponent.com
 0.0.0.0 touglesy.net
 :: touglesy.net
-0.0.0.0 toujing4.top
-:: toujing4.top
 0.0.0.0 tour.mrskin.com
 :: tour.mrskin.com
 0.0.0.0 tours.imlive.com
@@ -79470,6 +79486,8 @@ ff02::3 ip6-allhosts
 :: vuryua.ru
 0.0.0.0 vutsoabs.net
 :: vutsoabs.net
+0.0.0.0 vutudm.com
+:: vutudm.com
 0.0.0.0 vuuwd.com
 :: vuuwd.com
 0.0.0.0 vuwgt.com
