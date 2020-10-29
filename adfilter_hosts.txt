@@ -1,11 +1,11 @@
-# Checksum: MTYwMzk5NDYzMQo=
+# Checksum: MTYwNDAwNTM4MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201029-6
-# TimeUpdated: 2020-10-29T18:03:51+00:00
+# Version: 1.6.6-20201029-7
+# TimeUpdated: 2020-10-29T21:03:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44234
+# Total: 44242
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1730,6 +1730,8 @@ ff02::3 ip6-allhosts
 :: 404tracker.com
 0.0.0.0 407433bfc441.com
 :: 407433bfc441.com
+0.0.0.0 40a1eca447d.com
+:: 40a1eca447d.com
 0.0.0.0 40ceexln7929.com
 :: 40ceexln7929.com
 0.0.0.0 40nuggets.com
@@ -3410,6 +3412,8 @@ ff02::3 ip6-allhosts
 :: 9ae7c9ffe8509b0.com
 0.0.0.0 9amq5z4y1y.com
 :: 9amq5z4y1y.com
+0.0.0.0 9bb6fa4987e.com
+:: 9bb6fa4987e.com
 0.0.0.0 9buo.com
 :: 9buo.com
 0.0.0.0 9c40a04e9732e6a6.com
@@ -9922,8 +9926,6 @@ ff02::3 ip6-allhosts
 :: alogs.umengcloud.com
 0.0.0.0 aloguerequi.space
 :: aloguerequi.space
-0.0.0.0 aloissentence.pro
-:: aloissentence.pro
 0.0.0.0 alonged.com
 :: alonged.com
 0.0.0.0 aloofmetal.com
@@ -28062,6 +28064,8 @@ ff02::3 ip6-allhosts
 :: ef.futuroscope.mobi
 0.0.0.0 ef.opendsp.tanx.com
 :: ef.opendsp.tanx.com
+0.0.0.0 ef5b6b02d2.com
+:: ef5b6b02d2.com
 0.0.0.0 ef867a1be4f83922.com
 :: ef867a1be4f83922.com
 0.0.0.0 ef9377.com
@@ -34980,6 +34984,8 @@ ff02::3 ip6-allhosts
 :: gwashiondevelhig.info
 0.0.0.0 gwmtracking.com
 :: gwmtracking.com
+0.0.0.0 gwoyrhpjeloo.com
+:: gwoyrhpjeloo.com
 0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
 :: gwrtdp-tn690bfadt.tclclouds.com
 0.0.0.0 gwudu.com
@@ -41004,6 +41010,8 @@ ff02::3 ip6-allhosts
 :: jpg1.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jph.itiexue.net
 :: jph.itiexue.net
+0.0.0.0 jpkwk.top
+:: jpkwk.top
 0.0.0.0 jpllzuuvku.com
 :: jpllzuuvku.com
 0.0.0.0 jppolid-track.trackprod.integration.jppol.dk
@@ -42168,8 +42176,6 @@ ff02::3 ip6-allhosts
 :: keyne-in.com.cn
 0.0.0.0 keyrolan.com
 :: keyrolan.com
-0.0.0.0 keyrun.cn
-:: keyrun.cn
 0.0.0.0 keyrunmodel.com
 :: keyrunmodel.com
 0.0.0.0 keytiles.com
@@ -61276,6 +61282,8 @@ ff02::3 ip6-allhosts
 :: reconditerespect.com
 0.0.0.0 record.sportsbetaffiliates.com.au
 :: record.sportsbetaffiliates.com.au
+0.0.0.0 recorderimplacablewhatever.com
+:: recorderimplacablewhatever.com
 0.0.0.0 recordervesttasting.com
 :: recordervesttasting.com
 0.0.0.0 recordingroadsidezoo.com
@@ -62996,6 +63004,8 @@ ff02::3 ip6-allhosts
 :: rttr2.zaycev.net
 0.0.0.0 rtw.monerise.com
 :: rtw.monerise.com
+0.0.0.0 rtymarvingp.top
+:: rtymarvingp.top
 0.0.0.0 rtyznd.com
 :: rtyznd.com
 0.0.0.0 ru-gmtdmp.mookie1.com
@@ -81210,6 +81220,8 @@ ff02::3 ip6-allhosts
 :: wisteria-js.excite.co.jp
 0.0.0.0 wistfulflight.com
 :: wistfulflight.com
+0.0.0.0 wistfulinadmissible.com
+:: wistfulinadmissible.com
 0.0.0.0 wit.qq.com
 :: wit.qq.com
 0.0.0.0 witalfieldt.com
@@ -81378,6 +81390,8 @@ ff02::3 ip6-allhosts
 :: wndhsykmbe.com
 0.0.0.0 wndj.net
 :: wndj.net
+0.0.0.0 wndwhzjmfshthv.com
+:: wndwhzjmfshthv.com
 0.0.0.0 wneia.iaskhot.com
 :: wneia.iaskhot.com
 0.0.0.0 wnp.com
@@ -86578,6 +86592,8 @@ ff02::3 ip6-allhosts
 :: yfi8.com
 0.0.0.0 yfivoqeh.online
 :: yfivoqeh.online
+0.0.0.0 yfomeimset.com
+:: yfomeimset.com
 0.0.0.0 yfubi.com
 :: yfubi.com
 0.0.0.0 yfxixi.com
