@@ -1,11 +1,11 @@
-# Checksum: MTYwMzk4Mzg5Nwo=
+# Checksum: MTYwMzk5NDYzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201029-5
-# TimeUpdated: 2020-10-29T15:04:57+00:00
+# Version: 1.6.6-20201029-6
+# TimeUpdated: 2020-10-29T18:03:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44229
+# Total: 44234
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1776,6 +1776,8 @@ ff02::3 ip6-allhosts
 :: 43d6f284d10bfbbb3.com
 0.0.0.0 43gw.cn
 :: 43gw.cn
+0.0.0.0 43plc.com
+:: 43plc.com
 0.0.0.0 43yagowe3y.com
 :: 43yagowe3y.com
 0.0.0.0 44.dragonparking.com
@@ -2954,8 +2956,6 @@ ff02::3 ip6-allhosts
 :: 8368661.com
 0.0.0.0 8387334b12ae7d.com
 :: 8387334b12ae7d.com
-0.0.0.0 83f7fa5133e0e.com
-:: 83f7fa5133e0e.com
 0.0.0.0 84232.com
 :: 84232.com
 0.0.0.0 84544232a4185d6.com
@@ -9180,8 +9180,6 @@ ff02::3 ip6-allhosts
 :: afs.googlesyndication.com
 0.0.0.0 afsanalytics.com
 :: afsanalytics.com
-0.0.0.0 afshanthough.pro
-:: afshanthough.pro
 0.0.0.0 afssdmin.com
 :: afssdmin.com
 0.0.0.0 afterdownload.com
@@ -10856,6 +10854,8 @@ ff02::3 ip6-allhosts
 :: anmeilai.net
 0.0.0.0 ann5.net
 :: ann5.net
+0.0.0.0 anncmq.com
+:: anncmq.com
 0.0.0.0 annonce.lequipement.fr
 :: annonce.lequipement.fr
 0.0.0.0 announcedvillainvaluable.com
@@ -13544,6 +13544,8 @@ ff02::3 ip6-allhosts
 :: bangdom.com
 0.0.0.0 bangedmarketcake.com
 :: bangedmarketcake.com
+0.0.0.0 bangready.com
+:: bangready.com
 0.0.0.0 banhtv.org
 :: banhtv.org
 0.0.0.0 banianspaddi.info
@@ -16078,6 +16080,8 @@ ff02::3 ip6-allhosts
 :: browser-statistik.de
 0.0.0.0 browser-updater.yandex.net
 :: browser-updater.yandex.net
+0.0.0.0 browser.events.data.msn.com
+:: browser.events.data.msn.com
 0.0.0.0 browser.sentry-cdn.com
 :: browser.sentry-cdn.com
 0.0.0.0 browser1.ru
@@ -18364,6 +18368,8 @@ ff02::3 ip6-allhosts
 :: cgicounter.puretec.de
 0.0.0.0 cgjfanun12on.com
 :: cgjfanun12on.com
+0.0.0.0 cgkeasqkzfpepr.com
+:: cgkeasqkzfpepr.com
 0.0.0.0 cgskqg.com
 :: cgskqg.com
 0.0.0.0 cgx68vtoprov.com
@@ -26088,6 +26094,8 @@ ff02::3 ip6-allhosts
 :: dotaki.com
 0.0.0.0 dotandad.com
 :: dotandad.com
+0.0.0.0 dotaudiences.com
+:: dotaudiences.com
 0.0.0.0 dotcounter.douyutv.com
 :: dotcounter.douyutv.com
 0.0.0.0 dotmailer-surveys.com
@@ -30570,8 +30578,6 @@ ff02::3 ip6-allhosts
 :: fcfd5de4b3be3.com
 0.0.0.0 fcgadgets.blogspot.com
 :: fcgadgets.blogspot.com
-0.0.0.0 fcgcjw.cn
-:: fcgcjw.cn
 0.0.0.0 fch.beeppool.org
 :: fch.beeppool.org
 0.0.0.0 fcksys.work
@@ -42162,6 +42168,8 @@ ff02::3 ip6-allhosts
 :: keyne-in.com.cn
 0.0.0.0 keyrolan.com
 :: keyrolan.com
+0.0.0.0 keyrun.cn
+:: keyrun.cn
 0.0.0.0 keyrunmodel.com
 :: keyrunmodel.com
 0.0.0.0 keytiles.com
@@ -53970,6 +53978,8 @@ ff02::3 ip6-allhosts
 :: oolufhbdabqce.com
 0.0.0.0 ooniu.com
 :: ooniu.com
+0.0.0.0 oonnmaxhz.com
+:: oonnmaxhz.com
 0.0.0.0 ooo.0o0.ooo
 :: ooo.0o0.ooo
 0.0.0.0 ooop.zqwlkj.cn
@@ -70574,8 +70584,6 @@ ff02::3 ip6-allhosts
 :: sundxs.com
 0.0.0.0 sunhd.info
 :: sunhd.info
-0.0.0.0 suning.beer
-:: suning.beer
 0.0.0.0 sunios.de
 :: sunios.de
 0.0.0.0 sunjianhao.com
@@ -82454,6 +82462,8 @@ ff02::3 ip6-allhosts
 :: wwpon365.ru
 0.0.0.0 wwry.xyz
 :: wwry.xyz
+0.0.0.0 wwsercher.biz
+:: wwsercher.biz
 0.0.0.0 wwsphj.com
 :: wwsphj.com
 0.0.0.0 wwv.onetad.com
@@ -86156,8 +86166,6 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 :: xy33.smallable.com
-0.0.0.0 xyadtlyya.cn
-:: xyadtlyya.cn
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xyimg.net
@@ -87396,6 +87404,8 @@ ff02::3 ip6-allhosts
 :: yycjho.com
 0.0.0.0 yycocbzc.com
 :: yycocbzc.com
+0.0.0.0 yydtbpms8tf4.com
+:: yydtbpms8tf4.com
 0.0.0.0 yyeks.com
 :: yyeks.com
 0.0.0.0 yyhqch.com
