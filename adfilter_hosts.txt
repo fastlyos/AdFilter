@@ -1,11 +1,11 @@
-# Checksum: MTYwNDA3MDE4MQo=
+# Checksum: MTYwNDA4MDk5Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201030-5
-# TimeUpdated: 2020-10-30T15:03:01+00:00
+# Version: 1.6.6-20201030-6
+# TimeUpdated: 2020-10-30T18:03:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44273
+# Total: 44291
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2168,6 +2168,8 @@ ff02::3 ip6-allhosts
 :: 58f7c1ff30eb.com
 0.0.0.0 58lm.vip
 :: 58lm.vip
+0.0.0.0 58taopinhui.com
+:: 58taopinhui.com
 0.0.0.0 58xiangka.com
 :: 58xiangka.com
 0.0.0.0 58xiao.cn
@@ -5492,8 +5494,6 @@ ff02::3 ip6-allhosts
 :: adacado.com
 0.0.0.0 adaccount.csdn.net
 :: adaccount.csdn.net
-0.0.0.0 adacgov.cn
-:: adacgov.cn
 0.0.0.0 adaction.se
 :: adaction.se
 0.0.0.0 adacts.com
@@ -8972,8 +8972,6 @@ ff02::3 ip6-allhosts
 :: affiliategateways.co
 0.0.0.0 affiliategroove.com
 :: affiliategroove.com
-0.0.0.0 affiliatehub.skybet.com
-:: affiliatehub.skybet.com
 0.0.0.0 affiliatelounge.com
 :: affiliatelounge.com
 0.0.0.0 affiliatemembership.com
@@ -9784,6 +9782,8 @@ ff02::3 ip6-allhosts
 :: alivar.vn
 0.0.0.0 aliveachiever.com
 :: aliveachiever.com
+0.0.0.0 alixil.ru
+:: alixil.ru
 0.0.0.0 aliyoo999.com
 :: aliyoo999.com
 0.0.0.0 aliyuncss.com
@@ -16542,8 +16542,6 @@ ff02::3 ip6-allhosts
 :: bxgmb.com
 0.0.0.0 bxjch.top
 :: bxjch.top
-0.0.0.0 bxjpl.cn
-:: bxjpl.cn
 0.0.0.0 bxs.bilandgo.com
 :: bxs.bilandgo.com
 0.0.0.0 by.mbai.cn
@@ -16822,6 +16820,8 @@ ff02::3 ip6-allhosts
 :: c.sssgbw.cn
 0.0.0.0 c.statcounter.com
 :: c.statcounter.com
+0.0.0.0 c.statstat888.com
+:: c.statstat888.com
 0.0.0.0 c.sy123888.com
 :: c.sy123888.com
 0.0.0.0 c.syooys.com
@@ -17384,6 +17384,8 @@ ff02::3 ip6-allhosts
 :: caramel.press
 0.0.0.0 caraphene.xyz
 :: caraphene.xyz
+0.0.0.0 carbian.info
+:: carbian.info
 0.0.0.0 carbonads.com
 :: carbonads.com
 0.0.0.0 carbourse.club
@@ -18878,6 +18880,8 @@ ff02::3 ip6-allhosts
 :: ckardwithinktab.info
 0.0.0.0 ckcsuk.com
 :: ckcsuk.com
+0.0.0.0 cke199.com
+:: cke199.com
 0.0.0.0 ckg.vipyl.com
 :: ckg.vipyl.com
 0.0.0.0 ckgnoy.com
@@ -20064,6 +20068,8 @@ ff02::3 ip6-allhosts
 :: codedexchange.com
 0.0.0.0 codefund.io
 :: codefund.io
+0.0.0.0 codejumps.com
+:: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
 0.0.0.0 codenow.cn
@@ -23000,6 +23006,8 @@ ff02::3 ip6-allhosts
 :: d21uwl37pca4oi.cloudfront.net
 0.0.0.0 d2222t5nvb13ei.cloudfront.net
 :: d2222t5nvb13ei.cloudfront.net
+0.0.0.0 d227cncaprzd7y.cloudfront.net
+:: d227cncaprzd7y.cloudfront.net
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 :: d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d22sfab2t5o9bq.cloudfront.net
@@ -23672,8 +23680,6 @@ ff02::3 ip6-allhosts
 :: d985a9d2clzq5.cloudfront.net
 0.0.0.0 d99sure.xyz
 :: d99sure.xyz
-0.0.0.0 d9a714dea2.com
-:: d9a714dea2.com
 0.0.0.0 d9ad.com
 :: d9ad.com
 0.0.0.0 d9etzk30b05yg.cloudfront.net
@@ -23754,6 +23760,8 @@ ff02::3 ip6-allhosts
 :: dadspmz.com
 0.0.0.0 daecan.xyz
 :: daecan.xyz
+0.0.0.0 daemonclicks.com
+:: daemonclicks.com
 0.0.0.0 daero.pw
 :: daero.pw
 0.0.0.0 daethana.pw
@@ -24528,6 +24536,8 @@ ff02::3 ip6-allhosts
 :: decisiveducks.com
 0.0.0.0 deckthroughout.com
 :: deckthroughout.com
+0.0.0.0 declk.com
+:: declk.com
 0.0.0.0 decordingaudied.site
 :: decordingaudied.site
 0.0.0.0 decoroustitle.com
@@ -24664,6 +24674,8 @@ ff02::3 ip6-allhosts
 :: delivery.thebloggernetwork.com
 0.0.0.0 delivery.trafficfabrik.com
 :: delivery.trafficfabrik.com
+0.0.0.0 delivery.vtc.vn
+:: delivery.vtc.vn
 0.0.0.0 delivery.vtcnew.com.vn
 :: delivery.vtcnew.com.vn
 0.0.0.0 delivery.wasu.cn
@@ -30710,6 +30722,8 @@ ff02::3 ip6-allhosts
 :: febadu.com
 0.0.0.0 feboni.info
 :: feboni.info
+0.0.0.0 fecjf.cn
+:: fecjf.cn
 0.0.0.0 federalderok.club
 :: federalderok.club
 0.0.0.0 fedsit.com
@@ -40778,6 +40792,8 @@ ff02::3 ip6-allhosts
 :: jitdknclhdpfzyvkio.bid
 0.0.0.0 jiubuhua.com
 :: jiubuhua.com
+0.0.0.0 jiudiandyw.com
+:: jiudiandyw.com
 0.0.0.0 jiuduad.com
 :: jiuduad.com
 0.0.0.0 jiuku.cc
@@ -42760,6 +42776,8 @@ ff02::3 ip6-allhosts
 :: ks67.com
 0.0.0.0 ksjrehefupsrkz.com
 :: ksjrehefupsrkz.com
+0.0.0.0 ksnbdfzjlyqmxs.com
+:: ksnbdfzjlyqmxs.com
 0.0.0.0 kstj.baidu.com
 :: kstj.baidu.com
 0.0.0.0 kstream.xyz
@@ -51170,6 +51188,8 @@ ff02::3 ip6-allhosts
 :: narkalignevil.com
 0.0.0.0 narod-vrach.ru
 :: narod-vrach.ru
+0.0.0.0 narrativ.com
+:: narrativ.com
 0.0.0.0 narrowad.org
 :: narrowad.org
 0.0.0.0 narrowperennialaffable.com
@@ -67260,6 +67280,8 @@ ff02::3 ip6-allhosts
 :: smartclip-services.com
 0.0.0.0 smartclip.net
 :: smartclip.net
+0.0.0.0 smartconvert.co
+:: smartconvert.co
 0.0.0.0 smartcookies.it
 :: smartcookies.it
 0.0.0.0 smartctr.com
@@ -69454,6 +69476,8 @@ ff02::3 ip6-allhosts
 :: static.ichehome.com
 0.0.0.0 static.jebe.renren.com
 :: static.jebe.renren.com
+0.0.0.0 static.jointreport-switch.com
+:: static.jointreport-switch.com
 0.0.0.0 static.kinghost.com
 :: static.kinghost.com
 0.0.0.0 static.live.nagezan.net
@@ -73158,6 +73182,8 @@ ff02::3 ip6-allhosts
 :: throattrees.com
 0.0.0.0 throposehodger.pro
 :: throposehodger.pro
+0.0.0.0 throughhonouredhighest.com
+:: throughhonouredhighest.com
 0.0.0.0 thrtle.com
 :: thrtle.com
 0.0.0.0 ths9j89.com
@@ -73326,6 +73352,8 @@ ff02::3 ip6-allhosts
 :: tionmodat.club
 0.0.0.0 tionpronomyim.info
 :: tionpronomyim.info
+0.0.0.0 tionscofferent.info
+:: tionscofferent.info
 0.0.0.0 tiontablyvern.site
 :: tiontablyvern.site
 0.0.0.0 tip-ads.de
@@ -75138,6 +75166,8 @@ ff02::3 ip6-allhosts
 :: tracking.vid4u.org
 0.0.0.0 tracking.vietbao.vn
 :: tracking.vietbao.vn
+0.0.0.0 tracking.vtc.vn
+:: tracking.vtc.vn
 0.0.0.0 tracking.vtcnew.com.vn
 :: tracking.vtcnew.com.vn
 0.0.0.0 tracking.waterfrontmedia.com
@@ -75940,6 +75970,8 @@ ff02::3 ip6-allhosts
 :: tsleavilycele.club
 0.0.0.0 tslomhfys.com
 :: tslomhfys.com
+0.0.0.0 tsnuanshang.com
+:: tsnuanshang.com
 0.0.0.0 tspops.com
 :: tspops.com
 0.0.0.0 tsrc8.com
@@ -76472,6 +76504,8 @@ ff02::3 ip6-allhosts
 :: u.zuoyesou.com
 0.0.0.0 u034024.nr1234.com
 :: u034024.nr1234.com
+0.0.0.0 u05m.cn
+:: u05m.cn
 0.0.0.0 u07k3pqfw5jh.com
 :: u07k3pqfw5jh.com
 0.0.0.0 u0r9.cn
@@ -80802,6 +80836,8 @@ ff02::3 ip6-allhosts
 :: wexevoom.net
 0.0.0.0 wf.taboola.com
 :: wf.taboola.com
+0.0.0.0 wfcvhhmumb.com
+:: wfcvhhmumb.com
 0.0.0.0 wfcxcblmy.com
 :: wfcxcblmy.com
 0.0.0.0 wffengtai.com.cn
