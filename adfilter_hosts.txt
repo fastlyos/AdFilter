@@ -1,11 +1,11 @@
-# Checksum: MTYwNDA0ODU5Mwo=
+# Checksum: MTYwNDA1OTQzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201030-3
-# TimeUpdated: 2020-10-30T09:03:13+00:00
+# Version: 1.6.6-20201030-4
+# TimeUpdated: 2020-10-30T12:03:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44254
+# Total: 44265
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -502,6 +502,8 @@ ff02::3 ip6-allhosts
 :: 10up.com
 0.0.0.0 11.96131.com.cn
 :: 11.96131.com.cn
+0.0.0.0 11.yiqig.com
+:: 11.yiqig.com
 0.0.0.0 1100ad.com
 :: 1100ad.com
 0.0.0.0 1100i.com
@@ -1260,8 +1262,6 @@ ff02::3 ip6-allhosts
 :: 2f5a1f1fab21a56.com
 0.0.0.0 2fnrc.cn
 :: 2fnrc.cn
-0.0.0.0 2fx32.cn
-:: 2fx32.cn
 0.0.0.0 2g6gj3aojcrj.com
 :: 2g6gj3aojcrj.com
 0.0.0.0 2giga.download
@@ -9402,8 +9402,6 @@ ff02::3 ip6-allhosts
 :: ailamtrieuphu.com
 0.0.0.0 ailaskarc.club
 :: ailaskarc.club
-0.0.0.0 aileenvideos.pro
-:: aileenvideos.pro
 0.0.0.0 aili.com
 :: aili.com
 0.0.0.0 ailicee.com
@@ -9654,8 +9652,6 @@ ff02::3 ip6-allhosts
 :: albireo.xyz
 0.0.0.0 alchemysocial.com
 :: alchemysocial.com
-0.0.0.0 alcidebrought.pro
-:: alcidebrought.pro
 0.0.0.0 alcmpn.com
 :: alcmpn.com
 0.0.0.0 alconbeatsi.club
@@ -15892,8 +15888,6 @@ ff02::3 ip6-allhosts
 :: br.realitykings.com
 0.0.0.0 br.rk.com
 :: br.rk.com
-0.0.0.0 bradymadura.pro
-:: bradymadura.pro
 0.0.0.0 brain.foresee.com
 :: brain.foresee.com
 0.0.0.0 brainian.club
@@ -19448,6 +19442,8 @@ ff02::3 ip6-allhosts
 :: client.video.ucweb.com
 0.0.0.0 clientanalysis.cmvideo.cn
 :: clientanalysis.cmvideo.cn
+0.0.0.0 clientlog.midomi.com
+:: clientlog.midomi.com
 0.0.0.0 clientlog.music.163.com
 :: clientlog.music.163.com
 0.0.0.0 clientlog3.music.163.com
@@ -21488,6 +21484,8 @@ ff02::3 ip6-allhosts
 :: couponcp-a.akamaihd.net
 0.0.0.0 couponcustomer.cpstatic.ch
 :: couponcustomer.cpstatic.ch
+0.0.0.0 couragetea.com
+:: couragetea.com
 0.0.0.0 courselfnorter.site
 :: courselfnorter.site
 0.0.0.0 courthereb.club
@@ -28322,6 +28320,8 @@ ff02::3 ip6-allhosts
 :: elessretarydevo.info
 0.0.0.0 elevantpds.club
 :: elevantpds.club
+0.0.0.0 elfcoexistbird.com
+:: elfcoexistbird.com
 0.0.0.0 elfirkelk.com
 :: elfirkelk.com
 0.0.0.0 elijahlio.com
@@ -39190,6 +39190,8 @@ ff02::3 ip6-allhosts
 :: insideoftech.com
 0.0.0.0 insidesoci.al
 :: insidesoci.al
+0.0.0.0 insight.bellmetric.net
+:: insight.bellmetric.net
 0.0.0.0 insight.fonecta.fi
 :: insight.fonecta.fi
 0.0.0.0 insight.mintel.com
@@ -48342,6 +48344,8 @@ ff02::3 ip6-allhosts
 :: merciselyancies.site
 0.0.0.0 mercuras.com
 :: mercuras.com
+0.0.0.0 mercury.dnitv.com
+:: mercury.dnitv.com
 0.0.0.0 mercury.jd.com
 :: mercury.jd.com
 0.0.0.0 mercy.ga
@@ -48652,6 +48656,8 @@ ff02::3 ip6-allhosts
 :: mhggzg.com
 0.0.0.0 mhhjqfjujxwrfa.com
 :: mhhjqfjujxwrfa.com
+0.0.0.0 mhi9da.cn
+:: mhi9da.cn
 0.0.0.0 mhj765.xyz
 :: mhj765.xyz
 0.0.0.0 mhjk.1391.com
@@ -49998,6 +50004,8 @@ ff02::3 ip6-allhosts
 :: motherehoom.pro
 0.0.0.0 motherhoodenhanced.com
 :: motherhoodenhanced.com
+0.0.0.0 mothhatekick.com
+:: mothhatekick.com
 0.0.0.0 motille.com
 :: motille.com
 0.0.0.0 motionlessbag.com
@@ -50642,6 +50650,8 @@ ff02::3 ip6-allhosts
 :: mwcvu.com
 0.0.0.0 mwh.zhangranfilm.com
 :: mwh.zhangranfilm.com
+0.0.0.0 mwhjamwra.com
+:: mwhjamwra.com
 0.0.0.0 mwnodes.viaxmr.com
 :: mwnodes.viaxmr.com
 0.0.0.0 mwor.gq
@@ -51264,6 +51274,8 @@ ff02::3 ip6-allhosts
 :: nbhubocsduzn.com
 0.0.0.0 nbjmp.com
 :: nbjmp.com
+0.0.0.0 nblczw.com
+:: nblczw.com
 0.0.0.0 nbrecsys.4paradigm.com
 :: nbrecsys.4paradigm.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
@@ -53878,6 +53890,8 @@ ff02::3 ip6-allhosts
 :: oneyearonechange.com
 0.0.0.0 onfingerous.club
 :: onfingerous.club
+0.0.0.0 ongassume.top
+:: ongassume.top
 0.0.0.0 ongsono.com
 :: ongsono.com
 0.0.0.0 onhercam.com
@@ -71370,6 +71384,8 @@ ff02::3 ip6-allhosts
 :: t.adxchina.cn
 0.0.0.0 t.adyun.com
 :: t.adyun.com
+0.0.0.0 t.afi-b.com
+:: t.afi-b.com
 0.0.0.0 t.alimama.com
 :: t.alimama.com
 0.0.0.0 t.allmodern.com
@@ -71756,6 +71772,8 @@ ff02::3 ip6-allhosts
 :: tag.brandcdn.com
 0.0.0.0 tag.cdnmaster.cn
 :: tag.cdnmaster.cn
+0.0.0.0 tag.cribnotes.jp
+:: tag.cribnotes.jp
 0.0.0.0 tag.crsspxl.com
 :: tag.crsspxl.com
 0.0.0.0 tag.datariver.ru
@@ -76094,6 +76112,8 @@ ff02::3 ip6-allhosts
 :: tujestimater.pro
 0.0.0.0 tujidao.com
 :: tujidao.com
+0.0.0.0 tujuvyfu.xyz
+:: tujuvyfu.xyz
 0.0.0.0 tukeai.com
 :: tukeai.com
 0.0.0.0 tukexiu.com
@@ -78084,6 +78104,8 @@ ff02::3 ip6-allhosts
 :: v2html.atm.youku.com
 0.0.0.0 v2mlamber.com
 :: v2mlamber.com
+0.0.0.0 v2mlemerald.com
+:: v2mlemerald.com
 0.0.0.0 v3-ad.ixigua.com
 :: v3-ad.ixigua.com
 0.0.0.0 v3.cnzz.com
