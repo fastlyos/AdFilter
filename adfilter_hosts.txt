@@ -1,11 +1,11 @@
-# Checksum: MTYwNDE2NzM4Mwo=
+# Checksum: MTYwNDE3ODE5OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201031-6
-# TimeUpdated: 2020-10-31T18:03:03+00:00
+# Version: 1.6.6-20201031-7
+# TimeUpdated: 2020-10-31T21:03:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44346
+# Total: 44348
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -168,6 +168,8 @@ ff02::3 ip6-allhosts
 :: 07346e971b1ec7f.com
 0.0.0.0 073c0cec65916314a.com
 :: 073c0cec65916314a.com
+0.0.0.0 0755man.cn
+:: 0755man.cn
 0.0.0.0 0756j.com
 :: 0756j.com
 0.0.0.0 0757kd.cn
@@ -2074,8 +2076,6 @@ ff02::3 ip6-allhosts
 :: 52lubo.cn
 0.0.0.0 52m.xde6.net
 :: 52m.xde6.net
-0.0.0.0 52shouyou.com.cn
-:: 52shouyou.com.cn
 0.0.0.0 52yugan.com
 :: 52yugan.com
 0.0.0.0 52zfl.com
@@ -2310,8 +2310,6 @@ ff02::3 ip6-allhosts
 :: 60608787.com
 0.0.0.0 6068a17eed25.com
 :: 6068a17eed25.com
-0.0.0.0 606w.cn
-:: 606w.cn
 0.0.0.0 6071.com
 :: 6071.com
 0.0.0.0 60999.cn
@@ -2840,6 +2838,8 @@ ff02::3 ip6-allhosts
 :: 7pk.com
 0.0.0.0 7porn.ru
 :: 7porn.ru
+0.0.0.0 7pud.com
+:: 7pud.com
 0.0.0.0 7search.com
 :: 7search.com
 0.0.0.0 7ssw.cn
@@ -14108,8 +14108,6 @@ ff02::3 ip6-allhosts
 :: bdapi.ads.oppomobile.com
 0.0.0.0 bdasd.chdbook.cn
 :: bdasd.chdbook.cn
-0.0.0.0 bdasd.wmxa.cn
-:: bdasd.wmxa.cn
 0.0.0.0 bdash-cloud.com
 :: bdash-cloud.com
 0.0.0.0 bdbdqkdkfb.xyz
@@ -17202,6 +17200,8 @@ ff02::3 ip6-allhosts
 :: calculatorstatement.com
 0.0.0.0 calfsbreedstax.com
 :: calfsbreedstax.com
+0.0.0.0 caligula.pro
+:: caligula.pro
 0.0.0.0 caljqsml.com
 :: caljqsml.com
 0.0.0.0 call-tracking.by
@@ -27054,6 +27054,8 @@ ff02::3 ip6-allhosts
 :: dzxsqoh01i.com
 0.0.0.0 dzxwnews.com
 :: dzxwnews.com
+0.0.0.0 dzznyesmwj.com
+:: dzznyesmwj.com
 0.0.0.0 e-contenta.com
 :: e-contenta.com
 0.0.0.0 e-find.co
@@ -40298,8 +40300,6 @@ ff02::3 ip6-allhosts
 :: jackao.net
 0.0.0.0 jackettrain.com
 :: jackettrain.com
-0.0.0.0 jacklm2.com
-:: jacklm2.com
 0.0.0.0 jacobeshort.pro
 :: jacobeshort.pro
 0.0.0.0 jadcenter.com
@@ -43904,6 +43904,8 @@ ff02::3 ip6-allhosts
 :: lg.tr.pandora.tv
 0.0.0.0 lg1.logging.admicro.vn
 :: lg1.logging.admicro.vn
+0.0.0.0 lg4.jointreport-switch.com
+:: lg4.jointreport-switch.com
 0.0.0.0 lgjygg.com
 :: lgjygg.com
 0.0.0.0 lglady.cn
@@ -56352,6 +56354,8 @@ ff02::3 ip6-allhosts
 :: phormlabs.com
 0.0.0.0 photo-ads.zaloapp.com
 :: photo-ads.zaloapp.com
+0.0.0.0 photo.0234408.cn
+:: photo.0234408.cn
 0.0.0.0 photo.941ziyuan.cn
 :: photo.941ziyuan.cn
 0.0.0.0 photo.backerbiotech.cn
