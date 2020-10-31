@@ -1,11 +1,11 @@
-# Checksum: MTYwNDE1NjU5OAo=
+# Checksum: MTYwNDE2NzM4Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201031-5
-# TimeUpdated: 2020-10-31T15:03:18+00:00
+# Version: 1.6.6-20201031-6
+# TimeUpdated: 2020-10-31T18:03:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44347
+# Total: 44346
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11522,8 +11522,6 @@ ff02::3 ip6-allhosts
 :: app-adforce.jp
 0.0.0.0 app-analytics-cn.huami.com
 :: app-analytics-cn.huami.com
-0.0.0.0 app-analytics-v2.snapchat.com
-:: app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.huami.com
 :: app-analytics.huami.com
 0.0.0.0 app-g.39.net
@@ -14588,8 +14586,6 @@ ff02::3 ip6-allhosts
 :: bepolite.eu
 0.0.0.0 berateveng.ru
 :: berateveng.ru
-0.0.0.0 berfd.xyz
-:: berfd.xyz
 0.0.0.0 berg-6-82.com
 :: berg-6-82.com
 0.0.0.0 bergfi.com
@@ -22184,6 +22180,8 @@ ff02::3 ip6-allhosts
 :: ct.verticalhealth.net
 0.0.0.0 ct1.shinobi.jp
 :: ct1.shinobi.jp
+0.0.0.0 ct2.kimodameshi.com
+:: ct2.kimodameshi.com
 0.0.0.0 ct2.shinobi.jp
 :: ct2.shinobi.jp
 0.0.0.0 ct5m.citadium.com
@@ -39106,8 +39104,6 @@ ff02::3 ip6-allhosts
 :: informvisitors.com
 0.0.0.0 infostroy.nnov.ru
 :: infostroy.nnov.ru
-0.0.0.0 infotop.jp
-:: infotop.jp
 0.0.0.0 infotor.me
 :: infotor.me
 0.0.0.0 infovps.site
@@ -40302,6 +40298,8 @@ ff02::3 ip6-allhosts
 :: jackao.net
 0.0.0.0 jackettrain.com
 :: jackettrain.com
+0.0.0.0 jacklm2.com
+:: jacklm2.com
 0.0.0.0 jacobeshort.pro
 :: jacobeshort.pro
 0.0.0.0 jadcenter.com
@@ -40582,8 +40580,6 @@ ff02::3 ip6-allhosts
 :: jesgoo.com
 0.0.0.0 jet.zbp.ru
 :: jet.zbp.ru
-0.0.0.0 jetrun.jp
-:: jetrun.jp
 0.0.0.0 jetsowilk.com
 :: jetsowilk.com
 0.0.0.0 jetx.info
@@ -71934,6 +71930,8 @@ ff02::3 ip6-allhosts
 :: tag.myplay.com
 0.0.0.0 tag.nifty.com
 :: tag.nifty.com
+0.0.0.0 tag.pprl.io
+:: tag.pprl.io
 0.0.0.0 tag.regieci.com
 :: tag.regieci.com
 0.0.0.0 tag.rightmessage.com
