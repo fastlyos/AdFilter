@@ -1,11 +1,11 @@
-# Checksum: MTYwNDEzNDk4MQo=
+# Checksum: MTYwNDE0NTgzNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201031-3
-# TimeUpdated: 2020-10-31T09:03:01+00:00
+# Version: 1.6.6-20201031-4
+# TimeUpdated: 2020-10-31T12:03:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44333
+# Total: 44335
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1194,8 +1194,6 @@ ff02::3 ip6-allhosts
 :: 2785.dlads.cn
 0.0.0.0 27admin.com
 :: 27admin.com
-0.0.0.0 27f35.cn
-:: 27f35.cn
 0.0.0.0 27vckaccbto7p761.pro
 :: 27vckaccbto7p761.pro
 0.0.0.0 280dp.com
@@ -2806,6 +2804,8 @@ ff02::3 ip6-allhosts
 :: 7insight.com
 0.0.0.0 7ix.ru
 :: 7ix.ru
+0.0.0.0 7j7jv5.cn
+:: 7j7jv5.cn
 0.0.0.0 7jzic2hylf.ru
 :: 7jzic2hylf.ru
 0.0.0.0 7kjiiu.cn
@@ -5102,8 +5102,6 @@ ff02::3 ip6-allhosts
 :: ad.kissanime.ac
 0.0.0.0 ad.kissanime.io
 :: ad.kissanime.io
-0.0.0.0 ad.kisscartoon.ac
-:: ad.kisscartoon.ac
 0.0.0.0 ad.kisscartoon.io
 :: ad.kisscartoon.io
 0.0.0.0 ad.kisscartoon.is
@@ -13242,8 +13240,6 @@ ff02::3 ip6-allhosts
 :: b5ae848728034caddca.com
 0.0.0.0 b5h7.com
 :: b5h7.com
-0.0.0.0 b5qpg.cn
-:: b5qpg.cn
 0.0.0.0 b60228e270e363f6.com
 :: b60228e270e363f6.com
 0.0.0.0 b666.penzainform.ru
@@ -28014,8 +28010,6 @@ ff02::3 ip6-allhosts
 :: ee.zn8ni.cn
 0.0.0.0 ee.zowmgxpz.cn
 :: ee.zowmgxpz.cn
-0.0.0.0 ee035.cn
-:: ee035.cn
 0.0.0.0 ee312a01eb2ebce.com
 :: ee312a01eb2ebce.com
 0.0.0.0 ee6a35c1eeee.com
@@ -41784,6 +41778,8 @@ ff02::3 ip6-allhosts
 :: juxilm.com
 0.0.0.0 juyoufan.net
 :: juyoufan.net
+0.0.0.0 juyour8.org
+:: juyour8.org
 0.0.0.0 juzi.cn
 :: juzi.cn
 0.0.0.0 juzilm.com
@@ -42886,8 +42882,6 @@ ff02::3 ip6-allhosts
 :: kuaiyan.com
 0.0.0.0 kuaizitech.com
 :: kuaizitech.com
-0.0.0.0 kubam.cn
-:: kubam.cn
 0.0.0.0 kucent.com
 :: kucent.com
 0.0.0.0 kuchebraska.com
@@ -49084,6 +49078,8 @@ ff02::3 ip6-allhosts
 :: mintme.ml
 0.0.0.0 minutesbitter.com
 :: minutesbitter.com
+0.0.0.0 minwear.com.cn
+:: minwear.com.cn
 0.0.0.0 miokoo.com
 :: miokoo.com
 0.0.0.0 mipagerank.com
@@ -56488,6 +56484,8 @@ ff02::3 ip6-allhosts
 :: pic.modpi.cn
 0.0.0.0 pic.new400.cn
 :: pic.new400.cn
+0.0.0.0 pic.poklytk.com
+:: pic.poklytk.com
 0.0.0.0 pic.punchbox.org
 :: pic.punchbox.org
 0.0.0.0 pic.pxstda.com
@@ -58008,6 +58006,8 @@ ff02::3 ip6-allhosts
 :: ppunion.com
 0.0.0.0 ppvabs.pplive.com
 :: ppvabs.pplive.com
+0.0.0.0 pqezdo.cn
+:: pqezdo.cn
 0.0.0.0 pqrtd9hhtu9x.info
 :: pqrtd9hhtu9x.info
 0.0.0.0 pqwtrq.xyz
@@ -60554,6 +60554,8 @@ ff02::3 ip6-allhosts
 :: qwex.ru
 0.0.0.0 qwfh39851jtfvkurf21hf.com
 :: qwfh39851jtfvkurf21hf.com
+0.0.0.0 qwfknhc.cn
+:: qwfknhc.cn
 0.0.0.0 qwulxgznx.com
 :: qwulxgznx.com
 0.0.0.0 qwvv.com
@@ -62746,6 +62748,8 @@ ff02::3 ip6-allhosts
 :: roneum.crypto-webminer.com
 0.0.0.0 rongchengxxw.com
 :: rongchengxxw.com
+0.0.0.0 rongdingwl.cn
+:: rongdingwl.cn
 0.0.0.0 rongnews.com
 :: rongnews.com
 0.0.0.0 ronoutom.net
