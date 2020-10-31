@@ -1,11 +1,11 @@
-# Checksum: MTYwNDE0NTgzNAo=
+# Checksum: MTYwNDE1NjU5OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201031-4
-# TimeUpdated: 2020-10-31T12:03:54+00:00
+# Version: 1.6.6-20201031-5
+# TimeUpdated: 2020-10-31T15:03:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44335
+# Total: 44347
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -758,6 +758,8 @@ ff02::3 ip6-allhosts
 :: 178gg.com
 0.0.0.0 1797wan.com
 :: 1797wan.com
+0.0.0.0 17bqg.top
+:: 17bqg.top
 0.0.0.0 17chezhan.com
 :: 17chezhan.com
 0.0.0.0 17gouwuba.com
@@ -3940,6 +3942,8 @@ ff02::3 ip6-allhosts
 :: a1662.oadz.com
 0.0.0.0 a1714.com
 :: a1714.com
+0.0.0.0 a1a5ab31bcd1bc68.com
+:: a1a5ab31bcd1bc68.com
 0.0.0.0 a1b1ea8f418ca02ad4e.com
 :: a1b1ea8f418ca02ad4e.com
 0.0.0.0 a1click.cpc.sogou.com
@@ -4118,6 +4122,8 @@ ff02::3 ip6-allhosts
 :: aaadealstoday.com
 0.0.0.0 aaalian.com
 :: aaalian.com
+0.0.0.0 aaaw.xyz
+:: aaaw.xyz
 0.0.0.0 aab-check.me
 :: aab-check.me
 0.0.0.0 aabbccddeeffgg.cn
@@ -14466,6 +14472,8 @@ ff02::3 ip6-allhosts
 :: befortugal.club
 0.0.0.0 befouled-fire.com
 :: befouled-fire.com
+0.0.0.0 befriendcarawaycarbon.com
+:: befriendcarawaycarbon.com
 0.0.0.0 beget.tech
 :: beget.tech
 0.0.0.0 beggarthodcomp.info
@@ -18766,6 +18774,8 @@ ff02::3 ip6-allhosts
 :: chystechagre.pro
 0.0.0.0 ci-marketing.de
 :: ci-marketing.de
+0.0.0.0 ci-web.cn
+:: ci-web.cn
 0.0.0.0 cialundertain.fun
 :: cialundertain.fun
 0.0.0.0 cibleclick.com
@@ -32302,6 +32312,8 @@ ff02::3 ip6-allhosts
 :: fvbeyduylvgy.com
 0.0.0.0 fvenxjtzuaxu.com
 :: fvenxjtzuaxu.com
+0.0.0.0 fvflgigyryacgp.com
+:: fvflgigyryacgp.com
 0.0.0.0 fvkdatbzswo.bid
 :: fvkdatbzswo.bid
 0.0.0.0 fvsniyfeyjvg.com
@@ -40730,6 +40742,8 @@ ff02::3 ip6-allhosts
 :: jiduan.cc
 0.0.0.0 jiehantai.com
 :: jiehantai.com
+0.0.0.0 jiehunmishu.com
+:: jiehunmishu.com
 0.0.0.0 jiejg.ifeng.com
 :: jiejg.ifeng.com
 0.0.0.0 jientlysome.top
@@ -41778,8 +41792,6 @@ ff02::3 ip6-allhosts
 :: juxilm.com
 0.0.0.0 juyoufan.net
 :: juyoufan.net
-0.0.0.0 juyour8.org
-:: juyour8.org
 0.0.0.0 juzi.cn
 :: juzi.cn
 0.0.0.0 juzilm.com
@@ -42974,6 +42986,8 @@ ff02::3 ip6-allhosts
 :: kwcscdn.000dn.com
 0.0.0.0 kwflvcdn.000dn.com
 :: kwflvcdn.000dn.com
+0.0.0.0 kwhgsdnkrusyw.com
+:: kwhgsdnkrusyw.com
 0.0.0.0 kwmsg.kuwo.cn
 :: kwmsg.kuwo.cn
 0.0.0.0 kwmwva.com
@@ -49078,8 +49092,6 @@ ff02::3 ip6-allhosts
 :: mintme.ml
 0.0.0.0 minutesbitter.com
 :: minutesbitter.com
-0.0.0.0 minwear.com.cn
-:: minwear.com.cn
 0.0.0.0 miokoo.com
 :: miokoo.com
 0.0.0.0 mipagerank.com
@@ -51582,6 +51594,8 @@ ff02::3 ip6-allhosts
 :: net.haier.com
 0.0.0.0 net.rayjump.com
 :: net.rayjump.com
+0.0.0.0 net00.biz
+:: net00.biz
 0.0.0.0 net3media.com
 :: net3media.com
 0.0.0.0 netaffiliation.com
@@ -51890,6 +51904,8 @@ ff02::3 ip6-allhosts
 :: news.yeyou.com
 0.0.0.0 news07.biz
 :: news07.biz
+0.0.0.0 news19.biz
+:: news19.biz
 0.0.0.0 news2day.me
 :: news2day.me
 0.0.0.0 newsadsppush.com
@@ -58006,8 +58022,6 @@ ff02::3 ip6-allhosts
 :: ppunion.com
 0.0.0.0 ppvabs.pplive.com
 :: ppvabs.pplive.com
-0.0.0.0 pqezdo.cn
-:: pqezdo.cn
 0.0.0.0 pqrtd9hhtu9x.info
 :: pqrtd9hhtu9x.info
 0.0.0.0 pqwtrq.xyz
@@ -60554,8 +60568,6 @@ ff02::3 ip6-allhosts
 :: qwex.ru
 0.0.0.0 qwfh39851jtfvkurf21hf.com
 :: qwfh39851jtfvkurf21hf.com
-0.0.0.0 qwfknhc.cn
-:: qwfknhc.cn
 0.0.0.0 qwulxgznx.com
 :: qwulxgznx.com
 0.0.0.0 qwvv.com
@@ -60592,6 +60604,8 @@ ff02::3 ip6-allhosts
 :: qyzyd.top
 0.0.0.0 qza7iorexyrp.com
 :: qza7iorexyrp.com
+0.0.0.0 qzbnnpotm.com
+:: qzbnnpotm.com
 0.0.0.0 qzbxfs.com
 :: qzbxfs.com
 0.0.0.0 qzdaren.com
@@ -71016,6 +71030,8 @@ ff02::3 ip6-allhosts
 :: svekolka.com
 0.0.0.0 svem.cc
 :: svem.cc
+0.0.0.0 svevbvsjeicl.com
+:: svevbvsjeicl.com
 0.0.0.0 svfwer.top
 :: svfwer.top
 0.0.0.0 sviklutt.site
@@ -76074,6 +76090,8 @@ ff02::3 ip6-allhosts
 :: tsundedhimse.fun
 0.0.0.0 tswmel.com
 :: tswmel.com
+0.0.0.0 tswxyvxm.com
+:: tswxyvxm.com
 0.0.0.0 tsyndicate.com
 :: tsyndicate.com
 0.0.0.0 tsyndolls.com
@@ -77910,6 +77928,8 @@ ff02::3 ip6-allhosts
 :: utubeconverter.com
 0.0.0.0 uu.85655095.com
 :: uu.85655095.com
+0.0.0.0 uu.jiudiandyw.com
+:: uu.jiudiandyw.com
 0.0.0.0 uu.qq.com
 :: uu.qq.com
 0.0.0.0 uu1.3gu.com
@@ -81368,6 +81388,8 @@ ff02::3 ip6-allhosts
 :: winsistakesme.site
 0.0.0.0 winvestern.com.cn
 :: winvestern.com.cn
+0.0.0.0 winvideo.org
+:: winvideo.org
 0.0.0.0 winvvv.com
 :: winvvv.com
 0.0.0.0 wipeneighbour.com
@@ -84984,6 +85006,8 @@ ff02::3 ip6-allhosts
 :: www.wyxcb3.top
 0.0.0.0 www.wyxcb4.top
 :: www.wyxcb4.top
+0.0.0.0 www.wyxcb6.top
+:: www.wyxcb6.top
 0.0.0.0 www.wzaigo.com
 :: www.wzaigo.com
 0.0.0.0 www.xavingtsun.com
