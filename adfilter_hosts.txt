@@ -1,11 +1,11 @@
-# Checksum: MTYwNDEwMjc5Mwo=
+# Checksum: MTYwNDExMzQwMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201031-0
-# TimeUpdated: 2020-10-31T00:06:33+00:00
+# Version: 1.6.6-20201031-1
+# TimeUpdated: 2020-10-31T03:03:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44310
+# Total: 44314
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -586,6 +586,8 @@ ff02::3 ip6-allhosts
 :: 1234xm.com
 0.0.0.0 123564.com
 :: 123564.com
+0.0.0.0 12365chia.com
+:: 12365chia.com
 0.0.0.0 12381236.com
 :: 12381236.com
 0.0.0.0 123advertising.nl
@@ -18966,6 +18968,8 @@ ff02::3 ip6-allhosts
 :: clawtoiltaupe.com
 0.0.0.0 claxonmedia.com
 :: claxonmedia.com
+0.0.0.0 clbjmp.com
+:: clbjmp.com
 0.0.0.0 clc.stackoverflow.com
 :: clc.stackoverflow.com
 0.0.0.0 clc.wanmancn.com
@@ -29500,6 +29504,8 @@ ff02::3 ip6-allhosts
 :: euwtn.5081.site
 0.0.0.0 euz.net
 :: euz.net
+0.0.0.0 euzlyrzg.com
+:: euzlyrzg.com
 0.0.0.0 ev.kck.st
 :: ev.kck.st
 0.0.0.0 ev2cdn.com
@@ -33446,6 +33452,8 @@ ff02::3 ip6-allhosts
 :: getmygeo.com
 0.0.0.0 getnormalizedurl.com
 :: getnormalizedurl.com
+0.0.0.0 getnotification.me
+:: getnotification.me
 0.0.0.0 getpdaiddaily.com
 :: getpdaiddaily.com
 0.0.0.0 getplumberacting.com
@@ -45438,6 +45446,8 @@ ff02::3 ip6-allhosts
 :: lqpkjasgqjve.com
 0.0.0.0 lqw.me
 :: lqw.me
+0.0.0.0 lr96.top
+:: lr96.top
 0.0.0.0 lrcet.cnzz.kld666.com
 :: lrcet.cnzz.kld666.com
 0.0.0.0 lrcs.info
@@ -80006,8 +80016,6 @@ ff02::3 ip6-allhosts
 :: wangqipu.com
 0.0.0.0 wangzhan5.com
 :: wangzhan5.com
-0.0.0.0 wangzhanmeng.com
-:: wangzhanmeng.com
 0.0.0.0 wanpaig.4567.org
 :: wanpaig.4567.org
 0.0.0.0 wantaiss.com
