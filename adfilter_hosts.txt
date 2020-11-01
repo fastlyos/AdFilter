@@ -1,11 +1,11 @@
-# Checksum: MTYwNDIxMDYxNwo=
+# Checksum: MTYwNDIyMTM5Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201101-2
-# TimeUpdated: 2020-11-01T06:03:37+00:00
+# Version: 1.6.6-20201101-3
+# TimeUpdated: 2020-11-01T09:03:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44379
+# Total: 44375
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1254,6 +1254,8 @@ ff02::3 ip6-allhosts
 :: 2d-c.cn
 0.0.0.0 2d52156c065481.com
 :: 2d52156c065481.com
+0.0.0.0 2d7bd9e6eb370143.com
+:: 2d7bd9e6eb370143.com
 0.0.0.0 2dbd87c7a091b.com
 :: 2dbd87c7a091b.com
 0.0.0.0 2dpt.com
@@ -8720,8 +8722,6 @@ ff02::3 ip6-allhosts
 :: adxpremium.com
 0.0.0.0 adxpremium.services
 :: adxpremium.services
-0.0.0.0 adxprtz.com
-:: adxprtz.com
 0.0.0.0 adxpub.com
 :: adxpub.com
 0.0.0.0 adxquare.com
@@ -17590,8 +17590,6 @@ ff02::3 ip6-allhosts
 :: cavewaxmalt.com
 0.0.0.0 cawbarthe.com
 :: cawbarthe.com
-0.0.0.0 cawsodpet.club
-:: cawsodpet.club
 0.0.0.0 caykotranybjvx.com
 :: caykotranybjvx.com
 0.0.0.0 cb-content.com
@@ -18538,6 +18536,8 @@ ff02::3 ip6-allhosts
 :: chauksoa.net
 0.0.0.0 chautcho.com
 :: chautcho.com
+0.0.0.0 chaxinyong.net
+:: chaxinyong.net
 0.0.0.0 che0.com
 :: che0.com
 0.0.0.0 cheap-ads.net
@@ -19022,6 +19022,8 @@ ff02::3 ip6-allhosts
 :: cleaneryelded.site
 0.0.0.0 clear-request.com
 :: clear-request.com
+0.0.0.0 clearac.com
+:: clearac.com
 0.0.0.0 clearadnetwork.com
 :: clearadnetwork.com
 0.0.0.0 clearant.club
@@ -20770,6 +20772,8 @@ ff02::3 ip6-allhosts
 :: content.adriver.ru
 0.0.0.0 content.livesportmedia.eu
 :: content.livesportmedia.eu
+0.0.0.0 content.liveuniverse.com
+:: content.liveuniverse.com
 0.0.0.0 content.mql5.com
 :: content.mql5.com
 0.0.0.0 content.printdirect.ru
@@ -28164,6 +28168,8 @@ ff02::3 ip6-allhosts
 :: effiliates.cn
 0.0.0.0 effixtile-inceive.com
 :: effixtile-inceive.com
+0.0.0.0 effrontferty.top
+:: effrontferty.top
 0.0.0.0 eficdbhnojt.com
 :: eficdbhnojt.com
 0.0.0.0 efo25978.eeo1h1.cn
@@ -31890,6 +31896,8 @@ ff02::3 ip6-allhosts
 :: freecontent.com
 0.0.0.0 freecontent.date
 :: freecontent.date
+0.0.0.0 freecontent.info
+:: freecontent.info
 0.0.0.0 freecontent.net
 :: freecontent.net
 0.0.0.0 freecontent.stream
@@ -32628,8 +32636,6 @@ ff02::3 ip6-allhosts
 :: g35.cc
 0.0.0.0 g3565518030.co
 :: g3565518030.co
-0.0.0.0 g36525192.com
-:: g36525192.com
 0.0.0.0 g3763602365.co
 :: g3763602365.co
 0.0.0.0 g3961686700.co
@@ -42132,8 +42138,6 @@ ff02::3 ip6-allhosts
 :: kbn.korben.info
 0.0.0.0 kbnetworkz.s3.amazonaws.com
 :: kbnetworkz.s3.amazonaws.com
-0.0.0.0 kbpijqva.com
-:: kbpijqva.com
 0.0.0.0 kbqebfcubeiaa.com
 :: kbqebfcubeiaa.com
 0.0.0.0 kbstyn.com
@@ -44620,8 +44624,6 @@ ff02::3 ip6-allhosts
 :: lmrlanov.com
 0.0.0.0 lmsdgxbtrzvd.com
 :: lmsdgxbtrzvd.com
-0.0.0.0 lmsycyfh.com
-:: lmsycyfh.com
 0.0.0.0 lmwap.awtks.com
 :: lmwap.awtks.com
 0.0.0.0 ln.ameba.jp
@@ -45372,8 +45374,6 @@ ff02::3 ip6-allhosts
 :: lostplanetcdn.com
 0.0.0.0 lostun.com
 :: lostun.com
-0.0.0.0 lothairhansboro.com
-:: lothairhansboro.com
 0.0.0.0 lotmentemp.pro
 :: lotmentemp.pro
 0.0.0.0 lottery-lists.freebitco.in
@@ -53024,8 +53024,6 @@ ff02::3 ip6-allhosts
 :: ntxiangtai.com
 0.0.0.0 ntymurmud.top
 :: ntymurmud.top
-0.0.0.0 ntzfly.cn
-:: ntzfly.cn
 0.0.0.0 nuclearads.com
 :: nuclearads.com
 0.0.0.0 nuclearpurposely.com
@@ -53492,8 +53490,6 @@ ff02::3 ip6-allhosts
 :: oei1.gq
 0.0.0.0 oende.cn
 :: oende.cn
-0.0.0.0 oeppesfmzlbpa.com
-:: oeppesfmzlbpa.com
 0.0.0.0 oevery.com
 :: oevery.com
 0.0.0.0 oevujdgj.com
@@ -53688,6 +53684,8 @@ ff02::3 ip6-allhosts
 :: ojeergoy.com
 0.0.0.0 ojj258.com
 :: ojj258.com
+0.0.0.0 ojktwzisvpb.com
+:: ojktwzisvpb.com
 0.0.0.0 ojm4.palladiumhotelgroup.com
 :: ojm4.palladiumhotelgroup.com
 0.0.0.0 ojooo.com
@@ -67452,8 +67450,6 @@ ff02::3 ip6-allhosts
 :: smartracker.net
 0.0.0.0 smarttargetting.net
 :: smarttargetting.net
-0.0.0.0 smarttds.ru
-:: smarttds.ru
 0.0.0.0 smarttopchain.nl
 :: smarttopchain.nl
 0.0.0.0 smartwebads.com
@@ -68084,8 +68080,6 @@ ff02::3 ip6-allhosts
 :: southendstandard-gb.southendstandard.co.uk
 0.0.0.0 southene.club
 :: southene.club
-0.0.0.0 southening.info
-:: southening.info
 0.0.0.0 southwalesargus-gb.southwalesargus.co.uk
 :: southwalesargus-gb.southwalesargus.co.uk
 0.0.0.0 southwalesguardian-gb.southwalesguardian.co.uk
@@ -70624,8 +70618,6 @@ ff02::3 ip6-allhosts
 :: studentloan.host
 0.0.0.0 stuff-nzwhistleout.s3.amazonaws.com
 :: stuff-nzwhistleout.s3.amazonaws.com
-0.0.0.0 stuff.202m.com
-:: stuff.202m.com
 0.0.0.0 stuff.cdn.biddingx.com
 :: stuff.cdn.biddingx.com
 0.0.0.0 stumbledabetsuburb.com
@@ -73760,8 +73752,6 @@ ff02::3 ip6-allhosts
 :: tktracker.aotter.net
 0.0.0.0 tl.tradetracker.net
 :: tl.tradetracker.net
-0.0.0.0 tl.zcsfs.cn
-:: tl.zcsfs.cn
 0.0.0.0 tl813.com
 :: tl813.com
 0.0.0.0 tlafu.space
@@ -79466,6 +79456,8 @@ ff02::3 ip6-allhosts
 :: vmmpxl.com
 0.0.0.0 vmstats.varrando.com
 :: vmstats.varrando.com
+0.0.0.0 vmtjybwfb.com
+:: vmtjybwfb.com
 0.0.0.0 vmweb.net
 :: vmweb.net
 0.0.0.0 vmzqwz.cn
