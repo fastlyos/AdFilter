@@ -1,11 +1,11 @@
-# Checksum: MTYwNDIzMjIyNQo=
+# Checksum: MTYwNDI0MzAwNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201101-4
-# TimeUpdated: 2020-11-01T12:03:45+00:00
+# Version: 1.6.6-20201101-5
+# TimeUpdated: 2020-11-01T15:03:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44394
+# Total: 44400
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3218,6 +3218,8 @@ ff02::3 ip6-allhosts
 :: 913h6.cn
 0.0.0.0 913nd.dieti-natura.es
 :: 913nd.dieti-natura.es
+0.0.0.0 913vt.com
+:: 913vt.com
 0.0.0.0 915.com
 :: 915.com
 0.0.0.0 9151511tuesday.hqnpwzu.cn
@@ -33576,6 +33578,8 @@ ff02::3 ip6-allhosts
 :: gf108.com
 0.0.0.0 gfaf-banners.s3.amazonaws.com
 :: gfaf-banners.s3.amazonaws.com
+0.0.0.0 gfd.huigoushop.com
+:: gfd.huigoushop.com
 0.0.0.0 gfd80.com
 :: gfd80.com
 0.0.0.0 gfdfhdh5t5453.com
@@ -36300,6 +36304,8 @@ ff02::3 ip6-allhosts
 :: hingenerall.club
 0.0.0.0 hinkslovel.top
 :: hinkslovel.top
+0.0.0.0 hioeb.com
+:: hioeb.com
 0.0.0.0 hiopdi.com
 :: hiopdi.com
 0.0.0.0 hioqbb99.biqugeso.com
@@ -45776,6 +45782,8 @@ ff02::3 ip6-allhosts
 :: lwhitectionphy.club
 0.0.0.0 lwhsdfc.cn
 :: lwhsdfc.cn
+0.0.0.0 lwmwrsfzm.com
+:: lwmwrsfzm.com
 0.0.0.0 lwxjg.com
 :: lwxjg.com
 0.0.0.0 lwxlsj.wap.xsbiquge.com
@@ -61642,6 +61650,8 @@ ff02::3 ip6-allhosts
 :: redsurf.ru
 0.0.0.0 redtram.com
 :: redtram.com
+0.0.0.0 reducatedc.top
+:: reducatedc.top
 0.0.0.0 reductingds.club
 :: reductingds.club
 0.0.0.0 reduxmediagroup.com
@@ -71138,6 +71148,8 @@ ff02::3 ip6-allhosts
 :: svk-native.ru
 0.0.0.0 svlu.net
 :: svlu.net
+0.0.0.0 svolution.top
+:: svolution.top
 0.0.0.0 svr-prc-01.com
 :: svr-prc-01.com
 0.0.0.0 svsub.com
