@@ -1,11 +1,11 @@
-# Checksum: MTYwNDI1Mzc4OAo=
+# Checksum: MTYwNDI2NDU4NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201101-6
-# TimeUpdated: 2020-11-01T18:03:08+00:00
+# Version: 1.6.6-20201101-7
+# TimeUpdated: 2020-11-01T21:03:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44403
+# Total: 44401
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -16132,8 +16132,6 @@ ff02::3 ip6-allhosts
 :: brprt.stsdk.vivo.com.cn
 0.0.0.0 brqvld0p.com
 :: brqvld0p.com
-0.0.0.0 brrqeprqsrvrt.com
-:: brrqeprqsrvrt.com
 0.0.0.0 brtmout.pro
 :: brtmout.pro
 0.0.0.0 brtom.ru
@@ -20192,8 +20190,6 @@ ff02::3 ip6-allhosts
 :: coinhive.org
 0.0.0.0 coinhiveproxy.com
 :: coinhiveproxy.com
-0.0.0.0 coinhiver.com
-:: coinhiver.com
 0.0.0.0 coinhives.com
 :: coinhives.com
 0.0.0.0 coinimp.com
@@ -45568,6 +45564,8 @@ ff02::3 ip6-allhosts
 :: lseddehpo.com
 0.0.0.0 lsfinteractive.com
 :: lsfinteractive.com
+0.0.0.0 lsfjfoddezc.com
+:: lsfjfoddezc.com
 0.0.0.0 lsiwd.cn
 :: lsiwd.cn
 0.0.0.0 lsj2.5aer.com
@@ -72492,8 +72490,6 @@ ff02::3 ip6-allhosts
 :: tcr.tynt.com
 0.0.0.0 tcrybv.com
 :: tcrybv.com
-0.0.0.0 tcs-asp.net
-:: tcs-asp.net
 0.0.0.0 tcss.qq.com
 :: tcss.qq.com
 0.0.0.0 tctask.com
