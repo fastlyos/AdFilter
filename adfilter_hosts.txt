@@ -1,11 +1,11 @@
-# Checksum: MTYwNDMxODY0MAo=
+# Checksum: MTYwNDMyOTM5OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201102-4
-# TimeUpdated: 2020-11-02T12:04:00+00:00
+# Version: 1.6.6-20201102-5
+# TimeUpdated: 2020-11-02T15:03:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44408
+# Total: 44421
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2006,6 +2006,8 @@ ff02::3 ip6-allhosts
 :: 51chumoping.com
 0.0.0.0 51dengshan.cn
 :: 51dengshan.cn
+0.0.0.0 51dianji.cn
+:: 51dianji.cn
 0.0.0.0 51fuliwang.cn
 :: 51fuliwang.cn
 0.0.0.0 51gugu.com
@@ -2362,6 +2364,8 @@ ff02::3 ip6-allhosts
 :: 63voy9ciyi14.com
 0.0.0.0 641198810fae7.com
 :: 641198810fae7.com
+0.0.0.0 643226.com
+:: 643226.com
 0.0.0.0 645yvcj6c8rn.com
 :: 645yvcj6c8rn.com
 0.0.0.0 649558.com
@@ -18752,6 +18756,8 @@ ff02::3 ip6-allhosts
 :: chromc.com
 0.0.0.0 chronicads.com
 :: chronicads.com
+0.0.0.0 chronicleisoconfused.com
+:: chronicleisoconfused.com
 0.0.0.0 chrumedia.com
 :: chrumedia.com
 0.0.0.0 chsrkred.com
@@ -21426,6 +21432,8 @@ ff02::3 ip6-allhosts
 :: counter.tovarro.com
 0.0.0.0 counter.ukr.net
 :: counter.ukr.net
+0.0.0.0 counter.web.money
+:: counter.web.money
 0.0.0.0 counter.webmart.de
 :: counter.webmart.de
 0.0.0.0 counter.yadro.ru
@@ -34922,6 +34930,8 @@ ff02::3 ip6-allhosts
 :: gsp.cnzz.kld666.com
 0.0.0.0 gsspcln.jp
 :: gsspcln.jp
+0.0.0.0 gssxb.com
+:: gssxb.com
 0.0.0.0 gstat.bitauto.com
 :: gstat.bitauto.com
 0.0.0.0 gstats.cn
@@ -36072,6 +36082,8 @@ ff02::3 ip6-allhosts
 :: hexagon-analytics.com
 0.0.0.0 hexagram.com
 :: hexagram.com
+0.0.0.0 hexinx.com
+:: hexinx.com
 0.0.0.0 hey-do.com
 :: hey-do.com
 0.0.0.0 hey.lt
@@ -37382,6 +37394,8 @@ ff02::3 ip6-allhosts
 :: hxjs.tool.hexun.com
 0.0.0.0 hxlif.com
 :: hxlif.com
+0.0.0.0 hxlswibowjf.com
+:: hxlswibowjf.com
 0.0.0.0 hxsame.hexun.com
 :: hxsame.hexun.com
 0.0.0.0 hxscba.com
@@ -49922,6 +49936,8 @@ ff02::3 ip6-allhosts
 :: mollnia.com
 0.0.0.0 mologiq.net
 :: mologiq.net
+0.0.0.0 momdanwillingness.com
+:: momdanwillingness.com
 0.0.0.0 momently.com
 :: momently.com
 0.0.0.0 momentumviable.com
@@ -50074,6 +50090,8 @@ ff02::3 ip6-allhosts
 :: moogos.com
 0.0.0.0 mooieplaatjes.bierdopje.com
 :: mooieplaatjes.bierdopje.com
+0.0.0.0 moolkv.cn
+:: moolkv.cn
 0.0.0.0 moonads.net
 :: moonads.net
 0.0.0.0 moonicorn.network
@@ -52698,6 +52716,8 @@ ff02::3 ip6-allhosts
 :: northeregikgf.club
 0.0.0.0 northernintimate.com
 :: northernintimate.com
+0.0.0.0 northinmatedepression.com
+:: northinmatedepression.com
 0.0.0.0 northmay.com
 :: northmay.com
 0.0.0.0 northwichguardian-gb.northwichguardian.co.uk
@@ -62318,6 +62338,8 @@ ff02::3 ip6-allhosts
 :: reveal.clearbit.com
 0.0.0.0 revealads.appspot.com
 :: revealads.appspot.com
+0.0.0.0 revenueenslave.com
+:: revenueenslave.com
 0.0.0.0 revenuegiants.com
 :: revenuegiants.com
 0.0.0.0 revenuehits.com
@@ -70266,6 +70288,8 @@ ff02::3 ip6-allhosts
 :: statsapi.screen9.com
 0.0.0.0 statsbox.nl
 :: statsbox.nl
+0.0.0.0 statscol.pond5.com
+:: statscol.pond5.com
 0.0.0.0 statsd.zmags.com
 :: statsd.zmags.com
 0.0.0.0 statsdev.treesd.com
@@ -73420,6 +73444,8 @@ ff02::3 ip6-allhosts
 :: ths9j89.com
 0.0.0.0 thterras.com
 :: thterras.com
+0.0.0.0 thugtowardhindsight.com
+:: thugtowardhindsight.com
 0.0.0.0 thukrubs.com
 :: thukrubs.com
 0.0.0.0 thumbnail-galleries.net
@@ -82548,6 +82574,8 @@ ff02::3 ip6-allhosts
 :: wsk.segumy.com
 0.0.0.0 wskiglimpso.info
 :: wskiglimpso.info
+0.0.0.0 wsknjebphx.com
+:: wsknjebphx.com
 0.0.0.0 wsoue.com
 :: wsoue.com
 0.0.0.0 wss-1.monerise.com
@@ -85340,8 +85368,6 @@ ff02::3 ip6-allhosts
 :: wxggtg.dre8.com
 0.0.0.0 wxhdwy.com
 :: wxhdwy.com
-0.0.0.0 wxiansen.cn
-:: wxiansen.cn
 0.0.0.0 wxmg2016.com
 :: wxmg2016.com
 0.0.0.0 wxmmh.net
