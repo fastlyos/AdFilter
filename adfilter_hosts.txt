@@ -1,11 +1,11 @@
-# Checksum: MTYwNDQwNTA1MQo=
+# Checksum: MTYwNDQxNTgxOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201103-4
-# TimeUpdated: 2020-11-03T12:04:11+00:00
+# Version: 1.6.6-20201103-5
+# TimeUpdated: 2020-11-03T15:03:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44551
+# Total: 44554
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3048,6 +3048,8 @@ ff02::3 ip6-allhosts
 :: 888.jiuwanwang.com
 0.0.0.0 888.tv.sohu.com
 :: 888.tv.sohu.com
+0.0.0.0 88818122.cn
+:: 88818122.cn
 0.0.0.0 8881919.cc
 :: 8881919.cc
 0.0.0.0 88888l.info
@@ -22412,6 +22414,8 @@ ff02::3 ip6-allhosts
 :: cwj2h.cn
 0.0.0.0 cwkhyupiwzcjy.com
 :: cwkhyupiwzcjy.com
+0.0.0.0 cwmlm.com
+:: cwmlm.com
 0.0.0.0 cworsbumjgbuc.com
 :: cworsbumjgbuc.com
 0.0.0.0 cwpush.com
@@ -25326,8 +25330,6 @@ ff02::3 ip6-allhosts
 :: diqdel92t4na6.cloudfront.net
 0.0.0.0 dir.minigame.qq.com
 :: dir.minigame.qq.com
-0.0.0.0 dirbfm.cn
-:: dirbfm.cn
 0.0.0.0 dircash-promost.com
 :: dircash-promost.com
 0.0.0.0 dircont3.com
@@ -42398,6 +42400,8 @@ ff02::3 ip6-allhosts
 :: kfuih.cn
 0.0.0.0 kg8l81yh7vnf.com
 :: kg8l81yh7vnf.com
+0.0.0.0 kgfnhf.cn
+:: kgfnhf.cn
 0.0.0.0 kgmobilestat.kugou.com
 :: kgmobilestat.kugou.com
 0.0.0.0 kgmobilestatbak.kugou.com
@@ -49390,6 +49394,8 @@ ff02::3 ip6-allhosts
 :: mlog.m1905.cn
 0.0.0.0 mlsat04.de
 :: mlsat04.de
+0.0.0.0 mlsbxcgueedu.com
+:: mlsbxcgueedu.com
 0.0.0.0 mlstat.com
 :: mlstat.com
 0.0.0.0 mlsys.xyz
