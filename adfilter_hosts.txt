@@ -1,11 +1,11 @@
-# Checksum: MTYwNDM5NDI2Mgo=
+# Checksum: MTYwNDQwNTA1MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201103-3
-# TimeUpdated: 2020-11-03T09:04:22+00:00
+# Version: 1.6.6-20201103-4
+# TimeUpdated: 2020-11-03T12:04:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44540
+# Total: 44551
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6778,6 +6778,8 @@ ff02::3 ip6-allhosts
 :: adoperatorx.com
 0.0.0.0 adopexchange.com
 :: adopexchange.com
+0.0.0.0 adopt-sdk.xg.tagtic.cn
+:: adopt-sdk.xg.tagtic.cn
 0.0.0.0 adoptim.com
 :: adoptim.com
 0.0.0.0 adoric.com
@@ -16666,6 +16668,8 @@ ff02::3 ip6-allhosts
 :: c.adroll.com
 0.0.0.0 c.adsco.re
 :: c.adsco.re
+0.0.0.0 c.adx.2345.com
+:: c.adx.2345.com
 0.0.0.0 c.agrant.cn
 :: c.agrant.cn
 0.0.0.0 c.agrantsem.com
@@ -17820,6 +17824,8 @@ ff02::3 ip6-allhosts
 :: cdn.adk2.com
 0.0.0.0 cdn.adless.io
 :: cdn.adless.io
+0.0.0.0 cdn.adm.myhayo.com
+:: cdn.adm.myhayo.com
 0.0.0.0 cdn.adnxs.com
 :: cdn.adnxs.com
 0.0.0.0 cdn.ads.fotoable.net
@@ -22048,6 +22054,8 @@ ff02::3 ip6-allhosts
 :: crwan.applinzi.com
 0.0.0.0 crwdcntrl.net
 :: crwdcntrl.net
+0.0.0.0 crwzxtuhvzv.com
+:: crwzxtuhvzv.com
 0.0.0.0 cryaptall.club
 :: cryaptall.club
 0.0.0.0 cryartarm.online
@@ -23576,6 +23584,8 @@ ff02::3 ip6-allhosts
 :: d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d3tivku5hdr7jk.cloudfront.net
 :: d3tivku5hdr7jk.cloudfront.net
+0.0.0.0 d3tsytm1wtjqo2.cloudfront.net
+:: d3tsytm1wtjqo2.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 :: d3u5zn5k9864p0.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
@@ -25316,6 +25326,8 @@ ff02::3 ip6-allhosts
 :: diqdel92t4na6.cloudfront.net
 0.0.0.0 dir.minigame.qq.com
 :: dir.minigame.qq.com
+0.0.0.0 dirbfm.cn
+:: dirbfm.cn
 0.0.0.0 dircash-promost.com
 :: dircash-promost.com
 0.0.0.0 dircont3.com
@@ -34886,6 +34898,8 @@ ff02::3 ip6-allhosts
 :: grushashuka.pro
 0.0.0.0 grvmedia.com
 :: grvmedia.com
+0.0.0.0 gs.getui.com
+:: gs.getui.com
 0.0.0.0 gsasd.info
 :: gsasd.info
 0.0.0.0 gscarcinoh.club
@@ -48924,6 +48938,8 @@ ff02::3 ip6-allhosts
 :: miduoke.net
 0.0.0.0 mieru-ca.com
 :: mieru-ca.com
+0.0.0.0 mig.str.mdt.qq.com
+:: mig.str.mdt.qq.com
 0.0.0.0 mig8vn.com
 :: mig8vn.com
 0.0.0.0 migatesbala.fun
@@ -59456,6 +59472,8 @@ ff02::3 ip6-allhosts
 :: push.wapx.cn
 0.0.0.0 push.world
 :: push.world
+0.0.0.0 push.xdrig.com
+:: push.xdrig.com
 0.0.0.0 push.yuedu.163.com
 :: push.yuedu.163.com
 0.0.0.0 push.zdips.ru
@@ -60706,6 +60724,8 @@ ff02::3 ip6-allhosts
 :: qxxys.com
 0.0.0.0 qxyam.com
 :: qxyam.com
+0.0.0.0 qxyu.top
+:: qxyu.top
 0.0.0.0 qycjrkfzx.com
 :: qycjrkfzx.com
 0.0.0.0 qyctj.com
@@ -80442,6 +80462,8 @@ ff02::3 ip6-allhosts
 :: watakaw133.xyz
 0.0.0.0 watch.advertising.speed.cdn.vip.xunlei.com
 :: watch.advertising.speed.cdn.vip.xunlei.com
+0.0.0.0 watch.publicidadpro.com
+:: watch.publicidadpro.com
 0.0.0.0 watchesbrow.com
 :: watchesbrow.com
 0.0.0.0 watchfree.flv.in
