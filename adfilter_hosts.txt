@@ -1,11 +1,11 @@
-# Checksum: MTYwNDQxNTgxOAo=
+# Checksum: MTYwNDQyNjU5OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201103-5
-# TimeUpdated: 2020-11-03T15:03:38+00:00
+# Version: 1.6.6-20201103-6
+# TimeUpdated: 2020-11-03T18:03:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44554
+# Total: 44561
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2136,6 +2136,8 @@ ff02::3 ip6-allhosts
 :: 563015cf3d.com
 0.0.0.0 5634.com
 :: 5634.com
+0.0.0.0 564d28256cddaeba.com
+:: 564d28256cddaeba.com
 0.0.0.0 5675146.com
 :: 5675146.com
 0.0.0.0 56bc7e3668e952c.com
@@ -17638,6 +17640,8 @@ ff02::3 ip6-allhosts
 :: cbjg.cqnews.net
 0.0.0.0 cbjs.baidu.com
 :: cbjs.baidu.com
+0.0.0.0 cbleads.com
+:: cbleads.com
 0.0.0.0 cbn.tbn.ru
 :: cbn.tbn.ru
 0.0.0.0 cbs.wondershare.com
@@ -24448,8 +24452,6 @@ ff02::3 ip6-allhosts
 :: dditingwetlan.site
 0.0.0.0 ddivisitdiffi.club
 :: ddivisitdiffi.club
-0.0.0.0 ddl-network.org
-:: ddl-network.org
 0.0.0.0 ddl.3g567.com
 :: ddl.3g567.com
 0.0.0.0 ddlwnwshlk.com
@@ -28296,6 +28298,8 @@ ff02::3 ip6-allhosts
 :: ejieban.com
 0.0.0.0 ejin56.com
 :: ejin56.com
+0.0.0.0 ejirytuw.xyz
+:: ejirytuw.xyz
 0.0.0.0 ejiur.com
 :: ejiur.com
 0.0.0.0 ejkeshrzwoe.com
@@ -30044,6 +30048,8 @@ ff02::3 ip6-allhosts
 :: extole.com
 0.0.0.0 extra33.com
 :: extra33.com
+0.0.0.0 extrablocks.ru
+:: extrablocks.ru
 0.0.0.0 extralog.olclient.baofeng.com
 :: extralog.olclient.baofeng.com
 0.0.0.0 extreme-dm.com
@@ -42400,8 +42406,6 @@ ff02::3 ip6-allhosts
 :: kfuih.cn
 0.0.0.0 kg8l81yh7vnf.com
 :: kg8l81yh7vnf.com
-0.0.0.0 kgfnhf.cn
-:: kgfnhf.cn
 0.0.0.0 kgmobilestat.kugou.com
 :: kgmobilestat.kugou.com
 0.0.0.0 kgmobilestatbak.kugou.com
@@ -42634,6 +42638,8 @@ ff02::3 ip6-allhosts
 :: klangoo.com
 0.0.0.0 klapenlyidveln.stream
 :: klapenlyidveln.stream
+0.0.0.0 klayiwpzjk.com
+:: klayiwpzjk.com
 0.0.0.0 kldmm.com
 :: kldmm.com
 0.0.0.0 klert.com
@@ -47178,6 +47184,8 @@ ff02::3 ip6-allhosts
 :: madhouse.cn
 0.0.0.0 madisonlogic.com
 :: madisonlogic.com
+0.0.0.0 madmanbears.com
+:: madmanbears.com
 0.0.0.0 madmen.alastonsuomi.com
 :: madmen.alastonsuomi.com
 0.0.0.0 madmini.com
@@ -50386,6 +50394,8 @@ ff02::3 ip6-allhosts
 :: mps.yuwenba.cn
 0.0.0.0 mpstat.us
 :: mpstat.us
+0.0.0.0 mpsuadv.ru
+:: mpsuadv.ru
 0.0.0.0 mptedcazdep.info
 :: mptedcazdep.info
 0.0.0.0 mptentry.com
@@ -76522,6 +76532,8 @@ ff02::3 ip6-allhosts
 :: tusolyut.info
 0.0.0.0 tut-64.com
 :: tut-64.com
+0.0.0.0 tut.prosmotrov.net
+:: tut.prosmotrov.net
 0.0.0.0 tutad.ru
 :: tutad.ru
 0.0.0.0 tutorinforget.site
@@ -82172,6 +82184,8 @@ ff02::3 ip6-allhosts
 :: wrongpotato.com
 0.0.0.0 wronpeci.com
 :: wronpeci.com
+0.0.0.0 wrontonshatbona.pro
+:: wrontonshatbona.pro
 0.0.0.0 wrvdmh.cn
 :: wrvdmh.cn
 0.0.0.0 wryfinger.com
