@@ -1,11 +1,11 @@
-# Checksum: MTYwNDUwMjIyOAo=
+# Checksum: MTYwNDUxMjk5OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201104-5
-# TimeUpdated: 2020-11-04T15:03:48+00:00
+# Version: 1.6.6-20201104-6
+# TimeUpdated: 2020-11-04T18:03:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44510
+# Total: 44524
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1052,6 +1052,8 @@ ff02::3 ip6-allhosts
 :: 21.huanqiu.com
 0.0.0.0 21.zhaozongjie.com
 :: 21.zhaozongjie.com
+0.0.0.0 210189.com
+:: 210189.com
 0.0.0.0 2137dc12f9d8.com
 :: 2137dc12f9d8.com
 0.0.0.0 215to.cn
@@ -4064,6 +4066,8 @@ ff02::3 ip6-allhosts
 :: a6be07586bc4a7.com
 0.0.0.0 a6lxbeui.ru
 :: a6lxbeui.ru
+0.0.0.0 a6s.hn985.com
+:: a6s.hn985.com
 0.0.0.0 a6x4effomlxe.com
 :: a6x4effomlxe.com
 0.0.0.0 a75-10-so.ssl.cdn13.com
@@ -6376,6 +6380,8 @@ ff02::3 ip6-allhosts
 :: adlink.net
 0.0.0.0 adlink.shopsafe.co.nz
 :: adlink.shopsafe.co.nz
+0.0.0.0 adlipacbrakmjp.com
+:: adlipacbrakmjp.com
 0.0.0.0 adlive.cn
 :: adlive.cn
 0.0.0.0 adlive.io
@@ -7746,6 +7752,8 @@ ff02::3 ip6-allhosts
 :: adshack.com
 0.0.0.0 adshare.toutiao.com
 :: adshare.toutiao.com
+0.0.0.0 adshexa.com
+:: adshexa.com
 0.0.0.0 adshmct.qq.com
 :: adshmct.qq.com
 0.0.0.0 adshmmsg.qq.com
@@ -10084,8 +10092,6 @@ ff02::3 ip6-allhosts
 :: amesgraduatel.site
 0.0.0.0 amfi.gou.sogou.com
 :: amfi.gou.sogou.com
-0.0.0.0 amghvzn.cn
-:: amghvzn.cn
 0.0.0.0 amhpbhyxfgvd.com
 :: amhpbhyxfgvd.com
 0.0.0.0 amiderations.info
@@ -15510,6 +15516,8 @@ ff02::3 ip6-allhosts
 :: bm23.com
 0.0.0.0 bm324.com
 :: bm324.com
+0.0.0.0 bmcdn1.com
+:: bmcdn1.com
 0.0.0.0 bmcm.pw
 :: bmcm.pw
 0.0.0.0 bmfeed.ru
@@ -28128,6 +28136,8 @@ ff02::3 ip6-allhosts
 :: eetseemp.net
 0.0.0.0 eetsooso.net
 :: eetsooso.net
+0.0.0.0 eetyed.com
+:: eetyed.com
 0.0.0.0 eeveniccoll.club
 :: eeveniccoll.club
 0.0.0.0 eevidespre.top
@@ -31328,6 +31338,8 @@ ff02::3 ip6-allhosts
 :: flagcounter.com
 0.0.0.0 flaghit.com
 :: flaghit.com
+0.0.0.0 flagros2sii8fdbrh09.com
+:: flagros2sii8fdbrh09.com
 0.0.0.0 flags.es
 :: flags.es
 0.0.0.0 flagship.asp-host.co.uk
@@ -35098,6 +35110,8 @@ ff02::3 ip6-allhosts
 :: gwashiondevelhig.info
 0.0.0.0 gwatchestfe.top
 :: gwatchestfe.top
+0.0.0.0 gwigqsgv.com
+:: gwigqsgv.com
 0.0.0.0 gwmtracking.com
 :: gwmtracking.com
 0.0.0.0 gwoyrhpjeloo.com
@@ -42730,6 +42744,8 @@ ff02::3 ip6-allhosts
 :: koddi.com
 0.0.0.0 kodicdn.com
 :: kodicdn.com
+0.0.0.0 koertf.com
+:: koertf.com
 0.0.0.0 kofpag.com
 :: kofpag.com
 0.0.0.0 kohiquor.com
@@ -49236,6 +49252,8 @@ ff02::3 ip6-allhosts
 :: mitsczechoesy.site
 0.0.0.0 miui.hdfdm.com
 :: miui.hdfdm.com
+0.0.0.0 miui.hftaili.com
+:: miui.hftaili.com
 0.0.0.0 mivideo.g.mi.com
 :: mivideo.g.mi.com
 0.0.0.0 miwhelake.pro
@@ -56764,6 +56782,8 @@ ff02::3 ip6-allhosts
 :: pingtas.qq.com
 0.0.0.0 pinkmore.cn
 :: pinkmore.cn
+0.0.0.0 pinkpig2le8tt09.com
+:: pinkpig2le8tt09.com
 0.0.0.0 pinlrzucbjt.com
 :: pinlrzucbjt.com
 0.0.0.0 pinocularoud.site
@@ -61870,6 +61890,8 @@ ff02::3 ip6-allhosts
 :: reklamstore.com
 0.0.0.0 reklamstore.cubecdn.net
 :: reklamstore.cubecdn.net
+0.0.0.0 reklamtrk.com
+:: reklamtrk.com
 0.0.0.0 rekodpro.com
 :: rekodpro.com
 0.0.0.0 rekovers.ru
@@ -66600,6 +66622,8 @@ ff02::3 ip6-allhosts
 :: shj.tjawst.com
 0.0.0.0 shjsxx.com
 :: shjsxx.com
+0.0.0.0 shke.kuuad.com
+:: shke.kuuad.com
 0.0.0.0 shkunjia.com.cn
 :: shkunjia.com.cn
 0.0.0.0 shmokiads.com
@@ -66808,6 +66832,8 @@ ff02::3 ip6-allhosts
 :: shuake.ink
 0.0.0.0 shucaihangjia.com
 :: shucaihangjia.com
+0.0.0.0 shuccn.com
+:: shuccn.com
 0.0.0.0 shuffele.com
 :: shuffele.com
 0.0.0.0 shuhahom.net
@@ -76068,6 +76094,8 @@ ff02::3 ip6-allhosts
 :: trmnsite.com
 0.0.0.0 trocado.at
 :: trocado.at
+0.0.0.0 trofvido.com
+:: trofvido.com
 0.0.0.0 trokemar.com
 :: trokemar.com
 0.0.0.0 trombocrack.com
