@@ -1,11 +1,11 @@
-# Checksum: MTYwNDQzNzM3OQo=
+# Checksum: MTYwNDQ0ODQzMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201103-7
-# TimeUpdated: 2020-11-03T21:02:59+00:00
+# Version: 1.6.6-20201104-0
+# TimeUpdated: 2020-11-04T00:07:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44564
+# Total: 44566
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2794,6 +2794,8 @@ ff02::3 ip6-allhosts
 :: 7f3ad7d6ad52.com
 0.0.0.0 7f6383e2d7.com
 :: 7f6383e2d7.com
+0.0.0.0 7f8e91975bdc9c5f1c.com
+:: 7f8e91975bdc9c5f1c.com
 0.0.0.0 7fkm2r4pzi.com
 :: 7fkm2r4pzi.com
 0.0.0.0 7fva8algp45k.com
@@ -5858,8 +5860,6 @@ ff02::3 ip6-allhosts
 :: addie.verticalnetwork.de
 0.0.0.0 addinto.com
 :: addinto.com
-0.0.0.0 addiply.com
-:: addiply.com
 0.0.0.0 addirector.vindicosuite.com
 :: addirector.vindicosuite.com
 0.0.0.0 additionalmedia.com
@@ -7750,8 +7750,6 @@ ff02::3 ip6-allhosts
 :: adshob.com
 0.0.0.0 adshopping.com
 :: adshopping.com
-0.0.0.0 adshost2.com
-:: adshost2.com
 0.0.0.0 adshostnet.com
 :: adshostnet.com
 0.0.0.0 adshot.de
@@ -9520,8 +9518,6 @@ ff02::3 ip6-allhosts
 :: aise9738.com
 0.0.0.0 aiseet.aa.atianqi.com
 :: aiseet.aa.atianqi.com
-0.0.0.0 aishake.cn
-:: aishake.cn
 0.0.0.0 aisouk.cn
 :: aisouk.cn
 0.0.0.0 ait025.analysys.cn
@@ -20438,6 +20434,8 @@ ff02::3 ip6-allhosts
 :: comilar-efferiff.icu
 0.0.0.0 comin.co
 :: comin.co
+0.0.0.0 cominghamer.info
+:: cominghamer.info
 0.0.0.0 comm-news.com
 :: comm-news.com
 0.0.0.0 comm.app.autohome.com.cn
@@ -29570,6 +29568,8 @@ ff02::3 ip6-allhosts
 :: euros4click.de
 0.0.0.0 eus.rubiconproject.com
 :: eus.rubiconproject.com
+0.0.0.0 eusmhdvvddcr.com
+:: eusmhdvvddcr.com
 0.0.0.0 eutdrjvsrmav.com
 :: eutdrjvsrmav.com
 0.0.0.0 euwidget.imshopping.com
@@ -43100,6 +43100,8 @@ ff02::3 ip6-allhosts
 :: kwtrdd.com
 0.0.0.0 kwurl.ucweb.com
 :: kwurl.ucweb.com
+0.0.0.0 kwzmlceez.com
+:: kwzmlceez.com
 0.0.0.0 kxbpvlptnkrqvt.com
 :: kxbpvlptnkrqvt.com
 0.0.0.0 kxewpz.com
@@ -45910,6 +45912,8 @@ ff02::3 ip6-allhosts
 :: lymstsc.com
 0.0.0.0 lyngro.com
 :: lyngro.com
+0.0.0.0 lynn.zgsemi.cn
+:: lynn.zgsemi.cn
 0.0.0.0 lynormationpas.info
 :: lynormationpas.info
 0.0.0.0 lypn.com
