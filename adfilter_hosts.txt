@@ -1,11 +1,11 @@
-# Checksum: MTYwNDQ5MTQ0OAo=
+# Checksum: MTYwNDUwMjIyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201104-4
-# TimeUpdated: 2020-11-04T12:04:08+00:00
+# Version: 1.6.6-20201104-5
+# TimeUpdated: 2020-11-04T15:03:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44506
+# Total: 44510
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5862,6 +5862,8 @@ ff02::3 ip6-allhosts
 :: addie.verticalnetwork.de
 0.0.0.0 addinto.com
 :: addinto.com
+0.0.0.0 addiply.com
+:: addiply.com
 0.0.0.0 addirector.vindicosuite.com
 :: addirector.vindicosuite.com
 0.0.0.0 additionalmedia.com
@@ -10082,6 +10084,8 @@ ff02::3 ip6-allhosts
 :: amesgraduatel.site
 0.0.0.0 amfi.gou.sogou.com
 :: amfi.gou.sogou.com
+0.0.0.0 amghvzn.cn
+:: amghvzn.cn
 0.0.0.0 amhpbhyxfgvd.com
 :: amhpbhyxfgvd.com
 0.0.0.0 amiderations.info
@@ -35422,8 +35426,6 @@ ff02::3 ip6-allhosts
 :: haithoaz.net
 0.0.0.0 haixiaqy.com
 :: haixiaqy.com
-0.0.0.0 haiyinsiwang.com
-:: haiyinsiwang.com
 0.0.0.0 haiyunimg.com
 :: haiyunimg.com
 0.0.0.0 haiyunpush.com
@@ -37380,8 +37382,6 @@ ff02::3 ip6-allhosts
 :: hxsame.hexun.com
 0.0.0.0 hxscba.com
 :: hxscba.com
-0.0.0.0 hxsjxw.cn
-:: hxsjxw.cn
 0.0.0.0 hxspc.com
 :: hxspc.com
 0.0.0.0 hxsq.app
@@ -42562,6 +42562,8 @@ ff02::3 ip6-allhosts
 :: kk99.co
 0.0.0.0 kka20si.xyz
 :: kka20si.xyz
+0.0.0.0 kkk.inesa-btfq.com
+:: kkk.inesa-btfq.com
 0.0.0.0 kkk.lichaoliang.com
 :: kkk.lichaoliang.com
 0.0.0.0 kklzztog.com
@@ -44156,6 +44158,8 @@ ff02::3 ip6-allhosts
 :: lijie1010.top
 0.0.0.0 lijit.com
 :: lijit.com
+0.0.0.0 lijunkai.com
+:: lijunkai.com
 0.0.0.0 likebtn.com
 :: likebtn.com
 0.0.0.0 likecontrol.com
@@ -60010,6 +60014,8 @@ ff02::3 ip6-allhosts
 :: qbczpo.cn
 0.0.0.0 qbdgame.com
 :: qbdgame.com
+0.0.0.0 qbeoyasaiz.com
+:: qbeoyasaiz.com
 0.0.0.0 qbhyczr5hw.ru
 :: qbhyczr5hw.ru
 0.0.0.0 qbop.com
@@ -66756,6 +66762,8 @@ ff02::3 ip6-allhosts
 :: showjihadspink.com
 0.0.0.0 showmebars.com
 :: showmebars.com
+0.0.0.0 showmeyouradsnow.com
+:: showmeyouradsnow.com
 0.0.0.0 showroomlogic.com
 :: showroomlogic.com
 0.0.0.0 shows.fdc.com.cn
@@ -69296,6 +69304,8 @@ ff02::3 ip6-allhosts
 :: stat.adbana.com
 0.0.0.0 stat.adlabs.ru
 :: stat.adlabs.ru
+0.0.0.0 stat.alloha.tv
+:: stat.alloha.tv
 0.0.0.0 stat.analytiall.com
 :: stat.analytiall.com
 0.0.0.0 stat.api.2gis.ru
@@ -79622,6 +79632,8 @@ ff02::3 ip6-allhosts
 :: vngztuqon.com
 0.0.0.0 vniwis.pro
 :: vniwis.pro
+0.0.0.0 vnjeqfwmotkvbg.com
+:: vnjeqfwmotkvbg.com
 0.0.0.0 vnl1.voyage-prive.nl
 :: vnl1.voyage-prive.nl
 0.0.0.0 vnldaly8r5.com
@@ -81840,8 +81852,6 @@ ff02::3 ip6-allhosts
 :: wnprot.com
 0.0.0.0 wnsoth.cn
 :: wnsoth.cn
-0.0.0.0 wo19.top
-:: wo19.top
 0.0.0.0 wo685.com
 :: wo685.com
 0.0.0.0 woafujoa.com
@@ -86056,8 +86066,6 @@ ff02::3 ip6-allhosts
 :: xiuxiu.mobile.meitudata.com
 0.0.0.0 xixianad.com
 :: xixianad.com
-0.0.0.0 xixizaix.cn
-:: xixizaix.cn
 0.0.0.0 xiyouence.com
 :: xiyouence.com
 0.0.0.0 xizupsawo.pro
