@@ -1,11 +1,11 @@
-# Checksum: MTYwNDU4ODYwNwo=
+# Checksum: MTYwNDU5OTQwMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201105-5
-# TimeUpdated: 2020-11-05T15:03:27+00:00
+# Version: 1.6.6-20201105-6
+# TimeUpdated: 2020-11-05T18:03:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44618
+# Total: 44623
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6922,6 +6922,8 @@ ff02::3 ip6-allhosts
 :: adpredictive.com
 0.0.0.0 adpremium.ru
 :: adpremium.ru
+0.0.0.0 adpresenter.de
+:: adpresenter.de
 0.0.0.0 adpressi.com
 :: adpressi.com
 0.0.0.0 adpriv.nikkei.com
@@ -17648,6 +17650,8 @@ ff02::3 ip6-allhosts
 :: cbclickbank.com
 0.0.0.0 cbdm.weathercn.com
 :: cbdm.weathercn.com
+0.0.0.0 cbfhghb.pro
+:: cbfhghb.pro
 0.0.0.0 cbjg.cqnews.net
 :: cbjg.cqnews.net
 0.0.0.0 cbjs.baidu.com
@@ -21798,6 +21802,8 @@ ff02::3 ip6-allhosts
 :: cpxinteractive.com
 0.0.0.0 cpxl.golem.de
 :: cpxl.golem.de
+0.0.0.0 cpzxmrne.com
+:: cpzxmrne.com
 0.0.0.0 cqbaitong.cn
 :: cqbaitong.cn
 0.0.0.0 cqfangduan.com
@@ -29578,8 +29584,6 @@ ff02::3 ip6-allhosts
 :: eunformeranothe.info
 0.0.0.0 eur3.mvjcdn.com
 :: eur3.mvjcdn.com
-0.0.0.0 eurekaddl.cyou
-:: eurekaddl.cyou
 0.0.0.0 euro-pr.eu
 :: euro-pr.eu
 0.0.0.0 euro4ads.de
@@ -31342,6 +31346,8 @@ ff02::3 ip6-allhosts
 :: fjsjsj.com
 0.0.0.0 fjtzjy.com
 :: fjtzjy.com
+0.0.0.0 fjxyo.com
+:: fjxyo.com
 0.0.0.0 fjzimaoqu.cn
 :: fjzimaoqu.cn
 0.0.0.0 fkart.xyz
@@ -69462,6 +69468,8 @@ ff02::3 ip6-allhosts
 :: stackadapt.com
 0.0.0.0 stackattacka.com
 :: stackattacka.com
+0.0.0.0 stackvaults.com
+:: stackvaults.com
 0.0.0.0 stadig.ifeng.com
 :: stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
@@ -76372,6 +76380,8 @@ ff02::3 ip6-allhosts
 :: trmnsite.com
 0.0.0.0 trocado.at
 :: trocado.at
+0.0.0.0 trofvid.com
+:: trofvid.com
 0.0.0.0 trofvido.com
 :: trofvido.com
 0.0.0.0 trokemar.com
