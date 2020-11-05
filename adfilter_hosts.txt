@@ -1,11 +1,11 @@
-# Checksum: MTYwNDU2Njk5OQo=
+# Checksum: MTYwNDU3Nzg1Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201105-3
-# TimeUpdated: 2020-11-05T09:03:19+00:00
+# Version: 1.6.6-20201105-4
+# TimeUpdated: 2020-11-05T12:04:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44603
+# Total: 44615
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5396,6 +5396,8 @@ ff02::3 ip6-allhosts
 :: ad.yieldpartners.com
 0.0.0.0 ad.yixin.im
 :: ad.yixin.im
+0.0.0.0 ad.yzyszy.com
+:: ad.yzyszy.com
 0.0.0.0 ad.zanox.com
 :: ad.zanox.com
 0.0.0.0 ad.zdworks.com
@@ -14634,6 +14636,8 @@ ff02::3 ip6-allhosts
 :: besc.baidustatic.com
 0.0.0.0 beserte.pro
 :: beserte.pro
+0.0.0.0 besguses.pro
+:: besguses.pro
 0.0.0.0 beshtienhr2hd8j09.com
 :: beshtienhr2hd8j09.com
 0.0.0.0 besiasmere.site
@@ -19214,6 +19218,8 @@ ff02::3 ip6-allhosts
 :: click.voc.com.cn
 0.0.0.0 click.yhd.com
 :: click.yhd.com
+0.0.0.0 click.yzyszy.com
+:: click.yzyszy.com
 0.0.0.0 click.zmctrack.net
 :: click.zmctrack.net
 0.0.0.0 click1forhz.adsmogo.com
@@ -27260,6 +27266,8 @@ ff02::3 ip6-allhosts
 :: e.ediun.com
 0.0.0.0 e.ejiakm.net
 :: e.ejiakm.net
+0.0.0.0 e.ejuen.com
+:: e.ejuen.com
 0.0.0.0 e.enjuk.com
 :: e.enjuk.com
 0.0.0.0 e.fbaot.com
@@ -28928,6 +28936,8 @@ ff02::3 ip6-allhosts
 :: eo.erkesi.cn
 0.0.0.0 eo.gjpod.xyz
 :: eo.gjpod.xyz
+0.0.0.0 eo.graintown.cn
+:: eo.graintown.cn
 0.0.0.0 eo.h7t2f.xyz
 :: eo.h7t2f.xyz
 0.0.0.0 eo.hdschw.cn
@@ -32380,6 +32390,8 @@ ff02::3 ip6-allhosts
 :: fuxoasim.link
 0.0.0.0 fuxunb.com
 :: fuxunb.com
+0.0.0.0 fuycai.com
+:: fuycai.com
 0.0.0.0 fuyuap.xyz
 :: fuyuap.xyz
 0.0.0.0 fuz.cc
@@ -41938,6 +41950,8 @@ ff02::3 ip6-allhosts
 :: jxbtl.com
 0.0.0.0 jxdown.com
 :: jxdown.com
+0.0.0.0 jxdzoy.cn
+:: jxdzoy.cn
 0.0.0.0 jxfxsw.com
 :: jxfxsw.com
 0.0.0.0 jxhcyc.com
@@ -45012,6 +45026,8 @@ ff02::3 ip6-allhosts
 :: log.nuomi.com
 0.0.0.0 log.nvwa.baofeng.com
 :: log.nvwa.baofeng.com
+0.0.0.0 log.nxjcwh.com
+:: log.nxjcwh.com
 0.0.0.0 log.olark.com
 :: log.olark.com
 0.0.0.0 log.optimizely.com
@@ -60238,8 +60254,6 @@ ff02::3 ip6-allhosts
 :: qde.chinaqirun.cn
 0.0.0.0 qdiut.com
 :: qdiut.com
-0.0.0.0 qdkzjdsb.cn
-:: qdkzjdsb.cn
 0.0.0.0 qdmil.com
 :: qdmil.com
 0.0.0.0 qdp.qidian.com
@@ -66200,6 +66214,8 @@ ff02::3 ip6-allhosts
 :: sereendipit.com
 0.0.0.0 sergey-mavrodi-mmm.net
 :: sergey-mavrodi-mmm.net
+0.0.0.0 serial-smotret-online.ru
+:: serial-smotret-online.ru
 0.0.0.0 serial.alcohol-soft.com
 :: serial.alcohol-soft.com
 0.0.0.0 serialbay.com
@@ -67556,6 +67572,8 @@ ff02::3 ip6-allhosts
 :: skyscrpr.com
 0.0.0.0 skytraf.xyz
 :: skytraf.xyz
+0.0.0.0 skyttt.com
+:: skyttt.com
 0.0.0.0 skytvonline.tv
 :: skytvonline.tv
 0.0.0.0 sl-ct5.com
@@ -69424,6 +69442,8 @@ ff02::3 ip6-allhosts
 :: st.yengo.com
 0.0.0.0 st.zzhyyj.com
 :: st.zzhyyj.com
+0.0.0.0 st123.info
+:: st123.info
 0.0.0.0 sta.ganji.com
 :: sta.ganji.com
 0.0.0.0 sta.haloall.com
@@ -73254,6 +73274,8 @@ ff02::3 ip6-allhosts
 :: test.e.ad.xiaomi.com
 0.0.0.0 test.eduancm.com
 :: test.eduancm.com
+0.0.0.0 test.fangzhixinxi.cn
+:: test.fangzhixinxi.cn
 0.0.0.0 test.minr.pw
 :: test.minr.pw
 0.0.0.0 test.sexeanonyme.com
@@ -86884,6 +86906,8 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 :: xy33.smallable.com
+0.0.0.0 xyadyzpsb.com
+:: xyadyzpsb.com
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xyimg.net
