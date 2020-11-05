@@ -1,11 +1,11 @@
-# Checksum: MTYwNDU5OTQwMgo=
+# Checksum: MTYwNDYxMDE5Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201105-6
-# TimeUpdated: 2020-11-05T18:03:22+00:00
+# Version: 1.6.6-20201105-7
+# TimeUpdated: 2020-11-05T21:03:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44623
+# Total: 44628
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1478,6 +1478,8 @@ ff02::3 ip6-allhosts
 :: 34ed5da2977d1ace.com
 0.0.0.0 34pavouhj7.com
 :: 34pavouhj7.com
+0.0.0.0 350media.com
+:: 350media.com
 0.0.0.0 35d59588f15966.com
 :: 35d59588f15966.com
 0.0.0.0 35jd5gql9m.monster
@@ -1954,8 +1956,6 @@ ff02::3 ip6-allhosts
 :: 4wnetwork.com
 0.0.0.0 4y3vbu5bxql6177n.pro
 :: 4y3vbu5bxql6177n.pro
-0.0.0.0 4z5o27.cn
-:: 4z5o27.cn
 0.0.0.0 5.5ppt.net
 :: 5.5ppt.net
 0.0.0.0 5.douben8.com
@@ -10090,8 +10090,6 @@ ff02::3 ip6-allhosts
 :: amc.m.qiuwu.net
 0.0.0.0 amcdn.vn
 :: amcdn.vn
-0.0.0.0 amcpusvcit.com
-:: amcpusvcit.com
 0.0.0.0 amdcopen.m.taobao.com
 :: amdcopen.m.taobao.com
 0.0.0.0 amerallyluke.club
@@ -31106,6 +31104,8 @@ ff02::3 ip6-allhosts
 :: fhoa365.com
 0.0.0.0 fhserve.com
 :: fhserve.com
+0.0.0.0 fhtoxxda.com
+:: fhtoxxda.com
 0.0.0.0 fialet.com
 :: fialet.com
 0.0.0.0 fibpeeode.site
@@ -33522,6 +33522,8 @@ ff02::3 ip6-allhosts
 :: get.webxmr.com
 0.0.0.0 get1trightn0w.com
 :: get1trightn0w.com
+0.0.0.0 get35.com
+:: get35.com
 0.0.0.0 get8bit.com
 :: get8bit.com
 0.0.0.0 getaim.info
@@ -38150,6 +38152,8 @@ ff02::3 ip6-allhosts
 :: igg.biz
 0.0.0.0 iglaique.net
 :: iglaique.net
+0.0.0.0 igmsjgadiz.com
+:: igmsjgadiz.com
 0.0.0.0 ignitioninstaller.com
 :: ignitioninstaller.com
 0.0.0.0 ignitiontigercamera.com
@@ -40944,6 +40948,8 @@ ff02::3 ip6-allhosts
 :: jipinapi.panqis.cn
 0.0.0.0 jira.vpon.com
 :: jira.vpon.com
+0.0.0.0 jirafe.com
+:: jirafe.com
 0.0.0.0 jisbar.com
 :: jisbar.com
 0.0.0.0 jisitechiatrixconc.fun
@@ -42536,6 +42542,8 @@ ff02::3 ip6-allhosts
 :: kinoprofi.org
 0.0.0.0 kinoprogramm.bild.de
 :: kinoprogramm.bild.de
+0.0.0.0 kinopushka.xyz
+:: kinopushka.xyz
 0.0.0.0 kinostuff.com
 :: kinostuff.com
 0.0.0.0 kinotraff.ru
@@ -64062,6 +64070,8 @@ ff02::3 ip6-allhosts
 :: s.wapadv.com
 0.0.0.0 s.worldofmacros.net
 :: s.worldofmacros.net
+0.0.0.0 s.wxewm.site
+:: s.wxewm.site
 0.0.0.0 s.x.cn.xtgreat.com
 :: s.x.cn.xtgreat.com
 0.0.0.0 s.x863609239.top
