@@ -1,11 +1,11 @@
-# Checksum: MTYwNDY2NDI0Mgo=
+# Checksum: MTYwNDY3NTAzMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201106-4
-# TimeUpdated: 2020-11-06T12:04:02+00:00
+# Version: 1.6.6-20201106-5
+# TimeUpdated: 2020-11-06T15:03:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44605
+# Total: 44607
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1924,8 +1924,6 @@ ff02::3 ip6-allhosts
 :: 4nb437eugn.ru.com
 0.0.0.0 4nemiaje2.aupig.cn
 :: 4nemiaje2.aupig.cn
-0.0.0.0 4nzrqw.cn
-:: 4nzrqw.cn
 0.0.0.0 4o5h90fp4x6y.com
 :: 4o5h90fp4x6y.com
 0.0.0.0 4o7cj36hbaip.com
@@ -4050,6 +4048,8 @@ ff02::3 ip6-allhosts
 :: a3m.io
 0.0.0.0 a3p4.com
 :: a3p4.com
+0.0.0.0 a3p4.net
+:: a3p4.net
 0.0.0.0 a3yqjsrczwwp.com
 :: a3yqjsrczwwp.com
 0.0.0.0 a4.b2b168.com
@@ -9240,6 +9240,8 @@ ff02::3 ip6-allhosts
 :: aftonbladetnya.sc.omtrdc.net
 0.0.0.0 afvcugqaulh.co
 :: afvcugqaulh.co
+0.0.0.0 afxvaqbbd.com
+:: afxvaqbbd.com
 0.0.0.0 afy11.net
 :: afy11.net
 0.0.0.0 afyonturkreklam.com
@@ -45974,6 +45976,8 @@ ff02::3 ip6-allhosts
 :: lylibertleveni.site
 0.0.0.0 lylog.1391.com
 :: lylog.1391.com
+0.0.0.0 lylxuot.pltqbcgsq.biz
+:: lylxuot.pltqbcgsq.biz
 0.0.0.0 lymstsc.com
 :: lymstsc.com
 0.0.0.0 lyngro.com
@@ -60504,6 +60508,8 @@ ff02::3 ip6-allhosts
 :: qlaot.com
 0.0.0.0 qlblpyslxciorl.com
 :: qlblpyslxciorl.com
+0.0.0.0 qlcsqjxly.com
+:: qlcsqjxly.com
 0.0.0.0 qlisv.siemens6es7.com
 :: qlisv.siemens6es7.com
 0.0.0.0 qlkms.ga
@@ -87078,8 +87084,6 @@ ff02::3 ip6-allhosts
 :: yaolu.mh.163.com
 0.0.0.0 yaolu.yuedu.163.com
 :: yaolu.yuedu.163.com
-0.0.0.0 yaoquanshumeiyu.com
-:: yaoquanshumeiyu.com
 0.0.0.0 yaoxiaoli.com
 :: yaoxiaoli.com
 0.0.0.0 yaoyee.com
