@@ -1,11 +1,11 @@
-! Checksum: MTYwNDYxMDE5Mgo=
+! Checksum: MTYwNDYyMTIzOAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.6-20201105-7
-! TimeUpdated: 2020-11-05T21:03:12+00:00
+! Version: 1.6.6-20201106-0
+! TimeUpdated: 2020-11-06T00:07:18+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 44628
+! Total: 44630
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -730,6 +730,7 @@
 |340ca72733c9e46fb1.com^
 |341073be6e9db7d2.com^
 |3412bf88fc05a986e55.com^
+|344dea1d6d130a7e8e.com^
 |34667c8ece5.com^
 |348wd7etbann.com^
 |34baedd2d0b9.com^
@@ -738,6 +739,7 @@
 |34ed5da2977d1ace.com^
 |34pavouhj7.com^
 |350media.com^
+|3585656d9351553f.com^
 |35d59588f15966.com^
 |35jd5gql9m.monster^
 |3600.com^
@@ -6492,7 +6494,6 @@
 |axwxrnk5ydzy.com^
 |ayads.co^
 |ayandns.com^
-|ayboll.com^
 |ayc0zsm69431gfebd.info^
 |ayc0zsm69431gfebd.xyz^
 |ayrovalcontain.info^
@@ -37867,6 +37868,7 @@
 |tracking.unitednaturals.com^
 |tracking.unrealengine.com^
 |tracking.v.tf.360.cn^
+|tracking.venturify.at^
 |tracking.vht.com.vn^
 |tracking.viaggiamo.it^
 |tracking.vid4u.org^
