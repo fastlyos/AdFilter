@@ -1,11 +1,11 @@
-# Checksum: MTYwNDY1MzQxOAo=
+# Checksum: MTYwNDY2NDI0Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201106-3
-# TimeUpdated: 2020-11-06T09:03:38+00:00
+# Version: 1.6.6-20201106-4
+# TimeUpdated: 2020-11-06T12:04:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44596
+# Total: 44605
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1924,6 +1924,8 @@ ff02::3 ip6-allhosts
 :: 4nb437eugn.ru.com
 0.0.0.0 4nemiaje2.aupig.cn
 :: 4nemiaje2.aupig.cn
+0.0.0.0 4nzrqw.cn
+:: 4nzrqw.cn
 0.0.0.0 4o5h90fp4x6y.com
 :: 4o5h90fp4x6y.com
 0.0.0.0 4o7cj36hbaip.com
@@ -2628,6 +2630,8 @@ ff02::3 ip6-allhosts
 :: 727709ccb24101c8.com
 0.0.0.0 72b8869dfc34690.com
 :: 72b8869dfc34690.com
+0.0.0.0 72zh.cn
+:: 72zh.cn
 0.0.0.0 73508.com
 :: 73508.com
 0.0.0.0 736f35dde67b7da2976.com
@@ -3180,8 +3184,6 @@ ff02::3 ip6-allhosts
 :: 8live.net
 0.0.0.0 8live.vip
 :: 8live.vip
-0.0.0.0 8livevn.com
-:: 8livevn.com
 0.0.0.0 8mb4qkd74cht.com
 :: 8mb4qkd74cht.com
 0.0.0.0 8mdphsb8fm.com
@@ -9370,6 +9372,8 @@ ff02::3 ip6-allhosts
 :: ahoyhyperbay.com
 0.0.0.0 ahoypiratebaai.eu
 :: ahoypiratebaai.eu
+0.0.0.0 ahrcwekji.com
+:: ahrcwekji.com
 0.0.0.0 ahscdn.com
 :: ahscdn.com
 0.0.0.0 ahstrelgnh.com
@@ -10680,8 +10684,6 @@ ff02::3 ip6-allhosts
 :: analytics.tiktok.com
 0.0.0.0 analytics.tio.ch
 :: analytics.tio.ch
-0.0.0.0 analytics.tool.lu
-:: analytics.tool.lu
 0.0.0.0 analytics.tooso.ai
 :: analytics.tooso.ai
 0.0.0.0 analytics.tout.com
@@ -10858,6 +10860,8 @@ ff02::3 ip6-allhosts
 :: anelexpres.club
 0.0.0.0 anews.cc
 :: anews.cc
+0.0.0.0 anews7.nvwu.com
+:: anews7.nvwu.com
 0.0.0.0 anfeng.com
 :: anfeng.com
 0.0.0.0 angege.com
@@ -15684,6 +15688,8 @@ ff02::3 ip6-allhosts
 :: boffinsoft.com
 0.0.0.0 boffoadsfeeds.com
 :: boffoadsfeeds.com
+0.0.0.0 bogopo.biz
+:: bogopo.biz
 0.0.0.0 bogytoeelf.com
 :: bogytoeelf.com
 0.0.0.0 bohowhepsandked.info
@@ -17026,6 +17032,8 @@ ff02::3 ip6-allhosts
 :: c3h5cae95p.ru
 0.0.0.0 c3metrics.com
 :: c3metrics.com
+0.0.0.0 c3metrics.medifast1.com
+:: c3metrics.medifast1.com
 0.0.0.0 c3pool.com
 :: c3pool.com
 0.0.0.0 c3t-system-err.club
@@ -22250,6 +22258,8 @@ ff02::3 ip6-allhosts
 :: ct.verticalhealth.net
 0.0.0.0 ct1.shinobi.jp
 :: ct1.shinobi.jp
+0.0.0.0 ct1985.com
+:: ct1985.com
 0.0.0.0 ct2.kimodameshi.com
 :: ct2.kimodameshi.com
 0.0.0.0 ct2.shinobi.jp
@@ -25668,8 +25678,6 @@ ff02::3 ip6-allhosts
 :: dkdmygipll.com
 0.0.0.0 dkhywqapojyk7.cloudfront.net
 :: dkhywqapojyk7.cloudfront.net
-0.0.0.0 dkjdnq.cn
-:: dkjdnq.cn
 0.0.0.0 dkm6b5q0h53z4.cloudfront.net
 :: dkm6b5q0h53z4.cloudfront.net
 0.0.0.0 dkmnn.top
@@ -57294,6 +57302,8 @@ ff02::3 ip6-allhosts
 :: plannto.com
 0.0.0.0 plantaosexy.com
 :: plantaosexy.com
+0.0.0.0 plantationthrillednoncommittal.com
+:: plantationthrillednoncommittal.com
 0.0.0.0 plantdigestion.com
 :: plantdigestion.com
 0.0.0.0 plantpotato.com
@@ -57702,6 +57712,8 @@ ff02::3 ip6-allhosts
 :: podhopfit.site
 0.0.0.0 podiumpresto.com
 :: podiumpresto.com
+0.0.0.0 podsolnu9hi10.com
+:: podsolnu9hi10.com
 0.0.0.0 poemsdeucewee.com
 :: poemsdeucewee.com
 0.0.0.0 poemsproduced.com
@@ -59302,6 +59314,8 @@ ff02::3 ip6-allhosts
 :: ptw.la
 0.0.0.0 ptwebcams.com
 :: ptwebcams.com
+0.0.0.0 pu0glv.cn
+:: pu0glv.cn
 0.0.0.0 pub-fit.com
 :: pub-fit.com
 0.0.0.0 pub.admedia.io
@@ -86318,6 +86332,8 @@ ff02::3 ip6-allhosts
 :: xj.zjhim.com
 0.0.0.0 xjcr434jujmm.com
 :: xjcr434jujmm.com
+0.0.0.0 xjhjtz.cn
+:: xjhjtz.cn
 0.0.0.0 xji.qwxcs.com
 :: xji.qwxcs.com
 0.0.0.0 xjjkjo.pw
@@ -87062,6 +87078,8 @@ ff02::3 ip6-allhosts
 :: yaolu.mh.163.com
 0.0.0.0 yaolu.yuedu.163.com
 :: yaolu.yuedu.163.com
+0.0.0.0 yaoquanshumeiyu.com
+:: yaoquanshumeiyu.com
 0.0.0.0 yaoxiaoli.com
 :: yaoxiaoli.com
 0.0.0.0 yaoyee.com
