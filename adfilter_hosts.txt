@@ -1,11 +1,11 @@
-# Checksum: MTYwNDczOTgwMgo=
+# Checksum: MTYwNDc1MDY2NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201107-3
-# TimeUpdated: 2020-11-07T09:03:22+00:00
+# Version: 1.6.6-20201107-4
+# TimeUpdated: 2020-11-07T12:04:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44875
+# Total: 44882
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1182,6 +1182,8 @@ ff02::3 ip6-allhosts
 :: 258ydh.com
 0.0.0.0 258zw.com
 :: 258zw.com
+0.0.0.0 25haich4342.ru
+:: 25haich4342.ru
 0.0.0.0 268d61daa761.com
 :: 268d61daa761.com
 0.0.0.0 26gg.bnq86.com
@@ -2160,8 +2162,6 @@ ff02::3 ip6-allhosts
 :: 57.com.cn
 0.0.0.0 5726303d87522d05.com
 :: 5726303d87522d05.com
-0.0.0.0 57473b6b571.com
-:: 57473b6b571.com
 0.0.0.0 57558.com
 :: 57558.com
 0.0.0.0 577682.com
@@ -2740,8 +2740,6 @@ ff02::3 ip6-allhosts
 :: 77tracking.com
 0.0.0.0 77xtv.com
 :: 77xtv.com
-0.0.0.0 77zhuan.com
-:: 77zhuan.com
 0.0.0.0 7839e0482307b9276b.com
 :: 7839e0482307b9276b.com
 0.0.0.0 788111.com
@@ -4074,6 +4072,8 @@ ff02::3 ip6-allhosts
 :: a5a5a.com
 0.0.0.0 a6.codejumps.com
 :: a6.codejumps.com
+0.0.0.0 a6.hn985.com
+:: a6.hn985.com
 0.0.0.0 a6.taobanapp.com
 :: a6.taobanapp.com
 0.0.0.0 a6.wechatpu.com
@@ -30730,6 +30730,8 @@ ff02::3 ip6-allhosts
 :: fanglinwang.cn
 0.0.0.0 fangyi.cn
 :: fangyi.cn
+0.0.0.0 fangzhixinxi.cn
+:: fangzhixinxi.cn
 0.0.0.0 fanjis.cn
 :: fanjis.cn
 0.0.0.0 fanli.in
@@ -41594,6 +41596,8 @@ ff02::3 ip6-allhosts
 :: jqki.cn
 0.0.0.0 jqmt.qq.com
 :: jqmt.qq.com
+0.0.0.0 jqrbypfxzvkep.com
+:: jqrbypfxzvkep.com
 0.0.0.0 jqsex.com
 :: jqsex.com
 0.0.0.0 jquery-cdn.download
@@ -43518,8 +43522,6 @@ ff02::3 ip6-allhosts
 :: kyouad.com
 0.0.0.0 kypivukypi.ru
 :: kypivukypi.ru
-0.0.0.0 kyqcfj.com
-:: kyqcfj.com
 0.0.0.0 kyson.kakao.com
 :: kyson.kakao.com
 0.0.0.0 kythodoby.pro
@@ -47220,6 +47222,8 @@ ff02::3 ip6-allhosts
 :: m.umbbs.cn
 0.0.0.0 m.uocb.cn
 :: m.uocb.cn
+0.0.0.0 m.uw45o.cn
+:: m.uw45o.cn
 0.0.0.0 m.uxnycjr.cn
 :: m.uxnycjr.cn
 0.0.0.0 m.vaxyz.com
@@ -56482,6 +56486,8 @@ ff02::3 ip6-allhosts
 :: pcd.autohome.com.cn
 0.0.0.0 pcdjvinnlhysg.com
 :: pcdjvinnlhysg.com
+0.0.0.0 pcgamer-gb.pcgamer.com
+:: pcgamer-gb.pcgamer.com
 0.0.0.0 pci.pornclipsxxx.com
 :: pci.pornclipsxxx.com
 0.0.0.0 pci.xxxity.com
@@ -77102,6 +77108,8 @@ ff02::3 ip6-allhosts
 :: ttauri.bikeperfect.com
 0.0.0.0 ttauri.creativebloq.com
 :: ttauri.creativebloq.com
+0.0.0.0 ttauri.guitarworld.com
+:: ttauri.guitarworld.com
 0.0.0.0 ttauri.laptopmag.com
 :: ttauri.laptopmag.com
 0.0.0.0 ttauri.livescience.com
@@ -77546,8 +77554,6 @@ ff02::3 ip6-allhosts
 :: tz.obboob.cn
 0.0.0.0 tz.yuanmengbi.com
 :: tz.yuanmengbi.com
-0.0.0.0 tz301.xyz
-:: tz301.xyz
 0.0.0.0 tzlchxdwreirbv.com
 :: tzlchxdwreirbv.com
 0.0.0.0 u-mob.cn
@@ -77720,6 +77726,8 @@ ff02::3 ip6-allhosts
 :: ubt.berlingskemedia.net
 0.0.0.0 ubuntudeal.co.za
 :: ubuntudeal.co.za
+0.0.0.0 ubxxnfcatv.com
+:: ubxxnfcatv.com
 0.0.0.0 uc.qq.uuaoz.com
 :: uc.qq.uuaoz.com
 0.0.0.0 uc.ucweb.com
@@ -78962,6 +78970,8 @@ ff02::3 ip6-allhosts
 :: uuidapi.yunos.com
 0.0.0.0 uuidksinc.net
 :: uuidksinc.net
+0.0.0.0 uukqisdwolzsjd.com
+:: uukqisdwolzsjd.com
 0.0.0.0 uun.1uandun.com
 :: uun.1uandun.com
 0.0.0.0 uuopp.com
@@ -86570,6 +86580,8 @@ ff02::3 ip6-allhosts
 :: xclgusxcdjd.com
 0.0.0.0 xclicks.net
 :: xclicks.net
+0.0.0.0 xcmxsw.com
+:: xcmxsw.com
 0.0.0.0 xco.qwxcs.com
 :: xco.qwxcs.com
 0.0.0.0 xcoin.beeppool.org
@@ -88602,6 +88614,8 @@ ff02::3 ip6-allhosts
 :: yuriassignmentmall.com
 0.0.0.0 yurivideo.com
 :: yurivideo.com
+0.0.0.0 yushengyuancaishui.com
+:: yushengyuancaishui.com
 0.0.0.0 yuu360.com
 :: yuu360.com
 0.0.0.0 yuunion.com
