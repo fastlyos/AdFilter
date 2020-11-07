@@ -1,11 +1,11 @@
-# Checksum: MTYwNDc3MjIxNAo=
+# Checksum: MTYwNDc4Mjk5Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201107-6
-# TimeUpdated: 2020-11-07T18:03:34+00:00
+# Version: 1.6.6-20201107-7
+# TimeUpdated: 2020-11-07T21:03:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44895
+# Total: 44897
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -35648,6 +35648,8 @@ ff02::3 ip6-allhosts
 :: h3lw971ym6.com
 0.0.0.0 h4k5.com
 :: h4k5.com
+0.0.0.0 h5.holalauncher.com
+:: h5.holalauncher.com
 0.0.0.0 h5.jiumaster.com
 :: h5.jiumaster.com
 0.0.0.0 h5.mse.360.cn
@@ -51180,6 +51182,8 @@ ff02::3 ip6-allhosts
 :: mtzddtrs.com
 0.0.0.0 mtzenhigqg.com
 :: mtzenhigqg.com
+0.0.0.0 mtzszlpypbxjm.com
+:: mtzszlpypbxjm.com
 0.0.0.0 mu722.com
 :: mu722.com
 0.0.0.0 muchhetont.ru
@@ -55142,8 +55146,6 @@ ff02::3 ip6-allhosts
 :: orts.wixawin.com
 0.0.0.0 ortymarvin.top
 :: ortymarvin.top
-0.0.0.0 orvibum.cn
-:: orvibum.cn
 0.0.0.0 orz.hupu.com
 :: orz.hupu.com
 0.0.0.0 os.scmpacdn.com
@@ -64212,6 +64214,8 @@ ff02::3 ip6-allhosts
 :: rwindomdec.fun
 0.0.0.0 rwjfs.com
 :: rwjfs.com
+0.0.0.0 rwlyiedd.com
+:: rwlyiedd.com
 0.0.0.0 rwpads.com
 :: rwpads.com
 0.0.0.0 rwpypf.com
@@ -79692,8 +79696,6 @@ ff02::3 ip6-allhosts
 :: verblife-2.co
 0.0.0.0 verblife-3.co
 :: verblife-3.co
-0.0.0.0 vercel-analytics.com
-:: vercel-analytics.com
 0.0.0.0 vercraneans.club
 :: vercraneans.club
 0.0.0.0 verdict.abc.go.com
@@ -80950,6 +80952,8 @@ ff02::3 ip6-allhosts
 :: w.uptolike.com
 0.0.0.0 w.waacorp.com
 :: w.waacorp.com
+0.0.0.0 w.whydqy.cn
+:: w.whydqy.cn
 0.0.0.0 w.x.baidu.com
 :: w.x.baidu.com
 0.0.0.0 w.xiaopiaoyou.com
