@@ -1,11 +1,11 @@
-# Checksum: MTYwNDc1MDY2NAo=
+# Checksum: MTYwNDc2MTQyNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201107-4
-# TimeUpdated: 2020-11-07T12:04:24+00:00
+# Version: 1.6.6-20201107-5
+# TimeUpdated: 2020-11-07T15:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44882
+# Total: 44885
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3820,6 +3820,8 @@ ff02::3 ip6-allhosts
 :: a.tvsou.com
 0.0.0.0 a.tyncar.com
 :: a.tyncar.com
+0.0.0.0 a.typin.cn
+:: a.typin.cn
 0.0.0.0 a.ucoz.net
 :: a.ucoz.net
 0.0.0.0 a.umilu.com
@@ -4276,6 +4278,8 @@ ff02::3 ip6-allhosts
 :: abcj.dooccn.com
 0.0.0.0 abckj123.com
 :: abckj123.com
+0.0.0.0 abckzo.cn
+:: abckzo.cn
 0.0.0.0 abcompteur.com
 :: abcompteur.com
 0.0.0.0 abcstats.com
@@ -32714,6 +32718,8 @@ ff02::3 ip6-allhosts
 :: fxcast.com
 0.0.0.0 fxfahn.com
 :: fxfahn.com
+0.0.0.0 fxgpbkwu.com
+:: fxgpbkwu.com
 0.0.0.0 fxjs.2541.com
 :: fxjs.2541.com
 0.0.0.0 fxnow.ru
@@ -55124,6 +55130,8 @@ ff02::3 ip6-allhosts
 :: orts.wixawin.com
 0.0.0.0 ortymarvin.top
 :: ortymarvin.top
+0.0.0.0 orvibum.cn
+:: orvibum.cn
 0.0.0.0 orz.hupu.com
 :: orz.hupu.com
 0.0.0.0 os.scmpacdn.com
@@ -88614,8 +88622,6 @@ ff02::3 ip6-allhosts
 :: yuriassignmentmall.com
 0.0.0.0 yurivideo.com
 :: yurivideo.com
-0.0.0.0 yushengyuancaishui.com
-:: yushengyuancaishui.com
 0.0.0.0 yuu360.com
 :: yuu360.com
 0.0.0.0 yuunion.com
