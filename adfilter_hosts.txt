@@ -1,11 +1,11 @@
-# Checksum: MTYwNDgyNjE5Ngo=
+# Checksum: MTYwNDgzNzA1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201108-3
-# TimeUpdated: 2020-11-08T09:03:16+00:00
+# Version: 1.6.6-20201108-4
+# TimeUpdated: 2020-11-08T12:04:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44925
+# Total: 44928
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2082,8 +2082,6 @@ ff02::3 ip6-allhosts
 :: 52aan.cn
 0.0.0.0 52b7d78514f3cb9d.com
 :: 52b7d78514f3cb9d.com
-0.0.0.0 52fanyin.com
-:: 52fanyin.com
 0.0.0.0 52homie.cn
 :: 52homie.cn
 0.0.0.0 52kmh.com
@@ -9920,8 +9918,6 @@ ff02::3 ip6-allhosts
 :: allmygreatlife.com
 0.0.0.0 allmyverygreatlife.com
 :: allmyverygreatlife.com
-0.0.0.0 allnews.uodoo.com
-:: allnews.uodoo.com
 0.0.0.0 allo-media.net
 :: allo-media.net
 0.0.0.0 allornamenti.com
@@ -14962,8 +14958,6 @@ ff02::3 ip6-allhosts
 :: bgrndi.com
 0.0.0.0 bh.contextweb.com
 :: bh.contextweb.com
-0.0.0.0 bh100.com.cn
-:: bh100.com.cn
 0.0.0.0 bh3.net
 :: bh3.net
 0.0.0.0 bhcf764sf8pg.com
@@ -19060,6 +19054,8 @@ ff02::3 ip6-allhosts
 :: cjroq.bealge.sogou.com
 0.0.0.0 cjsab.com
 :: cjsab.com
+0.0.0.0 cjsdtj.com
+:: cjsdtj.com
 0.0.0.0 cjt1.net
 :: cjt1.net
 0.0.0.0 ck-cdn.com
@@ -38624,6 +38620,8 @@ ff02::3 ip6-allhosts
 :: ijdjvaa.pro
 0.0.0.0 ijeu.pdkzyy.cn
 :: ijeu.pdkzyy.cn
+0.0.0.0 ijldfpgu.biz
+:: ijldfpgu.biz
 0.0.0.0 ijpheyydhw1a.com
 :: ijpheyydhw1a.com
 0.0.0.0 ijrah.top
@@ -42434,6 +42432,8 @@ ff02::3 ip6-allhosts
 :: jyagyffnbysg.com
 0.0.0.0 jyc.njxczy.com
 :: jyc.njxczy.com
+0.0.0.0 jyebqhel.com
+:: jyebqhel.com
 0.0.0.0 jyfthtacsxkbp.com
 :: jyfthtacsxkbp.com
 0.0.0.0 jyhfuqoh.info
@@ -62196,6 +62196,8 @@ ff02::3 ip6-allhosts
 :: realzeit.io
 0.0.0.0 reasonalattracke.info
 :: reasonalattracke.info
+0.0.0.0 reasonzoodeport.com
+:: reasonzoodeport.com
 0.0.0.0 reasulty.com
 :: reasulty.com
 0.0.0.0 reate.info
@@ -63108,6 +63110,8 @@ ff02::3 ip6-allhosts
 :: revenuewire.net
 0.0.0.0 revfusion.net
 :: revfusion.net
+0.0.0.0 revhpdxqul.com
+:: revhpdxqul.com
 0.0.0.0 review78.com
 :: review78.com
 0.0.0.0 reviewdollars.com
@@ -88234,6 +88238,8 @@ ff02::3 ip6-allhosts
 :: ylqbiljjlyq.com
 0.0.0.0 ylskyueqya.com
 :: ylskyueqya.com
+0.0.0.0 yltcgyud.com
+:: yltcgyud.com
 0.0.0.0 yluvo.com
 :: yluvo.com
 0.0.0.0 ylvessovi.pro
