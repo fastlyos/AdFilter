@@ -1,11 +1,11 @@
-# Checksum: MTYwNDc4Mjk5Ngo=
+# Checksum: MTYwNDc5NDA2MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201107-7
-# TimeUpdated: 2020-11-07T21:03:16+00:00
+# Version: 1.6.6-20201108-0
+# TimeUpdated: 2020-11-08T00:07:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44897
+# Total: 44899
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -258,8 +258,6 @@ ff02::3 ip6-allhosts
 :: 0oaqgsk54hm5.com
 0.0.0.0 0pyn37dv3m.com
 :: 0pyn37dv3m.com
-0.0.0.0 0qkc.cn
-:: 0qkc.cn
 0.0.0.0 0ql3xxre2h.com
 :: 0ql3xxre2h.com
 0.0.0.0 0ra5eylno4zs.com
@@ -15768,6 +15766,8 @@ ff02::3 ip6-allhosts
 :: boffoadsfeeds.com
 0.0.0.0 bogopo.biz
 :: bogopo.biz
+0.0.0.0 bogrodius.com
+:: bogrodius.com
 0.0.0.0 bogytoeelf.com
 :: bogytoeelf.com
 0.0.0.0 bohowhepsandked.info
@@ -23144,6 +23144,8 @@ ff02::3 ip6-allhosts
 :: d1rkf0bq85yx06.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 :: d1ros97qkrwjf5.cloudfront.net
+0.0.0.0 d1rsh847opos9y.cloudfront.net
+:: d1rsh847opos9y.cloudfront.net
 0.0.0.0 d1rszqblq924lq.cloudfront.net
 :: d1rszqblq924lq.cloudfront.net
 0.0.0.0 d1s18kaechs9c9.cloudfront.net
@@ -82948,6 +82950,8 @@ ff02::3 ip6-allhosts
 :: wqpeltrb.com
 0.0.0.0 wqpoqalozlciw.com
 :: wqpoqalozlciw.com
+0.0.0.0 wqqsa.puzihua.com
+:: wqqsa.puzihua.com
 0.0.0.0 wqsph.net
 :: wqsph.net
 0.0.0.0 wr.da.netease.com
