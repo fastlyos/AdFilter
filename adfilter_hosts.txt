@@ -1,11 +1,11 @@
-# Checksum: MTYwNDgzNzA1Mwo=
+# Checksum: MTYwNDg0NzgxNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201108-4
-# TimeUpdated: 2020-11-08T12:04:13+00:00
+# Version: 1.6.6-20201108-5
+# TimeUpdated: 2020-11-08T15:03:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44928
+# Total: 44937
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -102,6 +102,8 @@ ff02::3 ip6-allhosts
 :: 0234408.cn
 0.0.0.0 025suyu.com
 :: 025suyu.com
+0.0.0.0 027whht.com
+:: 027whht.com
 0.0.0.0 028yhtz.com
 :: 028yhtz.com
 0.0.0.0 02aa19117f396e9.com
@@ -12636,6 +12638,8 @@ ff02::3 ip6-allhosts
 :: atwoventre.fun
 0.0.0.0 aty.cp45.ott.cibntv.net
 :: aty.cp45.ott.cibntv.net
+0.0.0.0 atzcmddc.com
+:: atzcmddc.com
 0.0.0.0 au.umeng.com
 :: au.umeng.com
 0.0.0.0 au.w.inmobi.cn
@@ -25956,6 +25960,8 @@ ff02::3 ip6-allhosts
 :: dlrijiaele.com
 0.0.0.0 dlsear.com
 :: dlsear.com
+0.0.0.0 dlski.space
+:: dlski.space
 0.0.0.0 dlsw.br.baidu.com
 :: dlsw.br.baidu.com
 0.0.0.0 dlswbr.baidu.com
@@ -42374,6 +42380,8 @@ ff02::3 ip6-allhosts
 :: jwhfn.cn
 0.0.0.0 jwmstats.com
 :: jwmstats.com
+0.0.0.0 jwmyba.biz
+:: jwmyba.biz
 0.0.0.0 jwofadcwpocm.com
 :: jwofadcwpocm.com
 0.0.0.0 jwplayer.space
@@ -52032,6 +52040,8 @@ ff02::3 ip6-allhosts
 :: navrcholu.cz
 0.0.0.0 naytev.com
 :: naytev.com
+0.0.0.0 nazhenkj.com
+:: nazhenkj.com
 0.0.0.0 nb.myspace.com
 :: nb.myspace.com
 0.0.0.0 nba.emohe.com
@@ -55060,6 +55070,8 @@ ff02::3 ip6-allhosts
 :: optaim.com
 0.0.0.0 optanon.blob.core.windows.net
 :: optanon.blob.core.windows.net
+0.0.0.0 opteama.com
+:: opteama.com
 0.0.0.0 opten.hu
 :: opten.hu
 0.0.0.0 opter.co
@@ -64046,6 +64058,8 @@ ff02::3 ip6-allhosts
 :: rto.steelhousemedia.com
 0.0.0.0 rtogethele.club
 :: rtogethele.club
+0.0.0.0 rtogkeafeedde.com
+:: rtogkeafeedde.com
 0.0.0.0 rtox.net
 :: rtox.net
 0.0.0.0 rtpdn10.com
@@ -64588,6 +64602,8 @@ ff02::3 ip6-allhosts
 :: s.srvsynd.com
 0.0.0.0 s.ssggba.top
 :: s.ssggba.top
+0.0.0.0 s.staqnet.com
+:: s.staqnet.com
 0.0.0.0 s.sufficient.cn
 :: s.sufficient.cn
 0.0.0.0 s.syxsb.top
@@ -77468,6 +77484,8 @@ ff02::3 ip6-allhosts
 :: tvnotice.kg.garena.vn
 0.0.0.0 tvoi-dosug.com
 :: tvoi-dosug.com
+0.0.0.0 tvopcxtf.com
+:: tvopcxtf.com
 0.0.0.0 tvpixel.com
 :: tvpixel.com
 0.0.0.0 tvprocessing.com
