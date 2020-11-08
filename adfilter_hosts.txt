@@ -1,11 +1,11 @@
-# Checksum: MTYwNDg0NzgxNQo=
+# Checksum: MTYwNDg1ODYyNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201108-5
-# TimeUpdated: 2020-11-08T15:03:35+00:00
+# Version: 1.6.6-20201108-6
+# TimeUpdated: 2020-11-08T18:03:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44937
+# Total: 44951
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2018,6 +2018,8 @@ ff02::3 ip6-allhosts
 :: 51chumoping.com
 0.0.0.0 51dengshan.cn
 :: 51dengshan.cn
+0.0.0.0 51dmn.top
+:: 51dmn.top
 0.0.0.0 51foodsafe.cn
 :: 51foodsafe.cn
 0.0.0.0 51fuliwang.cn
@@ -4226,6 +4228,8 @@ ff02::3 ip6-allhosts
 :: aaxdetect.com
 0.0.0.0 aayeljzpuu.com
 :: aayeljzpuu.com
+0.0.0.0 aazcio.cn
+:: aazcio.cn
 0.0.0.0 ab.advertiserurl.com
 :: ab.advertiserurl.com
 0.0.0.0 ab.cnbanbao.com
@@ -7800,8 +7804,6 @@ ff02::3 ip6-allhosts
 :: adshmct.qq.com
 0.0.0.0 adshmmsg.qq.com
 :: adshmmsg.qq.com
-0.0.0.0 adshob.com
-:: adshob.com
 0.0.0.0 adshopping.com
 :: adshopping.com
 0.0.0.0 adshostnet.com
@@ -13146,8 +13148,6 @@ ff02::3 ip6-allhosts
 :: b.admedia.com
 0.0.0.0 b.ads1.msn.com
 :: b.ads1.msn.com
-0.0.0.0 b.ahs-online.net
-:: b.ahs-online.net
 0.0.0.0 b.am15.net
 :: b.am15.net
 0.0.0.0 b.appjiagu.com
@@ -24896,6 +24896,8 @@ ff02::3 ip6-allhosts
 :: delightfulhour.com
 0.0.0.0 delightspiritedtroop.com
 :: delightspiritedtroop.com
+0.0.0.0 deliver.ads2.iid.jp
+:: deliver.ads2.iid.jp
 0.0.0.0 deliver.kuwo.cn
 :: deliver.kuwo.cn
 0.0.0.0 deliver.oztam.com.au
@@ -25652,6 +25654,8 @@ ff02::3 ip6-allhosts
 :: disgustingvoluntarilykiss.com
 0.0.0.0 dishoselm.com
 :: dishoselm.com
+0.0.0.0 dislanelibrar.top
+:: dislanelibrar.top
 0.0.0.0 disloquerent.site
 :: disloquerent.site
 0.0.0.0 disloquerent.website
@@ -27270,6 +27274,8 @@ ff02::3 ip6-allhosts
 :: dyhs52.com
 0.0.0.0 dyino.com
 :: dyino.com
+0.0.0.0 dyllkretnnzuhm.com
+:: dyllkretnnzuhm.com
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
 :: dymlo6ffhj97l.cloudfront.net
 0.0.0.0 dymwsh1c2kslr.cloudfront.net
@@ -28130,6 +28136,8 @@ ff02::3 ip6-allhosts
 :: ecn5.com
 0.0.0.0 eco.875tf.xyz
 :: eco.875tf.xyz
+0.0.0.0 eco.qwger.xyz
+:: eco.qwger.xyz
 0.0.0.0 eco.taobao.com
 :: eco.taobao.com
 0.0.0.0 ecomgxh.kuwo.cn
@@ -31822,6 +31830,8 @@ ff02::3 ip6-allhosts
 :: flv.dotmore.com.tw
 0.0.0.0 flvs7ql3l6.com
 :: flvs7ql3l6.com
+0.0.0.0 flwvnby8fspljrr.ru
+:: flwvnby8fspljrr.ru
 0.0.0.0 flxargtrgwt.com
 :: flxargtrgwt.com
 0.0.0.0 flxpxl.com
@@ -32960,8 +32970,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -40702,6 +40710,8 @@ ff02::3 ip6-allhosts
 :: ixnp.com
 0.0.0.0 ixpub.net
 :: ixpub.net
+0.0.0.0 ixshklh.cn
+:: ixshklh.cn
 0.0.0.0 ixspublic.com
 :: ixspublic.com
 0.0.0.0 ixueiomwi.com
@@ -45364,6 +45374,8 @@ ff02::3 ip6-allhosts
 :: log-hl.snssdk.com
 0.0.0.0 log-ird.outbrain.com
 :: log-ird.outbrain.com
+0.0.0.0 log-marketing.jp
+:: log-marketing.jp
 0.0.0.0 log-player.arte.tv
 :: log-player.arte.tv
 0.0.0.0 log-stats.weathercn.com
@@ -48640,6 +48652,8 @@ ff02::3 ip6-allhosts
 :: mechanicsearnestobjections.com
 0.0.0.0 mecontentassent.website
 :: mecontentassent.website
+0.0.0.0 mecostasenath.com
+:: mecostasenath.com
 0.0.0.0 med-api.admost.com
 :: med-api.admost.com
 0.0.0.0 medads.ru
@@ -50842,6 +50856,8 @@ ff02::3 ip6-allhosts
 :: moviecash.ru
 0.0.0.0 movies-flix.club
 :: movies-flix.club
+0.0.0.0 moviesflix4k.info
+:: moviesflix4k.info
 0.0.0.0 moviesflix4k.work
 :: moviesflix4k.work
 0.0.0.0 moviesprofit.com
@@ -51400,6 +51416,8 @@ ff02::3 ip6-allhosts
 :: mvo.4w5ef.xyz
 0.0.0.0 mvo.875tf.xyz
 :: mvo.875tf.xyz
+0.0.0.0 mvo.g45td.xyz
+:: mvo.g45td.xyz
 0.0.0.0 mvo.g4rre.xyz
 :: mvo.g4rre.xyz
 0.0.0.0 mvo.j6yh5.xyz
@@ -67336,6 +67354,8 @@ ff02::3 ip6-allhosts
 :: shaxiq.com
 0.0.0.0 sheechoa.com
 :: sheechoa.com
+0.0.0.0 sheenaup.net
+:: sheenaup.net
 0.0.0.0 sheerwhirlpool.com
 :: sheerwhirlpool.com
 0.0.0.0 shefficera.club
@@ -72128,6 +72148,8 @@ ff02::3 ip6-allhosts
 :: sweatheru.club
 0.0.0.0 sweatrepercussionpatio.com
 :: sweatrepercussionpatio.com
+0.0.0.0 sweepawejasper.com
+:: sweepawejasper.com
 0.0.0.0 sweepsheep.com
 :: sweepsheep.com
 0.0.0.0 sweetbc4.club
@@ -76416,6 +76438,8 @@ ff02::3 ip6-allhosts
 :: tracklog.58.com
 0.0.0.0 trackmethod.com
 :: trackmethod.com
+0.0.0.0 trackmstr.com
+:: trackmstr.com
 0.0.0.0 trackmytarget.com
 :: trackmytarget.com
 0.0.0.0 trackmyusers.com
@@ -79782,6 +79806,8 @@ ff02::3 ip6-allhosts
 :: verblife-2.co
 0.0.0.0 verblife-3.co
 :: verblife-3.co
+0.0.0.0 verblife-5.co
+:: verblife-5.co
 0.0.0.0 vercraneans.club
 :: vercraneans.club
 0.0.0.0 verdict.abc.go.com
@@ -82282,6 +82308,8 @@ ff02::3 ip6-allhosts
 :: whoaremyfriends.com
 0.0.0.0 whoaremyfriends.net
 :: whoaremyfriends.net
+0.0.0.0 whoavaud.net
+:: whoavaud.net
 0.0.0.0 whoclick.cn
 :: whoclick.cn
 0.0.0.0 whohuphi.com
