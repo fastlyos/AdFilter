@@ -1,11 +1,11 @@
-# Checksum: MTYwNDg1ODYyNQo=
+# Checksum: MTYwNDg2OTM5MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201108-6
-# TimeUpdated: 2020-11-08T18:03:45+00:00
+# Version: 1.6.6-20201108-7
+# TimeUpdated: 2020-11-08T21:03:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44951
+# Total: 44958
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5520,8 +5520,6 @@ ff02::3 ip6-allhosts
 :: ad4partners.com
 0.0.0.0 ad4sell.com
 :: ad4sell.com
-0.0.0.0 ad4xh85llhcbfis8.com
-:: ad4xh85llhcbfis8.com
 0.0.0.0 ad5.bigmir.net
 :: ad5.bigmir.net
 0.0.0.0 ad5.ctrmi.com
@@ -6534,6 +6532,8 @@ ff02::3 ip6-allhosts
 :: admarketing.yahoo.net
 0.0.0.0 admarketplace.net
 :: admarketplace.net
+0.0.0.0 admartzone.com
+:: admartzone.com
 0.0.0.0 admarvel.com
 :: admarvel.com
 0.0.0.0 admarvel.s3.amazonaws.com
@@ -10798,6 +10798,8 @@ ff02::3 ip6-allhosts
 :: analytics3.dopool.com
 0.0.0.0 analytics3.starschina.com
 :: analytics3.starschina.com
+0.0.0.0 analyticschecker.com
+:: analyticschecker.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 :: analyticsengine.s3.amazonaws.com
 0.0.0.0 analyticsip.net
@@ -10910,8 +10912,6 @@ ff02::3 ip6-allhosts
 :: angorch-cdr7.com
 0.0.0.0 angusmemor.info
 :: angusmemor.info
-0.0.0.0 anhm.acv5e.cn
-:: anhm.acv5e.cn
 0.0.0.0 anhuilitian.net
 :: anhuilitian.net
 0.0.0.0 anime.reactor.cc
@@ -14906,6 +14906,8 @@ ff02::3 ip6-allhosts
 :: bewaycare.com
 0.0.0.0 bewilderedblade.com
 :: bewilderedblade.com
+0.0.0.0 bexrnrxbgh.com
+:: bexrnrxbgh.com
 0.0.0.0 bf-tools.net
 :: bf-tools.net
 0.0.0.0 bf3c1229dc6f28b2.com
@@ -16770,8 +16772,6 @@ ff02::3 ip6-allhosts
 :: bzrpvk.com
 0.0.0.0 bzspzpdrqjopj.com
 :: bzspzpdrqjopj.com
-0.0.0.0 bzsukdfbotd.com
-:: bzsukdfbotd.com
 0.0.0.0 c-hzgt2.getui.com
 :: c-hzgt2.getui.com
 0.0.0.0 c-nfa.jd.com
@@ -16916,6 +16916,8 @@ ff02::3 ip6-allhosts
 :: c.jsbgh.cn
 0.0.0.0 c.k429fma.com
 :: c.k429fma.com
+0.0.0.0 c.kbf365.cn
+:: c.kbf365.cn
 0.0.0.0 c.kuaiduizuoye.com
 :: c.kuaiduizuoye.com
 0.0.0.0 c.kuwo.cn
@@ -25304,6 +25306,8 @@ ff02::3 ip6-allhosts
 :: dgpp7fq3iorb.cloudfront.net
 0.0.0.0 dgw7ae5vrovs7.cloudfront.net
 :: dgw7ae5vrovs7.cloudfront.net
+0.0.0.0 dgxzwj.com
+:: dgxzwj.com
 0.0.0.0 dh.holaworld.cn
 :: dh.holaworld.cn
 0.0.0.0 dh0uktvqfaomb.cloudfront.net
@@ -28020,6 +28024,8 @@ ff02::3 ip6-allhosts
 :: easytomessage.com
 0.0.0.0 easytracking.de
 :: easytracking.de
+0.0.0.0 eatayvgov.com
+:: eatayvgov.com
 0.0.0.0 eatmenticha.top
 :: eatmenticha.top
 0.0.0.0 eatp.evztib.xyz
@@ -32970,6 +32976,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -33510,6 +33518,8 @@ ff02::3 ip6-allhosts
 :: gdpr.studybreakmedia.com
 0.0.0.0 gdskywings.com
 :: gdskywings.com
+0.0.0.0 gdsqwy.org
+:: gdsqwy.org
 0.0.0.0 gdt.qq.com
 :: gdt.qq.com
 0.0.0.0 gdtimg.com
@@ -38544,6 +38554,8 @@ ff02::3 ip6-allhosts
 :: igexin.com
 0.0.0.0 igg.biz
 :: igg.biz
+0.0.0.0 igj5y.yongchanghengyuan.com
+:: igj5y.yongchanghengyuan.com
 0.0.0.0 iglaique.net
 :: iglaique.net
 0.0.0.0 igmsjgadiz.com
@@ -40710,8 +40722,6 @@ ff02::3 ip6-allhosts
 :: ixnp.com
 0.0.0.0 ixpub.net
 :: ixpub.net
-0.0.0.0 ixshklh.cn
-:: ixshklh.cn
 0.0.0.0 ixspublic.com
 :: ixspublic.com
 0.0.0.0 ixueiomwi.com
@@ -41130,6 +41140,8 @@ ff02::3 ip6-allhosts
 :: jellyclick.com
 0.0.0.0 jemmgroup.com
 :: jemmgroup.com
+0.0.0.0 jeoldkhy.com
+:: jeoldkhy.com
 0.0.0.0 jeoyehkc7z.com
 :: jeoyehkc7z.com
 0.0.0.0 jeqixokniyny.com
@@ -45374,8 +45386,6 @@ ff02::3 ip6-allhosts
 :: log-hl.snssdk.com
 0.0.0.0 log-ird.outbrain.com
 :: log-ird.outbrain.com
-0.0.0.0 log-marketing.jp
-:: log-marketing.jp
 0.0.0.0 log-player.arte.tv
 :: log-player.arte.tv
 0.0.0.0 log-stats.weathercn.com
@@ -50974,6 +50984,8 @@ ff02::3 ip6-allhosts
 :: mptedcazdep.info
 0.0.0.0 mptentry.com
 :: mptentry.com
+0.0.0.0 mptri.net
+:: mptri.net
 0.0.0.0 mpuls.ru
 :: mpuls.ru
 0.0.0.0 mpuqvoa.com
@@ -62060,6 +62072,8 @@ ff02::3 ip6-allhosts
 :: rdr.wargaming.net
 0.0.0.0 rdrceting.com
 :: rdrceting.com
+0.0.0.0 rdrcgrpsakrtn.com
+:: rdrcgrpsakrtn.com
 0.0.0.0 rdrtrk.com
 :: rdrtrk.com
 0.0.0.0 rdsa2012.com
