@@ -1,11 +1,11 @@
-# Checksum: MTYwNDkwMTg0NQo=
+# Checksum: MTYwNDkxMjYzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201109-2
-# TimeUpdated: 2020-11-09T06:04:05+00:00
+# Version: 1.6.6-20201109-3
+# TimeUpdated: 2020-11-09T09:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44938
+# Total: 44940
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -37938,6 +37938,8 @@ ff02::3 ip6-allhosts
 :: hytgj.com
 0.0.0.0 hyxca.top
 :: hyxca.top
+0.0.0.0 hz-sllace.com
+:: hz-sllace.com
 0.0.0.0 hz.miercn.com
 :: hz.miercn.com
 0.0.0.0 hz.mmstat.com
@@ -41170,8 +41172,6 @@ ff02::3 ip6-allhosts
 :: jfduv7.com
 0.0.0.0 jfgbdjhyc.com
 :: jfgbdjhyc.com
-0.0.0.0 jfgcxj.com
-:: jfgcxj.com
 0.0.0.0 jfhoq.com
 :: jfhoq.com
 0.0.0.0 jfjsp.com
@@ -43618,8 +43618,6 @@ ff02::3 ip6-allhosts
 :: kxlogo.knet.cn
 0.0.0.0 kxqvnfcg.xyz
 :: kxqvnfcg.xyz
-0.0.0.0 kxrcjhogag.ru
-:: kxrcjhogag.ru
 0.0.0.0 kxrxh.com
 :: kxrxh.com
 0.0.0.0 kyad88.com
@@ -68084,6 +68082,8 @@ ff02::3 ip6-allhosts
 :: sjjazrfvzbkt.com
 0.0.0.0 sjljz.cn
 :: sjljz.cn
+0.0.0.0 sjmltjmgw.com
+:: sjmltjmgw.com
 0.0.0.0 sjmwkj.cn
 :: sjmwkj.cn
 0.0.0.0 sjosteras.com
@@ -72518,6 +72518,8 @@ ff02::3 ip6-allhosts
 :: szmpc.cn
 0.0.0.0 szpl0.com
 :: szpl0.com
+0.0.0.0 szprhglyodqj.com
+:: szprhglyodqj.com
 0.0.0.0 szqifu.com
 :: szqifu.com
 0.0.0.0 szrk3.com
@@ -73972,6 +73974,8 @@ ff02::3 ip6-allhosts
 :: tfatalonepres.top
 0.0.0.0 tfncnhd8p95c.com
 :: tfncnhd8p95c.com
+0.0.0.0 tfpayjwjphuk.com
+:: tfpayjwjphuk.com
 0.0.0.0 tfqexqeldxjvet.com
 :: tfqexqeldxjvet.com
 0.0.0.0 tfs.zhamm.cn
@@ -86866,6 +86870,8 @@ ff02::3 ip6-allhosts
 :: xianliao.me
 0.0.0.0 xiaobiaoucai.cn
 :: xiaobiaoucai.cn
+0.0.0.0 xiaogouzhuanqian.cn
+:: xiaogouzhuanqian.cn
 0.0.0.0 xiaohead.com
 :: xiaohead.com
 0.0.0.0 xiaohei.com
@@ -87628,8 +87634,6 @@ ff02::3 ip6-allhosts
 :: y.da.mgtv.com
 0.0.0.0 y.damifan.cn
 :: y.damifan.cn
-0.0.0.0 y.ilancc.com
-:: y.ilancc.com
 0.0.0.0 y.konsolenfreunde.de
 :: y.konsolenfreunde.de
 0.0.0.0 y.one.impact-ad.jp
