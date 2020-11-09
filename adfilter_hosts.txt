@@ -1,11 +1,11 @@
-# Checksum: MTYwNDg2OTM5MQo=
+# Checksum: MTYwNDg4MDQ2NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201108-7
-# TimeUpdated: 2020-11-08T21:03:11+00:00
+# Version: 1.6.6-20201109-0
+# TimeUpdated: 2020-11-09T00:07:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44958
+# Total: 44967
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -13898,6 +13898,8 @@ ff02::3 ip6-allhosts
 :: bantex.ru
 0.0.0.0 baobaoshiye.com.cn
 :: baobaoshiye.com.cn
+0.0.0.0 baodaozhan.cn
+:: baodaozhan.cn
 0.0.0.0 baofeng.m.cn.miaozhen.com
 :: baofeng.m.cn.miaozhen.com
 0.0.0.0 baoyatu.cc
@@ -14566,8 +14568,6 @@ ff02::3 ip6-allhosts
 :: beemray.com
 0.0.0.0 beemrdwn.com
 :: beemrdwn.com
-0.0.0.0 beencounter.com
-:: beencounter.com
 0.0.0.0 beenmeekwarmth.casa
 :: beenmeekwarmth.casa
 0.0.0.0 beetraf.ru
@@ -15758,6 +15758,8 @@ ff02::3 ip6-allhosts
 :: bobo.com
 0.0.0.0 bobrilla.com
 :: bobrilla.com
+0.0.0.0 bocpqkpmez.com
+:: bocpqkpmez.com
 0.0.0.0 bodaimen.com
 :: bodaimen.com
 0.0.0.0 bodapet.com
@@ -15778,6 +15780,8 @@ ff02::3 ip6-allhosts
 :: boffinsoft.com
 0.0.0.0 boffoadsfeeds.com
 :: boffoadsfeeds.com
+0.0.0.0 bogads.com
+:: bogads.com
 0.0.0.0 bogopo.biz
 :: bogopo.biz
 0.0.0.0 bogrodius.com
@@ -20384,6 +20388,8 @@ ff02::3 ip6-allhosts
 :: coinimp.net
 0.0.0.0 coinive.com
 :: coinive.com
+0.0.0.0 coinjive.com
+:: coinjive.com
 0.0.0.0 coinlab.biz
 :: coinlab.biz
 0.0.0.0 coinmedia.co
@@ -28140,6 +28146,8 @@ ff02::3 ip6-allhosts
 :: ecmc.bdimg.com
 0.0.0.0 ecn5.com
 :: ecn5.com
+0.0.0.0 eco.2t4fe.xyz
+:: eco.2t4fe.xyz
 0.0.0.0 eco.875tf.xyz
 :: eco.875tf.xyz
 0.0.0.0 eco.qwger.xyz
@@ -54306,6 +54314,8 @@ ff02::3 ip6-allhosts
 :: ofhypnoer.com
 0.0.0.0 ofigraiw.net
 :: ofigraiw.net
+0.0.0.0 ofirjzamaye.com
+:: ofirjzamaye.com
 0.0.0.0 ofphanpytor.com
 :: ofphanpytor.com
 0.0.0.0 ofttanmob.site
@@ -57514,6 +57524,8 @@ ff02::3 ip6-allhosts
 :: pintour.com
 0.0.0.0 pinttalewag.com
 :: pinttalewag.com
+0.0.0.0 pinzhitmall.com
+:: pinzhitmall.com
 0.0.0.0 piou.kirkir.xyz
 :: piou.kirkir.xyz
 0.0.0.0 pip-pip-pop.com
@@ -82188,6 +82200,8 @@ ff02::3 ip6-allhosts
 :: wgpartner.com
 0.0.0.0 wgqakonrahgprc.com
 :: wgqakonrahgprc.com
+0.0.0.0 wgqirxevoh.com
+:: wgqirxevoh.com
 0.0.0.0 wgrjizeaimbxx.com
 :: wgrjizeaimbxx.com
 0.0.0.0 wh5kb0u4.com
@@ -82824,6 +82838,8 @@ ff02::3 ip6-allhosts
 :: wmzona.com
 0.0.0.0 wn.pos.baidu.com
 :: wn.pos.baidu.com
+0.0.0.0 wnbfw.com
+:: wnbfw.com
 0.0.0.0 wncs.7ez4.cn
 :: wncs.7ez4.cn
 0.0.0.0 wndhsykmbe.com
@@ -88592,6 +88608,8 @@ ff02::3 ip6-allhosts
 :: ypqy3sgq.com
 0.0.0.0 ypreferred.com
 :: ypreferred.com
+0.0.0.0 ypuxlzxa.com
+:: ypuxlzxa.com
 0.0.0.0 yqezqofkb1nnmz.com
 :: yqezqofkb1nnmz.com
 0.0.0.0 yqhlty.com
