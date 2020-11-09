@@ -1,11 +1,11 @@
-# Checksum: MTYwNDg4MDQ2NAo=
+# Checksum: MTYwNDg5MTAzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201109-0
-# TimeUpdated: 2020-11-09T00:07:44+00:00
+# Version: 1.6.6-20201109-1
+# TimeUpdated: 2020-11-09T03:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44967
+# Total: 44987
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1864,6 +1864,10 @@ ff02::3 ip6-allhosts
 :: 49863d99e314a.com
 0.0.0.0 49oa3o49b6.com
 :: 49oa3o49b6.com
+0.0.0.0 4aa5642903.com
+:: 4aa5642903.com
+0.0.0.0 4ac484684040.com
+:: 4ac484684040.com
 0.0.0.0 4affiliate.net
 :: 4affiliate.net
 0.0.0.0 4ak50p1xo77f.com
@@ -2686,6 +2690,8 @@ ff02::3 ip6-allhosts
 :: 766ba.net
 0.0.0.0 76802.net
 :: 76802.net
+0.0.0.0 76991c524ae.com
+:: 76991c524ae.com
 0.0.0.0 76xs.com
 :: 76xs.com
 0.0.0.0 7713gsefc0.com
@@ -4108,6 +4114,8 @@ ff02::3 ip6-allhosts
 :: a8.net
 0.0.0.0 a814.oadz.com
 :: a814.oadz.com
+0.0.0.0 a8f4521bc4f.com
+:: a8f4521bc4f.com
 0.0.0.0 a8ht.hipp.fr
 :: a8ht.hipp.fr
 0.0.0.0 a8ww.net
@@ -12122,6 +12130,8 @@ ff02::3 ip6-allhosts
 :: armhutspa.com
 0.0.0.0 armi.media
 :: armi.media
+0.0.0.0 armiesgiddinesscanes.com
+:: armiesgiddinesscanes.com
 0.0.0.0 arms.livedoor.net
 :: arms.livedoor.net
 0.0.0.0 arnessaudie.site
@@ -13566,6 +13576,8 @@ ff02::3 ip6-allhosts
 :: baifendian.com
 0.0.0.0 baigm.com
 :: baigm.com
+0.0.0.0 baihuiad.com
+:: baihuiad.com
 0.0.0.0 baike.biz
 :: baike.biz
 0.0.0.0 baikebcs.bdimg.com
@@ -14364,6 +14376,8 @@ ff02::3 ip6-allhosts
 :: bdwmhz.120askimages.com
 0.0.0.0 bdx.playnext.cn
 :: bdx.playnext.cn
+0.0.0.0 bdyjxghwfbyups.com
+:: bdyjxghwfbyups.com
 0.0.0.0 bdyxzx.com
 :: bdyxzx.com
 0.0.0.0 be-mine.ru
@@ -14676,6 +14690,8 @@ ff02::3 ip6-allhosts
 :: belvertising.be
 0.0.0.0 belwrite.com
 :: belwrite.com
+0.0.0.0 bemusic.xyz
+:: bemusic.xyz
 0.0.0.0 ben.crxmouse.com
 :: ben.crxmouse.com
 0.0.0.0 bench.uc.cn
@@ -15370,8 +15386,6 @@ ff02::3 ip6-allhosts
 :: bjhuhangjy.com
 0.0.0.0 bjlmok.com
 :: bjlmok.com
-0.0.0.0 bjlrdxcjnyxuba.com
-:: bjlrdxcjnyxuba.com
 0.0.0.0 bjmcmj.cn
 :: bjmcmj.cn
 0.0.0.0 bjpwv.com
@@ -15496,6 +15510,8 @@ ff02::3 ip6-allhosts
 :: blockadsnot.com
 0.0.0.0 blockchaintop.nl
 :: blockchaintop.nl
+0.0.0.0 blockscoolest.com
+:: blockscoolest.com
 0.0.0.0 blog-stat.com
 :: blog-stat.com
 0.0.0.0 blog-webkatalog.de
@@ -16058,6 +16074,8 @@ ff02::3 ip6-allhosts
 :: brainian.club
 0.0.0.0 brainient.com
 :: brainient.com
+0.0.0.0 braintb.com
+:: braintb.com
 0.0.0.0 braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 :: braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 0.0.0.0 brakesoutright.com
@@ -17832,6 +17850,8 @@ ff02::3 ip6-allhosts
 :: ccalgf.com
 0.0.0.0 ccc.x.jd.com
 :: ccc.x.jd.com
+0.0.0.0 ccc1063d848b.com
+:: ccc1063d848b.com
 0.0.0.0 cccccd.com
 :: cccccd.com
 0.0.0.0 ccclub.cmbchina.com
@@ -21770,6 +21790,8 @@ ff02::3 ip6-allhosts
 :: cp.qbaobei.com
 0.0.0.0 cp2.eastmoney.com
 :: cp2.eastmoney.com
+0.0.0.0 cp2srvng.xyz
+:: cp2srvng.xyz
 0.0.0.0 cp7gyw5w94c7.com
 :: cp7gyw5w94c7.com
 0.0.0.0 cp9t71b6ip.com
@@ -24442,6 +24464,8 @@ ff02::3 ip6-allhosts
 :: datoporn.com
 0.0.0.0 datvantage.com
 :: datvantage.com
+0.0.0.0 daugloon.net
+:: daugloon.net
 0.0.0.0 daunteegyptian.pro
 :: daunteegyptian.pro
 0.0.0.0 dauntlessomelette.com
@@ -25576,8 +25600,6 @@ ff02::3 ip6-allhosts
 :: direct.apus.tech
 0.0.0.0 direct.quasir.info
 :: direct.quasir.info
-0.0.0.0 direct.wap.zol.com.cn
-:: direct.wap.zol.com.cn
 0.0.0.0 directaclick.com
 :: directaclick.com
 0.0.0.0 directadvert.net
@@ -32984,8 +33006,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -34520,6 +34540,8 @@ ff02::3 ip6-allhosts
 :: gmzdaily.com
 0.0.0.0 gn.lalaqky.cn
 :: gn.lalaqky.cn
+0.0.0.0 gnatgrocery.com
+:: gnatgrocery.com
 0.0.0.0 gnativestreesaga.site
 :: gnativestreesaga.site
 0.0.0.0 gndrglsn.com
@@ -44362,6 +44384,8 @@ ff02::3 ip6-allhosts
 :: leneshedfrien.club
 0.0.0.0 leneshedhous.club
 :: leneshedhous.club
+0.0.0.0 lenkmio.com
+:: lenkmio.com
 0.0.0.0 lenmit.com
 :: lenmit.com
 0.0.0.0 lenta-novostei.com
@@ -48422,6 +48446,8 @@ ff02::3 ip6-allhosts
 :: mayclub.net
 0.0.0.0 maygasjump.com
 :: maygasjump.com
+0.0.0.0 mayhemabjure.com
+:: mayhemabjure.com
 0.0.0.0 mayiad.com
 :: mayiad.com
 0.0.0.0 maysunmedia.com
@@ -52118,6 +52144,8 @@ ff02::3 ip6-allhosts
 :: ncaudienceexchange.com
 0.0.0.0 ncedagricul.info
 :: ncedagricul.info
+0.0.0.0 ncediscou.fun
+:: ncediscou.fun
 0.0.0.0 nceevenue.club
 :: nceevenue.club
 0.0.0.0 ncefoundanges.info
@@ -52892,6 +52920,8 @@ ff02::3 ip6-allhosts
 :: ngrft.beeppool.org
 0.0.0.0 ngrichtelcr.club
 :: ngrichtelcr.club
+0.0.0.0 ngsaang.top
+:: ngsaang.top
 0.0.0.0 ngsomedquiz.club
 :: ngsomedquiz.club
 0.0.0.0 ngtablishbol.top
@@ -53872,6 +53902,8 @@ ff02::3 ip6-allhosts
 :: nwffx.xyz
 0.0.0.0 nwfhalifax.com
 :: nwfhalifax.com
+0.0.0.0 nwliko.com
+:: nwliko.com
 0.0.0.0 nwmum.com
 :: nwmum.com
 0.0.0.0 nwntsnjtowku.com
@@ -55928,6 +55960,8 @@ ff02::3 ip6-allhosts
 :: pachminas.xyz
 0.0.0.0 pacific-yield.com
 :: pacific-yield.com
+0.0.0.0 pacifoos.net
+:: pacifoos.net
 0.0.0.0 pacitiesbo.info
 :: pacitiesbo.info
 0.0.0.0 package01.com
@@ -71346,6 +71380,8 @@ ff02::3 ip6-allhosts
 :: stereoproxy.com
 0.0.0.0 sterlingwoods.com
 :: sterlingwoods.com
+0.0.0.0 steroidtypesconviction.com
+:: steroidtypesconviction.com
 0.0.0.0 stetic.com
 :: stetic.com
 0.0.0.0 stevenblue.cn
@@ -78256,6 +78292,8 @@ ff02::3 ip6-allhosts
 :: um29.com
 0.0.0.0 uma.gtags.net
 :: uma.gtags.net
+0.0.0.0 umannwig.com
+:: umannwig.com
 0.0.0.0 umapi.cn
 :: umapi.cn
 0.0.0.0 umbbs.cn
@@ -81598,6 +81636,8 @@ ff02::3 ip6-allhosts
 :: wearesaudis.net
 0.0.0.0 weatherent.club
 :: weatherent.club
+0.0.0.0 weaurty.club
+:: weaurty.club
 0.0.0.0 web-analytics.engagio.com
 :: web-analytics.engagio.com
 0.0.0.0 web-bars.com
