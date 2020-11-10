@@ -1,11 +1,11 @@
-# Checksum: MTYwNDk5ODk4Nwo=
+# Checksum: MTYwNTAwOTgyNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201110-3
-# TimeUpdated: 2020-11-10T09:03:07+00:00
+# Version: 1.6.6-20201110-4
+# TimeUpdated: 2020-11-10T12:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45014
+# Total: 45017
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -22,8 +22,6 @@ ff02::3 ip6-allhosts
 :: 0.up.qingdaonews.com
 0.0.0.0 001.0x1f4b0.com
 :: 001.0x1f4b0.com
-0.0.0.0 0013.cc
-:: 0013.cc
 0.0.0.0 001union.com
 :: 001union.com
 0.0.0.0 002.0x1f4b0.com
@@ -10996,8 +10994,6 @@ ff02::3 ip6-allhosts
 :: antfindicater.site
 0.0.0.0 anthill.vn
 :: anthill.vn
-0.0.0.0 anthropophile.site
-:: anthropophile.site
 0.0.0.0 anti-bot.baidu.com
 :: anti-bot.baidu.com
 0.0.0.0 anti-cheat.info
@@ -16574,8 +16570,6 @@ ff02::3 ip6-allhosts
 :: burnside.dtcn.com
 0.0.0.0 burnsoftware.info
 :: burnsoftware.info
-0.0.0.0 burporess.pro
-:: burporess.pro
 0.0.0.0 burria.info
 :: burria.info
 0.0.0.0 bursagarc.com
@@ -30594,6 +30588,8 @@ ff02::3 ip6-allhosts
 :: f40f89d54b8.com
 0.0.0.0 f45ff72fec5426ae.com
 :: f45ff72fec5426ae.com
+0.0.0.0 f4674af89e.com
+:: f4674af89e.com
 0.0.0.0 f4906b7c15ba.com
 :: f4906b7c15ba.com
 0.0.0.0 f4f32de8e64d.com
@@ -32234,6 +32230,8 @@ ff02::3 ip6-allhosts
 :: fptest.fraudmetrix.cn
 0.0.0.0 fqab5xq7qlgt.info
 :: fqab5xq7qlgt.info
+0.0.0.0 fqbucxkfcya.com
+:: fqbucxkfcya.com
 0.0.0.0 fqceyqo.com
 :: fqceyqo.com
 0.0.0.0 fqcwtrbxzhjsiu.com
@@ -42226,6 +42224,8 @@ ff02::3 ip6-allhosts
 :: jspg.cc
 0.0.0.0 jsqmt.qq.com
 :: jsqmt.qq.com
+0.0.0.0 jsr9.com
+:: jsr9.com
 0.0.0.0 jsretra.com
 :: jsretra.com
 0.0.0.0 jss.haoxyx.com
@@ -51504,6 +51504,8 @@ ff02::3 ip6-allhosts
 :: mvo.m456d.xyz
 0.0.0.0 mvo.osidf.xyz
 :: mvo.osidf.xyz
+0.0.0.0 mvo.qwger.xyz
+:: mvo.qwger.xyz
 0.0.0.0 mvp.mediav.com
 :: mvp.mediav.com
 0.0.0.0 mvtracker.com
@@ -66220,6 +66222,8 @@ ff02::3 ip6-allhosts
 :: sdktm.w.inmobi.cn
 0.0.0.0 sdmot.ru
 :: sdmot.ru
+0.0.0.0 sdmwklnd.com
+:: sdmwklnd.com
 0.0.0.0 sdn.hzxma.com
 :: sdn.hzxma.com
 0.0.0.0 sdn.kugou.com
@@ -67686,6 +67690,8 @@ ff02::3 ip6-allhosts
 :: show.m.mediav.com
 0.0.0.0 show.mediav.com
 :: show.mediav.com
+0.0.0.0 show.meituan.yoga
+:: show.meituan.yoga
 0.0.0.0 show.re.taobao.com
 :: show.re.taobao.com
 0.0.0.0 show3.fang.com
