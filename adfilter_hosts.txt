@@ -1,11 +1,11 @@
-# Checksum: MTYwNTAzMTQwMQo=
+# Checksum: MTYwNTA0MjE5Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201110-6
-# TimeUpdated: 2020-11-10T18:03:21+00:00
+# Version: 1.6.6-20201110-7
+# TimeUpdated: 2020-11-10T21:03:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45033
+# Total: 45034
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3354,8 +3354,6 @@ ff02::3 ip6-allhosts
 :: 958so.cn
 0.0.0.0 9596yy.com
 :: 9596yy.com
-0.0.0.0 95a44ebca8b1abc20.com
-:: 95a44ebca8b1abc20.com
 0.0.0.0 95p2.com
 :: 95p2.com
 0.0.0.0 95p5qep4aq.com
@@ -13952,8 +13950,6 @@ ff02::3 ip6-allhosts
 :: bars2show.com
 0.0.0.0 barytonneras.site
 :: barytonneras.site
-0.0.0.0 barytonneras.website
-:: barytonneras.website
 0.0.0.0 bas.boshi.tv
 :: bas.boshi.tv
 0.0.0.0 basebanner.com
@@ -27390,6 +27386,8 @@ ff02::3 ip6-allhosts
 :: dzooo.cn
 0.0.0.0 dzpu6za66svjl.cloudfront.net
 :: dzpu6za66svjl.cloudfront.net
+0.0.0.0 dzrenju2.cn
+:: dzrenju2.cn
 0.0.0.0 dzrs3yuexz.com
 :: dzrs3yuexz.com
 0.0.0.0 dzs55b7slwyx.cloudfront.net
@@ -39982,6 +39980,8 @@ ff02::3 ip6-allhosts
 :: instreet.cn
 0.0.0.0 instrumentsponge.com
 :: instrumentsponge.com
+0.0.0.0 insuf.cn
+:: insuf.cn
 0.0.0.0 insupposity.info
 :: insupposity.info
 0.0.0.0 insurads.com
@@ -73562,6 +73562,8 @@ ff02::3 ip6-allhosts
 :: tcbox.baidu.com
 0.0.0.0 tccbanner.com
 :: tccbanner.com
+0.0.0.0 tcgqqmjyg.com
+:: tcgqqmjyg.com
 0.0.0.0 tchamomil.club
 :: tchamomil.club
 0.0.0.0 tcheck.outbrainimg.com
