@@ -1,11 +1,11 @@
-# Checksum: MTYwNDk2Njg1OQo=
+# Checksum: MTYwNDk3NzQwMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201110-0
-# TimeUpdated: 2020-11-10T00:07:39+00:00
+# Version: 1.6.6-20201110-1
+# TimeUpdated: 2020-11-10T03:03:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 44995
+# Total: 44994
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3012,8 +3012,6 @@ ff02::3 ip6-allhosts
 :: 851889.tk
 0.0.0.0 8521448.com
 :: 8521448.com
-0.0.0.0 85451fe651e0.com
-:: 85451fe651e0.com
 0.0.0.0 8547459af5da02.com
 :: 8547459af5da02.com
 0.0.0.0 8549b1460cdc24.com
@@ -9850,6 +9848,8 @@ ff02::3 ip6-allhosts
 :: alisinak.com
 0.0.0.0 alissl.ucdl.pp.uc.cn
 :: alissl.ucdl.pp.uc.cn
+0.0.0.0 alistatic.cn
+:: alistatic.cn
 0.0.0.0 alitianxia168.com
 :: alitianxia168.com
 0.0.0.0 aliticalpassister.info
@@ -32822,8 +32822,6 @@ ff02::3 ip6-allhosts
 :: fxjs.2541.com
 0.0.0.0 fxnow.ru
 :: fxnow.ru
-0.0.0.0 fxox4wvv.win
-:: fxox4wvv.win
 0.0.0.0 fxprime-popular.com
 :: fxprime-popular.com
 0.0.0.0 fxsqsng.com
@@ -40684,6 +40682,8 @@ ff02::3 ip6-allhosts
 :: iupot.com
 0.0.0.0 iupqelechcmj.com
 :: iupqelechcmj.com
+0.0.0.0 iutkryvnixptlg.com
+:: iutkryvnixptlg.com
 0.0.0.0 iutr.uozwys.top
 :: iutr.uozwys.top
 0.0.0.0 iv.aliyune.xyz
@@ -59948,8 +59948,6 @@ ff02::3 ip6-allhosts
 :: pub.admedia.io
 0.0.0.0 pub.aplus.pptv.com
 :: pub.aplus.pptv.com
-0.0.0.0 pub.aujourdhui.com
-:: pub.aujourdhui.com
 0.0.0.0 pub.babygo.fr
 :: pub.babygo.fr
 0.0.0.0 pub.comics-sanctuary.com
@@ -68650,6 +68648,8 @@ ff02::3 ip6-allhosts
 :: sneakystew.com
 0.0.0.0 snessubsets.pro
 :: snessubsets.pro
+0.0.0.0 snezynrzsz.com
+:: snezynrzsz.com
 0.0.0.0 sngapm.qq.com
 :: sngapm.qq.com
 0.0.0.0 sngmta.qq.com
@@ -73100,8 +73100,6 @@ ff02::3 ip6-allhosts
 :: taggify.net
 0.0.0.0 tagjunction.com
 :: tagjunction.com
-0.0.0.0 taglocker.target.com
-:: taglocker.target.com
 0.0.0.0 tagm.tchibo.de
 :: tagm.tchibo.de
 0.0.0.0 tagmanager.alright.network
