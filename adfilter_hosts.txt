@@ -1,11 +1,11 @@
-# Checksum: MTYwNTA1MzE2MQo=
+# Checksum: MTYwNTA2Mzc3OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201111-0
-# TimeUpdated: 2020-11-11T00:06:01+00:00
+# Version: 1.6.6-20201111-1
+# TimeUpdated: 2020-11-11T03:02:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45046
+# Total: 45045
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3674,8 +3674,6 @@ ff02::3 ip6-allhosts
 :: a.cnzz.com
 0.0.0.0 a.dangdang.com
 :: a.dangdang.com
-0.0.0.0 a.dianjoy.com
-:: a.dianjoy.com
 0.0.0.0 a.diaoyu.cn
 :: a.diaoyu.cn
 0.0.0.0 a.doko.moe
@@ -9432,8 +9430,6 @@ ff02::3 ip6-allhosts
 :: aibici.com
 0.0.0.0 aicansecrea.fun
 :: aicansecrea.fun
-0.0.0.0 aichaima.top
-:: aichaima.top
 0.0.0.0 aickeeho.com
 :: aickeeho.com
 0.0.0.0 aicontents.net
@@ -12104,8 +12100,6 @@ ff02::3 ip6-allhosts
 :: arlime.com
 0.0.0.0 arlottencert.club
 :: arlottencert.club
-0.0.0.0 armashair.site
-:: armashair.site
 0.0.0.0 armatchints.info
 :: armatchints.info
 0.0.0.0 armaturehurt.com
@@ -19384,6 +19378,8 @@ ff02::3 ip6-allhosts
 :: click.voc.com.cn
 0.0.0.0 click.yhd.com
 :: click.yhd.com
+0.0.0.0 click.ynxjf.com
+:: click.ynxjf.com
 0.0.0.0 click.yzyszy.com
 :: click.yzyszy.com
 0.0.0.0 click.zmctrack.net
@@ -21980,6 +21976,8 @@ ff02::3 ip6-allhosts
 :: cpxl.golem.de
 0.0.0.0 cpzxmrne.com
 :: cpzxmrne.com
+0.0.0.0 cq.qdkzjdsb.cn
+:: cq.qdkzjdsb.cn
 0.0.0.0 cqbaitong.cn
 :: cqbaitong.cn
 0.0.0.0 cqfangduan.com
@@ -27792,8 +27790,6 @@ ff02::3 ip6-allhosts
 :: e4w50tqnqk.com
 0.0.0.0 e521d17fa185a2.com
 :: e521d17fa185a2.com
-0.0.0.0 e5c4d8d221.com
-:: e5c4d8d221.com
 0.0.0.0 e5d944a25e468d.com
 :: e5d944a25e468d.com
 0.0.0.0 e5mbjzv.com
@@ -28564,6 +28560,8 @@ ff02::3 ip6-allhosts
 :: eglates.pro
 0.0.0.0 egnatius-ear.com
 :: egnatius-ear.com
+0.0.0.0 egolina.com
+:: egolina.com
 0.0.0.0 egqvppwseieyu.com
 :: egqvppwseieyu.com
 0.0.0.0 egrettyjokilin.info
