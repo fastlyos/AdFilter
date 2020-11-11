@@ -1,11 +1,11 @@
-# Checksum: MTYwNTA4NTM5OQo=
+# Checksum: MTYwNTA5NjI1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201111-3
-# TimeUpdated: 2020-11-11T09:03:19+00:00
+# Version: 1.6.6-20201111-4
+# TimeUpdated: 2020-11-11T12:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45047
+# Total: 45054
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1666,6 +1666,8 @@ ff02::3 ip6-allhosts
 :: 3gmimo.com
 0.0.0.0 3gporn.biz
 :: 3gporn.biz
+0.0.0.0 3hbox.com
+:: 3hbox.com
 0.0.0.0 3i1cx7b9nupt.com
 :: 3i1cx7b9nupt.com
 0.0.0.0 3jia5.com
@@ -14978,6 +14980,8 @@ ff02::3 ip6-allhosts
 :: bgpng.me
 0.0.0.0 bgrndi.com
 :: bgrndi.com
+0.0.0.0 bgtrtv.top
+:: bgtrtv.top
 0.0.0.0 bh.contextweb.com
 :: bh.contextweb.com
 0.0.0.0 bh3.net
@@ -18814,8 +18818,6 @@ ff02::3 ip6-allhosts
 :: chgdf.cn
 0.0.0.0 chgilks.com
 :: chgilks.com
-0.0.0.0 chiasephim.xyz
-:: chiasephim.xyz
 0.0.0.0 chicaudo.com
 :: chicaudo.com
 0.0.0.0 chickensstation.com
@@ -29412,6 +29414,8 @@ ff02::3 ip6-allhosts
 :: eq.10jqka.com.cn
 0.0.0.0 eqads.com
 :: eqads.com
+0.0.0.0 eqdfilkwrpn.com
+:: eqdfilkwrpn.com
 0.0.0.0 eqfgc.com
 :: eqfgc.com
 0.0.0.0 eqmx04n5s0.ru
@@ -43530,6 +43534,8 @@ ff02::3 ip6-allhosts
 :: ktiwcxvrwedt.com
 0.0.0.0 ktoloto.com
 :: ktoloto.com
+0.0.0.0 ktqcxbhghxp.com
+:: ktqcxbhghxp.com
 0.0.0.0 ktrackdata.com
 :: ktrackdata.com
 0.0.0.0 ktracker.kumparan.com
@@ -46324,6 +46330,8 @@ ff02::3 ip6-allhosts
 :: ludithyshi.pro
 0.0.0.0 ludlowadvertiser-gb.ludlowadvertiser.co.uk
 :: ludlowadvertiser-gb.ludlowadvertiser.co.uk
+0.0.0.0 ludovwmhazsx.com
+:: ludovwmhazsx.com
 0.0.0.0 lufax.com
 :: lufax.com
 0.0.0.0 lugansk-info.ru
@@ -58984,6 +58992,8 @@ ff02::3 ip6-allhosts
 :: ppunion.com
 0.0.0.0 ppvabs.pplive.com
 :: ppvabs.pplive.com
+0.0.0.0 ppx.hgo7r.cn
+:: ppx.hgo7r.cn
 0.0.0.0 pqrtd9hhtu9x.info
 :: pqrtd9hhtu9x.info
 0.0.0.0 pqwtrq.xyz
@@ -72446,6 +72456,8 @@ ff02::3 ip6-allhosts
 :: sy123888.com
 0.0.0.0 syad.jiehunmishu.com
 :: syad.jiehunmishu.com
+0.0.0.0 sybhpi.cn
+:: sybhpi.cn
 0.0.0.0 syblyj.com
 :: syblyj.com
 0.0.0.0 sycbbs.com
@@ -83004,6 +83016,8 @@ ff02::3 ip6-allhosts
 :: wnprot.com
 0.0.0.0 wnsoth.cn
 :: wnsoth.cn
+0.0.0.0 wnybornxeukq.com
+:: wnybornxeukq.com
 0.0.0.0 wo685.com
 :: wo685.com
 0.0.0.0 woafujoa.com
