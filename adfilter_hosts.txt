@@ -1,11 +1,11 @@
-# Checksum: MTYwNTEwNzAwOQo=
+# Checksum: MTYwNTExNzgxMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201111-5
-# TimeUpdated: 2020-11-11T15:03:29+00:00
+# Version: 1.6.6-20201111-6
+# TimeUpdated: 2020-11-11T18:03:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45064
+# Total: 45063
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -724,6 +724,8 @@ ff02::3 ip6-allhosts
 :: 168.it168.com
 0.0.0.0 1680660.com
 :: 1680660.com
+0.0.0.0 1680go.com
+:: 1680go.com
 0.0.0.0 1686607364.rsc.cdn77.org
 :: 1686607364.rsc.cdn77.org
 0.0.0.0 168xiazai.com
@@ -35378,8 +35380,6 @@ ff02::3 ip6-allhosts
 :: gsezbakx.com
 0.0.0.0 gsfillegesga.club
 :: gsfillegesga.club
-0.0.0.0 gsgsr.xyz
-:: gsgsr.xyz
 0.0.0.0 gshtrl.top
 :: gshtrl.top
 0.0.0.0 gsimedia.net
@@ -40772,6 +40772,8 @@ ff02::3 ip6-allhosts
 :: iwkjldjp.com
 0.0.0.0 iwlnzreu5vlx.com
 :: iwlnzreu5vlx.com
+0.0.0.0 iwlvufxv.com
+:: iwlvufxv.com
 0.0.0.0 iwqzrm.com
 :: iwqzrm.com
 0.0.0.0 iws.corel.com
@@ -45022,6 +45024,8 @@ ff02::3 ip6-allhosts
 :: liquorumladiom.info
 0.0.0.0 liqwid.net
 :: liqwid.net
+0.0.0.0 lisaiservice.top
+:: lisaiservice.top
 0.0.0.0 lisconcertain.site
 :: lisconcertain.site
 0.0.0.0 lisdimpassie.club
@@ -58270,8 +58274,6 @@ ff02::3 ip6-allhosts
 :: plugs.co
 0.0.0.0 plumbus.minutemediaservices.com
 :: plumbus.minutemediaservices.com
-0.0.0.0 pluralbreakpractice7.live
-:: pluralbreakpractice7.live
 0.0.0.0 plusone.google.com
 :: plusone.google.com
 0.0.0.0 plutusads.com
@@ -80364,8 +80366,6 @@ ff02::3 ip6-allhosts
 :: view-ads.de
 0.0.0.0 view-affiliwelt.net
 :: view-affiliwelt.net
-0.0.0.0 view.adjust.com
-:: view.adjust.com
 0.0.0.0 view.admaster.com.cn
 :: view.admaster.com.cn
 0.0.0.0 view.atdmt.com
@@ -85130,8 +85130,6 @@ ff02::3 ip6-allhosts
 :: www.growingio.cn
 0.0.0.0 www.growingio.com
 :: www.growingio.com
-0.0.0.0 www.gsgsr.xyz
-:: www.gsgsr.xyz
 0.0.0.0 www.gt4ec.net
 :: www.gt4ec.net
 0.0.0.0 www.guanggao369.cn
