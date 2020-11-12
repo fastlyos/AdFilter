@@ -1,11 +1,11 @@
-# Checksum: MTYwNTEzOTYzNQo=
+# Checksum: MTYwNTE1MDIwOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201112-0
-# TimeUpdated: 2020-11-12T00:07:15+00:00
+# Version: 1.6.6-20201112-1
+# TimeUpdated: 2020-11-12T03:03:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45076
+# Total: 45078
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -14688,8 +14688,6 @@ ff02::3 ip6-allhosts
 :: belvertising.be
 0.0.0.0 belwrite.com
 :: belwrite.com
-0.0.0.0 bemobtrcks.com
-:: bemobtrcks.com
 0.0.0.0 bemusic.xyz
 :: bemusic.xyz
 0.0.0.0 ben.crxmouse.com
@@ -21166,6 +21164,8 @@ ff02::3 ip6-allhosts
 :: cookies.fakt.pl
 0.0.0.0 cookies.forbes.pl
 :: cookies.forbes.pl
+0.0.0.0 cookies.gardena.net
+:: cookies.gardena.net
 0.0.0.0 cookies.innershed.co.uk
 :: cookies.innershed.co.uk
 0.0.0.0 cookies.leadplace.fr
@@ -33048,6 +33048,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -37548,6 +37550,8 @@ ff02::3 ip6-allhosts
 :: hpr.outbrain.com
 0.0.0.0 hprofits.com
 :: hprofits.com
+0.0.0.0 hpuknttzl.com
+:: hpuknttzl.com
 0.0.0.0 hpwdohgicpmi.com
 :: hpwdohgicpmi.com
 0.0.0.0 hpwoowyxhrsatx.com
@@ -63608,8 +63612,6 @@ ff02::3 ip6-allhosts
 :: riverhit.com
 0.0.0.0 riverlead.ru
 :: riverlead.ru
-0.0.0.0 riwhedipsa.pro
-:: riwhedipsa.pro
 0.0.0.0 rixaka.com
 :: rixaka.com
 0.0.0.0 rizeintellingente.info
@@ -87834,6 +87836,8 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 :: xy33.smallable.com
+0.0.0.0 xyadtlyya.com
+:: xyadtlyya.com
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xyimg.net
