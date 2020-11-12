@@ -1,11 +1,11 @@
-# Checksum: MTYwNTE2MTAyNwo=
+# Checksum: MTYwNTE3MTgxOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201112-2
-# TimeUpdated: 2020-11-12T06:03:47+00:00
+# Version: 1.6.6-20201112-3
+# TimeUpdated: 2020-11-12T09:03:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45038
+# Total: 45044
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4886,6 +4886,8 @@ ff02::3 ip6-allhosts
 :: ad.1k3.com
 0.0.0.0 ad.1kxun.com
 :: ad.1kxun.com
+0.0.0.0 ad.1serve-sys.com
+:: ad.1serve-sys.com
 0.0.0.0 ad.1ting.com
 :: ad.1ting.com
 0.0.0.0 ad.21cn.com
@@ -8938,6 +8940,8 @@ ff02::3 ip6-allhosts
 :: afbcashidr.com
 0.0.0.0 afcontent.net
 :: afcontent.net
+0.0.0.0 afcxojqr.com
+:: afcxojqr.com
 0.0.0.0 afd.baidu.com
 :: afd.baidu.com
 0.0.0.0 afefw.com
@@ -11008,6 +11012,8 @@ ff02::3 ip6-allhosts
 :: antivirus.baidu.com
 0.0.0.0 antns.com
 :: antns.com
+0.0.0.0 antoball.com
+:: antoball.com
 0.0.0.0 antonynton.com
 :: antonynton.com
 0.0.0.0 antrademic.club
@@ -13274,6 +13280,8 @@ ff02::3 ip6-allhosts
 :: b1.xiao84.com
 0.0.0.0 b13.penzainform.ru
 :: b13.penzainform.ru
+0.0.0.0 b13481647cf775c5.com
+:: b13481647cf775c5.com
 0.0.0.0 b142d1440666173b0.com
 :: b142d1440666173b0.com
 0.0.0.0 b16.nakanohito.jp
@@ -27212,6 +27220,8 @@ ff02::3 ip6-allhosts
 :: dvv.c1345.cn
 0.0.0.0 dvv.idfgfv.xyz
 :: dvv.idfgfv.xyz
+0.0.0.0 dvv.kdzbg.xyz
+:: dvv.kdzbg.xyz
 0.0.0.0 dvv.lkgtvc.xyz
 :: dvv.lkgtvc.xyz
 0.0.0.0 dvv.muqsad.xyz
@@ -44112,6 +44122,8 @@ ff02::3 ip6-allhosts
 :: lbstatic-a.akamaihd.net
 0.0.0.0 lbszb.tongbu.com
 :: lbszb.tongbu.com
+0.0.0.0 lbushibdda.com
+:: lbushibdda.com
 0.0.0.0 lc-push.zhihu.com
 :: lc-push.zhihu.com
 0.0.0.0 lc.jiathis.com
@@ -49602,8 +49614,6 @@ ff02::3 ip6-allhosts
 :: mig8vn.com
 0.0.0.0 migatesbala.fun
 :: migatesbala.fun
-0.0.0.0 mighbest.si
-:: mighbest.si
 0.0.0.0 mightiger.net
 :: mightiger.net
 0.0.0.0 mightseers.club
@@ -54048,6 +54058,8 @@ ff02::3 ip6-allhosts
 :: nz04com.com
 0.0.0.0 nzafj0fqsy.rest
 :: nzafj0fqsy.rest
+0.0.0.0 nzcjjhkd.com
+:: nzcjjhkd.com
 0.0.0.0 nzezn.com
 :: nzezn.com
 0.0.0.0 nzfc.2zm4.cn
