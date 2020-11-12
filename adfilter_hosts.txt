@@ -1,11 +1,11 @@
-# Checksum: MTYwNTIwNDIyOAo=
+# Checksum: MTYwNTIxNDk4NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201112-6
-# TimeUpdated: 2020-11-12T18:03:48+00:00
+# Version: 1.6.6-20201112-7
+# TimeUpdated: 2020-11-12T21:03:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45057
+# Total: 45062
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7794,6 +7794,8 @@ ff02::3 ip6-allhosts
 :: adshack.com
 0.0.0.0 adshare.toutiao.com
 :: adshare.toutiao.com
+0.0.0.0 adshexa.com
+:: adshexa.com
 0.0.0.0 adshmct.qq.com
 :: adshmct.qq.com
 0.0.0.0 adshmmsg.qq.com
@@ -37984,6 +37986,8 @@ ff02::3 ip6-allhosts
 :: hypzv.com
 0.0.0.0 hyrankhit.meldingcloud.com
 :: hyrankhit.meldingcloud.com
+0.0.0.0 hys4.com
+:: hys4.com
 0.0.0.0 hysjm.cn
 :: hysjm.cn
 0.0.0.0 hyssp.haiyunx.com
@@ -60786,6 +60790,8 @@ ff02::3 ip6-allhosts
 :: pxlctl.elpais.com
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 :: pxlgnpgecom-a.akamaihd.net
+0.0.0.0 pxlqyrteuuh.com
+:: pxlqyrteuuh.com
 0.0.0.0 pxrbl.megafilms.me
 :: pxrbl.megafilms.me
 0.0.0.0 pxxxyhum.com
@@ -68592,6 +68598,8 @@ ff02::3 ip6-allhosts
 :: smetrics.marriott.com
 0.0.0.0 smetrics.nfl.com
 :: smetrics.nfl.com
+0.0.0.0 smetrics.samsung.com
+:: smetrics.samsung.com
 0.0.0.0 smetrics.uhc.com
 :: smetrics.uhc.com
 0.0.0.0 smetrics.washingtonpost.com
@@ -73448,6 +73456,8 @@ ff02::3 ip6-allhosts
 :: tareinlettartar.com
 0.0.0.0 targaubs.com
 :: targaubs.com
+0.0.0.0 target-us.samsung.com
+:: target-us.samsung.com
 0.0.0.0 target.mirtesen.ru
 :: target.mirtesen.ru
 0.0.0.0 target.mixi.media
