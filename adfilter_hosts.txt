@@ -1,11 +1,11 @@
-# Checksum: MTYwNTE5MzQ1Mwo=
+# Checksum: MTYwNTIwNDIyOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201112-5
-# TimeUpdated: 2020-11-12T15:04:13+00:00
+# Version: 1.6.6-20201112-6
+# TimeUpdated: 2020-11-12T18:03:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45047
+# Total: 45057
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7046,6 +7046,8 @@ ff02::3 ip6-allhosts
 :: adres.myaora.net
 0.0.0.0 adresellers.com
 :: adresellers.com
+0.0.0.0 adresponse.it
+:: adresponse.it
 0.0.0.0 adrevenuerescue.com
 :: adrevenuerescue.com
 0.0.0.0 adrevolver.com
@@ -13366,8 +13368,6 @@ ff02::3 ip6-allhosts
 :: b6b4rhsbdawj.com
 0.0.0.0 b81oidrmy82w.com
 :: b81oidrmy82w.com
-0.0.0.0 b81x63nc.ws.md
-:: b81x63nc.ws.md
 0.0.0.0 b88c9bd1dcedfc3.com
 :: b88c9bd1dcedfc3.com
 0.0.0.0 b8cf0fd3179ef.com
@@ -14014,6 +14014,8 @@ ff02::3 ip6-allhosts
 :: bawdypets.com
 0.0.0.0 bax.xiawu.com
 :: bax.xiawu.com
+0.0.0.0 baxofalis.com
+:: baxofalis.com
 0.0.0.0 bay.xiawu.com
 :: bay.xiawu.com
 0.0.0.0 bayception.pw
@@ -17466,8 +17468,6 @@ ff02::3 ip6-allhosts
 :: camplacecash.com
 0.0.0.0 camprime.com
 :: camprime.com
-0.0.0.0 campromos.nl
-:: campromos.nl
 0.0.0.0 cams.enjoy.be
 :: cams.enjoy.be
 0.0.0.0 cams.spacash.com
@@ -23274,8 +23274,6 @@ ff02::3 ip6-allhosts
 :: d20kffh39acpue.cloudfront.net
 0.0.0.0 d21f25e9uvddd7.cloudfront.net
 :: d21f25e9uvddd7.cloudfront.net
-0.0.0.0 d21gpk1vhmjuf5.cloudfront.net
-:: d21gpk1vhmjuf5.cloudfront.net
 0.0.0.0 d21j20wsoewvjq.cloudfront.net
 :: d21j20wsoewvjq.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
@@ -26158,6 +26156,8 @@ ff02::3 ip6-allhosts
 :: dmpcloud.net
 0.0.0.0 dmpcounter.com
 :: dmpcounter.com
+0.0.0.0 dmpprof.com
+:: dmpprof.com
 0.0.0.0 dmpsj.cn
 :: dmpsj.cn
 0.0.0.0 dmr.cnhoney.com
@@ -33020,6 +33020,8 @@ ff02::3 ip6-allhosts
 :: g.tbcdn.cn
 0.0.0.0 g.vev.io
 :: g.vev.io
+0.0.0.0 g.wait.re
+:: g.wait.re
 0.0.0.0 g.wan.2345.com
 :: g.wan.2345.com
 0.0.0.0 g.wan.douyu.com
@@ -35506,6 +35508,8 @@ ff02::3 ip6-allhosts
 :: gum.dlbooks.to
 0.0.0.0 gumbolersgthb.com
 :: gumbolersgthb.com
+0.0.0.0 gumgo.cn
+:: gumgo.cn
 0.0.0.0 gumgum.com
 :: gumgum.com
 0.0.0.0 gumk.pro
@@ -42238,8 +42242,6 @@ ff02::3 ip6-allhosts
 :: jspg.cc
 0.0.0.0 jsqmt.qq.com
 :: jsqmt.qq.com
-0.0.0.0 jsr9.com
-:: jsr9.com
 0.0.0.0 jsretra.com
 :: jsretra.com
 0.0.0.0 jss.haoxyx.com
@@ -46474,6 +46476,8 @@ ff02::3 ip6-allhosts
 :: lwhsdfc.cn
 0.0.0.0 lwmwrsfzm.com
 :: lwmwrsfzm.com
+0.0.0.0 lwsxrphion.com
+:: lwsxrphion.com
 0.0.0.0 lwxjg.com
 :: lwxjg.com
 0.0.0.0 lwxlsj.wap.xsbiquge.com
@@ -52116,6 +52120,8 @@ ff02::3 ip6-allhosts
 :: nativendo.de
 0.0.0.0 nativepu.sh
 :: nativepu.sh
+0.0.0.0 nativerent.ru
+:: nativerent.ru
 0.0.0.0 nativeroll.tv
 :: nativeroll.tv
 0.0.0.0 nativery.com
@@ -60712,6 +60718,8 @@ ff02::3 ip6-allhosts
 :: pwnz.org
 0.0.0.0 pwrads.net
 :: pwrads.net
+0.0.0.0 pwrlkyotm.com
+:: pwrlkyotm.com
 0.0.0.0 px.adhigh.net
 :: px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
@@ -68482,6 +68490,8 @@ ff02::3 ip6-allhosts
 :: smart-digital-solutions.com
 0.0.0.0 smart-ip.net
 :: smart-ip.net
+0.0.0.0 smart-redirecting.com
+:: smart-redirecting.com
 0.0.0.0 smart-traffik.com
 :: smart-traffik.com
 0.0.0.0 smart-way2.com.cn
@@ -75756,6 +75766,8 @@ ff02::3 ip6-allhosts
 :: traceybell.co.uk
 0.0.0.0 track-east.mobileadtrading.com
 :: track-east.mobileadtrading.com
+0.0.0.0 track-mixer.ru
+:: track-mixer.ru
 0.0.0.0 track-re01.com
 :: track-re01.com
 0.0.0.0 track-server-100.com
@@ -76064,6 +76076,8 @@ ff02::3 ip6-allhosts
 :: trackaffpix.com
 0.0.0.0 trackalyzer.com
 :: trackalyzer.com
+0.0.0.0 trackboxx.info
+:: trackboxx.info
 0.0.0.0 trackcb.com
 :: trackcb.com
 0.0.0.0 trackcommon.hujiang.com
@@ -82472,6 +82486,8 @@ ff02::3 ip6-allhosts
 :: whistlingenrapturereprint.com
 0.0.0.0 whiteboxdigital.ru
 :: whiteboxdigital.ru
+0.0.0.0 whiteclick.biz
+:: whiteclick.biz
 0.0.0.0 whitective.club
 :: whitective.club
 0.0.0.0 whitehalfabrr.club
@@ -88146,6 +88162,8 @@ ff02::3 ip6-allhosts
 :: yes-messenger.com
 0.0.0.0 yes1.feng.com
 :: yes1.feng.com
+0.0.0.0 yes999.cf
+:: yes999.cf
 0.0.0.0 yes999.ga
 :: yes999.ga
 0.0.0.0 yes999.ml
@@ -88866,6 +88884,8 @@ ff02::3 ip6-allhosts
 :: ytxuslppbj.com
 0.0.0.0 ytybl.com
 :: ytybl.com
+0.0.0.0 ytymetuw.xyz
+:: ytymetuw.xyz
 0.0.0.0 yu0123456.com
 :: yu0123456.com
 0.0.0.0 yu6v3nhnsl.com
