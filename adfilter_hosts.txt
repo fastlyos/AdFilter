@@ -1,11 +1,11 @@
-# Checksum: MTYwNTE3MTgxOQo=
+# Checksum: MTYwNTE4MjY0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201112-3
-# TimeUpdated: 2020-11-12T09:03:39+00:00
+# Version: 1.6.6-20201112-4
+# TimeUpdated: 2020-11-12T12:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45044
+# Total: 45043
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5828,8 +5828,6 @@ ff02::3 ip6-allhosts
 :: adclicks.io
 0.0.0.0 adclickxpress.com
 :: adclickxpress.com
-0.0.0.0 adclient.uimserv.net
-:: adclient.uimserv.net
 0.0.0.0 adclient.vietnamnetjsc.vn
 :: adclient.vietnamnetjsc.vn
 0.0.0.0 adclock.zdworks.com
@@ -11994,8 +11992,6 @@ ff02::3 ip6-allhosts
 :: arcadechain.com
 0.0.0.0 arcadeweb.com
 :: arcadeweb.com
-0.0.0.0 arcadianis.pro
-:: arcadianis.pro
 0.0.0.0 archbushes.com
 :: archbushes.com
 0.0.0.0 archhandlingperpetrate.com
@@ -13580,8 +13576,6 @@ ff02::3 ip6-allhosts
 :: baifen.music.baidu.com
 0.0.0.0 baifendian.com
 :: baifendian.com
-0.0.0.0 baigm.com
-:: baigm.com
 0.0.0.0 baihuiad.com
 :: baihuiad.com
 0.0.0.0 baike.biz
@@ -31220,6 +31214,8 @@ ff02::3 ip6-allhosts
 :: feed111.com
 0.0.0.0 feed777.me
 :: feed777.me
+0.0.0.0 feedads.feedblitz.com
+:: feedads.feedblitz.com
 0.0.0.0 feedage.com
 :: feedage.com
 0.0.0.0 feedage.net
@@ -33806,6 +33802,8 @@ ff02::3 ip6-allhosts
 :: geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
 :: geoip.al.com
+0.0.0.0 geoip.ativo.com
+:: geoip.ativo.com
 0.0.0.0 geoip.boredpanda.com
 :: geoip.boredpanda.com
 0.0.0.0 geoip.cleveland.com
