@@ -1,11 +1,11 @@
-# Checksum: MTYwNTE4MjY0NQo=
+# Checksum: MTYwNTE5MzQ1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201112-4
-# TimeUpdated: 2020-11-12T12:04:05+00:00
+# Version: 1.6.6-20201112-5
+# TimeUpdated: 2020-11-12T15:04:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45043
+# Total: 45047
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -344,8 +344,6 @@ ff02::3 ip6-allhosts
 :: 1.feihua.com
 0.0.0.0 1.feihua.net.cn
 :: 1.feihua.net.cn
-0.0.0.0 1.glook.cn
-:: 1.glook.cn
 0.0.0.0 1.guyaheng.com
 :: 1.guyaheng.com
 0.0.0.0 1.hao123.com
@@ -852,6 +850,8 @@ ff02::3 ip6-allhosts
 :: 1b9cvfi0nwxqelxu.pro
 0.0.0.0 1bcde.com
 :: 1bcde.com
+0.0.0.0 1bestgoods.com
+:: 1bestgoods.com
 0.0.0.0 1bfc228b50a902db.com
 :: 1bfc228b50a902db.com
 0.0.0.0 1ccbt.com
@@ -2600,8 +2600,6 @@ ff02::3 ip6-allhosts
 :: 7017042b83a65ea.com
 0.0.0.0 703531862.vws.vegacdn.vn
 :: 703531862.vws.vegacdn.vn
-0.0.0.0 706529.com
-:: 706529.com
 0.0.0.0 7080555.com
 :: 7080555.com
 0.0.0.0 7089e5b41f87.com
@@ -6344,8 +6342,6 @@ ff02::3 ip6-allhosts
 :: adk.funshion.com
 0.0.0.0 adk2.com
 :: adk2.com
-0.0.0.0 adk2.net
-:: adk2.net
 0.0.0.0 adkeeker.com
 :: adkeeker.com
 0.0.0.0 adkengage.com
@@ -7736,6 +7732,8 @@ ff02::3 ip6-allhosts
 :: adservice.google.com.vn
 0.0.0.0 adservice.sigmob.cn
 :: adservice.sigmob.cn
+0.0.0.0 adservice.tohsoft.com
+:: adservice.tohsoft.com
 0.0.0.0 adservicemedia.dk
 :: adservicemedia.dk
 0.0.0.0 adserviceretry.kugou.com
@@ -9580,6 +9578,8 @@ ff02::3 ip6-allhosts
 :: ait025.analysys.cn
 0.0.0.0 ait240.analysys.cn
 :: ait240.analysys.cn
+0.0.0.0 aitaoshegnqian.cn
+:: aitaoshegnqian.cn
 0.0.0.0 aiwanma99.com
 :: aiwanma99.com
 0.0.0.0 aiwhamti.com
@@ -15802,8 +15802,6 @@ ff02::3 ip6-allhosts
 :: boffinsoft.com
 0.0.0.0 boffoadsfeeds.com
 :: boffoadsfeeds.com
-0.0.0.0 bogads.com
-:: bogads.com
 0.0.0.0 bogopo.biz
 :: bogopo.biz
 0.0.0.0 bogrodius.com
@@ -17680,6 +17678,8 @@ ff02::3 ip6-allhosts
 :: cashbeet.com
 0.0.0.0 cashbigo.com
 :: cashbigo.com
+0.0.0.0 cashburners.com
+:: cashburners.com
 0.0.0.0 cashcave.net
 :: cashcave.net
 0.0.0.0 cashcount.com
@@ -30974,6 +30974,8 @@ ff02::3 ip6-allhosts
 :: fathomseo.com
 0.0.0.0 fatisin.ru
 :: fatisin.ru
+0.0.0.0 fatrvclgpnb.com
+:: fatrvclgpnb.com
 0.0.0.0 fatwalkinger.club
 :: fatwalkinger.club
 0.0.0.0 faucet.nimiq-network.com
@@ -42112,6 +42114,8 @@ ff02::3 ip6-allhosts
 :: js4.eastmoney.com
 0.0.0.0 js4163.yongkang6.com
 :: js4163.yongkang6.com
+0.0.0.0 js4273.zhudiaosz.com
+:: js4273.zhudiaosz.com
 0.0.0.0 js436.cnbole.net
 :: js436.cnbole.net
 0.0.0.0 js4476.hongtaidichan.net
@@ -53736,6 +53740,8 @@ ff02::3 ip6-allhosts
 :: nscollectureob.info
 0.0.0.0 nscontext.com
 :: nscontext.com
+0.0.0.0 nscyklfbiymns.com
+:: nscyklfbiymns.com
 0.0.0.0 nsdfsfi1q8asdasdzz.com
 :: nsdfsfi1q8asdasdzz.com
 0.0.0.0 nsdsvc.com
@@ -54272,6 +54278,8 @@ ff02::3 ip6-allhosts
 :: ocean2.authcaptcha.com
 0.0.0.0 ocean2.directprimal.com
 :: ocean2.directprimal.com
+0.0.0.0 oceanbot-steam.com
+:: oceanbot-steam.com
 0.0.0.0 oceanwebcraft.com
 :: oceanwebcraft.com
 0.0.0.0 ocelot.studio
