@@ -1,11 +1,11 @@
-# Checksum: MTYwNTI2OTA2Mgo=
+# Checksum: MTYwNTI3OTgyMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201113-4
-# TimeUpdated: 2020-11-13T12:04:22+00:00
+# Version: 1.6.6-20201113-5
+# TimeUpdated: 2020-11-13T15:03:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45064
+# Total: 45073
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -724,6 +724,8 @@ ff02::3 ip6-allhosts
 :: 1680go.com
 0.0.0.0 1686607364.rsc.cdn77.org
 :: 1686607364.rsc.cdn77.org
+0.0.0.0 168ey.com
+:: 168ey.com
 0.0.0.0 168xiazai.com
 :: 168xiazai.com
 0.0.0.0 16yp1ji92a.com
@@ -13036,6 +13038,8 @@ ff02::3 ip6-allhosts
 :: ax.xrea.com
 0.0.0.0 ax47mp-xp-21.com
 :: ax47mp-xp-21.com
+0.0.0.0 axadaldlozmqu.com
+:: axadaldlozmqu.com
 0.0.0.0 axbet20.com
 :: axbet20.com
 0.0.0.0 axbxgg.com
@@ -18392,6 +18396,8 @@ ff02::3 ip6-allhosts
 :: cebadu.com
 0.0.0.0 ced.sascdn.com
 :: ced.sascdn.com
+0.0.0.0 cedcdoqkrjabs.com
+:: cedcdoqkrjabs.com
 0.0.0.0 cedexis.com
 :: cedexis.com
 0.0.0.0 cee1.iteye.com
@@ -24128,6 +24134,8 @@ ff02::3 ip6-allhosts
 :: daima.youbian.com
 0.0.0.0 daima.ysdui.com
 :: daima.ysdui.com
+0.0.0.0 daima.yuzhulin.com
+:: daima.yuzhulin.com
 0.0.0.0 dainaith.net
 :: dainaith.net
 0.0.0.0 daintyecstasyspleen.com
@@ -36314,6 +36322,8 @@ ff02::3 ip6-allhosts
 :: hdbaichuan.cn
 0.0.0.0 hdbcode.com
 :: hdbcode.com
+0.0.0.0 hdcqfqnn.com
+:: hdcqfqnn.com
 0.0.0.0 hdfdm.com
 :: hdfdm.com
 0.0.0.0 hdggcdn.bayimob.com
@@ -42958,6 +42968,8 @@ ff02::3 ip6-allhosts
 :: keyne-in.com.cn
 0.0.0.0 keyrolan.com
 :: keyrolan.com
+0.0.0.0 keyrun.cn
+:: keyrun.cn
 0.0.0.0 keyrunmodel.com
 :: keyrunmodel.com
 0.0.0.0 keytiles.com
@@ -78192,6 +78204,8 @@ ff02::3 ip6-allhosts
 :: ueopf.com
 0.0.0.0 ueopjincquazoo.com
 :: ueopjincquazoo.com
+0.0.0.0 uesdpbrej.com
+:: uesdpbrej.com
 0.0.0.0 uestat.video.qiyi.com
 :: uestat.video.qiyi.com
 0.0.0.0 ueuerea.com
@@ -80984,6 +80998,8 @@ ff02::3 ip6-allhosts
 :: vpkq.cn
 0.0.0.0 vpn.ch-hr12333.com
 :: vpn.ch-hr12333.com
+0.0.0.0 vpn.szdatayj.com
+:: vpn.szdatayj.com
 0.0.0.0 vpn.zhengyejixie.com
 :: vpn.zhengyejixie.com
 0.0.0.0 vpn2.beeppool.org
@@ -82746,6 +82762,8 @@ ff02::3 ip6-allhosts
 :: wignewsee.club
 0.0.0.0 wijokroa.net
 :: wijokroa.net
+0.0.0.0 wikbpyexkw.com
+:: wikbpyexkw.com
 0.0.0.0 wikevs.cn
 :: wikevs.cn
 0.0.0.0 wikia-beacon.com
