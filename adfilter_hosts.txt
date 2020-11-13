@@ -1,11 +1,11 @@
-# Checksum: MTYwNTIxNDk4NAo=
+# Checksum: MTYwNTIyNjAzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201112-7
-# TimeUpdated: 2020-11-12T21:03:04+00:00
+# Version: 1.6.6-20201113-0
+# TimeUpdated: 2020-11-13T00:07:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45062
+# Total: 45065
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -108,8 +108,6 @@ ff02::3 ip6-allhosts
 :: 02aa19117f396e9.com
 0.0.0.0 02b5da94a2bd4aea.com
 :: 02b5da94a2bd4aea.com
-0.0.0.0 03196688.com
-:: 03196688.com
 0.0.0.0 039ad0897e6da.com
 :: 039ad0897e6da.com
 0.0.0.0 0427d7.se
@@ -18796,6 +18794,8 @@ ff02::3 ip6-allhosts
 :: chenggao.cn
 0.0.0.0 chengruide.com
 :: chengruide.com
+0.0.0.0 chengzilte.top
+:: chengzilte.top
 0.0.0.0 chenshengyu.cn
 :: chenshengyu.cn
 0.0.0.0 cherriesobituary.com
@@ -72000,6 +72000,8 @@ ff02::3 ip6-allhosts
 :: sundxs.com
 0.0.0.0 sunhd.info
 :: sunhd.info
+0.0.0.0 suning.design
+:: suning.design
 0.0.0.0 sunios.de
 :: sunios.de
 0.0.0.0 sunjianhao.com
@@ -77870,6 +77872,8 @@ ff02::3 ip6-allhosts
 :: tyunderives.info
 0.0.0.0 tyxo.bg
 :: tyxo.bg
+0.0.0.0 tyyjzs.cn
+:: tyyjzs.cn
 0.0.0.0 tz-dsp.com
 :: tz-dsp.com
 0.0.0.0 tz.1688988.com
@@ -83350,6 +83354,8 @@ ff02::3 ip6-allhosts
 :: ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
 :: ws-fr-03.rocks.io
+0.0.0.0 ws-gateway.com
+:: ws-gateway.com
 0.0.0.0 ws-goguardian.pusher.com
 :: ws-goguardian.pusher.com
 0.0.0.0 ws.audioeye.com
