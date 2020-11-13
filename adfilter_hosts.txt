@@ -1,11 +1,11 @@
-# Checksum: MTYwNTI1ODIyNwo=
+# Checksum: MTYwNTI2OTA2Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201113-3
-# TimeUpdated: 2020-11-13T09:03:47+00:00
+# Version: 1.6.6-20201113-4
+# TimeUpdated: 2020-11-13T12:04:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45061
+# Total: 45064
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -13246,8 +13246,6 @@ ff02::3 ip6-allhosts
 :: b07b29ceb5c.com
 0.0.0.0 b07f916388fc6e06847.com
 :: b07f916388fc6e06847.com
-0.0.0.0 b0d3ea12ec1b93f7af9.com
-:: b0d3ea12ec1b93f7af9.com
 0.0.0.0 b0e8.com
 :: b0e8.com
 0.0.0.0 b0omr3wn6u4b.com
@@ -15384,6 +15382,8 @@ ff02::3 ip6-allhosts
 :: bjgtsh.com
 0.0.0.0 bjgztt.com
 :: bjgztt.com
+0.0.0.0 bjhengdiao.com
+:: bjhengdiao.com
 0.0.0.0 bjhjw.com.cn
 :: bjhjw.com.cn
 0.0.0.0 bjhuhangjy.com
@@ -15448,6 +15448,8 @@ ff02::3 ip6-allhosts
 :: black77854.com
 0.0.0.0 blackforce.club
 :: blackforce.club
+0.0.0.0 blackname.biz
+:: blackname.biz
 0.0.0.0 blacknessversiondan.com
 :: blacknessversiondan.com
 0.0.0.0 blackpics.net
@@ -29492,6 +29494,8 @@ ff02::3 ip6-allhosts
 :: eriesfrequen.club
 0.0.0.0 erificyggw.com
 :: erificyggw.com
+0.0.0.0 erihj.com
+:: erihj.com
 0.0.0.0 erileni.ru
 :: erileni.ru
 0.0.0.0 eringassumpt.club
@@ -44058,6 +44062,8 @@ ff02::3 ip6-allhosts
 :: lassistslegisten.info
 0.0.0.0 last2.cn
 :: last2.cn
+0.0.0.0 lataurir.com
+:: lataurir.com
 0.0.0.0 latchemt.top
 :: latchemt.top
 0.0.0.0 latest-news.life
@@ -66088,6 +66094,8 @@ ff02::3 ip6-allhosts
 :: scund.com
 0.0.0.0 scupio.com
 :: scupio.com
+0.0.0.0 scvxgm.cn
+:: scvxgm.cn
 0.0.0.0 scw.systems
 :: scw.systems
 0.0.0.0 scw0.com
@@ -81476,8 +81484,6 @@ ff02::3 ip6-allhosts
 :: wangzhan5.com
 0.0.0.0 wanhieire.com
 :: wanhieire.com
-0.0.0.0 wannuochongkong.com
-:: wannuochongkong.com
 0.0.0.0 wanpaig.4567.org
 :: wanpaig.4567.org
 0.0.0.0 wantaiss.com
