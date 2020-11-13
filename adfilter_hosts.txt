@@ -1,11 +1,11 @@
-# Checksum: MTYwNTIyNjAzMQo=
+# Checksum: MTYwNTIzNjYyMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201113-0
-# TimeUpdated: 2020-11-13T00:07:11+00:00
+# Version: 1.6.6-20201113-1
+# TimeUpdated: 2020-11-13T03:03:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45065
+# Total: 45062
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6956,8 +6956,6 @@ ff02::3 ip6-allhosts
 :: adprofy.com
 0.0.0.0 adpron.com
 :: adpron.com
-0.0.0.0 adprotected.com
-:: adprotected.com
 0.0.0.0 adprotraffic.com
 :: adprotraffic.com
 0.0.0.0 adprovi.de
@@ -17776,6 +17774,8 @@ ff02::3 ip6-allhosts
 :: cawbarthe.com
 0.0.0.0 cb-content.com
 :: cb-content.com
+0.0.0.0 cb-mms.carbuyer.co.uk
+:: cb-mms.carbuyer.co.uk
 0.0.0.0 cb.alimama.cn
 :: cb.alimama.cn
 0.0.0.0 cb.baidu.com
@@ -18794,8 +18794,6 @@ ff02::3 ip6-allhosts
 :: chenggao.cn
 0.0.0.0 chengruide.com
 :: chengruide.com
-0.0.0.0 chengzilte.top
-:: chengzilte.top
 0.0.0.0 chenshengyu.cn
 :: chenshengyu.cn
 0.0.0.0 cherriesobituary.com
@@ -18980,8 +18978,6 @@ ff02::3 ip6-allhosts
 :: chystechagre.pro
 0.0.0.0 ci-marketing.de
 :: ci-marketing.de
-0.0.0.0 ci-web.cn
-:: ci-web.cn
 0.0.0.0 cialundertain.fun
 :: cialundertain.fun
 0.0.0.0 cibleclick.com
@@ -37192,6 +37188,8 @@ ff02::3 ip6-allhosts
 :: hntymg.com
 0.0.0.0 hnwlyy.com.cn
 :: hnwlyy.com.cn
+0.0.0.0 hnxahz.com
+:: hnxahz.com
 0.0.0.0 hnxxjn.com
 :: hnxxjn.com
 0.0.0.0 hnyny.com
@@ -39126,8 +39124,6 @@ ff02::3 ip6-allhosts
 :: img1.126.net
 0.0.0.0 img1.18183.com
 :: img1.18183.com
-0.0.0.0 img1.360buyimg.com
-:: img1.360buyimg.com
 0.0.0.0 img1.biyan8.com
 :: img1.biyan8.com
 0.0.0.0 img1.ctags.net
@@ -42246,6 +42242,8 @@ ff02::3 ip6-allhosts
 :: jspg.cc
 0.0.0.0 jsqmt.qq.com
 :: jsqmt.qq.com
+0.0.0.0 jsr9.com
+:: jsr9.com
 0.0.0.0 jsretra.com
 :: jsretra.com
 0.0.0.0 jss.haoxyx.com
@@ -72000,8 +71998,6 @@ ff02::3 ip6-allhosts
 :: sundxs.com
 0.0.0.0 sunhd.info
 :: sunhd.info
-0.0.0.0 suning.design
-:: suning.design
 0.0.0.0 sunios.de
 :: sunios.de
 0.0.0.0 sunjianhao.com
@@ -80672,6 +80668,8 @@ ff02::3 ip6-allhosts
 :: viunypnvhcw.com
 0.0.0.0 viva88.com
 :: viva88.com
+0.0.0.0 vivaclix.com
+:: vivaclix.com
 0.0.0.0 vivapays.com
 :: vivapays.com
 0.0.0.0 vivdq.com
@@ -83264,8 +83262,6 @@ ff02::3 ip6-allhosts
 :: wpnjrm.com
 0.0.0.0 wpush.biz
 :: wpush.biz
-0.0.0.0 wq.360buyimg.com
-:: wq.360buyimg.com
 0.0.0.0 wqepoqpwo.bid
 :: wqepoqpwo.bid
 0.0.0.0 wqgdajjozr.com
@@ -88486,8 +88482,6 @@ ff02::3 ip6-allhosts
 :: yktd.m.cn.miaozhen.com
 0.0.0.0 yktj.yzz.cn
 :: yktj.yzz.cn
-0.0.0.0 ykugc.cp31.ott.cibntv.net
-:: ykugc.cp31.ott.cibntv.net
 0.0.0.0 ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 :: ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 0.0.0.0 yl850555.com
