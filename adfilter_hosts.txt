@@ -1,11 +1,11 @@
-# Checksum: MTYwNTI5MDYzMQo=
+# Checksum: MTYwNTMwMTM3NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201113-6
-# TimeUpdated: 2020-11-13T18:03:51+00:00
+# Version: 1.6.6-20201113-7
+# TimeUpdated: 2020-11-13T21:02:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45084
+# Total: 45085
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3034,8 +3034,6 @@ ff02::3 ip6-allhosts
 :: 86kx.com
 0.0.0.0 86pqvhdw5wpg.com
 :: 86pqvhdw5wpg.com
-0.0.0.0 86sijiachetuoyun.com
-:: 86sijiachetuoyun.com
 0.0.0.0 86up9en9vv.buzz
 :: 86up9en9vv.buzz
 0.0.0.0 87159d7b62fc885.com
@@ -32910,6 +32908,8 @@ ff02::3 ip6-allhosts
 :: fyredet.xyz
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 :: fyrsbckgi-c.global.ssl.fastly.net
+0.0.0.0 fytza.cn
+:: fytza.cn
 0.0.0.0 fz.letv.com
 :: fz.letv.com
 0.0.0.0 fz5akngy5o6r.com
@@ -37566,6 +37566,8 @@ ff02::3 ip6-allhosts
 :: howtodoblog.com
 0.0.0.0 howtubray.com
 :: howtubray.com
+0.0.0.0 hpcat.cn
+:: hpcat.cn
 0.0.0.0 hpcyk.com
 :: hpcyk.com
 0.0.0.0 hpd.baidu.com
