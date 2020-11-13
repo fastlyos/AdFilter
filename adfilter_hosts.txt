@@ -1,11 +1,11 @@
-# Checksum: MTYwNTI3OTgyMQo=
+# Checksum: MTYwNTI5MDYzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201113-5
-# TimeUpdated: 2020-11-13T15:03:41+00:00
+# Version: 1.6.6-20201113-6
+# TimeUpdated: 2020-11-13T18:03:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45073
+# Total: 45084
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -11414,6 +11414,8 @@ ff02::3 ip6-allhosts
 :: api.reon.club
 0.0.0.0 api.rnet.plus
 :: api.rnet.plus
+0.0.0.0 api.rubic.com.tr
+:: api.rubic.com.tr
 0.0.0.0 api.safedk.com
 :: api.safedk.com
 0.0.0.0 api.sdk.fmobi.cn
@@ -12264,6 +12266,8 @@ ff02::3 ip6-allhosts
 :: asdhit.com
 0.0.0.0 asdorka.com
 :: asdorka.com
+0.0.0.0 asdpoi.com
+:: asdpoi.com
 0.0.0.0 asdqweq.com
 :: asdqweq.com
 0.0.0.0 asearch.alicdn.com
@@ -26596,6 +26600,8 @@ ff02::3 ip6-allhosts
 :: down.xiazai2.net
 0.0.0.0 down.xiazaidc.com
 :: down.xiazaidc.com
+0.0.0.0 down.xiazaiyuan.net
+:: down.xiazaiyuan.net
 0.0.0.0 down1oads.com
 :: down1oads.com
 0.0.0.0 downlaod.xiaocen.com
@@ -30408,6 +30414,8 @@ ff02::3 ip6-allhosts
 :: exrmlhihaj.com
 0.0.0.0 exrtbsrv.com
 :: exrtbsrv.com
+0.0.0.0 ext-inv-cdn.presage.io
+:: ext-inv-cdn.presage.io
 0.0.0.0 ext.goguardian.com
 :: ext.goguardian.com
 0.0.0.0 ext.movixhub.com
@@ -32124,6 +32132,8 @@ ff02::3 ip6-allhosts
 :: forkchristian.com
 0.0.0.0 forkitz.com
 :: forkitz.com
+0.0.0.0 forkizata.com
+:: forkizata.com
 0.0.0.0 formalyzer.com
 :: formalyzer.com
 0.0.0.0 formany.club
@@ -37834,6 +37844,8 @@ ff02::3 ip6-allhosts
 :: humidmentioned.com
 0.0.0.0 huminfakt.ru
 :: huminfakt.ru
+0.0.0.0 hummingbird.mavencoalition.io
+:: hummingbird.mavencoalition.io
 0.0.0.0 humparsi.com
 :: humparsi.com
 0.0.0.0 humsoolt.net
@@ -38744,6 +38756,8 @@ ff02::3 ip6-allhosts
 :: ijpheyydhw1a.com
 0.0.0.0 ijrah.top
 :: ijrah.top
+0.0.0.0 ijugatdyiuwxq.com
+:: ijugatdyiuwxq.com
 0.0.0.0 ikiif.com
 :: ikiif.com
 0.0.0.0 ikikik.xyz
@@ -42968,8 +42982,6 @@ ff02::3 ip6-allhosts
 :: keyne-in.com.cn
 0.0.0.0 keyrolan.com
 :: keyrolan.com
-0.0.0.0 keyrun.cn
-:: keyrun.cn
 0.0.0.0 keyrunmodel.com
 :: keyrunmodel.com
 0.0.0.0 keytiles.com
@@ -46446,6 +46458,8 @@ ff02::3 ip6-allhosts
 :: luxadv.com
 0.0.0.0 luxcash.ru
 :: luxcash.ru
+0.0.0.0 luxins.net
+:: luxins.net
 0.0.0.0 luxlnk.com
 :: luxlnk.com
 0.0.0.0 luxoshopde.com
@@ -54846,6 +54860,8 @@ ff02::3 ip6-allhosts
 :: onderlea.info
 0.0.0.0 ondu.ru
 :: ondu.ru
+0.0.0.0 one-xjygn.world
+:: one-xjygn.world
 0.0.0.0 one.lg.ua
 :: one.lg.ua
 0.0.0.0 one88.com
@@ -55048,6 +55064,8 @@ ff02::3 ip6-allhosts
 :: ookris.oferty-kredytowe.pl
 0.0.0.0 oolufhbdabqce.com
 :: oolufhbdabqce.com
+0.0.0.0 oomyv.com
+:: oomyv.com
 0.0.0.0 ooniu.com
 :: ooniu.com
 0.0.0.0 oonnmaxhz.com
@@ -73212,6 +73230,8 @@ ff02::3 ip6-allhosts
 :: tag.sp.advertising.com
 0.0.0.0 tag.triboomedia.it
 :: tag.triboomedia.it
+0.0.0.0 tag.wknd.ai
+:: tag.wknd.ai
 0.0.0.0 tag.yourupload.com
 :: tag.yourupload.com
 0.0.0.0 tag4arm.com
@@ -88202,6 +88222,8 @@ ff02::3 ip6-allhosts
 :: yes999.cf
 0.0.0.0 yes999.ga
 :: yes999.ga
+0.0.0.0 yes999.gq
+:: yes999.gq
 0.0.0.0 yes999.ml
 :: yes999.ml
 0.0.0.0 yes999.tk
