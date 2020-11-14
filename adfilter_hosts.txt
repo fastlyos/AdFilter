@@ -1,11 +1,11 @@
-# Checksum: MTYwNTM0NDYyMAo=
+# Checksum: MTYwNTM1NTQ0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201114-3
-# TimeUpdated: 2020-11-14T09:03:40+00:00
+# Version: 1.6.6-20201114-4
+# TimeUpdated: 2020-11-14T12:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45092
+# Total: 45095
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1838,8 +1838,6 @@ ff02::3 ip6-allhosts
 :: 4736.in
 0.0.0.0 473863a8ef28.com
 :: 473863a8ef28.com
-0.0.0.0 47api.cn
-:: 47api.cn
 0.0.0.0 47f624b2e6c6072e.com
 :: 47f624b2e6c6072e.com
 0.0.0.0 47r.cn
@@ -14956,6 +14954,8 @@ ff02::3 ip6-allhosts
 :: bfe4e6d364be199.com
 0.0.0.0 bfgg365.com
 :: bfgg365.com
+0.0.0.0 bfjwdxeakfifak.com
+:: bfjwdxeakfifak.com
 0.0.0.0 bfmio.com
 :: bfmio.com
 0.0.0.0 bfniq.theta.sogou.com
@@ -17790,6 +17790,8 @@ ff02::3 ip6-allhosts
 :: cavewaxmalt.com
 0.0.0.0 cawbarthe.com
 :: cawbarthe.com
+0.0.0.0 caxiqapecuop.com
+:: caxiqapecuop.com
 0.0.0.0 cb-content.com
 :: cb-content.com
 0.0.0.0 cb-mms.carbuyer.co.uk
@@ -21724,6 +21726,8 @@ ff02::3 ip6-allhosts
 :: countino.de
 0.0.0.0 countit.ch
 :: countit.ch
+0.0.0.0 countly.stackvaults.com
+:: countly.stackvaults.com
 0.0.0.0 countnow.de
 :: countnow.de
 0.0.0.0 counto.de
@@ -55752,6 +55756,8 @@ ff02::3 ip6-allhosts
 :: owajgovpu.com
 0.0.0.0 owap.su
 :: owap.su
+0.0.0.0 owdojmypl.com
+:: owdojmypl.com
 0.0.0.0 owebmoney.ru
 :: owebmoney.ru
 0.0.0.0 owedinternslt.space
