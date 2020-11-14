@@ -1,11 +1,11 @@
-! Checksum: MTYwNTM1NTQ0NQo=
+! Checksum: MTYwNTM2NjE5OQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.6-20201114-4
-! TimeUpdated: 2020-11-14T12:04:05+00:00
+! Version: 1.6.6-20201114-5
+! TimeUpdated: 2020-11-14T15:03:19+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 45095
+! Total: 45096
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -397,6 +397,7 @@
 |188xiaoba.net^
 |189zj.cn^
 |18av.mm-cg.co^
+|18clicks.com^
 |18dusun.com^
 |18mad.com^
 |18naked.com^
@@ -2404,7 +2405,6 @@
 |ad-g.doubleclick.net^
 |ad-gbn.com^
 |ad-goi.com^
-|ad-hits.de^
 |ad-indicator.com^
 |ad-locus.com^
 |ad-log.dable.io^
@@ -7028,7 +7028,6 @@
 |baztrack.com^
 |bb.tuku.cc^
 |bb1429.com^
-|bb1acb0ea5ddb1fed8.com^
 |bb2.ifeng.com^
 |bb475d71fa0b1b2.com^
 |bbcc.yxlady.com^
@@ -16540,7 +16539,6 @@
 |g.x.evolife.cn^
 |g.xywy.com^
 |g.yccdn.com^
-|g.youyou234.com^
 |g.zx-jsp.com^
 |g0b2rzzyu87s.com^
 |g1.08160.cn^
@@ -21884,6 +21882,7 @@
 |kz.mieyisi.com^
 |kz.zf678.com^
 |kz.zzkoubei.com^
+|kzbiz.co^
 |kzmipklxanggf.com^
 |kzsha.com^
 |kzws02uffs.com^
@@ -27036,6 +27035,7 @@
 |ny8yoo2ro5aa.com^
 |nyacampwk.com^
 |nyadmcncserve-05y06a.com^
+|nybsqmqbycmtid.com^
 |nychemicallun.fun^
 |nycp-hlb.dvgtm.akadns.net^
 |nydjsm.cn^
@@ -33186,6 +33186,7 @@
 |sdycd.com^
 |sdytsh.com^
 |se.360.cn^
+|se967.com^
 |sea-nov-1.com^
 |sea.cryptaloot.pro^
 |sea.directprimal.com^
