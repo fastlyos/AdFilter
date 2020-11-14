@@ -1,11 +1,11 @@
-# Checksum: MTYwNTMwMTM3NQo=
+# Checksum: MTYwNTMxMjQxOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201113-7
-# TimeUpdated: 2020-11-13T21:02:55+00:00
+# Version: 1.6.6-20201114-0
+# TimeUpdated: 2020-11-14T00:06:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45085
+# Total: 45089
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -10260,6 +10260,8 @@ ff02::3 ip6-allhosts
 :: analy.qq.com
 0.0.0.0 analy.tuniu.cn
 :: analy.tuniu.cn
+0.0.0.0 analyse.bcovery.com
+:: analyse.bcovery.com
 0.0.0.0 analyse.weather.com.cn
 :: analyse.weather.com.cn
 0.0.0.0 analysis.120ask.com
@@ -56912,6 +56914,8 @@ ff02::3 ip6-allhosts
 :: pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 :: pebed.dm.gg
+0.0.0.0 pebwjgvxpnxsch.com
+:: pebwjgvxpnxsch.com
 0.0.0.0 pebx.pl
 :: pebx.pl
 0.0.0.0 pecash.com
@@ -60754,6 +60758,8 @@ ff02::3 ip6-allhosts
 :: pw.cnzz.com
 0.0.0.0 pw.gigazine.net
 :: pw.gigazine.net
+0.0.0.0 pw.lpsxssm.com
+:: pw.lpsxssm.com
 0.0.0.0 pwa.telephoneannuaire.fr
 :: pwa.telephoneannuaire.fr
 0.0.0.0 pweaatek.com
@@ -70242,6 +70248,8 @@ ff02::3 ip6-allhosts
 :: st.astraone.io
 0.0.0.0 st.cdnco.us
 :: st.cdnco.us
+0.0.0.0 st.holalauncher.com
+:: st.holalauncher.com
 0.0.0.0 st.holaworld.cn
 :: st.holaworld.cn
 0.0.0.0 st.ipornia.com
