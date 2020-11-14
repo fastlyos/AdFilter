@@ -1,11 +1,11 @@
-# Checksum: MTYwNTMzMzgxNwo=
+# Checksum: MTYwNTM0NDYyMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201114-2
-# TimeUpdated: 2020-11-14T06:03:37+00:00
+# Version: 1.6.6-20201114-3
+# TimeUpdated: 2020-11-14T09:03:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45121
+# Total: 45092
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -96,8 +96,6 @@ ff02::3 ip6-allhosts
 :: 020wujin.cn
 0.0.0.0 022aifang.com
 :: 022aifang.com
-0.0.0.0 023hysj.com
-:: 023hysj.com
 0.0.0.0 025suyu.com
 :: 025suyu.com
 0.0.0.0 027whht.com
@@ -812,8 +810,6 @@ ff02::3 ip6-allhosts
 :: 18tzx.com
 0.0.0.0 1904fa460e12a2.com
 :: 1904fa460e12a2.com
-0.0.0.0 19086a38727f.com
-:: 19086a38727f.com
 0.0.0.0 1933000.com
 :: 1933000.com
 0.0.0.0 1955dcb2fee1a13.com
@@ -872,8 +868,6 @@ ff02::3 ip6-allhosts
 :: 1empiredirect.com
 0.0.0.0 1ex4oemg99mv.com
 :: 1ex4oemg99mv.com
-0.0.0.0 1f2fbfdb08772f.com
-:: 1f2fbfdb08772f.com
 0.0.0.0 1f58098dd54.com
 :: 1f58098dd54.com
 0.0.0.0 1f7de8569ea97f0614.com
@@ -1282,8 +1276,6 @@ ff02::3 ip6-allhosts
 :: 2f3.555b2b.com
 0.0.0.0 2f5a1f1fab21a56.com
 :: 2f5a1f1fab21a56.com
-0.0.0.0 2fca2fdee31.com
-:: 2fca2fdee31.com
 0.0.0.0 2g6gj3aojcrj.com
 :: 2g6gj3aojcrj.com
 0.0.0.0 2giga.download
@@ -1658,8 +1650,6 @@ ff02::3 ip6-allhosts
 :: 3dqiang.com
 0.0.0.0 3dstats.com
 :: 3dstats.com
-0.0.0.0 3e35c218b3d623dde.com
-:: 3e35c218b3d623dde.com
 0.0.0.0 3e61gdwn1r.com
 :: 3e61gdwn1r.com
 0.0.0.0 3f32172d509aeb0.com
@@ -1762,8 +1752,6 @@ ff02::3 ip6-allhosts
 :: 40ceexln7929.com
 0.0.0.0 40nuggets.com
 :: 40nuggets.com
-0.0.0.0 410886a0d98cf.com
-:: 410886a0d98cf.com
 0.0.0.0 4141d006e4f4dd17ab9.com
 :: 4141d006e4f4dd17ab9.com
 0.0.0.0 4171764.fls.doubleclick.net
@@ -1806,8 +1794,6 @@ ff02::3 ip6-allhosts
 :: 43242.zh1144.com
 0.0.0.0 43d6f284d10bfbbb3.com
 :: 43d6f284d10bfbbb3.com
-0.0.0.0 43e6c30abcff9.com
-:: 43e6c30abcff9.com
 0.0.0.0 43gw.cn
 :: 43gw.cn
 0.0.0.0 43plc.com
@@ -1852,6 +1838,8 @@ ff02::3 ip6-allhosts
 :: 4736.in
 0.0.0.0 473863a8ef28.com
 :: 473863a8ef28.com
+0.0.0.0 47api.cn
+:: 47api.cn
 0.0.0.0 47f624b2e6c6072e.com
 :: 47f624b2e6c6072e.com
 0.0.0.0 47r.cn
@@ -2962,8 +2950,6 @@ ff02::3 ip6-allhosts
 :: 8131.qizhihaotian.cn
 0.0.0.0 8132.qizhihaotian.cn
 :: 8132.qizhihaotian.cn
-0.0.0.0 8158ad2ee8d4.com
-:: 8158ad2ee8d4.com
 0.0.0.0 815e8fa24ebb8686.com
 :: 815e8fa24ebb8686.com
 0.0.0.0 815ff.com
@@ -3452,8 +3438,6 @@ ff02::3 ip6-allhosts
 :: 9a505e446b3cbc49ba0.com
 0.0.0.0 9a6wb.cn
 :: 9a6wb.cn
-0.0.0.0 9a7ed1aa344.com
-:: 9a7ed1aa344.com
 0.0.0.0 9ads.mobi
 :: 9ads.mobi
 0.0.0.0 9ads.net
@@ -3486,8 +3470,6 @@ ff02::3 ip6-allhosts
 :: 9d7in.cn
 0.0.0.0 9dc93a7c1dd.com
 :: 9dc93a7c1dd.com
-0.0.0.0 9dc9ece33bd4.com
-:: 9dc9ece33bd4.com
 0.0.0.0 9df4mz2kpm.com
 :: 9df4mz2kpm.com
 0.0.0.0 9dmnv9z0gtoh.com
@@ -4054,8 +4036,6 @@ ff02::3 ip6-allhosts
 :: a337b163a0bc.com
 0.0.0.0 a33bb68b84b.com
 :: a33bb68b84b.com
-0.0.0.0 a353364ec1bd19a.com
-:: a353364ec1bd19a.com
 0.0.0.0 a35c92d96766745.com
 :: a35c92d96766745.com
 0.0.0.0 a3761801a40c59b48.com
@@ -5642,8 +5622,6 @@ ff02::3 ip6-allhosts
 :: adbard.net
 0.0.0.0 adbd.liuxue86.com
 :: adbd.liuxue86.com
-0.0.0.0 adbe0806d1108c94bca.com
-:: adbe0806d1108c94bca.com
 0.0.0.0 adbean.ru
 :: adbean.ru
 0.0.0.0 adbehavior.ximalaya.com
@@ -8924,16 +8902,12 @@ ff02::3 ip6-allhosts
 :: aeon.hashvault.pro
 0.0.0.0 aeoprw.cn
 :: aeoprw.cn
-0.0.0.0 aeqirelle.com
-:: aeqirelle.com
 0.0.0.0 aero.bankofamerica.com
 :: aero.bankofamerica.com
 0.0.0.0 aerontre.com
 :: aerontre.com
 0.0.0.0 aeros01.tk
 :: aeros01.tk
-0.0.0.0 aeros06.tk
-:: aeros06.tk
 0.0.0.0 aerserv.com
 :: aerserv.com
 0.0.0.0 aes01.com
@@ -13944,8 +13918,6 @@ ff02::3 ip6-allhosts
 :: banstat.nadavi.net
 0.0.0.0 bantex.ru
 :: bantex.ru
-0.0.0.0 banzaiadv.it
-:: banzaiadv.it
 0.0.0.0 baobaoshiye.com.cn
 :: baobaoshiye.com.cn
 0.0.0.0 baodaozhan.cn
@@ -15036,8 +15008,6 @@ ff02::3 ip6-allhosts
 :: bhgjeg42572.dcghp.top
 0.0.0.0 bhgjeg42572.wofbw.top
 :: bhgjeg42572.wofbw.top
-0.0.0.0 bhjhijisulwl.com
-:: bhjhijisulwl.com
 0.0.0.0 bhs4.com
 :: bhs4.com
 0.0.0.0 bhu9.bankia.es
@@ -15534,8 +15504,6 @@ ff02::3 ip6-allhosts
 :: blessingpudding.com
 0.0.0.0 bleua.ecefibwja.xyz
 :: bleua.ecefibwja.xyz
-0.0.0.0 blhjbepkhmuunbjxmidaq.com
-:: blhjbepkhmuunbjxmidaq.com
 0.0.0.0 bliink.io
 :: bliink.io
 0.0.0.0 blinkadr.com
@@ -15826,8 +15794,6 @@ ff02::3 ip6-allhosts
 :: bobo.163.com
 0.0.0.0 bobo.com
 :: bobo.com
-0.0.0.0 bobotune.com
-:: bobotune.com
 0.0.0.0 bobrilla.com
 :: bobrilla.com
 0.0.0.0 bocpqkpmez.com
@@ -17850,8 +17816,6 @@ ff02::3 ip6-allhosts
 :: cbanners.virtuagirlhd.com
 0.0.0.0 cbbvi.com
 :: cbbvi.com
-0.0.0.0 cbce0c01b63399.com
-:: cbce0c01b63399.com
 0.0.0.0 cbclickbank.com
 :: cbclickbank.com
 0.0.0.0 cbdm.weathercn.com
@@ -18456,8 +18420,6 @@ ff02::3 ip6-allhosts
 :: ceeglagu.net
 0.0.0.0 ceeglousaud.com
 :: ceeglousaud.com
-0.0.0.0 ceegruty.com
-:: ceegruty.com
 0.0.0.0 ceehimur.uk
 :: ceehimur.uk
 0.0.0.0 ceepq.com
@@ -19698,8 +19660,6 @@ ff02::3 ip6-allhosts
 :: clickwedkeys.com
 0.0.0.0 clickwinks.com
 :: clickwinks.com
-0.0.0.0 clickwith.bi
-:: clickwith.bi
 0.0.0.0 clickx.autohome.com.cn
 :: clickx.autohome.com.cn
 0.0.0.0 clickx.io
@@ -28844,8 +28804,6 @@ ff02::3 ip6-allhosts
 :: elitsearch.com
 0.0.0.0 elivescousingcr.info
 :: elivescousingcr.info
-0.0.0.0 elizabethtonunionhall.com
-:: elizabethtonunionhall.com
 0.0.0.0 elizabledy.club
 :: elizabledy.club
 0.0.0.0 elkbahtax.com
@@ -28950,8 +28908,6 @@ ff02::3 ip6-allhosts
 :: emediate.se
 0.0.0.0 emediatrack.com
 :: emediatrack.com
-0.0.0.0 emeighglenellen.com
-:: emeighglenellen.com
 0.0.0.0 emembersm.site
 :: emembersm.site
 0.0.0.0 ememoricane.info
@@ -31152,8 +31108,6 @@ ff02::3 ip6-allhosts
 :: fc2b9b7ce3165.com
 0.0.0.0 fc3tn.baidu.com
 :: fc3tn.baidu.com
-0.0.0.0 fc455c6ee5.com
-:: fc455c6ee5.com
 0.0.0.0 fc5tn.baidu.com
 :: fc5tn.baidu.com
 0.0.0.0 fcaot.com
@@ -37630,8 +37584,6 @@ ff02::3 ip6-allhosts
 :: hpr.outbrain.com
 0.0.0.0 hprofits.com
 :: hprofits.com
-0.0.0.0 hpu37n7z.top
-:: hpu37n7z.top
 0.0.0.0 hpuknttzl.com
 :: hpuknttzl.com
 0.0.0.0 hpwdohgicpmi.com
@@ -38570,6 +38522,8 @@ ff02::3 ip6-allhosts
 :: idm.bce.baidu.com
 0.0.0.0 idmchina.net
 :: idmchina.net
+0.0.0.0 idmfdmoli.com
+:: idmfdmoli.com
 0.0.0.0 idntfy.ru
 :: idntfy.ru
 0.0.0.0 idoc58.com
@@ -38842,8 +38796,6 @@ ff02::3 ip6-allhosts
 :: iklanumum.com
 0.0.0.0 iklmgdsfnajmoy.com
 :: iklmgdsfnajmoy.com
-0.0.0.0 ikoh6ie.top
-:: ikoh6ie.top
 0.0.0.0 ikuailian.com
 :: ikuailian.com
 0.0.0.0 ikunselt.com
@@ -42294,8 +42246,6 @@ ff02::3 ip6-allhosts
 :: jsfeedget.com
 0.0.0.0 jsfuz.com
 :: jsfuz.com
-0.0.0.0 jshosting.racing
-:: jshosting.racing
 0.0.0.0 jsinfo.net
 :: jsinfo.net
 0.0.0.0 jsjs.jbzj.com
@@ -43688,8 +43638,6 @@ ff02::3 ip6-allhosts
 :: kuguopush.com
 0.0.0.0 kuheju.com
 :: kuheju.com
-0.0.0.0 kuhls2ao.top
-:: kuhls2ao.top
 0.0.0.0 kujpycorr.com
 :: kujpycorr.com
 0.0.0.0 kuk8.com
@@ -44078,8 +44026,6 @@ ff02::3 ip6-allhosts
 :: langlishmal.club
 0.0.0.0 langren85.com
 :: langren85.com
-0.0.0.0 langtrydelaplaine.com
-:: langtrydelaplaine.com
 0.0.0.0 languagelake.com
 :: languagelake.com
 0.0.0.0 lanistaconcepts.com
@@ -45414,8 +45360,6 @@ ff02::3 ip6-allhosts
 :: lm1.wzpcw.com
 0.0.0.0 lmdknj.xsbiquge.com
 :: lmdknj.xsbiquge.com
-0.0.0.0 lmejuamdbtwc.com
-:: lmejuamdbtwc.com
 0.0.0.0 lmepskqkrrya.com
 :: lmepskqkrrya.com
 0.0.0.0 lmn-pou-win.com
@@ -46450,8 +46394,6 @@ ff02::3 ip6-allhosts
 :: luhtb.top
 0.0.0.0 luisardo.com
 :: luisardo.com
-0.0.0.0 lukaglex.com
-:: lukaglex.com
 0.0.0.0 lukpush.com
 :: lukpush.com
 0.0.0.0 lulpolopolo.com
@@ -49720,8 +49662,6 @@ ff02::3 ip6-allhosts
 :: midinfo.baofeng.com
 0.0.0.0 miduoke.net
 :: miduoke.net
-0.0.0.0 miegpokitjxm.com
-:: miegpokitjxm.com
 0.0.0.0 mieru-ca.com
 :: mieru-ca.com
 0.0.0.0 mig.str.mdt.qq.com
@@ -52366,6 +52306,8 @@ ff02::3 ip6-allhosts
 :: nctionclarkingcu.fun
 0.0.0.0 nctrk.abmail.com.br
 :: nctrk.abmail.com.br
+0.0.0.0 ncvperjurh.com
+:: ncvperjurh.com
 0.0.0.0 ncwckj.com
 :: ncwckj.com
 0.0.0.0 ncx2.voyage-prive.it
