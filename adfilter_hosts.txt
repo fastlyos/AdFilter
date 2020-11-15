@@ -1,11 +1,11 @@
-# Checksum: MTYwNTQyMDIxOQo=
+# Checksum: MTYwNTQzMDk5OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201115-2
-# TimeUpdated: 2020-11-15T06:03:39+00:00
+# Version: 1.6.6-20201115-3
+# TimeUpdated: 2020-11-15T09:03:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45117
+# Total: 45122
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1020,8 +1020,6 @@ ff02::3 ip6-allhosts
 :: 201071.com
 0.0.0.0 2012.8684.com
 :: 2012.8684.com
-0.0.0.0 2012ui.com
-:: 2012ui.com
 0.0.0.0 2013sh.com
 :: 2013sh.com
 0.0.0.0 2016.sina.cn
@@ -13084,6 +13082,8 @@ ff02::3 ip6-allhosts
 :: ayads.co
 0.0.0.0 ayandns.com
 :: ayandns.com
+0.0.0.0 ayazstuzc.com
+:: ayazstuzc.com
 0.0.0.0 ayboll.com
 :: ayboll.com
 0.0.0.0 ayc0zsm69431gfebd.info
@@ -20266,6 +20266,8 @@ ff02::3 ip6-allhosts
 :: coads.akipress.org
 0.0.0.0 coatfood.com
 :: coatfood.com
+0.0.0.0 coatobpljh.com
+:: coatobpljh.com
 0.0.0.0 coaturgle.info
 :: coaturgle.info
 0.0.0.0 coazuthu.net
@@ -28546,8 +28548,6 @@ ff02::3 ip6-allhosts
 :: efd3b86a5fbddda.com
 0.0.0.0 efe25.t7wl8.cn
 :: efe25.t7wl8.cn
-0.0.0.0 efe9838bf0.com
-:: efe9838bf0.com
 0.0.0.0 eff.inte.sogou.com
 :: eff.inte.sogou.com
 0.0.0.0 eff.lu.sogou.com
@@ -30516,6 +30516,8 @@ ff02::3 ip6-allhosts
 :: eyewonder.com
 0.0.0.0 eyhempsedinte.info
 :: eyhempsedinte.info
+0.0.0.0 eympwecfhxy.com
+:: eympwecfhxy.com
 0.0.0.0 eyouv.cn
 :: eyouv.cn
 0.0.0.0 eyzu80g9xcxa.com
@@ -38812,6 +38814,8 @@ ff02::3 ip6-allhosts
 :: ikunselt.com
 0.0.0.0 ikwauek.com
 :: ikwauek.com
+0.0.0.0 ikwxqqaduybfnv.com
+:: ikwxqqaduybfnv.com
 0.0.0.0 iky.sinabuy.cn
 :: iky.sinabuy.cn
 0.0.0.0 ikyzcnyqkzctm.com
@@ -53722,6 +53726,8 @@ ff02::3 ip6-allhosts
 :: nqrkzcd7ixwr.com
 0.0.0.0 nqslmtuswqdz.com
 :: nqslmtuswqdz.com
+0.0.0.0 nqtqrnfzvp.com
+:: nqtqrnfzvp.com
 0.0.0.0 nqtxg.xyz
 :: nqtxg.xyz
 0.0.0.0 nr1234.com
@@ -74632,8 +74638,6 @@ ff02::3 ip6-allhosts
 :: thongke99.baogiaothong.vn
 0.0.0.0 thoodsoy.net
 :: thoodsoy.net
-0.0.0.0 thoojoub.com
-:: thoojoub.com
 0.0.0.0 thookour.com
 :: thookour.com
 0.0.0.0 thoonsie.click
@@ -77918,8 +77922,6 @@ ff02::3 ip6-allhosts
 :: twtad.com
 0.0.0.0 twzui6.com
 :: twzui6.com
-0.0.0.0 tx.lwinl.com
-:: tx.lwinl.com
 0.0.0.0 tx2.ru
 :: tx2.ru
 0.0.0.0 tx7xcmf.wang
@@ -77972,6 +77974,8 @@ ff02::3 ip6-allhosts
 :: typiol.com
 0.0.0.0 tyranprototypeoats.com
 :: tyranprototypeoats.com
+0.0.0.0 tyrghj.cn
+:: tyrghj.cn
 0.0.0.0 tyroo.com
 :: tyroo.com
 0.0.0.0 tytx.m.cn.miaozhen.com
@@ -79476,6 +79480,8 @@ ff02::3 ip6-allhosts
 :: uxrjdh.com
 0.0.0.0 uxusheppared.club
 :: uxusheppared.club
+0.0.0.0 uxzcwowjd.com
+:: uxzcwowjd.com
 0.0.0.0 uyhlpmehm.com
 :: uyhlpmehm.com
 0.0.0.0 uymjbn.com
@@ -86850,6 +86856,8 @@ ff02::3 ip6-allhosts
 :: wyxcb1.top
 0.0.0.0 wyxcb3.top
 :: wyxcb3.top
+0.0.0.0 wyxcb6.top
+:: wyxcb6.top
 0.0.0.0 wyzq.rehuwang.com
 :: wyzq.rehuwang.com
 0.0.0.0 wz-adserver.de
@@ -87932,6 +87940,8 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 :: xy33.smallable.com
+0.0.0.0 xyad3hada.com
+:: xyad3hada.com
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xyimg.net
