@@ -1,11 +1,11 @@
-# Checksum: MTYwNTM5ODg0NQo=
+# Checksum: MTYwNTQwOTUxMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201115-0
-# TimeUpdated: 2020-11-15T00:07:25+00:00
+# Version: 1.6.6-20201115-1
+# TimeUpdated: 2020-11-15T03:05:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45105
+# Total: 45115
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -616,8 +616,6 @@ ff02::3 ip6-allhosts
 :: 123vidz.com
 0.0.0.0 1244.chushoushijian.cn
 :: 1244.chushoushijian.cn
-0.0.0.0 1298bab69bbc4.com
-:: 1298bab69bbc4.com
 0.0.0.0 12b99.com
 :: 12b99.com
 0.0.0.0 12bt.info
@@ -3384,6 +3382,8 @@ ff02::3 ip6-allhosts
 :: 979067.com
 0.0.0.0 97d73lsi.com
 :: 97d73lsi.com
+0.0.0.0 97wanle.com
+:: 97wanle.com
 0.0.0.0 9800.com
 :: 9800.com
 0.0.0.0 980th.com
@@ -9696,6 +9696,8 @@ ff02::3 ip6-allhosts
 :: aktion.esprit-club.com
 0.0.0.0 akubebas.com
 :: akubebas.com
+0.0.0.0 akuettddwkwtdx.com
+:: akuettddwkwtdx.com
 0.0.0.0 al.autohome.com.cn
 :: al.autohome.com.cn
 0.0.0.0 al.newxue.com
@@ -17592,6 +17594,8 @@ ff02::3 ip6-allhosts
 :: car.mobadme.jp
 0.0.0.0 car.qcmrjx.com
 :: car.qcmrjx.com
+0.0.0.0 car156.net
+:: car156.net
 0.0.0.0 caradstag.casa
 :: caradstag.casa
 0.0.0.0 carambo.la
@@ -18878,6 +18882,8 @@ ff02::3 ip6-allhosts
 :: chinaqirun.cn
 0.0.0.0 chinauma.net
 :: chinauma.net
+0.0.0.0 chinawms.cn
+:: chinawms.cn
 0.0.0.0 chinaxiedu.cn
 :: chinaxiedu.cn
 0.0.0.0 chinazmob.com
@@ -27158,6 +27164,8 @@ ff02::3 ip6-allhosts
 :: duomai.com
 0.0.0.0 duomeng.cn
 :: duomeng.cn
+0.0.0.0 duomeng.org
+:: duomeng.org
 0.0.0.0 duoqumanhua.com
 :: duoqumanhua.com
 0.0.0.0 duoroumao.cn
@@ -41448,6 +41456,8 @@ ff02::3 ip6-allhosts
 :: jihehuaban.com
 0.0.0.0 jiixdtavic.com
 :: jiixdtavic.com
+0.0.0.0 jilinxinfukeji.com
+:: jilinxinfukeji.com
 0.0.0.0 jiliw.com
 :: jiliw.com
 0.0.0.0 jillsclickcorner.com
@@ -41798,6 +41808,8 @@ ff02::3 ip6-allhosts
 :: jpuv.cn
 0.0.0.0 jpwy.ynp0h.cn
 :: jpwy.ynp0h.cn
+0.0.0.0 jpyoikrzrjcap.com
+:: jpyoikrzrjcap.com
 0.0.0.0 jq.a0buy.top
 :: jq.a0buy.top
 0.0.0.0 jqcdn01.herokuapp.com
@@ -77148,6 +77160,8 @@ ff02::3 ip6-allhosts
 :: trendlope.com
 0.0.0.0 trends.mobile.sina.cn
 :: trends.mobile.sina.cn
+0.0.0.0 trends.newsmaxwidget.com
+:: trends.newsmaxwidget.com
 0.0.0.0 trends.revcontent.com
 :: trends.revcontent.com
 0.0.0.0 trenpyle.com
@@ -77386,6 +77400,8 @@ ff02::3 ip6-allhosts
 :: trustaffs.com
 0.0.0.0 trustarc.com
 :: trustarc.com
+0.0.0.0 trustarc.mgr.consensu.org
+:: trustarc.mgr.consensu.org
 0.0.0.0 trusted-click-host.com
 :: trusted-click-host.com
 0.0.0.0 trustutn.org
@@ -78256,6 +78272,8 @@ ff02::3 ip6-allhosts
 :: uee.me
 0.0.0.0 ueg.cc
 :: ueg.cc
+0.0.0.0 uehequcuvujkyf.com
+:: uehequcuvujkyf.com
 0.0.0.0 uektb.com
 :: uektb.com
 0.0.0.0 uel-uel-fie.com
@@ -87904,6 +87922,8 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 :: xy33.smallable.com
+0.0.0.0 xyadtlyya.vip
+:: xyadtlyya.vip
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xyimg.net
