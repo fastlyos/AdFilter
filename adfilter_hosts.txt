@@ -1,11 +1,11 @@
-# Checksum: MTYwNTM3Njk5Nwo=
+# Checksum: MTYwNTM5ODg0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201114-6
-# TimeUpdated: 2020-11-14T18:03:17+00:00
+# Version: 1.6.6-20201115-0
+# TimeUpdated: 2020-11-15T00:07:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45102
+# Total: 45105
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1522,8 +1522,6 @@ ff02::3 ip6-allhosts
 :: 360popunder.com
 0.0.0.0 360protected.com
 :: 360protected.com
-0.0.0.0 360shopping.com.cn
-:: 360shopping.com.cn
 0.0.0.0 360tag.com
 :: 360tag.com
 0.0.0.0 360vip.front99.com
@@ -8678,8 +8676,6 @@ ff02::3 ip6-allhosts
 :: adwile.net
 0.0.0.0 adwods.com
 :: adwods.com
-0.0.0.0 adwolf.ru
-:: adwolf.ru
 0.0.0.0 adword.ge
 :: adword.ge
 0.0.0.0 adworkmedia.com
@@ -27660,6 +27656,8 @@ ff02::3 ip6-allhosts
 :: e.khuoy.com
 0.0.0.0 e.kjhfy.com
 :: e.kjhfy.com
+0.0.0.0 e.ksttwz.com
+:: e.ksttwz.com
 0.0.0.0 e.kuaishou.com
 :: e.kuaishou.com
 0.0.0.0 e.kuwoyy.com
@@ -54512,6 +54510,8 @@ ff02::3 ip6-allhosts
 :: ogleslimeexecs.casa
 0.0.0.0 ogluyourrvv.com
 :: ogluyourrvv.com
+0.0.0.0 ogmtiwxrm.com
+:: ogmtiwxrm.com
 0.0.0.0 ognybevu.com
 :: ognybevu.com
 0.0.0.0 ognyvo-topnews.ru
@@ -58512,6 +58512,8 @@ ff02::3 ip6-allhosts
 :: pol-waw-c2-s1.inf.nimiq.network
 0.0.0.0 pol-waw-c2-s2.inf.nimiq.network
 :: pol-waw-c2-s2.inf.nimiq.network
+0.0.0.0 polaccafaison.com
+:: polaccafaison.com
 0.0.0.0 polarbyte.com
 :: polarbyte.com
 0.0.0.0 polarcdn-pentos.com
@@ -71646,6 +71648,8 @@ ff02::3 ip6-allhosts
 :: stone2.directprimal.com
 0.0.0.0 stonecalcom.com
 :: stonecalcom.com
+0.0.0.0 stongpay.com
+:: stongpay.com
 0.0.0.0 stonseeb.net
 :: stonseeb.net
 0.0.0.0 stoomeddert.info
@@ -82650,6 +82654,8 @@ ff02::3 ip6-allhosts
 :: whytoss.com
 0.0.0.0 wi3brxwr2b3v.com
 :: wi3brxwr2b3v.com
+0.0.0.0 wicanwfobqiz.com
+:: wicanwfobqiz.com
 0.0.0.0 wicktrown.co
 :: wicktrown.co
 0.0.0.0 widebanner.com
