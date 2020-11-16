@@ -1,11 +1,11 @@
-# Checksum: MTYwNTUyODI2MAo=
+# Checksum: MTYwNTUzOTAzOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201116-4
-# TimeUpdated: 2020-11-16T12:04:20+00:00
+# Version: 1.6.6-20201116-5
+# TimeUpdated: 2020-11-16T15:03:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59835
+# Total: 59840
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9360,6 +9360,8 @@ ff02::3 ip6-allhosts
 :: adpic.chinadaily.com.cn
 0.0.0.0 adpick.co.kr
 :: adpick.co.kr
+0.0.0.0 adpicker.net
+:: adpicker.net
 0.0.0.0 adpies.com
 :: adpies.com
 0.0.0.0 adping.qq.com
@@ -42884,6 +42886,8 @@ ff02::3 ip6-allhosts
 :: frmsafe.com
 0.0.0.0 frodalupri.xyz
 :: frodalupri.xyz
+0.0.0.0 frogwokshive.com
+:: frogwokshive.com
 0.0.0.0 frolnk.com
 :: frolnk.com
 0.0.0.0 frolvid.ru
@@ -45922,6 +45926,8 @@ ff02::3 ip6-allhosts
 :: goodsblock.dt00.net
 0.0.0.0 goodtag.it
 :: goodtag.it
+0.0.0.0 google-analyticals.com
+:: google-analyticals.com
 0.0.0.0 google-pagerank.net
 :: google-pagerank.net
 0.0.0.0 google-pr7.de
@@ -65968,6 +65974,8 @@ ff02::3 ip6-allhosts
 :: mhogb.space
 0.0.0.0 mhorwseoai.com
 :: mhorwseoai.com
+0.0.0.0 mhub.work
+:: mhub.work
 0.0.0.0 mhuodong.elong.com
 :: mhuodong.elong.com
 0.0.0.0 mhuos.com
@@ -66522,6 +66530,8 @@ ff02::3 ip6-allhosts
 :: misslk.com
 0.0.0.0 missrich.net
 :: missrich.net
+0.0.0.0 mistletoeethicleak.com
+:: mistletoeethicleak.com
 0.0.0.0 mistressavouchdeity.com
 :: mistressavouchdeity.com
 0.0.0.0 misxgkvnlf.com
