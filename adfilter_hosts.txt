@@ -1,11 +1,11 @@
-# Checksum: MTYwNTUwNjYxOQo=
+# Checksum: MTYwNTUxNzQzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201116-2
-# TimeUpdated: 2020-11-16T06:03:39+00:00
+# Version: 1.6.6-20201116-3
+# TimeUpdated: 2020-11-16T09:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59818
+# Total: 59816
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -8942,8 +8942,6 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
-0.0.0.0 admaster.com
-:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admaster.mobi
@@ -29994,8 +29992,6 @@ ff02::3 ip6-allhosts
 :: czyiming.club
 0.0.0.0 czypiqwulod.com
 :: czypiqwulod.com
-0.0.0.0 czywssj.com
-:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -53408,6 +53404,8 @@ ff02::3 ip6-allhosts
 :: irtyd.com
 0.0.0.0 irtyf.com
 :: irtyf.com
+0.0.0.0 irtyvhrthhya.com
+:: irtyvhrthhya.com
 0.0.0.0 iruad.com
 :: iruad.com
 0.0.0.0 irxcm.com
@@ -58722,6 +58720,8 @@ ff02::3 ip6-allhosts
 :: laurel.rovicorp.com
 0.0.0.0 laustooh.com
 :: laustooh.com
+0.0.0.0 lauwhada.com
+:: lauwhada.com
 0.0.0.0 lavanetwork.net
 :: lavanetwork.net
 0.0.0.0 lawscagetroy.com
@@ -100050,8 +100050,6 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
-0.0.0.0 trade.mtime.com
-:: trade.mtime.com
 0.0.0.0 trade7.ru
 :: trade7.ru
 0.0.0.0 tradeadexchange.com
@@ -109890,14 +109888,10 @@ ff02::3 ip6-allhosts
 :: wsd.guonongllc.com
 0.0.0.0 wsds.cn
 :: wsds.cn
-0.0.0.0 wsdvs.com
-:: wsdvs.com
 0.0.0.0 wsemqlxmmhp.com
 :: wsemqlxmmhp.com
 0.0.0.0 wsgblw.com
 :: wsgblw.com
-0.0.0.0 wsglb0.com
-:: wsglb0.com
 0.0.0.0 wsgmxgtmxymwt.com
 :: wsgmxgtmxymwt.com
 0.0.0.0 wsgwc.com
@@ -118002,6 +117996,8 @@ ff02::3 ip6-allhosts
 :: z5.cnzz.com
 0.0.0.0 z501lpfg9x8v.com
 :: z501lpfg9x8v.com
+0.0.0.0 z5of63.cn
+:: z5of63.cn
 0.0.0.0 z5x.net
 :: z5x.net
 0.0.0.0 z6.cnzz.com
