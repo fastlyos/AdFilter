@@ -1,11 +1,11 @@
-# Checksum: MTYwNTYwMzgyNwo=
+# Checksum: MTYwNTYxNDY0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201117-3
-# TimeUpdated: 2020-11-17T09:03:47+00:00
+# Version: 1.6.6-20201117-4
+# TimeUpdated: 2020-11-17T12:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59749
+# Total: 59754
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -14116,6 +14116,8 @@ ff02::3 ip6-allhosts
 :: analytics.thethao247.org
 0.0.0.0 analytics.thevideo.me
 :: analytics.thevideo.me
+0.0.0.0 analytics.threedeepmarketing.com
+:: analytics.threedeepmarketing.com
 0.0.0.0 analytics.tiki.vn
 :: analytics.tiki.vn
 0.0.0.0 analytics.tiktok.com
@@ -58302,6 +58304,8 @@ ff02::3 ip6-allhosts
 :: l8ea1nesmb0e.com
 0.0.0.0 l93stb.cn
 :: l93stb.cn
+0.0.0.0 l99l.org
+:: l99l.org
 0.0.0.0 l9bdhcgihw.neihanw.com
 :: l9bdhcgihw.neihanw.com
 0.0.0.0 l9c4s.cn
@@ -77184,6 +77188,8 @@ ff02::3 ip6-allhosts
 :: plufdsb.com
 0.0.0.0 plugerr.com
 :: plugerr.com
+0.0.0.0 pluggednow.com
+:: pluggednow.com
 0.0.0.0 plugin.2easydroid.com
 :: plugin.2easydroid.com
 0.0.0.0 plugin.management
@@ -89396,6 +89402,8 @@ ff02::3 ip6-allhosts
 :: sidebar.issuu.com
 0.0.0.0 sidelinesapp.com
 :: sidelinesapp.com
+0.0.0.0 sidewaybeings.com
+:: sidewaybeings.com
 0.0.0.0 siegemeg.com
 :: siegemeg.com
 0.0.0.0 sielsmaats.com
@@ -94250,6 +94258,8 @@ ff02::3 ip6-allhosts
 :: sumo.cryptonoter.com
 0.0.0.0 sumo.hashvault.pro
 :: sumo.hashvault.pro
+0.0.0.0 sumofainstuff.com
+:: sumofainstuff.com
 0.0.0.0 sumokoin.com
 :: sumokoin.com
 0.0.0.0 sumokoin.crypto-webminer.com
