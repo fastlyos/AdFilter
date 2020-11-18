@@ -1,11 +1,11 @@
-# Checksum: MTYwNTY1ODA0MAo=
+# Checksum: MTYwNTY2ODYxNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201118-0
-# TimeUpdated: 2020-11-18T00:07:20+00:00
+# Version: 1.6.6-20201118-1
+# TimeUpdated: 2020-11-18T03:03:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59776
+# Total: 59780
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -17706,6 +17706,8 @@ ff02::3 ip6-allhosts
 :: b7nkd.cn
 0.0.0.0 b81oidrmy82w.com
 :: b81oidrmy82w.com
+0.0.0.0 b83pmp.cn
+:: b83pmp.cn
 0.0.0.0 b84pharkhv.com
 :: b84pharkhv.com
 0.0.0.0 b88c9bd1dcedfc3.com
@@ -26968,6 +26970,8 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
+0.0.0.0 codenew.kanshuhai.com
+:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -47694,6 +47698,8 @@ ff02::3 ip6-allhosts
 :: hbid.ams3.cdn.digitaloceanspaces.com
 0.0.0.0 hbihjeebhghcdeeeaef.ru
 :: hbihjeebhghcdeeeaef.ru
+0.0.0.0 hbkhqc.com
+:: hbkhqc.com
 0.0.0.0 hblanghun.cn
 :: hblanghun.cn
 0.0.0.0 hblinwei.com
@@ -89490,8 +89496,6 @@ ff02::3 ip6-allhosts
 :: sightjutfar.com
 0.0.0.0 sigmaad.com
 :: sigmaad.com
-0.0.0.0 sigmacdn.net
-:: sigmacdn.net
 0.0.0.0 signaly.co
 :: signaly.co
 0.0.0.0 signatu.com
@@ -105798,6 +105802,8 @@ ff02::3 ip6-allhosts
 :: vpwdweham.com
 0.0.0.0 vpwlynobnnqg.com
 :: vpwlynobnnqg.com
+0.0.0.0 vq7736.com
+:: vq7736.com
 0.0.0.0 vqamufkhkin.com
 :: vqamufkhkin.com
 0.0.0.0 vqc6fyl3.com
@@ -117644,6 +117650,8 @@ ff02::3 ip6-allhosts
 :: ywjsgc.com
 0.0.0.0 ywjxsp168.cn
 :: ywjxsp168.cn
+0.0.0.0 ywqpgy.com
+:: ywqpgy.com
 0.0.0.0 ywqum.cn
 :: ywqum.cn
 0.0.0.0 ywrjgzs.com
