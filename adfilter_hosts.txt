@@ -1,11 +1,11 @@
-# Checksum: MTYwNTcxMTgyNQo=
+# Checksum: MTYwNTcyMjYwOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201118-5
-# TimeUpdated: 2020-11-18T15:03:45+00:00
+# Version: 1.6.6-20201118-6
+# TimeUpdated: 2020-11-18T18:03:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59858
+# Total: 59876
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2936,6 +2936,8 @@ ff02::3 ip6-allhosts
 :: 50bang.org
 0.0.0.0 50bots.nullrefexcep.com
 :: 50bots.nullrefexcep.com
+0.0.0.0 50soc.com
+:: 50soc.com
 0.0.0.0 50trk.com
 :: 50trk.com
 0.0.0.0 50zera.com
@@ -4116,6 +4118,8 @@ ff02::3 ip6-allhosts
 :: 79cm.com
 0.0.0.0 79k52baw2qa3.com
 :: 79k52baw2qa3.com
+0.0.0.0 79lucky.com
+:: 79lucky.com
 0.0.0.0 79mob.com
 :: 79mob.com
 0.0.0.0 79t2.admaster.com.cn
@@ -12998,6 +13002,8 @@ ff02::3 ip6-allhosts
 :: aliexpress-internet.ru
 0.0.0.0 aliexpresskupit.ru
 :: aliexpresskupit.ru
+0.0.0.0 alifafdlnjeruif.com
+:: alifafdlnjeruif.com
 0.0.0.0 alifixed.cn
 :: alifixed.cn
 0.0.0.0 alightin.com
@@ -20848,6 +20854,8 @@ ff02::3 ip6-allhosts
 :: bnet.com
 0.0.0.0 bnetds.cn
 :: bnetds.cn
+0.0.0.0 bngpst.com
+:: bngpst.com
 0.0.0.0 bnhtml.com
 :: bnhtml.com
 0.0.0.0 bnielrtzc.com
@@ -26998,8 +27006,6 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
-0.0.0.0 codenew.kanshuhai.com
-:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -45616,6 +45622,8 @@ ff02::3 ip6-allhosts
 :: go.adinfuse.com
 0.0.0.0 go.admost.com
 :: go.admost.com
+0.0.0.0 go.alxbgo.com
+:: go.alxbgo.com
 0.0.0.0 go.bestmobiworld.com
 :: go.bestmobiworld.com
 0.0.0.0 go.cartstick.com
@@ -46018,6 +46026,8 @@ ff02::3 ip6-allhosts
 :: gorselcdn.com
 0.0.0.0 gorselpanel.com
 :: gorselpanel.com
+0.0.0.0 gorskprof2it8og09.com
+:: gorskprof2it8og09.com
 0.0.0.0 gos-kanal.ru
 :: gos-kanal.ru
 0.0.0.0 goshooph.com
@@ -48246,6 +48256,8 @@ ff02::3 ip6-allhosts
 :: hezibo.com
 0.0.0.0 hf18yg8q.com
 :: hf18yg8q.com
+0.0.0.0 hfajdjhicjcchhbeaeh.ru
+:: hfajdjhicjcchhbeaeh.ru
 0.0.0.0 hfc195b.com
 :: hfc195b.com
 0.0.0.0 hferzkyqt.com
@@ -60784,8 +60796,6 @@ ff02::3 ip6-allhosts
 :: log.ren.tv
 0.0.0.0 log.rutube.ru
 :: log.rutube.ru
-0.0.0.0 log.sdk.zadn.vn
-:: log.sdk.zadn.vn
 0.0.0.0 log.seekda.com
 :: log.seekda.com
 0.0.0.0 log.sggp.org.vn
@@ -69932,6 +69942,8 @@ ff02::3 ip6-allhosts
 :: netspidermm.indiatimes.com
 0.0.0.0 netstats.dk
 :: netstats.dk
+0.0.0.0 netszex.com
+:: netszex.com
 0.0.0.0 nettsl.com
 :: nettsl.com
 0.0.0.0 netupdater.info
@@ -76990,6 +77002,8 @@ ff02::3 ip6-allhosts
 :: placemypixel.com
 0.0.0.0 placeoff.ru
 :: placeoff.ru
+0.0.0.0 placidperson.com
+:: placidperson.com
 0.0.0.0 plainlycradlescalp.com
 :: plainlycradlescalp.com
 0.0.0.0 plainplayground.com
@@ -78552,6 +78566,8 @@ ff02::3 ip6-allhosts
 :: prim.dsvload.net
 0.0.0.0 primaryads.com
 :: primaryads.com
+0.0.0.0 prime-hunage.com
+:: prime-hunage.com
 0.0.0.0 prime-hunter.com
 :: prime-hunter.com
 0.0.0.0 primead.jp
@@ -83072,6 +83088,8 @@ ff02::3 ip6-allhosts
 :: regpole.com
 0.0.0.0 regressure.club
 :: regressure.club
+0.0.0.0 regularplants.com
+:: regularplants.com
 0.0.0.0 regurgical.com
 :: regurgical.com
 0.0.0.0 rehomesit.info
@@ -87534,6 +87552,8 @@ ff02::3 ip6-allhosts
 :: sdk.stats-locations.com
 0.0.0.0 sdk.tf.360.cn
 :: sdk.tf.360.cn
+0.0.0.0 sdk.zadn.vn
+:: sdk.zadn.vn
 0.0.0.0 sdk.zsdfm.com
 :: sdk.zsdfm.com
 0.0.0.0 sdk2.youguoquan.com
@@ -90890,6 +90910,10 @@ ff02::3 ip6-allhosts
 :: sockjs-goguardian.pusher.com
 0.0.0.0 socsi.in
 :: socsi.in
+0.0.0.0 socvip.com
+:: socvip.com
+0.0.0.0 socvip9.club
+:: socvip9.club
 0.0.0.0 sod.onelink.me
 :: sod.onelink.me
 0.0.0.0 sodahead.com
@@ -94614,6 +94638,8 @@ ff02::3 ip6-allhosts
 :: supplysummer.com
 0.0.0.0 supportxmr.com
 :: supportxmr.com
+0.0.0.0 supreme-hunter.com
+:: supreme-hunter.com
 0.0.0.0 supremish.club
 :: supremish.club
 0.0.0.0 supuv2.com
@@ -96102,6 +96128,8 @@ ff02::3 ip6-allhosts
 :: tangozebra.com
 0.0.0.0 tangram.e.qq.com
 :: tangram.e.qq.com
+0.0.0.0 tangsoc.com
+:: tangsoc.com
 0.0.0.0 tanidigital.com
 :: tanidigital.com
 0.0.0.0 tanit-dio.com
@@ -98158,6 +98186,8 @@ ff02::3 ip6-allhosts
 :: tk.wo685.com
 0.0.0.0 tk6if76q.ab1n.net
 :: tk6if76q.ab1n.net
+0.0.0.0 tka.tiki.vn
+:: tka.tiki.vn
 0.0.0.0 tkbo.com
 :: tkbo.com
 0.0.0.0 tkcatwalk.aotter.net
@@ -106106,6 +106136,8 @@ ff02::3 ip6-allhosts
 :: vtrtl.de
 0.0.0.0 vtvcab.xyz
 :: vtvcab.xyz
+0.0.0.0 vua1004.club
+:: vua1004.club
 0.0.0.0 vuahb.com
 :: vuahb.com
 0.0.0.0 vucovorise.com
@@ -114172,6 +114204,8 @@ ff02::3 ip6-allhosts
 :: x-tds.com
 0.0.0.0 x-traceur.com
 :: x-traceur.com
+0.0.0.0 x-value.net
+:: x-value.net
 0.0.0.0 x.120ask.com
 :: x.120ask.com
 0.0.0.0 x.55peixun.com
@@ -117414,6 +117448,8 @@ ff02::3 ip6-allhosts
 :: ypmob.com
 0.0.0.0 ypmwkketrdbwn.com
 :: ypmwkketrdbwn.com
+0.0.0.0 ypnciu.com
+:: ypnciu.com
 0.0.0.0 ypolukuxt.com
 :: ypolukuxt.com
 0.0.0.0 yppw666.cn
