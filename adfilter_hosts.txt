@@ -1,11 +1,11 @@
-# Checksum: MTYwNTc2NTg2Mgo=
+# Checksum: MTYwNTc3NjYxMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201119-2
-# TimeUpdated: 2020-11-19T06:04:22+00:00
+# Version: 1.6.6-20201119-3
+# TimeUpdated: 2020-11-19T09:03:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59952
+# Total: 59958
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9068,6 +9068,8 @@ ff02::3 ip6-allhosts
 :: admob.com
 0.0.0.0 admob.xiaomi.com
 :: admob.xiaomi.com
+0.0.0.0 admobile.top
+:: admobile.top
 0.0.0.0 admon.cn
 :: admon.cn
 0.0.0.0 admon.pro
@@ -33342,6 +33344,8 @@ ff02::3 ip6-allhosts
 :: dgpp7fq3iorb.cloudfront.net
 0.0.0.0 dgpzx.com
 :: dgpzx.com
+0.0.0.0 dgstatic.jd.com
+:: dgstatic.jd.com
 0.0.0.0 dgtauto.com
 :: dgtauto.com
 0.0.0.0 dgtmyxfuzwtr.com
@@ -46186,6 +46190,8 @@ ff02::3 ip6-allhosts
 :: goviral-content.com
 0.0.0.0 govmetric.com
 :: govmetric.com
+0.0.0.0 govzhejiang.cn
+:: govzhejiang.cn
 0.0.0.0 gowin01.com
 :: gowin01.com
 0.0.0.0 gowinxp.com
@@ -69342,6 +69348,8 @@ ff02::3 ip6-allhosts
 :: nadscdn.wuaiso.com
 0.0.0.0 nadvideo.baidu.com
 :: nadvideo.baidu.com
+0.0.0.0 nadvideo2.baidu.com
+:: nadvideo2.baidu.com
 0.0.0.0 naetoris.pw
 :: naetoris.pw
 0.0.0.0 nafgiaui.com
@@ -78668,6 +78676,8 @@ ff02::3 ip6-allhosts
 :: privacy.purch.com
 0.0.0.0 privacy.schibsted.com
 :: privacy.schibsted.com
+0.0.0.0 privacy.selbst.de
+:: privacy.selbst.de
 0.0.0.0 privacy.totaaltv.nl
 :: privacy.totaaltv.nl
 0.0.0.0 privacy4browsers.com
@@ -114526,6 +114536,8 @@ ff02::3 ip6-allhosts
 :: xay5o.toscane-boutique.fr
 0.0.0.0 xayjr.cn
 :: xayjr.cn
+0.0.0.0 xayjx.cn
+:: xayjx.cn
 0.0.0.0 xazhuozhi.com
 :: xazhuozhi.com
 0.0.0.0 xb011x.cn
