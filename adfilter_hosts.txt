@@ -1,11 +1,11 @@
-# Checksum: MTYwNTc3NjYxMQo=
+# Checksum: MTYwNTc4NzQ1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201119-3
-# TimeUpdated: 2020-11-19T09:03:31+00:00
+# Version: 1.6.6-20201119-4
+# TimeUpdated: 2020-11-19T12:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59958
+# Total: 59966
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -26462,6 +26462,8 @@ ff02::3 ip6-allhosts
 :: clx.ru
 0.0.0.0 clxgmlpfkoj.com
 :: clxgmlpfkoj.com
+0.0.0.0 clxxkz.com.cn
+:: clxxkz.com.cn
 0.0.0.0 clyilp.com
 :: clyilp.com
 0.0.0.0 clzfurcqmlgw.com
@@ -30984,6 +30986,8 @@ ff02::3 ip6-allhosts
 :: d2r3rw91i5z1w9.cloudfront.net
 0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
 :: d2r7bmv6l6bnd1.cloudfront.net
+0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
+:: d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 :: d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
@@ -54884,6 +54888,8 @@ ff02::3 ip6-allhosts
 :: jinshenglong.cn
 0.0.0.0 jinshui2018.chalook.net
 :: jinshui2018.chalook.net
+0.0.0.0 jinshzx.com
+:: jinshzx.com
 0.0.0.0 jinsoopt.net
 :: jinsoopt.net
 0.0.0.0 jintonghua.com
@@ -64202,6 +64208,8 @@ ff02::3 ip6-allhosts
 :: mailstat.us
 0.0.0.0 mailwithcash.com
 :: mailwithcash.com
+0.0.0.0 maimaias.cn
+:: maimaias.cn
 0.0.0.0 maimeehu.com
 :: maimeehu.com
 0.0.0.0 main.exdynsrv.com
@@ -71924,6 +71932,8 @@ ff02::3 ip6-allhosts
 :: nwxzs.com
 0.0.0.0 nx93f.xyz
 :: nx93f.xyz
+0.0.0.0 nxakpj4ac8gkd53.info
+:: nxakpj4ac8gkd53.info
 0.0.0.0 nxcount.com
 :: nxcount.com
 0.0.0.0 nxcxithvcoeh.com
@@ -87116,6 +87126,8 @@ ff02::3 ip6-allhosts
 :: sbenx.com
 0.0.0.0 sbfsdvc.com
 :: sbfsdvc.com
+0.0.0.0 sbgsodufuosmmvsdf.info
+:: sbgsodufuosmmvsdf.info
 0.0.0.0 sbhc.portalhc.com
 :: sbhc.portalhc.com
 0.0.0.0 sbietlbug.com
@@ -99066,6 +99078,8 @@ ff02::3 ip6-allhosts
 :: toujing4.top
 0.0.0.0 toujing5.top
 :: toujing5.top
+0.0.0.0 toujing7.top
+:: toujing7.top
 0.0.0.0 toujing8.top
 :: toujing8.top
 0.0.0.0 tour.mrskin.com
@@ -118218,6 +118232,8 @@ ff02::3 ip6-allhosts
 :: z0252.x2jpz.xyz
 0.0.0.0 z0a.de
 :: z0a.de
+0.0.0.0 z0uolej1qnxzub1.info
+:: z0uolej1qnxzub1.info
 0.0.0.0 z1.bohuaqiche.com
 :: z1.bohuaqiche.com
 0.0.0.0 z1.caiziwuyou.com
