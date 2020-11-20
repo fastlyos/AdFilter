@@ -1,11 +1,11 @@
-# Checksum: MTYwNTg4NDYzMAo=
+# Checksum: MTYwNTg5NTQxMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201120-5
-# TimeUpdated: 2020-11-20T15:03:50+00:00
+# Version: 1.6.6-20201120-6
+# TimeUpdated: 2020-11-20T18:03:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60367
+# Total: 60364
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6048,6 +6048,8 @@ ff02::3 ip6-allhosts
 :: aa53df329975c325.com
 0.0.0.0 aa808.com
 :: aa808.com
+0.0.0.0 aa88.in
+:: aa88.in
 0.0.0.0 aaa.3hgui.com
 :: aaa.3hgui.com
 0.0.0.0 aaa.tumanyi.com
@@ -11152,6 +11154,8 @@ ff02::3 ip6-allhosts
 :: adver.com.tw
 0.0.0.0 adver.qq.com
 :: adver.qq.com
+0.0.0.0 adverd.ru
+:: adverd.ru
 0.0.0.0 adverdata.net
 :: adverdata.net
 0.0.0.0 adverkeyz.com
@@ -27000,8 +27004,6 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
-0.0.0.0 codenew.kanshuhai.com
-:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -70062,6 +70064,8 @@ ff02::3 ip6-allhosts
 :: newknowledge.cn
 0.0.0.0 newloc.map.n.shifen.com
 :: newloc.map.n.shifen.com
+0.0.0.0 newlog.daidoanket.vn
+:: newlog.daidoanket.vn
 0.0.0.0 newlog.overwolf.com
 :: newlog.overwolf.com
 0.0.0.0 newlostrek.ru
@@ -78578,6 +78582,8 @@ ff02::3 ip6-allhosts
 :: privateadx.com
 0.0.0.0 privatede.top
 :: privatede.top
+0.0.0.0 privatelands.biz
+:: privatelands.biz
 0.0.0.0 privateseiten.net
 :: privateseiten.net
 0.0.0.0 privatewebseiten.com
@@ -114606,8 +114612,6 @@ ff02::3 ip6-allhosts
 :: xameleonads.com
 0.0.0.0 xamiqi.top
 :: xamiqi.top
-0.0.0.0 xamxwvtsxdva.com
-:: xamxwvtsxdva.com
 0.0.0.0 xancza.com
 :: xancza.com
 0.0.0.0 xaogi.com
@@ -114960,8 +114964,6 @@ ff02::3 ip6-allhosts
 :: xgmlmmulciz.com
 0.0.0.0 xgogi.com
 :: xgogi.com
-0.0.0.0 xgpiuhyxbevjgs.com
-:: xgpiuhyxbevjgs.com
 0.0.0.0 xgraph.net
 :: xgraph.net
 0.0.0.0 xgrwjbui.top
@@ -116466,8 +116468,6 @@ ff02::3 ip6-allhosts
 :: xzdchl.com
 0.0.0.0 xzdlleawpx.com
 :: xzdlleawpx.com
-0.0.0.0 xzfswipynyuj.com
-:: xzfswipynyuj.com
 0.0.0.0 xzipy.com
 :: xzipy.com
 0.0.0.0 xzlnews.info
@@ -118882,8 +118882,6 @@ ff02::3 ip6-allhosts
 :: zabhoggkgm.com
 0.0.0.0 zabxb.com
 :: zabxb.com
-0.0.0.0 zadhrsvmawp.com
-:: zadhrsvmawp.com
 0.0.0.0 zadhuigxoeztzo.com
 :: zadhuigxoeztzo.com
 0.0.0.0 zads.care2.com
@@ -119790,8 +119788,6 @@ ff02::3 ip6-allhosts
 :: zjs.55bbs.com
 0.0.0.0 zjsbdjkdtjzoxh.com
 :: zjsbdjkdtjzoxh.com
-0.0.0.0 zjsbeont.com
-:: zjsbeont.com
 0.0.0.0 zjsru-iweb.net
 :: zjsru-iweb.net
 0.0.0.0 zjsyawqj.cn
@@ -120202,8 +120198,6 @@ ff02::3 ip6-allhosts
 :: zreder.com
 0.0.0.0 zreluo.com
 :: zreluo.com
-0.0.0.0 zreqmcewq.com
-:: zreqmcewq.com
 0.0.0.0 zrgssannk.com
 :: zrgssannk.com
 0.0.0.0 zridsfev.com
