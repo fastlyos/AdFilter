@@ -1,11 +1,11 @@
-# Checksum: MTYwNTk4MTgwMgo=
+# Checksum: MTYwNTk5MjYxNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201121-6
-# TimeUpdated: 2020-11-21T18:03:22+00:00
+# Version: 1.6.6-20201121-7
+# TimeUpdated: 2020-11-21T21:03:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60507
+# Total: 60564
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6258,6 +6258,8 @@ ff02::3 ip6-allhosts
 :: abckzo.cn
 0.0.0.0 abcloud.cn
 :: abcloud.cn
+0.0.0.0 abcnewspro.com
+:: abcnewspro.com
 0.0.0.0 abcompteur.com
 :: abcompteur.com
 0.0.0.0 abcstats.com
@@ -6594,6 +6596,8 @@ ff02::3 ip6-allhosts
 :: achicih.gitee.io
 0.0.0.0 achig.com
 :: achig.com
+0.0.0.0 achilles-ena.com
+:: achilles-ena.com
 0.0.0.0 achinahdh.club
 :: achinahdh.club
 0.0.0.0 acidityfoamy.com
@@ -14372,6 +14376,8 @@ ff02::3 ip6-allhosts
 :: android-lrcresource.wps.cn
 0.0.0.0 android-sdk31.transpera.com
 :: android-sdk31.transpera.com
+0.0.0.0 android-win-reward.com
+:: android-win-reward.com
 0.0.0.0 android.bcfads.com
 :: android.bcfads.com
 0.0.0.0 android.push.126.net
@@ -15138,6 +15144,8 @@ ff02::3 ip6-allhosts
 :: api.rubic.com.tr
 0.0.0.0 api.safedk.com
 :: api.safedk.com
+0.0.0.0 api.savemedia.website
+:: api.savemedia.website
 0.0.0.0 api.scelsbql.cn
 :: api.scelsbql.cn
 0.0.0.0 api.sdk.fmobi.cn
@@ -23620,6 +23628,8 @@ ff02::3 ip6-allhosts
 :: catch.gift
 0.0.0.0 catchinemuj.club
 :: catchinemuj.club
+0.0.0.0 catchynews.net
+:: catchynews.net
 0.0.0.0 cathaycentury.com
 :: cathaycentury.com
 0.0.0.0 catiligh.ru
@@ -25776,6 +25786,8 @@ ff02::3 ip6-allhosts
 :: click-da-click.com
 0.0.0.0 click-linking.com
 :: click-linking.com
+0.0.0.0 click-to-win-prize.com
+:: click-to-win-prize.com
 0.0.0.0 click-url.com
 :: click-url.com
 0.0.0.0 click.abctrack.bid
@@ -27070,6 +27082,8 @@ ff02::3 ip6-allhosts
 :: codenow.cn
 0.0.0.0 codeonclick.com
 :: codeonclick.com
+0.0.0.0 coderformylife.info
+:: coderformylife.info
 0.0.0.0 coderturk.com
 :: coderturk.com
 0.0.0.0 codes.royalad.pl
@@ -37188,6 +37202,8 @@ ff02::3 ip6-allhosts
 :: easyhitcounters.com
 0.0.0.0 easyhits4u.com
 :: easyhits4u.com
+0.0.0.0 easyinformer.com
+:: easyinformer.com
 0.0.0.0 easyinline.com
 :: easyinline.com
 0.0.0.0 easykits.org
@@ -41244,6 +41260,8 @@ ff02::3 ip6-allhosts
 :: fedsit.com
 0.0.0.0 feebleshock.com
 :: feebleshock.com
+0.0.0.0 feed-6009.coderformylife.info
+:: feed-6009.coderformylife.info
 0.0.0.0 feed-ads.com
 :: feed-ads.com
 0.0.0.0 feed-image.baidu.com
@@ -41798,6 +41816,8 @@ ff02::3 ip6-allhosts
 :: fips.uimserv.net
 0.0.0.0 firaxtech.com
 :: firaxtech.com
+0.0.0.0 fire-push.net
+:: fire-push.net
 0.0.0.0 firebanner.com
 :: firebanner.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -44942,6 +44962,8 @@ ff02::3 ip6-allhosts
 :: geuniveruls.top
 0.0.0.0 geusihivdqkwzf.com
 :: geusihivdqkwzf.com
+0.0.0.0 gewrh.com
+:: gewrh.com
 0.0.0.0 gewrrpygsd.biz
 :: gewrrpygsd.biz
 0.0.0.0 gewuwen.com
@@ -52834,6 +52856,8 @@ ff02::3 ip6-allhosts
 :: inspectorstrongerpill.com
 0.0.0.0 inspikon.com
 :: inspikon.com
+0.0.0.0 inspirenews.net
+:: inspirenews.net
 0.0.0.0 insta-cash.net
 :: insta-cash.net
 0.0.0.0 instabug.com
@@ -58852,6 +58876,10 @@ ff02::3 ip6-allhosts
 :: latchemt.top
 0.0.0.0 latest-news.life
 :: latest-news.life
+0.0.0.0 latest.android-central.news
+:: latest.android-central.news
+0.0.0.0 latest.news-pro.today
+:: latest.news-pro.today
 0.0.0.0 latheendsmoo.com
 :: latheendsmoo.com
 0.0.0.0 lationwordsi.club
@@ -59668,6 +59696,8 @@ ff02::3 ip6-allhosts
 :: liaotian4.com
 0.0.0.0 liaran.top
 :: liaran.top
+0.0.0.0 liatutsch-comeceful.icu
+:: liatutsch-comeceful.icu
 0.0.0.0 lib.bmst.pw
 :: lib.bmst.pw
 0.0.0.0 lib.coin-hive.com
@@ -60528,6 +60558,8 @@ ff02::3 ip6-allhosts
 :: lmwap.awtks.com
 0.0.0.0 lmxxxz.com
 :: lmxxxz.com
+0.0.0.0 lmy.de
+:: lmy.de
 0.0.0.0 lmyiwaakn.com
 :: lmyiwaakn.com
 0.0.0.0 lmymere.info
@@ -60696,6 +60728,8 @@ ff02::3 ip6-allhosts
 :: lodddd01.info
 0.0.0.0 lodder5.biz
 :: lodder5.biz
+0.0.0.0 lodder6.biz
+:: lodder6.biz
 0.0.0.0 lode88.vip
 :: lode88.vip
 0.0.0.0 loders.club
@@ -67644,8 +67678,12 @@ ff02::3 ip6-allhosts
 :: mokonocdn.com
 0.0.0.0 mokuz.ru
 :: mokuz.ru
+0.0.0.0 mol17.biz
+:: mol17.biz
 0.0.0.0 mol18.biz
 :: mol18.biz
+0.0.0.0 mol3.biz
+:: mol3.biz
 0.0.0.0 moldyicicle.com
 :: moldyicicle.com
 0.0.0.0 molefefiseranis.ru
@@ -70286,8 +70324,20 @@ ff02::3 ip6-allhosts
 :: newpush.support
 0.0.0.0 newrrb.bid
 :: newrrb.bid
+0.0.0.0 news-back.best
+:: news-back.best
+0.0.0.0 news-back.com
+:: news-back.com
+0.0.0.0 news-back2.com
+:: news-back2.com
 0.0.0.0 news-code.com
 :: news-code.com
+0.0.0.0 news-delta.com
+:: news-delta.com
+0.0.0.0 news-easy.com
+:: news-easy.com
+0.0.0.0 news-gamma.com
+:: news-gamma.com
 0.0.0.0 news-headlines.co
 :: news-headlines.co
 0.0.0.0 news-img.51y5.net
@@ -70306,8 +70356,16 @@ ff02::3 ip6-allhosts
 :: news-log.51y5.net
 0.0.0.0 news-log.lsttnews.com
 :: news-log.lsttnews.com
+0.0.0.0 news-mars.com
+:: news-mars.com
+0.0.0.0 news-pro.net
+:: news-pro.net
+0.0.0.0 news-robot.com
+:: news-robot.com
 0.0.0.0 news-super.com
 :: news-super.com
+0.0.0.0 news-venere.com
+:: news-venere.com
 0.0.0.0 news-whistleout.s3.amazonaws.com
 :: news-whistleout.s3.amazonaws.com
 0.0.0.0 news.1ru.tv
@@ -70364,6 +70422,10 @@ ff02::3 ip6-allhosts
 :: news.trendovo.com.ua
 0.0.0.0 news.u9377w.com
 :: news.u9377w.com
+0.0.0.0 news.ueep.com
+:: news.ueep.com
+0.0.0.0 news.vuer.net
+:: news.vuer.net
 0.0.0.0 news.w9377u.com
 :: news.w9377u.com
 0.0.0.0 news.xcpi.cn
@@ -70394,6 +70456,8 @@ ff02::3 ip6-allhosts
 :: newsarmor.com
 0.0.0.0 newsatads.com
 :: newsatads.com
+0.0.0.0 newscaffe.net
+:: newscaffe.net
 0.0.0.0 newscode.online
 :: newscode.online
 0.0.0.0 newscurve.com
@@ -70426,6 +70490,8 @@ ff02::3 ip6-allhosts
 :: newsletters.vocento.com
 0.0.0.0 newsm247.online
 :: newsm247.online
+0.0.0.0 newsmagic.net
+:: newsmagic.net
 0.0.0.0 newsmaxfeednetwork.com
 :: newsmaxfeednetwork.com
 0.0.0.0 newsnet.in.ua
@@ -70478,6 +70544,8 @@ ff02::3 ip6-allhosts
 :: newsushe.info
 0.0.0.0 newsvidnews.info
 :: newsvidnews.info
+0.0.0.0 newswe.org
+:: newswe.org
 0.0.0.0 newswhip.com
 :: newswhip.com
 0.0.0.0 newswifiapi.dfshurufa.com
@@ -71392,6 +71460,8 @@ ff02::3 ip6-allhosts
 :: notification-list.com
 0.0.0.0 notification-time.com
 :: notification-time.com
+0.0.0.0 notification.best
+:: notification.best
 0.0.0.0 notification.tubecup.net
 :: notification.tubecup.net
 0.0.0.0 notificationallow.com
@@ -71404,6 +71474,10 @@ ff02::3 ip6-allhosts
 :: notifpush.com
 0.0.0.0 notify-bugs-fra1.rtl.de
 :: notify-bugs-fra1.rtl.de
+0.0.0.0 notify-guru.com
+:: notify-guru.com
+0.0.0.0 notify-master.net
+:: notify-master.net
 0.0.0.0 notify-monad.com
 :: notify-monad.com
 0.0.0.0 notify-service.com
@@ -71412,6 +71486,8 @@ ff02::3 ip6-allhosts
 :: notify.51dzt.com
 0.0.0.0 notify.hindustantimes.com
 :: notify.hindustantimes.com
+0.0.0.0 notify.premium-news.me
+:: notify.premium-news.me
 0.0.0.0 notify.rocks
 :: notify.rocks
 0.0.0.0 notify.solutions
@@ -71810,6 +71886,8 @@ ff02::3 ip6-allhosts
 :: ntsacklecre.club
 0.0.0.0 ntsartingaccura.info
 :: ntsartingaccura.info
+0.0.0.0 ntsecd.com
+:: ntsecd.com
 0.0.0.0 ntshoustee.club
 :: ntshoustee.club
 0.0.0.0 ntsimprovide.info
@@ -72056,6 +72134,8 @@ ff02::3 ip6-allhosts
 :: nydjsm.cn
 0.0.0.0 nydql.com
 :: nydql.com
+0.0.0.0 nydrctnk.com
+:: nydrctnk.com
 0.0.0.0 nyhnx.com
 :: nyhnx.com
 0.0.0.0 nyhpwuns.com
@@ -72074,6 +72154,8 @@ ff02::3 ip6-allhosts
 :: nym2-tr.adnxs.com
 0.0.0.0 nymphdate.com
 :: nymphdate.com
+0.0.0.0 nyphtrue.com
+:: nyphtrue.com
 0.0.0.0 nyrevi.ru
 :: nyrevi.ru
 0.0.0.0 nyrithenrebarro.info
@@ -76008,6 +76090,8 @@ ff02::3 ip6-allhosts
 :: personaclick.com
 0.0.0.0 personage.name
 :: personage.name
+0.0.0.0 personal-video.live
+:: personal-video.live
 0.0.0.0 personaleme.pro
 :: personaleme.pro
 0.0.0.0 personalicanvas.com
@@ -78840,8 +78924,12 @@ ff02::3 ip6-allhosts
 :: pro-advertising.com
 0.0.0.0 pro-market.net
 :: pro-market.net
+0.0.0.0 pro-news.net
+:: pro-news.net
 0.0.0.0 pro-pro-go.com
 :: pro-pro-go.com
+0.0.0.0 pro-web.net
+:: pro-web.net
 0.0.0.0 pro.cn
 :: pro.cn
 0.0.0.0 pro.heiguang.com
@@ -80056,6 +80144,8 @@ ff02::3 ip6-allhosts
 :: push.music.baidu.com
 0.0.0.0 push.neko-san.fr
 :: push.neko-san.fr
+0.0.0.0 push.news-pro.today
+:: push.news-pro.today
 0.0.0.0 push.pgl.qq.com
 :: push.pgl.qq.com
 0.0.0.0 push.qq.com
@@ -80068,6 +80158,8 @@ ff02::3 ip6-allhosts
 :: push.tv.api.3g.cp31.ott.cibntv.net
 0.0.0.0 push.tv.sohu.com
 :: push.tv.sohu.com
+0.0.0.0 push.ueep.com
+:: push.ueep.com
 0.0.0.0 push.wapx.cn
 :: push.wapx.cn
 0.0.0.0 push.world
@@ -88450,6 +88542,8 @@ ff02::3 ip6-allhosts
 :: sempcxjajh.com
 0.0.0.0 semtracker.de
 :: semtracker.de
+0.0.0.0 send-news.net
+:: send-news.net
 0.0.0.0 sendmepush.com
 :: sendmepush.com
 0.0.0.0 sendptp.com
@@ -90534,6 +90628,8 @@ ff02::3 ip6-allhosts
 :: smart-dmp.com
 0.0.0.0 smart-ip.net
 :: smart-ip.net
+0.0.0.0 smart-push.best
+:: smart-push.best
 0.0.0.0 smart-redirecting.com
 :: smart-redirecting.com
 0.0.0.0 smart-tds.info
@@ -94060,6 +94156,8 @@ ff02::3 ip6-allhosts
 :: stickssheep.com
 0.0.0.0 sticksunderpants.com
 :: sticksunderpants.com
+0.0.0.0 sticky.news
+:: sticky.news
 0.0.0.0 stickyadstv.com
 :: stickyadstv.com
 0.0.0.0 stickysheet.com
@@ -98608,6 +98706,8 @@ ff02::3 ip6-allhosts
 :: toc.io
 0.0.0.0 tocontent.net
 :: tocontent.net
+0.0.0.0 today.vuer.net
+:: today.vuer.net
 0.0.0.0 todayapp.tv
 :: todayapp.tv
 0.0.0.0 todayjiaxiang.cn
@@ -103582,6 +103682,8 @@ ff02::3 ip6-allhosts
 :: us.moneroocean.stream
 0.0.0.0 us.vortex-win.data.microsoft.com
 :: us.vortex-win.data.microsoft.com
+0.0.0.0 us.xmlppcbuzz.com
+:: us.xmlppcbuzz.com
 0.0.0.0 us.y.atwola.com
 :: us.y.atwola.com
 0.0.0.0 us1.beeppool.org
@@ -108650,6 +108752,8 @@ ff02::3 ip6-allhosts
 :: win-stock.com.cn
 0.0.0.0 win-window.win
 :: win-window.win
+0.0.0.0 win-your-prize.com
+:: win-your-prize.com
 0.0.0.0 win.gdt.qq.com
 :: win.gdt.qq.com
 0.0.0.0 win.staticstuff.net
@@ -108682,6 +108786,8 @@ ff02::3 ip6-allhosts
 :: windowmentaria.com
 0.0.0.0 windows-remora-system.com
 :: windows-remora-system.com
+0.0.0.0 windowsguidenews.com
+:: windowsguidenews.com
 0.0.0.0 windowsxi.com
 :: windowsxi.com
 0.0.0.0 winemation.info
@@ -116728,6 +116834,12 @@ ff02::3 ip6-allhosts
 :: xyy.code.weddingeeos.com
 0.0.0.0 xyz0k4gfs.xyz
 :: xyz0k4gfs.xyz
+0.0.0.0 xyznews1.today
+:: xyznews1.today
+0.0.0.0 xyznews2.today
+:: xyznews2.today
+0.0.0.0 xyznews3.today
+:: xyznews3.today
 0.0.0.0 xyztanitim.com
 :: xyztanitim.com
 0.0.0.0 xyztraffic.com
@@ -118122,6 +118234,8 @@ ff02::3 ip6-allhosts
 :: yottos.com
 0.0.0.0 you-cant-win.com
 :: you-cant-win.com
+0.0.0.0 you-just-won-prize.com
+:: you-just-won-prize.com
 0.0.0.0 you.tubetitties.com
 :: you.tubetitties.com
 0.0.0.0 you1ad.com
