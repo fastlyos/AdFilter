@@ -1,11 +1,11 @@
-# Checksum: MTYwNjAyNTA0Ngo=
+# Checksum: MTYwNjAzNTgxMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201122-2
-# TimeUpdated: 2020-11-22T06:04:06+00:00
+# Version: 1.6.6-20201122-3
+# TimeUpdated: 2020-11-22T09:03:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60379
+# Total: 60380
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -119514,6 +119514,8 @@ ff02::3 ip6-allhosts
 :: zhangyunxiawinner.top
 0.0.0.0 zhanjiangletian.com
 :: zhanjiangletian.com
+0.0.0.0 zhanlan5.cn
+:: zhanlan5.cn
 0.0.0.0 zhannei-dm.csdn.net
 :: zhannei-dm.csdn.net
 0.0.0.0 zhantai.com
