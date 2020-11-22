@@ -1,11 +1,11 @@
-# Checksum: MTYwNjAwMzY5OAo=
+# Checksum: MTYwNjAxNDIxNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201122-0
-# TimeUpdated: 2020-11-22T00:08:18+00:00
+# Version: 1.6.6-20201122-1
+# TimeUpdated: 2020-11-22T03:03:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60570
+# Total: 60580
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -708,6 +708,8 @@ ff02::3 ip6-allhosts
 :: 10cd.ru
 0.0.0.0 10clicks.com
 :: 10clicks.com
+0.0.0.0 10desires.com
+:: 10desires.com
 0.0.0.0 10fbb07a4b0.se
 :: 10fbb07a4b0.se
 0.0.0.0 10root25.website
@@ -2634,8 +2636,6 @@ ff02::3 ip6-allhosts
 :: 448ff4fcfcd199a.com
 0.0.0.0 449.anquanzhuomian.com
 :: 449.anquanzhuomian.com
-0.0.0.0 44efd35889.com
-:: 44efd35889.com
 0.0.0.0 44pv.com
 :: 44pv.com
 0.0.0.0 44q.com
@@ -17214,6 +17214,8 @@ ff02::3 ip6-allhosts
 :: awesomelytics.com
 0.0.0.0 awesomenewspush.com
 :: awesomenewspush.com
+0.0.0.0 awesomepeculiar.com
+:: awesomepeculiar.com
 0.0.0.0 awesomeredirector.com
 :: awesomeredirector.com
 0.0.0.0 awestatic.com
@@ -18556,6 +18558,8 @@ ff02::3 ip6-allhosts
 :: basildonstandard-gb.basildonstandard.co.uk
 0.0.0.0 basilic.io
 :: basilic.io
+0.0.0.0 basisendingabattoir.com
+:: basisendingabattoir.com
 0.0.0.0 basketballbelieve.com
 :: basketballbelieve.com
 0.0.0.0 baskettexture.com
@@ -22826,8 +22830,6 @@ ff02::3 ip6-allhosts
 :: c0afd4609c303.com
 0.0.0.0 c0cd2idcl5.com
 :: c0cd2idcl5.com
-0.0.0.0 c0f788d6814.com
-:: c0f788d6814.com
 0.0.0.0 c0z.xyz
 :: c0z.xyz
 0.0.0.0 c1.china.cn
@@ -24490,6 +24492,8 @@ ff02::3 ip6-allhosts
 :: cea53c4833.com
 0.0.0.0 ceafdgcdfcheibdfabf.ru
 :: ceafdgcdfcheibdfabf.ru
+0.0.0.0 ceai.xyz
+:: ceai.xyz
 0.0.0.0 ceb787297e85.com
 :: ceb787297e85.com
 0.0.0.0 cebadu.com
@@ -31492,6 +31496,8 @@ ff02::3 ip6-allhosts
 :: d41.co
 0.0.0.0 d42tbok7l2bg1.cloudfront.net
 :: d42tbok7l2bg1.cloudfront.net
+0.0.0.0 d45ec6c3a2.com
+:: d45ec6c3a2.com
 0.0.0.0 d49z64r3ud4kq.cloudfront.net
 :: d49z64r3ud4kq.cloudfront.net
 0.0.0.0 d4a77d8bc81ae17.com
@@ -37830,8 +37836,6 @@ ff02::3 ip6-allhosts
 :: efd3b86a5fbddda.com
 0.0.0.0 efe25.t7wl8.cn
 :: efe25.t7wl8.cn
-0.0.0.0 efe9838bf0.com
-:: efe9838bf0.com
 0.0.0.0 eff.inte.sogou.com
 :: eff.inte.sogou.com
 0.0.0.0 eff.lu.sogou.com
@@ -46984,8 +46988,6 @@ ff02::3 ip6-allhosts
 :: gvesgrun.online
 0.0.0.0 gvisit.com
 :: gvisit.com
-0.0.0.0 gw.365you.com
-:: gw.365you.com
 0.0.0.0 gw.d.ywopt.com
 :: gw.d.ywopt.com
 0.0.0.0 gw069.com
@@ -47780,6 +47782,8 @@ ff02::3 ip6-allhosts
 :: hauchi.com.tw
 0.0.0.0 hauglees.net
 :: hauglees.net
+0.0.0.0 haunigre.net
+:: haunigre.net
 0.0.0.0 hauphaun.net
 :: hauphaun.net
 0.0.0.0 haupsoti.net
@@ -60054,6 +60058,8 @@ ff02::3 ip6-allhosts
 :: linkredirect.biz
 0.0.0.0 linkreferral.com
 :: linkreferral.com
+0.0.0.0 links-and-traffic.com
+:: links-and-traffic.com
 0.0.0.0 links-wm.ru
 :: links-wm.ru
 0.0.0.0 links.boom.ge
@@ -60424,6 +60430,8 @@ ff02::3 ip6-allhosts
 :: lkjdwmhuqxupef.com
 0.0.0.0 lkme.cc
 :: lkme.cc
+0.0.0.0 lknbffkv.com
+:: lknbffkv.com
 0.0.0.0 lkohqfilvpked.com
 :: lkohqfilvpked.com
 0.0.0.0 lkqd.net
@@ -75272,6 +75280,8 @@ ff02::3 ip6-allhosts
 :: paripartner.com
 0.0.0.0 paripartners.online
 :: paripartners.online
+0.0.0.0 paripartners.ru
+:: paripartners.ru
 0.0.0.0 paris01.monero.hashvault.pro
 :: paris01.monero.hashvault.pro
 0.0.0.0 park.realadev.ru
@@ -78122,6 +78132,8 @@ ff02::3 ip6-allhosts
 :: popuble.pro
 0.0.0.0 popularmedia.net
 :: popularmedia.net
+0.0.0.0 populateplungesupermarket.com
+:: populateplungesupermarket.com
 0.0.0.0 populationparts.com
 :: populationparts.com
 0.0.0.0 populis.com
@@ -91982,6 +91994,8 @@ ff02::3 ip6-allhosts
 :: spidtest.org
 0.0.0.0 spiffymachine.com
 :: spiffymachine.com
+0.0.0.0 spillsackterrified.com
+:: spillsackterrified.com
 0.0.0.0 spinbox.freedom.com
 :: spinbox.freedom.com
 0.0.0.0 spinbox.net
@@ -94630,6 +94644,8 @@ ff02::3 ip6-allhosts
 :: subtraxion.com
 0.0.0.0 suburbglaze.com
 :: suburbglaze.com
+0.0.0.0 subwayjelly.com
+:: subwayjelly.com
 0.0.0.0 succeedscene.com
 :: succeedscene.com
 0.0.0.0 successageq.site
@@ -105382,6 +105398,8 @@ ff02::3 ip6-allhosts
 :: videostat.meta.ua
 0.0.0.0 videostats.kakao.com
 :: videostats.kakao.com
+0.0.0.0 videosubsi.fun
+:: videosubsi.fun
 0.0.0.0 videosynd.kataweb.it
 :: videosynd.kataweb.it
 0.0.0.0 videotapespecialize.com
@@ -120520,6 +120538,8 @@ ff02::3 ip6-allhosts
 :: zpaanftgs.com
 0.0.0.0 zpaimilpqx.com
 :: zpaimilpqx.com
+0.0.0.0 zpdsbqsauipde.com
+:: zpdsbqsauipde.com
 0.0.0.0 zpe.klre.18183.com
 :: zpe.klre.18183.com
 0.0.0.0 zpiqwngppibmf.com
