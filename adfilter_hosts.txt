@@ -1,11 +1,11 @@
-# Checksum: MTYwNjE0MzgxNwo=
+# Checksum: MTYwNjE1NDYzNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201123-5
-# TimeUpdated: 2020-11-23T15:03:37+00:00
+# Version: 1.6.6-20201123-6
+# TimeUpdated: 2020-11-23T18:03:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60134
+# Total: 60158
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1136,6 +1136,8 @@ ff02::3 ip6-allhosts
 :: 177o.com
 0.0.0.0 177tvbxs.com
 :: 177tvbxs.com
+0.0.0.0 1784tli497ys.com
+:: 1784tli497ys.com
 0.0.0.0 178bx.cn
 :: 178bx.cn
 0.0.0.0 178gg.com
@@ -5194,6 +5196,10 @@ ff02::3 ip6-allhosts
 :: a-ads.com
 0.0.0.0 a-affiliate.net
 :: a-affiliate.net
+0.0.0.0 a-calc.com
+:: a-calc.com
+0.0.0.0 a-calc.de
+:: a-calc.de
 0.0.0.0 a-cast.jp
 :: a-cast.jp
 0.0.0.0 a-cn.duoyi.com
@@ -19414,6 +19420,8 @@ ff02::3 ip6-allhosts
 :: bekannt-im-web.de
 0.0.0.0 belamicash.com
 :: belamicash.com
+0.0.0.0 belaya2shu1ba1.com
+:: belaya2shu1ba1.com
 0.0.0.0 belazyelephant.com
 :: belazyelephant.com
 0.0.0.0 belboon.de
@@ -20258,10 +20266,20 @@ ff02::3 ip6-allhosts
 :: bitcoadz.io
 0.0.0.0 bitcoadz.pw
 :: bitcoadz.pw
+0.0.0.0 bitcoin-cashcard.com
+:: bitcoin-cashcard.com
+0.0.0.0 bitcoin-cashcard.de
+:: bitcoin-cashcard.de
+0.0.0.0 bitcoin-cashcard.eu
+:: bitcoin-cashcard.eu
 0.0.0.0 bitcoin-news.vip
 :: bitcoin-news.vip
 0.0.0.0 bitcoin-pay.eu
 :: bitcoin-pay.eu
+0.0.0.0 bitcoin-pocket.de
+:: bitcoin-pocket.de
+0.0.0.0 bitcoin-pocket.eu
+:: bitcoin-pocket.eu
 0.0.0.0 bitcoinadvertisers.com
 :: bitcoinadvertisers.com
 0.0.0.0 bitcoiner.win
@@ -21660,6 +21678,8 @@ ff02::3 ip6-allhosts
 :: brysj.vip
 0.0.0.0 brznetwork.com
 :: brznetwork.com
+0.0.0.0 bs-dante.ru
+:: bs-dante.ru
 0.0.0.0 bs.commontools.net
 :: bs.commontools.net
 0.0.0.0 bs.csshq.com.cn
@@ -21948,6 +21968,8 @@ ff02::3 ip6-allhosts
 :: bullhouse.network
 0.0.0.0 bulls.nimiqpool.com
 :: bulls.nimiqpool.com
+0.0.0.0 bulovuni.pro
+:: bulovuni.pro
 0.0.0.0 bultenler.klscdn.com
 :: bultenler.klscdn.com
 0.0.0.0 bultigho.net
@@ -27028,8 +27050,6 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
-0.0.0.0 codenew.kanshuhai.com
-:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -27596,6 +27616,8 @@ ff02::3 ip6-allhosts
 :: conf.xdrig.com
 0.0.0.0 conf.xiniuz.com
 :: conf.xiniuz.com
+0.0.0.0 confesschairs.com
+:: confesschairs.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 :: confiant-integrations.global.ssl.fastly.net
 0.0.0.0 confiant.msn.com
@@ -34732,6 +34754,8 @@ ff02::3 ip6-allhosts
 :: donreach.com
 0.0.0.0 dontaxoaf.com
 :: dontaxoaf.com
+0.0.0.0 dontbeevils.de
+:: dontbeevils.de
 0.0.0.0 dontblockme.modaco.com
 :: dontblockme.modaco.com
 0.0.0.0 dontibar.com
@@ -39356,6 +39380,14 @@ ff02::3 ip6-allhosts
 :: eth-pocket.eu
 0.0.0.0 etherealhakai.com
 :: etherealhakai.com
+0.0.0.0 ethereum-cashcard.com
+:: ethereum-cashcard.com
+0.0.0.0 ethereum-cashcard.de
+:: ethereum-cashcard.de
+0.0.0.0 ethereum-cashcard.eu
+:: ethereum-cashcard.eu
+0.0.0.0 ethereum-pocket.com
+:: ethereum-pocket.com
 0.0.0.0 ethereum-pocket.de
 :: ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
@@ -61712,6 +61744,8 @@ ff02::3 ip6-allhosts
 :: lusrg.cn
 0.0.0.0 lustigbanner.com
 :: lustigbanner.com
+0.0.0.0 lustmanicureput.com
+:: lustmanicureput.com
 0.0.0.0 lustresoonerrecalled.com
 :: lustresoonerrecalled.com
 0.0.0.0 lutachechu.pro
@@ -83452,6 +83486,8 @@ ff02::3 ip6-allhosts
 :: reoxclick.com
 0.0.0.0 rep0pkgr.com
 :: rep0pkgr.com
+0.0.0.0 repairedtightslavishness.com
+:: repairedtightslavishness.com
 0.0.0.0 repaynik.com
 :: repaynik.com
 0.0.0.0 repbowdew.com
@@ -90218,6 +90254,8 @@ ff02::3 ip6-allhosts
 :: skidl.ru
 0.0.0.0 skinected.com
 :: skinected.com
+0.0.0.0 skinkexchange.com
+:: skinkexchange.com
 0.0.0.0 skjdtkoqlvrhcn.com
 :: skjdtkoqlvrhcn.com
 0.0.0.0 skkybrought.pro
@@ -101048,6 +101086,10 @@ ff02::3 ip6-allhosts
 :: trustclick.ne.jp
 0.0.0.0 trusted-click-host.com
 :: trusted-click-host.com
+0.0.0.0 trustiseverything.de
+:: trustiseverything.de
+0.0.0.0 trustmeiamapro.de
+:: trustmeiamapro.de
 0.0.0.0 trustutn.org
 :: trustutn.org
 0.0.0.0 trustx.org
@@ -104016,6 +104058,8 @@ ff02::3 ip6-allhosts
 :: uzvqrimq.com
 0.0.0.0 uzyid.cn
 :: uzyid.cn
+0.0.0.0 v-collector.dp.aws.charter.com
+:: v-collector.dp.aws.charter.com
 0.0.0.0 v-links.net
 :: v-links.net
 0.0.0.0 v-pack.net
@@ -108010,6 +108054,8 @@ ff02::3 ip6-allhosts
 :: wgwguxqij.com
 0.0.0.0 wgxuexjrvo.com
 :: wgxuexjrvo.com
+0.0.0.0 wh.giftd.tech
+:: wh.giftd.tech
 0.0.0.0 wh5kb0u4.com
 :: wh5kb0u4.com
 0.0.0.0 whackedmedia.com
@@ -108166,6 +108212,8 @@ ff02::3 ip6-allhosts
 :: whittlecdn.xyz
 0.0.0.0 whitwise.com
 :: whitwise.com
+0.0.0.0 whixekica.pro
+:: whixekica.pro
 0.0.0.0 whixochyxy.pro
 :: whixochyxy.pro
 0.0.0.0 whizstats.com
