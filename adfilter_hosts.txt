@@ -1,11 +1,11 @@
-# Checksum: MTYwNjIxOTQ1Nwo=
+# Checksum: MTYwNjIzMDIxOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201124-4
-# TimeUpdated: 2020-11-24T12:04:17+00:00
+# Version: 1.6.6-20201124-5
+# TimeUpdated: 2020-11-24T15:03:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60127
+# Total: 60131
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -27070,6 +27070,8 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
+0.0.0.0 codenew.kanshuhai.com
+:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -52432,6 +52434,8 @@ ff02::3 ip6-allhosts
 :: indicative.com
 0.0.0.0 indicia.com
 :: indicia.com
+0.0.0.0 indictmentchurchill.com
+:: indictmentchurchill.com
 0.0.0.0 indiebuff.cn
 :: indiebuff.cn
 0.0.0.0 indieclick.3janecdn.com
@@ -115540,8 +115544,12 @@ ff02::3 ip6-allhosts
 :: xlnuj.com
 0.0.0.0 xlog-va.musical.ly
 :: xlog-va.musical.ly
+0.0.0.0 xlog-va.tiktokv.com
+:: xlog-va.tiktokv.com
 0.0.0.0 xlog.snssdk.com
 :: xlog.snssdk.com
+0.0.0.0 xlog.tiktokv.com
+:: xlog.tiktokv.com
 0.0.0.0 xlounge.ru
 :: xlounge.ru
 0.0.0.0 xlovecam.com
