@@ -1,11 +1,11 @@
-# Checksum: MTYwNjE5NzkwNQo=
+# Checksum: MTYwNjIxOTQ1Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201124-2
-# TimeUpdated: 2020-11-24T06:05:05+00:00
+# Version: 1.6.6-20201124-4
+# TimeUpdated: 2020-11-24T12:04:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60124
+# Total: 60127
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -20976,6 +20976,8 @@ ff02::3 ip6-allhosts
 :: boahwswzuebmmg.com
 0.0.0.0 boajagoar.com
 :: boajagoar.com
+0.0.0.0 boaphaps.net
+:: boaphaps.net
 0.0.0.0 boardinaccuratecompulsion.com
 :: boardinaccuratecompulsion.com
 0.0.0.0 boardx.huanqiu.com
@@ -93748,6 +93750,8 @@ ff02::3 ip6-allhosts
 :: stats.harpercollins.com
 0.0.0.0 stats.heyoya.com
 :: stats.heyoya.com
+0.0.0.0 stats.hfet.org
+:: stats.hfet.org
 0.0.0.0 stats.highwire.com
 :: stats.highwire.com
 0.0.0.0 stats.hprofits.com
@@ -104722,6 +104726,8 @@ ff02::3 ip6-allhosts
 :: vast.videocdn.tv
 0.0.0.0 vast4.kinogo.by
 :: vast4.kinogo.by
+0.0.0.0 vast4.kinogo.la
+:: vast4.kinogo.la
 0.0.0.0 vastroll.ru
 :: vastroll.ru
 0.0.0.0 vastserved.com
