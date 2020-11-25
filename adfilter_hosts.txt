@@ -1,11 +1,11 @@
-# Checksum: MTYwNjMwNTg3OAo=
+# Checksum: MTYwNjMxNjY0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201125-4
-# TimeUpdated: 2020-11-25T12:04:38+00:00
+# Version: 1.6.6-20201125-5
+# TimeUpdated: 2020-11-25T15:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59969
+# Total: 59970
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -27042,8 +27042,6 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
-0.0.0.0 codenew.kanshuhai.com
-:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -97040,6 +97038,8 @@ ff02::3 ip6-allhosts
 :: telemetry.swe.quicinc.com
 0.0.0.0 telemetry.swiftkey.com
 :: telemetry.swiftkey.com
+0.0.0.0 telemetry.tableausoftware.com
+:: telemetry.tableausoftware.com
 0.0.0.0 telemetry.tradingview.com
 :: telemetry.tradingview.com
 0.0.0.0 telemetry.urs.microsoft.com
@@ -99496,6 +99496,8 @@ ff02::3 ip6-allhosts
 :: track.dragonparking.com
 0.0.0.0 track.e7r.com.br
 :: track.e7r.com.br
+0.0.0.0 track.eadv.it
+:: track.eadv.it
 0.0.0.0 track.easeus.com
 :: track.easeus.com
 0.0.0.0 track.edu-info.jp
