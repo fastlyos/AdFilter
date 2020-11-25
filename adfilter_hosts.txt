@@ -1,11 +1,11 @@
-# Checksum: MTYwNjMxNjY0Ngo=
+# Checksum: MTYwNjMyNzQ1NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201125-5
-# TimeUpdated: 2020-11-25T15:04:06+00:00
+# Version: 1.6.6-20201125-6
+# TimeUpdated: 2020-11-25T18:04:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59970
+# Total: 59979
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5462,8 +5462,6 @@ ff02::3 ip6-allhosts
 :: a.mayakinfo.ru
 0.0.0.0 a.mct01.com
 :: a.mct01.com
-0.0.0.0 a.medialaancdn.be
-:: a.medialaancdn.be
 0.0.0.0 a.medialytics.com
 :: a.medialytics.com
 0.0.0.0 a.mfcad.net
@@ -5916,6 +5914,8 @@ ff02::3 ip6-allhosts
 :: a4g.com
 0.0.0.0 a4mt150303tl.com
 :: a4mt150303tl.com
+0.0.0.0 a4st.club
+:: a4st.club
 0.0.0.0 a5.yeshj.com
 :: a5.yeshj.com
 0.0.0.0 a5020fec1701e9f3.com
@@ -18212,8 +18212,6 @@ ff02::3 ip6-allhosts
 :: banner.kanald.com.tr
 0.0.0.0 banner.kiev.ua
 :: banner.kiev.ua
-0.0.0.0 banner.klikklik.nl
-:: banner.klikklik.nl
 0.0.0.0 banner.lbs.km.ru
 :: banner.lbs.km.ru
 0.0.0.0 banner.maido3.com
@@ -18370,10 +18368,6 @@ ff02::3 ip6-allhosts
 :: banners.tempobet.com
 0.0.0.0 banners.todoconsolas.com
 :: banners.todoconsolas.com
-0.0.0.0 banners.toeto.com
-:: banners.toeto.com
-0.0.0.0 banners.utilo.nl
-:: banners.utilo.nl
 0.0.0.0 banners.videosecrets.com
 :: banners.videosecrets.com
 0.0.0.0 banners.videosz.com
@@ -20902,8 +20896,6 @@ ff02::3 ip6-allhosts
 :: bnqfbcnzdt.com
 0.0.0.0 bnqt.com
 :: bnqt.com
-0.0.0.0 bnr.agf.nl
-:: bnr.agf.nl
 0.0.0.0 bnr.alza.cz
 :: bnr.alza.cz
 0.0.0.0 bnr.playmagazines.com
@@ -20926,6 +20918,8 @@ ff02::3 ip6-allhosts
 :: bnsjb1ab1e.com
 0.0.0.0 bnspx.com
 :: bnspx.com
+0.0.0.0 bnster.com
+:: bnster.com
 0.0.0.0 bnstero.com
 :: bnstero.com
 0.0.0.0 bnstnhto.com
@@ -21178,6 +21172,8 @@ ff02::3 ip6-allhosts
 :: borazita.com
 0.0.0.0 bordeded.pro
 :: bordeded.pro
+0.0.0.0 borderbrush.com
+:: borderbrush.com
 0.0.0.0 boredborder.com
 :: boredborder.com
 0.0.0.0 boredcrown.com
@@ -25048,6 +25044,8 @@ ff02::3 ip6-allhosts
 :: chenzx.site
 0.0.0.0 cheqzone.com
 :: cheqzone.com
+0.0.0.0 cherniy2sviter11j.com
+:: cherniy2sviter11j.com
 0.0.0.0 cherriesobituary.com
 :: cherriesobituary.com
 0.0.0.0 chersc.com
@@ -33928,6 +33926,8 @@ ff02::3 ip6-allhosts
 :: districtm.io
 0.0.0.0 distrikerkvazar.site
 :: distrikerkvazar.site
+0.0.0.0 disturbedquiet.com
+:: disturbedquiet.com
 0.0.0.0 dit-dit-dot.com
 :: dit-dit-dot.com
 0.0.0.0 dita6jhhqwoiz.cloudfront.net
@@ -38544,6 +38544,8 @@ ff02::3 ip6-allhosts
 :: enohb.com
 0.0.0.0 enormitteen.pro
 :: enormitteen.pro
+0.0.0.0 enormousearth.com
+:: enormousearth.com
 0.0.0.0 enormouslyauditorium.com
 :: enormouslyauditorium.com
 0.0.0.0 enot.k-yroky.ru
@@ -44054,8 +44056,6 @@ ff02::3 ip6-allhosts
 :: gan.doubleclick.net
 0.0.0.0 gan.wavecdn.net
 :: gan.wavecdn.net
-0.0.0.0 ganaar.gertibaldi.com
-:: ganaar.gertibaldi.com
 0.0.0.0 ganardineroreal.com
 :: ganardineroreal.com
 0.0.0.0 ganboo.com
@@ -44876,6 +44876,8 @@ ff02::3 ip6-allhosts
 :: getui.net
 0.0.0.0 getuplinks.ru
 :: getuplinks.ru
+0.0.0.0 getviously.com
+:: getviously.com
 0.0.0.0 getxml.org
 :: getxml.org
 0.0.0.0 geuniveruls.top
@@ -46678,6 +46680,8 @@ ff02::3 ip6-allhosts
 :: gstralpolita.info
 0.0.0.0 gsvyjunccsw.com
 :: gsvyjunccsw.com
+0.0.0.0 gswtol.com
+:: gswtol.com
 0.0.0.0 gsycdb.com
 :: gsycdb.com
 0.0.0.0 gsycl.top
@@ -49074,6 +49078,8 @@ ff02::3 ip6-allhosts
 :: hoarseremainedlisp.com
 0.0.0.0 hoawhaum.net
 :: hoawhaum.net
+0.0.0.0 hobbi.xyz
+:: hobbi.xyz
 0.0.0.0 hobfadbig.com
 :: hobfadbig.com
 0.0.0.0 hobsboilslamed.com
@@ -66186,6 +66192,8 @@ ff02::3 ip6-allhosts
 :: mig8vn.com
 0.0.0.0 migatesbala.fun
 :: migatesbala.fun
+0.0.0.0 migayush2lam1pa1.com
+:: migayush2lam1pa1.com
 0.0.0.0 mighbest.host
 :: mighbest.host
 0.0.0.0 mighbest.pw
@@ -67740,8 +67748,6 @@ ff02::3 ip6-allhosts
 :: moogle.ru
 0.0.0.0 moogos.com
 :: moogos.com
-0.0.0.0 mooieplaatjes.bierdopje.com
-:: mooieplaatjes.bierdopje.com
 0.0.0.0 mookie1.com
 :: mookie1.com
 0.0.0.0 moolkv.cn
@@ -73630,6 +73636,8 @@ ff02::3 ip6-allhosts
 :: opsoomet.net
 0.0.0.0 opsooque.com
 :: opsooque.com
+0.0.0.0 opstag.com
+:: opstag.com
 0.0.0.0 opt-intelligence.com
 :: opt-intelligence.com
 0.0.0.0 opt-n.net
@@ -75946,6 +75954,8 @@ ff02::3 ip6-allhosts
 :: perk0mean.com
 0.0.0.0 perkcanada.com
 :: perkcanada.com
+0.0.0.0 perljs.com
+:: perljs.com
 0.0.0.0 permato.com
 :: permato.com
 0.0.0.0 permenor.xyz
@@ -86682,6 +86692,8 @@ ff02::3 ip6-allhosts
 :: sabin.free.fr
 0.0.0.0 sablesmile.com
 :: sablesmile.com
+0.0.0.0 sablesong.com
+:: sablesong.com
 0.0.0.0 sabs-push.xyz
 :: sabs-push.xyz
 0.0.0.0 sacaharag.club
@@ -87122,6 +87134,8 @@ ff02::3 ip6-allhosts
 :: sayfibhat.club
 0.0.0.0 sayhi.360.cn
 :: sayhi.360.cn
+0.0.0.0 sayhinews.com
+:: sayhinews.com
 0.0.0.0 saymedia.com
 :: saymedia.com
 0.0.0.0 saysidewalk.com
@@ -88000,6 +88014,8 @@ ff02::3 ip6-allhosts
 :: secure.statcounter.com
 0.0.0.0 secure.trust-guard.com
 :: secure.trust-guard.com
+0.0.0.0 secureaddisplay.com
+:: secureaddisplay.com
 0.0.0.0 secureanalytic.com
 :: secureanalytic.com
 0.0.0.0 secureboom.net
@@ -88638,6 +88654,8 @@ ff02::3 ip6-allhosts
 :: servedbyadbutler.com
 0.0.0.0 servedbyopenx.com
 :: servedbyopenx.com
+0.0.0.0 servedbysmart.com
+:: servedbysmart.com
 0.0.0.0 servehub.info
 :: servehub.info
 0.0.0.0 servemeads.com
