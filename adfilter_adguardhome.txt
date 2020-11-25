@@ -1,11 +1,11 @@
-! Checksum: MTYwNjI5NTA0Mgo=
+! Checksum: MTYwNjMwNTg3OAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.6-20201125-3
-! TimeUpdated: 2020-11-25T09:04:02+00:00
+! Version: 1.6.6-20201125-4
+! TimeUpdated: 2020-11-25T12:04:38+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 59961
+! Total: 59969
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |00-gov.cn^
@@ -923,6 +923,7 @@
 |2f.com^
 |2f3.555b2b.com^
 |2f5a1f1fab21a56.com^
+|2fuc4clr7gvcn.cloudfront.net^
 |2fx32.cn^
 |2g2h.com^
 |2g6gj3aojcrj.com^
@@ -13518,6 +13519,7 @@
 |codefund.io^
 |codejumps.com^
 |codemylife.info^
+|codenew.kanshuhai.com^
 |codenow.cn^
 |codeonclick.com^
 |coderformylife.info^
@@ -15644,6 +15646,7 @@
 |d3ithbwcmjcxl7.cloudfront.net^
 |d3iz6lralvg77g.cloudfront.net^
 |d3j1weegxvu8ns.cloudfront.net^
+|d3j3yrurxcqogk.cloudfront.net^
 |d3jnni91martf0.cloudfront.net^
 |d3jw53rnbzs7gr.cloudfront.net^
 |d3k5fl0ycdyj0l.cloudfront.net^
@@ -25112,6 +25115,7 @@
 |hzlsghfoqsvawe.com^
 |hzmiyou.cn^
 |hznvtg.com^
+|hzqzxf.com^
 |hzs10.cnzz.com^
 |hzs12.cnzz.com^
 |hzs13.cnzz.com^
@@ -26884,6 +26888,7 @@
 |ivbifyia.com^
 |ivcbrasil.org.br^
 |ivetki.ru^
+|ivfihumeajjmbc.com^
 |ivhnnw.com^
 |ivhqsuhrqvhlke.com^
 |ivitrack.com^
@@ -39255,6 +39260,7 @@
 |prd-collector-anon-video.playbuzz.com^
 |prd-collector-anon.ex.co^
 |prd-collector-anon.playbuzz.com^
+|prd-collector-auth.playbuzz.com^
 |prdele.eu^
 |pre.glotgrx.com^
 |pre.ra.icast.cn^
@@ -46234,6 +46240,7 @@
 |ssp.otm-r.com^
 |ssp.pro.cn^
 |ssp.tadseeker.com^
+|ssp.tencentmusic.com^
 |ssp.tenmax.io^
 |ssp.xiaomi.com^
 |ssp.youxiaoad.com^
@@ -48068,6 +48075,7 @@
 |tagon.co^
 |tags.bluekai.com^
 |tags.cdn.circlesix.co^
+|tags.creativille.co.uk^
 |tags.growingio.com^
 |tags.master-perf-tools.com^
 |tags.msnbc.com^

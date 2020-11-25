@@ -1,11 +1,11 @@
-# Checksum: MTYwNjI5NTA0Mgo=
+# Checksum: MTYwNjMwNTg3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201125-3
-# TimeUpdated: 2020-11-25T09:04:02+00:00
+# Version: 1.6.6-20201125-4
+# TimeUpdated: 2020-11-25T12:04:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59961
+# Total: 59969
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1850,6 +1850,8 @@ ff02::3 ip6-allhosts
 :: 2f3.555b2b.com
 0.0.0.0 2f5a1f1fab21a56.com
 :: 2f5a1f1fab21a56.com
+0.0.0.0 2fuc4clr7gvcn.cloudfront.net
+:: 2fuc4clr7gvcn.cloudfront.net
 0.0.0.0 2fx32.cn
 :: 2fx32.cn
 0.0.0.0 2g2h.com
@@ -27040,6 +27042,8 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
+0.0.0.0 codenew.kanshuhai.com
+:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -31292,6 +31296,8 @@ ff02::3 ip6-allhosts
 :: d3iz6lralvg77g.cloudfront.net
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 :: d3j1weegxvu8ns.cloudfront.net
+0.0.0.0 d3j3yrurxcqogk.cloudfront.net
+:: d3j3yrurxcqogk.cloudfront.net
 0.0.0.0 d3jnni91martf0.cloudfront.net
 :: d3jnni91martf0.cloudfront.net
 0.0.0.0 d3jw53rnbzs7gr.cloudfront.net
@@ -50228,6 +50234,8 @@ ff02::3 ip6-allhosts
 :: hzmiyou.cn
 0.0.0.0 hznvtg.com
 :: hznvtg.com
+0.0.0.0 hzqzxf.com
+:: hzqzxf.com
 0.0.0.0 hzs10.cnzz.com
 :: hzs10.cnzz.com
 0.0.0.0 hzs12.cnzz.com
@@ -53772,6 +53780,8 @@ ff02::3 ip6-allhosts
 :: ivcbrasil.org.br
 0.0.0.0 ivetki.ru
 :: ivetki.ru
+0.0.0.0 ivfihumeajjmbc.com
+:: ivfihumeajjmbc.com
 0.0.0.0 ivhnnw.com
 :: ivhnnw.com
 0.0.0.0 ivhqsuhrqvhlke.com
@@ -78514,6 +78524,8 @@ ff02::3 ip6-allhosts
 :: prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
 :: prd-collector-anon.playbuzz.com
+0.0.0.0 prd-collector-auth.playbuzz.com
+:: prd-collector-auth.playbuzz.com
 0.0.0.0 prdele.eu
 :: prdele.eu
 0.0.0.0 pre.glotgrx.com
@@ -92472,6 +92484,8 @@ ff02::3 ip6-allhosts
 :: ssp.pro.cn
 0.0.0.0 ssp.tadseeker.com
 :: ssp.tadseeker.com
+0.0.0.0 ssp.tencentmusic.com
+:: ssp.tencentmusic.com
 0.0.0.0 ssp.tenmax.io
 :: ssp.tenmax.io
 0.0.0.0 ssp.xiaomi.com
@@ -96140,6 +96154,8 @@ ff02::3 ip6-allhosts
 :: tags.bluekai.com
 0.0.0.0 tags.cdn.circlesix.co
 :: tags.cdn.circlesix.co
+0.0.0.0 tags.creativille.co.uk
+:: tags.creativille.co.uk
 0.0.0.0 tags.growingio.com
 :: tags.growingio.com
 0.0.0.0 tags.master-perf-tools.com
