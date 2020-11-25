@@ -1,11 +1,11 @@
-# Checksum: MTYwNjMyNzQ1NAo=
+# Checksum: MTYwNjMzODIxNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201125-6
-# TimeUpdated: 2020-11-25T18:04:14+00:00
+# Version: 1.6.6-20201125-7
+# TimeUpdated: 2020-11-25T21:03:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59979
+# Total: 59987
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5462,6 +5462,8 @@ ff02::3 ip6-allhosts
 :: a.mayakinfo.ru
 0.0.0.0 a.mct01.com
 :: a.mct01.com
+0.0.0.0 a.medialaancdn.be
+:: a.medialaancdn.be
 0.0.0.0 a.medialytics.com
 :: a.medialytics.com
 0.0.0.0 a.mfcad.net
@@ -17214,6 +17216,8 @@ ff02::3 ip6-allhosts
 :: awmserve.com
 0.0.0.0 awprt.com
 :: awprt.com
+0.0.0.0 awptjmp.com
+:: awptjmp.com
 0.0.0.0 awqsaged.cn
 :: awqsaged.cn
 0.0.0.0 awreert.ru
@@ -18212,6 +18216,8 @@ ff02::3 ip6-allhosts
 :: banner.kanald.com.tr
 0.0.0.0 banner.kiev.ua
 :: banner.kiev.ua
+0.0.0.0 banner.klikklik.nl
+:: banner.klikklik.nl
 0.0.0.0 banner.lbs.km.ru
 :: banner.lbs.km.ru
 0.0.0.0 banner.maido3.com
@@ -18368,6 +18374,10 @@ ff02::3 ip6-allhosts
 :: banners.tempobet.com
 0.0.0.0 banners.todoconsolas.com
 :: banners.todoconsolas.com
+0.0.0.0 banners.toeto.com
+:: banners.toeto.com
+0.0.0.0 banners.utilo.nl
+:: banners.utilo.nl
 0.0.0.0 banners.videosecrets.com
 :: banners.videosecrets.com
 0.0.0.0 banners.videosz.com
@@ -20896,6 +20906,8 @@ ff02::3 ip6-allhosts
 :: bnqfbcnzdt.com
 0.0.0.0 bnqt.com
 :: bnqt.com
+0.0.0.0 bnr.agf.nl
+:: bnr.agf.nl
 0.0.0.0 bnr.alza.cz
 :: bnr.alza.cz
 0.0.0.0 bnr.playmagazines.com
@@ -44056,6 +44068,8 @@ ff02::3 ip6-allhosts
 :: gan.doubleclick.net
 0.0.0.0 gan.wavecdn.net
 :: gan.wavecdn.net
+0.0.0.0 ganaar.gertibaldi.com
+:: ganaar.gertibaldi.com
 0.0.0.0 ganardineroreal.com
 :: ganardineroreal.com
 0.0.0.0 ganboo.com
@@ -67748,6 +67762,8 @@ ff02::3 ip6-allhosts
 :: moogle.ru
 0.0.0.0 moogos.com
 :: moogos.com
+0.0.0.0 mooieplaatjes.bierdopje.com
+:: mooieplaatjes.bierdopje.com
 0.0.0.0 mookie1.com
 :: mookie1.com
 0.0.0.0 moolkv.cn
