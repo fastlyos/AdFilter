@@ -1,11 +1,11 @@
-# Checksum: MTYwNjQ4OTQzNQo=
+# Checksum: MTYwNjUwMDIzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201127-5
-# TimeUpdated: 2020-11-27T15:03:55+00:00
+# Version: 1.6.6-20201127-6
+# TimeUpdated: 2020-11-27T18:03:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 60083
+# Total: 60094
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3146,6 +3146,10 @@ ff02::3 ip6-allhosts
 :: 551f044b1a3f4ef.com
 0.0.0.0 552239b90400b7.com
 :: 552239b90400b7.com
+0.0.0.0 5551556.com
+:: 5551556.com
+0.0.0.0 5551650.com
+:: 5551650.com
 0.0.0.0 555b2b.com
 :: 555b2b.com
 0.0.0.0 555lu.com
@@ -27102,8 +27106,6 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
-0.0.0.0 codenew.kanshuhai.com
-:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -33582,6 +33584,8 @@ ff02::3 ip6-allhosts
 :: dieselisames.site
 0.0.0.0 dieselisames.website
 :: dieselisames.website
+0.0.0.0 dietfd.com
+:: dietfd.com
 0.0.0.0 diff.smartadserver.com
 :: diff.smartadserver.com
 0.0.0.0 diff2.smartadserver.com
@@ -34600,6 +34604,8 @@ ff02::3 ip6-allhosts
 :: dns.jd.com
 0.0.0.0 dns.m.sm.cn
 :: dns.m.sm.cn
+0.0.0.0 dns.weibo.cn
+:: dns.weibo.cn
 0.0.0.0 dns.ximalaya.com
 :: dns.ximalaya.com
 0.0.0.0 dns1.oadz.com
@@ -54172,6 +54178,8 @@ ff02::3 ip6-allhosts
 :: j.yljiaoluo.com
 0.0.0.0 j.zhdap.com
 :: j.zhdap.com
+0.0.0.0 j07773.com
+:: j07773.com
 0.0.0.0 j1.piaobing.com
 :: j1.piaobing.com
 0.0.0.0 j1503.com
@@ -56702,6 +56710,8 @@ ff02::3 ip6-allhosts
 :: k.wudejia.com
 0.0.0.0 k.xmtsyg.com
 :: k.xmtsyg.com
+0.0.0.0 k08999.com
+:: k08999.com
 0.0.0.0 k1.dancihu.com
 :: k1.dancihu.com
 0.0.0.0 k1.wanwenwan.cn
@@ -64520,6 +64530,8 @@ ff02::3 ip6-allhosts
 :: map.media6degrees.com
 0.0.0.0 mapcrayonmiss.com
 :: mapcrayonmiss.com
+0.0.0.0 maphuahin.com
+:: maphuahin.com
 0.0.0.0 maploco.com
 :: maploco.com
 0.0.0.0 mapmyuser.com
@@ -80582,6 +80594,8 @@ ff02::3 ip6-allhosts
 :: pvclouds.com
 0.0.0.0 pvcndecvyb.com
 :: pvcndecvyb.com
+0.0.0.0 pvd.to
+:: pvd.to
 0.0.0.0 pvdata.ku6.com
 :: pvdata.ku6.com
 0.0.0.0 pvlog.hd.baofeng.com
@@ -108520,6 +108534,8 @@ ff02::3 ip6-allhosts
 :: widget.stagram.com
 0.0.0.0 widget.subiz.xyz
 :: widget.subiz.xyz
+0.0.0.0 widget.tippebannere.no
+:: widget.tippebannere.no
 0.0.0.0 widget.utinet.ru
 :: widget.utinet.ru
 0.0.0.0 widget.whatshelp.io
@@ -109456,6 +109472,8 @@ ff02::3 ip6-allhosts
 :: writerredolasy.club
 0.0.0.0 writewealth.com
 :: writewealth.com
+0.0.0.0 wrkdih.com
+:: wrkdih.com
 0.0.0.0 wrkl.xyz
 :: wrkl.xyz
 0.0.0.0 wrmcfyzl.com
@@ -114704,6 +114722,8 @@ ff02::3 ip6-allhosts
 :: x4300tiz.com
 0.0.0.0 x4x4x.org
 :: x4x4x.org
+0.0.0.0 x57772.com
+:: x57772.com
 0.0.0.0 x5cc5z.cn
 :: x5cc5z.cn
 0.0.0.0 x6k2vb7652xd.com
@@ -119006,6 +119026,8 @@ ff02::3 ip6-allhosts
 :: zgvvx.com
 0.0.0.0 zgwlbjy.cn
 :: zgwlbjy.cn
+0.0.0.0 zgxrht.com
+:: zgxrht.com
 0.0.0.0 zgyemy.com
 :: zgyemy.com
 0.0.0.0 zgyiyi.com
