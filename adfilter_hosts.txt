@@ -1,11 +1,11 @@
-# Checksum: MTYwNjU1NDI0Mwo=
+# Checksum: MTYwNjU2NTEwNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201128-3
-# TimeUpdated: 2020-11-28T09:04:03+00:00
+# Version: 1.6.6-20201128-4
+# TimeUpdated: 2020-11-28T12:05:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59804
+# Total: 59809
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -21932,6 +21932,8 @@ ff02::3 ip6-allhosts
 :: builfico.de
 0.0.0.0 bukolii.ru
 :: bukolii.ru
+0.0.0.0 bulankk.com
+:: bulankk.com
 0.0.0.0 bulb.76.my
 :: bulb.76.my
 0.0.0.0 bulbazoa.com
@@ -29178,6 +29180,8 @@ ff02::3 ip6-allhosts
 :: creatives.pichunter.com
 0.0.0.0 creatives.summitconnect.co.uk
 :: creatives.summitconnect.co.uk
+0.0.0.0 creatives.sunmedia.tv
+:: creatives.sunmedia.tv
 0.0.0.0 creatives1.ftimg.net
 :: creatives1.ftimg.net
 0.0.0.0 creativesumo.com
@@ -49590,6 +49594,8 @@ ff02::3 ip6-allhosts
 :: hstpnetwork.com
 0.0.0.0 hstrck.com
 :: hstrck.com
+0.0.0.0 hsyjxzl.cn
+:: hsyjxzl.cn
 0.0.0.0 hszbsj.com
 :: hszbsj.com
 0.0.0.0 ht.ruanjiancms.com
@@ -89046,6 +89052,8 @@ ff02::3 ip6-allhosts
 :: shenglonghg.net
 0.0.0.0 shengushi.cn
 :: shengushi.cn
+0.0.0.0 shengyaxd.com
+:: shengyaxd.com
 0.0.0.0 shengzhuanbb.cn
 :: shengzhuanbb.cn
 0.0.0.0 shenleyuni.com
@@ -99382,6 +99390,8 @@ ff02::3 ip6-allhosts
 :: track.sprinklecontent.com
 0.0.0.0 track.strife.com
 :: track.strife.com
+0.0.0.0 track.sunmedia.tv
+:: track.sunmedia.tv
 0.0.0.0 track.tcppu.com
 :: track.tcppu.com
 0.0.0.0 track.td3x.com
