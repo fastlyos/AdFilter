@@ -1,11 +1,11 @@
-# Checksum: MTYwNjU3NTg0Ngo=
+# Checksum: MTYwNjU4NjYzOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201128-5
-# TimeUpdated: 2020-11-28T15:04:06+00:00
+# Version: 1.6.6-20201128-6
+# TimeUpdated: 2020-11-28T18:03:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59819
+# Total: 59817
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1552,8 +1552,6 @@ ff02::3 ip6-allhosts
 :: 21.zhaozongjie.com
 0.0.0.0 2137dc12f9d8.com
 :: 2137dc12f9d8.com
-0.0.0.0 213ac94b779.com
-:: 213ac94b779.com
 0.0.0.0 2155ec.com
 :: 2155ec.com
 0.0.0.0 215to.cn
@@ -2384,8 +2382,6 @@ ff02::3 ip6-allhosts
 :: 3dstats.com
 0.0.0.0 3dwwwgame.com
 :: 3dwwwgame.com
-0.0.0.0 3e0c55172fc0.com
-:: 3e0c55172fc0.com
 0.0.0.0 3e61gdwn1r.com
 :: 3e61gdwn1r.com
 0.0.0.0 3edc.cn
@@ -2786,8 +2782,6 @@ ff02::3 ip6-allhosts
 :: 4f6b2af479d337cf.com
 0.0.0.0 4f9d88054fa2b.com
 :: 4f9d88054fa2b.com
-0.0.0.0 4fc6dd488b.com
-:: 4fc6dd488b.com
 0.0.0.0 4ggame8.com
 :: 4ggame8.com
 0.0.0.0 4ggww.com
@@ -4886,8 +4880,6 @@ ff02::3 ip6-allhosts
 :: 94776.zdfans.com
 0.0.0.0 94ab.com
 :: 94ab.com
-0.0.0.0 94cb903e060e.com
-:: 94cb903e060e.com
 0.0.0.0 94dwc.com
 :: 94dwc.com
 0.0.0.0 94lm.com
@@ -40952,8 +40944,6 @@ ff02::3 ip6-allhosts
 :: fbcdn2.com
 0.0.0.0 fbcjk.com
 :: fbcjk.com
-0.0.0.0 fbdfa1c2147.com
-:: fbdfa1c2147.com
 0.0.0.0 fbduluwmba.com
 :: fbduluwmba.com
 0.0.0.0 fbfd396918c60838.com
@@ -43610,6 +43600,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0.x0lh.cn
@@ -61946,6 +61938,8 @@ ff02::3 ip6-allhosts
 :: m-78.jp
 0.0.0.0 m-brain.fi
 :: m-brain.fi
+0.0.0.0 m-metrics.capitalone.com
+:: m-metrics.capitalone.com
 0.0.0.0 m-pathy.com
 :: m-pathy.com
 0.0.0.0 m-rtb.com
@@ -90424,6 +90418,8 @@ ff02::3 ip6-allhosts
 :: smentcirrhoea.club
 0.0.0.0 smetrics.att.com
 :: smetrics.att.com
+0.0.0.0 smetrics.capitalone.com
+:: smetrics.capitalone.com
 0.0.0.0 smetrics.centurylink.com
 :: smetrics.centurylink.com
 0.0.0.0 smetrics.cnn.com
