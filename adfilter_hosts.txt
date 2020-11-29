@@ -1,11 +1,11 @@
-# Checksum: MTYwNjY1MTQ4Mwo=
+# Checksum: MTYwNjY2MjIxNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201129-4
-# TimeUpdated: 2020-11-29T12:04:43+00:00
+# Version: 1.6.6-20201129-5
+# TimeUpdated: 2020-11-29T15:03:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59908
+# Total: 59929
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -136,6 +136,8 @@ ff02::3 ip6-allhosts
 :: 02aa19117f396e9.com
 0.0.0.0 02b5da94a2bd4aea.com
 :: 02b5da94a2bd4aea.com
+0.0.0.0 02f08caa2ee.com
+:: 02f08caa2ee.com
 0.0.0.0 02m5j.cn
 :: 02m5j.cn
 0.0.0.0 0302woeuxcbrnxcvsdfghu.xyz
@@ -2400,6 +2402,8 @@ ff02::3 ip6-allhosts
 :: 3f6f.cc
 0.0.0.0 3f8mdusgyl3x.com
 :: 3f8mdusgyl3x.com
+0.0.0.0 3f9f440ecad916.com
+:: 3f9f440ecad916.com
 0.0.0.0 3file.info
 :: 3file.info
 0.0.0.0 3g.990.net
@@ -2762,6 +2766,8 @@ ff02::3 ip6-allhosts
 :: 4cr447ewncl4.com
 0.0.0.0 4d1ee8e427cb5e1866.com
 :: 4d1ee8e427cb5e1866.com
+0.0.0.0 4ded47cc011c1.com
+:: 4ded47cc011c1.com
 0.0.0.0 4dex.io
 :: 4dex.io
 0.0.0.0 4df5ef.xyz
@@ -3650,6 +3656,8 @@ ff02::3 ip6-allhosts
 :: 688de7b3822de.com
 0.0.0.0 688mob.com
 :: 688mob.com
+0.0.0.0 68d0d5e26bb0ae.com
+:: 68d0d5e26bb0ae.com
 0.0.0.0 68l0fx.cn
 :: 68l0fx.cn
 0.0.0.0 693836.com
@@ -5932,6 +5940,8 @@ ff02::3 ip6-allhosts
 :: a5a5a.com
 0.0.0.0 a5e04df959f1af34.com
 :: a5e04df959f1af34.com
+0.0.0.0 a5e2773db8a5.com
+:: a5e2773db8a5.com
 0.0.0.0 a6.bjdianyue.com
 :: a6.bjdianyue.com
 0.0.0.0 a6.codejumps.com
@@ -23628,6 +23638,8 @@ ff02::3 ip6-allhosts
 :: catch.gift
 0.0.0.0 catchinemuj.club
 :: catchinemuj.club
+0.0.0.0 catchynerves.com
+:: catchynerves.com
 0.0.0.0 catchynews.net
 :: catchynews.net
 0.0.0.0 cathaycentury.com
@@ -25482,6 +25494,8 @@ ff02::3 ip6-allhosts
 :: cityxman.com
 0.0.0.0 ciusqhujddbggb.com
 :: ciusqhujddbggb.com
+0.0.0.0 civadsoo.net
+:: civadsoo.net
 0.0.0.0 civiliargeo.club
 :: civiliargeo.club
 0.0.0.0 civiliargeord.club
@@ -30772,6 +30786,8 @@ ff02::3 ip6-allhosts
 :: d24cze5sab2jwg.cloudfront.net
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 :: d24rtvkqjwgutp.cloudfront.net
+0.0.0.0 d25192919cb6d.com
+:: d25192919cb6d.com
 0.0.0.0 d258hxk86e2ixw.cloudfront.net
 :: d258hxk86e2ixw.cloudfront.net
 0.0.0.0 d25dfknw9ghxs6.cloudfront.net
@@ -33258,6 +33274,8 @@ ff02::3 ip6-allhosts
 :: df0pmigc8xs70.cloudfront.net
 0.0.0.0 df3n43m.com
 :: df3n43m.com
+0.0.0.0 df56c6ad09.com
+:: df56c6ad09.com
 0.0.0.0 df63de4ef399b.com
 :: df63de4ef399b.com
 0.0.0.0 df666.pzhttaax.cn
@@ -40504,6 +40522,8 @@ ff02::3 ip6-allhosts
 :: f8260adbf8558d6.com
 0.0.0.0 f8272.com
 :: f8272.com
+0.0.0.0 f82ef2dafcfe.com
+:: f82ef2dafcfe.com
 0.0.0.0 f8316b45436f.com
 :: f8316b45436f.com
 0.0.0.0 f853150605ccb.com
@@ -41054,6 +41074,8 @@ ff02::3 ip6-allhosts
 :: fc2b9b7ce3165.com
 0.0.0.0 fc3tn.baidu.com
 :: fc3tn.baidu.com
+0.0.0.0 fc4254b6e17.com
+:: fc4254b6e17.com
 0.0.0.0 fc5tn.baidu.com
 :: fc5tn.baidu.com
 0.0.0.0 fcaot.com
@@ -55180,6 +55202,8 @@ ff02::3 ip6-allhosts
 :: join.xlgirls.com
 0.0.0.0 joinhiesnext.com
 :: joinhiesnext.com
+0.0.0.0 joiningpreferencemobile.com
+:: joiningpreferencemobile.com
 0.0.0.0 joinnowinstantly.com
 :: joinnowinstantly.com
 0.0.0.0 jointreport-switch.com
@@ -59178,6 +59202,8 @@ ff02::3 ip6-allhosts
 :: legendarylars.com
 0.0.0.0 legenhit.com
 :: legenhit.com
+0.0.0.0 leginsi2leopard1oviy1hf.com
+:: leginsi2leopard1oviy1hf.com
 0.0.0.0 legislands.club
 :: legislands.club
 0.0.0.0 legislationpreferably.com
@@ -59204,6 +59230,8 @@ ff02::3 ip6-allhosts
 :: leiki.com
 0.0.0.0 leimardog.com
 :: leimardog.com
+0.0.0.0 leisurebrain.com
+:: leisurebrain.com
 0.0.0.0 leixjun.com
 :: leixjun.com
 0.0.0.0 lejhdbxl.com
@@ -59548,6 +59576,8 @@ ff02::3 ip6-allhosts
 :: lianmeng.com
 0.0.0.0 lianmeng.xgxhy.com
 :: lianmeng.xgxhy.com
+0.0.0.0 liantmartier.info
+:: liantmartier.info
 0.0.0.0 lianwangtech.com
 :: lianwangtech.com
 0.0.0.0 lianyicq.cn
@@ -69810,6 +69840,8 @@ ff02::3 ip6-allhosts
 :: nepalon.com
 0.0.0.0 nepeoripa.biz
 :: nepeoripa.biz
+0.0.0.0 nepobedimiy2kot11jf.com
+:: nepobedimiy2kot11jf.com
 0.0.0.0 nepohita.com
 :: nepohita.com
 0.0.0.0 nepsauss.net
@@ -81630,6 +81662,8 @@ ff02::3 ip6-allhosts
 :: qucaigg.com
 0.0.0.0 qucco.cn
 :: qucco.cn
+0.0.0.0 qudaoweiwang.com
+:: qudaoweiwang.com
 0.0.0.0 queene.cn
 :: queene.cn
 0.0.0.0 quensillo.com
@@ -87668,6 +87702,8 @@ ff02::3 ip6-allhosts
 :: sdn.penggua.com.cn
 0.0.0.0 sdn.scset.com.cn
 :: sdn.scset.com.cn
+0.0.0.0 sdnihyxlqiws.com
+:: sdnihyxlqiws.com
 0.0.0.0 sdownload.stargame.com
 :: sdownload.stargame.com
 0.0.0.0 sdqoi2d.com
@@ -88892,6 +88928,8 @@ ff02::3 ip6-allhosts
 :: sflekykzhqz.com
 0.0.0.0 sfloushi.com
 :: sfloushi.com
+0.0.0.0 sflywdvzyh.com
+:: sflywdvzyh.com
 0.0.0.0 sflyycxlsad.com
 :: sflyycxlsad.com
 0.0.0.0 sfo.xsgfhkwd.date
@@ -103740,6 +103778,8 @@ ff02::3 ip6-allhosts
 :: utop.umengcloud.com
 0.0.0.0 utorido.com
 :: utorido.com
+0.0.0.0 utoumine.net
+:: utoumine.net
 0.0.0.0 utp-dmp.ucweb.com
 :: utp-dmp.ucweb.com
 0.0.0.0 utp.ucweb.com
@@ -119178,6 +119218,8 @@ ff02::3 ip6-allhosts
 :: zoagremo.net
 0.0.0.0 zoaheeth.com
 :: zoaheeth.com
+0.0.0.0 zoastich.com
+:: zoastich.com
 0.0.0.0 zoda.ru
 :: zoda.ru
 0.0.0.0 zodiakactive.com
