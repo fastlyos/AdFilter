@@ -1,11 +1,11 @@
-# Checksum: MTYwNjczNzg5NQo=
+# Checksum: MTYwNjc0ODY4Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201130-4
-# TimeUpdated: 2020-11-30T12:04:55+00:00
+# Version: 1.6.6-20201130-5
+# TimeUpdated: 2020-11-30T15:04:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59969
+# Total: 59979
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1350,6 +1350,8 @@ ff02::3 ip6-allhosts
 :: 1nimo.com
 0.0.0.0 1o26.com
 :: 1o26.com
+0.0.0.0 1p1eqpotato.com
+:: 1p1eqpotato.com
 0.0.0.0 1pel.com
 :: 1pel.com
 0.0.0.0 1phads.com
@@ -33920,6 +33922,8 @@ ff02::3 ip6-allhosts
 :: display.superbay.net
 0.0.0.0 displaycontentnetwork.com
 :: displaycontentnetwork.com
+0.0.0.0 displaycontentprofit.com
+:: displaycontentprofit.com
 0.0.0.0 displaymarketplace.com
 :: displaymarketplace.com
 0.0.0.0 displaynetworkprofit.com
@@ -47864,6 +47868,8 @@ ff02::3 ip6-allhosts
 :: hbyyzm.com
 0.0.0.0 hbzjht.com
 :: hbzjht.com
+0.0.0.0 hc-analytics.idp.clogin.att.com
+:: hc-analytics.idp.clogin.att.com
 0.0.0.0 hc.baidu.cn
 :: hc.baidu.cn
 0.0.0.0 hc.baidu.com
@@ -49722,6 +49728,8 @@ ff02::3 ip6-allhosts
 :: hszbsj.com
 0.0.0.0 ht.ruanjiancms.com
 :: ht.ruanjiancms.com
+0.0.0.0 ht12366.top
+:: ht12366.top
 0.0.0.0 ht55.cn
 :: ht55.cn
 0.0.0.0 htalizer.com
@@ -68884,6 +68892,8 @@ ff02::3 ip6-allhosts
 :: mxysalqnbj.com
 0.0.0.0 my-adv.ru
 :: my-adv.ru
+0.0.0.0 my-hanson.com
+:: my-hanson.com
 0.0.0.0 my-img.ru
 :: my-img.ru
 0.0.0.0 my-material.zone1.meitudata.com
@@ -71362,6 +71372,8 @@ ff02::3 ip6-allhosts
 :: notchcollectormuffin.com
 0.0.0.0 notenpartner.de
 :: notenpartner.de
+0.0.0.0 notes-analytics-events.apple.com
+:: notes-analytics-events.apple.com
 0.0.0.0 notestscredi.club
 :: notestscredi.club
 0.0.0.0 nothickner.club
@@ -80906,6 +80918,8 @@ ff02::3 ip6-allhosts
 :: qd3u5eeuos.com
 0.0.0.0 qdanzopuyrbf.com
 :: qdanzopuyrbf.com
+0.0.0.0 qdatasales.com
+:: qdatasales.com
 0.0.0.0 qdchunyu.com
 :: qdchunyu.com
 0.0.0.0 qdcode.com
@@ -84992,6 +85006,8 @@ ff02::3 ip6-allhosts
 :: rsvph.xyz
 0.0.0.0 rsz.sk
 :: rsz.sk
+0.0.0.0 rszimg.com
+:: rszimg.com
 0.0.0.0 rt-ns.ru
 :: rt-ns.ru
 0.0.0.0 rt.applovin.com
@@ -88020,6 +88036,8 @@ ff02::3 ip6-allhosts
 :: secureeavesdroppingdisguised.com
 0.0.0.0 securegate.xyz
 :: securegate.xyz
+0.0.0.0 securegate9.com
+:: securegate9.com
 0.0.0.0 securemoney.ru
 :: securemoney.ru
 0.0.0.0 securep2p.com
@@ -107262,6 +107280,8 @@ ff02::3 ip6-allhosts
 :: weareqy.com
 0.0.0.0 wearesaudis.net
 :: wearesaudis.net
+0.0.0.0 weather-analytics-events.apple.com
+:: weather-analytics-events.apple.com
 0.0.0.0 weatherent.club
 :: weatherent.club
 0.0.0.0 weaurty.club
