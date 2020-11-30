@@ -1,11 +1,11 @@
-# Checksum: MTYwNjc0ODY4Nwo=
+# Checksum: MTYwNjc1OTQ0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201130-5
-# TimeUpdated: 2020-11-30T15:04:47+00:00
+# Version: 1.6.6-20201130-6
+# TimeUpdated: 2020-11-30T18:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59979
+# Total: 59984
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -12120,6 +12120,8 @@ ff02::3 ip6-allhosts
 :: afgr8.com
 0.0.0.0 afgr9.com
 :: afgr9.com
+0.0.0.0 afi-b.com
+:: afi-b.com
 0.0.0.0 afieldfluxplead.com
 :: afieldfluxplead.com
 0.0.0.0 afili.ru
@@ -13428,6 +13430,8 @@ ff02::3 ip6-allhosts
 :: amae.zjcapital.cn
 0.0.0.0 amao.mobi
 :: amao.mobi
+0.0.0.0 amaprop.net
+:: amaprop.net
 0.0.0.0 amarceusan.com
 :: amarceusan.com
 0.0.0.0 amarfa.ir
@@ -40836,6 +40840,8 @@ ff02::3 ip6-allhosts
 :: far-far-star.com
 0.0.0.0 faracoon.com
 :: faracoon.com
+0.0.0.0 farantitid.racing
+:: farantitid.racing
 0.0.0.0 farehitchlower.icu
 :: farehitchlower.icu
 0.0.0.0 farethief.com
@@ -73234,6 +73240,8 @@ ff02::3 ip6-allhosts
 :: onenima.com
 0.0.0.0 onepixshare.ru
 :: onepixshare.ru
+0.0.0.0 onepush.app
+:: onepush.app
 0.0.0.0 onepush.query.yahoo.com
 :: onepush.query.yahoo.com
 0.0.0.0 onergong.com
@@ -90350,6 +90358,8 @@ ff02::3 ip6-allhosts
 :: skywinners.com.cn
 0.0.0.0 sl-ct5.com
 :: sl-ct5.com
+0.0.0.0 sl-h-statistics-ch-1.storeland.ru
+:: sl-h-statistics-ch-1.storeland.ru
 0.0.0.0 sl.hpplay.cn
 :: sl.hpplay.cn
 0.0.0.0 sl.video.xycdn.n0808.com
