@@ -1,11 +1,11 @@
-# Checksum: MTYwNjgxNDQ2Ngo=
+# Checksum: MTYwNjgyNDI5Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201201-3
-# TimeUpdated: 2020-12-01T09:21:06+00:00
+# Version: 1.6.6-20201201-4
+# TimeUpdated: 2020-12-01T12:04:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59813
+# Total: 59817
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -14772,6 +14772,8 @@ ff02::3 ip6-allhosts
 :: api-flow.flyme.cn
 0.0.0.0 api-flow.meizu.com
 :: api-flow.meizu.com
+0.0.0.0 api-location-prd.pelcro.com
+:: api-location-prd.pelcro.com
 0.0.0.0 api-luckycoinsdk.doglobal.net
 :: api-luckycoinsdk.doglobal.net
 0.0.0.0 api-mcp.adsp.xunlei.com
@@ -31726,6 +31728,8 @@ ff02::3 ip6-allhosts
 :: dagnar.com
 0.0.0.0 dagolor.pw
 :: dagolor.pw
+0.0.0.0 dagonghuzhu.com
+:: dagonghuzhu.com
 0.0.0.0 dah0ooy4doe.info
 :: dah0ooy4doe.info
 0.0.0.0 dah0wv79ikn14.cloudfront.net
@@ -43628,6 +43632,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0.x0lh.cn
@@ -91506,6 +91512,8 @@ ff02::3 ip6-allhosts
 :: spasbatwit.icu
 0.0.0.0 spattermutiny.com
 :: spattermutiny.com
+0.0.0.0 spaung.cn
+:: spaung.cn
 0.0.0.0 spb.bid.run
 :: spb.bid.run
 0.0.0.0 spcdnpc.i-mobile.co.jp
