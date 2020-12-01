@@ -1,11 +1,11 @@
-# Checksum: MTYwNjc1OTQ0NQo=
+# Checksum: MTYwNjc5MTgzMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201130-6
-# TimeUpdated: 2020-11-30T18:04:05+00:00
+# Version: 1.6.6-20201201-1
+# TimeUpdated: 2020-12-01T03:03:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59984
+# Total: 59986
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -23382,6 +23382,8 @@ ff02::3 ip6-allhosts
 :: canwi.mobi
 0.0.0.0 canyboysho.info
 :: canyboysho.info
+0.0.0.0 canyoublockit.com
+:: canyoublockit.com
 0.0.0.0 cao.tc600.com
 :: cao.tc600.com
 0.0.0.0 caob5.info
@@ -27938,6 +27940,8 @@ ff02::3 ip6-allhosts
 :: continue.com
 0.0.0.0 continuedsys.cn
 :: continuedsys.cn
+0.0.0.0 continuefaf.top
+:: continuefaf.top
 0.0.0.0 contions.pro
 :: contions.pro
 0.0.0.0 contrarysignificancedolls.com
@@ -44792,6 +44796,8 @@ ff02::3 ip6-allhosts
 :: get-ads.ru
 0.0.0.0 get-click.ru
 :: get-click.ru
+0.0.0.0 get-express-vpn.online
+:: get-express-vpn.online
 0.0.0.0 get.766.com
 :: get.766.com
 0.0.0.0 get.com
@@ -80000,8 +80006,6 @@ ff02::3 ip6-allhosts
 :: purpreine.co
 0.0.0.0 purpulium.com
 :: purpulium.com
-0.0.0.0 purr.nytimes.com
-:: purr.nytimes.com
 0.0.0.0 purrbodygyp.com
 :: purrbodygyp.com
 0.0.0.0 purrenches.top
