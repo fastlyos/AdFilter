@@ -1,11 +1,11 @@
-# Checksum: MTYwNjgyNDI5Nwo=
+# Checksum: MTYwNjgzNTExMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201201-4
-# TimeUpdated: 2020-12-01T12:04:57+00:00
+# Version: 1.6.6-20201201-5
+# TimeUpdated: 2020-12-01T15:05:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59817
+# Total: 59820
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -13762,6 +13762,8 @@ ff02::3 ip6-allhosts
 :: analytics.belgacom.be
 0.0.0.0 analytics.bhaskar.com
 :: analytics.bhaskar.com
+0.0.0.0 analytics.bi.encuentra24.com
+:: analytics.bi.encuentra24.com
 0.0.0.0 analytics.bigcommerce.com
 :: analytics.bigcommerce.com
 0.0.0.0 analytics.bkav.com
@@ -84474,6 +84476,8 @@ ff02::3 ip6-allhosts
 :: roosterfirework.com
 0.0.0.0 roostsflewcat.cam
 :: roostsflewcat.cam
+0.0.0.0 root85.com
+:: root85.com
 0.0.0.0 rootstood.club
 :: rootstood.club
 0.0.0.0 rooveysimagi.club
@@ -107518,6 +107522,8 @@ ff02::3 ip6-allhosts
 :: weibomingzi.com
 0.0.0.0 weidianyuedu.com
 :: weidianyuedu.com
+0.0.0.0 weifengtianxia.com
+:: weifengtianxia.com
 0.0.0.0 weiguanwang888.com
 :: weiguanwang888.com
 0.0.0.0 weiguizhizuo.com
