@@ -1,11 +1,11 @@
-# Checksum: MTYwNjkyMTQ4MQo=
+# Checksum: MTYwNjkzMjIzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201202-5
-# TimeUpdated: 2020-12-02T15:04:41+00:00
+# Version: 1.6.6-20201202-6
+# TimeUpdated: 2020-12-02T18:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59967
+# Total: 59982
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2432,6 +2432,8 @@ ff02::3 ip6-allhosts
 :: 3jia5.com
 0.0.0.0 3jmcwio.com
 :: 3jmcwio.com
+0.0.0.0 3kingclub.com
+:: 3kingclub.com
 0.0.0.0 3l4r8d61yz.com
 :: 3l4r8d61yz.com
 0.0.0.0 3lga3.cn
@@ -4102,6 +4104,8 @@ ff02::3 ip6-allhosts
 :: 78986ba32c.com
 0.0.0.0 789a42c1a33aa5.com
 :: 789a42c1a33aa5.com
+0.0.0.0 789club.org
+:: 789club.org
 0.0.0.0 78cc571ae97.net
 :: 78cc571ae97.net
 0.0.0.0 78tdd75.com
@@ -19824,6 +19828,8 @@ ff02::3 ip6-allhosts
 :: bettingpartners.com
 0.0.0.0 betvietnam.info
 :: betvietnam.info
+0.0.0.0 betvisa.com
+:: betvisa.com
 0.0.0.0 betway787.com
 :: betway787.com
 0.0.0.0 betweendigital.com
@@ -27112,8 +27118,6 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
-0.0.0.0 codenew.kanshuhai.com
-:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -28568,6 +28572,8 @@ ff02::3 ip6-allhosts
 :: counter.nn.ru
 0.0.0.0 counter.nope.dk
 :: counter.nope.dk
+0.0.0.0 counter.ntdvn.com
+:: counter.ntdvn.com
 0.0.0.0 counter.ok.ee
 :: counter.ok.ee
 0.0.0.0 counter.packa2.cz
@@ -45886,6 +45892,8 @@ ff02::3 ip6-allhosts
 :: go8me.ru
 0.0.0.0 goadservices.com
 :: goadservices.com
+0.0.0.0 goal123.com
+:: goal123.com
 0.0.0.0 goallurl.ru
 :: goallurl.ru
 0.0.0.0 goaltraffic.com
@@ -60726,6 +60734,8 @@ ff02::3 ip6-allhosts
 :: lofv.xyz
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 :: log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-collector.shopee.vn
+:: log-collector.shopee.vn
 0.0.0.0 log-dmp.suishenyun.cn
 :: log-dmp.suishenyun.cn
 0.0.0.0 log-hl.snssdk.com
@@ -65698,6 +65708,8 @@ ff02::3 ip6-allhosts
 :: memorizeneck.com
 0.0.0.0 memorycobweb.com
 :: memorycobweb.com
+0.0.0.0 memtkh.com
+:: memtkh.com
 0.0.0.0 mename.de
 :: mename.de
 0.0.0.0 mendoc.cn
@@ -80538,6 +80550,8 @@ ff02::3 ip6-allhosts
 :: pwrjjvjtvmr.com
 0.0.0.0 pwrlkyotm.com
 :: pwrlkyotm.com
+0.0.0.0 pwwghcyzsn.info
+:: pwwghcyzsn.info
 0.0.0.0 px-cloud.net
 :: px-cloud.net
 0.0.0.0 px.adhigh.net
@@ -83818,6 +83832,8 @@ ff02::3 ip6-allhosts
 :: retarala.ru
 0.0.0.0 retarget.ssl-services.com
 :: retarget.ssl-services.com
+0.0.0.0 retargetadv.com
+:: retargetadv.com
 0.0.0.0 retargeter.com
 :: retargeter.com
 0.0.0.0 retargeter.com.br
@@ -90310,6 +90326,8 @@ ff02::3 ip6-allhosts
 :: sky-connect.adinfuse.com
 0.0.0.0 sky.adinfuse.com
 :: sky.adinfuse.com
+0.0.0.0 sky88.com
+:: sky88.com
 0.0.0.0 skyactivate.com
 :: skyactivate.com
 0.0.0.0 skyad.video
@@ -91116,6 +91134,8 @@ ff02::3 ip6-allhosts
 :: sodahead.com
 0.0.0.0 sodhef.com
 :: sodhef.com
+0.0.0.0 sodo14.com
+:: sodo14.com
 0.0.0.0 sodoit.com
 :: sodoit.com
 0.0.0.0 sodswayssheet.com
@@ -91688,8 +91708,6 @@ ff02::3 ip6-allhosts
 :: sp.yixui.com
 0.0.0.0 sp.yorkdispatch.com
 :: sp.yorkdispatch.com
-0.0.0.0 sp.zalo.me
-:: sp.zalo.me
 0.0.0.0 sp.zanesvilletimesrecorder.com
 :: sp.zanesvilletimesrecorder.com
 0.0.0.0 sp3.cndm.com
@@ -94108,6 +94126,8 @@ ff02::3 ip6-allhosts
 :: sticoats.net
 0.0.0.0 stiffenpersevere.com
 :: stiffenpersevere.com
+0.0.0.0 stiffgame.com
+:: stiffgame.com
 0.0.0.0 stiffstem.com
 :: stiffstem.com
 0.0.0.0 stignaud.net
@@ -96222,6 +96242,8 @@ ff02::3 ip6-allhosts
 :: tahkezux.com
 0.0.0.0 tai789.net
 :: tai789.net
+0.0.0.0 taib52.club
+:: taib52.club
 0.0.0.0 taifouwo.com
 :: taifouwo.com
 0.0.0.0 taihe2002.cn
@@ -98912,6 +98934,8 @@ ff02::3 ip6-allhosts
 :: top88.club
 0.0.0.0 top88.fun
 :: top88.fun
+0.0.0.0 top88.uk
+:: top88.uk
 0.0.0.0 top888.com
 :: top888.com
 0.0.0.0 topad.mobi
@@ -104424,6 +104448,8 @@ ff02::3 ip6-allhosts
 :: v7.shaoyumuye.com
 0.0.0.0 v707070.com
 :: v707070.com
+0.0.0.0 v7ac.com
+:: v7ac.com
 0.0.0.0 v8.club
 :: v8.club
 0.0.0.0 v8.cnzz.com
@@ -106338,6 +106364,8 @@ ff02::3 ip6-allhosts
 :: vtvcab.xyz
 0.0.0.0 vua1004.club
 :: vua1004.club
+0.0.0.0 vua1005.club
+:: vua1005.club
 0.0.0.0 vuahb.com
 :: vuahb.com
 0.0.0.0 vucovorise.com
@@ -106648,6 +106676,8 @@ ff02::3 ip6-allhosts
 :: w3.ddheli.com
 0.0.0.0 w3.yinyuehu.cn
 :: w3.yinyuehu.cn
+0.0.0.0 w388.com
+:: w388.com
 0.0.0.0 w3989.com
 :: w3989.com
 0.0.0.0 w3counter.com
