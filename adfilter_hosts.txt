@@ -1,11 +1,11 @@
-# Checksum: MTYwNjkxMDc3MAo=
+# Checksum: MTYwNjkyMTQ4MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201202-4
-# TimeUpdated: 2020-12-02T12:06:10+00:00
+# Version: 1.6.6-20201202-5
+# TimeUpdated: 2020-12-02T15:04:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 59962
+# Total: 59967
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -27112,6 +27112,8 @@ ff02::3 ip6-allhosts
 :: codejumps.com
 0.0.0.0 codemylife.info
 :: codemylife.info
+0.0.0.0 codenew.kanshuhai.com
+:: codenew.kanshuhai.com
 0.0.0.0 codenow.cn
 :: codenow.cn
 0.0.0.0 codeonclick.com
@@ -54774,6 +54776,8 @@ ff02::3 ip6-allhosts
 :: jianpian.vip
 0.0.0.0 jiansuo.dsxdn.com
 :: jiansuo.dsxdn.com
+0.0.0.0 jianxinshanghai.com
+:: jianxinshanghai.com
 0.0.0.0 jianyousj.com
 :: jianyousj.com
 0.0.0.0 jianzhanxx.me
@@ -86814,6 +86818,8 @@ ff02::3 ip6-allhosts
 :: sail-horizon.com
 0.0.0.0 sail-personalize.com
 :: sail-personalize.com
+0.0.0.0 sailcovertend.com
+:: sailcovertend.com
 0.0.0.0 sailif.com
 :: sailif.com
 0.0.0.0 sailsuit.com
@@ -103542,10 +103548,14 @@ ff02::3 ip6-allhosts
 :: uryobtainlyi.club
 0.0.0.0 us-east.beeppool.org
 :: us-east.beeppool.org
+0.0.0.0 us-events.api.iheart.com
+:: us-events.api.iheart.com
 0.0.0.0 us-pool.beeppool.org
 :: us-pool.beeppool.org
 0.0.0.0 us-stratum.viaxmr.com
 :: us-stratum.viaxmr.com
+0.0.0.0 us-tracking.nextdoor.com
+:: us-tracking.nextdoor.com
 0.0.0.0 us-u.openx.net
 :: us-u.openx.net
 0.0.0.0 us.3zs0.date
