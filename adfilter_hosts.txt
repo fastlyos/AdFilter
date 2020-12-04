@@ -1,11 +1,11 @@
-# Checksum: MTYwNzA5NDIzNAo=
+# Checksum: MTYwNzEwNTA0OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201204-5
-# TimeUpdated: 2020-12-04T15:03:54+00:00
+# Version: 1.6.6-20201204-6
+# TimeUpdated: 2020-12-04T18:04:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45872
+# Total: 45873
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -15316,6 +15316,8 @@ ff02::3 ip6-allhosts
 :: biz5.sandai.net
 0.0.0.0 bizad.nikkeibp.co.jp
 :: bizad.nikkeibp.co.jp
+0.0.0.0 bizcom.com.ru
+:: bizcom.com.ru
 0.0.0.0 bizfo.co.uk
 :: bizfo.co.uk
 0.0.0.0 bizhiku.net
@@ -20238,8 +20240,6 @@ ff02::3 ip6-allhosts
 :: cnt.alawar.com
 0.0.0.0 cnt.iceporn.com
 :: cnt.iceporn.com
-0.0.0.0 cnt.logoslovo.ru
-:: cnt.logoslovo.ru
 0.0.0.0 cnt.mastorage.net
 :: cnt.mastorage.net
 0.0.0.0 cnt.my
@@ -33046,6 +33046,8 @@ ff02::3 ip6-allhosts
 :: fz863.com
 0.0.0.0 fzb01.qiushibaike.com
 :: fzb01.qiushibaike.com
+0.0.0.0 fzbymy.com
+:: fzbymy.com
 0.0.0.0 fzdeng.com
 :: fzdeng.com
 0.0.0.0 fzdfwy.com
@@ -61820,8 +61822,6 @@ ff02::3 ip6-allhosts
 :: qinghyx.com
 0.0.0.0 qingqu.la
 :: qingqu.la
-0.0.0.0 qingyanmjg.com
-:: qingyanmjg.com
 0.0.0.0 qingzhencai.net
 :: qingzhencai.net
 0.0.0.0 qinongyouxuan.cn
@@ -63352,6 +63352,8 @@ ff02::3 ip6-allhosts
 :: refaucherais.site
 0.0.0.0 refaucherais.website
 :: refaucherais.website
+0.0.0.0 refban.com
+:: refban.com
 0.0.0.0 refbanners.com
 :: refbanners.com
 0.0.0.0 refbanners.website
