@@ -1,11 +1,11 @@
-# Checksum: MTYwNzE4MDYzMwo=
+# Checksum: MTYwNzE5MTQ0OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.6-20201205-5
-# TimeUpdated: 2020-12-05T15:03:53+00:00
+# Version: 1.6.6-20201205-6
+# TimeUpdated: 2020-12-05T18:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45794
+# Total: 45800
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1052,6 +1052,8 @@ ff02::3 ip6-allhosts
 :: 21kk.cc
 0.0.0.0 21sexturycash.com
 :: 21sexturycash.com
+0.0.0.0 22.qingsongbar.com
+:: 22.qingsongbar.com
 0.0.0.0 220efda3143.com
 :: 220efda3143.com
 0.0.0.0 222627.com
@@ -4064,6 +4066,8 @@ ff02::3 ip6-allhosts
 :: a67z.com
 0.0.0.0 a6be07586bc4a7.com
 :: a6be07586bc4a7.com
+0.0.0.0 a6f845e6c37b2833148.com
+:: a6f845e6c37b2833148.com
 0.0.0.0 a6lxbeui.ru
 :: a6lxbeui.ru
 0.0.0.0 a6x4effomlxe.com
@@ -11354,6 +11358,8 @@ ff02::3 ip6-allhosts
 :: api.kwaizt.com
 0.0.0.0 api.leancloud.cn
 :: api.leancloud.cn
+0.0.0.0 api.lgsstyel.com
+:: api.lgsstyel.com
 0.0.0.0 api.mediarithmics.com
 :: api.mediarithmics.com
 0.0.0.0 api.mediation.amberweather.com
@@ -20238,6 +20244,8 @@ ff02::3 ip6-allhosts
 :: cnt.alawar.com
 0.0.0.0 cnt.iceporn.com
 :: cnt.iceporn.com
+0.0.0.0 cnt.logoslovo.ru
+:: cnt.logoslovo.ru
 0.0.0.0 cnt.mastorage.net
 :: cnt.mastorage.net
 0.0.0.0 cnt.my
@@ -32770,6 +32778,8 @@ ff02::3 ip6-allhosts
 :: ftp.freecontent.info
 0.0.0.0 ftp.freecontent.net
 :: ftp.freecontent.net
+0.0.0.0 ftp.uptobox.com
+:: ftp.uptobox.com
 0.0.0.0 ftp0118.info
 :: ftp0118.info
 0.0.0.0 ftrack.ru
@@ -79120,6 +79130,8 @@ ff02::3 ip6-allhosts
 :: uc.ucweb.com
 0.0.0.0 uc.xddi.ru
 :: uc.xddi.ru
+0.0.0.0 uc.xiansuper.com
+:: uc.xiansuper.com
 0.0.0.0 uc.zhuici.com
 :: uc.zhuici.com
 0.0.0.0 uc123.com
