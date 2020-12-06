@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzI0NTQ0NQo=
+# Checksum: MTYwNzI1NjI5OQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-3
-# TimeUpdated: 2020-12-06T09:04:05+00:00
+# Version: 1.6.8-20201206-4
+# TimeUpdated: 2020-12-06T12:04:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45730
+# Total: 45737
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -4979,6 +4979,7 @@ payload:
   - DOMAIN,allsporttv.com
   - DOMAIN,alltereg0.ru
   - DOMAIN,alltheladyz.xyz
+  - DOMAIN,alltizer.ru
   - DOMAIN,alltop100.ru
   - DOMAIN,alltracked.com
   - DOMAIN,allure-ng.net
@@ -6304,6 +6305,7 @@ payload:
   - DOMAIN,atsfi.de
   - DOMAIN,atsptp.com
   - DOMAIN,att.stargame.com
+  - DOMAIN,attach.s8bbs.com
   - DOMAIN,attacketslovern.info
   - DOMAIN,attacketsun.space
   - DOMAIN,attackscabbagevengeance.com
@@ -13180,6 +13182,7 @@ payload:
   - DOMAIN,dns2.oadz.com
   - DOMAIN,dnsdelegation.io
   - DOMAIN,dnset.com
+  - DOMAIN,dnskuu.com
   - DOMAIN,dnvod.tv
   - DOMAIN,dnyjhikistbhvg.com
   - DOMAIN,do-not-tracker.org
@@ -14784,6 +14787,7 @@ payload:
   - DOMAIN,eqads.com
   - DOMAIN,eqdfilkwrpn.com
   - DOMAIN,eqfgc.com
+  - DOMAIN,eqljprszxo.com
   - DOMAIN,eqmx04n5s0.ru
   - DOMAIN,eqnan.megaseries.biz
   - DOMAIN,eqnqxfrxsmuy.com
@@ -25757,6 +25761,7 @@ payload:
   - DOMAIN,mpbjbeueinytao.com
   - DOMAIN,mpc.nicequest.com
   - DOMAIN,mpersonclu.club
+  - DOMAIN,mpfoklbjfy.com
   - DOMAIN,mphgyvnbap.com
   - DOMAIN,mpk01.com
   - DOMAIN,mpletedsen.fun
@@ -28796,6 +28801,7 @@ payload:
   - DOMAIN,perceivequarter.com
   - DOMAIN,percentmobile.com
   - DOMAIN,percycle.com
+  - DOMAIN,peremoga.xyz
   - DOMAIN,perf-events.cloud.unity3d.com
   - DOMAIN,perf.dugout.com
   - DOMAIN,perfectaudience.com
@@ -30263,6 +30269,7 @@ payload:
   - DOMAIN,psughooy.com
   - DOMAIN,psulsobi.net
   - DOMAIN,psurdoak.com
+  - DOMAIN,psychologicaltotalnumeric.com
   - DOMAIN,psylefywha.pro
   - DOMAIN,psywed.com
   - DOMAIN,pszs388.cn
@@ -30912,7 +30919,6 @@ payload:
   - DOMAIN,qiyezs.aiwen.cc
   - DOMAIN,qiyezs.ejunshi.com
   - DOMAIN,qizhao.com
-  - DOMAIN,qizixsw.com
   - DOMAIN,qj.borsendental.com
   - DOMAIN,qjhlc.com
   - DOMAIN,qjjto.com
@@ -33360,6 +33366,7 @@ payload:
   - DOMAIN,scout.haymarketmedia.com
   - DOMAIN,scout.rollcall.com
   - DOMAIN,scout.us2.salesloft.com
+  - DOMAIN,scoutanalytics.net
   - DOMAIN,scoutle.com
   - DOMAIN,scqajt.cn
   - DOMAIN,scrap.me

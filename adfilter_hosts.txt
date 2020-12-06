@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI0NTQ0NQo=
+# Checksum: MTYwNzI1NjI5OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-3
-# TimeUpdated: 2020-12-06T09:04:05+00:00
+# Version: 1.6.8-20201206-4
+# TimeUpdated: 2020-12-06T12:04:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45730
+# Total: 45737
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9960,6 +9960,8 @@ ff02::3 ip6-allhosts
 :: alltereg0.ru
 0.0.0.0 alltheladyz.xyz
 :: alltheladyz.xyz
+0.0.0.0 alltizer.ru
+:: alltizer.ru
 0.0.0.0 alltop100.ru
 :: alltop100.ru
 0.0.0.0 alltracked.com
@@ -12610,6 +12612,8 @@ ff02::3 ip6-allhosts
 :: atsptp.com
 0.0.0.0 att.stargame.com
 :: att.stargame.com
+0.0.0.0 attach.s8bbs.com
+:: attach.s8bbs.com
 0.0.0.0 attacketslovern.info
 :: attacketslovern.info
 0.0.0.0 attacketsun.space
@@ -26362,6 +26366,8 @@ ff02::3 ip6-allhosts
 :: dnsdelegation.io
 0.0.0.0 dnset.com
 :: dnset.com
+0.0.0.0 dnskuu.com
+:: dnskuu.com
 0.0.0.0 dnvod.tv
 :: dnvod.tv
 0.0.0.0 dnyjhikistbhvg.com
@@ -29570,6 +29576,8 @@ ff02::3 ip6-allhosts
 :: eqdfilkwrpn.com
 0.0.0.0 eqfgc.com
 :: eqfgc.com
+0.0.0.0 eqljprszxo.com
+:: eqljprszxo.com
 0.0.0.0 eqmx04n5s0.ru
 :: eqmx04n5s0.ru
 0.0.0.0 eqnan.megaseries.biz
@@ -51516,6 +51524,8 @@ ff02::3 ip6-allhosts
 :: mpc.nicequest.com
 0.0.0.0 mpersonclu.club
 :: mpersonclu.club
+0.0.0.0 mpfoklbjfy.com
+:: mpfoklbjfy.com
 0.0.0.0 mphgyvnbap.com
 :: mphgyvnbap.com
 0.0.0.0 mpk01.com
@@ -57594,6 +57604,8 @@ ff02::3 ip6-allhosts
 :: percentmobile.com
 0.0.0.0 percycle.com
 :: percycle.com
+0.0.0.0 peremoga.xyz
+:: peremoga.xyz
 0.0.0.0 perf-events.cloud.unity3d.com
 :: perf-events.cloud.unity3d.com
 0.0.0.0 perf.dugout.com
@@ -60528,6 +60540,8 @@ ff02::3 ip6-allhosts
 :: psulsobi.net
 0.0.0.0 psurdoak.com
 :: psurdoak.com
+0.0.0.0 psychologicaltotalnumeric.com
+:: psychologicaltotalnumeric.com
 0.0.0.0 psylefywha.pro
 :: psylefywha.pro
 0.0.0.0 psywed.com
@@ -61826,8 +61840,6 @@ ff02::3 ip6-allhosts
 :: qiyezs.ejunshi.com
 0.0.0.0 qizhao.com
 :: qizhao.com
-0.0.0.0 qizixsw.com
-:: qizixsw.com
 0.0.0.0 qj.borsendental.com
 :: qj.borsendental.com
 0.0.0.0 qjhlc.com
@@ -66722,6 +66734,8 @@ ff02::3 ip6-allhosts
 :: scout.rollcall.com
 0.0.0.0 scout.us2.salesloft.com
 :: scout.us2.salesloft.com
+0.0.0.0 scoutanalytics.net
+:: scoutanalytics.net
 0.0.0.0 scoutle.com
 :: scoutle.com
 0.0.0.0 scqajt.cn

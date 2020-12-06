@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI0NTQ0NQo=
+# Checksum: MTYwNzI1NjI5OQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-3
-# TimeUpdated: 2020-12-06T09:04:05+00:00
+# Version: 1.6.8-20201206-4
+# TimeUpdated: 2020-12-06T12:04:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45730
+# Total: 45737
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -4978,6 +4978,7 @@ DOMAIN,allsiemens.com,REJECT
 DOMAIN,allsporttv.com,REJECT
 DOMAIN,alltereg0.ru,REJECT
 DOMAIN,alltheladyz.xyz,REJECT
+DOMAIN,alltizer.ru,REJECT
 DOMAIN,alltop100.ru,REJECT
 DOMAIN,alltracked.com,REJECT
 DOMAIN,allure-ng.net,REJECT
@@ -6303,6 +6304,7 @@ DOMAIN,ats.otto.de,REJECT
 DOMAIN,atsfi.de,REJECT
 DOMAIN,atsptp.com,REJECT
 DOMAIN,att.stargame.com,REJECT
+DOMAIN,attach.s8bbs.com,REJECT
 DOMAIN,attacketslovern.info,REJECT
 DOMAIN,attacketsun.space,REJECT
 DOMAIN,attackscabbagevengeance.com,REJECT
@@ -13179,6 +13181,7 @@ DOMAIN,dns1.oadz.com,REJECT
 DOMAIN,dns2.oadz.com,REJECT
 DOMAIN,dnsdelegation.io,REJECT
 DOMAIN,dnset.com,REJECT
+DOMAIN,dnskuu.com,REJECT
 DOMAIN,dnvod.tv,REJECT
 DOMAIN,dnyjhikistbhvg.com,REJECT
 DOMAIN,do-not-tracker.org,REJECT
@@ -14783,6 +14786,7 @@ DOMAIN,eq.10jqka.com.cn,REJECT
 DOMAIN,eqads.com,REJECT
 DOMAIN,eqdfilkwrpn.com,REJECT
 DOMAIN,eqfgc.com,REJECT
+DOMAIN,eqljprszxo.com,REJECT
 DOMAIN,eqmx04n5s0.ru,REJECT
 DOMAIN,eqnan.megaseries.biz,REJECT
 DOMAIN,eqnqxfrxsmuy.com,REJECT
@@ -25756,6 +25760,7 @@ DOMAIN,mpb2.iteye.com,REJECT
 DOMAIN,mpbjbeueinytao.com,REJECT
 DOMAIN,mpc.nicequest.com,REJECT
 DOMAIN,mpersonclu.club,REJECT
+DOMAIN,mpfoklbjfy.com,REJECT
 DOMAIN,mphgyvnbap.com,REJECT
 DOMAIN,mpk01.com,REJECT
 DOMAIN,mpletedsen.fun,REJECT
@@ -28795,6 +28800,7 @@ DOMAIN,perceivecatastrophe.com,REJECT
 DOMAIN,perceivequarter.com,REJECT
 DOMAIN,percentmobile.com,REJECT
 DOMAIN,percycle.com,REJECT
+DOMAIN,peremoga.xyz,REJECT
 DOMAIN,perf-events.cloud.unity3d.com,REJECT
 DOMAIN,perf.dugout.com,REJECT
 DOMAIN,perfectaudience.com,REJECT
@@ -30262,6 +30268,7 @@ DOMAIN,pstats.com,REJECT
 DOMAIN,psughooy.com,REJECT
 DOMAIN,psulsobi.net,REJECT
 DOMAIN,psurdoak.com,REJECT
+DOMAIN,psychologicaltotalnumeric.com,REJECT
 DOMAIN,psylefywha.pro,REJECT
 DOMAIN,psywed.com,REJECT
 DOMAIN,pszs388.cn,REJECT
@@ -30911,7 +30918,6 @@ DOMAIN,qiyem.ejunshi.com,REJECT
 DOMAIN,qiyezs.aiwen.cc,REJECT
 DOMAIN,qiyezs.ejunshi.com,REJECT
 DOMAIN,qizhao.com,REJECT
-DOMAIN,qizixsw.com,REJECT
 DOMAIN,qj.borsendental.com,REJECT
 DOMAIN,qjhlc.com,REJECT
 DOMAIN,qjjto.com,REJECT
@@ -33359,6 +33365,7 @@ DOMAIN,scounter.rambler.ru,REJECT
 DOMAIN,scout.haymarketmedia.com,REJECT
 DOMAIN,scout.rollcall.com,REJECT
 DOMAIN,scout.us2.salesloft.com,REJECT
+DOMAIN,scoutanalytics.net,REJECT
 DOMAIN,scoutle.com,REJECT
 DOMAIN,scqajt.cn,REJECT
 DOMAIN,scrap.me,REJECT
