@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.6
+# Current Version: 1.6.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -132,6 +132,17 @@ function GenerateInformation() {
         echo "! Homepage: ${adfilter_homepage}" >> ../adfilter_adguardhome.txt
         echo "! Total: ${adfilter_total}" >> ../adfilter_adguardhome.txt
     }
+    function adfilter_clash() {
+        echo "payload:" > ../adfilter_clash.yaml
+        echo "# Checksum: ${adfilter_checksum}" >> ../adfilter_clash.yaml
+        echo "# Title: ${adfilter_title} for Surge (DNS-level)" >> ../adfilter_clash.yaml
+        echo "# Description: ${adfilter_description}" >> ../adfilter_clash.yaml
+        echo "# Version: ${adfilter_version}" >> ../adfilter_clash.yaml
+        echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_clash.yaml
+        echo "# Expires: ${adfilter_expires}" >> ../adfilter_clash.yaml
+        echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_clash.yaml
+        echo "# Total: ${adfilter_total}" >> ../adfilter_clash.yaml
+    }
     function adfilter_dnsmasq() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_dnsmasq.conf
         echo "# Title: ${adfilter_title} for Dnsmasq (DNS-level)" >> ../adfilter_dnsmasq.conf
@@ -172,6 +183,16 @@ function GenerateInformation() {
         echo "ff02::3 ip6-allhosts" >> ../adfilter_hosts.txt
         echo "# (DO NOT REMOVE)" >> ../adfilter_hosts.txt
     }
+    function adfilter_quantumult() {
+        echo "# Checksum: ${adfilter_checksum}" > ../adfilter_quantumult.yaml
+        echo "# Title: ${adfilter_title} for Surge (DNS-level)" >> ../adfilter_quantumult.yaml
+        echo "# Description: ${adfilter_description}" >> ../adfilter_quantumult.yaml
+        echo "# Version: ${adfilter_version}" >> ../adfilter_quantumult.yaml
+        echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_quantumult.yaml
+        echo "# Expires: ${adfilter_expires}" >> ../adfilter_quantumult.yaml
+        echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_quantumult.yaml
+        echo "# Total: ${adfilter_total}" >> ../adfilter_quantumult.yaml
+    }
     function adfilter_smartdns() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_smartdns.conf
         echo "# Title: ${adfilter_title} for SmartDNS (DNS-level)" >> ../adfilter_smartdns.conf
@@ -183,14 +204,14 @@ function GenerateInformation() {
         echo "# Total: ${adfilter_total}" >> ../adfilter_smartdns.conf
     }
     function adfilter_surge() {
-        echo "# Checksum: ${adfilter_checksum}" > ../adfilter_surge.txt
-        echo "# Title: ${adfilter_title} for Surge (DNS-level)" >> ../adfilter_surge.txt
-        echo "# Description: ${adfilter_description}" >> ../adfilter_surge.txt
-        echo "# Version: ${adfilter_version}" >> ../adfilter_surge.txt
-        echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_surge.txt
-        echo "# Expires: ${adfilter_expires}" >> ../adfilter_surge.txt
-        echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_surge.txt
-        echo "# Total: ${adfilter_total}" >> ../adfilter_surge.txt
+        echo "# Checksum: ${adfilter_checksum}" > ../adfilter_surge.yaml
+        echo "# Title: ${adfilter_title} for Surge (DNS-level)" >> ../adfilter_surge.yaml
+        echo "# Description: ${adfilter_description}" >> ../adfilter_surge.yaml
+        echo "# Version: ${adfilter_version}" >> ../adfilter_surge.yaml
+        echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_surge.yaml
+        echo "# Expires: ${adfilter_expires}" >> ../adfilter_surge.yaml
+        echo "# Homepage: ${adfilter_homepage}" >> ../adfilter_surge.yaml
+        echo "# Total: ${adfilter_total}" >> ../adfilter_surge.yaml
     }
     function adfilter_unbound() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_unbound.conf
@@ -203,9 +224,11 @@ function GenerateInformation() {
         echo "# Total: ${adfilter_total}" >> ../adfilter_unbound.conf
     }
     adfilter_adguardhome
+    adfilter_clash
     adfilter_dnsmasq
     adfilter_domains
     adfilter_hosts
+    adfilter_quantumult
     adfilter_smartdns
     adfilter_surge
     adfilter_unbound
@@ -216,12 +239,14 @@ function OutputData() {
         GenerateInformation
         for filter_data_task in "${!filter_data[@]}"; do
             echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adguardhome.txt
+            echo "  - DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_clash.yaml
             echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
             echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
             echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+            echo "DOMAIN,${filter_data[$filter_data_task]},REJECT" >> ../adfilter_quantumult.yaml
             echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
             echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
-            echo "DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
+            echo "DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_surge.yaml
             echo "local-zone: \"${filter_data[$filter_data_task]}\" always_nxdomain" >> ../adfilter_unbound.conf
         done
         cd .. && rm -rf ./Temp
@@ -236,12 +261,14 @@ function OutputData() {
             GenerateInformation
             for filter_data_task in "${!filter_data[@]}"; do
                 echo "|${filter_data[$filter_data_task]}^" >> ../adfilter_adguardhome.txt
+                echo "  - DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_clash.yaml
                 echo "address=/${filter_data[$filter_data_task]}/" >> ../adfilter_dnsmasq.conf
                 echo "${filter_data[$filter_data_task]}" >> ../adfilter_domains.txt
                 echo "0.0.0.0 ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
+                echo "DOMAIN,${filter_data[$filter_data_task]},REJECT" >> ../adfilter_quantumult.yaml
                 echo ":: ${filter_data[$filter_data_task]}" >> ../adfilter_hosts.txt
                 echo "address /${filter_data[$filter_data_task]}/#" >> ../adfilter_smartdns.conf
-                echo "DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_surge.txt
+                echo "DOMAIN,${filter_data[$filter_data_task]}" >> ../adfilter_surge.yaml
                 echo "local-zone: \"${filter_data[$filter_data_task]}\" always_nxdomain" >> ../adfilter_unbound.conf
             done
             cd .. && rm -rf ./Temp
