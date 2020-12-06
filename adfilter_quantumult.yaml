@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI2NzAyOQo=
+# Checksum: MTYwNzI3Nzg1MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-5
-# TimeUpdated: 2020-12-06T15:03:49+00:00
+# Version: 1.6.8-20201206-6
+# TimeUpdated: 2020-12-06T18:04:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45738
+# Total: 45746
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -4695,6 +4695,7 @@ DOMAIN,aheadday.com,REJECT
 DOMAIN,ahelessenge.club,REJECT
 DOMAIN,ahhuazhen.com,REJECT
 DOMAIN,ahjdwb31.xyz,REJECT
+DOMAIN,ahjzys.com,REJECT
 DOMAIN,ahksqc.com.cn,REJECT
 DOMAIN,ahlxxx.com,REJECT
 DOMAIN,ahoff.ru,REJECT
@@ -5204,6 +5205,7 @@ DOMAIN,analytics.carambo.la,REJECT
 DOMAIN,analytics.ceneo.pl,REJECT
 DOMAIN,analytics.chase.com,REJECT
 DOMAIN,analytics.cincopa.com,REJECT
+DOMAIN,analytics.cinematoday.jp,REJECT
 DOMAIN,analytics.clickpathmedia.com,REJECT
 DOMAIN,analytics.cloud.unity3d.com,REJECT
 DOMAIN,analytics.cmg.net,REJECT
@@ -9231,7 +9233,6 @@ DOMAIN,cdxyb.cn,REJECT
 DOMAIN,cdyqc.com,REJECT
 DOMAIN,ce.lijit.com,REJECT
 DOMAIN,ce.wlaoc.cn,REJECT
-DOMAIN,ce22d.cn,REJECT
 DOMAIN,ce62e0d222bc5aca.com,REJECT
 DOMAIN,cea53c4833.com,REJECT
 DOMAIN,cebadu.com,REJECT
@@ -14116,6 +14117,7 @@ DOMAIN,eba-amadeus.netdna-ssl.com,REJECT
 DOMAIN,ebahpya.com,REJECT
 DOMAIN,ebayclassifiedsgroup.com,REJECT
 DOMAIN,ebayobjects.com.au,REJECT
+DOMAIN,ebazucebid.com,REJECT
 DOMAIN,ebdr2.com,REJECT
 DOMAIN,ebdr3.com,REJECT
 DOMAIN,eberalofe.pro,REJECT
@@ -16441,6 +16443,7 @@ DOMAIN,funcionapage.com,REJECT
 DOMAIN,functionalclam.com,REJECT
 DOMAIN,functionalcrown.com,REJECT
 DOMAIN,fundardsesaz.club,REJECT
+DOMAIN,fungus.online,REJECT
 DOMAIN,fungypoho.com,REJECT
 DOMAIN,funklicks.com,REJECT
 DOMAIN,funloadskin.club,REJECT
@@ -19446,6 +19449,7 @@ DOMAIN,ifriends.net,REJECT
 DOMAIN,ifrwam.com,REJECT
 DOMAIN,ifs.tanx.com,REJECT
 DOMAIN,ifsmatbeg.site,REJECT
+DOMAIN,ifufen.com,REJECT
 DOMAIN,ifvox.com,REJECT
 DOMAIN,ifzwbqzqs.com,REJECT
 DOMAIN,ig0nr8hhhb.com,REJECT
@@ -21892,6 +21896,7 @@ DOMAIN,kotaku.xyz,REJECT
 DOMAIN,kotengens.net,REJECT
 DOMAIN,kotikinar2ko8tiki09.com,REJECT
 DOMAIN,kouclo.com,REJECT
+DOMAIN,koukoku.red,REJECT
 DOMAIN,koukou7.com,REJECT
 DOMAIN,kouraija.net,REJECT
 DOMAIN,koutobey.net,REJECT
@@ -22946,6 +22951,7 @@ DOMAIN,log.baophapluat.vn,REJECT
 DOMAIN,log.batdongsan.com.vn,REJECT
 DOMAIN,log.bitauto.com,REJECT
 DOMAIN,log.china.cn,REJECT
+DOMAIN,log.cinematoday.jp,REJECT
 DOMAIN,log.cizion.com,REJECT
 DOMAIN,log.cloud.sbs.co.kr,REJECT
 DOMAIN,log.cmpassport.com,REJECT
@@ -30923,6 +30929,7 @@ DOMAIN,qj.borsendental.com,REJECT
 DOMAIN,qjhlc.com,REJECT
 DOMAIN,qjjto.com,REJECT
 DOMAIN,qjokrqhidpki.com,REJECT
+DOMAIN,qjotiimmb.com,REJECT
 DOMAIN,qjrlcrkhnj.com,REJECT
 DOMAIN,qjueu.com,REJECT
 DOMAIN,qjyzj.cn,REJECT
@@ -32167,6 +32174,7 @@ DOMAIN,rkcqlsiu9fr6.top,REJECT
 DOMAIN,rkdms.com,REJECT
 DOMAIN,rkft2sdl8b.ru,REJECT
 DOMAIN,rkomf.com,REJECT
+DOMAIN,rkpecade.com,REJECT
 DOMAIN,rktch.com,REJECT
 DOMAIN,rktu.com,REJECT
 DOMAIN,rl.heise.de,REJECT

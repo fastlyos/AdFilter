@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI2NzAyOQo=
+# Checksum: MTYwNzI3Nzg1MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-5
-# TimeUpdated: 2020-12-06T15:03:49+00:00
+# Version: 1.6.8-20201206-6
+# TimeUpdated: 2020-12-06T18:04:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45738
+# Total: 45746
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9394,6 +9394,8 @@ ff02::3 ip6-allhosts
 :: ahhuazhen.com
 0.0.0.0 ahjdwb31.xyz
 :: ahjdwb31.xyz
+0.0.0.0 ahjzys.com
+:: ahjzys.com
 0.0.0.0 ahksqc.com.cn
 :: ahksqc.com.cn
 0.0.0.0 ahlxxx.com
@@ -10412,6 +10414,8 @@ ff02::3 ip6-allhosts
 :: analytics.chase.com
 0.0.0.0 analytics.cincopa.com
 :: analytics.cincopa.com
+0.0.0.0 analytics.cinematoday.jp
+:: analytics.cinematoday.jp
 0.0.0.0 analytics.clickpathmedia.com
 :: analytics.clickpathmedia.com
 0.0.0.0 analytics.cloud.unity3d.com
@@ -18466,8 +18470,6 @@ ff02::3 ip6-allhosts
 :: ce.lijit.com
 0.0.0.0 ce.wlaoc.cn
 :: ce.wlaoc.cn
-0.0.0.0 ce22d.cn
-:: ce22d.cn
 0.0.0.0 ce62e0d222bc5aca.com
 :: ce62e0d222bc5aca.com
 0.0.0.0 cea53c4833.com
@@ -28236,6 +28238,8 @@ ff02::3 ip6-allhosts
 :: ebayclassifiedsgroup.com
 0.0.0.0 ebayobjects.com.au
 :: ebayobjects.com.au
+0.0.0.0 ebazucebid.com
+:: ebazucebid.com
 0.0.0.0 ebdr2.com
 :: ebdr2.com
 0.0.0.0 ebdr3.com
@@ -32886,6 +32890,8 @@ ff02::3 ip6-allhosts
 :: functionalcrown.com
 0.0.0.0 fundardsesaz.club
 :: fundardsesaz.club
+0.0.0.0 fungus.online
+:: fungus.online
 0.0.0.0 fungypoho.com
 :: fungypoho.com
 0.0.0.0 funklicks.com
@@ -38896,6 +38902,8 @@ ff02::3 ip6-allhosts
 :: ifs.tanx.com
 0.0.0.0 ifsmatbeg.site
 :: ifsmatbeg.site
+0.0.0.0 ifufen.com
+:: ifufen.com
 0.0.0.0 ifvox.com
 :: ifvox.com
 0.0.0.0 ifzwbqzqs.com
@@ -43788,6 +43796,8 @@ ff02::3 ip6-allhosts
 :: kotikinar2ko8tiki09.com
 0.0.0.0 kouclo.com
 :: kouclo.com
+0.0.0.0 koukoku.red
+:: koukoku.red
 0.0.0.0 koukou7.com
 :: koukou7.com
 0.0.0.0 kouraija.net
@@ -45896,6 +45906,8 @@ ff02::3 ip6-allhosts
 :: log.bitauto.com
 0.0.0.0 log.china.cn
 :: log.china.cn
+0.0.0.0 log.cinematoday.jp
+:: log.cinematoday.jp
 0.0.0.0 log.cizion.com
 :: log.cizion.com
 0.0.0.0 log.cloud.sbs.co.kr
@@ -61850,6 +61862,8 @@ ff02::3 ip6-allhosts
 :: qjjto.com
 0.0.0.0 qjokrqhidpki.com
 :: qjokrqhidpki.com
+0.0.0.0 qjotiimmb.com
+:: qjotiimmb.com
 0.0.0.0 qjrlcrkhnj.com
 :: qjrlcrkhnj.com
 0.0.0.0 qjueu.com
@@ -64338,6 +64352,8 @@ ff02::3 ip6-allhosts
 :: rkft2sdl8b.ru
 0.0.0.0 rkomf.com
 :: rkomf.com
+0.0.0.0 rkpecade.com
+:: rkpecade.com
 0.0.0.0 rktch.com
 :: rktch.com
 0.0.0.0 rktu.com
