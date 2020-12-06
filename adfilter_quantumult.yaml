@@ -1,11 +1,11 @@
-# Checksum: MTYwNzIyOTg1Ngo=
-# Title: Zhijie's Ad Filter for Surge (DNS-level)
+# Checksum: MTYwNzIzMDk3MAo=
+# Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.7-20201206-1
-# TimeUpdated: 2020-12-06T04:44:16+00:00
+# Version: 1.6.8-20201206-1
+# TimeUpdated: 2020-12-06T05:02:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45710
+# Total: 45712
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -848,6 +848,7 @@ DOMAIN,3under.ru,REJECT
 DOMAIN,3wdf4.xyz,REJECT
 DOMAIN,3wnp9.ru,REJECT
 DOMAIN,3wr110.net,REJECT
+DOMAIN,3wtuan.com,REJECT
 DOMAIN,3wz6z.bchuangpi.cn,REJECT
 DOMAIN,3ye7lbhnlk.xyz,REJECT
 DOMAIN,3ygww.com,REJECT
@@ -33340,6 +33341,7 @@ DOMAIN,scottdwebgraphics.com,REJECT
 DOMAIN,scottingflori.club,REJECT
 DOMAIN,scounter.rambler.ru,REJECT
 DOMAIN,scout.haymarketmedia.com,REJECT
+DOMAIN,scout.rollcall.com,REJECT
 DOMAIN,scout.us2.salesloft.com,REJECT
 DOMAIN,scoutle.com,REJECT
 DOMAIN,scqajt.cn,REJECT
