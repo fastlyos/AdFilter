@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI3Nzg1MQo=
+# Checksum: MTYwNzI4ODYxNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-6
-# TimeUpdated: 2020-12-06T18:04:11+00:00
+# Version: 1.6.8-20201206-7
+# TimeUpdated: 2020-12-06T21:03:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45746
+# Total: 45748
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2722,6 +2722,8 @@ ff02::3 ip6-allhosts
 :: 7839e0482307b9276b.com
 0.0.0.0 788111.com
 :: 788111.com
+0.0.0.0 788xj.com
+:: 788xj.com
 0.0.0.0 789.club
 :: 789.club
 0.0.0.0 789.fun
@@ -4562,6 +4564,8 @@ ff02::3 ip6-allhosts
 :: achilles-ena.com
 0.0.0.0 achinahdh.club
 :: achinahdh.club
+0.0.0.0 achiname.info
+:: achiname.info
 0.0.0.0 acidpigs.com
 :: acidpigs.com
 0.0.0.0 acint.net
@@ -11052,8 +11056,6 @@ ff02::3 ip6-allhosts
 :: anunciospatrocinados.com
 0.0.0.0 anura.io
 :: anura.io
-0.0.0.0 anvtnqpbkjyk.com
-:: anvtnqpbkjyk.com
 0.0.0.0 anxdwq.com
 :: anxdwq.com
 0.0.0.0 anxiousapples.com
@@ -20752,8 +20754,6 @@ ff02::3 ip6-allhosts
 :: commissionlounge.com
 0.0.0.0 commissionmonster.com
 :: commissionmonster.com
-0.0.0.0 commodationship.info
-:: commodationship.info
 0.0.0.0 common.duapps.com
 :: common.duapps.com
 0.0.0.0 commonalmanac.com
@@ -42240,6 +42240,8 @@ ff02::3 ip6-allhosts
 :: js.gdyjs.com
 0.0.0.0 js.gewuwen.com
 :: js.gewuwen.com
+0.0.0.0 js.goodemc.com
+:: js.goodemc.com
 0.0.0.0 js.goods.redtram.com
 :: js.goods.redtram.com
 0.0.0.0 js.gsspcln.jp
@@ -42636,6 +42638,8 @@ ff02::3 ip6-allhosts
 :: jtneoqbd.com
 0.0.0.0 jtpc2pa9o2n7.com
 :: jtpc2pa9o2n7.com
+0.0.0.0 jtrackern.joins.com
+:: jtrackern.joins.com
 0.0.0.0 jtug.code.poyang.com
 :: jtug.code.poyang.com
 0.0.0.0 jtuzd.rdtk.io

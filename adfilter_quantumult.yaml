@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI3Nzg1MQo=
+# Checksum: MTYwNzI4ODYxNwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-6
-# TimeUpdated: 2020-12-06T18:04:11+00:00
+# Version: 1.6.8-20201206-7
+# TimeUpdated: 2020-12-06T21:03:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45746
+# Total: 45748
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1359,6 +1359,7 @@ DOMAIN,77tracking.com,REJECT
 DOMAIN,77xtv.com,REJECT
 DOMAIN,7839e0482307b9276b.com,REJECT
 DOMAIN,788111.com,REJECT
+DOMAIN,788xj.com,REJECT
 DOMAIN,789.club,REJECT
 DOMAIN,789.fun,REJECT
 DOMAIN,789.kakamobi.cn,REJECT
@@ -2279,6 +2280,7 @@ DOMAIN,achedgodroad.com,REJECT
 DOMAIN,achicih.gitee.io,REJECT
 DOMAIN,achilles-ena.com,REJECT
 DOMAIN,achinahdh.club,REJECT
+DOMAIN,achiname.info,REJECT
 DOMAIN,acidpigs.com,REJECT
 DOMAIN,acint.net,REJECT
 DOMAIN,acjs.aliyun.com,REJECT
@@ -5524,7 +5526,6 @@ DOMAIN,ants.vn,REJECT
 DOMAIN,antvoice.com,REJECT
 DOMAIN,anunciospatrocinados.com,REJECT
 DOMAIN,anura.io,REJECT
-DOMAIN,anvtnqpbkjyk.com,REJECT
 DOMAIN,anxdwq.com,REJECT
 DOMAIN,anxiousapples.com,REJECT
 DOMAIN,anyangruisi.com,REJECT
@@ -10374,7 +10375,6 @@ DOMAIN,commissionfactory.com.au,REJECT
 DOMAIN,commissionkings.ag,REJECT
 DOMAIN,commissionlounge.com,REJECT
 DOMAIN,commissionmonster.com,REJECT
-DOMAIN,commodationship.info,REJECT
 DOMAIN,common.duapps.com,REJECT
 DOMAIN,commonalmanac.com,REJECT
 DOMAIN,commonswing.com,REJECT
@@ -21118,6 +21118,7 @@ DOMAIN,js.flpjc.com,REJECT
 DOMAIN,js.gdsln.ru,REJECT
 DOMAIN,js.gdyjs.com,REJECT
 DOMAIN,js.gewuwen.com,REJECT
+DOMAIN,js.goodemc.com,REJECT
 DOMAIN,js.goods.redtram.com,REJECT
 DOMAIN,js.gsspcln.jp,REJECT
 DOMAIN,js.haoxyx.com,REJECT
@@ -21316,6 +21317,7 @@ DOMAIN,jtdxz.top,REJECT
 DOMAIN,jti.husky.sogou.com,REJECT
 DOMAIN,jtneoqbd.com,REJECT
 DOMAIN,jtpc2pa9o2n7.com,REJECT
+DOMAIN,jtrackern.joins.com,REJECT
 DOMAIN,jtug.code.poyang.com,REJECT
 DOMAIN,jtuzd.rdtk.io,REJECT
 DOMAIN,jtxh.net,REJECT

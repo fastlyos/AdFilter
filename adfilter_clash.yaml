@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzI3Nzg1MQo=
+# Checksum: MTYwNzI4ODYxNwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-6
-# TimeUpdated: 2020-12-06T18:04:11+00:00
+# Version: 1.6.8-20201206-7
+# TimeUpdated: 2020-12-06T21:03:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45746
+# Total: 45748
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -1360,6 +1360,7 @@ payload:
   - DOMAIN,77xtv.com
   - DOMAIN,7839e0482307b9276b.com
   - DOMAIN,788111.com
+  - DOMAIN,788xj.com
   - DOMAIN,789.club
   - DOMAIN,789.fun
   - DOMAIN,789.kakamobi.cn
@@ -2280,6 +2281,7 @@ payload:
   - DOMAIN,achicih.gitee.io
   - DOMAIN,achilles-ena.com
   - DOMAIN,achinahdh.club
+  - DOMAIN,achiname.info
   - DOMAIN,acidpigs.com
   - DOMAIN,acint.net
   - DOMAIN,acjs.aliyun.com
@@ -5525,7 +5527,6 @@ payload:
   - DOMAIN,antvoice.com
   - DOMAIN,anunciospatrocinados.com
   - DOMAIN,anura.io
-  - DOMAIN,anvtnqpbkjyk.com
   - DOMAIN,anxdwq.com
   - DOMAIN,anxiousapples.com
   - DOMAIN,anyangruisi.com
@@ -10375,7 +10376,6 @@ payload:
   - DOMAIN,commissionkings.ag
   - DOMAIN,commissionlounge.com
   - DOMAIN,commissionmonster.com
-  - DOMAIN,commodationship.info
   - DOMAIN,common.duapps.com
   - DOMAIN,commonalmanac.com
   - DOMAIN,commonswing.com
@@ -21119,6 +21119,7 @@ payload:
   - DOMAIN,js.gdsln.ru
   - DOMAIN,js.gdyjs.com
   - DOMAIN,js.gewuwen.com
+  - DOMAIN,js.goodemc.com
   - DOMAIN,js.goods.redtram.com
   - DOMAIN,js.gsspcln.jp
   - DOMAIN,js.haoxyx.com
@@ -21317,6 +21318,7 @@ payload:
   - DOMAIN,jti.husky.sogou.com
   - DOMAIN,jtneoqbd.com
   - DOMAIN,jtpc2pa9o2n7.com
+  - DOMAIN,jtrackern.joins.com
   - DOMAIN,jtug.code.poyang.com
   - DOMAIN,jtuzd.rdtk.io
   - DOMAIN,jtxh.net
