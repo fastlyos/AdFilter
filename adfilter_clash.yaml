@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzI1NjI5OQo=
+# Checksum: MTYwNzI2NzAyOQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-4
-# TimeUpdated: 2020-12-06T12:04:59+00:00
+# Version: 1.6.8-20201206-5
+# TimeUpdated: 2020-12-06T15:03:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45737
+# Total: 45738
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -223,6 +223,7 @@ payload:
   - DOMAIN,10078777.com
   - DOMAIN,1008691.com
   - DOMAIN,10086yule.com
+  - DOMAIN,100cpc.com
   - DOMAIN,100fenlm.cn
   - DOMAIN,100fenlm.com
   - DOMAIN,100peng.com
@@ -9475,7 +9476,6 @@ payload:
   - DOMAIN,chinaqirun.cn
   - DOMAIN,chinauma.net
   - DOMAIN,chinaweian.com
-  - DOMAIN,chinawms.cn
   - DOMAIN,chinaxiedu.cn
   - DOMAIN,chinazmob.com
   - DOMAIN,chinesean.com
@@ -27120,6 +27120,7 @@ payload:
   - DOMAIN,nqtnwvwigvo.com
   - DOMAIN,nqtqrnfzvp.com
   - DOMAIN,nqtxg.xyz
+  - DOMAIN,nqwkzvqwa.com
   - DOMAIN,nr1234.com
   - DOMAIN,nr7.us
   - DOMAIN,nraddramatica.club

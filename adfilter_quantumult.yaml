@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI1NjI5OQo=
+# Checksum: MTYwNzI2NzAyOQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-4
-# TimeUpdated: 2020-12-06T12:04:59+00:00
+# Version: 1.6.8-20201206-5
+# TimeUpdated: 2020-12-06T15:03:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45737
+# Total: 45738
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -222,6 +222,7 @@ DOMAIN,100669.com,REJECT
 DOMAIN,10078777.com,REJECT
 DOMAIN,1008691.com,REJECT
 DOMAIN,10086yule.com,REJECT
+DOMAIN,100cpc.com,REJECT
 DOMAIN,100fenlm.cn,REJECT
 DOMAIN,100fenlm.com,REJECT
 DOMAIN,100peng.com,REJECT
@@ -9474,7 +9475,6 @@ DOMAIN,chinaheh.com,REJECT
 DOMAIN,chinaqirun.cn,REJECT
 DOMAIN,chinauma.net,REJECT
 DOMAIN,chinaweian.com,REJECT
-DOMAIN,chinawms.cn,REJECT
 DOMAIN,chinaxiedu.cn,REJECT
 DOMAIN,chinazmob.com,REJECT
 DOMAIN,chinesean.com,REJECT
@@ -27119,6 +27119,7 @@ DOMAIN,nqslmtuswqdz.com,REJECT
 DOMAIN,nqtnwvwigvo.com,REJECT
 DOMAIN,nqtqrnfzvp.com,REJECT
 DOMAIN,nqtxg.xyz,REJECT
+DOMAIN,nqwkzvqwa.com,REJECT
 DOMAIN,nr1234.com,REJECT
 DOMAIN,nr7.us,REJECT
 DOMAIN,nraddramatica.club,REJECT
