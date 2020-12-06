@@ -1,11 +1,11 @@
-# Checksum: MTYwNzIzMDk3MAo=
+# Checksum: MTYwNzIzNDY3OQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-1
-# TimeUpdated: 2020-12-06T05:02:50+00:00
+# Version: 1.6.8-20201206-2
+# TimeUpdated: 2020-12-06T06:04:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45712
+# Total: 45704
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -8466,7 +8466,6 @@ DOMAIN,c.cpl2.ru,REJECT
 DOMAIN,c.cqpsf.cn,REJECT
 DOMAIN,c.ctags.cn,REJECT
 DOMAIN,c.cyhx98.com,REJECT
-DOMAIN,c.danangmo.cn,REJECT
 DOMAIN,c.data.mob.com,REJECT
 DOMAIN,c.dcgwnhk.cn,REJECT
 DOMAIN,c.dg186.cn,REJECT
@@ -13119,7 +13118,6 @@ DOMAIN,dmg.digitaltarget.ru,REJECT
 DOMAIN,dmkdtkad2jyb9.cloudfront.net,REJECT
 DOMAIN,dmm.aizhan.com,REJECT
 DOMAIN,dmodernedindivin.info,REJECT
-DOMAIN,dmp.adpush.cn,REJECT
 DOMAIN,dmp.kejet.net,REJECT
 DOMAIN,dmp.marketgid.com,REJECT
 DOMAIN,dmp.sina.cn,REJECT
@@ -13853,7 +13851,6 @@ DOMAIN,e.huoas.com,REJECT
 DOMAIN,e.hyzui.com,REJECT
 DOMAIN,e.icyrd.com,REJECT
 DOMAIN,e.ihais.com,REJECT
-DOMAIN,e.ijuns.com,REJECT
 DOMAIN,e.imiek.com,REJECT
 DOMAIN,e.iruad.com,REJECT
 DOMAIN,e.jbanb.com,REJECT
@@ -23728,7 +23725,6 @@ DOMAIN,m.icoc2018.cn,REJECT
 DOMAIN,m.icyrd.com,REJECT
 DOMAIN,m.ienkdago.cn,REJECT
 DOMAIN,m.ihais.com,REJECT
-DOMAIN,m.ijuns.com,REJECT
 DOMAIN,m.imiek.com,REJECT
 DOMAIN,m.infvb.com,REJECT
 DOMAIN,m.iorgb.com,REJECT
@@ -26452,7 +26448,6 @@ DOMAIN,nest.ru.net,REJECT
 DOMAIN,nestedmedia.com,REJECT
 DOMAIN,nesystersp.club,REJECT
 DOMAIN,net-filter.com,REJECT
-DOMAIN,net.adpush.cn,REJECT
 DOMAIN,net.haier.com,REJECT
 DOMAIN,net.rayjump.com,REJECT
 DOMAIN,net00.biz,REJECT
@@ -32423,7 +32418,6 @@ DOMAIN,rtbmedia.org,REJECT
 DOMAIN,rtbnowads.com,REJECT
 DOMAIN,rtbpop.com,REJECT
 DOMAIN,rtbpopd.com,REJECT
-DOMAIN,rtbstat.zcdsp.com,REJECT
 DOMAIN,rtbstream.com,REJECT
 DOMAIN,rtbsystem.com,REJECT
 DOMAIN,rtbterra.com,REJECT
@@ -35462,7 +35456,6 @@ DOMAIN,ssp.0531kt.com,REJECT
 DOMAIN,ssp.08160.cn,REJECT
 DOMAIN,ssp.1rtb.com,REJECT
 DOMAIN,ssp.4hw.com.cn,REJECT
-DOMAIN,ssp.adpush.cn,REJECT
 DOMAIN,ssp.adriver.ru,REJECT
 DOMAIN,ssp.cibn.starschina.com,REJECT
 DOMAIN,ssp.daxueshengqiandai.com,REJECT
@@ -36841,7 +36834,6 @@ DOMAIN,t.c4tw.net,REJECT
 DOMAIN,t.castle.io,REJECT
 DOMAIN,t.cfjump.com,REJECT
 DOMAIN,t.channeladvisor.com,REJECT
-DOMAIN,t.chengadx.com,REJECT
 DOMAIN,t.cinemablend.com,REJECT
 DOMAIN,t.clic2buy.com,REJECT
 DOMAIN,t.cnscore.com,REJECT

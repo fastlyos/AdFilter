@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzIzMDk3MAo=
+# Checksum: MTYwNzIzNDY3OQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-1
-# TimeUpdated: 2020-12-06T05:02:50+00:00
+# Version: 1.6.8-20201206-2
+# TimeUpdated: 2020-12-06T06:04:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45712
+# Total: 45704
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -8467,7 +8467,6 @@ payload:
   - DOMAIN,c.cqpsf.cn
   - DOMAIN,c.ctags.cn
   - DOMAIN,c.cyhx98.com
-  - DOMAIN,c.danangmo.cn
   - DOMAIN,c.data.mob.com
   - DOMAIN,c.dcgwnhk.cn
   - DOMAIN,c.dg186.cn
@@ -13120,7 +13119,6 @@ payload:
   - DOMAIN,dmkdtkad2jyb9.cloudfront.net
   - DOMAIN,dmm.aizhan.com
   - DOMAIN,dmodernedindivin.info
-  - DOMAIN,dmp.adpush.cn
   - DOMAIN,dmp.kejet.net
   - DOMAIN,dmp.marketgid.com
   - DOMAIN,dmp.sina.cn
@@ -13854,7 +13852,6 @@ payload:
   - DOMAIN,e.hyzui.com
   - DOMAIN,e.icyrd.com
   - DOMAIN,e.ihais.com
-  - DOMAIN,e.ijuns.com
   - DOMAIN,e.imiek.com
   - DOMAIN,e.iruad.com
   - DOMAIN,e.jbanb.com
@@ -23729,7 +23726,6 @@ payload:
   - DOMAIN,m.icyrd.com
   - DOMAIN,m.ienkdago.cn
   - DOMAIN,m.ihais.com
-  - DOMAIN,m.ijuns.com
   - DOMAIN,m.imiek.com
   - DOMAIN,m.infvb.com
   - DOMAIN,m.iorgb.com
@@ -26453,7 +26449,6 @@ payload:
   - DOMAIN,nestedmedia.com
   - DOMAIN,nesystersp.club
   - DOMAIN,net-filter.com
-  - DOMAIN,net.adpush.cn
   - DOMAIN,net.haier.com
   - DOMAIN,net.rayjump.com
   - DOMAIN,net00.biz
@@ -32424,7 +32419,6 @@ payload:
   - DOMAIN,rtbnowads.com
   - DOMAIN,rtbpop.com
   - DOMAIN,rtbpopd.com
-  - DOMAIN,rtbstat.zcdsp.com
   - DOMAIN,rtbstream.com
   - DOMAIN,rtbsystem.com
   - DOMAIN,rtbterra.com
@@ -35463,7 +35457,6 @@ payload:
   - DOMAIN,ssp.08160.cn
   - DOMAIN,ssp.1rtb.com
   - DOMAIN,ssp.4hw.com.cn
-  - DOMAIN,ssp.adpush.cn
   - DOMAIN,ssp.adriver.ru
   - DOMAIN,ssp.cibn.starschina.com
   - DOMAIN,ssp.daxueshengqiandai.com
@@ -36842,7 +36835,6 @@ payload:
   - DOMAIN,t.castle.io
   - DOMAIN,t.cfjump.com
   - DOMAIN,t.channeladvisor.com
-  - DOMAIN,t.chengadx.com
   - DOMAIN,t.cinemablend.com
   - DOMAIN,t.clic2buy.com
   - DOMAIN,t.cnscore.com
