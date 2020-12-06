@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.6.7
+# Current Version: 1.6.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -135,7 +135,7 @@ function GenerateInformation() {
     function adfilter_clash() {
         echo "payload:" > ../adfilter_clash.yaml
         echo "# Checksum: ${adfilter_checksum}" >> ../adfilter_clash.yaml
-        echo "# Title: ${adfilter_title} for Surge (DNS-level)" >> ../adfilter_clash.yaml
+        echo "# Title: ${adfilter_title} for Clash (DNS-level)" >> ../adfilter_clash.yaml
         echo "# Description: ${adfilter_description}" >> ../adfilter_clash.yaml
         echo "# Version: ${adfilter_version}" >> ../adfilter_clash.yaml
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_clash.yaml
@@ -185,7 +185,7 @@ function GenerateInformation() {
     }
     function adfilter_quantumult() {
         echo "# Checksum: ${adfilter_checksum}" > ../adfilter_quantumult.yaml
-        echo "# Title: ${adfilter_title} for Surge (DNS-level)" >> ../adfilter_quantumult.yaml
+        echo "# Title: ${adfilter_title} for Quantumult (DNS-level)" >> ../adfilter_quantumult.yaml
         echo "# Description: ${adfilter_description}" >> ../adfilter_quantumult.yaml
         echo "# Version: ${adfilter_version}" >> ../adfilter_quantumult.yaml
         echo "# TimeUpdated: ${adfilter_timeupdated}" >> ../adfilter_quantumult.yaml
