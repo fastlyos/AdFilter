@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzM1MzQ4MAo=
+# Checksum: MTYwNzM2NDI2Nwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-5
-# TimeUpdated: 2020-12-07T15:04:40+00:00
+# Version: 1.6.8-20201207-6
+# TimeUpdated: 2020-12-07T18:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45682
+# Total: 45710
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -2826,6 +2826,7 @@ payload:
   - DOMAIN,adbl.spieletipps.de
   - DOMAIN,adblade.com
   - DOMAIN,adblender.ru
+  - DOMAIN,adblock-analytics.io
   - DOMAIN,adblock.sina.cn
   - DOMAIN,adblockanalytics.com
   - DOMAIN,adblockmetrics.ru
@@ -3554,6 +3555,7 @@ payload:
   - DOMAIN,adrta.com
   - DOMAIN,adrttt.com
   - DOMAIN,adru.net
+  - DOMAIN,adrun.ru
   - DOMAIN,adrunnr.com
   - DOMAIN,ads-a.juicyads.com
   - DOMAIN,ads-banner.1mobile.com
@@ -5466,7 +5468,6 @@ payload:
   - DOMAIN,andyhoppe.com
   - DOMAIN,anekaiklan.com
   - DOMAIN,anelexpres.club
-  - DOMAIN,anerqdd.ga
   - DOMAIN,anews.cc
   - DOMAIN,anews7.nvwu.com
   - DOMAIN,anfeng.com
@@ -6385,6 +6386,7 @@ payload:
   - DOMAIN,aujaujoa.net
   - DOMAIN,aujooxoo.com
   - DOMAIN,aukalerim.com
+  - DOMAIN,aukana.jp
   - DOMAIN,aukrouwy.net
   - DOMAIN,aulingimpora.club
   - DOMAIN,aumaupoy.net
@@ -6881,7 +6883,6 @@ payload:
   - DOMAIN,banner.kiev.ua
   - DOMAIN,banner.klikklik.nl
   - DOMAIN,banner.lbs.km.ru
-  - DOMAIN,banner.maido3.com
   - DOMAIN,banner.mob.hr
   - DOMAIN,banner.themediaplanets.com
   - DOMAIN,banner.titancasino.com
@@ -7302,7 +7303,6 @@ payload:
   - DOMAIN,beead.it
   - DOMAIN,beead.net
   - DOMAIN,beefraidmob.com
-  - DOMAIN,beeftransmission.com
   - DOMAIN,beegotou.net
   - DOMAIN,beehousebalta.com
   - DOMAIN,beeketing.com
@@ -7626,6 +7626,7 @@ payload:
   - DOMAIN,binlayer.com
   - DOMAIN,binlayer.de
   - DOMAIN,bintds.com
+  - DOMAIN,bional-dested.icu
   - DOMAIN,bionicclick.com
   - DOMAIN,biosda.com
   - DOMAIN,bioxtubes.com
@@ -8285,6 +8286,7 @@ payload:
   - DOMAIN,bukolii.ru
   - DOMAIN,bulb.76.my
   - DOMAIN,bulbbait.com
+  - DOMAIN,bulbsanctify.com
   - DOMAIN,buleor.com
   - DOMAIN,bulkeach.com
   - DOMAIN,bulkhentai.com
@@ -8437,6 +8439,7 @@ payload:
   - DOMAIN,byzoo.org
   - DOMAIN,bza.co
   - DOMAIN,bzclk.baidu.com
+  - DOMAIN,bzgxqj.com
   - DOMAIN,bzidp.com
   - DOMAIN,bzlwe.com
   - DOMAIN,bzrpvk.com
@@ -15486,6 +15489,7 @@ payload:
   - DOMAIN,fair.sogou.com
   - DOMAIN,fairadsnetwork.com
   - DOMAIN,fairfaxmedia.sharedcount.com
+  - DOMAIN,fairieflame.com
   - DOMAIN,fairlink.ru
   - DOMAIN,fairnessels.com
   - DOMAIN,fairnessenhancedisposal.com
@@ -16008,6 +16012,7 @@ payload:
   - DOMAIN,flirt4free.com
   - DOMAIN,flirtingsms.com
   - DOMAIN,flixcar.com
+  - DOMAIN,flixcontentshop.com
   - DOMAIN,flixfacts.co.uk
   - DOMAIN,flixfacts.com
   - DOMAIN,flixsyndication.net
@@ -16022,6 +16027,7 @@ payload:
   - DOMAIN,flogs.orange.es
   - DOMAIN,flomigo.com
   - DOMAIN,floodprincipal.com
+  - DOMAIN,flow.concord.systems
   - DOMAIN,flowcodeapp.com
   - DOMAIN,floweryoperation.com
   - DOMAIN,flowerythug.com
@@ -16037,7 +16043,6 @@ payload:
   - DOMAIN,fluencymedia.com
   - DOMAIN,fluentmobile.com
   - DOMAIN,fluffyeaster.com
-  - DOMAIN,fluidads.co
   - DOMAIN,fluidsurveys.com
   - DOMAIN,flunion.cn
   - DOMAIN,flurry.cachefly.net
@@ -16303,6 +16308,7 @@ payload:
   - DOMAIN,freepressseries-gb.freepressseries.co.uk
   - DOMAIN,freeproxy.ro
   - DOMAIN,freerotator.com
+  - DOMAIN,frees2020.com
   - DOMAIN,freesitemapgenerator.com
   - DOMAIN,freeskreen.com
   - DOMAIN,freesoftforever.com
@@ -18273,6 +18279,7 @@ payload:
   - DOMAIN,hchik.com
   - DOMAIN,hcprzx.cn
   - DOMAIN,hcrwnoaqe.com
+  - DOMAIN,hcwaxejunyzvxt.com
   - DOMAIN,hcwljy.com
   - DOMAIN,hczzw.com
   - DOMAIN,hd.browser.miui.com
@@ -18526,6 +18533,7 @@ payload:
   - DOMAIN,hijack.baidu.com
   - DOMAIN,hikeheoratth.info
   - DOMAIN,hikvar.ru
+  - DOMAIN,hikyceti.pro
   - DOMAIN,hilariouszinc.com
   - DOMAIN,hilleness.info
   - DOMAIN,hillingdontimes-gb.hillingdontimes.co.uk
@@ -19102,6 +19110,7 @@ payload:
   - DOMAIN,hw6.com
   - DOMAIN,hwad.zuimeitianqi.com
   - DOMAIN,hwhiffonprotect.info
+  - DOMAIN,hwmonitor-ru.ru
   - DOMAIN,hwstats.unity3d.com
   - DOMAIN,hx623.cn
   - DOMAIN,hxadt.com
@@ -21007,6 +21016,7 @@ payload:
   - DOMAIN,joheeptaicat.com
   - DOMAIN,johtzj.com
   - DOMAIN,join.xlgirls.com
+  - DOMAIN,joinads.me
   - DOMAIN,joinhiesnext.com
   - DOMAIN,joiningpreferencemobile.com
   - DOMAIN,jointreport-switch.com
@@ -23161,6 +23171,7 @@ payload:
   - DOMAIN,logs.juspay.in
   - DOMAIN,logs.newapi.com
   - DOMAIN,logs.ntvplus.tv
+  - DOMAIN,logs.psm.wmcdp.io
   - DOMAIN,logs.roku.com
   - DOMAIN,logs.spilgames.com
   - DOMAIN,logs.supersonic.com
@@ -23216,6 +23227,7 @@ payload:
   - DOMAIN,loodoost.net
   - DOMAIN,loodyas.com
   - DOMAIN,loohiwez.net
+  - DOMAIN,look.flowln.com
   - DOMAIN,look.kfiopkln.com
   - DOMAIN,lookery.com
   - DOMAIN,lookfornews.net
@@ -25742,6 +25754,7 @@ payload:
   - DOMAIN,movcpm.com
   - DOMAIN,moveadrenaline.com
   - DOMAIN,movemeal.com
+  - DOMAIN,movfull.com
   - DOMAIN,movie-pass.club
   - DOMAIN,movie-pass.live
   - DOMAIN,movie-streams-online.com
@@ -28540,6 +28553,7 @@ payload:
   - DOMAIN,particularmadam.com
   - DOMAIN,partiesrelyfoliage.com
   - DOMAIN,partishion.com
+  - DOMAIN,partitiondetergenttumor.com
   - DOMAIN,partner-ads.com
   - DOMAIN,partner-earning.com
   - DOMAIN,partner-ts.groupon.fr
@@ -34068,6 +34082,7 @@ payload:
   - DOMAIN,sfe-eu.beeppool.org
   - DOMAIN,sffmctrnimk.com
   - DOMAIN,sfk.t58b.com
+  - DOMAIN,sfl-engin.surge.systems
   - DOMAIN,sflywdvzyh.com
   - DOMAIN,sfsudsf.pro
   - DOMAIN,sftapi.com
@@ -34608,6 +34623,7 @@ payload:
   - DOMAIN,sl.hpplay.cn
   - DOMAIN,sl1me.com
   - DOMAIN,slabshookwasted.com
+  - DOMAIN,slashstar.net
   - DOMAIN,slava.soloway.su
   - DOMAIN,slaveforgetfulsneak.com
   - DOMAIN,slavesfraudulent.com
@@ -34790,6 +34806,7 @@ payload:
   - DOMAIN,sms.ads.oppomobile.com
   - DOMAIN,smsimprisee.club
   - DOMAIN,smt.admaster.com.cn
+  - DOMAIN,smtrk.net
   - DOMAIN,smucdn.com
   - DOMAIN,smxay.com
   - DOMAIN,smxsg.com
@@ -37438,6 +37455,7 @@ payload:
   - DOMAIN,telemetric.dk
   - DOMAIN,telemetry.allrecipes.com
   - DOMAIN,telemetry.api.swiftkey.com
+  - DOMAIN,telemetry.api.wmcdp.io
   - DOMAIN,telemetry.appex.bing.net
   - DOMAIN,telemetry.art19.com
   - DOMAIN,telemetry.jivosite.com
@@ -38081,6 +38099,7 @@ payload:
   - DOMAIN,togenron.com
   - DOMAIN,toglegbig.com
   - DOMAIN,tognilaha.com
+  - DOMAIN,togranbulla.com
   - DOMAIN,togroltu.net
   - DOMAIN,tohopes.ru
   - DOMAIN,toissue.cn
@@ -38592,6 +38611,7 @@ payload:
   - DOMAIN,tracker.downdetector.com
   - DOMAIN,tracker.durasite.net
   - DOMAIN,tracker.euroweb.net
+  - DOMAIN,tracker.fado.vn
   - DOMAIN,tracker.financialcontent.com
   - DOMAIN,tracker.giftd.ru
   - DOMAIN,tracker.icerocket.com
@@ -38692,6 +38712,7 @@ payload:
   - DOMAIN,tracking.ehavior.net
   - DOMAIN,tracking.emsmobile.de
   - DOMAIN,tracking.eurosport.com
+  - DOMAIN,tracking.fado.vn
   - DOMAIN,tracking.fanbridge.com
   - DOMAIN,tracking.fccinteractive.com
   - DOMAIN,tracking.feedperfect.com
@@ -39705,6 +39726,7 @@ payload:
   - DOMAIN,ukcomparends.pro
   - DOMAIN,ukeiae.com
   - DOMAIN,uklvebsp.com
+  - DOMAIN,ukoffzeh.com
   - DOMAIN,ukrbanner.net
   - DOMAIN,ukwoxufaepbhn.com
   - DOMAIN,ul8seok7w5al.com
@@ -40843,6 +40865,7 @@ payload:
   - DOMAIN,virnews.club
   - DOMAIN,virool.com
   - DOMAIN,virt0n.news
+  - DOMAIN,virtonnews.com
   - DOMAIN,virtuagirlhd.com
   - DOMAIN,virtualnet.co.uk
   - DOMAIN,visariomedia.com
@@ -40903,6 +40926,7 @@ payload:
   - DOMAIN,vivdq.com
   - DOMAIN,vivi987.com
   - DOMAIN,vividcash.com
+  - DOMAIN,vividlobster.com
   - DOMAIN,vivistats.com
   - DOMAIN,vivocha.com
   - DOMAIN,vivovip.mmszxc.top
@@ -41411,6 +41435,7 @@ payload:
   - DOMAIN,waxpigbaa.com
   - DOMAIN,waxtamnit.com
   - DOMAIN,waycash.net
+  - DOMAIN,wayfarerspoutpraise.com
   - DOMAIN,waynagmay.com
   - DOMAIN,waypresentsstud.com
   - DOMAIN,waysinbeg.com
@@ -41459,6 +41484,7 @@ payload:
   - DOMAIN,wdr9.inseec.com
   - DOMAIN,wdrgqoweorjfp.com
   - DOMAIN,wds.inte.sogoucdn.com
+  - DOMAIN,wdsvc.net
   - DOMAIN,wdt9iaspfv3o.com
   - DOMAIN,wdymwzz.com
   - DOMAIN,wdzsb.com.cn
@@ -41735,7 +41761,6 @@ payload:
   - DOMAIN,wepmmzpypfwq.com
   - DOMAIN,weptpremisedefined.com
   - DOMAIN,weq.me
-  - DOMAIN,werbe-sponsor.de
   - DOMAIN,werbeflut.net
   - DOMAIN,werbenetzwerk.tk
   - DOMAIN,weredadmitt.club
@@ -41995,6 +42020,7 @@ payload:
   - DOMAIN,windows-remora-system.com
   - DOMAIN,windowsguidenews.com
   - DOMAIN,windowsxi.com
+  - DOMAIN,winfreeprize.online
   - DOMAIN,wingads.com
   - DOMAIN,winlinebet.ru
   - DOMAIN,winmonero.club
@@ -42015,6 +42041,7 @@ payload:
   - DOMAIN,wirelesstube.mobi
   - DOMAIN,wirenth.com
   - DOMAIN,wiresurequezer.pro
+  - DOMAIN,wirewuss.com
   - DOMAIN,wirralglobe-gb.wirralglobe.co.uk
   - DOMAIN,wiruaewnsicnocaidsk.booktxt.com
   - DOMAIN,wisdementive.info
@@ -44971,6 +44998,7 @@ payload:
   - DOMAIN,yourblocksite.com
   - DOMAIN,yourclk.com
   - DOMAIN,yourdatelink.com
+  - DOMAIN,yourfreshposts.com
   - DOMAIN,yourlegacy.club
   - DOMAIN,yourlocalguardian-gb.yourlocalguardian.co.uk
   - DOMAIN,yourlucky.top
@@ -45219,6 +45247,7 @@ payload:
   - DOMAIN,z888.izhufu.net
   - DOMAIN,z9.cnzz.com
   - DOMAIN,za-ads.de
+  - DOMAIN,zabanit.xyz
   - DOMAIN,zabxb.com
   - DOMAIN,zae.gzzena.com
   - DOMAIN,zaeavr.com
@@ -45324,7 +45353,6 @@ payload:
   - DOMAIN,zerolullaby.com
   - DOMAIN,zeronaught.com
   - DOMAIN,zeropark.com
-  - DOMAIN,zeroredirect12.com
   - DOMAIN,zesep.com
   - DOMAIN,zetamm.com
   - DOMAIN,zeti.com

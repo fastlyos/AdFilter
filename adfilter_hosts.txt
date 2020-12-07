@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM1MzQ4MAo=
+# Checksum: MTYwNzM2NDI2Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-5
-# TimeUpdated: 2020-12-07T15:04:40+00:00
+# Version: 1.6.8-20201207-6
+# TimeUpdated: 2020-12-07T18:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45682
+# Total: 45710
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5654,6 +5654,8 @@ ff02::3 ip6-allhosts
 :: adblade.com
 0.0.0.0 adblender.ru
 :: adblender.ru
+0.0.0.0 adblock-analytics.io
+:: adblock-analytics.io
 0.0.0.0 adblock.sina.cn
 :: adblock.sina.cn
 0.0.0.0 adblockanalytics.com
@@ -7110,6 +7112,8 @@ ff02::3 ip6-allhosts
 :: adrttt.com
 0.0.0.0 adru.net
 :: adru.net
+0.0.0.0 adrun.ru
+:: adrun.ru
 0.0.0.0 adrunnr.com
 :: adrunnr.com
 0.0.0.0 ads-a.juicyads.com
@@ -10934,8 +10938,6 @@ ff02::3 ip6-allhosts
 :: anekaiklan.com
 0.0.0.0 anelexpres.club
 :: anelexpres.club
-0.0.0.0 anerqdd.ga
-:: anerqdd.ga
 0.0.0.0 anews.cc
 :: anews.cc
 0.0.0.0 anews7.nvwu.com
@@ -12772,6 +12774,8 @@ ff02::3 ip6-allhosts
 :: aujooxoo.com
 0.0.0.0 aukalerim.com
 :: aukalerim.com
+0.0.0.0 aukana.jp
+:: aukana.jp
 0.0.0.0 aukrouwy.net
 :: aukrouwy.net
 0.0.0.0 aulingimpora.club
@@ -13764,8 +13768,6 @@ ff02::3 ip6-allhosts
 :: banner.klikklik.nl
 0.0.0.0 banner.lbs.km.ru
 :: banner.lbs.km.ru
-0.0.0.0 banner.maido3.com
-:: banner.maido3.com
 0.0.0.0 banner.mob.hr
 :: banner.mob.hr
 0.0.0.0 banner.themediaplanets.com
@@ -14606,8 +14608,6 @@ ff02::3 ip6-allhosts
 :: beead.net
 0.0.0.0 beefraidmob.com
 :: beefraidmob.com
-0.0.0.0 beeftransmission.com
-:: beeftransmission.com
 0.0.0.0 beegotou.net
 :: beegotou.net
 0.0.0.0 beehousebalta.com
@@ -15254,6 +15254,8 @@ ff02::3 ip6-allhosts
 :: binlayer.de
 0.0.0.0 bintds.com
 :: bintds.com
+0.0.0.0 bional-dested.icu
+:: bional-dested.icu
 0.0.0.0 bionicclick.com
 :: bionicclick.com
 0.0.0.0 biosda.com
@@ -16572,6 +16574,8 @@ ff02::3 ip6-allhosts
 :: bulb.76.my
 0.0.0.0 bulbbait.com
 :: bulbbait.com
+0.0.0.0 bulbsanctify.com
+:: bulbsanctify.com
 0.0.0.0 buleor.com
 :: buleor.com
 0.0.0.0 bulkeach.com
@@ -16876,6 +16880,8 @@ ff02::3 ip6-allhosts
 :: bza.co
 0.0.0.0 bzclk.baidu.com
 :: bzclk.baidu.com
+0.0.0.0 bzgxqj.com
+:: bzgxqj.com
 0.0.0.0 bzidp.com
 :: bzidp.com
 0.0.0.0 bzlwe.com
@@ -30974,6 +30980,8 @@ ff02::3 ip6-allhosts
 :: fairadsnetwork.com
 0.0.0.0 fairfaxmedia.sharedcount.com
 :: fairfaxmedia.sharedcount.com
+0.0.0.0 fairieflame.com
+:: fairieflame.com
 0.0.0.0 fairlink.ru
 :: fairlink.ru
 0.0.0.0 fairnessels.com
@@ -32018,6 +32026,8 @@ ff02::3 ip6-allhosts
 :: flirtingsms.com
 0.0.0.0 flixcar.com
 :: flixcar.com
+0.0.0.0 flixcontentshop.com
+:: flixcontentshop.com
 0.0.0.0 flixfacts.co.uk
 :: flixfacts.co.uk
 0.0.0.0 flixfacts.com
@@ -32046,6 +32056,8 @@ ff02::3 ip6-allhosts
 :: flomigo.com
 0.0.0.0 floodprincipal.com
 :: floodprincipal.com
+0.0.0.0 flow.concord.systems
+:: flow.concord.systems
 0.0.0.0 flowcodeapp.com
 :: flowcodeapp.com
 0.0.0.0 floweryoperation.com
@@ -32076,8 +32088,6 @@ ff02::3 ip6-allhosts
 :: fluentmobile.com
 0.0.0.0 fluffyeaster.com
 :: fluffyeaster.com
-0.0.0.0 fluidads.co
-:: fluidads.co
 0.0.0.0 fluidsurveys.com
 :: fluidsurveys.com
 0.0.0.0 flunion.cn
@@ -32608,6 +32618,8 @@ ff02::3 ip6-allhosts
 :: freeproxy.ro
 0.0.0.0 freerotator.com
 :: freerotator.com
+0.0.0.0 frees2020.com
+:: frees2020.com
 0.0.0.0 freesitemapgenerator.com
 :: freesitemapgenerator.com
 0.0.0.0 freeskreen.com
@@ -36548,6 +36560,8 @@ ff02::3 ip6-allhosts
 :: hcprzx.cn
 0.0.0.0 hcrwnoaqe.com
 :: hcrwnoaqe.com
+0.0.0.0 hcwaxejunyzvxt.com
+:: hcwaxejunyzvxt.com
 0.0.0.0 hcwljy.com
 :: hcwljy.com
 0.0.0.0 hczzw.com
@@ -37054,6 +37068,8 @@ ff02::3 ip6-allhosts
 :: hikeheoratth.info
 0.0.0.0 hikvar.ru
 :: hikvar.ru
+0.0.0.0 hikyceti.pro
+:: hikyceti.pro
 0.0.0.0 hilariouszinc.com
 :: hilariouszinc.com
 0.0.0.0 hilleness.info
@@ -38206,6 +38222,8 @@ ff02::3 ip6-allhosts
 :: hwad.zuimeitianqi.com
 0.0.0.0 hwhiffonprotect.info
 :: hwhiffonprotect.info
+0.0.0.0 hwmonitor-ru.ru
+:: hwmonitor-ru.ru
 0.0.0.0 hwstats.unity3d.com
 :: hwstats.unity3d.com
 0.0.0.0 hx623.cn
@@ -42016,6 +42034,8 @@ ff02::3 ip6-allhosts
 :: johtzj.com
 0.0.0.0 join.xlgirls.com
 :: join.xlgirls.com
+0.0.0.0 joinads.me
+:: joinads.me
 0.0.0.0 joinhiesnext.com
 :: joinhiesnext.com
 0.0.0.0 joiningpreferencemobile.com
@@ -46324,6 +46344,8 @@ ff02::3 ip6-allhosts
 :: logs.newapi.com
 0.0.0.0 logs.ntvplus.tv
 :: logs.ntvplus.tv
+0.0.0.0 logs.psm.wmcdp.io
+:: logs.psm.wmcdp.io
 0.0.0.0 logs.roku.com
 :: logs.roku.com
 0.0.0.0 logs.spilgames.com
@@ -46434,6 +46456,8 @@ ff02::3 ip6-allhosts
 :: loodyas.com
 0.0.0.0 loohiwez.net
 :: loohiwez.net
+0.0.0.0 look.flowln.com
+:: look.flowln.com
 0.0.0.0 look.kfiopkln.com
 :: look.kfiopkln.com
 0.0.0.0 lookery.com
@@ -51486,6 +51510,8 @@ ff02::3 ip6-allhosts
 :: moveadrenaline.com
 0.0.0.0 movemeal.com
 :: movemeal.com
+0.0.0.0 movfull.com
+:: movfull.com
 0.0.0.0 movie-pass.club
 :: movie-pass.club
 0.0.0.0 movie-pass.live
@@ -57082,6 +57108,8 @@ ff02::3 ip6-allhosts
 :: partiesrelyfoliage.com
 0.0.0.0 partishion.com
 :: partishion.com
+0.0.0.0 partitiondetergenttumor.com
+:: partitiondetergenttumor.com
 0.0.0.0 partner-ads.com
 :: partner-ads.com
 0.0.0.0 partner-earning.com
@@ -68138,6 +68166,8 @@ ff02::3 ip6-allhosts
 :: sffmctrnimk.com
 0.0.0.0 sfk.t58b.com
 :: sfk.t58b.com
+0.0.0.0 sfl-engin.surge.systems
+:: sfl-engin.surge.systems
 0.0.0.0 sflywdvzyh.com
 :: sflywdvzyh.com
 0.0.0.0 sfsudsf.pro
@@ -69218,6 +69248,8 @@ ff02::3 ip6-allhosts
 :: sl1me.com
 0.0.0.0 slabshookwasted.com
 :: slabshookwasted.com
+0.0.0.0 slashstar.net
+:: slashstar.net
 0.0.0.0 slava.soloway.su
 :: slava.soloway.su
 0.0.0.0 slaveforgetfulsneak.com
@@ -69582,6 +69614,8 @@ ff02::3 ip6-allhosts
 :: smsimprisee.club
 0.0.0.0 smt.admaster.com.cn
 :: smt.admaster.com.cn
+0.0.0.0 smtrk.net
+:: smtrk.net
 0.0.0.0 smucdn.com
 :: smucdn.com
 0.0.0.0 smxay.com
@@ -74878,6 +74912,8 @@ ff02::3 ip6-allhosts
 :: telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
 :: telemetry.api.swiftkey.com
+0.0.0.0 telemetry.api.wmcdp.io
+:: telemetry.api.wmcdp.io
 0.0.0.0 telemetry.appex.bing.net
 :: telemetry.appex.bing.net
 0.0.0.0 telemetry.art19.com
@@ -76164,6 +76200,8 @@ ff02::3 ip6-allhosts
 :: toglegbig.com
 0.0.0.0 tognilaha.com
 :: tognilaha.com
+0.0.0.0 togranbulla.com
+:: togranbulla.com
 0.0.0.0 togroltu.net
 :: togroltu.net
 0.0.0.0 tohopes.ru
@@ -77186,6 +77224,8 @@ ff02::3 ip6-allhosts
 :: tracker.durasite.net
 0.0.0.0 tracker.euroweb.net
 :: tracker.euroweb.net
+0.0.0.0 tracker.fado.vn
+:: tracker.fado.vn
 0.0.0.0 tracker.financialcontent.com
 :: tracker.financialcontent.com
 0.0.0.0 tracker.giftd.ru
@@ -77386,6 +77426,8 @@ ff02::3 ip6-allhosts
 :: tracking.emsmobile.de
 0.0.0.0 tracking.eurosport.com
 :: tracking.eurosport.com
+0.0.0.0 tracking.fado.vn
+:: tracking.fado.vn
 0.0.0.0 tracking.fanbridge.com
 :: tracking.fanbridge.com
 0.0.0.0 tracking.fccinteractive.com
@@ -79412,6 +79454,8 @@ ff02::3 ip6-allhosts
 :: ukeiae.com
 0.0.0.0 uklvebsp.com
 :: uklvebsp.com
+0.0.0.0 ukoffzeh.com
+:: ukoffzeh.com
 0.0.0.0 ukrbanner.net
 :: ukrbanner.net
 0.0.0.0 ukwoxufaepbhn.com
@@ -81688,6 +81732,8 @@ ff02::3 ip6-allhosts
 :: virool.com
 0.0.0.0 virt0n.news
 :: virt0n.news
+0.0.0.0 virtonnews.com
+:: virtonnews.com
 0.0.0.0 virtuagirlhd.com
 :: virtuagirlhd.com
 0.0.0.0 virtualnet.co.uk
@@ -81808,6 +81854,8 @@ ff02::3 ip6-allhosts
 :: vivi987.com
 0.0.0.0 vividcash.com
 :: vividcash.com
+0.0.0.0 vividlobster.com
+:: vividlobster.com
 0.0.0.0 vivistats.com
 :: vivistats.com
 0.0.0.0 vivocha.com
@@ -82824,6 +82872,8 @@ ff02::3 ip6-allhosts
 :: waxtamnit.com
 0.0.0.0 waycash.net
 :: waycash.net
+0.0.0.0 wayfarerspoutpraise.com
+:: wayfarerspoutpraise.com
 0.0.0.0 waynagmay.com
 :: waynagmay.com
 0.0.0.0 waypresentsstud.com
@@ -82920,6 +82970,8 @@ ff02::3 ip6-allhosts
 :: wdrgqoweorjfp.com
 0.0.0.0 wds.inte.sogoucdn.com
 :: wds.inte.sogoucdn.com
+0.0.0.0 wdsvc.net
+:: wdsvc.net
 0.0.0.0 wdt9iaspfv3o.com
 :: wdt9iaspfv3o.com
 0.0.0.0 wdymwzz.com
@@ -83472,8 +83524,6 @@ ff02::3 ip6-allhosts
 :: weptpremisedefined.com
 0.0.0.0 weq.me
 :: weq.me
-0.0.0.0 werbe-sponsor.de
-:: werbe-sponsor.de
 0.0.0.0 werbeflut.net
 :: werbeflut.net
 0.0.0.0 werbenetzwerk.tk
@@ -83992,6 +84042,8 @@ ff02::3 ip6-allhosts
 :: windowsguidenews.com
 0.0.0.0 windowsxi.com
 :: windowsxi.com
+0.0.0.0 winfreeprize.online
+:: winfreeprize.online
 0.0.0.0 wingads.com
 :: wingads.com
 0.0.0.0 winlinebet.ru
@@ -84032,6 +84084,8 @@ ff02::3 ip6-allhosts
 :: wirenth.com
 0.0.0.0 wiresurequezer.pro
 :: wiresurequezer.pro
+0.0.0.0 wirewuss.com
+:: wirewuss.com
 0.0.0.0 wirralglobe-gb.wirralglobe.co.uk
 :: wirralglobe-gb.wirralglobe.co.uk
 0.0.0.0 wiruaewnsicnocaidsk.booktxt.com
@@ -89944,6 +89998,8 @@ ff02::3 ip6-allhosts
 :: yourclk.com
 0.0.0.0 yourdatelink.com
 :: yourdatelink.com
+0.0.0.0 yourfreshposts.com
+:: yourfreshposts.com
 0.0.0.0 yourlegacy.club
 :: yourlegacy.club
 0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
@@ -90440,6 +90496,8 @@ ff02::3 ip6-allhosts
 :: z9.cnzz.com
 0.0.0.0 za-ads.de
 :: za-ads.de
+0.0.0.0 zabanit.xyz
+:: zabanit.xyz
 0.0.0.0 zabxb.com
 :: zabxb.com
 0.0.0.0 zae.gzzena.com
@@ -90650,8 +90708,6 @@ ff02::3 ip6-allhosts
 :: zeronaught.com
 0.0.0.0 zeropark.com
 :: zeropark.com
-0.0.0.0 zeroredirect12.com
-:: zeroredirect12.com
 0.0.0.0 zesep.com
 :: zesep.com
 0.0.0.0 zetamm.com
