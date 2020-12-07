@@ -1,8 +1,8 @@
-# Checksum: MTYwNzMzMTg1Mgo=
+# Checksum: MTYwNzM0MjczMAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-3
-# TimeUpdated: 2020-12-07T09:04:12+00:00
+# Version: 1.6.8-20201207-4
+# TimeUpdated: 2020-12-07T12:05:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 45677
@@ -1620,6 +1620,7 @@ DOMAIN,913nd.dieti-natura.es,REJECT
 DOMAIN,913vt.com,REJECT
 DOMAIN,915.com,REJECT
 DOMAIN,9151511tuesday.hqnpwzu.cn,REJECT
+DOMAIN,9158918.com,REJECT
 DOMAIN,91756.cn,REJECT
 DOMAIN,9188car.com,REJECT
 DOMAIN,919198.com,REJECT
@@ -2706,6 +2707,7 @@ DOMAIN,ad.wsod.com,REJECT
 DOMAIN,ad.wynk.in,REJECT
 DOMAIN,ad.ximalaya.com,REJECT
 DOMAIN,ad.xmovies8.ru,REJECT
+DOMAIN,ad.xn--3bs795g.link,REJECT
 DOMAIN,ad.yadro.ru,REJECT
 DOMAIN,ad.yemeksepeti.com,REJECT
 DOMAIN,ad.yeshitv.com,REJECT
@@ -5994,7 +5996,6 @@ DOMAIN,aqtracker.com,REJECT
 DOMAIN,aquaticalarm.com,REJECT
 DOMAIN,aquaticowl.com,REJECT
 DOMAIN,aquete.com,REJECT
-DOMAIN,aqvnurq.cn,REJECT
 DOMAIN,ar.atwola.com,REJECT
 DOMAIN,ar.i-run.fr,REJECT
 DOMAIN,ar.umeng.com,REJECT
@@ -8499,7 +8500,6 @@ DOMAIN,c.gazetevatan.com,REJECT
 DOMAIN,c.gdt.qq.com,REJECT
 DOMAIN,c.greystripe.com,REJECT
 DOMAIN,c.grimuar.ru,REJECT
-DOMAIN,c.gzsanxiaomingshi.cn,REJECT
 DOMAIN,c.hit.ua,REJECT
 DOMAIN,c.holmesmind.com,REJECT
 DOMAIN,c.imedia.cz,REJECT
@@ -16399,6 +16399,7 @@ DOMAIN,fsr.lenovomm.com,REJECT
 DOMAIN,fst360.com,REJECT
 DOMAIN,fstats.xyz,REJECT
 DOMAIN,fstrk.net,REJECT
+DOMAIN,fsxkporoe.com,REJECT
 DOMAIN,fsyzcs.com,REJECT
 DOMAIN,fsz1.francoisesaget.com,REJECT
 DOMAIN,fszhxd.com,REJECT
@@ -45557,7 +45558,6 @@ DOMAIN,zro56hd6szoy.com,REJECT
 DOMAIN,zroitracker.com,REJECT
 DOMAIN,zroundancez.site,REJECT
 DOMAIN,zrw1.destinia.jp,REJECT
-DOMAIN,zryydi.com,REJECT
 DOMAIN,zs.dhl.de,REJECT
 DOMAIN,zs1.cnzz.com,REJECT
 DOMAIN,zs10.cnzz.com,REJECT

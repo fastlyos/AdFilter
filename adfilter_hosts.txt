@@ -1,8 +1,8 @@
-# Checksum: MTYwNzMzMTg1Mgo=
+# Checksum: MTYwNzM0MjczMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-3
-# TimeUpdated: 2020-12-07T09:04:12+00:00
+# Version: 1.6.8-20201207-4
+# TimeUpdated: 2020-12-07T12:05:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 45677
@@ -3244,6 +3244,8 @@ ff02::3 ip6-allhosts
 :: 915.com
 0.0.0.0 9151511tuesday.hqnpwzu.cn
 :: 9151511tuesday.hqnpwzu.cn
+0.0.0.0 9158918.com
+:: 9158918.com
 0.0.0.0 91756.cn
 :: 91756.cn
 0.0.0.0 9188car.com
@@ -5416,6 +5418,8 @@ ff02::3 ip6-allhosts
 :: ad.ximalaya.com
 0.0.0.0 ad.xmovies8.ru
 :: ad.xmovies8.ru
+0.0.0.0 ad.xn--3bs795g.link
+:: ad.xn--3bs795g.link
 0.0.0.0 ad.yadro.ru
 :: ad.yadro.ru
 0.0.0.0 ad.yemeksepeti.com
@@ -11992,8 +11996,6 @@ ff02::3 ip6-allhosts
 :: aquaticowl.com
 0.0.0.0 aquete.com
 :: aquete.com
-0.0.0.0 aqvnurq.cn
-:: aqvnurq.cn
 0.0.0.0 ar.atwola.com
 :: ar.atwola.com
 0.0.0.0 ar.i-run.fr
@@ -17002,8 +17004,6 @@ ff02::3 ip6-allhosts
 :: c.greystripe.com
 0.0.0.0 c.grimuar.ru
 :: c.grimuar.ru
-0.0.0.0 c.gzsanxiaomingshi.cn
-:: c.gzsanxiaomingshi.cn
 0.0.0.0 c.hit.ua
 :: c.hit.ua
 0.0.0.0 c.holmesmind.com
@@ -32802,6 +32802,8 @@ ff02::3 ip6-allhosts
 :: fstats.xyz
 0.0.0.0 fstrk.net
 :: fstrk.net
+0.0.0.0 fsxkporoe.com
+:: fsxkporoe.com
 0.0.0.0 fsyzcs.com
 :: fsyzcs.com
 0.0.0.0 fsz1.francoisesaget.com
@@ -91118,8 +91120,6 @@ ff02::3 ip6-allhosts
 :: zroundancez.site
 0.0.0.0 zrw1.destinia.jp
 :: zrw1.destinia.jp
-0.0.0.0 zryydi.com
-:: zryydi.com
 0.0.0.0 zs.dhl.de
 :: zs.dhl.de
 0.0.0.0 zs1.cnzz.com
