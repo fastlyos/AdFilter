@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM2NDI2Nwo=
+# Checksum: MTYwNzM3NTAzMwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-6
-# TimeUpdated: 2020-12-07T18:04:27+00:00
+# Version: 1.6.8-20201207-7
+# TimeUpdated: 2020-12-07T21:03:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45710
+# Total: 45715
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -19103,6 +19103,7 @@ DOMAIN,hv.code.tanwanyx.com,REJECT
 DOMAIN,hvato.info,REJECT
 DOMAIN,hvawrj8yeqru.com,REJECT
 DOMAIN,hvcbkr.com,REJECT
+DOMAIN,hvduwoozla.com,REJECT
 DOMAIN,hvooyieoei.com,REJECT
 DOMAIN,hvtlipnbfwu.com,REJECT
 DOMAIN,hw.zuimeitianqi.com,REJECT
@@ -22860,6 +22861,7 @@ DOMAIN,lledcorfinni.club,REJECT
 DOMAIN,llerscover.top,REJECT
 DOMAIN,llguandongyan.com,REJECT
 DOMAIN,llisthonolialate.club,REJECT
+DOMAIN,lllgavbgnmcbf.com,REJECT
 DOMAIN,lloenerginqu.info,REJECT
 DOMAIN,llog.pl,REJECT
 DOMAIN,lloogg.com,REJECT
@@ -24540,6 +24542,7 @@ DOMAIN,mbdlog.iqiyi.com,REJECT
 DOMAIN,mbermorn.top,REJECT
 DOMAIN,mbertogethe.club,REJECT
 DOMAIN,mbethnarrowe.info,REJECT
+DOMAIN,mbhjaeg.info,REJECT
 DOMAIN,mbholicymi.club,REJECT
 DOMAIN,mbid.marfeelrev.com,REJECT
 DOMAIN,mbjb1.girl13.com,REJECT
@@ -25875,6 +25878,7 @@ DOMAIN,ms.vipstatic.com,REJECT
 DOMAIN,ms3t.club,REJECT
 DOMAIN,ms88asia.com,REJECT
 DOMAIN,ms88ca.com,REJECT
+DOMAIN,msbftyajwu.com,REJECT
 DOMAIN,msclick2.kuwo.cn,REJECT
 DOMAIN,msdkcoll.emarbox.com,REJECT
 DOMAIN,mse2v5oglm.com,REJECT
@@ -30145,6 +30149,7 @@ DOMAIN,promote.biz.weibo.cn,REJECT
 DOMAIN,promote.caixin.com,REJECT
 DOMAIN,promote.pair.com,REJECT
 DOMAIN,promoted.com,REJECT
+DOMAIN,promoted.sndcdn.com,REJECT
 DOMAIN,promotion.gomlab.com,REJECT
 DOMAIN,promotion.monster.com,REJECT
 DOMAIN,promotion.polarisoffice.com,REJECT
@@ -30932,6 +30937,7 @@ DOMAIN,qihaoqu.com,REJECT
 DOMAIN,qiheptnm80.com,REJECT
 DOMAIN,qihmob.com,REJECT
 DOMAIN,qiji1.jdwx.info,REJECT
+DOMAIN,qiklsv.com,REJECT
 DOMAIN,qilashou.com,REJECT
 DOMAIN,qilungroup.cn,REJECT
 DOMAIN,qimgg.com,REJECT
@@ -33389,6 +33395,7 @@ DOMAIN,scintillatingspace.com,REJECT
 DOMAIN,scis.tbs.co.jp,REJECT
 DOMAIN,scize.com,REJECT
 DOMAIN,scjcgj.top,REJECT
+DOMAIN,scleavshdrz.com,REJECT
 DOMAIN,sclick.6rooms.com,REJECT
 DOMAIN,sclick.baidu.com,REJECT
 DOMAIN,sclog.moviebox.baofeng.com,REJECT
@@ -34805,7 +34812,6 @@ DOMAIN,sms-xxx.com,REJECT
 DOMAIN,sms.ads.oppomobile.com,REJECT
 DOMAIN,smsimprisee.club,REJECT
 DOMAIN,smt.admaster.com.cn,REJECT
-DOMAIN,smtrk.net,REJECT
 DOMAIN,smucdn.com,REJECT
 DOMAIN,smxay.com,REJECT
 DOMAIN,smxsg.com,REJECT
@@ -41483,7 +41489,6 @@ DOMAIN,wdm.map24.com,REJECT
 DOMAIN,wdr9.inseec.com,REJECT
 DOMAIN,wdrgqoweorjfp.com,REJECT
 DOMAIN,wds.inte.sogoucdn.com,REJECT
-DOMAIN,wdsvc.net,REJECT
 DOMAIN,wdt9iaspfv3o.com,REJECT
 DOMAIN,wdymwzz.com,REJECT
 DOMAIN,wdzsb.com.cn,REJECT
