@@ -1,11 +1,11 @@
-# Checksum: MTYwNzMyMTA3OQo=
+# Checksum: MTYwNzMzMTg1Mgo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-2
-# TimeUpdated: 2020-12-07T06:04:39+00:00
+# Version: 1.6.8-20201207-3
+# TimeUpdated: 2020-12-07T09:04:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45684
+# Total: 45677
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -238,6 +238,7 @@ DOMAIN,1030567.com,REJECT
 DOMAIN,103092804.com,REJECT
 DOMAIN,103bees.com,REJECT
 DOMAIN,104610.com,REJECT
+DOMAIN,1074.a.dlads.cn,REJECT
 DOMAIN,10cd.ru,REJECT
 DOMAIN,10desires.com,REJECT
 DOMAIN,10fbb07a4b0.se,REJECT
@@ -532,7 +533,6 @@ DOMAIN,222627.com,REJECT
 DOMAIN,2226ka.com,REJECT
 DOMAIN,2227q.com,REJECT
 DOMAIN,222im.com,REJECT
-DOMAIN,225396e831e8.com,REJECT
 DOMAIN,22588888.com,REJECT
 DOMAIN,22773.com,REJECT
 DOMAIN,22a12efe35e3c2f.com,REJECT
@@ -1217,7 +1217,6 @@ DOMAIN,66994.top,REJECT
 DOMAIN,66996.top,REJECT
 DOMAIN,66997.top,REJECT
 DOMAIN,66998.top,REJECT
-DOMAIN,669d1ac40c4d.com,REJECT
 DOMAIN,66ce98158e4f402.com,REJECT
 DOMAIN,66san.com,REJECT
 DOMAIN,6711.com,REJECT
@@ -1310,7 +1309,6 @@ DOMAIN,71d7511a4861068.com,REJECT
 DOMAIN,71sem.com,REJECT
 DOMAIN,720-trail.co.uk,REJECT
 DOMAIN,7208853.hitslink.com,REJECT
-DOMAIN,7221417b380.com,REJECT
 DOMAIN,727709ccb24101c8.com,REJECT
 DOMAIN,72b8869dfc34690.com,REJECT
 DOMAIN,72zh.cn,REJECT
@@ -4710,7 +4708,6 @@ DOMAIN,ahksqc.com.cn,REJECT
 DOMAIN,ahlxxx.com,REJECT
 DOMAIN,ahoff.ru,REJECT
 DOMAIN,ahojer.com,REJECT
-DOMAIN,ahoyhyperbay.com,REJECT
 DOMAIN,ahoypiratebaai.eu,REJECT
 DOMAIN,ahrcwekji.com,REJECT
 DOMAIN,ahscdn.com,REJECT
@@ -5719,7 +5716,6 @@ DOMAIN,api.open.uc.cn,REJECT
 DOMAIN,api.pingstart.com,REJECT
 DOMAIN,api.poll.aiseet.atianqi.com,REJECT
 DOMAIN,api.primecaster.net,REJECT
-DOMAIN,api.push.le.com,REJECT
 DOMAIN,api.qvpublish.com,REJECT
 DOMAIN,api.rees46.com,REJECT
 DOMAIN,api.reon.club,REJECT
@@ -5998,6 +5994,7 @@ DOMAIN,aqtracker.com,REJECT
 DOMAIN,aquaticalarm.com,REJECT
 DOMAIN,aquaticowl.com,REJECT
 DOMAIN,aquete.com,REJECT
+DOMAIN,aqvnurq.cn,REJECT
 DOMAIN,ar.atwola.com,REJECT
 DOMAIN,ar.i-run.fr,REJECT
 DOMAIN,ar.umeng.com,REJECT
@@ -6969,7 +6966,6 @@ DOMAIN,bannery.hledejceny.cz,REJECT
 DOMAIN,bannery.navratdoreality.cz,REJECT
 DOMAIN,bannet.fryazino.net,REJECT
 DOMAIN,bannneddd.xyz,REJECT
-DOMAIN,bannuncio.com,REJECT
 DOMAIN,bans.bride.ru,REJECT
 DOMAIN,banshop.gruntovik.ru,REJECT
 DOMAIN,banstat.nadavi.net,REJECT
@@ -7511,6 +7507,7 @@ DOMAIN,bgpng.me,REJECT
 DOMAIN,bgrndi.com,REJECT
 DOMAIN,bgtrtv.top,REJECT
 DOMAIN,bgwucxto.com,REJECT
+DOMAIN,bgxmq.com,REJECT
 DOMAIN,bh.contextweb.com,REJECT
 DOMAIN,bh3.net,REJECT
 DOMAIN,bhaoea.cn,REJECT
@@ -8652,7 +8649,6 @@ DOMAIN,c8.top267.com,REJECT
 DOMAIN,c8.wangdq.com,REJECT
 DOMAIN,c85wntkbjy.buzz,REJECT
 DOMAIN,c8b.jcdb88.com,REJECT
-DOMAIN,c8c528fd2b.com,REJECT
 DOMAIN,c92a198b4e0a.com,REJECT
 DOMAIN,c93b1cd7829ee.com,REJECT
 DOMAIN,c9p7at3pctmprvb5ecq66vvd.ml,REJECT
@@ -10521,7 +10517,6 @@ DOMAIN,consumergenepool.com,REJECT
 DOMAIN,contactmonkey.com,REJECT
 DOMAIN,contactreserve.com,REJECT
 DOMAIN,contactsin.com,REJECT
-DOMAIN,contactsin.mobi,REJECT
 DOMAIN,contadd.com,REJECT
 DOMAIN,contadores.bolsamania.com,REJECT
 DOMAIN,contadores.miarroba.com,REJECT
@@ -13432,6 +13427,7 @@ DOMAIN,dq3yxnlzwhcys.cloudfront.net,REJECT
 DOMAIN,dq95d35.com,REJECT
 DOMAIN,dqeqsiwc.com,REJECT
 DOMAIN,dqhi3ea93ztgv.cloudfront.net,REJECT
+DOMAIN,dqnpfsxuq.com,REJECT
 DOMAIN,dqq.lnfund.org.cn,REJECT
 DOMAIN,dqsft.com,REJECT
 DOMAIN,dquanticw.top,REJECT
@@ -14006,7 +14002,6 @@ DOMAIN,e94a941778d.com,REJECT
 DOMAIN,e960e146d9b5ca.com,REJECT
 DOMAIN,e9976b21f1b2775b.com,REJECT
 DOMAIN,e9c1khhwn4uf.com,REJECT
-DOMAIN,e9cb2923380.com,REJECT
 DOMAIN,e9emh.cn,REJECT
 DOMAIN,e9geolgzk6.com,REJECT
 DOMAIN,e9kv7bhnzt.com,REJECT
@@ -19694,7 +19689,6 @@ DOMAIN,img.img18.com,REJECT
 DOMAIN,img.itaotuhuo.com,REJECT
 DOMAIN,img.jizzads.com,REJECT
 DOMAIN,img.jjkaifa.com,REJECT
-DOMAIN,img.jwgro.com,REJECT
 DOMAIN,img.kanuxian.cn,REJECT
 DOMAIN,img.khgj.cn,REJECT
 DOMAIN,img.kukudm.com,REJECT
@@ -21181,6 +21175,7 @@ DOMAIN,js.pyangzi.com,REJECT
 DOMAIN,js.qajypx.com,REJECT
 DOMAIN,js.qqsort.com,REJECT
 DOMAIN,js.qsk666.com,REJECT
+DOMAIN,js.qudaoweiwang.com,REJECT
 DOMAIN,js.revsci.net,REJECT
 DOMAIN,js.ruiwen.com,REJECT
 DOMAIN,js.rush-member.com,REJECT
@@ -21963,7 +21958,6 @@ DOMAIN,ksyrium0014.com,REJECT
 DOMAIN,kt220.com,REJECT
 DOMAIN,kt5850pjz0.com,REJECT
 DOMAIN,ktf5kbl2m4.com,REJECT
-DOMAIN,ktgndscphrtxi.com,REJECT
 DOMAIN,kthxd.lu.sogou.com,REJECT
 DOMAIN,ktivn.uranus.sogou.com,REJECT
 DOMAIN,ktiwcxvrwedt.com,REJECT
@@ -23323,6 +23317,7 @@ DOMAIN,lpxdkhfauevov.com,REJECT
 DOMAIN,lq.booktxt.net,REJECT
 DOMAIN,lqbz.junsw.com,REJECT
 DOMAIN,lqeevjgkjjwi.com,REJECT
+DOMAIN,lqhto.com,REJECT
 DOMAIN,lqmohun.com,REJECT
 DOMAIN,lqpkjasgqjve.com,REJECT
 DOMAIN,lqw.me,REJECT
@@ -24475,7 +24470,6 @@ DOMAIN,maudawhy.com,REJECT
 DOMAIN,mauringer.club,REJECT
 DOMAIN,mauzobou.net,REJECT
 DOMAIN,mavenlohi.com,REJECT
-DOMAIN,mavexercial.info,REJECT
 DOMAIN,mavq.net,REJECT
 DOMAIN,mawlaybob.com,REJECT
 DOMAIN,mawsewtow.com,REJECT
@@ -24564,7 +24558,6 @@ DOMAIN,mcc.chinauma.net,REJECT
 DOMAIN,mcdstorage.com,REJECT
 DOMAIN,mcfg.sandai.net,REJECT
 DOMAIN,mcgi.v.qq.com,REJECT
-DOMAIN,mcirxbajhw.com,REJECT
 DOMAIN,mclean.f.360.cn,REJECT
 DOMAIN,mclick.mobi,REJECT
 DOMAIN,mclick.simba.taobao.com,REJECT
@@ -32290,6 +32283,7 @@ DOMAIN,roitesting.com,REJECT
 DOMAIN,rok.com.com,REJECT
 DOMAIN,rokno.com,REJECT
 DOMAIN,rokt.com,REJECT
+DOMAIN,roletan.com,REJECT
 DOMAIN,rollad.ru,REJECT
 DOMAIN,rollersadnessstranded.com,REJECT
 DOMAIN,rollingcounters.com,REJECT
@@ -44472,7 +44466,6 @@ DOMAIN,xuqinqi.cn,REJECT
 DOMAIN,xushenghb.com,REJECT
 DOMAIN,xuveiai.ru,REJECT
 DOMAIN,xuwptpzdwyaw.com,REJECT
-DOMAIN,xuxiangkj.com,REJECT
 DOMAIN,xv9xm6zxb8.com,REJECT
 DOMAIN,xvcmsfoeheu.com,REJECT
 DOMAIN,xvhvm.top,REJECT

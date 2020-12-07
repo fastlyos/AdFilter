@@ -1,11 +1,11 @@
-# Checksum: MTYwNzMyMTA3OQo=
+# Checksum: MTYwNzMzMTg1Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-2
-# TimeUpdated: 2020-12-07T06:04:39+00:00
+# Version: 1.6.8-20201207-3
+# TimeUpdated: 2020-12-07T09:04:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45684
+# Total: 45677
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -480,6 +480,8 @@ ff02::3 ip6-allhosts
 :: 103bees.com
 0.0.0.0 104610.com
 :: 104610.com
+0.0.0.0 1074.a.dlads.cn
+:: 1074.a.dlads.cn
 0.0.0.0 10cd.ru
 :: 10cd.ru
 0.0.0.0 10desires.com
@@ -1068,8 +1070,6 @@ ff02::3 ip6-allhosts
 :: 2227q.com
 0.0.0.0 222im.com
 :: 222im.com
-0.0.0.0 225396e831e8.com
-:: 225396e831e8.com
 0.0.0.0 22588888.com
 :: 22588888.com
 0.0.0.0 22773.com
@@ -2438,8 +2438,6 @@ ff02::3 ip6-allhosts
 :: 66997.top
 0.0.0.0 66998.top
 :: 66998.top
-0.0.0.0 669d1ac40c4d.com
-:: 669d1ac40c4d.com
 0.0.0.0 66ce98158e4f402.com
 :: 66ce98158e4f402.com
 0.0.0.0 66san.com
@@ -2624,8 +2622,6 @@ ff02::3 ip6-allhosts
 :: 720-trail.co.uk
 0.0.0.0 7208853.hitslink.com
 :: 7208853.hitslink.com
-0.0.0.0 7221417b380.com
-:: 7221417b380.com
 0.0.0.0 727709ccb24101c8.com
 :: 727709ccb24101c8.com
 0.0.0.0 72b8869dfc34690.com
@@ -9424,8 +9420,6 @@ ff02::3 ip6-allhosts
 :: ahoff.ru
 0.0.0.0 ahojer.com
 :: ahojer.com
-0.0.0.0 ahoyhyperbay.com
-:: ahoyhyperbay.com
 0.0.0.0 ahoypiratebaai.eu
 :: ahoypiratebaai.eu
 0.0.0.0 ahrcwekji.com
@@ -11442,8 +11436,6 @@ ff02::3 ip6-allhosts
 :: api.poll.aiseet.atianqi.com
 0.0.0.0 api.primecaster.net
 :: api.primecaster.net
-0.0.0.0 api.push.le.com
-:: api.push.le.com
 0.0.0.0 api.qvpublish.com
 :: api.qvpublish.com
 0.0.0.0 api.rees46.com
@@ -12000,6 +11992,8 @@ ff02::3 ip6-allhosts
 :: aquaticowl.com
 0.0.0.0 aquete.com
 :: aquete.com
+0.0.0.0 aqvnurq.cn
+:: aqvnurq.cn
 0.0.0.0 ar.atwola.com
 :: ar.atwola.com
 0.0.0.0 ar.i-run.fr
@@ -13942,8 +13936,6 @@ ff02::3 ip6-allhosts
 :: bannet.fryazino.net
 0.0.0.0 bannneddd.xyz
 :: bannneddd.xyz
-0.0.0.0 bannuncio.com
-:: bannuncio.com
 0.0.0.0 bans.bride.ru
 :: bans.bride.ru
 0.0.0.0 banshop.gruntovik.ru
@@ -15026,6 +15018,8 @@ ff02::3 ip6-allhosts
 :: bgtrtv.top
 0.0.0.0 bgwucxto.com
 :: bgwucxto.com
+0.0.0.0 bgxmq.com
+:: bgxmq.com
 0.0.0.0 bh.contextweb.com
 :: bh.contextweb.com
 0.0.0.0 bh3.net
@@ -17308,8 +17302,6 @@ ff02::3 ip6-allhosts
 :: c85wntkbjy.buzz
 0.0.0.0 c8b.jcdb88.com
 :: c8b.jcdb88.com
-0.0.0.0 c8c528fd2b.com
-:: c8c528fd2b.com
 0.0.0.0 c92a198b4e0a.com
 :: c92a198b4e0a.com
 0.0.0.0 c93b1cd7829ee.com
@@ -21046,8 +21038,6 @@ ff02::3 ip6-allhosts
 :: contactreserve.com
 0.0.0.0 contactsin.com
 :: contactsin.com
-0.0.0.0 contactsin.mobi
-:: contactsin.mobi
 0.0.0.0 contadd.com
 :: contadd.com
 0.0.0.0 contadores.bolsamania.com
@@ -26868,6 +26858,8 @@ ff02::3 ip6-allhosts
 :: dqeqsiwc.com
 0.0.0.0 dqhi3ea93ztgv.cloudfront.net
 :: dqhi3ea93ztgv.cloudfront.net
+0.0.0.0 dqnpfsxuq.com
+:: dqnpfsxuq.com
 0.0.0.0 dqq.lnfund.org.cn
 :: dqq.lnfund.org.cn
 0.0.0.0 dqsft.com
@@ -28016,8 +28008,6 @@ ff02::3 ip6-allhosts
 :: e9976b21f1b2775b.com
 0.0.0.0 e9c1khhwn4uf.com
 :: e9c1khhwn4uf.com
-0.0.0.0 e9cb2923380.com
-:: e9cb2923380.com
 0.0.0.0 e9emh.cn
 :: e9emh.cn
 0.0.0.0 e9geolgzk6.com
@@ -39392,8 +39382,6 @@ ff02::3 ip6-allhosts
 :: img.jizzads.com
 0.0.0.0 img.jjkaifa.com
 :: img.jjkaifa.com
-0.0.0.0 img.jwgro.com
-:: img.jwgro.com
 0.0.0.0 img.kanuxian.cn
 :: img.kanuxian.cn
 0.0.0.0 img.khgj.cn
@@ -42366,6 +42354,8 @@ ff02::3 ip6-allhosts
 :: js.qqsort.com
 0.0.0.0 js.qsk666.com
 :: js.qsk666.com
+0.0.0.0 js.qudaoweiwang.com
+:: js.qudaoweiwang.com
 0.0.0.0 js.revsci.net
 :: js.revsci.net
 0.0.0.0 js.ruiwen.com
@@ -43930,8 +43920,6 @@ ff02::3 ip6-allhosts
 :: kt5850pjz0.com
 0.0.0.0 ktf5kbl2m4.com
 :: ktf5kbl2m4.com
-0.0.0.0 ktgndscphrtxi.com
-:: ktgndscphrtxi.com
 0.0.0.0 kthxd.lu.sogou.com
 :: kthxd.lu.sogou.com
 0.0.0.0 ktivn.uranus.sogou.com
@@ -46650,6 +46638,8 @@ ff02::3 ip6-allhosts
 :: lqbz.junsw.com
 0.0.0.0 lqeevjgkjjwi.com
 :: lqeevjgkjjwi.com
+0.0.0.0 lqhto.com
+:: lqhto.com
 0.0.0.0 lqmohun.com
 :: lqmohun.com
 0.0.0.0 lqpkjasgqjve.com
@@ -48954,8 +48944,6 @@ ff02::3 ip6-allhosts
 :: mauzobou.net
 0.0.0.0 mavenlohi.com
 :: mavenlohi.com
-0.0.0.0 mavexercial.info
-:: mavexercial.info
 0.0.0.0 mavq.net
 :: mavq.net
 0.0.0.0 mawlaybob.com
@@ -49132,8 +49120,6 @@ ff02::3 ip6-allhosts
 :: mcfg.sandai.net
 0.0.0.0 mcgi.v.qq.com
 :: mcgi.v.qq.com
-0.0.0.0 mcirxbajhw.com
-:: mcirxbajhw.com
 0.0.0.0 mclean.f.360.cn
 :: mclean.f.360.cn
 0.0.0.0 mclick.mobi
@@ -64584,6 +64570,8 @@ ff02::3 ip6-allhosts
 :: rokno.com
 0.0.0.0 rokt.com
 :: rokt.com
+0.0.0.0 roletan.com
+:: roletan.com
 0.0.0.0 rollad.ru
 :: rollad.ru
 0.0.0.0 rollersadnessstranded.com
@@ -88948,8 +88936,6 @@ ff02::3 ip6-allhosts
 :: xuveiai.ru
 0.0.0.0 xuwptpzdwyaw.com
 :: xuwptpzdwyaw.com
-0.0.0.0 xuxiangkj.com
-:: xuxiangkj.com
 0.0.0.0 xv9xm6zxb8.com
 :: xv9xm6zxb8.com
 0.0.0.0 xvcmsfoeheu.com
