@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI4ODYxNwo=
+# Checksum: MTYwNzI5OTc1Mwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-7
-# TimeUpdated: 2020-12-06T21:03:37+00:00
+# Version: 1.6.8-20201207-0
+# TimeUpdated: 2020-12-07T00:09:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45748
+# Total: 45753
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1542,6 +1542,7 @@ DOMAIN,88p2p.com,REJECT
 DOMAIN,88shu.cn,REJECT
 DOMAIN,88viet.com,REJECT
 DOMAIN,88vwin.com,REJECT
+DOMAIN,890x.com,REJECT
 DOMAIN,8910ad.com,REJECT
 DOMAIN,899v.com,REJECT
 DOMAIN,89h8.com,REJECT
@@ -2045,6 +2046,7 @@ DOMAIN,a8ht.hipp.fr,REJECT
 DOMAIN,a8ww.net,REJECT
 DOMAIN,a9.xlgqy.com,REJECT
 DOMAIN,a907907.com,REJECT
+DOMAIN,a911a1ed6c0.com,REJECT
 DOMAIN,a9377j.com,REJECT
 DOMAIN,a9d7c19f0282.com,REJECT
 DOMAIN,a9lm.com,REJECT
@@ -3102,7 +3104,6 @@ DOMAIN,adimages.sina.com.hk,REJECT
 DOMAIN,adimg.ce.cn,REJECT
 DOMAIN,adimg.cqnews.net,REJECT
 DOMAIN,adimg.daumcdn.net,REJECT
-DOMAIN,adimg.dayoo.com,REJECT
 DOMAIN,adimg.deviantart.net,REJECT
 DOMAIN,adimg.mobile.sina.cn,REJECT
 DOMAIN,adimg.uimserv.net,REJECT
@@ -3148,6 +3149,7 @@ DOMAIN,aditic.net,REJECT
 DOMAIN,aditingunfav.club,REJECT
 DOMAIN,adition.com,REJECT
 DOMAIN,adition.de,REJECT
+DOMAIN,adition.net,REJECT
 DOMAIN,aditize.com,REJECT
 DOMAIN,aditor.com,REJECT
 DOMAIN,adjal.com,REJECT
@@ -9837,6 +9839,7 @@ DOMAIN,clickpathmedia.com,REJECT
 DOMAIN,clickperks.info,REJECT
 DOMAIN,clickpoint.com,REJECT
 DOMAIN,clickprotector.com,REJECT
+DOMAIN,clickr.xyz,REJECT
 DOMAIN,clickreport.com,REJECT
 DOMAIN,clicks-cloud.ru,REJECT
 DOMAIN,clicks.dealer.com,REJECT
@@ -21842,6 +21845,7 @@ DOMAIN,knottysticks.com,REJECT
 DOMAIN,knowd.com,REJECT
 DOMAIN,knowlead.io,REJECT
 DOMAIN,knowledgedc.club,REJECT
+DOMAIN,knowledgevine.net,REJECT
 DOMAIN,knutenegros.pro,REJECT
 DOMAIN,knutsfordguardian-gb.knutsfordguardian.co.uk,REJECT
 DOMAIN,knvhqxpt.com,REJECT
@@ -35349,6 +35353,7 @@ DOMAIN,sptag.com,REJECT
 DOMAIN,sptag1.com,REJECT
 DOMAIN,spublicidad.net,REJECT
 DOMAIN,spunkycash.com,REJECT
+DOMAIN,spuobvix.com,REJECT
 DOMAIN,spuriousbase.com,REJECT
 DOMAIN,spurioussteam.com,REJECT
 DOMAIN,spuriousstranger.com,REJECT

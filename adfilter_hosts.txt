@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI4ODYxNwo=
+# Checksum: MTYwNzI5OTc1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201206-7
-# TimeUpdated: 2020-12-06T21:03:37+00:00
+# Version: 1.6.8-20201207-0
+# TimeUpdated: 2020-12-07T00:09:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45748
+# Total: 45753
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3088,6 +3088,8 @@ ff02::3 ip6-allhosts
 :: 88viet.com
 0.0.0.0 88vwin.com
 :: 88vwin.com
+0.0.0.0 890x.com
+:: 890x.com
 0.0.0.0 8910ad.com
 :: 8910ad.com
 0.0.0.0 899v.com
@@ -4094,6 +4096,8 @@ ff02::3 ip6-allhosts
 :: a9.xlgqy.com
 0.0.0.0 a907907.com
 :: a907907.com
+0.0.0.0 a911a1ed6c0.com
+:: a911a1ed6c0.com
 0.0.0.0 a9377j.com
 :: a9377j.com
 0.0.0.0 a9d7c19f0282.com
@@ -6208,8 +6212,6 @@ ff02::3 ip6-allhosts
 :: adimg.cqnews.net
 0.0.0.0 adimg.daumcdn.net
 :: adimg.daumcdn.net
-0.0.0.0 adimg.dayoo.com
-:: adimg.dayoo.com
 0.0.0.0 adimg.deviantart.net
 :: adimg.deviantart.net
 0.0.0.0 adimg.mobile.sina.cn
@@ -6300,6 +6302,8 @@ ff02::3 ip6-allhosts
 :: adition.com
 0.0.0.0 adition.de
 :: adition.de
+0.0.0.0 adition.net
+:: adition.net
 0.0.0.0 aditize.com
 :: aditize.com
 0.0.0.0 aditor.com
@@ -19678,6 +19682,8 @@ ff02::3 ip6-allhosts
 :: clickpoint.com
 0.0.0.0 clickprotector.com
 :: clickprotector.com
+0.0.0.0 clickr.xyz
+:: clickr.xyz
 0.0.0.0 clickreport.com
 :: clickreport.com
 0.0.0.0 clicks-cloud.ru
@@ -43688,6 +43694,8 @@ ff02::3 ip6-allhosts
 :: knowlead.io
 0.0.0.0 knowledgedc.club
 :: knowledgedc.club
+0.0.0.0 knowledgevine.net
+:: knowledgevine.net
 0.0.0.0 knutenegros.pro
 :: knutenegros.pro
 0.0.0.0 knutsfordguardian-gb.knutsfordguardian.co.uk
@@ -70702,6 +70710,8 @@ ff02::3 ip6-allhosts
 :: spublicidad.net
 0.0.0.0 spunkycash.com
 :: spunkycash.com
+0.0.0.0 spuobvix.com
+:: spuobvix.com
 0.0.0.0 spuriousbase.com
 :: spuriousbase.com
 0.0.0.0 spurioussteam.com
