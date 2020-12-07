@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzI5OTc1Mwo=
+# Checksum: MTYwNzMxMDI2MQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-0
-# TimeUpdated: 2020-12-07T00:09:13+00:00
+# Version: 1.6.8-20201207-1
+# TimeUpdated: 2020-12-07T03:04:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45753
+# Total: 45756
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -1472,6 +1472,7 @@ payload:
   - DOMAIN,822.dlads.cn
   - DOMAIN,822f797ef9d68ad3.com
   - DOMAIN,8233fa03a40c92d.com
+  - DOMAIN,823bc1a6cd3f1657.com
   - DOMAIN,82448dceaaa13034.com
   - DOMAIN,825145.com
   - DOMAIN,827649.com
@@ -7759,6 +7760,7 @@ payload:
   - DOMAIN,bleua.ecefibwja.xyz
   - DOMAIN,bliink.io
   - DOMAIN,blinkadr.com
+  - DOMAIN,blionicking.pro
   - DOMAIN,blip.bizrate.com
   - DOMAIN,blisldgsqk.com
   - DOMAIN,blismedia.com
@@ -16174,6 +16176,7 @@ payload:
   - DOMAIN,fotoompi.com
   - DOMAIN,fotsaulr.net
   - DOMAIN,fotw.xyz
+  - DOMAIN,fouanalytics.com
   - DOMAIN,fouas.com
   - DOMAIN,foundry42.com
   - DOMAIN,foundtr.com
@@ -21686,7 +21689,6 @@ payload:
   - DOMAIN,khuoy.com
   - DOMAIN,khzbeucrltin.com
   - DOMAIN,kiafailersov.top
-  - DOMAIN,kickass-kat.com
   - DOMAIN,kid9.info
   - DOMAIN,kidderminstershuttle-gb.kidderminstershuttle.co.uk
   - DOMAIN,kidnepishlient.pro
@@ -21859,6 +21861,7 @@ payload:
   - DOMAIN,koddi.com
   - DOMAIN,kodicdn.com
   - DOMAIN,koertf.com
+  - DOMAIN,koesvqwwpmvb.com
   - DOMAIN,kofpag.com
   - DOMAIN,koimplishing.club
   - DOMAIN,koindut.com
@@ -22480,7 +22483,6 @@ payload:
   - DOMAIN,leveryone.club
   - DOMAIN,levexis.com
   - DOMAIN,lewd.ninja
-  - DOMAIN,lewis.kingko.xyz
   - DOMAIN,lexip.4pcdn.de
   - DOMAIN,lexip.4players.de
   - DOMAIN,lexity.com
@@ -22911,7 +22913,6 @@ payload:
   - DOMAIN,localpoint.ch
   - DOMAIN,localsearch24.co.uk
   - DOMAIN,localytics.com
-  - DOMAIN,location.bloomberg.com
   - DOMAIN,location.ximalaya.com
   - DOMAIN,locationivanstutter.com
   - DOMAIN,locdrop.query.yahoo.com
@@ -25339,7 +25340,6 @@ payload:
   - DOMAIN,mms.expertreviews.co.uk
   - DOMAIN,mms.gizmodo.com
   - DOMAIN,mms.gocomics.com
-  - DOMAIN,mms.graziadaily.co.uk
   - DOMAIN,mms.gulflive.com
   - DOMAIN,mms.itpro.co.uk
   - DOMAIN,mms.jalopnik.com
@@ -34247,6 +34247,7 @@ payload:
   - DOMAIN,shopmetric.rediff.com
   - DOMAIN,shopnetic.com
   - DOMAIN,shoppanda.co
+  - DOMAIN,shopperapproved.com
   - DOMAIN,shopping.coccoc.com
   - DOMAIN,shoppingads.com
   - DOMAIN,shoppingbox.liberation.fr
@@ -34692,6 +34693,7 @@ payload:
   - DOMAIN,smartadserver.com
   - DOMAIN,smartadv.ru
   - DOMAIN,smartaffiliate.de
+  - DOMAIN,smartasset.com
   - DOMAIN,smartbn.ru
   - DOMAIN,smartclick.net
   - DOMAIN,smartclip-services.com
@@ -34958,6 +34960,7 @@ payload:
   - DOMAIN,solo-xsg.beeppool.org
   - DOMAIN,solocpm.com
   - DOMAIN,soloistforcefulvarious.com
+  - DOMAIN,solosegment.com
   - DOMAIN,soltitate.site
   - DOMAIN,solty.biz
   - DOMAIN,solutelynewt.site

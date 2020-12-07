@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI5OTc1Mwo=
+# Checksum: MTYwNzMxMDI2MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-0
-# TimeUpdated: 2020-12-07T00:09:13+00:00
+# Version: 1.6.8-20201207-1
+# TimeUpdated: 2020-12-07T03:04:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45753
+# Total: 45756
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1471,6 +1471,7 @@ DOMAIN,81mxshc8cpe0.com,REJECT
 DOMAIN,822.dlads.cn,REJECT
 DOMAIN,822f797ef9d68ad3.com,REJECT
 DOMAIN,8233fa03a40c92d.com,REJECT
+DOMAIN,823bc1a6cd3f1657.com,REJECT
 DOMAIN,82448dceaaa13034.com,REJECT
 DOMAIN,825145.com,REJECT
 DOMAIN,827649.com,REJECT
@@ -7758,6 +7759,7 @@ DOMAIN,blessingpudding.com,REJECT
 DOMAIN,bleua.ecefibwja.xyz,REJECT
 DOMAIN,bliink.io,REJECT
 DOMAIN,blinkadr.com,REJECT
+DOMAIN,blionicking.pro,REJECT
 DOMAIN,blip.bizrate.com,REJECT
 DOMAIN,blisldgsqk.com,REJECT
 DOMAIN,blismedia.com,REJECT
@@ -16173,6 +16175,7 @@ DOMAIN,fotocash.ru,REJECT
 DOMAIN,fotoompi.com,REJECT
 DOMAIN,fotsaulr.net,REJECT
 DOMAIN,fotw.xyz,REJECT
+DOMAIN,fouanalytics.com,REJECT
 DOMAIN,fouas.com,REJECT
 DOMAIN,foundry42.com,REJECT
 DOMAIN,foundtr.com,REJECT
@@ -21685,7 +21688,6 @@ DOMAIN,khufaw2.com,REJECT
 DOMAIN,khuoy.com,REJECT
 DOMAIN,khzbeucrltin.com,REJECT
 DOMAIN,kiafailersov.top,REJECT
-DOMAIN,kickass-kat.com,REJECT
 DOMAIN,kid9.info,REJECT
 DOMAIN,kidderminstershuttle-gb.kidderminstershuttle.co.uk,REJECT
 DOMAIN,kidnepishlient.pro,REJECT
@@ -21858,6 +21860,7 @@ DOMAIN,kodcad.kr,REJECT
 DOMAIN,koddi.com,REJECT
 DOMAIN,kodicdn.com,REJECT
 DOMAIN,koertf.com,REJECT
+DOMAIN,koesvqwwpmvb.com,REJECT
 DOMAIN,kofpag.com,REJECT
 DOMAIN,koimplishing.club,REJECT
 DOMAIN,koindut.com,REJECT
@@ -22479,7 +22482,6 @@ DOMAIN,leversions.info,REJECT
 DOMAIN,leveryone.club,REJECT
 DOMAIN,levexis.com,REJECT
 DOMAIN,lewd.ninja,REJECT
-DOMAIN,lewis.kingko.xyz,REJECT
 DOMAIN,lexip.4pcdn.de,REJECT
 DOMAIN,lexip.4players.de,REJECT
 DOMAIN,lexity.com,REJECT
@@ -22910,7 +22912,6 @@ DOMAIN,locallyrivalliberal.com,REJECT
 DOMAIN,localpoint.ch,REJECT
 DOMAIN,localsearch24.co.uk,REJECT
 DOMAIN,localytics.com,REJECT
-DOMAIN,location.bloomberg.com,REJECT
 DOMAIN,location.ximalaya.com,REJECT
 DOMAIN,locationivanstutter.com,REJECT
 DOMAIN,locdrop.query.yahoo.com,REJECT
@@ -25338,7 +25339,6 @@ DOMAIN,mms.deadspin.com,REJECT
 DOMAIN,mms.expertreviews.co.uk,REJECT
 DOMAIN,mms.gizmodo.com,REJECT
 DOMAIN,mms.gocomics.com,REJECT
-DOMAIN,mms.graziadaily.co.uk,REJECT
 DOMAIN,mms.gulflive.com,REJECT
 DOMAIN,mms.itpro.co.uk,REJECT
 DOMAIN,mms.jalopnik.com,REJECT
@@ -34246,6 +34246,7 @@ DOMAIN,shopify.staging2.crazyegg.com,REJECT
 DOMAIN,shopmetric.rediff.com,REJECT
 DOMAIN,shopnetic.com,REJECT
 DOMAIN,shoppanda.co,REJECT
+DOMAIN,shopperapproved.com,REJECT
 DOMAIN,shopping.coccoc.com,REJECT
 DOMAIN,shoppingads.com,REJECT
 DOMAIN,shoppingbox.liberation.fr,REJECT
@@ -34691,6 +34692,7 @@ DOMAIN,smartads.mobile.yahoo.co.jp,REJECT
 DOMAIN,smartadserver.com,REJECT
 DOMAIN,smartadv.ru,REJECT
 DOMAIN,smartaffiliate.de,REJECT
+DOMAIN,smartasset.com,REJECT
 DOMAIN,smartbn.ru,REJECT
 DOMAIN,smartclick.net,REJECT
 DOMAIN,smartclip-services.com,REJECT
@@ -34957,6 +34959,7 @@ DOMAIN,solo-vdl.beeppool.org,REJECT
 DOMAIN,solo-xsg.beeppool.org,REJECT
 DOMAIN,solocpm.com,REJECT
 DOMAIN,soloistforcefulvarious.com,REJECT
+DOMAIN,solosegment.com,REJECT
 DOMAIN,soltitate.site,REJECT
 DOMAIN,solty.biz,REJECT
 DOMAIN,solutelynewt.site,REJECT

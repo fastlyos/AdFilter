@@ -1,11 +1,11 @@
-# Checksum: MTYwNzI5OTc1Mwo=
+# Checksum: MTYwNzMxMDI2MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-0
-# TimeUpdated: 2020-12-07T00:09:13+00:00
+# Version: 1.6.8-20201207-1
+# TimeUpdated: 2020-12-07T03:04:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45753
+# Total: 45756
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2946,6 +2946,8 @@ ff02::3 ip6-allhosts
 :: 822f797ef9d68ad3.com
 0.0.0.0 8233fa03a40c92d.com
 :: 8233fa03a40c92d.com
+0.0.0.0 823bc1a6cd3f1657.com
+:: 823bc1a6cd3f1657.com
 0.0.0.0 82448dceaaa13034.com
 :: 82448dceaaa13034.com
 0.0.0.0 825145.com
@@ -15520,6 +15522,8 @@ ff02::3 ip6-allhosts
 :: bliink.io
 0.0.0.0 blinkadr.com
 :: blinkadr.com
+0.0.0.0 blionicking.pro
+:: blionicking.pro
 0.0.0.0 blip.bizrate.com
 :: blip.bizrate.com
 0.0.0.0 blisldgsqk.com
@@ -32350,6 +32354,8 @@ ff02::3 ip6-allhosts
 :: fotsaulr.net
 0.0.0.0 fotw.xyz
 :: fotw.xyz
+0.0.0.0 fouanalytics.com
+:: fouanalytics.com
 0.0.0.0 fouas.com
 :: fouas.com
 0.0.0.0 foundry42.com
@@ -43374,8 +43380,6 @@ ff02::3 ip6-allhosts
 :: khzbeucrltin.com
 0.0.0.0 kiafailersov.top
 :: kiafailersov.top
-0.0.0.0 kickass-kat.com
-:: kickass-kat.com
 0.0.0.0 kid9.info
 :: kid9.info
 0.0.0.0 kidderminstershuttle-gb.kidderminstershuttle.co.uk
@@ -43720,6 +43724,8 @@ ff02::3 ip6-allhosts
 :: kodicdn.com
 0.0.0.0 koertf.com
 :: koertf.com
+0.0.0.0 koesvqwwpmvb.com
+:: koesvqwwpmvb.com
 0.0.0.0 kofpag.com
 :: kofpag.com
 0.0.0.0 koimplishing.club
@@ -44962,8 +44968,6 @@ ff02::3 ip6-allhosts
 :: levexis.com
 0.0.0.0 lewd.ninja
 :: lewd.ninja
-0.0.0.0 lewis.kingko.xyz
-:: lewis.kingko.xyz
 0.0.0.0 lexip.4pcdn.de
 :: lexip.4pcdn.de
 0.0.0.0 lexip.4players.de
@@ -45824,8 +45828,6 @@ ff02::3 ip6-allhosts
 :: localsearch24.co.uk
 0.0.0.0 localytics.com
 :: localytics.com
-0.0.0.0 location.bloomberg.com
-:: location.bloomberg.com
 0.0.0.0 location.ximalaya.com
 :: location.ximalaya.com
 0.0.0.0 locationivanstutter.com
@@ -50680,8 +50682,6 @@ ff02::3 ip6-allhosts
 :: mms.gizmodo.com
 0.0.0.0 mms.gocomics.com
 :: mms.gocomics.com
-0.0.0.0 mms.graziadaily.co.uk
-:: mms.graziadaily.co.uk
 0.0.0.0 mms.gulflive.com
 :: mms.gulflive.com
 0.0.0.0 mms.itpro.co.uk
@@ -68496,6 +68496,8 @@ ff02::3 ip6-allhosts
 :: shopnetic.com
 0.0.0.0 shoppanda.co
 :: shoppanda.co
+0.0.0.0 shopperapproved.com
+:: shopperapproved.com
 0.0.0.0 shopping.coccoc.com
 :: shopping.coccoc.com
 0.0.0.0 shoppingads.com
@@ -69386,6 +69388,8 @@ ff02::3 ip6-allhosts
 :: smartadv.ru
 0.0.0.0 smartaffiliate.de
 :: smartaffiliate.de
+0.0.0.0 smartasset.com
+:: smartasset.com
 0.0.0.0 smartbn.ru
 :: smartbn.ru
 0.0.0.0 smartclick.net
@@ -69918,6 +69922,8 @@ ff02::3 ip6-allhosts
 :: solocpm.com
 0.0.0.0 soloistforcefulvarious.com
 :: soloistforcefulvarious.com
+0.0.0.0 solosegment.com
+:: solosegment.com
 0.0.0.0 soltitate.site
 :: soltitate.site
 0.0.0.0 solty.biz
