@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM0MjczMAo=
+# Checksum: MTYwNzM1MzQ4MAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-4
-# TimeUpdated: 2020-12-07T12:05:30+00:00
+# Version: 1.6.8-20201207-5
+# TimeUpdated: 2020-12-07T15:04:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45677
+# Total: 45682
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -4920,7 +4920,6 @@ DOMAIN,aliadvert.ru,REJECT
 DOMAIN,alicc.txsadql.cn,REJECT
 DOMAIN,alicdnv2.sitemonitor.cn.miaozhen.com,REJECT
 DOMAIN,alicmayuns.com,REJECT
-DOMAIN,alidongxi.com,REJECT
 DOMAIN,aliencesuffe.top,REJECT
 DOMAIN,alienradar.ru,REJECT
 DOMAIN,aliexpress-internet.ru,REJECT
@@ -5466,6 +5465,7 @@ DOMAIN,andsedrit.com,REJECT
 DOMAIN,andyhoppe.com,REJECT
 DOMAIN,anekaiklan.com,REJECT
 DOMAIN,anelexpres.club,REJECT
+DOMAIN,anerqdd.ga,REJECT
 DOMAIN,anews.cc,REJECT
 DOMAIN,anews7.nvwu.com,REJECT
 DOMAIN,anfeng.com,REJECT
@@ -6447,7 +6447,6 @@ DOMAIN,av8d.net,REJECT
 DOMAIN,avads.co.uk,REJECT
 DOMAIN,avajo.men,REJECT
 DOMAIN,avalancheofnews.com,REJECT
-DOMAIN,avalopaly.com,REJECT
 DOMAIN,avapp.tv,REJECT
 DOMAIN,avastats.com,REJECT
 DOMAIN,avault.net,REJECT
@@ -10255,6 +10254,7 @@ DOMAIN,coinhive.info,REJECT
 DOMAIN,coinhive.net,REJECT
 DOMAIN,coinhive.org,REJECT
 DOMAIN,coinhiveproxy.com,REJECT
+DOMAIN,coinhiver.com,REJECT
 DOMAIN,coinimp.com,REJECT
 DOMAIN,coinimp.net,REJECT
 DOMAIN,coinive.com,REJECT
@@ -10333,7 +10333,6 @@ DOMAIN,collector.xhamster.com,REJECT
 DOMAIN,collector1.afreecatv.com,REJECT
 DOMAIN,collector1.xhamster.com,REJECT
 DOMAIN,collectpush.com,REJECT
-DOMAIN,collectrom.com,REJECT
 DOMAIN,collectrum.com,REJECT
 DOMAIN,colleduny.info,REJECT
 DOMAIN,colliersads.com,REJECT
@@ -10993,6 +10992,7 @@ DOMAIN,cpm20.com,REJECT
 DOMAIN,cpm30.com,REJECT
 DOMAIN,cpm360.com,REJECT
 DOMAIN,cpmadvisors.com,REJECT
+DOMAIN,cpmdlmgfwy.com,REJECT
 DOMAIN,cpmgatenetwork.com,REJECT
 DOMAIN,cpmgohigh.com,REJECT
 DOMAIN,cpmktg.com,REJECT
@@ -11873,6 +11873,7 @@ DOMAIN,d35r45qhjmgs3g.cloudfront.net,REJECT
 DOMAIN,d35u1vg1q28b3w.cloudfront.net,REJECT
 DOMAIN,d366o5iwycvbsk.cloudfront.net,REJECT
 DOMAIN,d36eyd5j1kt1m6.cloudfront.net,REJECT
+DOMAIN,d36gyu.cn,REJECT
 DOMAIN,d36sxvmjoflc2i.cloudfront.net,REJECT
 DOMAIN,d36zfztxfflmqo.cloudfront.net,REJECT
 DOMAIN,d37abonb6ucrhx.cloudfront.net,REJECT
@@ -15819,6 +15820,7 @@ DOMAIN,fgddrrr.com,REJECT
 DOMAIN,fgfgnbmeieorr910.com,REJECT
 DOMAIN,fggwavfjucnyw.com,REJECT
 DOMAIN,fghmc.ga25.com,REJECT
+DOMAIN,fgo22.info,REJECT
 DOMAIN,fgoverhead.club,REJECT
 DOMAIN,fhbv.cn,REJECT
 DOMAIN,fhgh9sd.com,REJECT
@@ -25753,6 +25755,7 @@ DOMAIN,moviesprofit.com,REJECT
 DOMAIN,moviesteward.com,REJECT
 DOMAIN,moviestreamingonline.club,REJECT
 DOMAIN,movii-loft.cn,REJECT
+DOMAIN,mowehrxikxhr.com,REJECT
 DOMAIN,mowfruit.com,REJECT
 DOMAIN,mowyappedbibs.com,REJECT
 DOMAIN,moxiaoyang.top,REJECT
@@ -27056,6 +27059,7 @@ DOMAIN,notchcollectormuffin.com,REJECT
 DOMAIN,notenpartner.de,REJECT
 DOMAIN,notes-analytics-events.apple.com,REJECT
 DOMAIN,notestscredi.club,REJECT
+DOMAIN,notheredef.fun,REJECT
 DOMAIN,nothickner.club,REJECT
 DOMAIN,nothingarbourdough.com,REJECT
 DOMAIN,nothingmethod.com,REJECT
@@ -28194,6 +28198,7 @@ DOMAIN,owncutone.com,REJECT
 DOMAIN,owndata.network,REJECT
 DOMAIN,ownlocal.com,REJECT
 DOMAIN,ownpage.fr,REJECT
+DOMAIN,owodtmyd.com,REJECT
 DOMAIN,owowoaty.com,REJECT
 DOMAIN,ox-bio.com,REJECT
 DOMAIN,ox-i.cordillera.tv,REJECT

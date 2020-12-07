@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzM0MjczMAo=
+# Checksum: MTYwNzM1MzQ4MAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-4
-# TimeUpdated: 2020-12-07T12:05:30+00:00
+# Version: 1.6.8-20201207-5
+# TimeUpdated: 2020-12-07T15:04:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45677
+# Total: 45682
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -4921,7 +4921,6 @@ payload:
   - DOMAIN,alicc.txsadql.cn
   - DOMAIN,alicdnv2.sitemonitor.cn.miaozhen.com
   - DOMAIN,alicmayuns.com
-  - DOMAIN,alidongxi.com
   - DOMAIN,aliencesuffe.top
   - DOMAIN,alienradar.ru
   - DOMAIN,aliexpress-internet.ru
@@ -5467,6 +5466,7 @@ payload:
   - DOMAIN,andyhoppe.com
   - DOMAIN,anekaiklan.com
   - DOMAIN,anelexpres.club
+  - DOMAIN,anerqdd.ga
   - DOMAIN,anews.cc
   - DOMAIN,anews7.nvwu.com
   - DOMAIN,anfeng.com
@@ -6448,7 +6448,6 @@ payload:
   - DOMAIN,avads.co.uk
   - DOMAIN,avajo.men
   - DOMAIN,avalancheofnews.com
-  - DOMAIN,avalopaly.com
   - DOMAIN,avapp.tv
   - DOMAIN,avastats.com
   - DOMAIN,avault.net
@@ -10256,6 +10255,7 @@ payload:
   - DOMAIN,coinhive.net
   - DOMAIN,coinhive.org
   - DOMAIN,coinhiveproxy.com
+  - DOMAIN,coinhiver.com
   - DOMAIN,coinimp.com
   - DOMAIN,coinimp.net
   - DOMAIN,coinive.com
@@ -10334,7 +10334,6 @@ payload:
   - DOMAIN,collector1.afreecatv.com
   - DOMAIN,collector1.xhamster.com
   - DOMAIN,collectpush.com
-  - DOMAIN,collectrom.com
   - DOMAIN,collectrum.com
   - DOMAIN,colleduny.info
   - DOMAIN,colliersads.com
@@ -10994,6 +10993,7 @@ payload:
   - DOMAIN,cpm30.com
   - DOMAIN,cpm360.com
   - DOMAIN,cpmadvisors.com
+  - DOMAIN,cpmdlmgfwy.com
   - DOMAIN,cpmgatenetwork.com
   - DOMAIN,cpmgohigh.com
   - DOMAIN,cpmktg.com
@@ -11874,6 +11874,7 @@ payload:
   - DOMAIN,d35u1vg1q28b3w.cloudfront.net
   - DOMAIN,d366o5iwycvbsk.cloudfront.net
   - DOMAIN,d36eyd5j1kt1m6.cloudfront.net
+  - DOMAIN,d36gyu.cn
   - DOMAIN,d36sxvmjoflc2i.cloudfront.net
   - DOMAIN,d36zfztxfflmqo.cloudfront.net
   - DOMAIN,d37abonb6ucrhx.cloudfront.net
@@ -15820,6 +15821,7 @@ payload:
   - DOMAIN,fgfgnbmeieorr910.com
   - DOMAIN,fggwavfjucnyw.com
   - DOMAIN,fghmc.ga25.com
+  - DOMAIN,fgo22.info
   - DOMAIN,fgoverhead.club
   - DOMAIN,fhbv.cn
   - DOMAIN,fhgh9sd.com
@@ -25754,6 +25756,7 @@ payload:
   - DOMAIN,moviesteward.com
   - DOMAIN,moviestreamingonline.club
   - DOMAIN,movii-loft.cn
+  - DOMAIN,mowehrxikxhr.com
   - DOMAIN,mowfruit.com
   - DOMAIN,mowyappedbibs.com
   - DOMAIN,moxiaoyang.top
@@ -27057,6 +27060,7 @@ payload:
   - DOMAIN,notenpartner.de
   - DOMAIN,notes-analytics-events.apple.com
   - DOMAIN,notestscredi.club
+  - DOMAIN,notheredef.fun
   - DOMAIN,nothickner.club
   - DOMAIN,nothingarbourdough.com
   - DOMAIN,nothingmethod.com
@@ -28195,6 +28199,7 @@ payload:
   - DOMAIN,owndata.network
   - DOMAIN,ownlocal.com
   - DOMAIN,ownpage.fr
+  - DOMAIN,owodtmyd.com
   - DOMAIN,owowoaty.com
   - DOMAIN,ox-bio.com
   - DOMAIN,ox-i.cordillera.tv
