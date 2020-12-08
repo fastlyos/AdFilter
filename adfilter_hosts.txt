@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM3NTAzMwo=
+# Checksum: MTYwNzM4NjE0OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-7
-# TimeUpdated: 2020-12-07T21:03:53+00:00
+# Version: 1.6.8-20201208-0
+# TimeUpdated: 2020-12-08T00:09:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45715
+# Total: 45713
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3418,8 +3418,6 @@ ff02::3 ip6-allhosts
 :: 99lolo.com
 0.0.0.0 99nfft.com
 :: 99nfft.com
-0.0.0.0 99qqc.com
-:: 99qqc.com
 0.0.0.0 99stats.com
 :: 99stats.com
 0.0.0.0 99tianxin.com
@@ -6200,8 +6198,6 @@ ff02::3 ip6-allhosts
 :: adicate.com
 0.0.0.0 adiceltic.de
 :: adiceltic.de
-0.0.0.0 adidaschile62tracksuit.com
-:: adidaschile62tracksuit.com
 0.0.0.0 adifficiente.top
 :: adifficiente.top
 0.0.0.0 adigniter.org
@@ -6544,8 +6540,6 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
-0.0.0.0 admaster.com
-:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admaster.net
@@ -19626,6 +19620,8 @@ ff02::3 ip6-allhosts
 :: clickguardian.co.uk
 0.0.0.0 clickhere.ru
 :: clickhere.ru
+0.0.0.0 clickhereforfun.org
+:: clickhereforfun.org
 0.0.0.0 clicki.cn
 :: clicki.cn
 0.0.0.0 clickinc.com
@@ -22898,8 +22894,6 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
-0.0.0.0 czywssj.com
-:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -73954,6 +73948,8 @@ ff02::3 ip6-allhosts
 :: t.njzrxx.xyz
 0.0.0.0 t.ofsys.com
 :: t.ofsys.com
+0.0.0.0 t.oohxa.xyz
+:: t.oohxa.xyz
 0.0.0.0 t.oq68.com
 :: t.oq68.com
 0.0.0.0 t.pd74.top
@@ -77762,8 +77758,6 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
-0.0.0.0 trade.mtime.com
-:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net
@@ -91282,6 +91276,8 @@ ff02::3 ip6-allhosts
 :: zuimeitianqi.inveno.com
 0.0.0.0 zukxd6fkxqn.com
 :: zukxd6fkxqn.com
+0.0.0.0 zumads.vrixon.com
+:: zumads.vrixon.com
 0.0.0.0 zumcontentdelivery.info
 :: zumcontentdelivery.info
 0.0.0.0 zuowen.hydcd.com

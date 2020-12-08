@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM3NTAzMwo=
+# Checksum: MTYwNzM4NjE0OQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201207-7
-# TimeUpdated: 2020-12-07T21:03:53+00:00
+# Version: 1.6.8-20201208-0
+# TimeUpdated: 2020-12-08T00:09:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45715
+# Total: 45713
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1707,7 +1707,6 @@ DOMAIN,99dqw.com,REJECT
 DOMAIN,99l.co,REJECT
 DOMAIN,99lolo.com,REJECT
 DOMAIN,99nfft.com,REJECT
-DOMAIN,99qqc.com,REJECT
 DOMAIN,99stats.com,REJECT
 DOMAIN,99tianxin.com,REJECT
 DOMAIN,99tuan.com.cn,REJECT
@@ -3098,7 +3097,6 @@ DOMAIN,adi2007.cnool.net,REJECT
 DOMAIN,adical.de,REJECT
 DOMAIN,adicate.com,REJECT
 DOMAIN,adiceltic.de,REJECT
-DOMAIN,adidaschile62tracksuit.com,REJECT
 DOMAIN,adifficiente.top,REJECT
 DOMAIN,adigniter.org,REJECT
 DOMAIN,adikteev.com,REJECT
@@ -3270,7 +3268,6 @@ DOMAIN,admartzone.com,REJECT
 DOMAIN,admarvel.com,REJECT
 DOMAIN,admarvel.s3.amazonaws.com,REJECT
 DOMAIN,admarvel.top,REJECT
-DOMAIN,admaster.com,REJECT
 DOMAIN,admaster.com.cn,REJECT
 DOMAIN,admaster.net,REJECT
 DOMAIN,admatic.com.tr,REJECT
@@ -9811,6 +9808,7 @@ DOMAIN,clickguard.com,REJECT
 DOMAIN,clickguardian.app,REJECT
 DOMAIN,clickguardian.co.uk,REJECT
 DOMAIN,clickhere.ru,REJECT
+DOMAIN,clickhereforfun.org,REJECT
 DOMAIN,clicki.cn,REJECT
 DOMAIN,clickinc.com,REJECT
 DOMAIN,clickintext.com,REJECT
@@ -11447,7 +11445,6 @@ DOMAIN,cztanchao.com,REJECT
 DOMAIN,czx5eyk0exbhwp43ya.biz,REJECT
 DOMAIN,czxiangyue.com,REJECT
 DOMAIN,czxjx.cn,REJECT
-DOMAIN,czywssj.com,REJECT
 DOMAIN,d-1.co,REJECT
 DOMAIN,d-agency.net,REJECT
 DOMAIN,d-bi.fr,REJECT
@@ -36975,6 +36972,7 @@ DOMAIN,t.nativendo.de,REJECT
 DOMAIN,t.nbyongle.com,REJECT
 DOMAIN,t.njzrxx.xyz,REJECT
 DOMAIN,t.ofsys.com,REJECT
+DOMAIN,t.oohxa.xyz,REJECT
 DOMAIN,t.oq68.com,REJECT
 DOMAIN,t.pd74.top,REJECT
 DOMAIN,t.perigold.com,REJECT
@@ -38879,7 +38877,6 @@ DOMAIN,trackyourstats.com,REJECT
 DOMAIN,tracy.sadv.dadapro.com,REJECT
 DOMAIN,tradblock.com,REJECT
 DOMAIN,trade.koudaitong.com,REJECT
-DOMAIN,trade.mtime.com,REJECT
 DOMAIN,tradeadexchange.com,REJECT
 DOMAIN,tradecraft.s.llnwi.net,REJECT
 DOMAIN,tradeexpert.net,REJECT
@@ -45639,6 +45636,7 @@ DOMAIN,zugnogne.com,REJECT
 DOMAIN,zuiceshi.net,REJECT
 DOMAIN,zuimeitianqi.inveno.com,REJECT
 DOMAIN,zukxd6fkxqn.com,REJECT
+DOMAIN,zumads.vrixon.com,REJECT
 DOMAIN,zumcontentdelivery.info,REJECT
 DOMAIN,zuowen.hydcd.com,REJECT
 DOMAIN,zuphaims.com,REJECT
