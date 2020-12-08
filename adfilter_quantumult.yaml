@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM5NjY3MQo=
+# Checksum: MTYwNzQwNzQ4Mwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-1
-# TimeUpdated: 2020-12-08T03:04:31+00:00
+# Version: 1.6.8-20201208-2
+# TimeUpdated: 2020-12-08T06:04:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45717
+# Total: 45684
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1111,6 +1111,7 @@ DOMAIN,5baf1288cf.dl8.me,REJECT
 DOMAIN,5c.com.cn,REJECT
 DOMAIN,5c43cbc0f41.com,REJECT
 DOMAIN,5c577fc74618431b.com,REJECT
+DOMAIN,5cripa2s.top,REJECT
 DOMAIN,5cwr93yyd4lf.com,REJECT
 DOMAIN,5d02977f6511aa.com,REJECT
 DOMAIN,5dabf928ad9ad4.com,REJECT
@@ -1185,6 +1186,7 @@ DOMAIN,63r2vxacp0pr.com,REJECT
 DOMAIN,63voy9ciyi14.com,REJECT
 DOMAIN,640f94e47dc41c.com,REJECT
 DOMAIN,641198810fae7.com,REJECT
+DOMAIN,641c79559b7c7c8.com,REJECT
 DOMAIN,643226.com,REJECT
 DOMAIN,645yvcj6c8rn.com,REJECT
 DOMAIN,649558.com,REJECT
@@ -2141,6 +2143,7 @@ DOMAIN,abckj123.com,REJECT
 DOMAIN,abckzo.cn,REJECT
 DOMAIN,abcnewspro.com,REJECT
 DOMAIN,abcompteur.com,REJECT
+DOMAIN,abcounter.de,REJECT
 DOMAIN,abcstats.com,REJECT
 DOMAIN,abdmi.ru,REJECT
 DOMAIN,abds.pingpingw.com,REJECT
@@ -5101,6 +5104,7 @@ DOMAIN,amob.acs86.com,REJECT
 DOMAIN,amobee.com,REJECT
 DOMAIN,amoeba.fudata.cn,REJECT
 DOMAIN,amountant.club,REJECT
+DOMAIN,amountinue.info,REJECT
 DOMAIN,amp-error-reporting.appspot.com,REJECT
 DOMAIN,amp.rd.linksynergy.com,REJECT
 DOMAIN,amparcaim.club,REJECT
@@ -6098,7 +6102,6 @@ DOMAIN,artapeare.site,REJECT
 DOMAIN,artemisaffiliates.com,REJECT
 DOMAIN,artfut.com,REJECT
 DOMAIN,arthwhilearthu.info,REJECT
-DOMAIN,articlefddss1.info,REJECT
 DOMAIN,artisticdisgraceevidently.com,REJECT
 DOMAIN,artneesrparkete.info,REJECT
 DOMAIN,artpever.com,REJECT
@@ -6992,6 +6995,7 @@ DOMAIN,barryanddistrictnews-gb.barryanddistrictnews.co.uk,REJECT
 DOMAIN,bars2show.com,REJECT
 DOMAIN,barytonneras.site,REJECT
 DOMAIN,bas.boshi.tv,REJECT
+DOMAIN,bascomdeary.com,REJECT
 DOMAIN,basebanner.com,REJECT
 DOMAIN,baseendpoint.stern.de,REJECT
 DOMAIN,baselined.club,REJECT
@@ -7081,7 +7085,6 @@ DOMAIN,bctwe.com,REJECT
 DOMAIN,bcvc.mobi,REJECT
 DOMAIN,bcvcmedia.com,REJECT
 DOMAIN,bcvcrdr.xyz,REJECT
-DOMAIN,bcvutcks.com,REJECT
 DOMAIN,bd-js.baixing.net,REJECT
 DOMAIN,bd-s.baixing.net,REJECT
 DOMAIN,bd.czxuexi.com,REJECT
@@ -7712,6 +7715,7 @@ DOMAIN,bjhjw.com.cn,REJECT
 DOMAIN,bjhuhangjy.com,REJECT
 DOMAIN,bjlmok.com,REJECT
 DOMAIN,bjmcmj.cn,REJECT
+DOMAIN,bjorksta.me,REJECT
 DOMAIN,bjqftcty.com,REJECT
 DOMAIN,bjs.9669.cn,REJECT
 DOMAIN,bjs.faxingzhan.com,REJECT
@@ -11429,6 +11433,7 @@ DOMAIN,cyzyyv.com,REJECT
 DOMAIN,cz.ifeng0.com,REJECT
 DOMAIN,cz01016102.cg2017.com,REJECT
 DOMAIN,cz01016102.ms758.com,REJECT
+DOMAIN,cz345.cn,REJECT
 DOMAIN,cz4444.cn,REJECT
 DOMAIN,czcetfjlisyjh.com,REJECT
 DOMAIN,czechose.com,REJECT
@@ -12065,6 +12070,7 @@ DOMAIN,daa.shuzilm.cn,REJECT
 DOMAIN,daast.digitalbox.ru,REJECT
 DOMAIN,dabaoku.com,REJECT
 DOMAIN,dable.io,REJECT
+DOMAIN,dabxzyfcxrdgbs.com,REJECT
 DOMAIN,dacash.streamplay.to,REJECT
 DOMAIN,daccroi.com,REJECT
 DOMAIN,dachadu.cn,REJECT
@@ -12095,6 +12101,7 @@ DOMAIN,daezorwyn.xyz,REJECT
 DOMAIN,dafa.io,REJECT
 DOMAIN,dafapai.com,REJECT
 DOMAIN,daffaite.com,REJECT
+DOMAIN,dafficha.com,REJECT
 DOMAIN,dagasaka.com,REJECT
 DOMAIN,dagnar.com,REJECT
 DOMAIN,dagolor.pw,REJECT
@@ -12187,6 +12194,7 @@ DOMAIN,daq0d0aotgq0f.cloudfront.net,REJECT
 DOMAIN,dardwebertoha.info,REJECT
 DOMAIN,daredorm.com,REJECT
 DOMAIN,darersan.co,REJECT
+DOMAIN,darking06.tk,REJECT
 DOMAIN,darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk,REJECT
 DOMAIN,dart.clearchannel.com,REJECT
 DOMAIN,dartimyl.com,REJECT
@@ -12837,6 +12845,7 @@ DOMAIN,digreality.com,REJECT
 DOMAIN,digyepnag.club,REJECT
 DOMAIN,diitlm.com,REJECT
 DOMAIN,dijutbdzbv.com,REJECT
+DOMAIN,dilcn.net,REJECT
 DOMAIN,dildo.tnaflix.com,REJECT
 DOMAIN,dilruwha.net,REJECT
 DOMAIN,dilutercelebraltygu.info,REJECT
@@ -14373,7 +14382,6 @@ DOMAIN,egjq.com.cn,REJECT
 DOMAIN,eglates.pro,REJECT
 DOMAIN,egnatius-ear.com,REJECT
 DOMAIN,egolina.com,REJECT
-DOMAIN,egqvppwseieyu.com,REJECT
 DOMAIN,egrettyjokilin.info,REJECT
 DOMAIN,egroacho.com,REJECT
 DOMAIN,egxlbyokjk.com,REJECT
@@ -14900,6 +14908,7 @@ DOMAIN,escalated.io,REJECT
 DOMAIN,escalatenetwork.com,REJECT
 DOMAIN,escape.insites.eu,REJECT
 DOMAIN,escense.ru,REJECT
+DOMAIN,eschpaxxwy.com,REJECT
 DOMAIN,esconcentleu.site,REJECT
 DOMAIN,escortso.com,REJECT
 DOMAIN,escowledge.club,REJECT
@@ -15380,6 +15389,7 @@ DOMAIN,f.xyu.tv,REJECT
 DOMAIN,f.yijikm.com,REJECT
 DOMAIN,f.zgbmw.com.cn,REJECT
 DOMAIN,f01ed651eca.com,REJECT
+DOMAIN,f084t2700i.com,REJECT
 DOMAIN,f09vhflf10.com,REJECT
 DOMAIN,f1.ichong123.com,REJECT
 DOMAIN,f1.luoshenbest.cn,REJECT
@@ -15638,6 +15648,7 @@ DOMAIN,fc0902dc54a19a.com,REJECT
 DOMAIN,fc2b9b7ce3165.com,REJECT
 DOMAIN,fc3tn.baidu.com,REJECT
 DOMAIN,fc5tn.baidu.com,REJECT
+DOMAIN,fcafnvgdokqfo.com,REJECT
 DOMAIN,fcaot.com,REJECT
 DOMAIN,fcfd5de4b3be3.com,REJECT
 DOMAIN,fcgadgets.blogspot.com,REJECT
@@ -16078,7 +16089,6 @@ DOMAIN,fn.sdduofen.com.cn,REJECT
 DOMAIN,fnacgbik9v14.com,REJECT
 DOMAIN,fnbmlwip.biz,REJECT
 DOMAIN,fncash.com,REJECT
-DOMAIN,fndvovywrtghk.com,REJECT
 DOMAIN,fnkjj.com,REJECT
 DOMAIN,fnkyyrgraizy.com,REJECT
 DOMAIN,fnpet.cn,REJECT
@@ -16235,6 +16245,7 @@ DOMAIN,fptest.fraudmetrix.cn,REJECT
 DOMAIN,fqab5xq7qlgt.info,REJECT
 DOMAIN,fqbucxkfcya.com,REJECT
 DOMAIN,fqceyqo.com,REJECT
+DOMAIN,fqcwtrbxzhjsiu.com,REJECT
 DOMAIN,fqsbi.com,REJECT
 DOMAIN,fqsecure.com,REJECT
 DOMAIN,fqtag.com,REJECT
@@ -16348,6 +16359,7 @@ DOMAIN,frestacero.com,REJECT
 DOMAIN,frestime.com,REJECT
 DOMAIN,fretfulfurniture.com,REJECT
 DOMAIN,frevi.net,REJECT
+DOMAIN,frfnlvnpzeju.com,REJECT
 DOMAIN,frhbrkjgerikm2f8mjek09.com,REJECT
 DOMAIN,fridric.com,REJECT
 DOMAIN,friendlybcs.pro,REJECT
@@ -16527,6 +16539,7 @@ DOMAIN,fwbntw.com,REJECT
 DOMAIN,fwix.com,REJECT
 DOMAIN,fwrrcnkzn5ik.com,REJECT
 DOMAIN,fwt0.com,REJECT
+DOMAIN,fwuxrjzrkcjkop.com,REJECT
 DOMAIN,fxcast.com,REJECT
 DOMAIN,fxfahn.com,REJECT
 DOMAIN,fxgpbkwu.com,REJECT
@@ -16546,7 +16559,6 @@ DOMAIN,fyjyhm.com,REJECT
 DOMAIN,fykmahfa.com,REJECT
 DOMAIN,fylusiucmzdjl.com,REJECT
 DOMAIN,fyoewyqwpzc.com,REJECT
-DOMAIN,fyq.wlgszt.com,REJECT
 DOMAIN,fyreball.com,REJECT
 DOMAIN,fyredet.xyz,REJECT
 DOMAIN,fyrsbckgi-c.global.ssl.fastly.net,REJECT
@@ -16557,7 +16569,6 @@ DOMAIN,fz863.com,REJECT
 DOMAIN,fzb01.qiushibaike.com,REJECT
 DOMAIN,fzdeng.com,REJECT
 DOMAIN,fzdfwy.com,REJECT
-DOMAIN,fzeahussyd.com,REJECT
 DOMAIN,fzglqyy.com,REJECT
 DOMAIN,fzhxi.com,REJECT
 DOMAIN,fznpq.com,REJECT
@@ -16876,6 +16887,7 @@ DOMAIN,gcaog.com,REJECT
 DOMAIN,gccode.gongchang.com,REJECT
 DOMAIN,gcdn.2mdn.net,REJECT
 DOMAIN,gcdsdk.appsflyer.com,REJECT
+DOMAIN,gcjehafhajjhcdicaeb.ru,REJECT
 DOMAIN,gclick.cn,REJECT
 DOMAIN,gcm.ksmobile.com,REJECT
 DOMAIN,gcm.ksmobile.net,REJECT
@@ -17805,6 +17817,7 @@ DOMAIN,growthpic.weishi.qq.com,REJECT
 DOMAIN,growthrx.in,REJECT
 DOMAIN,grt01.com,REJECT
 DOMAIN,grt02.com,REJECT
+DOMAIN,grt03.com,REJECT
 DOMAIN,grteab.com,REJECT
 DOMAIN,grtyj.com,REJECT
 DOMAIN,grtyv.com,REJECT
@@ -17869,7 +17882,6 @@ DOMAIN,guangzhuiyuan.com,REJECT
 DOMAIN,guangzizai.com,REJECT
 DOMAIN,guanoo.net,REJECT
 DOMAIN,guansenff.cn,REJECT
-DOMAIN,guanzistory.com,REJECT
 DOMAIN,guaranteelamp.com,REJECT
 DOMAIN,guardedschool.com,REJECT
 DOMAIN,guardian-series-gb.guardian-series.co.uk,REJECT
@@ -17945,6 +17957,7 @@ DOMAIN,gxklsftz.cn,REJECT
 DOMAIN,gxkyl.com,REJECT
 DOMAIN,gxordgtvjr.com,REJECT
 DOMAIN,gxqrjjcsyh.com,REJECT
+DOMAIN,gxyrnjtgtwll.com,REJECT
 DOMAIN,gxzjzg.com,REJECT
 DOMAIN,gybdtg.com,REJECT
 DOMAIN,gyca9f.dahuangcheng.cn,REJECT
@@ -17954,6 +17967,7 @@ DOMAIN,gyfwz.com,REJECT
 DOMAIN,gyh1lh20owj.ru,REJECT
 DOMAIN,gyhzr.com,REJECT
 DOMAIN,gynax.com,REJECT
+DOMAIN,gyojplgn.com,REJECT
 DOMAIN,gyro-n.com,REJECT
 DOMAIN,gyrtg.com,REJECT
 DOMAIN,gythsg.com,REJECT
@@ -18934,7 +18948,6 @@ DOMAIN,hpplay.cn,REJECT
 DOMAIN,hpr.outbrain.com,REJECT
 DOMAIN,hprofits.com,REJECT
 DOMAIN,hpuknttzl.com,REJECT
-DOMAIN,hpwoowyxhrsatx.com,REJECT
 DOMAIN,hpyjmp.com,REJECT
 DOMAIN,hpyrdr.com,REJECT
 DOMAIN,hpyue.com,REJECT
@@ -19440,6 +19453,7 @@ DOMAIN,ielohga9.com,REJECT
 DOMAIN,iendoo.com,REJECT
 DOMAIN,ienkdago.cn,REJECT
 DOMAIN,ientribalintri.club,REJECT
+DOMAIN,ieru5xo.top,REJECT
 DOMAIN,ieuhd.com,REJECT
 DOMAIN,ieurop.net,REJECT
 DOMAIN,iewad.net,REJECT
@@ -19534,6 +19548,7 @@ DOMAIN,ijdjvaa.pro,REJECT
 DOMAIN,ijeu.pdkzyy.cn,REJECT
 DOMAIN,ijldfpgu.biz,REJECT
 DOMAIN,ijpheyydhw1a.com,REJECT
+DOMAIN,ijrah.top,REJECT
 DOMAIN,ijsprocode.com,REJECT
 DOMAIN,ijugatdyiuwxq.com,REJECT
 DOMAIN,ikiif.com,REJECT
@@ -19585,6 +19600,7 @@ DOMAIN,ilsuuqcab.com,REJECT
 DOMAIN,ilxhsgd.com,REJECT
 DOMAIN,ilyonanalytics.herokuapp.com,REJECT
 DOMAIN,ilypsycholasg.club,REJECT
+DOMAIN,ilzjjdujrgaa.com,REJECT
 DOMAIN,im-apps.net,REJECT
 DOMAIN,im-x.jd.com,REJECT
 DOMAIN,im.aol.de,REJECT
@@ -19691,7 +19707,6 @@ DOMAIN,img.ferlie.net,REJECT
 DOMAIN,img.gadhx.cn,REJECT
 DOMAIN,img.gaore.com,REJECT
 DOMAIN,img.gxhxmy88.com,REJECT
-DOMAIN,img.gzhuibei.com,REJECT
 DOMAIN,img.hai61.com,REJECT
 DOMAIN,img.hdsygw.cn,REJECT
 DOMAIN,img.i8xz.com,REJECT
@@ -20674,6 +20689,7 @@ DOMAIN,jahediretictho.info,REJECT
 DOMAIN,jaidennegros.pro,REJECT
 DOMAIN,jairoowe.com,REJECT
 DOMAIN,jaizouji.com,REJECT
+DOMAIN,jajbufmcl.com,REJECT
 DOMAIN,jajnhd.com,REJECT
 DOMAIN,jakzpcgrxgda.com,REJECT
 DOMAIN,jamcdn.pro,REJECT
@@ -21398,6 +21414,7 @@ DOMAIN,junnew.com,REJECT
 DOMAIN,juricts.xyz,REJECT
 DOMAIN,juroudaw.com,REJECT
 DOMAIN,jursp.com,REJECT
+DOMAIN,jurty.ml,REJECT
 DOMAIN,juruiklan.com,REJECT
 DOMAIN,juryintory.co,REJECT
 DOMAIN,jurysatisfy.com,REJECT
@@ -21440,6 +21457,7 @@ DOMAIN,jwg365.cn,REJECT
 DOMAIN,jwhfn.cn,REJECT
 DOMAIN,jwmstats.com,REJECT
 DOMAIN,jwmyba.biz,REJECT
+DOMAIN,jwofadcwpocm.com,REJECT
 DOMAIN,jwplayer.space,REJECT
 DOMAIN,jwt8e5vzc1.com,REJECT
 DOMAIN,jwvwak1a.com,REJECT
@@ -21595,6 +21613,7 @@ DOMAIN,kbstyn.com,REJECT
 DOMAIN,kbtzxl.com,REJECT
 DOMAIN,kbugxeslbjc8.com,REJECT
 DOMAIN,kbx1sth37s.com,REJECT
+DOMAIN,kbymnqiomnegs.com,REJECT
 DOMAIN,kbzdxt.com,REJECT
 DOMAIN,kc.gouchezj.com,REJECT
 DOMAIN,kc.jjhaolin.com,REJECT
@@ -21692,6 +21711,7 @@ DOMAIN,kfozongcvn.com,REJECT
 DOMAIN,kfuih.cn,REJECT
 DOMAIN,kfutdsjwtcvnpx.com,REJECT
 DOMAIN,kg8l81yh7vnf.com,REJECT
+DOMAIN,kg962.cn,REJECT
 DOMAIN,kgmobilestat.kugou.com,REJECT
 DOMAIN,kgmobilestatbak.kugou.com,REJECT
 DOMAIN,kgqhtakjphgdwg.com,REJECT
@@ -21885,6 +21905,7 @@ DOMAIN,kodicdn.com,REJECT
 DOMAIN,koertf.com,REJECT
 DOMAIN,koesvqwwpmvb.com,REJECT
 DOMAIN,kofpag.com,REJECT
+DOMAIN,kohiquor.com,REJECT
 DOMAIN,koimplishing.club,REJECT
 DOMAIN,koindut.com,REJECT
 DOMAIN,kokofits.com,REJECT
@@ -21953,6 +21974,7 @@ DOMAIN,krboeyeq.com,REJECT
 DOMAIN,krdmqluvudizq.com,REJECT
 DOMAIN,krenovo.online,REJECT
 DOMAIN,krison.xyz,REJECT
+DOMAIN,krjleggwikuil.com,REJECT
 DOMAIN,krkursist.com,REJECT
 DOMAIN,krolikplatit.ru,REJECT
 DOMAIN,kropka.onet.pl,REJECT
@@ -21963,6 +21985,7 @@ DOMAIN,krutilka.net,REJECT
 DOMAIN,krux.net,REJECT
 DOMAIN,krytilka.ru,REJECT
 DOMAIN,ks67.com,REJECT
+DOMAIN,ksimdw.ru,REJECT
 DOMAIN,ksjrehefupsrkz.com,REJECT
 DOMAIN,ksnbdfzjlyqmxs.com,REJECT
 DOMAIN,kstj.baidu.com,REJECT
@@ -22516,6 +22539,7 @@ DOMAIN,lfg5jnbi.com,REJECT
 DOMAIN,lfhnkp.com,REJECT
 DOMAIN,lflili.com,REJECT
 DOMAIN,lfov.net,REJECT
+DOMAIN,lfriqmklpsbtq.com,REJECT
 DOMAIN,lfstmedia.com,REJECT
 DOMAIN,lftqch650apz.com,REJECT
 DOMAIN,lftxali.fancyapi.com,REJECT
@@ -22915,6 +22939,7 @@ DOMAIN,load.sumome.com,REJECT
 DOMAIN,load44ont.online,REJECT
 DOMAIN,load77.exelator.com,REJECT
 DOMAIN,loading-delivery1.com,REJECT
+DOMAIN,loading-wsite.com,REJECT
 DOMAIN,loading.baofeng5.baofeng.net,REJECT
 DOMAIN,loadm.exelator.com,REJECT
 DOMAIN,loadmoney.ru,REJECT
@@ -23248,6 +23273,7 @@ DOMAIN,lopetgohou.cf,REJECT
 DOMAIN,lopfly.com,REJECT
 DOMAIN,lophaszip.com,REJECT
 DOMAIN,lopley.com,REJECT
+DOMAIN,loponop.com,REJECT
 DOMAIN,loppjod.online,REJECT
 DOMAIN,lopsookr.com,REJECT
 DOMAIN,lopzitpup.com,REJECT
@@ -23763,7 +23789,6 @@ DOMAIN,m.heygugu.com,REJECT
 DOMAIN,m.heylookhere.top,REJECT
 DOMAIN,m.hguas.com,REJECT
 DOMAIN,m.hhinternational.cn,REJECT
-DOMAIN,m.hhllyt.com,REJECT
 DOMAIN,m.hissq.com,REJECT
 DOMAIN,m.hjues.com,REJECT
 DOMAIN,m.hjyll.top,REJECT
@@ -24913,7 +24938,6 @@ DOMAIN,metermsew.club,REJECT
 DOMAIN,methickarda.club,REJECT
 DOMAIN,methingewsf.club,REJECT
 DOMAIN,methinking.club,REJECT
-DOMAIN,methinkinge.com,REJECT
 DOMAIN,methiopia.club,REJECT
 DOMAIN,methodcash.com,REJECT
 DOMAIN,metmt.com,REJECT
@@ -25034,6 +25058,7 @@ DOMAIN,mhjk.1391.com,REJECT
 DOMAIN,mhogb.space,REJECT
 DOMAIN,mhub.work,REJECT
 DOMAIN,mhuodong.elong.com,REJECT
+DOMAIN,mhwozc.cn,REJECT
 DOMAIN,mhzaj.com,REJECT
 DOMAIN,mi-de-ner-nis3.info,REJECT
 DOMAIN,mi-mi-fa.com,REJECT
@@ -25308,6 +25333,7 @@ DOMAIN,mlib.browsermine.com,REJECT
 DOMAIN,mlinkj.cn,REJECT
 DOMAIN,mlinkjg.cn,REJECT
 DOMAIN,mlion.cn,REJECT
+DOMAIN,mlmjxddzdazr.com,REJECT
 DOMAIN,mlnadvertising.com,REJECT
 DOMAIN,mlnbike.com,REJECT
 DOMAIN,mlog.aipai.com,REJECT
@@ -26077,6 +26103,7 @@ DOMAIN,mx.browsermine.com,REJECT
 DOMAIN,mx.nimiq.com,REJECT
 DOMAIN,mx.technolutions.net,REJECT
 DOMAIN,mx03.phorm.com,REJECT
+DOMAIN,mxadtjluuv.com,REJECT
 DOMAIN,mxapis.com,REJECT
 DOMAIN,mxcdn.net,REJECT
 DOMAIN,mxcdn1.now.sh,REJECT
@@ -26936,6 +26963,7 @@ DOMAIN,njx.0302woeuxcbrnxcvsdfghu.xyz,REJECT
 DOMAIN,njx.1108mngewioiewncpoten.top,REJECT
 DOMAIN,njx.1202merpinsasfzpiyevc.xyz,REJECT
 DOMAIN,njxczy.com,REJECT
+DOMAIN,njxtoflrhhyy.com,REJECT
 DOMAIN,nk26uvjrz0tt.com,REJECT
 DOMAIN,nkcz8.com,REJECT
 DOMAIN,nkis.nikkei.com,REJECT
@@ -27371,7 +27399,6 @@ DOMAIN,nzfc.2zm4.cn,REJECT
 DOMAIN,nzhfk.com,REJECT
 DOMAIN,nzhuswwhd.com,REJECT
 DOMAIN,nzixhx.com,REJECT
-DOMAIN,nzkxmphfbqrfzs.com,REJECT
 DOMAIN,nzlydrgumirn.com,REJECT
 DOMAIN,nzme-ads.co.nz,REJECT
 DOMAIN,nzopiswswp.com,REJECT
@@ -27493,6 +27520,7 @@ DOMAIN,octopusads.net,REJECT
 DOMAIN,octopuspop.com,REJECT
 DOMAIN,octozoon.org,REJECT
 DOMAIN,ocuf.pzuth.cn,REJECT
+DOMAIN,ocyhiome.com,REJECT
 DOMAIN,od0gddq27wkk.com,REJECT
 DOMAIN,oda.markitondemand.com,REJECT
 DOMAIN,odb.outbrain.com,REJECT
@@ -29711,6 +29739,7 @@ DOMAIN,poratav.com,REJECT
 DOMAIN,poratedp.top,REJECT
 DOMAIN,porchiteds.club,REJECT
 DOMAIN,poredii.com,REJECT
+DOMAIN,poresresigntun.com,REJECT
 DOMAIN,pork.2tumeng.com,REJECT
 DOMAIN,porkolt.com,REJECT
 DOMAIN,porn300.com,REJECT
@@ -32363,6 +32392,7 @@ DOMAIN,rotate5url.com,REJECT
 DOMAIN,rotation-context.ru,REJECT
 DOMAIN,rotator.promokrot.com,REJECT
 DOMAIN,rotator.tradetracker.net,REJECT
+DOMAIN,rotator.trafficstars.com,REJECT
 DOMAIN,rotdubboy.com,REJECT
 DOMAIN,rotorads.com,REJECT
 DOMAIN,rottilderum.cam,REJECT
@@ -34056,7 +34086,6 @@ DOMAIN,sexengine.sx,REJECT
 DOMAIN,sexeoptimal.com,REJECT
 DOMAIN,sexflirtbook.com,REJECT
 DOMAIN,sexiba.com,REJECT
-DOMAIN,sexilbbpnc.com,REJECT
 DOMAIN,sexintheuk.com,REJECT
 DOMAIN,sexitnow.com,REJECT
 DOMAIN,sexlist.com,REJECT
@@ -34207,7 +34236,6 @@ DOMAIN,shen.zgfszs.com,REJECT
 DOMAIN,shence.hupu.com,REJECT
 DOMAIN,shengchaopiao.cn,REJECT
 DOMAIN,shenglonghg.net,REJECT
-DOMAIN,shenhao258.top,REJECT
 DOMAIN,shenleyuni.com,REJECT
 DOMAIN,shenouth.com,REJECT
 DOMAIN,shentaiesp.asia,REJECT
@@ -34222,7 +34250,6 @@ DOMAIN,shforu.com,REJECT
 DOMAIN,shgansheng.cn,REJECT
 DOMAIN,shibagongfang.com,REJECT
 DOMAIN,shidailw.com,REJECT
-DOMAIN,shiek1ph.com,REJECT
 DOMAIN,shifoagn.uk,REJECT
 DOMAIN,shihoult.com,REJECT
 DOMAIN,shijiezhidao.com,REJECT
@@ -34861,7 +34888,6 @@ DOMAIN,snowsignal.com,REJECT
 DOMAIN,snr4.canalplus.com,REJECT
 DOMAIN,snrbox.com,REJECT
 DOMAIN,snrcdn.net,REJECT
-DOMAIN,snsgckygbed.com,REJECT
 DOMAIN,sntjim.com,REJECT
 DOMAIN,sntzq.com,REJECT
 DOMAIN,snw5.jkjjkj.top,REJECT
@@ -35070,7 +35096,6 @@ DOMAIN,sourcepoint-mms.mylifetime.com,REJECT
 DOMAIN,sourcepoint.mgr.consensu.org,REJECT
 DOMAIN,sourcepoint.vice.com,REJECT
 DOMAIN,sources.wangqipu.com,REJECT
-DOMAIN,sourcescdn.xiaobingw.cn,REJECT
 DOMAIN,sourcetobin.com,REJECT
 DOMAIN,sousaira.com,REJECT
 DOMAIN,southendstandard-gb.southendstandard.co.uk,REJECT
@@ -35271,7 +35296,6 @@ DOMAIN,speed-trap.com,REJECT
 DOMAIN,speed.wikia.net,REJECT
 DOMAIN,speedcount.de,REJECT
 DOMAIN,speedcounter.net,REJECT
-DOMAIN,speedlinkdown.com,REJECT
 DOMAIN,speednetwork14.com,REJECT
 DOMAIN,speednetwork19.com,REJECT
 DOMAIN,speedometergreatness.com,REJECT
@@ -36469,7 +36493,6 @@ DOMAIN,sugar.zhihu.com,REJECT
 DOMAIN,sugarcurtain.com,REJECT
 DOMAIN,suggestvideos.xyz,REJECT
 DOMAIN,sugodeku.com,REJECT
-DOMAIN,sugqlryshxarn.com,REJECT
 DOMAIN,sugs.m.sm.cn,REJECT
 DOMAIN,suhunsoo.uk,REJECT
 DOMAIN,suitarserviku.site,REJECT
@@ -36506,7 +36529,6 @@ DOMAIN,sundxs.com,REJECT
 DOMAIN,sunhd.info,REJECT
 DOMAIN,sunios.de,REJECT
 DOMAIN,sunjianhao.com,REJECT
-DOMAIN,sunlandspivey.com,REJECT
 DOMAIN,sunmedia.net,REJECT
 DOMAIN,sunmedia.tv,REJECT
 DOMAIN,sunmixyaw.com,REJECT
@@ -36679,7 +36701,6 @@ DOMAIN,swelen.com,REJECT
 DOMAIN,swellstocking.com,REJECT
 DOMAIN,swesomepop.com,REJECT
 DOMAIN,swfstats.com,REJECT
-DOMAIN,swhgd.com,REJECT
 DOMAIN,swiftmining.win,REJECT
 DOMAIN,swimminghardworkingowners.com,REJECT
 DOMAIN,swimnotease.com,REJECT
@@ -36861,7 +36882,6 @@ DOMAIN,szkdst.com,REJECT
 DOMAIN,szlong.weixin.qq.com,REJECT
 DOMAIN,szltwl.com,REJECT
 DOMAIN,szmpc.cn,REJECT
-DOMAIN,szpcxramtfr.com,REJECT
 DOMAIN,szpl0.com,REJECT
 DOMAIN,szprhglyodqj.com,REJECT
 DOMAIN,szqifu.com,REJECT
@@ -37282,6 +37302,7 @@ DOMAIN,tatagou.com.cn,REJECT
 DOMAIN,tatahn.com,REJECT
 DOMAIN,tatdunsit.com,REJECT
 DOMAIN,tathitch.net,REJECT
+DOMAIN,tatjhh.cn,REJECT
 DOMAIN,tatsumi-sys.jp,REJECT
 DOMAIN,tattle.api.osano.com,REJECT
 DOMAIN,tattomedia.com,REJECT
@@ -37319,7 +37340,6 @@ DOMAIN,tc.hometogo.net,REJECT
 DOMAIN,tc600.com,REJECT
 DOMAIN,tcad.wedolook.com,REJECT
 DOMAIN,tcadops.ca,REJECT
-DOMAIN,tcatkrccxgc.com,REJECT
 DOMAIN,tcbox.baidu.com,REJECT
 DOMAIN,tccbanner.com,REJECT
 DOMAIN,tcetggiry.com,REJECT
@@ -37621,7 +37641,6 @@ DOMAIN,tgadv.it,REJECT
 DOMAIN,tgadvcdn.it,REJECT
 DOMAIN,tgaqxo.com,REJECT
 DOMAIN,tgb.csbew.com,REJECT
-DOMAIN,tgbdjyryn.com,REJECT
 DOMAIN,tgbrfv.cn,REJECT
 DOMAIN,tgdaudience.com,REJECT
 DOMAIN,tget.me,REJECT
@@ -37851,7 +37870,6 @@ DOMAIN,ticrowdingne.club,REJECT
 DOMAIN,tidafors.xyz,REJECT
 DOMAIN,tidaltv.com,REJECT
 DOMAIN,tidningsnatet.se,REJECT
-DOMAIN,tidnqztumpnk.com,REJECT
 DOMAIN,tidyboressire.com,REJECT
 DOMAIN,tidytrail.com,REJECT
 DOMAIN,tieecstasythrong.com,REJECT
@@ -37969,12 +37987,10 @@ DOMAIN,tj.u17t.com,REJECT
 DOMAIN,tj.video.qq.com,REJECT
 DOMAIN,tj.vidown.cn,REJECT
 DOMAIN,tj.youzanyun.com,REJECT
-DOMAIN,tjcorfsynjppv.com,REJECT
 DOMAIN,tjekscores.dk,REJECT
 DOMAIN,tjfot.com,REJECT
 DOMAIN,tjgxzs.com,REJECT
 DOMAIN,tjhhr.com,REJECT
-DOMAIN,tjhkdxzzxyb.com,REJECT
 DOMAIN,tjhuajiantang.com,REJECT
 DOMAIN,tjiaa.com,REJECT
 DOMAIN,tjjs.km.com,REJECT
@@ -38043,9 +38059,7 @@ DOMAIN,tmea116.oss-cn-beijing.aliyuncs.com,REJECT
 DOMAIN,tmfkuesmlpto.com,REJECT
 DOMAIN,tmgr.ccmbg.com,REJECT
 DOMAIN,tmh4pshu0f3n.com,REJECT
-DOMAIN,tmhfbwgpvzcxly.com,REJECT
 DOMAIN,tmjhdyghjm.com,REJECT
-DOMAIN,tmjivakr.com,REJECT
 DOMAIN,tmmjgcp.cn,REJECT
 DOMAIN,tmn-d.openx.net,REJECT
 DOMAIN,tmozs.com,REJECT
@@ -38346,11 +38360,9 @@ DOMAIN,tpdpidgyjhjn.com,REJECT
 DOMAIN,tpe163.com,REJECT
 DOMAIN,tpjsqt.com,REJECT
 DOMAIN,tpjz.tmuurnthtf.xyz,REJECT
-DOMAIN,tpkmwnwbzetzbj.com,REJECT
 DOMAIN,tplpages.com,REJECT
 DOMAIN,tpm.pw,REJECT
 DOMAIN,tpmedia-reactads.com,REJECT
-DOMAIN,tpmrwyhloretut.com,REJECT
 DOMAIN,tpn134.com,REJECT
 DOMAIN,tpnads.com,REJECT
 DOMAIN,tpresearch.club,REJECT
@@ -39229,7 +39241,6 @@ DOMAIN,ts6.net,REJECT
 DOMAIN,ts9.cc,REJECT
 DOMAIN,tsandycateup.com,REJECT
 DOMAIN,tsarismslued.com,REJECT
-DOMAIN,tsastrmq.com,REJECT
 DOMAIN,tscarbornonnae.info,REJECT
 DOMAIN,tscounter.com,REJECT
 DOMAIN,tsensatisee.club,REJECT
@@ -39473,7 +39484,6 @@ DOMAIN,txwfpcfdgepzmp.com,REJECT
 DOMAIN,txwha3vuso66.com,REJECT
 DOMAIN,txzs168.net,REJECT
 DOMAIN,tyaqy.m.cn.miaozhen.com,REJECT
-DOMAIN,tybwfgqq.com,REJECT
 DOMAIN,tydd.hunterwish.cn,REJECT
 DOMAIN,tyh.taobao.com,REJECT
 DOMAIN,tymsyx.com,REJECT
@@ -39627,7 +39637,6 @@ DOMAIN,udarem.com,REJECT
 DOMAIN,udash.umengcloud.com,REJECT
 DOMAIN,udata.mixmarket.biz,REJECT
 DOMAIN,udbvcevablxpk.com,REJECT
-DOMAIN,udbyv8918.com,REJECT
 DOMAIN,uditorycrumbosta.info,REJECT
 DOMAIN,udkcrj.com,REJECT
 DOMAIN,udm.scorecardresearch.com,REJECT
@@ -39672,7 +39681,6 @@ DOMAIN,ufvzwshjkhocjn.com,REJECT
 DOMAIN,ufwpwt.com,REJECT
 DOMAIN,ufz.doesxyz.com,REJECT
 DOMAIN,ug.snssdk.com,REJECT
-DOMAIN,ugahbedypf.com,REJECT
 DOMAIN,ugc.moji001.com,REJECT
 DOMAIN,ugcbrainient-a.akamaihd.net,REJECT
 DOMAIN,ugdtimg.com,REJECT
@@ -39693,7 +39701,6 @@ DOMAIN,uhbixtfhwdtmd.com,REJECT
 DOMAIN,uhdokoq5ocmk.com,REJECT
 DOMAIN,uhedsplo.com,REJECT
 DOMAIN,uhfdsplo.com,REJECT
-DOMAIN,uhijmv.cn,REJECT
 DOMAIN,uhodsplo.com,REJECT
 DOMAIN,uhpdsplo.com,REJECT
 DOMAIN,uhsmmaq4l2n5.com,REJECT
@@ -39721,7 +39728,6 @@ DOMAIN,uistspregna.club,REJECT
 DOMAIN,uitabletublis.info,REJECT
 DOMAIN,uitopadxdo.com,REJECT
 DOMAIN,uiwaqbvvhz.com,REJECT
-DOMAIN,uixvbjknkqxfvj.com,REJECT
 DOMAIN,uj0g7.com,REJECT
 DOMAIN,ujccccb.com,REJECT
 DOMAIN,ujdngv.xbiquge6.com,REJECT
@@ -39730,8 +39736,6 @@ DOMAIN,ujuclxjkb.com,REJECT
 DOMAIN,ujuqvalvvvof.com,REJECT
 DOMAIN,ukbanners.com,REJECT
 DOMAIN,ukcomparends.pro,REJECT
-DOMAIN,ukeiae.com,REJECT
-DOMAIN,uklvebsp.com,REJECT
 DOMAIN,ukoffzeh.com,REJECT
 DOMAIN,ukrbanner.net,REJECT
 DOMAIN,ukwoxufaepbhn.com,REJECT
@@ -39999,7 +40003,6 @@ DOMAIN,upptux.cn,REJECT
 DOMAIN,upravel.com,REJECT
 DOMAIN,uprimp.com,REJECT
 DOMAIN,uprivaladserver.net,REJECT
-DOMAIN,uprlyxksgcffgn.com,REJECT
 DOMAIN,upsaibou.net,REJECT
 DOMAIN,upscore.com,REJECT
 DOMAIN,upscoxjog.com,REJECT
@@ -40054,7 +40057,6 @@ DOMAIN,urimteku.com,REJECT
 DOMAIN,urineyieldedwasted.com,REJECT
 DOMAIN,uriqirelle.xyz,REJECT
 DOMAIN,uriren.pw,REJECT
-DOMAIN,urkmuzzygjp.com,REJECT
 DOMAIN,url.222bz.com,REJECT
 DOMAIN,url.3400.org,REJECT
 DOMAIN,url.ms,REJECT
@@ -40260,7 +40262,6 @@ DOMAIN,uxowypikexhz.com,REJECT
 DOMAIN,uxrjdh.com,REJECT
 DOMAIN,uxusheppared.club,REJECT
 DOMAIN,uxzcwowjd.com,REJECT
-DOMAIN,uydeapvmmlvdp.com,REJECT
 DOMAIN,uyhlpmehm.com,REJECT
 DOMAIN,uymjbn.com,REJECT
 DOMAIN,uymjshdxxneu.com,REJECT
@@ -40275,13 +40276,11 @@ DOMAIN,uzk4umokyri3.com,REJECT
 DOMAIN,uzmanreklam.com,REJECT
 DOMAIN,uzmdfi.com,REJECT
 DOMAIN,uznbehyrn.com,REJECT
-DOMAIN,uznwafjxmm.com,REJECT
 DOMAIN,uzozagug.xyz,REJECT
 DOMAIN,uzpmrbek.com,REJECT
 DOMAIN,uzrating.com,REJECT
 DOMAIN,uzsqhuevese.com,REJECT
 DOMAIN,uzttnr.com,REJECT
-DOMAIN,uzxbwsnhjlt.com,REJECT
 DOMAIN,uzyid.cn,REJECT
 DOMAIN,v-collector.dp.aws.charter.com,REJECT
 DOMAIN,v-links.net,REJECT
@@ -40406,7 +40405,6 @@ DOMAIN,v3g4s.com,REJECT
 DOMAIN,v3qdrfxuyzwb.com,REJECT
 DOMAIN,v3rjvtt.com,REJECT
 DOMAIN,v4.cnzz.com,REJECT
-DOMAIN,v44i.cn,REJECT
 DOMAIN,v5.cnzz.com,REJECT
 DOMAIN,v5.juzi.cn,REJECT
 DOMAIN,v5ad.com,REJECT
@@ -40425,7 +40423,6 @@ DOMAIN,va-endpoint.com,REJECT
 DOMAIN,va.gxpan.cn,REJECT
 DOMAIN,va.videojj.com,REJECT
 DOMAIN,vacaneedasap.com,REJECT
-DOMAIN,vacshqmpvkbzjh.com,REJECT
 DOMAIN,vacwrite.com,REJECT
 DOMAIN,vadideo.com,REJECT
 DOMAIN,vadioc.cn,REJECT
@@ -40584,7 +40581,6 @@ DOMAIN,ventite.com,REJECT
 DOMAIN,ventivmedia.com,REJECT
 DOMAIN,venturead.com,REJECT
 DOMAIN,venusgloria.com,REJECT
-DOMAIN,veodxsimctsgs.com,REJECT
 DOMAIN,veoujrnenng.com,REJECT
 DOMAIN,veoxa.com,REJECT
 DOMAIN,vepxl1.net,REJECT
@@ -40632,7 +40628,6 @@ DOMAIN,vfgta.com,REJECT
 DOMAIN,vfhkljw5f6ss.com,REJECT
 DOMAIN,vfl81ea28aztw7y3.pro,REJECT
 DOMAIN,vfo.voyage-prive.co.uk,REJECT
-DOMAIN,vfousvlr.com,REJECT
 DOMAIN,vftbnl.com,REJECT
 DOMAIN,vfunls.com,REJECT
 DOMAIN,vfxkeagns.com,REJECT
@@ -40847,7 +40842,6 @@ DOMAIN,viperotika.net,REJECT
 DOMAIN,vipicmou.net,REJECT
 DOMAIN,viplinck.com,REJECT
 DOMAIN,viptizer.com,REJECT
-DOMAIN,viptv91.cn,REJECT
 DOMAIN,vipwm.cc,REJECT
 DOMAIN,vipwx.zhong-zhu.com,REJECT
 DOMAIN,viqiyi.admaster.com.cn,REJECT
@@ -40958,7 +40952,6 @@ DOMAIN,vkkpv.com,REJECT
 DOMAIN,vklike.com,REJECT
 DOMAIN,vknrfwwxhxaxupqp.pro,REJECT
 DOMAIN,vkuay.com,REJECT
-DOMAIN,vkudpjuvg.com,REJECT
 DOMAIN,vlbtjqngtvuqo.com,REJECT
 DOMAIN,vletv.admaster.com.cn,REJECT
 DOMAIN,vlexokrako.com,REJECT
@@ -41143,7 +41136,6 @@ DOMAIN,vt863.cn,REJECT
 DOMAIN,vtf2f.banque-casino.fr,REJECT
 DOMAIN,vtgcvsmzxiyoz.com,REJECT
 DOMAIN,vth05dse.com,REJECT
-DOMAIN,vthhmbfo.com,REJECT
 DOMAIN,vtizr.com,REJECT
 DOMAIN,vtochku.net,REJECT
 DOMAIN,vtqifk86868.cn,REJECT
@@ -41176,13 +41168,11 @@ DOMAIN,vv.ricardo.ch,REJECT
 DOMAIN,vv.tmska.com,REJECT
 DOMAIN,vv1.pyhfxdm.cn,REJECT
 DOMAIN,vv84.bj.bcebos.com,REJECT
-DOMAIN,vvaqdyzdovonc.com,REJECT
 DOMAIN,vvczvfrbtwrvs.com,REJECT
 DOMAIN,vvlian.com,REJECT
 DOMAIN,vvlog.moviebox.baofeng.com,REJECT
 DOMAIN,vvmblock.ru,REJECT
 DOMAIN,vvpcdke43x.com,REJECT
-DOMAIN,vvshsrdlf.com,REJECT
 DOMAIN,vvtysgrbmx.com,REJECT
 DOMAIN,vvv.lunqudai.com,REJECT
 DOMAIN,vvv.qqdashabi.top,REJECT
@@ -41197,9 +41187,7 @@ DOMAIN,vwhi.gou.sogou.com,REJECT
 DOMAIN,vwinnow.com,REJECT
 DOMAIN,vwkhdi.cn,REJECT
 DOMAIN,vws.vidcoin.com,REJECT
-DOMAIN,vwvvaeor.com,REJECT
 DOMAIN,vxdrqtghmztm.com,REJECT
-DOMAIN,vxnejgcewmbuk.com,REJECT
 DOMAIN,vxrpmslex.com,REJECT
 DOMAIN,vxsnk.com,REJECT
 DOMAIN,vy4e3jw46l.com,REJECT
@@ -41287,7 +41275,6 @@ DOMAIN,wads.ozap.com,REJECT
 DOMAIN,wads.plurielles.fr,REJECT
 DOMAIN,wadsotch.com,REJECT
 DOMAIN,wadstabgum.cam,REJECT
-DOMAIN,wafmedia3.com,REJECT
 DOMAIN,wafmedia6.com,REJECT
 DOMAIN,waframedia16.com,REJECT
 DOMAIN,waframedia20.com,REJECT
@@ -41343,7 +41330,6 @@ DOMAIN,wangqipu.com,REJECT
 DOMAIN,wangzhan5.com,REJECT
 DOMAIN,wanhieire.com,REJECT
 DOMAIN,wanpaig.4567.org,REJECT
-DOMAIN,wanrenshe.com,REJECT
 DOMAIN,wantaiss.com,REJECT
 DOMAIN,wantatop.com,REJECT
 DOMAIN,wantcannabis.ca,REJECT
@@ -41478,7 +41464,6 @@ DOMAIN,wcmcs.net,REJECT
 DOMAIN,wcnmd.top,REJECT
 DOMAIN,wct.click,REJECT
 DOMAIN,wcwcypfnvih.com,REJECT
-DOMAIN,wcwdjojsxbbl.com,REJECT
 DOMAIN,wcyrjlszoo.com,REJECT
 DOMAIN,wd-edge.sharethis.com,REJECT
 DOMAIN,wd.adcolony.com,REJECT
@@ -41508,6 +41493,7 @@ DOMAIN,web-boosting.net,REJECT
 DOMAIN,web-can-1.inf.nimiq.network,REJECT
 DOMAIN,web-counter.net,REJECT
 DOMAIN,web-deu-1.inf.nimiq.network,REJECT
+DOMAIN,web-jp.ad-v.jp,REJECT
 DOMAIN,web-pol-1.inf.nimiq.network,REJECT
 DOMAIN,web-stat.com,REJECT
 DOMAIN,web-stat.net,REJECT
@@ -41617,7 +41603,6 @@ DOMAIN,webmining.co,REJECT
 DOMAIN,webmobile.ws,REJECT
 DOMAIN,webodu.com,REJECT
 DOMAIN,webofxm.cn,REJECT
-DOMAIN,weboohost.com,REJECT
 DOMAIN,weborama.fr,REJECT
 DOMAIN,weborama.io,REJECT
 DOMAIN,weboser.com,REJECT
@@ -41786,11 +41771,10 @@ DOMAIN,weworkremotely.com,REJECT
 DOMAIN,wexevoom.net,REJECT
 DOMAIN,wf.taboola.com,REJECT
 DOMAIN,wfcvhhmumb.com,REJECT
-DOMAIN,wfcxcblmy.com,REJECT
 DOMAIN,wffengtai.com.cn,REJECT
+DOMAIN,wfhaabydba.com,REJECT
 DOMAIN,wfhxssg.com,REJECT
 DOMAIN,wfordsgoo.club,REJECT
-DOMAIN,wfwualyxdb.com,REJECT
 DOMAIN,wfxoi.xyz,REJECT
 DOMAIN,wfyqc.com,REJECT
 DOMAIN,wg-aff.com,REJECT
@@ -42262,7 +42246,6 @@ DOMAIN,wph2.destinia.us,REJECT
 DOMAIN,wpnjrm.com,REJECT
 DOMAIN,wpqvggsnc.com,REJECT
 DOMAIN,wpush.biz,REJECT
-DOMAIN,wq19w.cn,REJECT
 DOMAIN,wqepoqpwo.bid,REJECT
 DOMAIN,wqgdajjozr.com,REJECT
 DOMAIN,wqgkainysj.ru,REJECT
@@ -42292,7 +42275,6 @@ DOMAIN,writewealth.com,REJECT
 DOMAIN,wrkdih.com,REJECT
 DOMAIN,wrkl.xyz,REJECT
 DOMAIN,wrmcfyzl.com,REJECT
-DOMAIN,wrnrxzstxtjsn.com,REJECT
 DOMAIN,wrongerababan.info,REJECT
 DOMAIN,wrongpotato.com,REJECT
 DOMAIN,wronpeci.com,REJECT
@@ -42312,6 +42294,7 @@ DOMAIN,ws-gateway.com,REJECT
 DOMAIN,ws-goguardian.pusher.com,REJECT
 DOMAIN,ws.audioeye.com,REJECT
 DOMAIN,ws.browsermine.com,REJECT
+DOMAIN,ws.etuch.cn,REJECT
 DOMAIN,ws.ksmobile.net,REJECT
 DOMAIN,ws.progrss.yahoo.com,REJECT
 DOMAIN,ws.sharethis.com,REJECT
@@ -42601,7 +42584,6 @@ DOMAIN,wtbevents.pricespider.com,REJECT
 DOMAIN,wtcpm.com,REJECT
 DOMAIN,wtdome.com,REJECT
 DOMAIN,wtgkustlgat.com,REJECT
-DOMAIN,wthormvztq.com,REJECT
 DOMAIN,wtk.db.com,REJECT
 DOMAIN,wtm.monitoringservice.co,REJECT
 DOMAIN,wtmtrack.com,REJECT
@@ -42641,11 +42623,8 @@ DOMAIN,wvahelphpfnhyx.com,REJECT
 DOMAIN,wvcdn.cn,REJECT
 DOMAIN,wvghl.com,REJECT
 DOMAIN,wvhba6470p.com,REJECT
-DOMAIN,wvlveodsvygn.com,REJECT
-DOMAIN,wvoahyehtvj.com,REJECT
 DOMAIN,wvrney.com,REJECT
 DOMAIN,wvs3bmct6mkz.com,REJECT
-DOMAIN,wvstatic.cn,REJECT
 DOMAIN,wvver.com,REJECT
 DOMAIN,wvvw.harahero.top,REJECT
 DOMAIN,wvzhj.com,REJECT
@@ -43981,7 +43960,6 @@ DOMAIN,wxsnsdy.video.qq.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
 DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
 DOMAIN,wxsohu.com,REJECT
-DOMAIN,wxstatic.cn,REJECT
 DOMAIN,wxtg.wasu.com,REJECT
 DOMAIN,wxtz.houmags.com,REJECT
 DOMAIN,wxupwyabry.com,REJECT
@@ -43990,7 +43968,6 @@ DOMAIN,wxwm1.ikuailian.com,REJECT
 DOMAIN,wxwm2.ikuailian.com,REJECT
 DOMAIN,wxxfqc.com,REJECT
 DOMAIN,wxyn0o3xmora.com,REJECT
-DOMAIN,wy.ce22d.cn,REJECT
 DOMAIN,wy213.com,REJECT
 DOMAIN,wybutary.xyz,REJECT
 DOMAIN,wycji.top,REJECT
@@ -44018,7 +43995,6 @@ DOMAIN,wz5y80ab60p5.com,REJECT
 DOMAIN,wz7a23kicq.online,REJECT
 DOMAIN,wzaigo.com,REJECT
 DOMAIN,wzdzht7am5.com,REJECT
-DOMAIN,wzhdjexsw.com,REJECT
 DOMAIN,wzhuze.com,REJECT
 DOMAIN,wzjijia.com,REJECT
 DOMAIN,wzk5ndpc3x05.com,REJECT
@@ -44137,7 +44113,6 @@ DOMAIN,xdev.info,REJECT
 DOMAIN,xdgeph.ru,REJECT
 DOMAIN,xdh0808.com,REJECT
 DOMAIN,xdisctracking.pw,REJECT
-DOMAIN,xdltrwavzxn.com,REJECT
 DOMAIN,xdm.ahqlx.top,REJECT
 DOMAIN,xdm.bozhixiang.top,REJECT
 DOMAIN,xdrig.com,REJECT
@@ -44148,7 +44123,6 @@ DOMAIN,xdyjt.com,REJECT
 DOMAIN,xdyszx.com,REJECT
 DOMAIN,xdywlw.cn,REJECT
 DOMAIN,xe2c.com,REJECT
-DOMAIN,xeafosrhjk.com,REJECT
 DOMAIN,xebadu.com,REJECT
 DOMAIN,xel-xel-fie.com,REJECT
 DOMAIN,xelllwrite.com,REJECT
@@ -44158,7 +44132,6 @@ DOMAIN,xeontopa.com,REJECT
 DOMAIN,xev2o.com,REJECT
 DOMAIN,xeverirpunyv.com,REJECT
 DOMAIN,xf.yellowto.com,REJECT
-DOMAIN,xfasadle.com,REJECT
 DOMAIN,xfast.host,REJECT
 DOMAIN,xfileload.com,REJECT
 DOMAIN,xfn6.monaco.edu,REJECT
@@ -44516,7 +44489,6 @@ DOMAIN,xx.sctnkw.cn,REJECT
 DOMAIN,xxbj.sctnkw.cn,REJECT
 DOMAIN,xxccdshj.com,REJECT
 DOMAIN,xxeden.com,REJECT
-DOMAIN,xxggvfkuawkri.com,REJECT
 DOMAIN,xxkhh.com,REJECT
 DOMAIN,xxkio.com,REJECT
 DOMAIN,xxladu.com,REJECT
@@ -44914,7 +44886,6 @@ DOMAIN,ymonetize.com,REJECT
 DOMAIN,ymprove.web.de,REJECT
 DOMAIN,ymrzr.com,REJECT
 DOMAIN,ymtracking.com,REJECT
-DOMAIN,ymwcfopsie.com,REJECT
 DOMAIN,ymzrrizntbhde.com,REJECT
 DOMAIN,ynbojie.com,REJECT
 DOMAIN,ynbzxh.com,REJECT
@@ -44924,7 +44895,6 @@ DOMAIN,ynfzxh.com,REJECT
 DOMAIN,ynjyhm.com,REJECT
 DOMAIN,ynopkisq.com,REJECT
 DOMAIN,ynp0h.cn,REJECT
-DOMAIN,ynqmordtj.com,REJECT
 DOMAIN,ynuf.alibaba.com,REJECT
 DOMAIN,ynwia.com,REJECT
 DOMAIN,ynwqls.com,REJECT
@@ -45019,7 +44989,6 @@ DOMAIN,youtube.112.2o7.net,REJECT
 DOMAIN,youtube.2cnt.net,REJECT
 DOMAIN,youtube2top.com,REJECT
 DOMAIN,youtui.net,REJECT
-DOMAIN,youtui456.com,REJECT
 DOMAIN,youvisit.com,REJECT
 DOMAIN,youweiprint.com,REJECT
 DOMAIN,youwugong.jobui.com,REJECT
@@ -45155,7 +45124,6 @@ DOMAIN,yx-ads6.com,REJECT
 DOMAIN,yx.lenovomm.com,REJECT
 DOMAIN,yx1.managershare.com,REJECT
 DOMAIN,yxhxs.com,REJECT
-DOMAIN,yximgdpivguxke.com,REJECT
 DOMAIN,yxjad.com,REJECT
 DOMAIN,yxkhpk.com,REJECT
 DOMAIN,yxkobelxlljv.com,REJECT
@@ -45615,7 +45583,6 @@ DOMAIN,zs6.cnzz.com,REJECT
 DOMAIN,zs7.cnzz.com,REJECT
 DOMAIN,zs8.cnzz.com,REJECT
 DOMAIN,zs9.cnzz.com,REJECT
-DOMAIN,zsdexun.com.cn,REJECT
 DOMAIN,zsedu99.cn,REJECT
 DOMAIN,zshacker.com,REJECT
 DOMAIN,zsi7.destinia.do,REJECT
