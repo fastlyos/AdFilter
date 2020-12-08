@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM4NjE0OQo=
+# Checksum: MTYwNzM5NjY3MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-0
-# TimeUpdated: 2020-12-08T00:09:09+00:00
+# Version: 1.6.8-20201208-1
+# TimeUpdated: 2020-12-08T03:04:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45713
+# Total: 45717
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5854,8 +5854,6 @@ ff02::3 ip6-allhosts
 :: adconscious.com
 0.0.0.0 adcontent.saymedia.com
 :: adcontent.saymedia.com
-0.0.0.0 adcool.yibige.com
-:: adcool.yibige.com
 0.0.0.0 adcore.lenovomm.com
 :: adcore.lenovomm.com
 0.0.0.0 adcount.yoka.com
@@ -6540,6 +6538,8 @@ ff02::3 ip6-allhosts
 :: admarvel.s3.amazonaws.com
 0.0.0.0 admarvel.top
 :: admarvel.top
+0.0.0.0 admaster.com
+:: admaster.com
 0.0.0.0 admaster.com.cn
 :: admaster.com.cn
 0.0.0.0 admaster.net
@@ -22894,6 +22894,8 @@ ff02::3 ip6-allhosts
 :: czxiangyue.com
 0.0.0.0 czxjx.cn
 :: czxjx.cn
+0.0.0.0 czywssj.com
+:: czywssj.com
 0.0.0.0 d-1.co
 :: d-1.co
 0.0.0.0 d-agency.net
@@ -42944,6 +42946,8 @@ ff02::3 ip6-allhosts
 :: jyhfuqoh.info
 0.0.0.0 jyjhkz.com
 :: jyjhkz.com
+0.0.0.0 jykqpeumdrjopy.com
+:: jykqpeumdrjopy.com
 0.0.0.0 jynp9m209p.com
 :: jynp9m209p.com
 0.0.0.0 jystea.com
@@ -60922,6 +60926,8 @@ ff02::3 ip6-allhosts
 :: puffnetwork.com
 0.0.0.0 puffyloss.com
 :: puffyloss.com
+0.0.0.0 puffypaste.com
+:: puffypaste.com
 0.0.0.0 puffypull.com
 :: puffypull.com
 0.0.0.0 puffypurpose.com
@@ -77758,6 +77764,8 @@ ff02::3 ip6-allhosts
 :: tradblock.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradeadexchange.com
 :: tradeadexchange.com
 0.0.0.0 tradecraft.s.llnwi.net

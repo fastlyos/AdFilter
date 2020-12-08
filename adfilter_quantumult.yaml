@@ -1,11 +1,11 @@
-# Checksum: MTYwNzM4NjE0OQo=
+# Checksum: MTYwNzM5NjY3MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-0
-# TimeUpdated: 2020-12-08T00:09:09+00:00
+# Version: 1.6.8-20201208-1
+# TimeUpdated: 2020-12-08T03:04:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45713
+# Total: 45717
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -2925,7 +2925,6 @@ DOMAIN,adcome.cn,REJECT
 DOMAIN,adconity.com,REJECT
 DOMAIN,adconscious.com,REJECT
 DOMAIN,adcontent.saymedia.com,REJECT
-DOMAIN,adcool.yibige.com,REJECT
 DOMAIN,adcore.lenovomm.com,REJECT
 DOMAIN,adcount.yoka.com,REJECT
 DOMAIN,adcrax.com,REJECT
@@ -3268,6 +3267,7 @@ DOMAIN,admartzone.com,REJECT
 DOMAIN,admarvel.com,REJECT
 DOMAIN,admarvel.s3.amazonaws.com,REJECT
 DOMAIN,admarvel.top,REJECT
+DOMAIN,admaster.com,REJECT
 DOMAIN,admaster.com.cn,REJECT
 DOMAIN,admaster.net,REJECT
 DOMAIN,admatic.com.tr,REJECT
@@ -11445,6 +11445,7 @@ DOMAIN,cztanchao.com,REJECT
 DOMAIN,czx5eyk0exbhwp43ya.biz,REJECT
 DOMAIN,czxiangyue.com,REJECT
 DOMAIN,czxjx.cn,REJECT
+DOMAIN,czywssj.com,REJECT
 DOMAIN,d-1.co,REJECT
 DOMAIN,d-agency.net,REJECT
 DOMAIN,d-bi.fr,REJECT
@@ -21470,6 +21471,7 @@ DOMAIN,jyebqhel.com,REJECT
 DOMAIN,jyfthtacsxkbp.com,REJECT
 DOMAIN,jyhfuqoh.info,REJECT
 DOMAIN,jyjhkz.com,REJECT
+DOMAIN,jykqpeumdrjopy.com,REJECT
 DOMAIN,jynp9m209p.com,REJECT
 DOMAIN,jystea.com,REJECT
 DOMAIN,jytjw.com,REJECT
@@ -30459,6 +30461,7 @@ DOMAIN,puds.ucweb.com,REJECT
 DOMAIN,puffdifferent.com,REJECT
 DOMAIN,puffnetwork.com,REJECT
 DOMAIN,puffyloss.com,REJECT
+DOMAIN,puffypaste.com,REJECT
 DOMAIN,puffypull.com,REJECT
 DOMAIN,puffypurpose.com,REJECT
 DOMAIN,puhtml.com,REJECT
@@ -38877,6 +38880,7 @@ DOMAIN,trackyourstats.com,REJECT
 DOMAIN,tracy.sadv.dadapro.com,REJECT
 DOMAIN,tradblock.com,REJECT
 DOMAIN,trade.koudaitong.com,REJECT
+DOMAIN,trade.mtime.com,REJECT
 DOMAIN,tradeadexchange.com,REJECT
 DOMAIN,tradecraft.s.llnwi.net,REJECT
 DOMAIN,tradeexpert.net,REJECT
