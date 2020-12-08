@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ1MDY2Ngo=
+# Checksum: MTYwNzQ2MTQzOQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-6
-# TimeUpdated: 2020-12-08T18:04:26+00:00
+# Version: 1.6.8-20201208-7
+# TimeUpdated: 2020-12-08T21:03:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45684
+# Total: 45686
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -999,6 +999,7 @@ DOMAIN,51dengshan.cn,REJECT
 DOMAIN,51dmn.top,REJECT
 DOMAIN,51foodsafe.cn,REJECT
 DOMAIN,51fuliwang.cn,REJECT
+DOMAIN,51gpt.com,REJECT
 DOMAIN,51gugu.com,REJECT
 DOMAIN,51gxqm.com,REJECT
 DOMAIN,51jqq.top,REJECT
@@ -1401,6 +1402,7 @@ DOMAIN,7insight.com,REJECT
 DOMAIN,7ix.ru,REJECT
 DOMAIN,7j7jv5.cn,REJECT
 DOMAIN,7jzic2hylf.ru,REJECT
+DOMAIN,7kjfbgkjbfgb.club,REJECT
 DOMAIN,7kjiiu.cn,REJECT
 DOMAIN,7kkqq.com,REJECT
 DOMAIN,7lbd4.armandthiery.fr,REJECT
@@ -7871,7 +7873,6 @@ DOMAIN,bnetds.cn,REJECT
 DOMAIN,bngpst.com,REJECT
 DOMAIN,bnhtml.com,REJECT
 DOMAIN,bnlif.com,REJECT
-DOMAIN,bnlqhnqnqveo.com,REJECT
 DOMAIN,bnmla.com,REJECT
 DOMAIN,bnnr.pornpics.com,REJECT
 DOMAIN,bnr.agf.nl,REJECT
@@ -27669,6 +27670,7 @@ DOMAIN,oldnayfey.com,REJECT
 DOMAIN,oldrrb.bid,REJECT
 DOMAIN,oldrummarim.club,REJECT
 DOMAIN,oldtips.beeppool.org,REJECT
+DOMAIN,olecintri.com,REJECT
 DOMAIN,olenation.org,REJECT
 DOMAIN,olfkptkfop.com,REJECT
 DOMAIN,olgtex.com,REJECT
@@ -29111,7 +29113,6 @@ DOMAIN,pic.zxwhys.cn,REJECT
 DOMAIN,pic1.59wd.com,REJECT
 DOMAIN,pic1.97jut.com,REJECT
 DOMAIN,pic1.onetad.com,REJECT
-DOMAIN,pic12x20.com,REJECT
 DOMAIN,pic183025.images9999.com,REJECT
 DOMAIN,pic2.97jut.com,REJECT
 DOMAIN,pic2.bloggerads.net,REJECT
@@ -30946,6 +30947,7 @@ DOMAIN,qhm2.cnzz.com,REJECT
 DOMAIN,qhnwj.com,REJECT
 DOMAIN,qhoosovyj.com,REJECT
 DOMAIN,qhqofqeivtno.com,REJECT
+DOMAIN,qhxcdmfj.cn,REJECT
 DOMAIN,qi-shi.top,REJECT
 DOMAIN,qi.wndlkj.com,REJECT
 DOMAIN,qianclick.baidu.com,REJECT

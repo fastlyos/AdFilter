@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ1MDY2Ngo=
+# Checksum: MTYwNzQ2MTQzOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-6
-# TimeUpdated: 2020-12-08T18:04:26+00:00
+# Version: 1.6.8-20201208-7
+# TimeUpdated: 2020-12-08T21:03:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45684
+# Total: 45686
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2002,6 +2002,8 @@ ff02::3 ip6-allhosts
 :: 51foodsafe.cn
 0.0.0.0 51fuliwang.cn
 :: 51fuliwang.cn
+0.0.0.0 51gpt.com
+:: 51gpt.com
 0.0.0.0 51gugu.com
 :: 51gugu.com
 0.0.0.0 51gxqm.com
@@ -2806,6 +2808,8 @@ ff02::3 ip6-allhosts
 :: 7j7jv5.cn
 0.0.0.0 7jzic2hylf.ru
 :: 7jzic2hylf.ru
+0.0.0.0 7kjfbgkjbfgb.club
+:: 7kjfbgkjbfgb.club
 0.0.0.0 7kjiiu.cn
 :: 7kjiiu.cn
 0.0.0.0 7kkqq.com
@@ -15746,8 +15750,6 @@ ff02::3 ip6-allhosts
 :: bnhtml.com
 0.0.0.0 bnlif.com
 :: bnlif.com
-0.0.0.0 bnlqhnqnqveo.com
-:: bnlqhnqnqveo.com
 0.0.0.0 bnmla.com
 :: bnmla.com
 0.0.0.0 bnnr.pornpics.com
@@ -55342,6 +55344,8 @@ ff02::3 ip6-allhosts
 :: oldrummarim.club
 0.0.0.0 oldtips.beeppool.org
 :: oldtips.beeppool.org
+0.0.0.0 olecintri.com
+:: olecintri.com
 0.0.0.0 olenation.org
 :: olenation.org
 0.0.0.0 olfkptkfop.com
@@ -58226,8 +58230,6 @@ ff02::3 ip6-allhosts
 :: pic1.97jut.com
 0.0.0.0 pic1.onetad.com
 :: pic1.onetad.com
-0.0.0.0 pic12x20.com
-:: pic12x20.com
 0.0.0.0 pic183025.images9999.com
 :: pic183025.images9999.com
 0.0.0.0 pic2.97jut.com
@@ -61896,6 +61898,8 @@ ff02::3 ip6-allhosts
 :: qhoosovyj.com
 0.0.0.0 qhqofqeivtno.com
 :: qhqofqeivtno.com
+0.0.0.0 qhxcdmfj.cn
+:: qhxcdmfj.cn
 0.0.0.0 qi-shi.top
 :: qi-shi.top
 0.0.0.0 qi.wndlkj.com

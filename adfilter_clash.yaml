@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzQ1MDY2Ngo=
+# Checksum: MTYwNzQ2MTQzOQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-6
-# TimeUpdated: 2020-12-08T18:04:26+00:00
+# Version: 1.6.8-20201208-7
+# TimeUpdated: 2020-12-08T21:03:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45684
+# Total: 45686
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -1000,6 +1000,7 @@ payload:
   - DOMAIN,51dmn.top
   - DOMAIN,51foodsafe.cn
   - DOMAIN,51fuliwang.cn
+  - DOMAIN,51gpt.com
   - DOMAIN,51gugu.com
   - DOMAIN,51gxqm.com
   - DOMAIN,51jqq.top
@@ -1402,6 +1403,7 @@ payload:
   - DOMAIN,7ix.ru
   - DOMAIN,7j7jv5.cn
   - DOMAIN,7jzic2hylf.ru
+  - DOMAIN,7kjfbgkjbfgb.club
   - DOMAIN,7kjiiu.cn
   - DOMAIN,7kkqq.com
   - DOMAIN,7lbd4.armandthiery.fr
@@ -7872,7 +7874,6 @@ payload:
   - DOMAIN,bngpst.com
   - DOMAIN,bnhtml.com
   - DOMAIN,bnlif.com
-  - DOMAIN,bnlqhnqnqveo.com
   - DOMAIN,bnmla.com
   - DOMAIN,bnnr.pornpics.com
   - DOMAIN,bnr.agf.nl
@@ -27670,6 +27671,7 @@ payload:
   - DOMAIN,oldrrb.bid
   - DOMAIN,oldrummarim.club
   - DOMAIN,oldtips.beeppool.org
+  - DOMAIN,olecintri.com
   - DOMAIN,olenation.org
   - DOMAIN,olfkptkfop.com
   - DOMAIN,olgtex.com
@@ -29112,7 +29114,6 @@ payload:
   - DOMAIN,pic1.59wd.com
   - DOMAIN,pic1.97jut.com
   - DOMAIN,pic1.onetad.com
-  - DOMAIN,pic12x20.com
   - DOMAIN,pic183025.images9999.com
   - DOMAIN,pic2.97jut.com
   - DOMAIN,pic2.bloggerads.net
@@ -30947,6 +30948,7 @@ payload:
   - DOMAIN,qhnwj.com
   - DOMAIN,qhoosovyj.com
   - DOMAIN,qhqofqeivtno.com
+  - DOMAIN,qhxcdmfj.cn
   - DOMAIN,qi-shi.top
   - DOMAIN,qi.wndlkj.com
   - DOMAIN,qianclick.baidu.com
