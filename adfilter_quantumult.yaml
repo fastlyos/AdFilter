@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQzOTg0OQo=
+# Checksum: MTYwNzQ1MDY2Ngo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-5
-# TimeUpdated: 2020-12-08T15:04:09+00:00
+# Version: 1.6.8-20201208-6
+# TimeUpdated: 2020-12-08T18:04:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45682
+# Total: 45684
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -4940,6 +4940,7 @@ DOMAIN,alitui.weibo.com,REJECT
 DOMAIN,alivar.vn,REJECT
 DOMAIN,aliveachiever.com,REJECT
 DOMAIN,alixil.ru,REJECT
+DOMAIN,aliyoo999.com,REJECT
 DOMAIN,aliyun.cdn.chengzilte.top,REJECT
 DOMAIN,aliyunxin.com,REJECT
 DOMAIN,alkemics.com,REJECT
@@ -7618,7 +7619,6 @@ DOMAIN,bingyinq.com,REJECT
 DOMAIN,binlayer.com,REJECT
 DOMAIN,binlayer.de,REJECT
 DOMAIN,bintds.com,REJECT
-DOMAIN,bio-lifehealth.com,REJECT
 DOMAIN,bional-dested.icu,REJECT
 DOMAIN,bionicclick.com,REJECT
 DOMAIN,biosda.com,REJECT
@@ -7689,7 +7689,6 @@ DOMAIN,bizzclick.com,REJECT
 DOMAIN,bj.imp.voiceads.cn,REJECT
 DOMAIN,bj1110.online,REJECT
 DOMAIN,bj14.9669.cn,REJECT
-DOMAIN,bjbrtc.com,REJECT
 DOMAIN,bjcathay.com,REJECT
 DOMAIN,bjdata.ads.oppomobile.com,REJECT
 DOMAIN,bjdianyue.com,REJECT
@@ -9158,7 +9157,6 @@ DOMAIN,cdn.trafficexchangelist.com,REJECT
 DOMAIN,cdn.trafficforce.com,REJECT
 DOMAIN,cdn.tubecorp.com,REJECT
 DOMAIN,cdn.turn.com,REJECT
-DOMAIN,cdn.u9377w.com,REJECT
 DOMAIN,cdn.unityads.unity3d.com,REJECT
 DOMAIN,cdn.vdopia.com,REJECT
 DOMAIN,cdn.viglink.com,REJECT
@@ -24785,6 +24783,7 @@ DOMAIN,medprofile.cn,REJECT
 DOMAIN,medrol.ru,REJECT
 DOMAIN,medrx.telstra.com.au,REJECT
 DOMAIN,medshowtiz.ru,REJECT
+DOMAIN,medtiz.com,REJECT
 DOMAIN,medusasailor.com,REJECT
 DOMAIN,medyagundem.com,REJECT
 DOMAIN,medyanet.net,REJECT
@@ -25046,6 +25045,7 @@ DOMAIN,mhi9da.cn,REJECT
 DOMAIN,mhj765.xyz,REJECT
 DOMAIN,mhjk.1391.com,REJECT
 DOMAIN,mhogb.space,REJECT
+DOMAIN,mhorwseoai.com,REJECT
 DOMAIN,mhub.work,REJECT
 DOMAIN,mhuodong.elong.com,REJECT
 DOMAIN,mhwozc.cn,REJECT
@@ -25132,6 +25132,7 @@ DOMAIN,mimicromax.com,REJECT
 DOMAIN,mimilcnf.pro,REJECT
 DOMAIN,mimosamajor.com,REJECT
 DOMAIN,mimpiphy.net,REJECT
+DOMAIN,mimqvkusf.com,REJECT
 DOMAIN,minaconfli.top,REJECT
 DOMAIN,minanjiaoyu.com,REJECT
 DOMAIN,minardict.pro,REJECT
@@ -29110,6 +29111,7 @@ DOMAIN,pic.zxwhys.cn,REJECT
 DOMAIN,pic1.59wd.com,REJECT
 DOMAIN,pic1.97jut.com,REJECT
 DOMAIN,pic1.onetad.com,REJECT
+DOMAIN,pic12x20.com,REJECT
 DOMAIN,pic183025.images9999.com,REJECT
 DOMAIN,pic2.97jut.com,REJECT
 DOMAIN,pic2.bloggerads.net,REJECT

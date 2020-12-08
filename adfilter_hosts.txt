@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQzOTg0OQo=
+# Checksum: MTYwNzQ1MDY2Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-5
-# TimeUpdated: 2020-12-08T15:04:09+00:00
+# Version: 1.6.8-20201208-6
+# TimeUpdated: 2020-12-08T18:04:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45682
+# Total: 45684
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -9884,6 +9884,8 @@ ff02::3 ip6-allhosts
 :: aliveachiever.com
 0.0.0.0 alixil.ru
 :: alixil.ru
+0.0.0.0 aliyoo999.com
+:: aliyoo999.com
 0.0.0.0 aliyun.cdn.chengzilte.top
 :: aliyun.cdn.chengzilte.top
 0.0.0.0 aliyunxin.com
@@ -15240,8 +15242,6 @@ ff02::3 ip6-allhosts
 :: binlayer.de
 0.0.0.0 bintds.com
 :: bintds.com
-0.0.0.0 bio-lifehealth.com
-:: bio-lifehealth.com
 0.0.0.0 bional-dested.icu
 :: bional-dested.icu
 0.0.0.0 bionicclick.com
@@ -15382,8 +15382,6 @@ ff02::3 ip6-allhosts
 :: bj1110.online
 0.0.0.0 bj14.9669.cn
 :: bj14.9669.cn
-0.0.0.0 bjbrtc.com
-:: bjbrtc.com
 0.0.0.0 bjcathay.com
 :: bjcathay.com
 0.0.0.0 bjdata.ads.oppomobile.com
@@ -18320,8 +18318,6 @@ ff02::3 ip6-allhosts
 :: cdn.tubecorp.com
 0.0.0.0 cdn.turn.com
 :: cdn.turn.com
-0.0.0.0 cdn.u9377w.com
-:: cdn.u9377w.com
 0.0.0.0 cdn.unityads.unity3d.com
 :: cdn.unityads.unity3d.com
 0.0.0.0 cdn.vdopia.com
@@ -49574,6 +49570,8 @@ ff02::3 ip6-allhosts
 :: medrx.telstra.com.au
 0.0.0.0 medshowtiz.ru
 :: medshowtiz.ru
+0.0.0.0 medtiz.com
+:: medtiz.com
 0.0.0.0 medusasailor.com
 :: medusasailor.com
 0.0.0.0 medyagundem.com
@@ -50096,6 +50094,8 @@ ff02::3 ip6-allhosts
 :: mhjk.1391.com
 0.0.0.0 mhogb.space
 :: mhogb.space
+0.0.0.0 mhorwseoai.com
+:: mhorwseoai.com
 0.0.0.0 mhub.work
 :: mhub.work
 0.0.0.0 mhuodong.elong.com
@@ -50268,6 +50268,8 @@ ff02::3 ip6-allhosts
 :: mimosamajor.com
 0.0.0.0 mimpiphy.net
 :: mimpiphy.net
+0.0.0.0 mimqvkusf.com
+:: mimqvkusf.com
 0.0.0.0 minaconfli.top
 :: minaconfli.top
 0.0.0.0 minanjiaoyu.com
@@ -58224,6 +58226,8 @@ ff02::3 ip6-allhosts
 :: pic1.97jut.com
 0.0.0.0 pic1.onetad.com
 :: pic1.onetad.com
+0.0.0.0 pic12x20.com
+:: pic12x20.com
 0.0.0.0 pic183025.images9999.com
 :: pic183025.images9999.com
 0.0.0.0 pic2.97jut.com
