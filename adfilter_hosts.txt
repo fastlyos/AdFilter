@@ -1,11 +1,11 @@
-# Checksum: MTYwNzUwNDY2MAo=
+# Checksum: MTYwNzUxNTUwNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-3
-# TimeUpdated: 2020-12-09T09:04:20+00:00
+# Version: 1.6.8-20201209-4
+# TimeUpdated: 2020-12-09T12:05:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45768
+# Total: 45776
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -498,8 +498,6 @@ ff02::3 ip6-allhosts
 :: 1100i.com
 0.0.0.0 110380d053f716c4.com
 :: 110380d053f716c4.com
-0.0.0.0 1115potmgabfvixqwi.top
-:: 1115potmgabfvixqwi.top
 0.0.0.0 1116.oadz.com
 :: 1116.oadz.com
 0.0.0.0 111cn.net
@@ -1588,6 +1586,8 @@ ff02::3 ip6-allhosts
 :: 39mob.com
 0.0.0.0 3a8c9b0ca405b5.com
 :: 3a8c9b0ca405b5.com
+0.0.0.0 3ab171502b3.com
+:: 3ab171502b3.com
 0.0.0.0 3ac901bf5793b0fccff.com
 :: 3ac901bf5793b0fccff.com
 0.0.0.0 3b26cbed75120f.com
@@ -1994,8 +1994,6 @@ ff02::3 ip6-allhosts
 :: 51chumoping.com
 0.0.0.0 51dengshan.cn
 :: 51dengshan.cn
-0.0.0.0 51dmn.top
-:: 51dmn.top
 0.0.0.0 51foodsafe.cn
 :: 51foodsafe.cn
 0.0.0.0 51fuliwang.cn
@@ -2660,6 +2658,8 @@ ff02::3 ip6-allhosts
 :: 766ba.net
 0.0.0.0 76802.net
 :: 76802.net
+0.0.0.0 76aede7d9af.com
+:: 76aede7d9af.com
 0.0.0.0 76xs.com
 :: 76xs.com
 0.0.0.0 7713gsefc0.com
@@ -5652,8 +5652,6 @@ ff02::3 ip6-allhosts
 :: adblock.sina.cn
 0.0.0.0 adblockanalytics.com
 :: adblockanalytics.com
-0.0.0.0 adblockmetrics.ru
-:: adblockmetrics.ru
 0.0.0.0 adblockotsosal.ru
 :: adblockotsosal.ru
 0.0.0.0 adblockrelief.com
@@ -9510,8 +9508,6 @@ ff02::3 ip6-allhosts
 :: ailezhai.cn
 0.0.0.0 aili.com
 :: aili.com
-0.0.0.0 ailicee.com
-:: ailicee.com
 0.0.0.0 ailingtonwh.club
 :: ailingtonwh.club
 0.0.0.0 ailpielei.com
@@ -14830,8 +14826,6 @@ ff02::3 ip6-allhosts
 :: bestdisplayformats.com
 0.0.0.0 bestdoska.ru
 :: bestdoska.ru
-0.0.0.0 bestevernews.com
-:: bestevernews.com
 0.0.0.0 bestforexplmdb.com
 :: bestforexplmdb.com
 0.0.0.0 bestgameads.com
@@ -17272,8 +17266,6 @@ ff02::3 ip6-allhosts
 :: c545d86c18d22.com
 0.0.0.0 c5b39ff13b3259df.com
 :: c5b39ff13b3259df.com
-0.0.0.0 c5dls1in4l1e.ru
-:: c5dls1in4l1e.ru
 0.0.0.0 c6.friok.com
 :: c6.friok.com
 0.0.0.0 c6.lnymd.com
@@ -18322,6 +18314,8 @@ ff02::3 ip6-allhosts
 :: cdn.tubecorp.com
 0.0.0.0 cdn.turn.com
 :: cdn.turn.com
+0.0.0.0 cdn.u9377w.com
+:: cdn.u9377w.com
 0.0.0.0 cdn.unityads.unity3d.com
 :: cdn.unityads.unity3d.com
 0.0.0.0 cdn.vdopia.com
@@ -19136,6 +19130,8 @@ ff02::3 ip6-allhosts
 :: cinemahd.info
 0.0.0.0 cinsurmours.club
 :: cinsurmours.club
+0.0.0.0 cintent.streanplay.cc
+:: cintent.streanplay.cc
 0.0.0.0 cioqyqlkimuh.com
 :: cioqyqlkimuh.com
 0.0.0.0 circle.am
@@ -22276,6 +22272,8 @@ ff02::3 ip6-allhosts
 :: creoads.com
 0.0.0.0 creofive.com
 :: creofive.com
+0.0.0.0 creofun.com
+:: creofun.com
 0.0.0.0 crepaidrfcs.club
 :: crepaidrfcs.club
 0.0.0.0 crephorure.xyz
@@ -27966,6 +27964,8 @@ ff02::3 ip6-allhosts
 :: e5mbjzv.com
 0.0.0.0 e5yx.com
 :: e5yx.com
+0.0.0.0 e6047cde66.com
+:: e6047cde66.com
 0.0.0.0 e6916adeb7e46a883.com
 :: e6916adeb7e46a883.com
 0.0.0.0 e6cfmdmo81.com
@@ -34838,6 +34838,8 @@ ff02::3 ip6-allhosts
 :: gnativestreesaga.site
 0.0.0.0 gndrglsn.com
 :: gndrglsn.com
+0.0.0.0 gneyjsdv.com
+:: gneyjsdv.com
 0.0.0.0 gnezdo.ru
 :: gnezdo.ru
 0.0.0.0 gnmbd.top
@@ -36182,6 +36184,8 @@ ff02::3 ip6-allhosts
 :: haggilder.com
 0.0.0.0 hagwooerscase.icu
 :: hagwooerscase.icu
+0.0.0.0 hailsserien.top
+:: hailsserien.top
 0.0.0.0 hailstoneclayfairy.com
 :: hailstoneclayfairy.com
 0.0.0.0 hailuoxiang.com
@@ -37440,6 +37444,8 @@ ff02::3 ip6-allhosts
 :: hmmob.com
 0.0.0.0 hmongcash.com
 :: hmongcash.com
+0.0.0.0 hmonstabb.fun
+:: hmonstabb.fun
 0.0.0.0 hmp33.com
 :: hmp33.com
 0.0.0.0 hmpumxcsex.com
@@ -52094,6 +52100,8 @@ ff02::3 ip6-allhosts
 :: muzotur.info
 0.0.0.0 muzsj.com
 :: muzsj.com
+0.0.0.0 muzzlelacking.com
+:: muzzlelacking.com
 0.0.0.0 mv.treehousei.com
 :: mv.treehousei.com
 0.0.0.0 mv3kosrrlxa7.com
@@ -54986,6 +54994,8 @@ ff02::3 ip6-allhosts
 :: ochaugly.net
 0.0.0.0 oclasrv.com
 :: oclasrv.com
+0.0.0.0 ocnvgwuppfstkj.com
+:: ocnvgwuppfstkj.com
 0.0.0.0 oconner.biz
 :: oconner.biz
 0.0.0.0 oconner.link
@@ -60596,6 +60606,8 @@ ff02::3 ip6-allhosts
 :: psedfenedc.fun
 0.0.0.0 pseelrou.net
 :: pseelrou.net
+0.0.0.0 psensuds.net
+:: psensuds.net
 0.0.0.0 pseqcs05.com
 :: pseqcs05.com
 0.0.0.0 psevaulr.net
@@ -76556,6 +76568,8 @@ ff02::3 ip6-allhosts
 :: tonsterandhantan.info
 0.0.0.0 tonstiparro.info
 :: tonstiparro.info
+0.0.0.0 tontent.powv1deo.cc
+:: tontent.powv1deo.cc
 0.0.0.0 tontent.powvideo.net
 :: tontent.powvideo.net
 0.0.0.0 tontwiredat.info
@@ -81072,6 +81086,8 @@ ff02::3 ip6-allhosts
 :: vads.vn
 0.0.0.0 vaebard.com
 :: vaebard.com
+0.0.0.0 vafbmmsda.com
+:: vafbmmsda.com
 0.0.0.0 vaftkcyzqg.com
 :: vaftkcyzqg.com
 0.0.0.0 vagwyn.pw
