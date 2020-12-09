@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ2MTQzOQo=
+# Checksum: MTYwNzQ3MjU2MAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-7
-# TimeUpdated: 2020-12-08T21:03:59+00:00
+# Version: 1.6.8-20201209-0
+# TimeUpdated: 2020-12-09T00:09:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45686
+# Total: 45684
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -374,7 +374,6 @@ DOMAIN,178gg.com,REJECT
 DOMAIN,1797wan.com,REJECT
 DOMAIN,17chezhan.com,REJECT
 DOMAIN,17gouwuba.com,REJECT
-DOMAIN,17leyi.com,REJECT
 DOMAIN,17youzi.com,REJECT
 DOMAIN,17ys.top,REJECT
 DOMAIN,17zheng.cn,REJECT
@@ -1215,7 +1214,6 @@ DOMAIN,66996.top,REJECT
 DOMAIN,66997.top,REJECT
 DOMAIN,66998.top,REJECT
 DOMAIN,66ce98158e4f402.com,REJECT
-DOMAIN,66san.com,REJECT
 DOMAIN,6711.com,REJECT
 DOMAIN,6728812.com,REJECT
 DOMAIN,6788787.com,REJECT
@@ -2104,7 +2102,6 @@ DOMAIN,aax-fe.amazon-adsystem.com,REJECT
 DOMAIN,aax-us-west.amazon-adsystem.com,REJECT
 DOMAIN,aax.amazon-adsystem.com,REJECT
 DOMAIN,aaxdetect.com,REJECT
-DOMAIN,aayeljzpuu.com,REJECT
 DOMAIN,aazcio.cn,REJECT
 DOMAIN,ab.advertiserurl.com,REJECT
 DOMAIN,ab.cnbanbao.com,REJECT
@@ -2290,7 +2287,6 @@ DOMAIN,acint.net,REJECT
 DOMAIN,acjs.aliyun.com,REJECT
 DOMAIN,ackbure.pro,REJECT
 DOMAIN,ackhoo.com,REJECT
-DOMAIN,acknowing.com,REJECT
 DOMAIN,acl.stayfriends.de,REJECT
 DOMAIN,aclickads.com,REJECT
 DOMAIN,acloud.com,REJECT
@@ -5641,7 +5637,6 @@ DOMAIN,api.appsflyer.com,REJECT
 DOMAIN,api.apptentive.com,REJECT
 DOMAIN,api.atdmt.com,REJECT
 DOMAIN,api.bailingjiankang.com,REJECT
-DOMAIN,api.bd-gl.com,REJECT
 DOMAIN,api.bitp.it,REJECT
 DOMAIN,api.bonusberry.ru,REJECT
 DOMAIN,api.browsermine.com,REJECT
@@ -24406,6 +24401,7 @@ DOMAIN,marketingenhanced.com,REJECT
 DOMAIN,marketingsolutions.yahoo.com,REJECT
 DOMAIN,marketizator.com,REJECT
 DOMAIN,marketleverage.com,REJECT
+DOMAIN,marketnetwork.com,REJECT
 DOMAIN,marketnews.pw,REJECT
 DOMAIN,marketo.net,REJECT
 DOMAIN,marketperf.com,REJECT
@@ -26935,6 +26931,7 @@ DOMAIN,niwota.com,REJECT
 DOMAIN,nixiclothing.com,REJECT
 DOMAIN,nization.com,REJECT
 DOMAIN,nj.t.bcsp2p.baidu.com,REJECT
+DOMAIN,nj1r.valorbuff.com,REJECT
 DOMAIN,njcn888.com,REJECT
 DOMAIN,njcyfpv.cn,REJECT
 DOMAIN,njd.tzxianghao.cn,REJECT
@@ -27329,6 +27326,7 @@ DOMAIN,nuttyorganization.com,REJECT
 DOMAIN,nuvidp.com,REJECT
 DOMAIN,nv.souid.com,REJECT
 DOMAIN,nvbwgk.com,REJECT
+DOMAIN,nvea.valorbuff.com,REJECT
 DOMAIN,nvergetpatr.top,REJECT
 DOMAIN,nvikgaormj.com,REJECT
 DOMAIN,nviolinami.fun,REJECT

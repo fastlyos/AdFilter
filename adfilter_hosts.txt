@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ2MTQzOQo=
+# Checksum: MTYwNzQ3MjU2MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-7
-# TimeUpdated: 2020-12-08T21:03:59+00:00
+# Version: 1.6.8-20201209-0
+# TimeUpdated: 2020-12-09T00:09:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45686
+# Total: 45684
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -752,8 +752,6 @@ ff02::3 ip6-allhosts
 :: 17chezhan.com
 0.0.0.0 17gouwuba.com
 :: 17gouwuba.com
-0.0.0.0 17leyi.com
-:: 17leyi.com
 0.0.0.0 17youzi.com
 :: 17youzi.com
 0.0.0.0 17ys.top
@@ -2434,8 +2432,6 @@ ff02::3 ip6-allhosts
 :: 66998.top
 0.0.0.0 66ce98158e4f402.com
 :: 66ce98158e4f402.com
-0.0.0.0 66san.com
-:: 66san.com
 0.0.0.0 6711.com
 :: 6711.com
 0.0.0.0 6728812.com
@@ -4212,8 +4208,6 @@ ff02::3 ip6-allhosts
 :: aax.amazon-adsystem.com
 0.0.0.0 aaxdetect.com
 :: aaxdetect.com
-0.0.0.0 aayeljzpuu.com
-:: aayeljzpuu.com
 0.0.0.0 aazcio.cn
 :: aazcio.cn
 0.0.0.0 ab.advertiserurl.com
@@ -4584,8 +4578,6 @@ ff02::3 ip6-allhosts
 :: ackbure.pro
 0.0.0.0 ackhoo.com
 :: ackhoo.com
-0.0.0.0 acknowing.com
-:: acknowing.com
 0.0.0.0 acl.stayfriends.de
 :: acl.stayfriends.de
 0.0.0.0 aclickads.com
@@ -11286,8 +11278,6 @@ ff02::3 ip6-allhosts
 :: api.atdmt.com
 0.0.0.0 api.bailingjiankang.com
 :: api.bailingjiankang.com
-0.0.0.0 api.bd-gl.com
-:: api.bd-gl.com
 0.0.0.0 api.bitp.it
 :: api.bitp.it
 0.0.0.0 api.bonusberry.ru
@@ -48816,6 +48806,8 @@ ff02::3 ip6-allhosts
 :: marketizator.com
 0.0.0.0 marketleverage.com
 :: marketleverage.com
+0.0.0.0 marketnetwork.com
+:: marketnetwork.com
 0.0.0.0 marketnews.pw
 :: marketnews.pw
 0.0.0.0 marketo.net
@@ -53874,6 +53866,8 @@ ff02::3 ip6-allhosts
 :: nization.com
 0.0.0.0 nj.t.bcsp2p.baidu.com
 :: nj.t.bcsp2p.baidu.com
+0.0.0.0 nj1r.valorbuff.com
+:: nj1r.valorbuff.com
 0.0.0.0 njcn888.com
 :: njcn888.com
 0.0.0.0 njcyfpv.cn
@@ -54662,6 +54656,8 @@ ff02::3 ip6-allhosts
 :: nv.souid.com
 0.0.0.0 nvbwgk.com
 :: nvbwgk.com
+0.0.0.0 nvea.valorbuff.com
+:: nvea.valorbuff.com
 0.0.0.0 nvergetpatr.top
 :: nvergetpatr.top
 0.0.0.0 nvikgaormj.com

@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzQ2MTQzOQo=
+# Checksum: MTYwNzQ3MjU2MAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201208-7
-# TimeUpdated: 2020-12-08T21:03:59+00:00
+# Version: 1.6.8-20201209-0
+# TimeUpdated: 2020-12-09T00:09:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45686
+# Total: 45684
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -375,7 +375,6 @@ payload:
   - DOMAIN,1797wan.com
   - DOMAIN,17chezhan.com
   - DOMAIN,17gouwuba.com
-  - DOMAIN,17leyi.com
   - DOMAIN,17youzi.com
   - DOMAIN,17ys.top
   - DOMAIN,17zheng.cn
@@ -1216,7 +1215,6 @@ payload:
   - DOMAIN,66997.top
   - DOMAIN,66998.top
   - DOMAIN,66ce98158e4f402.com
-  - DOMAIN,66san.com
   - DOMAIN,6711.com
   - DOMAIN,6728812.com
   - DOMAIN,6788787.com
@@ -2105,7 +2103,6 @@ payload:
   - DOMAIN,aax-us-west.amazon-adsystem.com
   - DOMAIN,aax.amazon-adsystem.com
   - DOMAIN,aaxdetect.com
-  - DOMAIN,aayeljzpuu.com
   - DOMAIN,aazcio.cn
   - DOMAIN,ab.advertiserurl.com
   - DOMAIN,ab.cnbanbao.com
@@ -2291,7 +2288,6 @@ payload:
   - DOMAIN,acjs.aliyun.com
   - DOMAIN,ackbure.pro
   - DOMAIN,ackhoo.com
-  - DOMAIN,acknowing.com
   - DOMAIN,acl.stayfriends.de
   - DOMAIN,aclickads.com
   - DOMAIN,acloud.com
@@ -5642,7 +5638,6 @@ payload:
   - DOMAIN,api.apptentive.com
   - DOMAIN,api.atdmt.com
   - DOMAIN,api.bailingjiankang.com
-  - DOMAIN,api.bd-gl.com
   - DOMAIN,api.bitp.it
   - DOMAIN,api.bonusberry.ru
   - DOMAIN,api.browsermine.com
@@ -24407,6 +24402,7 @@ payload:
   - DOMAIN,marketingsolutions.yahoo.com
   - DOMAIN,marketizator.com
   - DOMAIN,marketleverage.com
+  - DOMAIN,marketnetwork.com
   - DOMAIN,marketnews.pw
   - DOMAIN,marketo.net
   - DOMAIN,marketperf.com
@@ -26936,6 +26932,7 @@ payload:
   - DOMAIN,nixiclothing.com
   - DOMAIN,nization.com
   - DOMAIN,nj.t.bcsp2p.baidu.com
+  - DOMAIN,nj1r.valorbuff.com
   - DOMAIN,njcn888.com
   - DOMAIN,njcyfpv.cn
   - DOMAIN,njd.tzxianghao.cn
@@ -27330,6 +27327,7 @@ payload:
   - DOMAIN,nuvidp.com
   - DOMAIN,nv.souid.com
   - DOMAIN,nvbwgk.com
+  - DOMAIN,nvea.valorbuff.com
   - DOMAIN,nvergetpatr.top
   - DOMAIN,nvikgaormj.com
   - DOMAIN,nviolinami.fun
