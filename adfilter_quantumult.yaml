@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ3MjU2MAo=
+# Checksum: MTYwNzQ4MzA2MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-0
-# TimeUpdated: 2020-12-09T00:09:20+00:00
+# Version: 1.6.8-20201209-1
+# TimeUpdated: 2020-12-09T03:04:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45684
+# Total: 45690
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -2409,6 +2409,7 @@ DOMAIN,ad-goi.com,REJECT
 DOMAIN,ad-indicator.com,REJECT
 DOMAIN,ad-locus.com,REJECT
 DOMAIN,ad-log.dable.io,REJECT
+DOMAIN,ad-loupe.com,REJECT
 DOMAIN,ad-maven.com,REJECT
 DOMAIN,ad-miner.com,REJECT
 DOMAIN,ad-move.jp,REJECT
@@ -2770,6 +2771,7 @@ DOMAIN,ada.baidu.com,REJECT
 DOMAIN,adabra.com,REJECT
 DOMAIN,adacado.com,REJECT
 DOMAIN,adaccount.csdn.net,REJECT
+DOMAIN,adacgov.cn,REJECT
 DOMAIN,adaction.se,REJECT
 DOMAIN,adacts.com,REJECT
 DOMAIN,adadapted.com,REJECT
@@ -4743,6 +4745,7 @@ DOMAIN,aifei0755.net,REJECT
 DOMAIN,aighthatev.club,REJECT
 DOMAIN,aigneloa.com,REJECT
 DOMAIN,aigou023.com,REJECT
+DOMAIN,aihaoduo.cn,REJECT
 DOMAIN,aijiboft.com,REJECT
 DOMAIN,aijielang.cn,REJECT
 DOMAIN,aikan6.com,REJECT
@@ -9294,6 +9297,7 @@ DOMAIN,cetrk.com,REJECT
 DOMAIN,cewaugaz.net,REJECT
 DOMAIN,cewbeyy.com,REJECT
 DOMAIN,cexetchy.net,REJECT
+DOMAIN,ceyiuy.com,REJECT
 DOMAIN,cf-ads.pinger.com,REJECT
 DOMAIN,cf.cdn.inmobi.com,REJECT
 DOMAIN,cf.zaiyunli.cn,REJECT
@@ -9429,6 +9433,7 @@ DOMAIN,cheer.cjoy.com.cn,REJECT
 DOMAIN,cheerfulrange.com,REJECT
 DOMAIN,cheewait.net,REJECT
 DOMAIN,cheezwhiz.z9.web.core.windows.net,REJECT
+DOMAIN,chehuanjie.com,REJECT
 DOMAIN,cheksoam.com,REJECT
 DOMAIN,chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk,REJECT
 DOMAIN,chelsust.com,REJECT
@@ -9593,7 +9598,6 @@ DOMAIN,cjl58f3agc.com,REJECT
 DOMAIN,cjmob.com,REJECT
 DOMAIN,cjroq.bealge.sogou.com,REJECT
 DOMAIN,cjsab.com,REJECT
-DOMAIN,cjsdtj.com,REJECT
 DOMAIN,cjt1.net,REJECT
 DOMAIN,ck-cdn.com,REJECT
 DOMAIN,ck.houyi.baofeng.net,REJECT
@@ -25996,6 +26000,7 @@ DOMAIN,mtzddtrs.com,REJECT
 DOMAIN,mtzenhigqg.com,REJECT
 DOMAIN,mtzszlpypbxjm.com,REJECT
 DOMAIN,mu722.com,REJECT
+DOMAIN,muagjoxfew.com,REJECT
 DOMAIN,muchhetont.ru,REJECT
 DOMAIN,muddledaftermath.com,REJECT
 DOMAIN,mughaymil.site,REJECT
@@ -41187,6 +41192,7 @@ DOMAIN,vwhi.gou.sogou.com,REJECT
 DOMAIN,vwinnow.com,REJECT
 DOMAIN,vwkhdi.cn,REJECT
 DOMAIN,vws.vidcoin.com,REJECT
+DOMAIN,vwxgxculdbybw.com,REJECT
 DOMAIN,vxdrqtghmztm.com,REJECT
 DOMAIN,vxrpmslex.com,REJECT
 DOMAIN,vxsnk.com,REJECT

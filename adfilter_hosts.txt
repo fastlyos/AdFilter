@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ3MjU2MAo=
+# Checksum: MTYwNzQ4MzA2MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-0
-# TimeUpdated: 2020-12-09T00:09:20+00:00
+# Version: 1.6.8-20201209-1
+# TimeUpdated: 2020-12-09T03:04:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45684
+# Total: 45690
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4822,6 +4822,8 @@ ff02::3 ip6-allhosts
 :: ad-locus.com
 0.0.0.0 ad-log.dable.io
 :: ad-log.dable.io
+0.0.0.0 ad-loupe.com
+:: ad-loupe.com
 0.0.0.0 ad-maven.com
 :: ad-maven.com
 0.0.0.0 ad-miner.com
@@ -5544,6 +5546,8 @@ ff02::3 ip6-allhosts
 :: adacado.com
 0.0.0.0 adaccount.csdn.net
 :: adaccount.csdn.net
+0.0.0.0 adacgov.cn
+:: adacgov.cn
 0.0.0.0 adaction.se
 :: adaction.se
 0.0.0.0 adacts.com
@@ -9490,6 +9494,8 @@ ff02::3 ip6-allhosts
 :: aigneloa.com
 0.0.0.0 aigou023.com
 :: aigou023.com
+0.0.0.0 aihaoduo.cn
+:: aihaoduo.cn
 0.0.0.0 aijiboft.com
 :: aijiboft.com
 0.0.0.0 aijielang.cn
@@ -18592,6 +18598,8 @@ ff02::3 ip6-allhosts
 :: cewbeyy.com
 0.0.0.0 cexetchy.net
 :: cexetchy.net
+0.0.0.0 ceyiuy.com
+:: ceyiuy.com
 0.0.0.0 cf-ads.pinger.com
 :: cf-ads.pinger.com
 0.0.0.0 cf.cdn.inmobi.com
@@ -18862,6 +18870,8 @@ ff02::3 ip6-allhosts
 :: cheewait.net
 0.0.0.0 cheezwhiz.z9.web.core.windows.net
 :: cheezwhiz.z9.web.core.windows.net
+0.0.0.0 chehuanjie.com
+:: chehuanjie.com
 0.0.0.0 cheksoam.com
 :: cheksoam.com
 0.0.0.0 chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk
@@ -19190,8 +19200,6 @@ ff02::3 ip6-allhosts
 :: cjroq.bealge.sogou.com
 0.0.0.0 cjsab.com
 :: cjsab.com
-0.0.0.0 cjsdtj.com
-:: cjsdtj.com
 0.0.0.0 cjt1.net
 :: cjt1.net
 0.0.0.0 ck-cdn.com
@@ -51996,6 +52004,8 @@ ff02::3 ip6-allhosts
 :: mtzszlpypbxjm.com
 0.0.0.0 mu722.com
 :: mu722.com
+0.0.0.0 muagjoxfew.com
+:: muagjoxfew.com
 0.0.0.0 muchhetont.ru
 :: muchhetont.ru
 0.0.0.0 muddledaftermath.com
@@ -82378,6 +82388,8 @@ ff02::3 ip6-allhosts
 :: vwkhdi.cn
 0.0.0.0 vws.vidcoin.com
 :: vws.vidcoin.com
+0.0.0.0 vwxgxculdbybw.com
+:: vwxgxculdbybw.com
 0.0.0.0 vxdrqtghmztm.com
 :: vxdrqtghmztm.com
 0.0.0.0 vxrpmslex.com
