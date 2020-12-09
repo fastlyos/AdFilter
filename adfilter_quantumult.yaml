@@ -1,11 +1,11 @@
-# Checksum: MTYwNzUxNTUwNgo=
+# Checksum: MTYwNzUyNjI0OQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-4
-# TimeUpdated: 2020-12-09T12:05:06+00:00
+# Version: 1.6.8-20201209-5
+# TimeUpdated: 2020-12-09T15:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45776
+# Total: 45779
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -62,7 +62,6 @@ DOMAIN,0512pifa.com.cn,REJECT
 DOMAIN,0512s.com,REJECT
 DOMAIN,0516bm.com,REJECT
 DOMAIN,0531kt.com,REJECT
-DOMAIN,0531mnk.net,REJECT
 DOMAIN,0532ci.com.cn,REJECT
 DOMAIN,0551huayanbdf.com,REJECT
 DOMAIN,0571hy.com,REJECT
@@ -7148,7 +7147,6 @@ DOMAIN,bddm.999d.com,REJECT
 DOMAIN,bdfpb1.8684.com,REJECT
 DOMAIN,bdfpb2.8684.com,REJECT
 DOMAIN,bdfpbimg.ifengimg.com,REJECT
-DOMAIN,bdfrm.bidvertiser.com,REJECT
 DOMAIN,bdg-analytics.appspot.com,REJECT
 DOMAIN,bdgg.qjy168.com,REJECT
 DOMAIN,bdgg.youbian.com,REJECT
@@ -8192,6 +8190,7 @@ DOMAIN,bs.csshq.com.cn,REJECT
 DOMAIN,bs.l.qq.com,REJECT
 DOMAIN,bs.lamrd.cn,REJECT
 DOMAIN,bs.nakanohito.jp,REJECT
+DOMAIN,bs.orsk.ru,REJECT
 DOMAIN,bs.serving-sys.com,REJECT
 DOMAIN,bs.yandex.ru,REJECT
 DOMAIN,bs14.9669.cn,REJECT
@@ -12752,6 +12751,7 @@ DOMAIN,dhpikd1t89arn.cloudfront.net,REJECT
 DOMAIN,dhqp68.com,REJECT
 DOMAIN,dhtml.pornravage.com,REJECT
 DOMAIN,dhundora.com,REJECT
+DOMAIN,dhxwczetwdkt.com,REJECT
 DOMAIN,dhxyzx.cn,REJECT
 DOMAIN,dhzws7l31cq8p.cloudfront.net,REJECT
 DOMAIN,di.fengchedaomall.cn,REJECT
@@ -13980,7 +13980,6 @@ DOMAIN,e521d17fa185a2.com,REJECT
 DOMAIN,e5d944a25e468d.com,REJECT
 DOMAIN,e5mbjzv.com,REJECT
 DOMAIN,e5yx.com,REJECT
-DOMAIN,e6047cde66.com,REJECT
 DOMAIN,e6916adeb7e46a883.com,REJECT
 DOMAIN,e6cfmdmo81.com,REJECT
 DOMAIN,e7001.com,REJECT
@@ -14184,6 +14183,7 @@ DOMAIN,eco.3q4td5.xyz,REJECT
 DOMAIN,eco.875tf.xyz,REJECT
 DOMAIN,eco.qwger.xyz,REJECT
 DOMAIN,eco.taobao.com,REJECT
+DOMAIN,eco.vcbn65.xyz,REJECT
 DOMAIN,ecomgxh.kuwo.cn,REJECT
 DOMAIN,ecominalber.club,REJECT
 DOMAIN,ecomm.events,REJECT
@@ -28273,6 +28273,7 @@ DOMAIN,p-digital-server.com,REJECT
 DOMAIN,p-l.play.aiseet.atianqi.com,REJECT
 DOMAIN,p-td.com,REJECT
 DOMAIN,p.37see.com,REJECT
+DOMAIN,p.5mnh.com,REJECT
 DOMAIN,p.7060.la,REJECT
 DOMAIN,p.8es.net,REJECT
 DOMAIN,p.99mssj.com,REJECT
@@ -37388,6 +37389,7 @@ DOMAIN,target.vivid.com,REJECT
 DOMAIN,targetadverts.com,REJECT
 DOMAIN,targetan.com,REJECT
 DOMAIN,targetedinfo.com,REJECT
+DOMAIN,targetedmedia.com.cn,REJECT
 DOMAIN,targeterra.info,REJECT
 DOMAIN,targetfuel.com,REJECT
 DOMAIN,targeting.perso.aws.arc.pub,REJECT
@@ -45514,6 +45516,7 @@ DOMAIN,zhuba8.com,REJECT
 DOMAIN,zhululm.com,REJECT
 DOMAIN,zhushicm.com,REJECT
 DOMAIN,zhuwawa.net,REJECT
+DOMAIN,zhuzaogangqiu.com,REJECT
 DOMAIN,zhwnlapi.etouch.cn,REJECT
 DOMAIN,zhybzp.cn,REJECT
 DOMAIN,zhywyl.cn,REJECT

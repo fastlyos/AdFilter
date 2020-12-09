@@ -1,11 +1,11 @@
-# Checksum: MTYwNzUxNTUwNgo=
+# Checksum: MTYwNzUyNjI0OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-4
-# TimeUpdated: 2020-12-09T12:05:06+00:00
+# Version: 1.6.8-20201209-5
+# TimeUpdated: 2020-12-09T15:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45776
+# Total: 45779
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -128,8 +128,6 @@ ff02::3 ip6-allhosts
 :: 0516bm.com
 0.0.0.0 0531kt.com
 :: 0531kt.com
-0.0.0.0 0531mnk.net
-:: 0531mnk.net
 0.0.0.0 0532ci.com.cn
 :: 0532ci.com.cn
 0.0.0.0 0551huayanbdf.com
@@ -14300,8 +14298,6 @@ ff02::3 ip6-allhosts
 :: bdfpb2.8684.com
 0.0.0.0 bdfpbimg.ifengimg.com
 :: bdfpbimg.ifengimg.com
-0.0.0.0 bdfrm.bidvertiser.com
-:: bdfrm.bidvertiser.com
 0.0.0.0 bdg-analytics.appspot.com
 :: bdg-analytics.appspot.com
 0.0.0.0 bdgg.qjy168.com
@@ -16388,6 +16384,8 @@ ff02::3 ip6-allhosts
 :: bs.lamrd.cn
 0.0.0.0 bs.nakanohito.jp
 :: bs.nakanohito.jp
+0.0.0.0 bs.orsk.ru
+:: bs.orsk.ru
 0.0.0.0 bs.serving-sys.com
 :: bs.serving-sys.com
 0.0.0.0 bs.yandex.ru
@@ -25508,6 +25506,8 @@ ff02::3 ip6-allhosts
 :: dhtml.pornravage.com
 0.0.0.0 dhundora.com
 :: dhundora.com
+0.0.0.0 dhxwczetwdkt.com
+:: dhxwczetwdkt.com
 0.0.0.0 dhxyzx.cn
 :: dhxyzx.cn
 0.0.0.0 dhzws7l31cq8p.cloudfront.net
@@ -27964,8 +27964,6 @@ ff02::3 ip6-allhosts
 :: e5mbjzv.com
 0.0.0.0 e5yx.com
 :: e5yx.com
-0.0.0.0 e6047cde66.com
-:: e6047cde66.com
 0.0.0.0 e6916adeb7e46a883.com
 :: e6916adeb7e46a883.com
 0.0.0.0 e6cfmdmo81.com
@@ -28372,6 +28370,8 @@ ff02::3 ip6-allhosts
 :: eco.qwger.xyz
 0.0.0.0 eco.taobao.com
 :: eco.taobao.com
+0.0.0.0 eco.vcbn65.xyz
+:: eco.vcbn65.xyz
 0.0.0.0 ecomgxh.kuwo.cn
 :: ecomgxh.kuwo.cn
 0.0.0.0 ecominalber.club
@@ -56550,6 +56550,8 @@ ff02::3 ip6-allhosts
 :: p-td.com
 0.0.0.0 p.37see.com
 :: p.37see.com
+0.0.0.0 p.5mnh.com
+:: p.5mnh.com
 0.0.0.0 p.7060.la
 :: p.7060.la
 0.0.0.0 p.8es.net
@@ -74780,6 +74782,8 @@ ff02::3 ip6-allhosts
 :: targetan.com
 0.0.0.0 targetedinfo.com
 :: targetedinfo.com
+0.0.0.0 targetedmedia.com.cn
+:: targetedmedia.com.cn
 0.0.0.0 targeterra.info
 :: targeterra.info
 0.0.0.0 targetfuel.com
@@ -91032,6 +91036,8 @@ ff02::3 ip6-allhosts
 :: zhushicm.com
 0.0.0.0 zhuwawa.net
 :: zhuwawa.net
+0.0.0.0 zhuzaogangqiu.com
+:: zhuzaogangqiu.com
 0.0.0.0 zhwnlapi.etouch.cn
 :: zhwnlapi.etouch.cn
 0.0.0.0 zhybzp.cn
