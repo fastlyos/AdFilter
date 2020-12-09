@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzUyNjI0OQo=
+# Checksum: MTYwNzUzNzA1MAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-5
-# TimeUpdated: 2020-12-09T15:04:09+00:00
+# Version: 1.6.8-20201209-6
+# TimeUpdated: 2020-12-09T18:04:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45779
+# Total: 45783
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -19360,6 +19360,7 @@ payload:
   - DOMAIN,icemf.com
   - DOMAIN,icetraffic.com
   - DOMAIN,ichaosheng.com
+  - DOMAIN,iche88.cn
   - DOMAIN,ichecknotifyfriends.info
   - DOMAIN,ichhar.sante-dz.com
   - DOMAIN,icilfj.com
@@ -22300,6 +22301,7 @@ payload:
   - DOMAIN,lcs.comico.jp
   - DOMAIN,lcs.dev.surepush.cn
   - DOMAIN,lcs.livedoor.net
+  - DOMAIN,lcs.loginfra.com
   - DOMAIN,lcwfab1.com
   - DOMAIN,lcwfab2.com
   - DOMAIN,lcwfab3.com
@@ -32350,6 +32352,7 @@ payload:
   - DOMAIN,ro7s8wo57qnb.com
   - DOMAIN,ro88qcuy.com
   - DOMAIN,road44ont.online
+  - DOMAIN,roadcomponentsdb.com
   - DOMAIN,roakicat.net
   - DOMAIN,roarbeggarlyhilarious.com
   - DOMAIN,roay.cn
@@ -34871,6 +34874,7 @@ payload:
   - DOMAIN,smashnewtab.com
   - DOMAIN,smashseek.com
   - DOMAIN,smashsurprise.com
+  - DOMAIN,smazvhjn.com
   - DOMAIN,smblock.s3.amazonaws.com
   - DOMAIN,smcreative.allyes.com
   - DOMAIN,smct.co
@@ -44470,6 +44474,7 @@ payload:
   - DOMAIN,xnjzsn.com
   - DOMAIN,xnmcmnt.cn
   - DOMAIN,xnyemao.com
+  - DOMAIN,xnzkqew.cn
   - DOMAIN,xo28pclotovi.com
   - DOMAIN,xobor.miranus.com
   - DOMAIN,xoliter.com
@@ -45517,7 +45522,6 @@ payload:
   - DOMAIN,zhululm.com
   - DOMAIN,zhushicm.com
   - DOMAIN,zhuwawa.net
-  - DOMAIN,zhuzaogangqiu.com
   - DOMAIN,zhwnlapi.etouch.cn
   - DOMAIN,zhybzp.cn
   - DOMAIN,zhywyl.cn

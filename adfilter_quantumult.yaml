@@ -1,11 +1,11 @@
-# Checksum: MTYwNzUyNjI0OQo=
+# Checksum: MTYwNzUzNzA1MAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-5
-# TimeUpdated: 2020-12-09T15:04:09+00:00
+# Version: 1.6.8-20201209-6
+# TimeUpdated: 2020-12-09T18:04:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45779
+# Total: 45783
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -19359,6 +19359,7 @@ DOMAIN,icedewear.site,REJECT
 DOMAIN,icemf.com,REJECT
 DOMAIN,icetraffic.com,REJECT
 DOMAIN,ichaosheng.com,REJECT
+DOMAIN,iche88.cn,REJECT
 DOMAIN,ichecknotifyfriends.info,REJECT
 DOMAIN,ichhar.sante-dz.com,REJECT
 DOMAIN,icilfj.com,REJECT
@@ -22299,6 +22300,7 @@ DOMAIN,lcrmm.top,REJECT
 DOMAIN,lcs.comico.jp,REJECT
 DOMAIN,lcs.dev.surepush.cn,REJECT
 DOMAIN,lcs.livedoor.net,REJECT
+DOMAIN,lcs.loginfra.com,REJECT
 DOMAIN,lcwfab1.com,REJECT
 DOMAIN,lcwfab2.com,REJECT
 DOMAIN,lcwfab3.com,REJECT
@@ -32349,6 +32351,7 @@ DOMAIN,rnysheetprin.info,REJECT
 DOMAIN,ro7s8wo57qnb.com,REJECT
 DOMAIN,ro88qcuy.com,REJECT
 DOMAIN,road44ont.online,REJECT
+DOMAIN,roadcomponentsdb.com,REJECT
 DOMAIN,roakicat.net,REJECT
 DOMAIN,roarbeggarlyhilarious.com,REJECT
 DOMAIN,roay.cn,REJECT
@@ -34870,6 +34873,7 @@ DOMAIN,smartzonessva.com,REJECT
 DOMAIN,smashnewtab.com,REJECT
 DOMAIN,smashseek.com,REJECT
 DOMAIN,smashsurprise.com,REJECT
+DOMAIN,smazvhjn.com,REJECT
 DOMAIN,smblock.s3.amazonaws.com,REJECT
 DOMAIN,smcreative.allyes.com,REJECT
 DOMAIN,smct.co,REJECT
@@ -44469,6 +44473,7 @@ DOMAIN,xnjpg.com,REJECT
 DOMAIN,xnjzsn.com,REJECT
 DOMAIN,xnmcmnt.cn,REJECT
 DOMAIN,xnyemao.com,REJECT
+DOMAIN,xnzkqew.cn,REJECT
 DOMAIN,xo28pclotovi.com,REJECT
 DOMAIN,xobor.miranus.com,REJECT
 DOMAIN,xoliter.com,REJECT
@@ -45516,7 +45521,6 @@ DOMAIN,zhuba8.com,REJECT
 DOMAIN,zhululm.com,REJECT
 DOMAIN,zhushicm.com,REJECT
 DOMAIN,zhuwawa.net,REJECT
-DOMAIN,zhuzaogangqiu.com,REJECT
 DOMAIN,zhwnlapi.etouch.cn,REJECT
 DOMAIN,zhybzp.cn,REJECT
 DOMAIN,zhywyl.cn,REJECT
