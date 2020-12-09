@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ5Mzg4Ngo=
+# Checksum: MTYwNzUwNDY2MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-2
-# TimeUpdated: 2020-12-09T06:04:46+00:00
+# Version: 1.6.8-20201209-3
+# TimeUpdated: 2020-12-09T09:04:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45769
+# Total: 45768
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2348,6 +2348,8 @@ ff02::3 ip6-allhosts
 :: 625c9289e60793.com
 0.0.0.0 626uc.com
 :: 626uc.com
+0.0.0.0 628e7ae68a3357896.com
+:: 628e7ae68a3357896.com
 0.0.0.0 62b70ac32d4614b.com
 :: 62b70ac32d4614b.com
 0.0.0.0 62wm.com
@@ -4450,8 +4452,6 @@ ff02::3 ip6-allhosts
 :: ac.dun.163yun.com
 0.0.0.0 ac.express.de
 :: ac.express.de
-0.0.0.0 ac.jbaohua.cn
-:: ac.jbaohua.cn
 0.0.0.0 ac.mmstat.com
 :: ac.mmstat.com
 0.0.0.0 ac.mz-web.de
@@ -15784,6 +15784,8 @@ ff02::3 ip6-allhosts
 :: bnstnhto.com
 0.0.0.0 bntech.io
 :: bntech.io
+0.0.0.0 bntxt.com
+:: bntxt.com
 0.0.0.0 bnzxc.xyz
 :: bnzxc.xyz
 0.0.0.0 bo-videos.s3.amazonaws.com
@@ -25284,8 +25286,6 @@ ff02::3 ip6-allhosts
 :: despitalyt.club
 0.0.0.0 desr.fkapi.net
 :: desr.fkapi.net
-0.0.0.0 destricso.com
-:: destricso.com
 0.0.0.0 detail.taobao.com
 :: detail.taobao.com
 0.0.0.0 detailedglue.com
@@ -28606,8 +28606,6 @@ ff02::3 ip6-allhosts
 :: eeghegak.com
 0.0.0.0 eegnacou.com
 :: eegnacou.com
-0.0.0.0 eegoh7o.bid
-:: eegoh7o.bid
 0.0.0.0 eekia.com
 :: eekia.com
 0.0.0.0 eekmarchand.com
@@ -33258,6 +33256,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -41668,8 +41668,6 @@ ff02::3 ip6-allhosts
 :: jhbsq.cn
 0.0.0.0 jhdfcbqophm.com
 :: jhdfcbqophm.com
-0.0.0.0 jheooaxyswm.com
-:: jheooaxyswm.com
 0.0.0.0 jheva.com
 :: jheva.com
 0.0.0.0 jhgff23az.biqugetv.com

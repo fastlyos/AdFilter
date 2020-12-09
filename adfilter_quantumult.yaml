@@ -1,11 +1,11 @@
-# Checksum: MTYwNzQ5Mzg4Ngo=
+# Checksum: MTYwNzUwNDY2MAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-2
-# TimeUpdated: 2020-12-09T06:04:46+00:00
+# Version: 1.6.8-20201209-3
+# TimeUpdated: 2020-12-09T09:04:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45769
+# Total: 45768
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1172,6 +1172,7 @@ DOMAIN,61b50f2b935cbb6.com,REJECT
 DOMAIN,620c663bca9a4.com,REJECT
 DOMAIN,625c9289e60793.com,REJECT
 DOMAIN,626uc.com,REJECT
+DOMAIN,628e7ae68a3357896.com,REJECT
 DOMAIN,62b70ac32d4614b.com,REJECT
 DOMAIN,62wm.com,REJECT
 DOMAIN,631.dlads.cn,REJECT
@@ -2223,7 +2224,6 @@ DOMAIN,ac.atpanel.com,REJECT
 DOMAIN,ac.berlinonline.de,REJECT
 DOMAIN,ac.dun.163yun.com,REJECT
 DOMAIN,ac.express.de,REJECT
-DOMAIN,ac.jbaohua.cn,REJECT
 DOMAIN,ac.mmstat.com,REJECT
 DOMAIN,ac.mz-web.de,REJECT
 DOMAIN,ac1.786ip.com,REJECT
@@ -7890,6 +7890,7 @@ DOMAIN,bnster.com,REJECT
 DOMAIN,bnstero.com,REJECT
 DOMAIN,bnstnhto.com,REJECT
 DOMAIN,bntech.io,REJECT
+DOMAIN,bntxt.com,REJECT
 DOMAIN,bnzxc.xyz,REJECT
 DOMAIN,bo-videos.s3.amazonaws.com,REJECT
 DOMAIN,bo.facesbet.com,REJECT
@@ -12640,7 +12641,6 @@ DOMAIN,despearingle.co,REJECT
 DOMAIN,despisenoughtshit.com,REJECT
 DOMAIN,despitalyt.club,REJECT
 DOMAIN,desr.fkapi.net,REJECT
-DOMAIN,destricso.com,REJECT
 DOMAIN,detail.taobao.com,REJECT
 DOMAIN,detailedglue.com,REJECT
 DOMAIN,detailedgovernment.com,REJECT
@@ -14301,7 +14301,6 @@ DOMAIN,eeftordu.net,REJECT
 DOMAIN,eeg.gmuqa.cn,REJECT
 DOMAIN,eeghegak.com,REJECT
 DOMAIN,eegnacou.com,REJECT
-DOMAIN,eegoh7o.bid,REJECT
 DOMAIN,eekia.com,REJECT
 DOMAIN,eekmarchand.com,REJECT
 DOMAIN,eekrooha.com,REJECT
@@ -16627,6 +16626,7 @@ DOMAIN,g.x.cn.xtgreat.com,REJECT
 DOMAIN,g.x.evolife.cn,REJECT
 DOMAIN,g.xywy.com,REJECT
 DOMAIN,g.yccdn.com,REJECT
+DOMAIN,g.youyou234.com,REJECT
 DOMAIN,g.zx-jsp.com,REJECT
 DOMAIN,g0b2rzzyu87s.com,REJECT
 DOMAIN,g1.08160.cn,REJECT
@@ -20832,7 +20832,6 @@ DOMAIN,jhasisinvolvo.top,REJECT
 DOMAIN,jhbrc.xyz,REJECT
 DOMAIN,jhbsq.cn,REJECT
 DOMAIN,jhdfcbqophm.com,REJECT
-DOMAIN,jheooaxyswm.com,REJECT
 DOMAIN,jheva.com,REJECT
 DOMAIN,jhgff23az.biqugetv.com,REJECT
 DOMAIN,jhhlhneavuo.com,REJECT
