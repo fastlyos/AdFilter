@@ -1,11 +1,11 @@
-# Checksum: MTYwNzYyMzQ2MAo=
+# Checksum: MTYwNzYzNDIzNwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-6
-# TimeUpdated: 2020-12-10T18:04:20+00:00
+# Version: 1.6.8-20201210-7
+# TimeUpdated: 2020-12-10T21:03:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45799
+# Total: 45804
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -454,6 +454,7 @@ DOMAIN,1rm.xyz,REJECT
 DOMAIN,1rt0n.news,REJECT
 DOMAIN,1rtl.info,REJECT
 DOMAIN,1rzm9qidas88.com,REJECT
+DOMAIN,1sputnik.ru,REJECT
 DOMAIN,1st2nd.xyz,REJECT
 DOMAIN,1tdscpamedia.xyz,REJECT
 DOMAIN,1to1.bbva.com,REJECT
@@ -1292,6 +1293,7 @@ DOMAIN,70950.com,REJECT
 DOMAIN,70e.com,REJECT
 DOMAIN,70ee6484605f.com,REJECT
 DOMAIN,70fa9b55f717e1eee.com,REJECT
+DOMAIN,70yst.com,REJECT
 DOMAIN,7116966.com,REJECT
 DOMAIN,711983.com,REJECT
 DOMAIN,711kk.com,REJECT
@@ -2181,7 +2183,6 @@ DOMAIN,aboardlevel.com,REJECT
 DOMAIN,aboriginalboats.com,REJECT
 DOMAIN,about.qichetiemo.info,REJECT
 DOMAIN,aboutads.quantcast.com,REJECT
-DOMAIN,aboybvnm.com,REJECT
 DOMAIN,abroad-ad.kingsoft-office-service.com,REJECT
 DOMAIN,abroadlynijiz.site,REJECT
 DOMAIN,abrsamar.com,REJECT
@@ -8430,7 +8431,6 @@ DOMAIN,bzclk.baidu.com,REJECT
 DOMAIN,bzidp.com,REJECT
 DOMAIN,bzlwe.com,REJECT
 DOMAIN,bzrpvk.com,REJECT
-DOMAIN,bzspzpdrqjopj.com,REJECT
 DOMAIN,c-gtc.getui.com,REJECT
 DOMAIN,c-hzgt2.getui.com,REJECT
 DOMAIN,c-nfa.jd.com,REJECT
@@ -9592,6 +9592,7 @@ DOMAIN,cjl58f3agc.com,REJECT
 DOMAIN,cjmob.com,REJECT
 DOMAIN,cjroq.bealge.sogou.com,REJECT
 DOMAIN,cjsab.com,REJECT
+DOMAIN,cjsdtj.com,REJECT
 DOMAIN,cjt1.net,REJECT
 DOMAIN,ck-cdn.com,REJECT
 DOMAIN,ck.houyi.baofeng.net,REJECT
@@ -23965,6 +23966,7 @@ DOMAIN,m.sewxi.com,REJECT
 DOMAIN,m.sfanf.com,REJECT
 DOMAIN,m.sfscooter.cn,REJECT
 DOMAIN,m.shanbara.jp,REJECT
+DOMAIN,m.shenyunkeji.com,REJECT
 DOMAIN,m.shilian168.cn,REJECT
 DOMAIN,m.shwedar.com.cn,REJECT
 DOMAIN,m.simba.taobao.com,REJECT
@@ -24553,6 +24555,7 @@ DOMAIN,maycanrami.tk,REJECT
 DOMAIN,mayclub.net,REJECT
 DOMAIN,maygasjump.com,REJECT
 DOMAIN,mayhemabjure.com,REJECT
+DOMAIN,mayi360.cn,REJECT
 DOMAIN,mayiad.com,REJECT
 DOMAIN,maysunmedia.com,REJECT
 DOMAIN,mazu.3g.qq.com,REJECT
@@ -40129,6 +40132,7 @@ DOMAIN,upgraderservices.cf,REJECT
 DOMAIN,upgulpinon.com,REJECT
 DOMAIN,upheasted.club,REJECT
 DOMAIN,upheavesy.club,REJECT
+DOMAIN,uphuatdmwbdm.com,REJECT
 DOMAIN,upijhkdcovdep.com,REJECT
 DOMAIN,upikeoshfhw.com,REJECT
 DOMAIN,upliftsearch.com,REJECT
@@ -40449,6 +40453,7 @@ DOMAIN,v.ffupiiv.cn,REJECT
 DOMAIN,v.gdt.qq.com,REJECT
 DOMAIN,v.ggsgww.cn,REJECT
 DOMAIN,v.heygugu.com,REJECT
+DOMAIN,v.iche88.cn,REJECT
 DOMAIN,v.irs01.com,REJECT
 DOMAIN,v.jinliaoyang.com,REJECT
 DOMAIN,v.jsbgh.cn,REJECT

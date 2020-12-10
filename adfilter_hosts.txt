@@ -1,11 +1,11 @@
-# Checksum: MTYwNzYyMzQ2MAo=
+# Checksum: MTYwNzYzNDIzNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-6
-# TimeUpdated: 2020-12-10T18:04:20+00:00
+# Version: 1.6.8-20201210-7
+# TimeUpdated: 2020-12-10T21:03:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45799
+# Total: 45804
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -912,6 +912,8 @@ ff02::3 ip6-allhosts
 :: 1rtl.info
 0.0.0.0 1rzm9qidas88.com
 :: 1rzm9qidas88.com
+0.0.0.0 1sputnik.ru
+:: 1sputnik.ru
 0.0.0.0 1st2nd.xyz
 :: 1st2nd.xyz
 0.0.0.0 1tdscpamedia.xyz
@@ -2588,6 +2590,8 @@ ff02::3 ip6-allhosts
 :: 70ee6484605f.com
 0.0.0.0 70fa9b55f717e1eee.com
 :: 70fa9b55f717e1eee.com
+0.0.0.0 70yst.com
+:: 70yst.com
 0.0.0.0 7116966.com
 :: 7116966.com
 0.0.0.0 711983.com
@@ -4366,8 +4370,6 @@ ff02::3 ip6-allhosts
 :: about.qichetiemo.info
 0.0.0.0 aboutads.quantcast.com
 :: aboutads.quantcast.com
-0.0.0.0 aboybvnm.com
-:: aboybvnm.com
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 :: abroad-ad.kingsoft-office-service.com
 0.0.0.0 abroadlynijiz.site
@@ -16864,8 +16866,6 @@ ff02::3 ip6-allhosts
 :: bzlwe.com
 0.0.0.0 bzrpvk.com
 :: bzrpvk.com
-0.0.0.0 bzspzpdrqjopj.com
-:: bzspzpdrqjopj.com
 0.0.0.0 c-gtc.getui.com
 :: c-gtc.getui.com
 0.0.0.0 c-hzgt2.getui.com
@@ -19188,6 +19188,8 @@ ff02::3 ip6-allhosts
 :: cjroq.bealge.sogou.com
 0.0.0.0 cjsab.com
 :: cjsab.com
+0.0.0.0 cjsdtj.com
+:: cjsdtj.com
 0.0.0.0 cjt1.net
 :: cjt1.net
 0.0.0.0 ck-cdn.com
@@ -47934,6 +47936,8 @@ ff02::3 ip6-allhosts
 :: m.sfscooter.cn
 0.0.0.0 m.shanbara.jp
 :: m.shanbara.jp
+0.0.0.0 m.shenyunkeji.com
+:: m.shenyunkeji.com
 0.0.0.0 m.shilian168.cn
 :: m.shilian168.cn
 0.0.0.0 m.shwedar.com.cn
@@ -49110,6 +49114,8 @@ ff02::3 ip6-allhosts
 :: maygasjump.com
 0.0.0.0 mayhemabjure.com
 :: mayhemabjure.com
+0.0.0.0 mayi360.cn
+:: mayi360.cn
 0.0.0.0 mayiad.com
 :: mayiad.com
 0.0.0.0 maysunmedia.com
@@ -80262,6 +80268,8 @@ ff02::3 ip6-allhosts
 :: upheasted.club
 0.0.0.0 upheavesy.club
 :: upheavesy.club
+0.0.0.0 uphuatdmwbdm.com
+:: uphuatdmwbdm.com
 0.0.0.0 upijhkdcovdep.com
 :: upijhkdcovdep.com
 0.0.0.0 upikeoshfhw.com
@@ -80902,6 +80910,8 @@ ff02::3 ip6-allhosts
 :: v.ggsgww.cn
 0.0.0.0 v.heygugu.com
 :: v.heygugu.com
+0.0.0.0 v.iche88.cn
+:: v.iche88.cn
 0.0.0.0 v.irs01.com
 :: v.irs01.com
 0.0.0.0 v.jinliaoyang.com
