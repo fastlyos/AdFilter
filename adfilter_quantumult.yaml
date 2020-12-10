@@ -1,11 +1,11 @@
-# Checksum: MTYwNzU0NzgzMQo=
+# Checksum: MTYwNzU1ODk1OQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-7
-# TimeUpdated: 2020-12-09T21:03:51+00:00
+# Version: 1.6.8-20201210-0
+# TimeUpdated: 2020-12-10T00:09:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45805
+# Total: 45811
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -117,7 +117,6 @@ DOMAIN,0ka.com,REJECT
 DOMAIN,0klxjejyxak3.com,REJECT
 DOMAIN,0n55f9zgy7.com,REJECT
 DOMAIN,0n6h.cn,REJECT
-DOMAIN,0o.868iy.cn,REJECT
 DOMAIN,0oaqgsk54hm5.com,REJECT
 DOMAIN,0pyn37dv3m.com,REJECT
 DOMAIN,0ql3xxre2h.com,REJECT
@@ -10109,6 +10108,7 @@ DOMAIN,cnadid.com,REJECT
 DOMAIN,cnbanbao.com,REJECT
 DOMAIN,cnbole.net,REJECT
 DOMAIN,cncy8.com,REJECT
+DOMAIN,cndijojw.com,REJECT
 DOMAIN,cndjs-1251973891.coshk.myqcloud.com,REJECT
 DOMAIN,cndmye.ru,REJECT
 DOMAIN,cndmyt.ru,REJECT
@@ -15035,6 +15035,7 @@ DOMAIN,euadw.com,REJECT
 DOMAIN,eudcqm.uihdlx.xyz,REJECT
 DOMAIN,eue.d-teknoloji.com.tr,REJECT
 DOMAIN,euizhltcd6ih.com,REJECT
+DOMAIN,eulbamjx.com,REJECT
 DOMAIN,eulerian.belambra.be,REJECT
 DOMAIN,eulerian.belambra.fr,REJECT
 DOMAIN,eulerian.brandalley.fr,REJECT
@@ -20739,6 +20740,7 @@ DOMAIN,jbanb.com,REJECT
 DOMAIN,jbbath.cn,REJECT
 DOMAIN,jbcbio.cn,REJECT
 DOMAIN,jbcbuy.com,REJECT
+DOMAIN,jbhle.com,REJECT
 DOMAIN,jbm6c54upkui.com,REJECT
 DOMAIN,jbovn.com,REJECT
 DOMAIN,jbrlsr.com,REJECT
@@ -26084,6 +26086,7 @@ DOMAIN,mvo.mftgyh.xyz,REJECT
 DOMAIN,mvo.osidf.xyz,REJECT
 DOMAIN,mvo.qwger.xyz,REJECT
 DOMAIN,mvo.sqa54e.xyz,REJECT
+DOMAIN,mvo.vcbn65.xyz,REJECT
 DOMAIN,mvp.mediav.com,REJECT
 DOMAIN,mvtracker.com,REJECT
 DOMAIN,mw.adwo.com,REJECT
@@ -27873,6 +27876,7 @@ DOMAIN,oodsauns.net,REJECT
 DOMAIN,oodsotso.com,REJECT
 DOMAIN,ooftoomy.com,REJECT
 DOMAIN,oogneenu.net,REJECT
+DOMAIN,oohxa.xyz,REJECT
 DOMAIN,ookedapp.club,REJECT
 DOMAIN,ookmakescole.club,REJECT
 DOMAIN,ookris.oferty-kredytowe.pl,REJECT
@@ -37712,6 +37716,7 @@ DOMAIN,terttalkinhitin.pro,REJECT
 DOMAIN,tescellowin.top,REJECT
 DOMAIN,tesd2x9bpqjd.com,REJECT
 DOMAIN,tesdwpsdxcgsoj.com,REJECT
+DOMAIN,teser.net,REJECT
 DOMAIN,tesfatheleshs.club,REJECT
 DOMAIN,tesfw.com,REJECT
 DOMAIN,tesla.oscaro.com,REJECT
@@ -39560,6 +39565,7 @@ DOMAIN,tvoi-dosug.com,REJECT
 DOMAIN,tvopcxtf.com,REJECT
 DOMAIN,tvpixel.com,REJECT
 DOMAIN,tvprocessing.com,REJECT
+DOMAIN,tvrom.cn,REJECT
 DOMAIN,tvupgrade.yunos.com,REJECT
 DOMAIN,tw-api.vpon.com,REJECT
 DOMAIN,tw.adon.vpon.com,REJECT

@@ -1,11 +1,11 @@
-# Checksum: MTYwNzU0NzgzMQo=
+# Checksum: MTYwNzU1ODk1OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201209-7
-# TimeUpdated: 2020-12-09T21:03:51+00:00
+# Version: 1.6.8-20201210-0
+# TimeUpdated: 2020-12-10T00:09:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45805
+# Total: 45811
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -238,8 +238,6 @@ ff02::3 ip6-allhosts
 :: 0n55f9zgy7.com
 0.0.0.0 0n6h.cn
 :: 0n6h.cn
-0.0.0.0 0o.868iy.cn
-:: 0o.868iy.cn
 0.0.0.0 0oaqgsk54hm5.com
 :: 0oaqgsk54hm5.com
 0.0.0.0 0pyn37dv3m.com
@@ -20222,6 +20220,8 @@ ff02::3 ip6-allhosts
 :: cnbole.net
 0.0.0.0 cncy8.com
 :: cncy8.com
+0.0.0.0 cndijojw.com
+:: cndijojw.com
 0.0.0.0 cndjs-1251973891.coshk.myqcloud.com
 :: cndjs-1251973891.coshk.myqcloud.com
 0.0.0.0 cndmye.ru
@@ -30074,6 +30074,8 @@ ff02::3 ip6-allhosts
 :: eue.d-teknoloji.com.tr
 0.0.0.0 euizhltcd6ih.com
 :: euizhltcd6ih.com
+0.0.0.0 eulbamjx.com
+:: eulbamjx.com
 0.0.0.0 eulerian.belambra.be
 :: eulerian.belambra.be
 0.0.0.0 eulerian.belambra.fr
@@ -41482,6 +41484,8 @@ ff02::3 ip6-allhosts
 :: jbcbio.cn
 0.0.0.0 jbcbuy.com
 :: jbcbuy.com
+0.0.0.0 jbhle.com
+:: jbhle.com
 0.0.0.0 jbm6c54upkui.com
 :: jbm6c54upkui.com
 0.0.0.0 jbovn.com
@@ -52172,6 +52176,8 @@ ff02::3 ip6-allhosts
 :: mvo.qwger.xyz
 0.0.0.0 mvo.sqa54e.xyz
 :: mvo.sqa54e.xyz
+0.0.0.0 mvo.vcbn65.xyz
+:: mvo.vcbn65.xyz
 0.0.0.0 mvp.mediav.com
 :: mvp.mediav.com
 0.0.0.0 mvtracker.com
@@ -55750,6 +55756,8 @@ ff02::3 ip6-allhosts
 :: ooftoomy.com
 0.0.0.0 oogneenu.net
 :: oogneenu.net
+0.0.0.0 oohxa.xyz
+:: oohxa.xyz
 0.0.0.0 ookedapp.club
 :: ookedapp.club
 0.0.0.0 ookmakescole.club
@@ -75428,6 +75436,8 @@ ff02::3 ip6-allhosts
 :: tesd2x9bpqjd.com
 0.0.0.0 tesdwpsdxcgsoj.com
 :: tesdwpsdxcgsoj.com
+0.0.0.0 teser.net
+:: teser.net
 0.0.0.0 tesfatheleshs.club
 :: tesfatheleshs.club
 0.0.0.0 tesfw.com
@@ -79124,6 +79134,8 @@ ff02::3 ip6-allhosts
 :: tvpixel.com
 0.0.0.0 tvprocessing.com
 :: tvprocessing.com
+0.0.0.0 tvrom.cn
+:: tvrom.cn
 0.0.0.0 tvupgrade.yunos.com
 :: tvupgrade.yunos.com
 0.0.0.0 tw-api.vpon.com
