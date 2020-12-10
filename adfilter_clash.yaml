@@ -1,9 +1,9 @@
 payload:
-# Checksum: MTYwNzU5MTA0OQo=
+# Checksum: MTYwNzYwMTkzMgo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-3
-# TimeUpdated: 2020-12-10T09:04:09+00:00
+# Version: 1.6.8-20201210-4
+# TimeUpdated: 2020-12-10T12:05:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 45795
@@ -312,6 +312,7 @@ payload:
   - DOMAIN,12place.com
   - DOMAIN,12xlwin6a.net
   - DOMAIN,13023.url.7wkw.com
+  - DOMAIN,1314sss.top
   - DOMAIN,13190546cd1dec9bbdc.com
   - DOMAIN,133gp.com
   - DOMAIN,133uu.com
@@ -464,7 +465,6 @@ payload:
   - DOMAIN,1traff.ru
   - DOMAIN,1ts18.top
   - DOMAIN,1txt.ru
-  - DOMAIN,1uandun.com
   - DOMAIN,1uejo00npy.buzz
   - DOMAIN,1ulebzhsv7.buzz
   - DOMAIN,1under.ru
@@ -1657,7 +1657,6 @@ payload:
   - DOMAIN,9377or.com
   - DOMAIN,9377os.com
   - DOMAIN,93aihbjs7bv4.com
-  - DOMAIN,93c8c9a28e1db445.com
   - DOMAIN,93ta.cn
   - DOMAIN,941adu.com
   - DOMAIN,944e66f8683ac43c.com
@@ -2065,7 +2064,6 @@ payload:
   - DOMAIN,aa.sdo.com
   - DOMAIN,aa.shgansheng.cn
   - DOMAIN,aa.voice2page.com
-  - DOMAIN,aa.zldh123.com
   - DOMAIN,aa0.pub.funshion.com
   - DOMAIN,aa1.pub.funshion.com
   - DOMAIN,aa24h.com
@@ -2146,7 +2144,6 @@ payload:
   - DOMAIN,abeacon.com
   - DOMAIN,abeaddc65282d465.com
   - DOMAIN,abeforeign.club
-  - DOMAIN,abeij.com
   - DOMAIN,abema-adx.ameba.jp
   - DOMAIN,abergently.club
   - DOMAIN,aberrings.club
@@ -8400,7 +8397,6 @@ payload:
   - DOMAIN,bwb101.goo.ne.jp
   - DOMAIN,bwbw2kje848hsmla.ru
   - DOMAIN,bwinpartypartners.com
-  - DOMAIN,bwjteztqdlg.com
   - DOMAIN,bwp.theinsider.com.com
   - DOMAIN,bwsru.com
   - DOMAIN,bwtsrv.com
@@ -9470,7 +9466,6 @@ payload:
   - DOMAIN,chidsimp.com
   - DOMAIN,chieving.club
   - DOMAIN,chigrikecy.pro
-  - DOMAIN,chikhanos.info
   - DOMAIN,chiliadv.com
   - DOMAIN,chilromy.net
   - DOMAIN,china-cdn3.unityads.unity3d.com
@@ -12273,6 +12268,7 @@ payload:
   - DOMAIN,datafeedfile.com
   - DOMAIN,dataflow.biliapi.com
   - DOMAIN,datafront.co
+  - DOMAIN,datalayer.p7s1.io
   - DOMAIN,datam.com
   - DOMAIN,datamaster.com.cn
   - DOMAIN,datamind.ru
@@ -16638,6 +16634,7 @@ payload:
   - DOMAIN,g.x.evolife.cn
   - DOMAIN,g.xywy.com
   - DOMAIN,g.yccdn.com
+  - DOMAIN,g.youyou234.com
   - DOMAIN,g.zx-jsp.com
   - DOMAIN,g0b2rzzyu87s.com
   - DOMAIN,g1.08160.cn
@@ -20652,6 +20649,7 @@ payload:
   - DOMAIN,j.qiqiww.com
   - DOMAIN,j.qzxmtyy.com
   - DOMAIN,j.s11.cn
+  - DOMAIN,j.sc1369.com
   - DOMAIN,j.sdqoi2d.com
   - DOMAIN,j.taokeweizhan.com
   - DOMAIN,j.uralweb.ru
@@ -32893,6 +32891,7 @@ payload:
   - DOMAIN,s.mlion.cn
   - DOMAIN,s.mxmrt.com
   - DOMAIN,s.ndtzx.com
+  - DOMAIN,s.news.naver.com
   - DOMAIN,s.newsportalssl1.top
   - DOMAIN,s.nvrentao8.com
   - DOMAIN,s.p.youku.com
@@ -38473,6 +38472,7 @@ payload:
   - DOMAIN,toufangzhe.cn
   - DOMAIN,toughopponent.com
   - DOMAIN,touglesy.net
+  - DOMAIN,toujing9.top
   - DOMAIN,toukeedo.com
   - DOMAIN,tour.mrskin.com
   - DOMAIN,tours.imlive.com

@@ -1,8 +1,8 @@
-# Checksum: MTYwNzU5MTA0OQo=
+# Checksum: MTYwNzYwMTkzMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-3
-# TimeUpdated: 2020-12-10T09:04:09+00:00
+# Version: 1.6.8-20201210-4
+# TimeUpdated: 2020-12-10T12:05:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 45795
@@ -626,6 +626,8 @@ ff02::3 ip6-allhosts
 :: 12xlwin6a.net
 0.0.0.0 13023.url.7wkw.com
 :: 13023.url.7wkw.com
+0.0.0.0 1314sss.top
+:: 1314sss.top
 0.0.0.0 13190546cd1dec9bbdc.com
 :: 13190546cd1dec9bbdc.com
 0.0.0.0 133gp.com
@@ -930,8 +932,6 @@ ff02::3 ip6-allhosts
 :: 1ts18.top
 0.0.0.0 1txt.ru
 :: 1txt.ru
-0.0.0.0 1uandun.com
-:: 1uandun.com
 0.0.0.0 1uejo00npy.buzz
 :: 1uejo00npy.buzz
 0.0.0.0 1ulebzhsv7.buzz
@@ -3316,8 +3316,6 @@ ff02::3 ip6-allhosts
 :: 9377os.com
 0.0.0.0 93aihbjs7bv4.com
 :: 93aihbjs7bv4.com
-0.0.0.0 93c8c9a28e1db445.com
-:: 93c8c9a28e1db445.com
 0.0.0.0 93ta.cn
 :: 93ta.cn
 0.0.0.0 941adu.com
@@ -4132,8 +4130,6 @@ ff02::3 ip6-allhosts
 :: aa.shgansheng.cn
 0.0.0.0 aa.voice2page.com
 :: aa.voice2page.com
-0.0.0.0 aa.zldh123.com
-:: aa.zldh123.com
 0.0.0.0 aa0.pub.funshion.com
 :: aa0.pub.funshion.com
 0.0.0.0 aa1.pub.funshion.com
@@ -4294,8 +4290,6 @@ ff02::3 ip6-allhosts
 :: abeaddc65282d465.com
 0.0.0.0 abeforeign.club
 :: abeforeign.club
-0.0.0.0 abeij.com
-:: abeij.com
 0.0.0.0 abema-adx.ameba.jp
 :: abema-adx.ameba.jp
 0.0.0.0 abergently.club
@@ -16802,8 +16796,6 @@ ff02::3 ip6-allhosts
 :: bwbw2kje848hsmla.ru
 0.0.0.0 bwinpartypartners.com
 :: bwinpartypartners.com
-0.0.0.0 bwjteztqdlg.com
-:: bwjteztqdlg.com
 0.0.0.0 bwp.theinsider.com.com
 :: bwp.theinsider.com.com
 0.0.0.0 bwsru.com
@@ -18942,8 +18934,6 @@ ff02::3 ip6-allhosts
 :: chieving.club
 0.0.0.0 chigrikecy.pro
 :: chigrikecy.pro
-0.0.0.0 chikhanos.info
-:: chikhanos.info
 0.0.0.0 chiliadv.com
 :: chiliadv.com
 0.0.0.0 chilromy.net
@@ -24548,6 +24538,8 @@ ff02::3 ip6-allhosts
 :: dataflow.biliapi.com
 0.0.0.0 datafront.co
 :: datafront.co
+0.0.0.0 datalayer.p7s1.io
+:: datalayer.p7s1.io
 0.0.0.0 datam.com
 :: datam.com
 0.0.0.0 datamaster.com.cn
@@ -33278,6 +33270,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -41306,6 +41300,8 @@ ff02::3 ip6-allhosts
 :: j.qzxmtyy.com
 0.0.0.0 j.s11.cn
 :: j.s11.cn
+0.0.0.0 j.sc1369.com
+:: j.sc1369.com
 0.0.0.0 j.sdqoi2d.com
 :: j.sdqoi2d.com
 0.0.0.0 j.taokeweizhan.com
@@ -65788,6 +65784,8 @@ ff02::3 ip6-allhosts
 :: s.mxmrt.com
 0.0.0.0 s.ndtzx.com
 :: s.ndtzx.com
+0.0.0.0 s.news.naver.com
+:: s.news.naver.com
 0.0.0.0 s.newsportalssl1.top
 :: s.newsportalssl1.top
 0.0.0.0 s.nvrentao8.com
@@ -76948,6 +76946,8 @@ ff02::3 ip6-allhosts
 :: toughopponent.com
 0.0.0.0 touglesy.net
 :: touglesy.net
+0.0.0.0 toujing9.top
+:: toujing9.top
 0.0.0.0 toukeedo.com
 :: toukeedo.com
 0.0.0.0 tour.mrskin.com
