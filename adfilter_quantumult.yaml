@@ -1,11 +1,11 @@
-# Checksum: MTYwNzYxMjc4MQo=
+# Checksum: MTYwNzYyMzQ2MAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-5
-# TimeUpdated: 2020-12-10T15:06:21+00:00
+# Version: 1.6.8-20201210-6
+# TimeUpdated: 2020-12-10T18:04:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45797
+# Total: 45799
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1324,6 +1324,7 @@ DOMAIN,7631.com,REJECT
 DOMAIN,7651d44da06c.com,REJECT
 DOMAIN,7667bab1751ff777.com,REJECT
 DOMAIN,766ba.net,REJECT
+DOMAIN,76768hwj.cn,REJECT
 DOMAIN,76802.net,REJECT
 DOMAIN,76aede7d9af.com,REJECT
 DOMAIN,76xs.com,REJECT
@@ -8044,7 +8045,6 @@ DOMAIN,bp776.com,REJECT
 DOMAIN,bpioqb.com,REJECT
 DOMAIN,bposterss.net,REJECT
 DOMAIN,bppzqphtd.com,REJECT
-DOMAIN,bps.sysact.cn,REJECT
 DOMAIN,bptracking.com,REJECT
 DOMAIN,bpyxg.com,REJECT
 DOMAIN,bqhnj.cn,REJECT
@@ -22474,6 +22474,7 @@ DOMAIN,lentduskyscold.com,REJECT
 DOMAIN,lenty.ru,REJECT
 DOMAIN,leoban.ru,REJECT
 DOMAIN,leoceran.pw,REJECT
+DOMAIN,leocgwid.com,REJECT
 DOMAIN,leokross.com,REJECT
 DOMAIN,leonardoadv.it,REJECT
 DOMAIN,leoneaningtoldre.pro,REJECT
@@ -26040,6 +26041,7 @@ DOMAIN,multimater.com,REJECT
 DOMAIN,multipools.beeppool.org,REJECT
 DOMAIN,multiview.com,REJECT
 DOMAIN,multonly.ru,REJECT
+DOMAIN,mumlionslew.com,REJECT
 DOMAIN,mumulian.com,REJECT
 DOMAIN,munchenviableski.com,REJECT
 DOMAIN,munchkin.brightfunnel.com,REJECT
