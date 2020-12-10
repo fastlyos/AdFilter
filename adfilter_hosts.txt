@@ -1,11 +1,11 @@
-# Checksum: MTYwNzU1ODk1OQo=
+# Checksum: MTYwNzU2OTQ3NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-0
-# TimeUpdated: 2020-12-10T00:09:19+00:00
+# Version: 1.6.8-20201210-1
+# TimeUpdated: 2020-12-10T03:04:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45811
+# Total: 45803
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1442,6 +1442,8 @@ ff02::3 ip6-allhosts
 :: 341073be6e9db7d2.com
 0.0.0.0 3412bf88fc05a986e55.com
 :: 3412bf88fc05a986e55.com
+0.0.0.0 344dea1d6d130a7e8e.com
+:: 344dea1d6d130a7e8e.com
 0.0.0.0 34667c8ece5.com
 :: 34667c8ece5.com
 0.0.0.0 348wd7etbann.com
@@ -2550,6 +2552,8 @@ ff02::3 ip6-allhosts
 :: 6ujk8x9soxhm.com
 0.0.0.0 6uwehz1xp4.com
 :: 6uwehz1xp4.com
+0.0.0.0 6v4.cn
+:: 6v4.cn
 0.0.0.0 6vgtaearxl49.com
 :: 6vgtaearxl49.com
 0.0.0.0 6vhao.kkcaicai.com
@@ -3254,6 +3258,8 @@ ff02::3 ip6-allhosts
 :: 91ivr.com
 0.0.0.0 91jsnzw.xyz
 :: 91jsnzw.xyz
+0.0.0.0 91link.xyz
+:: 91link.xyz
 0.0.0.0 91lmgg.com
 :: 91lmgg.com
 0.0.0.0 91luopan.com
@@ -5654,6 +5660,8 @@ ff02::3 ip6-allhosts
 :: adblockotsosal.ru
 0.0.0.0 adblockrelief.com
 :: adblockrelief.com
+0.0.0.0 adblockstream.com
+:: adblockstream.com
 0.0.0.0 adblox.net
 :: adblox.net
 0.0.0.0 adbma.adk2.co
@@ -8300,8 +8308,6 @@ ff02::3 ip6-allhosts
 :: adultsense.com
 0.0.0.0 adultsense.org
 :: adultsense.org
-0.0.0.0 adultsonly.pro
-:: adultsonly.pro
 0.0.0.0 adulttraffic.ru
 :: adulttraffic.ru
 0.0.0.0 adulttubetraffic.com
@@ -11982,8 +11988,6 @@ ff02::3 ip6-allhosts
 :: aquaticalarm.com
 0.0.0.0 aquaticowl.com
 :: aquaticowl.com
-0.0.0.0 aquete.com
-:: aquete.com
 0.0.0.0 ar.atwola.com
 :: ar.atwola.com
 0.0.0.0 ar.i-run.fr
@@ -12972,8 +12976,6 @@ ff02::3 ip6-allhosts
 :: aweinkbum.com
 0.0.0.0 awejarant.club
 :: awejarant.club
-0.0.0.0 awejmp.com
-:: awejmp.com
 0.0.0.0 awelessawelesscedar.com
 :: awelessawelesscedar.com
 0.0.0.0 awempire.com
@@ -13082,6 +13084,8 @@ ff02::3 ip6-allhosts
 :: axizb.cn
 0.0.0.0 axlpf.xyz
 :: axlpf.xyz
+0.0.0.0 axlwizxolfby.com
+:: axlwizxolfby.com
 0.0.0.0 axoncoho.tk
 :: axoncoho.tk
 0.0.0.0 axonix.com
@@ -16180,8 +16184,6 @@ ff02::3 ip6-allhosts
 :: bravo.israelweather.co.il
 0.0.0.0 braze.com
 :: braze.com
-0.0.0.0 brcache.madthumbs.com
-:: brcache.madthumbs.com
 0.0.0.0 brdmin.com
 :: brdmin.com
 0.0.0.0 breadstringscrashed.com
@@ -18840,8 +18842,6 @@ ff02::3 ip6-allhosts
 :: checkingstranglecommunicated.com
 0.0.0.0 checkm8.com
 :: checkm8.com
-0.0.0.0 checkmy.cam
-:: checkmy.cam
 0.0.0.0 checkmygeo.com
 :: checkmygeo.com
 0.0.0.0 checkoutfree.com
@@ -19004,8 +19004,6 @@ ff02::3 ip6-allhosts
 :: choice.microsoft.com.nsatc.net
 0.0.0.0 choinsiden.club
 :: choinsiden.club
-0.0.0.0 chokertraffic.com
-:: chokertraffic.com
 0.0.0.0 choogeet.net
 :: choogeet.net
 0.0.0.0 chooksee.net
@@ -21234,6 +21232,8 @@ ff02::3 ip6-allhosts
 :: cookieassistant.com
 0.0.0.0 cookiechoices.org
 :: cookiechoices.org
+0.0.0.0 cookiefirst.com
+:: cookiefirst.com
 0.0.0.0 cookiehub.net
 :: cookiehub.net
 0.0.0.0 cookieinformation.com
@@ -24558,8 +24558,6 @@ ff02::3 ip6-allhosts
 :: datazhan.com
 0.0.0.0 datcuoc247.com
 :: datcuoc247.com
-0.0.0.0 date-for-more.com
-:: date-for-more.com
 0.0.0.0 date.cursorinfo.co.il
 :: date.cursorinfo.co.il
 0.0.0.0 datedissyuk.icu
@@ -24590,8 +24588,6 @@ ff02::3 ip6-allhosts
 :: datinggold.com
 0.0.0.0 datingidol.com
 :: datingidol.com
-0.0.0.0 datoporn.com
-:: datoporn.com
 0.0.0.0 datvantage.com
 :: datvantage.com
 0.0.0.0 daugloon.net
@@ -30476,8 +30472,6 @@ ff02::3 ip6-allhosts
 :: exercisely.club
 0.0.0.0 exernala.com
 :: exernala.com
-0.0.0.0 exgfpunished.com
-:: exgfpunished.com
 0.0.0.0 exh.xuhuihui.top
 :: exh.xuhuihui.top
 0.0.0.0 exhaustedgemini.com
@@ -32172,8 +32166,6 @@ ff02::3 ip6-allhosts
 :: fnx2n3rqbuw7.com
 0.0.0.0 foagoasu.net
 :: foagoasu.net
-0.0.0.0 foaks.com
-:: foaks.com
 0.0.0.0 foamyfood.com
 :: foamyfood.com
 0.0.0.0 foapsovi.net
@@ -33372,6 +33364,8 @@ ff02::3 ip6-allhosts
 :: g6zkzy0g2g.com
 0.0.0.0 g8cp5djk1j0r.com
 :: g8cp5djk1j0r.com
+0.0.0.0 g8waw1.cn
+:: g8waw1.cn
 0.0.0.0 g9qnk89pd5ic.com
 :: g9qnk89pd5ic.com
 0.0.0.0 ga-analytics.com
@@ -34710,8 +34704,6 @@ ff02::3 ip6-allhosts
 :: globaladsales.com
 0.0.0.0 globaladv.net
 :: globaladv.net
-0.0.0.0 globaldating.online
-:: globaldating.online
 0.0.0.0 globalinteractive.com
 :: globalinteractive.com
 0.0.0.0 globalsiteanalytics.com
@@ -35632,8 +35624,6 @@ ff02::3 ip6-allhosts
 :: grteab.com
 0.0.0.0 grtyj.com
 :: grtyj.com
-0.0.0.0 grtyv.com
-:: grtyv.com
 0.0.0.0 grubfast.com
 :: grubfast.com
 0.0.0.0 grubsoan.com
@@ -43116,8 +43106,6 @@ ff02::3 ip6-allhosts
 :: kaitongyewu.com
 0.0.0.0 kaizenplatform.net
 :: kaizenplatform.net
-0.0.0.0 kaizentraffic.com
-:: kaizentraffic.com
 0.0.0.0 kakam.info
 :: kakam.info
 0.0.0.0 kakappp.com
@@ -43432,6 +43420,8 @@ ff02::3 ip6-allhosts
 :: kgua0o66bcw8.com
 0.0.0.0 kguke.com
 :: kguke.com
+0.0.0.0 kgvzesfexmenm.com
+:: kgvzesfexmenm.com
 0.0.0.0 kgxnaenrozyuh.com
 :: kgxnaenrozyuh.com
 0.0.0.0 khaek.top
@@ -54816,6 +54806,8 @@ ff02::3 ip6-allhosts
 :: nzlydrgumirn.com
 0.0.0.0 nzme-ads.co.nz
 :: nzme-ads.co.nz
+0.0.0.0 nzmelistings.co.nz
+:: nzmelistings.co.nz
 0.0.0.0 nzopiswswp.com
 :: nzopiswswp.com
 0.0.0.0 nzphoenix.com
@@ -55604,6 +55596,8 @@ ff02::3 ip6-allhosts
 :: onepush.query.yahoo.com
 0.0.0.0 onergong.com
 :: onergong.com
+0.0.0.0 oneroof.co.nz
+:: oneroof.co.nz
 0.0.0.0 onerror.cf
 :: onerror.cf
 0.0.0.0 onerror.ga
@@ -60186,8 +60180,6 @@ ff02::3 ip6-allhosts
 :: processor.asccommunications.com
 0.0.0.0 proclivitysystems.com
 :: proclivitysystems.com
-0.0.0.0 prodtraff.com
-:: prodtraff.com
 0.0.0.0 producebreed.com
 :: producebreed.com
 0.0.0.0 producecopy.com
@@ -63932,8 +63924,6 @@ ff02::3 ip6-allhosts
 :: replentcautiful.info
 0.0.0.0 reply.lomark.cn
 :: reply.lomark.cn
-0.0.0.0 repmbuycurl.com
-:: repmbuycurl.com
 0.0.0.0 repo.nimiq.com
 :: repo.nimiq.com
 0.0.0.0 repochuwra.xyz
@@ -64144,8 +64134,6 @@ ff02::3 ip6-allhosts
 :: rest.irs01.com
 0.0.0.0 restartad.com
 :: restartad.com
-0.0.0.0 restions-planted.com
-:: restions-planted.com
 0.0.0.0 restlessringer.com
 :: restlessringer.com
 0.0.0.0 restoring.club
@@ -64286,8 +64274,6 @@ ff02::3 ip6-allhosts
 :: revhpdxqul.com
 0.0.0.0 review78.com
 :: review78.com
-0.0.0.0 reviewdollars.com
-:: reviewdollars.com
 0.0.0.0 reviews.shoppydoo.it
 :: reviews.shoppydoo.it
 0.0.0.0 revimedia.com
@@ -67104,6 +67090,8 @@ ff02::3 ip6-allhosts
 :: scounter.rambler.ru
 0.0.0.0 scout.haymarketmedia.com
 :: scout.haymarketmedia.com
+0.0.0.0 scout.lexisnexis.com
+:: scout.lexisnexis.com
 0.0.0.0 scout.rollcall.com
 :: scout.rollcall.com
 0.0.0.0 scout.us2.salesloft.com
@@ -68374,8 +68362,6 @@ ff02::3 ip6-allhosts
 :: sewhethelesee.info
 0.0.0.0 sex-finger.com
 :: sex-finger.com
-0.0.0.0 sex-journey.com
-:: sex-journey.com
 0.0.0.0 sex1.party
 :: sex1.party
 0.0.0.0 sexad.net
@@ -70136,8 +70122,6 @@ ff02::3 ip6-allhosts
 :: socialrest.com
 0.0.0.0 socialsex.biz
 :: socialsex.biz
-0.0.0.0 socialsex.com
-:: socialsex.com
 0.0.0.0 socialsexnetwork.net
 :: socialsexnetwork.net
 0.0.0.0 socialspark.com
@@ -75642,6 +75626,8 @@ ff02::3 ip6-allhosts
 :: the-adult-company.com
 0.0.0.0 the-binary-trader.biz
 :: the-binary-trader.biz
+0.0.0.0 the-digital-market.net
+:: the-digital-market.net
 0.0.0.0 the-people-group.com
 :: the-people-group.com
 0.0.0.0 theadex.com
@@ -80874,6 +80860,8 @@ ff02::3 ip6-allhosts
 :: v.510vud.cn
 0.0.0.0 v.6dvip.com
 :: v.6dvip.com
+0.0.0.0 v.76768hwj.cn
+:: v.76768hwj.cn
 0.0.0.0 v.9y88.com
 :: v.9y88.com
 0.0.0.0 v.admaster.com.cn
@@ -82414,8 +82402,6 @@ ff02::3 ip6-allhosts
 :: vowoujum.com
 0.0.0.0 voxfind.com
 :: voxfind.com
-0.0.0.0 voyeurbase.com
-:: voyeurbase.com
 0.0.0.0 voyeurhit.com
 :: voyeurhit.com
 0.0.0.0 vozer.voffka.com
@@ -88500,8 +88486,6 @@ ff02::3 ip6-allhosts
 :: xdrig.com
 0.0.0.0 xdssp.mediav.com
 :: xdssp.mediav.com
-0.0.0.0 xdtraffic.com
-:: xdtraffic.com
 0.0.0.0 xdwan.com
 :: xdwan.com
 0.0.0.0 xdyjt.com
