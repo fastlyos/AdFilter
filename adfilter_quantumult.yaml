@@ -1,11 +1,11 @@
-# Checksum: MTYwNzYwMTkzMgo=
+# Checksum: MTYwNzYxMjc4MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-4
-# TimeUpdated: 2020-12-10T12:05:32+00:00
+# Version: 1.6.8-20201210-5
+# TimeUpdated: 2020-12-10T15:06:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45795
+# Total: 45797
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -394,7 +394,6 @@ DOMAIN,18mad.com,REJECT
 DOMAIN,18naked.com,REJECT
 DOMAIN,18rm.com,REJECT
 DOMAIN,18tzx.com,REJECT
-DOMAIN,1904fa460e12a2.com,REJECT
 DOMAIN,1933000.com,REJECT
 DOMAIN,1955dcb2fee1a13.com,REJECT
 DOMAIN,196f25ce95a.com,REJECT
@@ -429,7 +428,6 @@ DOMAIN,1f7de8569ea97f0614.com,REJECT
 DOMAIN,1f7wwaex9rbh.com,REJECT
 DOMAIN,1freecounter.com,REJECT
 DOMAIN,1ftc.cn,REJECT
-DOMAIN,1fwjpdwguvqs.com,REJECT
 DOMAIN,1jsskipuf8sd.com,REJECT
 DOMAIN,1k3static.com,REJECT
 DOMAIN,1klink.ru,REJECT
@@ -1775,6 +1773,7 @@ DOMAIN,a-affiliate.net,REJECT
 DOMAIN,a-calc.com,REJECT
 DOMAIN,a-calc.de,REJECT
 DOMAIN,a-cn.duoyi.com,REJECT
+DOMAIN,a-counter.kiev.ua,REJECT
 DOMAIN,a-counters.com,REJECT
 DOMAIN,a-llq.whbmy.com,REJECT
 DOMAIN,a-m-s.adnonstop.com,REJECT
@@ -3426,7 +3425,6 @@ DOMAIN,adovr.com,REJECT
 DOMAIN,adp.atm.youku.com,REJECT
 DOMAIN,adp.cnool.net,REJECT
 DOMAIN,adp.homes.co.jp,REJECT
-DOMAIN,adp.s8bbs.com,REJECT
 DOMAIN,adp1.cnool.net,REJECT
 DOMAIN,adp4wb.ru,REJECT
 DOMAIN,adpacks.com,REJECT
@@ -8419,7 +8417,6 @@ DOMAIN,bynff.com,REJECT
 DOMAIN,bypassed.ws,REJECT
 DOMAIN,bypbwm.cn,REJECT
 DOMAIN,byspot.com,REJECT
-DOMAIN,bystfied.pro,REJECT
 DOMAIN,bytde.com,REJECT
 DOMAIN,bytecoin.crypto-webminer.com,REJECT
 DOMAIN,bytemgdd.com,REJECT
@@ -8430,7 +8427,6 @@ DOMAIN,byzgoso.ru,REJECT
 DOMAIN,byzoo.org,REJECT
 DOMAIN,bza.co,REJECT
 DOMAIN,bzclk.baidu.com,REJECT
-DOMAIN,bzgxqj.com,REJECT
 DOMAIN,bzidp.com,REJECT
 DOMAIN,bzlwe.com,REJECT
 DOMAIN,bzrpvk.com,REJECT
@@ -9568,7 +9564,6 @@ DOMAIN,circuitewate.space,REJECT
 DOMAIN,circular-counters.com,REJECT
 DOMAIN,circumscribevetofurther.com,REJECT
 DOMAIN,circumstantialobtrusive.com,REJECT
-DOMAIN,cishantao.com,REJECT
 DOMAIN,citinnoiddidn.pro,REJECT
 DOMAIN,citizenshadowrequires.com,REJECT
 DOMAIN,citizenshis.com,REJECT
@@ -16014,6 +16009,7 @@ DOMAIN,flipflap.pro,REJECT
 DOMAIN,flirt4e.com,REJECT
 DOMAIN,flirt4free.com,REJECT
 DOMAIN,flirtingsms.com,REJECT
+DOMAIN,flite.com,REJECT
 DOMAIN,flixcar.com,REJECT
 DOMAIN,flixcontentshop.com,REJECT
 DOMAIN,flixfacts.co.uk,REJECT
@@ -19023,6 +19019,7 @@ DOMAIN,httpring.qq.com,REJECT
 DOMAIN,httpschecker.net,REJECT
 DOMAIN,httpsecurity.org,REJECT
 DOMAIN,httpsjs.com,REJECT
+DOMAIN,htunjeuczuox.com,REJECT
 DOMAIN,htyfmm.com,REJECT
 DOMAIN,huafangzhou.com,REJECT
 DOMAIN,huahuaka.com,REJECT
@@ -20071,6 +20068,7 @@ DOMAIN,infox.sg,REJECT
 DOMAIN,infrashift.com,REJECT
 DOMAIN,infvb.com,REJECT
 DOMAIN,infy.theta.sogoucdn.com,REJECT
+DOMAIN,ingage.tech,REJECT
 DOMAIN,ingameads.gameloft.com,REJECT
 DOMAIN,ingamesads.gameloft.com,REJECT
 DOMAIN,ingcigarettbarro.info,REJECT
@@ -22903,6 +22901,7 @@ DOMAIN,llqd75c56i.com,REJECT
 DOMAIN,llqss.top,REJECT
 DOMAIN,llsidealthhou.top,REJECT
 DOMAIN,llt7f8tomvkb.com,REJECT
+DOMAIN,lltgedci.com,REJECT
 DOMAIN,lluythjwk.com,REJECT
 DOMAIN,lm.35.com,REJECT
 DOMAIN,lm.ijq.tv,REJECT
@@ -26101,6 +26100,7 @@ DOMAIN,mvo.g4rre.xyz,REJECT
 DOMAIN,mvo.j6yh5.xyz,REJECT
 DOMAIN,mvo.m456d.xyz,REJECT
 DOMAIN,mvo.mftgyh.xyz,REJECT
+DOMAIN,mvo.myt7th.xyz,REJECT
 DOMAIN,mvo.osidf.xyz,REJECT
 DOMAIN,mvo.qwger.xyz,REJECT
 DOMAIN,mvo.sqa54e.xyz,REJECT
@@ -31233,6 +31233,7 @@ DOMAIN,quietknowledge.com,REJECT
 DOMAIN,quillion.com,REJECT
 DOMAIN,quinstreet.com,REJECT
 DOMAIN,quintelligence.com,REJECT
+DOMAIN,quintesse.io,REJECT
 DOMAIN,quiptenrice.casa,REJECT
 DOMAIN,quisma.com,REJECT
 DOMAIN,quitsnap-blue.com,REJECT
@@ -38471,7 +38472,6 @@ DOMAIN,toufangke.com,REJECT
 DOMAIN,toufangzhe.cn,REJECT
 DOMAIN,toughopponent.com,REJECT
 DOMAIN,touglesy.net,REJECT
-DOMAIN,toujing9.top,REJECT
 DOMAIN,toukeedo.com,REJECT
 DOMAIN,tour.mrskin.com,REJECT
 DOMAIN,tours.imlive.com,REJECT
@@ -39706,6 +39706,7 @@ DOMAIN,u3y8v8u2.ackcdn.net,REJECT
 DOMAIN,u51.me,REJECT
 DOMAIN,u595sebqih.com,REJECT
 DOMAIN,u6.gg,REJECT
+DOMAIN,u7kgr54jr7.ru,REJECT
 DOMAIN,u8.hujiang.com,REJECT
 DOMAIN,u88.cn,REJECT
 DOMAIN,u8ad.com,REJECT
@@ -44996,6 +44997,7 @@ DOMAIN,ymcdn.cn,REJECT
 DOMAIN,ymcqb.com,REJECT
 DOMAIN,ymetrica.com,REJECT
 DOMAIN,ymetrica1.com,REJECT
+DOMAIN,ymjfhg.com,REJECT
 DOMAIN,ymondardin.club,REJECT
 DOMAIN,ymonetize.com,REJECT
 DOMAIN,ymprove.web.de,REJECT

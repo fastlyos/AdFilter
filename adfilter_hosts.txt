@@ -1,11 +1,11 @@
-# Checksum: MTYwNzYwMTkzMgo=
+# Checksum: MTYwNzYxMjc4MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-4
-# TimeUpdated: 2020-12-10T12:05:32+00:00
+# Version: 1.6.8-20201210-5
+# TimeUpdated: 2020-12-10T15:06:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45795
+# Total: 45797
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -792,8 +792,6 @@ ff02::3 ip6-allhosts
 :: 18rm.com
 0.0.0.0 18tzx.com
 :: 18tzx.com
-0.0.0.0 1904fa460e12a2.com
-:: 1904fa460e12a2.com
 0.0.0.0 1933000.com
 :: 1933000.com
 0.0.0.0 1955dcb2fee1a13.com
@@ -862,8 +860,6 @@ ff02::3 ip6-allhosts
 :: 1freecounter.com
 0.0.0.0 1ftc.cn
 :: 1ftc.cn
-0.0.0.0 1fwjpdwguvqs.com
-:: 1fwjpdwguvqs.com
 0.0.0.0 1jsskipuf8sd.com
 :: 1jsskipuf8sd.com
 0.0.0.0 1k3static.com
@@ -3554,6 +3550,8 @@ ff02::3 ip6-allhosts
 :: a-calc.de
 0.0.0.0 a-cn.duoyi.com
 :: a-cn.duoyi.com
+0.0.0.0 a-counter.kiev.ua
+:: a-counter.kiev.ua
 0.0.0.0 a-counters.com
 :: a-counters.com
 0.0.0.0 a-llq.whbmy.com
@@ -6856,8 +6854,6 @@ ff02::3 ip6-allhosts
 :: adp.cnool.net
 0.0.0.0 adp.homes.co.jp
 :: adp.homes.co.jp
-0.0.0.0 adp.s8bbs.com
-:: adp.s8bbs.com
 0.0.0.0 adp1.cnool.net
 :: adp1.cnool.net
 0.0.0.0 adp4wb.ru
@@ -16842,8 +16838,6 @@ ff02::3 ip6-allhosts
 :: bypbwm.cn
 0.0.0.0 byspot.com
 :: byspot.com
-0.0.0.0 bystfied.pro
-:: bystfied.pro
 0.0.0.0 bytde.com
 :: bytde.com
 0.0.0.0 bytecoin.crypto-webminer.com
@@ -16864,8 +16858,6 @@ ff02::3 ip6-allhosts
 :: bza.co
 0.0.0.0 bzclk.baidu.com
 :: bzclk.baidu.com
-0.0.0.0 bzgxqj.com
-:: bzgxqj.com
 0.0.0.0 bzidp.com
 :: bzidp.com
 0.0.0.0 bzlwe.com
@@ -19140,8 +19132,6 @@ ff02::3 ip6-allhosts
 :: circumscribevetofurther.com
 0.0.0.0 circumstantialobtrusive.com
 :: circumstantialobtrusive.com
-0.0.0.0 cishantao.com
-:: cishantao.com
 0.0.0.0 citinnoiddidn.pro
 :: citinnoiddidn.pro
 0.0.0.0 citizenshadowrequires.com
@@ -32032,6 +32022,8 @@ ff02::3 ip6-allhosts
 :: flirt4free.com
 0.0.0.0 flirtingsms.com
 :: flirtingsms.com
+0.0.0.0 flite.com
+:: flite.com
 0.0.0.0 flixcar.com
 :: flixcar.com
 0.0.0.0 flixcontentshop.com
@@ -38050,6 +38042,8 @@ ff02::3 ip6-allhosts
 :: httpsecurity.org
 0.0.0.0 httpsjs.com
 :: httpsjs.com
+0.0.0.0 htunjeuczuox.com
+:: htunjeuczuox.com
 0.0.0.0 htyfmm.com
 :: htyfmm.com
 0.0.0.0 huafangzhou.com
@@ -40146,6 +40140,8 @@ ff02::3 ip6-allhosts
 :: infvb.com
 0.0.0.0 infy.theta.sogoucdn.com
 :: infy.theta.sogoucdn.com
+0.0.0.0 ingage.tech
+:: ingage.tech
 0.0.0.0 ingameads.gameloft.com
 :: ingameads.gameloft.com
 0.0.0.0 ingamesads.gameloft.com
@@ -45810,6 +45806,8 @@ ff02::3 ip6-allhosts
 :: llsidealthhou.top
 0.0.0.0 llt7f8tomvkb.com
 :: llt7f8tomvkb.com
+0.0.0.0 lltgedci.com
+:: lltgedci.com
 0.0.0.0 lluythjwk.com
 :: lluythjwk.com
 0.0.0.0 lm.35.com
@@ -52206,6 +52204,8 @@ ff02::3 ip6-allhosts
 :: mvo.m456d.xyz
 0.0.0.0 mvo.mftgyh.xyz
 :: mvo.mftgyh.xyz
+0.0.0.0 mvo.myt7th.xyz
+:: mvo.myt7th.xyz
 0.0.0.0 mvo.osidf.xyz
 :: mvo.osidf.xyz
 0.0.0.0 mvo.qwger.xyz
@@ -62470,6 +62470,8 @@ ff02::3 ip6-allhosts
 :: quinstreet.com
 0.0.0.0 quintelligence.com
 :: quintelligence.com
+0.0.0.0 quintesse.io
+:: quintesse.io
 0.0.0.0 quiptenrice.casa
 :: quiptenrice.casa
 0.0.0.0 quisma.com
@@ -76946,8 +76948,6 @@ ff02::3 ip6-allhosts
 :: toughopponent.com
 0.0.0.0 touglesy.net
 :: touglesy.net
-0.0.0.0 toujing9.top
-:: toujing9.top
 0.0.0.0 toukeedo.com
 :: toukeedo.com
 0.0.0.0 tour.mrskin.com
@@ -79416,6 +79416,8 @@ ff02::3 ip6-allhosts
 :: u595sebqih.com
 0.0.0.0 u6.gg
 :: u6.gg
+0.0.0.0 u7kgr54jr7.ru
+:: u7kgr54jr7.ru
 0.0.0.0 u8.hujiang.com
 :: u8.hujiang.com
 0.0.0.0 u88.cn
@@ -89996,6 +89998,8 @@ ff02::3 ip6-allhosts
 :: ymetrica.com
 0.0.0.0 ymetrica1.com
 :: ymetrica1.com
+0.0.0.0 ymjfhg.com
+:: ymjfhg.com
 0.0.0.0 ymondardin.club
 :: ymondardin.club
 0.0.0.0 ymonetize.com

@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzYwMTkzMgo=
+# Checksum: MTYwNzYxMjc4MQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-4
-# TimeUpdated: 2020-12-10T12:05:32+00:00
+# Version: 1.6.8-20201210-5
+# TimeUpdated: 2020-12-10T15:06:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45795
+# Total: 45797
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -395,7 +395,6 @@ payload:
   - DOMAIN,18naked.com
   - DOMAIN,18rm.com
   - DOMAIN,18tzx.com
-  - DOMAIN,1904fa460e12a2.com
   - DOMAIN,1933000.com
   - DOMAIN,1955dcb2fee1a13.com
   - DOMAIN,196f25ce95a.com
@@ -430,7 +429,6 @@ payload:
   - DOMAIN,1f7wwaex9rbh.com
   - DOMAIN,1freecounter.com
   - DOMAIN,1ftc.cn
-  - DOMAIN,1fwjpdwguvqs.com
   - DOMAIN,1jsskipuf8sd.com
   - DOMAIN,1k3static.com
   - DOMAIN,1klink.ru
@@ -1776,6 +1774,7 @@ payload:
   - DOMAIN,a-calc.com
   - DOMAIN,a-calc.de
   - DOMAIN,a-cn.duoyi.com
+  - DOMAIN,a-counter.kiev.ua
   - DOMAIN,a-counters.com
   - DOMAIN,a-llq.whbmy.com
   - DOMAIN,a-m-s.adnonstop.com
@@ -3427,7 +3426,6 @@ payload:
   - DOMAIN,adp.atm.youku.com
   - DOMAIN,adp.cnool.net
   - DOMAIN,adp.homes.co.jp
-  - DOMAIN,adp.s8bbs.com
   - DOMAIN,adp1.cnool.net
   - DOMAIN,adp4wb.ru
   - DOMAIN,adpacks.com
@@ -8420,7 +8418,6 @@ payload:
   - DOMAIN,bypassed.ws
   - DOMAIN,bypbwm.cn
   - DOMAIN,byspot.com
-  - DOMAIN,bystfied.pro
   - DOMAIN,bytde.com
   - DOMAIN,bytecoin.crypto-webminer.com
   - DOMAIN,bytemgdd.com
@@ -8431,7 +8428,6 @@ payload:
   - DOMAIN,byzoo.org
   - DOMAIN,bza.co
   - DOMAIN,bzclk.baidu.com
-  - DOMAIN,bzgxqj.com
   - DOMAIN,bzidp.com
   - DOMAIN,bzlwe.com
   - DOMAIN,bzrpvk.com
@@ -9569,7 +9565,6 @@ payload:
   - DOMAIN,circular-counters.com
   - DOMAIN,circumscribevetofurther.com
   - DOMAIN,circumstantialobtrusive.com
-  - DOMAIN,cishantao.com
   - DOMAIN,citinnoiddidn.pro
   - DOMAIN,citizenshadowrequires.com
   - DOMAIN,citizenshis.com
@@ -16015,6 +16010,7 @@ payload:
   - DOMAIN,flirt4e.com
   - DOMAIN,flirt4free.com
   - DOMAIN,flirtingsms.com
+  - DOMAIN,flite.com
   - DOMAIN,flixcar.com
   - DOMAIN,flixcontentshop.com
   - DOMAIN,flixfacts.co.uk
@@ -19024,6 +19020,7 @@ payload:
   - DOMAIN,httpschecker.net
   - DOMAIN,httpsecurity.org
   - DOMAIN,httpsjs.com
+  - DOMAIN,htunjeuczuox.com
   - DOMAIN,htyfmm.com
   - DOMAIN,huafangzhou.com
   - DOMAIN,huahuaka.com
@@ -20072,6 +20069,7 @@ payload:
   - DOMAIN,infrashift.com
   - DOMAIN,infvb.com
   - DOMAIN,infy.theta.sogoucdn.com
+  - DOMAIN,ingage.tech
   - DOMAIN,ingameads.gameloft.com
   - DOMAIN,ingamesads.gameloft.com
   - DOMAIN,ingcigarettbarro.info
@@ -22904,6 +22902,7 @@ payload:
   - DOMAIN,llqss.top
   - DOMAIN,llsidealthhou.top
   - DOMAIN,llt7f8tomvkb.com
+  - DOMAIN,lltgedci.com
   - DOMAIN,lluythjwk.com
   - DOMAIN,lm.35.com
   - DOMAIN,lm.ijq.tv
@@ -26102,6 +26101,7 @@ payload:
   - DOMAIN,mvo.j6yh5.xyz
   - DOMAIN,mvo.m456d.xyz
   - DOMAIN,mvo.mftgyh.xyz
+  - DOMAIN,mvo.myt7th.xyz
   - DOMAIN,mvo.osidf.xyz
   - DOMAIN,mvo.qwger.xyz
   - DOMAIN,mvo.sqa54e.xyz
@@ -31234,6 +31234,7 @@ payload:
   - DOMAIN,quillion.com
   - DOMAIN,quinstreet.com
   - DOMAIN,quintelligence.com
+  - DOMAIN,quintesse.io
   - DOMAIN,quiptenrice.casa
   - DOMAIN,quisma.com
   - DOMAIN,quitsnap-blue.com
@@ -38472,7 +38473,6 @@ payload:
   - DOMAIN,toufangzhe.cn
   - DOMAIN,toughopponent.com
   - DOMAIN,touglesy.net
-  - DOMAIN,toujing9.top
   - DOMAIN,toukeedo.com
   - DOMAIN,tour.mrskin.com
   - DOMAIN,tours.imlive.com
@@ -39707,6 +39707,7 @@ payload:
   - DOMAIN,u51.me
   - DOMAIN,u595sebqih.com
   - DOMAIN,u6.gg
+  - DOMAIN,u7kgr54jr7.ru
   - DOMAIN,u8.hujiang.com
   - DOMAIN,u88.cn
   - DOMAIN,u8ad.com
@@ -44997,6 +44998,7 @@ payload:
   - DOMAIN,ymcqb.com
   - DOMAIN,ymetrica.com
   - DOMAIN,ymetrica1.com
+  - DOMAIN,ymjfhg.com
   - DOMAIN,ymondardin.club
   - DOMAIN,ymonetize.com
   - DOMAIN,ymprove.web.de
