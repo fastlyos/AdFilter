@@ -1,11 +1,11 @@
-# Checksum: MTYwNzU4MDI4Nwo=
+# Checksum: MTYwNzU5MTA0OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201210-2
-# TimeUpdated: 2020-12-10T06:04:47+00:00
+# Version: 1.6.8-20201210-3
+# TimeUpdated: 2020-12-10T09:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45812
+# Total: 45795
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1978,6 +1978,8 @@ ff02::3 ip6-allhosts
 :: 517heiya.com
 0.0.0.0 517m.cn
 :: 517m.cn
+0.0.0.0 517pass.com
+:: 517pass.com
 0.0.0.0 517pn6he9p5r.com
 :: 517pn6he9p5r.com
 0.0.0.0 518.sdinfo.net
@@ -2614,8 +2616,6 @@ ff02::3 ip6-allhosts
 :: 727709ccb24101c8.com
 0.0.0.0 72b8869dfc34690.com
 :: 72b8869dfc34690.com
-0.0.0.0 72by5spj.top
-:: 72by5spj.top
 0.0.0.0 72zh.cn
 :: 72zh.cn
 0.0.0.0 73508.com
@@ -2822,8 +2822,6 @@ ff02::3 ip6-allhosts
 :: 7m307.cn
 0.0.0.0 7mnpeh.com1.z0.glb.clouddn.com
 :: 7mnpeh.com1.z0.glb.clouddn.com
-0.0.0.0 7mu36somt5.com
-:: 7mu36somt5.com
 0.0.0.0 7mx.eider.com
 :: 7mx.eider.com
 0.0.0.0 7n32vb7tn4w7n373a.top
@@ -3156,8 +3154,6 @@ ff02::3 ip6-allhosts
 :: 8gzijqo4c85j.com
 0.0.0.0 8ixrxa2tnr.com
 :: 8ixrxa2tnr.com
-0.0.0.0 8jd2lfsq.me
-:: 8jd2lfsq.me
 0.0.0.0 8jkx.com
 :: 8jkx.com
 0.0.0.0 8le8le.com
@@ -8848,8 +8844,6 @@ ff02::3 ip6-allhosts
 :: adyoulike.com
 0.0.0.0 adysis.com
 :: adysis.com
-0.0.0.0 adytx.com
-:: adytx.com
 0.0.0.0 adyun.com
 :: adyun.com
 0.0.0.0 adz.co.zw
@@ -9826,8 +9820,6 @@ ff02::3 ip6-allhosts
 :: alfatarget.ru
 0.0.0.0 alfatraffic.com
 :: alfatraffic.com
-0.0.0.0 alflying.bid
-:: alflying.bid
 0.0.0.0 alflying.win
 :: alflying.win
 0.0.0.0 alfynetwork.com
@@ -11980,6 +11972,8 @@ ff02::3 ip6-allhosts
 :: apyoth.com
 0.0.0.0 apytrc.com
 :: apytrc.com
+0.0.0.0 apyuelang.com
+:: apyuelang.com
 0.0.0.0 aq360.club
 :: aq360.club
 0.0.0.0 aqfhhfqarukys.com
@@ -14420,8 +14414,6 @@ ff02::3 ip6-allhosts
 :: be-notified.com
 0.0.0.0 be.sinbinchina.cn
 :: be.sinbinchina.cn
-0.0.0.0 be2anywhere.com
-:: be2anywhere.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
 :: beacon-fullpage-predictor.goguardian.com
 0.0.0.0 beacon.affil.walmart.com
@@ -14790,6 +14782,8 @@ ff02::3 ip6-allhosts
 :: besc.baidustatic.com
 0.0.0.0 beserte.pro
 :: beserte.pro
+0.0.0.0 besguses.pro
+:: besguses.pro
 0.0.0.0 beshtienhr2hd8j09.com
 :: beshtienhr2hd8j09.com
 0.0.0.0 besiasmere.site
@@ -15936,8 +15930,6 @@ ff02::3 ip6-allhosts
 :: bookmrk.us
 0.0.0.0 bookofsex.com
 :: bookofsex.com
-0.0.0.0 boolff.com
-:: boolff.com
 0.0.0.0 boom-boom-vroom.com
 :: boom-boom-vroom.com
 0.0.0.0 boom.1ccbt.com
@@ -32600,8 +32592,6 @@ ff02::3 ip6-allhosts
 :: freecontent.date
 0.0.0.0 freecontent.info
 :: freecontent.info
-0.0.0.0 freecontent.loan
-:: freecontent.loan
 0.0.0.0 freecontent.net
 :: freecontent.net
 0.0.0.0 freecontent.stream
@@ -33288,8 +33278,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -33486,8 +33474,6 @@ ff02::3 ip6-allhosts
 :: gagkf.top
 0.0.0.0 gagnibcan.com
 :: gagnibcan.com
-0.0.0.0 gagnifie.com
-:: gagnifie.com
 0.0.0.0 gagpetwet.com
 :: gagpetwet.com
 0.0.0.0 gaietyejection.com
@@ -35758,8 +35744,6 @@ ff02::3 ip6-allhosts
 :: gtmucs.cn
 0.0.0.0 gtnde.com
 :: gtnde.com
-0.0.0.0 gtnmyddlf.com
-:: gtnmyddlf.com
 0.0.0.0 gtop.ro
 :: gtop.ro
 0.0.0.0 gtopstats.com
@@ -42198,6 +42182,8 @@ ff02::3 ip6-allhosts
 :: jpllzuuvku.com
 0.0.0.0 jppolid-track.trackprod.integration.jppol.dk
 :: jppolid-track.trackprod.integration.jppol.dk
+0.0.0.0 jprddctf.com
+:: jprddctf.com
 0.0.0.0 jpush.cn
 :: jpush.cn
 0.0.0.0 jpush.html5.qq.com
@@ -42914,8 +42900,6 @@ ff02::3 ip6-allhosts
 :: jutou5.com
 0.0.0.0 jutyledu.pro
 :: jutyledu.pro
-0.0.0.0 juuwyyvjecnvps.com
-:: juuwyyvjecnvps.com
 0.0.0.0 jux9ms4vc7.ru
 :: jux9ms4vc7.ru
 0.0.0.0 juxiangyou.com
@@ -43710,8 +43694,6 @@ ff02::3 ip6-allhosts
 :: klapenlyidveln.stream
 0.0.0.0 klayiwpzjk.com
 :: klayiwpzjk.com
-0.0.0.0 klca5rlwdr.com
-:: klca5rlwdr.com
 0.0.0.0 kldmm.com
 :: kldmm.com
 0.0.0.0 klert.com
@@ -43960,6 +43942,8 @@ ff02::3 ip6-allhosts
 :: kpdn.ru
 0.0.0.0 kpehltcnwo.com
 :: kpehltcnwo.com
+0.0.0.0 kpflkjpsdgnc.com
+:: kpflkjpsdgnc.com
 0.0.0.0 kpqnj.top
 :: kpqnj.top
 0.0.0.0 kpshx.douguo.com
@@ -44034,8 +44018,6 @@ ff02::3 ip6-allhosts
 :: kthxd.lu.sogou.com
 0.0.0.0 ktivn.uranus.sogou.com
 :: ktivn.uranus.sogou.com
-0.0.0.0 ktjcrhdppesdd.com
-:: ktjcrhdppesdd.com
 0.0.0.0 ktoloto.com
 :: ktoloto.com
 0.0.0.0 ktqcxbhghxp.com
@@ -44082,8 +44064,6 @@ ff02::3 ip6-allhosts
 :: kuaiyan.com
 0.0.0.0 kuaizitech.com
 :: kuaizitech.com
-0.0.0.0 kubichpbtjdvo.com
-:: kubichpbtjdvo.com
 0.0.0.0 kucent.com
 :: kucent.com
 0.0.0.0 kudifish.com
@@ -44490,6 +44470,8 @@ ff02::3 ip6-allhosts
 :: langren85.com
 0.0.0.0 languagelake.com
 :: languagelake.com
+0.0.0.0 lanistaads.com
+:: lanistaads.com
 0.0.0.0 lanistaconcepts.com
 :: lanistaconcepts.com
 0.0.0.0 lanshi021.com
@@ -45338,8 +45320,6 @@ ff02::3 ip6-allhosts
 :: lightminer.co
 0.0.0.0 lightversionhotel.com
 :: lightversionhotel.com
-0.0.0.0 lignorange.com
-:: lignorange.com
 0.0.0.0 lijie1010.top
 :: lijie1010.top
 0.0.0.0 lijit.com
@@ -47854,8 +47834,6 @@ ff02::3 ip6-allhosts
 :: m.nmzqhx.com
 0.0.0.0 m.nq37f.cn
 :: m.nq37f.cn
-0.0.0.0 m.nwxzs.com
-:: m.nwxzs.com
 0.0.0.0 m.nxypz.com
 :: m.nxypz.com
 0.0.0.0 m.nydjsm.cn
@@ -47868,8 +47846,6 @@ ff02::3 ip6-allhosts
 :: m.omztf.cn
 0.0.0.0 m.openv.tv
 :: m.openv.tv
-0.0.0.0 m.opqsr.com
-:: m.opqsr.com
 0.0.0.0 m.panda.voiceads.cn
 :: m.panda.voiceads.cn
 0.0.0.0 m.panwenjun.top
@@ -47922,8 +47898,6 @@ ff02::3 ip6-allhosts
 :: m.qj10b.cn
 0.0.0.0 m.qulishi.com
 :: m.qulishi.com
-0.0.0.0 m.qusub.com
-:: m.qusub.com
 0.0.0.0 m.qxyu.top
 :: m.qxyu.top
 0.0.0.0 m.qy869.cn
@@ -48098,8 +48072,6 @@ ff02::3 ip6-allhosts
 :: m.wikigifth.com
 0.0.0.0 m.wkjava.top
 :: m.wkjava.top
-0.0.0.0 m.wnxcg.com
-:: m.wnxcg.com
 0.0.0.0 m.wonwg.com
 :: m.wonwg.com
 0.0.0.0 m.wooboo.com.cn
@@ -48798,8 +48770,6 @@ ff02::3 ip6-allhosts
 :: marchedcredulity.com
 0.0.0.0 marchites.club
 :: marchites.club
-0.0.0.0 marcycoin.org
-:: marcycoin.org
 0.0.0.0 marerajahcopied.com
 :: marerajahcopied.com
 0.0.0.0 marfeel.mgr.consensu.org
@@ -51786,8 +51756,6 @@ ff02::3 ip6-allhosts
 :: mpzw.com
 0.0.0.0 mqcwr.cn
 :: mqcwr.cn
-0.0.0.0 mqhjvfeiiucga.com
-:: mqhjvfeiiucga.com
 0.0.0.0 mqmh.uihdlx.xyz
 :: mqmh.uihdlx.xyz
 0.0.0.0 mqq.zgdmsj.cn
@@ -52266,8 +52234,6 @@ ff02::3 ip6-allhosts
 :: mwh.zhangranfilm.com
 0.0.0.0 mwhjamwra.com
 :: mwhjamwra.com
-0.0.0.0 mwlucuvbyrff.com
-:: mwlucuvbyrff.com
 0.0.0.0 mwnodes.viaxmr.com
 :: mwnodes.viaxmr.com
 0.0.0.0 mwor.gq
@@ -62194,6 +62160,8 @@ ff02::3 ip6-allhosts
 :: qload.ru
 0.0.0.0 qlog.adap.tv
 :: qlog.adap.tv
+0.0.0.0 qmhigtmwikvzin.com
+:: qmhigtmwikvzin.com
 0.0.0.0 qmiypgoukkl.com
 :: qmiypgoukkl.com
 0.0.0.0 qmkdy.com
@@ -66690,8 +66658,6 @@ ff02::3 ip6-allhosts
 :: same.chinadaily.com.cn
 0.0.0.0 same.eastmoney.com
 :: same.eastmoney.com
-0.0.0.0 same.jrj.com.cn
-:: same.jrj.com.cn
 0.0.0.0 same.stockstar.com
 :: same.stockstar.com
 0.0.0.0 samestretch.com
@@ -80374,6 +80340,8 @@ ff02::3 ip6-allhosts
 :: urbanproxy.eu
 0.0.0.0 urc.taboolasyndication.com
 :: urc.taboolasyndication.com
+0.0.0.0 urcakbypjfvsq.com
+:: urcakbypjfvsq.com
 0.0.0.0 urchin.5173.com
 :: urchin.5173.com
 0.0.0.0 urchin.lstat.youku.com
@@ -89792,8 +89760,6 @@ ff02::3 ip6-allhosts
 :: yicpx.com
 0.0.0.0 yidaweb.com
 :: yidaweb.com
-0.0.0.0 yidiansurong.com
-:: yidiansurong.com
 0.0.0.0 yidu.cc
 :: yidu.cc
 0.0.0.0 yie4zooseif.info
