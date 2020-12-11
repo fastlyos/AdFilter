@@ -1,11 +1,11 @@
-# Checksum: MTYwNzY4ODMwMgo=
+# Checksum: MTYwNzY5OTA3NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-4
-# TimeUpdated: 2020-12-11T12:05:02+00:00
+# Version: 1.6.8-20201211-5
+# TimeUpdated: 2020-12-11T15:04:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45792
+# Total: 45799
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1436,8 +1436,6 @@ ff02::3 ip6-allhosts
 :: 341073be6e9db7d2.com
 0.0.0.0 3412bf88fc05a986e55.com
 :: 3412bf88fc05a986e55.com
-0.0.0.0 344dea1d6d130a7e8e.com
-:: 344dea1d6d130a7e8e.com
 0.0.0.0 34667c8ece5.com
 :: 34667c8ece5.com
 0.0.0.0 348wd7etbann.com
@@ -2664,8 +2662,6 @@ ff02::3 ip6-allhosts
 :: 76xs.com
 0.0.0.0 7713gsefc0.com
 :: 7713gsefc0.com
-0.0.0.0 771b92b0ca0963e.com
-:: 771b92b0ca0963e.com
 0.0.0.0 772773a.com
 :: 772773a.com
 0.0.0.0 77417.cn
@@ -14184,6 +14180,8 @@ ff02::3 ip6-allhosts
 :: bd05qvt.co.ua
 0.0.0.0 bd1-china.6789.com
 :: bd1-china.6789.com
+0.0.0.0 bd1-china.xsfaya.com
+:: bd1-china.xsfaya.com
 0.0.0.0 bd1.365qilu.com
 :: bd1.365qilu.com
 0.0.0.0 bd1.52che.com
@@ -27870,6 +27868,8 @@ ff02::3 ip6-allhosts
 :: e.ricpt.com
 0.0.0.0 e.sanitwealth.com
 :: e.sanitwealth.com
+0.0.0.0 e.shenyunkeji.com
+:: e.shenyunkeji.com
 0.0.0.0 e.sogou.com
 :: e.sogou.com
 0.0.0.0 e.suehy.com
@@ -41398,6 +41398,8 @@ ff02::3 ip6-allhosts
 :: jadepay-faucet.beeppool.org
 0.0.0.0 jads.co
 :: jads.co
+0.0.0.0 jaftouja.net
+:: jaftouja.net
 0.0.0.0 jagcn.com
 :: jagcn.com
 0.0.0.0 jagoiklan.com
@@ -41920,8 +41922,6 @@ ff02::3 ip6-allhosts
 :: jistaumt.com
 0.0.0.0 jisucn.com
 :: jisucn.com
-0.0.0.0 jisufeifei.com
-:: jisufeifei.com
 0.0.0.0 jitdknclhdpfzyvkio.bid
 :: jitdknclhdpfzyvkio.bid
 0.0.0.0 jiubuhua.com
@@ -52312,8 +52312,6 @@ ff02::3 ip6-allhosts
 :: mxcdn2.now.sh
 0.0.0.0 mxcount.com
 :: mxcount.com
-0.0.0.0 mxhbkj.cn
-:: mxhbkj.cn
 0.0.0.0 mxjptfrxqaavdc.com
 :: mxjptfrxqaavdc.com
 0.0.0.0 mxm.plipala.com
@@ -55920,6 +55918,8 @@ ff02::3 ip6-allhosts
 :: open-pixon.ads-pixiv.net
 0.0.0.0 open-uc.cn
 :: open-uc.cn
+0.0.0.0 open-up.it
+:: open-up.it
 0.0.0.0 open.delivery.net
 :: open.delivery.net
 0.0.0.0 open.e.kuaishou.com
@@ -59376,6 +59376,8 @@ ff02::3 ip6-allhosts
 :: politfoxrf.ru
 0.0.0.0 polituremil.club
 :: polituremil.club
+0.0.0.0 pollscoopiffy.com
+:: pollscoopiffy.com
 0.0.0.0 polluxnetwork.com
 :: polluxnetwork.com
 0.0.0.0 polmontventures.com
@@ -61210,6 +61212,8 @@ ff02::3 ip6-allhosts
 :: purrbodygyp.com
 0.0.0.0 purrenches.top
 :: purrenches.top
+0.0.0.0 pursediscern.com
+:: pursediscern.com
 0.0.0.0 pusatiklan.com
 :: pusatiklan.com
 0.0.0.0 pusbaysgreedy.icu
@@ -68618,6 +68622,8 @@ ff02::3 ip6-allhosts
 :: sharegods.com
 0.0.0.0 shareitpp.com
 :: shareitpp.com
+0.0.0.0 sharemedia.top
+:: sharemedia.top
 0.0.0.0 sharenice.org
 :: sharenice.org
 0.0.0.0 shareresults.com
@@ -74914,6 +74920,8 @@ ff02::3 ip6-allhosts
 :: tcad.wedolook.com
 0.0.0.0 tcadops.ca
 :: tcadops.ca
+0.0.0.0 tcadserver.rain-digital.ca
+:: tcadserver.rain-digital.ca
 0.0.0.0 tcbox.baidu.com
 :: tcbox.baidu.com
 0.0.0.0 tccbanner.com
@@ -76310,6 +76318,8 @@ ff02::3 ip6-allhosts
 :: tktracker.aotter.net
 0.0.0.0 tl.tradetracker.net
 :: tl.tradetracker.net
+0.0.0.0 tl2go.com
+:: tl2go.com
 0.0.0.0 tl813.com
 :: tl813.com
 0.0.0.0 tlafu.space
@@ -76328,6 +76338,8 @@ ff02::3 ip6-allhosts
 :: tlootas.org
 0.0.0.0 tlp5.mimale.com
 :: tlp5.mimale.com
+0.0.0.0 tlrrlomssbt.com
+:: tlrrlomssbt.com
 0.0.0.0 tlvmedia.com
 :: tlvmedia.com
 0.0.0.0 tm-banners.gamingadult.com
@@ -79434,8 +79446,6 @@ ff02::3 ip6-allhosts
 :: ubnwujaioruel.com
 0.0.0.0 ubt.berlingskemedia.net
 :: ubt.berlingskemedia.net
-0.0.0.0 ububyiw6655.xyz
-:: ububyiw6655.xyz
 0.0.0.0 ubuntudeal.co.za
 :: ubuntudeal.co.za
 0.0.0.0 ubxxnfcatv.com
@@ -80508,6 +80518,8 @@ ff02::3 ip6-allhosts
 :: usemax.de
 0.0.0.0 usemaxserver.de
 :: usemaxserver.de
+0.0.0.0 usenet-nl.top
+:: usenet-nl.top
 0.0.0.0 usenet.world
 :: usenet.world
 0.0.0.0 usenetjunction.com
@@ -82830,6 +82842,8 @@ ff02::3 ip6-allhosts
 :: waihui518.com
 0.0.0.0 wailay.com
 :: wailay.com
+0.0.0.0 waisheph.com
+:: waisheph.com
 0.0.0.0 waistcoataskeddone.com
 :: waistcoataskeddone.com
 0.0.0.0 waistcoatfast.com

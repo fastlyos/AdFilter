@@ -1,11 +1,11 @@
-# Checksum: MTYwNzY4ODMwMgo=
+# Checksum: MTYwNzY5OTA3NAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-4
-# TimeUpdated: 2020-12-11T12:05:02+00:00
+# Version: 1.6.8-20201211-5
+# TimeUpdated: 2020-12-11T15:04:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45792
+# Total: 45799
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -716,7 +716,6 @@ DOMAIN,33ae985c0ea917.com,REJECT
 DOMAIN,340ca72733c9e46fb1.com,REJECT
 DOMAIN,341073be6e9db7d2.com,REJECT
 DOMAIN,3412bf88fc05a986e55.com,REJECT
-DOMAIN,344dea1d6d130a7e8e.com,REJECT
 DOMAIN,34667c8ece5.com,REJECT
 DOMAIN,348wd7etbann.com,REJECT
 DOMAIN,34baedd2d0b9.com,REJECT
@@ -1330,7 +1329,6 @@ DOMAIN,76802.net,REJECT
 DOMAIN,76aede7d9af.com,REJECT
 DOMAIN,76xs.com,REJECT
 DOMAIN,7713gsefc0.com,REJECT
-DOMAIN,771b92b0ca0963e.com,REJECT
 DOMAIN,772773a.com,REJECT
 DOMAIN,77417.cn,REJECT
 DOMAIN,7759.com,REJECT
@@ -7090,6 +7088,7 @@ DOMAIN,bd.soarfi.cn,REJECT
 DOMAIN,bd01.daqiso.com,REJECT
 DOMAIN,bd05qvt.co.ua,REJECT
 DOMAIN,bd1-china.6789.com,REJECT
+DOMAIN,bd1-china.xsfaya.com,REJECT
 DOMAIN,bd1.365qilu.com,REJECT
 DOMAIN,bd1.52che.com,REJECT
 DOMAIN,bd1.99danji.com,REJECT
@@ -13933,6 +13932,7 @@ DOMAIN,e.qy869.cn,REJECT
 DOMAIN,e.rcaiu.com,REJECT
 DOMAIN,e.ricpt.com,REJECT
 DOMAIN,e.sanitwealth.com,REJECT
+DOMAIN,e.shenyunkeji.com,REJECT
 DOMAIN,e.sogou.com,REJECT
 DOMAIN,e.suehy.com,REJECT
 DOMAIN,e.swujhkc.cn,REJECT
@@ -20697,6 +20697,7 @@ DOMAIN,jadedjoke.com,REJECT
 DOMAIN,jadeitite.com,REJECT
 DOMAIN,jadepay-faucet.beeppool.org,REJECT
 DOMAIN,jads.co,REJECT
+DOMAIN,jaftouja.net,REJECT
 DOMAIN,jagcn.com,REJECT
 DOMAIN,jagoiklan.com,REJECT
 DOMAIN,jagopromo.com,REJECT
@@ -20958,7 +20959,6 @@ DOMAIN,jisbar.com,REJECT
 DOMAIN,jisitechiatrixconc.fun,REJECT
 DOMAIN,jistaumt.com,REJECT
 DOMAIN,jisucn.com,REJECT
-DOMAIN,jisufeifei.com,REJECT
 DOMAIN,jitdknclhdpfzyvkio.bid,REJECT
 DOMAIN,jiubuhua.com,REJECT
 DOMAIN,jiudiandyw.com,REJECT
@@ -26154,7 +26154,6 @@ DOMAIN,mxcdn.net,REJECT
 DOMAIN,mxcdn1.now.sh,REJECT
 DOMAIN,mxcdn2.now.sh,REJECT
 DOMAIN,mxcount.com,REJECT
-DOMAIN,mxhbkj.cn,REJECT
 DOMAIN,mxjptfrxqaavdc.com,REJECT
 DOMAIN,mxm.plipala.com,REJECT
 DOMAIN,mxmrt.com,REJECT
@@ -27958,6 +27957,7 @@ DOMAIN,opehs.tanx.com,REJECT
 DOMAIN,opekoobs.net,REJECT
 DOMAIN,open-pixon.ads-pixiv.net,REJECT
 DOMAIN,open-uc.cn,REJECT
+DOMAIN,open-up.it,REJECT
 DOMAIN,open.delivery.net,REJECT
 DOMAIN,open.e.kuaishou.com,REJECT
 DOMAIN,open.lalanuz.cn,REJECT
@@ -29686,6 +29686,7 @@ DOMAIN,politegoldfish.com,REJECT
 DOMAIN,politfox.ru,REJECT
 DOMAIN,politfoxrf.ru,REJECT
 DOMAIN,polituremil.club,REJECT
+DOMAIN,pollscoopiffy.com,REJECT
 DOMAIN,polluxnetwork.com,REJECT
 DOMAIN,polmontventures.com,REJECT
 DOMAIN,polyad.galaxypub.vn,REJECT
@@ -30603,6 +30604,7 @@ DOMAIN,purpreine.co,REJECT
 DOMAIN,purpulium.com,REJECT
 DOMAIN,purrbodygyp.com,REJECT
 DOMAIN,purrenches.top,REJECT
+DOMAIN,pursediscern.com,REJECT
 DOMAIN,pusatiklan.com,REJECT
 DOMAIN,pusbaysgreedy.icu,REJECT
 DOMAIN,puserving.com,REJECT
@@ -34307,6 +34309,7 @@ DOMAIN,sharedheels.com,REJECT
 DOMAIN,sharefb.cnnd.vn,REJECT
 DOMAIN,sharegods.com,REJECT
 DOMAIN,shareitpp.com,REJECT
+DOMAIN,sharemedia.top,REJECT
 DOMAIN,sharenice.org,REJECT
 DOMAIN,shareresults.com,REJECT
 DOMAIN,sharesdk.cn,REJECT
@@ -37455,6 +37458,7 @@ DOMAIN,tc.hometogo.net,REJECT
 DOMAIN,tc600.com,REJECT
 DOMAIN,tcad.wedolook.com,REJECT
 DOMAIN,tcadops.ca,REJECT
+DOMAIN,tcadserver.rain-digital.ca,REJECT
 DOMAIN,tcbox.baidu.com,REJECT
 DOMAIN,tccbanner.com,REJECT
 DOMAIN,tcetggiry.com,REJECT
@@ -38153,6 +38157,7 @@ DOMAIN,tkroqotredk.com,REJECT
 DOMAIN,tkshyp.com,REJECT
 DOMAIN,tktracker.aotter.net,REJECT
 DOMAIN,tl.tradetracker.net,REJECT
+DOMAIN,tl2go.com,REJECT
 DOMAIN,tl813.com,REJECT
 DOMAIN,tlafu.space,REJECT
 DOMAIN,tlcs666.com,REJECT
@@ -38162,6 +38167,7 @@ DOMAIN,tljivh.com,REJECT
 DOMAIN,tlocatering.club,REJECT
 DOMAIN,tlootas.org,REJECT
 DOMAIN,tlp5.mimale.com,REJECT
+DOMAIN,tlrrlomssbt.com,REJECT
 DOMAIN,tlvmedia.com,REJECT
 DOMAIN,tm-banners.gamingadult.com,REJECT
 DOMAIN,tm-core.net,REJECT
@@ -39715,7 +39721,6 @@ DOMAIN,ubmcmm.baidustatic.com,REJECT
 DOMAIN,ubmcvideo.baidustatic.com,REJECT
 DOMAIN,ubnwujaioruel.com,REJECT
 DOMAIN,ubt.berlingskemedia.net,REJECT
-DOMAIN,ububyiw6655.xyz,REJECT
 DOMAIN,ubuntudeal.co.za,REJECT
 DOMAIN,ubxxnfcatv.com,REJECT
 DOMAIN,uc.qq.uuaoz.com,REJECT
@@ -40252,6 +40257,7 @@ DOMAIN,usejj.wangkl.com,REJECT
 DOMAIN,usekahuna.com,REJECT
 DOMAIN,usemax.de,REJECT
 DOMAIN,usemaxserver.de,REJECT
+DOMAIN,usenet-nl.top,REJECT
 DOMAIN,usenet.world,REJECT
 DOMAIN,usenetjunction.com,REJECT
 DOMAIN,usenetnl.download,REJECT
@@ -41413,6 +41419,7 @@ DOMAIN,wahwahnetworks.com,REJECT
 DOMAIN,waiads.com,REJECT
 DOMAIN,waihui518.com,REJECT
 DOMAIN,wailay.com,REJECT
+DOMAIN,waisheph.com,REJECT
 DOMAIN,waistcoataskeddone.com,REJECT
 DOMAIN,waistcoatfast.com,REJECT
 DOMAIN,waitingpresen.info,REJECT
