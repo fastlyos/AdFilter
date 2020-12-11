@@ -1,11 +1,11 @@
-# Checksum: MTYwNzY5OTA3NAo=
+# Checksum: MTYwNzcwOTg1OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-5
-# TimeUpdated: 2020-12-11T15:04:34+00:00
+# Version: 1.6.8-20201211-6
+# TimeUpdated: 2020-12-11T18:04:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45799
+# Total: 45803
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1290,6 +1290,8 @@ ff02::3 ip6-allhosts
 :: 2parale.ro
 0.0.0.0 2performant.com
 :: 2performant.com
+0.0.0.0 2polj.top
+:: 2polj.top
 0.0.0.0 2ptxxjjzpy.com
 :: 2ptxxjjzpy.com
 0.0.0.0 2pxg8bcf.top
@@ -52264,6 +52266,8 @@ ff02::3 ip6-allhosts
 :: mvo.myt7th.xyz
 0.0.0.0 mvo.osidf.xyz
 :: mvo.osidf.xyz
+0.0.0.0 mvo.qasdw3.xyz
+:: mvo.qasdw3.xyz
 0.0.0.0 mvo.qwger.xyz
 :: mvo.qwger.xyz
 0.0.0.0 mvo.sqa54e.xyz
@@ -54884,6 +54888,8 @@ ff02::3 ip6-allhosts
 :: nytlog.com
 0.0.0.0 nyutkikha.info
 :: nyutkikha.info
+0.0.0.0 nyvbugkm.com
+:: nyvbugkm.com
 0.0.0.0 nyyed.com
 :: nyyed.com
 0.0.0.0 nz04com.com
@@ -73968,6 +73974,8 @@ ff02::3 ip6-allhosts
 :: szb.aiyole.com
 0.0.0.0 szb.tongpinw.com
 :: szb.tongpinw.com
+0.0.0.0 szdfteyb.com
+:: szdfteyb.com
 0.0.0.0 szdzbx.com
 :: szdzbx.com
 0.0.0.0 szfaq.com

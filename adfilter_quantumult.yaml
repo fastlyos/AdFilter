@@ -1,11 +1,11 @@
-# Checksum: MTYwNzY5OTA3NAo=
+# Checksum: MTYwNzcwOTg1OQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-5
-# TimeUpdated: 2020-12-11T15:04:34+00:00
+# Version: 1.6.8-20201211-6
+# TimeUpdated: 2020-12-11T18:04:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45799
+# Total: 45803
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -643,6 +643,7 @@ DOMAIN,2oyb82awp8.monster,REJECT
 DOMAIN,2p9fyvx.com,REJECT
 DOMAIN,2parale.ro,REJECT
 DOMAIN,2performant.com,REJECT
+DOMAIN,2polj.top,REJECT
 DOMAIN,2ptxxjjzpy.com,REJECT
 DOMAIN,2pxg8bcf.top,REJECT
 DOMAIN,2qgsjjy89k.com,REJECT
@@ -26130,6 +26131,7 @@ DOMAIN,mvo.m456d.xyz,REJECT
 DOMAIN,mvo.mftgyh.xyz,REJECT
 DOMAIN,mvo.myt7th.xyz,REJECT
 DOMAIN,mvo.osidf.xyz,REJECT
+DOMAIN,mvo.qasdw3.xyz,REJECT
 DOMAIN,mvo.qwger.xyz,REJECT
 DOMAIN,mvo.sqa54e.xyz,REJECT
 DOMAIN,mvo.vcbn65.xyz,REJECT
@@ -27440,6 +27442,7 @@ DOMAIN,nyshoptara.pro,REJECT
 DOMAIN,nyshoweverislat.fun,REJECT
 DOMAIN,nytlog.com,REJECT
 DOMAIN,nyutkikha.info,REJECT
+DOMAIN,nyvbugkm.com,REJECT
 DOMAIN,nyyed.com,REJECT
 DOMAIN,nz04com.com,REJECT
 DOMAIN,nzafj0fqsy.rest,REJECT
@@ -36982,6 +36985,7 @@ DOMAIN,szahidalkath.fun,REJECT
 DOMAIN,szapp22.cc,REJECT
 DOMAIN,szb.aiyole.com,REJECT
 DOMAIN,szb.tongpinw.com,REJECT
+DOMAIN,szdfteyb.com,REJECT
 DOMAIN,szdzbx.com,REJECT
 DOMAIN,szfaq.com,REJECT
 DOMAIN,szggdw.com,REJECT
