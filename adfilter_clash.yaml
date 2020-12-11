@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzY3NzQ1OQo=
+# Checksum: MTYwNzY4ODMwMgo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-3
-# TimeUpdated: 2020-12-11T09:04:19+00:00
+# Version: 1.6.8-20201211-4
+# TimeUpdated: 2020-12-11T12:05:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45791
+# Total: 45792
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -285,7 +285,6 @@ payload:
   - DOMAIN,1234.jjxgly.com
   - DOMAIN,1234.zgxue.com
   - DOMAIN,123456789se.com
-  - DOMAIN,1234xm.com
   - DOMAIN,123564.com
   - DOMAIN,12365chia.com
   - DOMAIN,12381236.com
@@ -659,7 +658,6 @@ payload:
   - DOMAIN,2under.ru
   - DOMAIN,2v1xq54yxm.com
   - DOMAIN,2vaxwkujrfwh.info
-  - DOMAIN,2vo2b2.cn
   - DOMAIN,2vv.cc
   - DOMAIN,2wkk49wvw9dr.com
   - DOMAIN,2wxb5.cn
@@ -2154,6 +2152,7 @@ payload:
   - DOMAIN,abfirst.cn
   - DOMAIN,abgeobalancer.com
   - DOMAIN,abgligarchan.com
+  - DOMAIN,abi.run
   - DOMAIN,abid.w38store.ru
   - DOMAIN,abie10.top
   - DOMAIN,abie11.top
@@ -5987,7 +5986,6 @@ payload:
   - DOMAIN,apyuelang.com
   - DOMAIN,aq360.club
   - DOMAIN,aqfhhfqarukys.com
-  - DOMAIN,aqftikmr.com
   - DOMAIN,aqgyju.cn
   - DOMAIN,aqi.wd.amberweather.com
   - DOMAIN,aqjdigkqvmakz.com
@@ -7086,7 +7084,6 @@ payload:
   - DOMAIN,bd-js.baixing.net
   - DOMAIN,bd-s.baixing.net
   - DOMAIN,bd.czxuexi.com
-  - DOMAIN,bd.ershenghuo.com
   - DOMAIN,bd.hao224.com
   - DOMAIN,bd.haomagujia.com
   - DOMAIN,bd.hd.sohu.com
@@ -10502,7 +10499,6 @@ payload:
   - DOMAIN,consideratepronouncedcar.com
   - DOMAIN,consigli.it
   - DOMAIN,consistpotato.com
-  - DOMAIN,consorcraightyc.info
   - DOMAIN,constintptr.com
   - DOMAIN,constituteshy.com
   - DOMAIN,constrongyfe.site
@@ -20963,6 +20959,7 @@ payload:
   - DOMAIN,jisitechiatrixconc.fun
   - DOMAIN,jistaumt.com
   - DOMAIN,jisucn.com
+  - DOMAIN,jisufeifei.com
   - DOMAIN,jitdknclhdpfzyvkio.bid
   - DOMAIN,jiubuhua.com
   - DOMAIN,jiudiandyw.com
@@ -20998,6 +20995,7 @@ payload:
   - DOMAIN,jke1.jianke.com
   - DOMAIN,jkgnplk.cn
   - DOMAIN,jkhad.com
+  - DOMAIN,jkjei8.cn
   - DOMAIN,jkmxy.com
   - DOMAIN,jkolp.com
   - DOMAIN,jktopia.com
@@ -26157,6 +26155,7 @@ payload:
   - DOMAIN,mxcdn1.now.sh
   - DOMAIN,mxcdn2.now.sh
   - DOMAIN,mxcount.com
+  - DOMAIN,mxhbkj.cn
   - DOMAIN,mxjptfrxqaavdc.com
   - DOMAIN,mxm.plipala.com
   - DOMAIN,mxmrt.com
@@ -35467,6 +35466,7 @@ payload:
   - DOMAIN,spontaneousguarded.com
   - DOMAIN,spookyslope.com
   - DOMAIN,spoonslaxoil.com
+  - DOMAIN,sporedfryhum.com
   - DOMAIN,sport205.club
   - DOMAIN,sportivki2v1cvetocher1fh.com
   - DOMAIN,sportradarserving.com
@@ -39716,6 +39716,7 @@ payload:
   - DOMAIN,ubmcvideo.baidustatic.com
   - DOMAIN,ubnwujaioruel.com
   - DOMAIN,ubt.berlingskemedia.net
+  - DOMAIN,ububyiw6655.xyz
   - DOMAIN,ubuntudeal.co.za
   - DOMAIN,ubxxnfcatv.com
   - DOMAIN,uc.qq.uuaoz.com

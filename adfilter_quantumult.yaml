@@ -1,11 +1,11 @@
-# Checksum: MTYwNzY3NzQ1OQo=
+# Checksum: MTYwNzY4ODMwMgo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-3
-# TimeUpdated: 2020-12-11T09:04:19+00:00
+# Version: 1.6.8-20201211-4
+# TimeUpdated: 2020-12-11T12:05:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45791
+# Total: 45792
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -284,7 +284,6 @@ DOMAIN,123.sogoucdn.com,REJECT
 DOMAIN,1234.jjxgly.com,REJECT
 DOMAIN,1234.zgxue.com,REJECT
 DOMAIN,123456789se.com,REJECT
-DOMAIN,1234xm.com,REJECT
 DOMAIN,123564.com,REJECT
 DOMAIN,12365chia.com,REJECT
 DOMAIN,12381236.com,REJECT
@@ -658,7 +657,6 @@ DOMAIN,2track.info,REJECT
 DOMAIN,2under.ru,REJECT
 DOMAIN,2v1xq54yxm.com,REJECT
 DOMAIN,2vaxwkujrfwh.info,REJECT
-DOMAIN,2vo2b2.cn,REJECT
 DOMAIN,2vv.cc,REJECT
 DOMAIN,2wkk49wvw9dr.com,REJECT
 DOMAIN,2wxb5.cn,REJECT
@@ -2153,6 +2151,7 @@ DOMAIN,abfcfxfkzmiqht.com,REJECT
 DOMAIN,abfirst.cn,REJECT
 DOMAIN,abgeobalancer.com,REJECT
 DOMAIN,abgligarchan.com,REJECT
+DOMAIN,abi.run,REJECT
 DOMAIN,abid.w38store.ru,REJECT
 DOMAIN,abie10.top,REJECT
 DOMAIN,abie11.top,REJECT
@@ -5986,7 +5985,6 @@ DOMAIN,apytrc.com,REJECT
 DOMAIN,apyuelang.com,REJECT
 DOMAIN,aq360.club,REJECT
 DOMAIN,aqfhhfqarukys.com,REJECT
-DOMAIN,aqftikmr.com,REJECT
 DOMAIN,aqgyju.cn,REJECT
 DOMAIN,aqi.wd.amberweather.com,REJECT
 DOMAIN,aqjdigkqvmakz.com,REJECT
@@ -7085,7 +7083,6 @@ DOMAIN,bcvcrdr.xyz,REJECT
 DOMAIN,bd-js.baixing.net,REJECT
 DOMAIN,bd-s.baixing.net,REJECT
 DOMAIN,bd.czxuexi.com,REJECT
-DOMAIN,bd.ershenghuo.com,REJECT
 DOMAIN,bd.hao224.com,REJECT
 DOMAIN,bd.haomagujia.com,REJECT
 DOMAIN,bd.hd.sohu.com,REJECT
@@ -10501,7 +10498,6 @@ DOMAIN,consideher.club,REJECT
 DOMAIN,consideratepronouncedcar.com,REJECT
 DOMAIN,consigli.it,REJECT
 DOMAIN,consistpotato.com,REJECT
-DOMAIN,consorcraightyc.info,REJECT
 DOMAIN,constintptr.com,REJECT
 DOMAIN,constituteshy.com,REJECT
 DOMAIN,constrongyfe.site,REJECT
@@ -20962,6 +20958,7 @@ DOMAIN,jisbar.com,REJECT
 DOMAIN,jisitechiatrixconc.fun,REJECT
 DOMAIN,jistaumt.com,REJECT
 DOMAIN,jisucn.com,REJECT
+DOMAIN,jisufeifei.com,REJECT
 DOMAIN,jitdknclhdpfzyvkio.bid,REJECT
 DOMAIN,jiubuhua.com,REJECT
 DOMAIN,jiudiandyw.com,REJECT
@@ -20997,6 +20994,7 @@ DOMAIN,jkbwwwrchsqktk.com,REJECT
 DOMAIN,jke1.jianke.com,REJECT
 DOMAIN,jkgnplk.cn,REJECT
 DOMAIN,jkhad.com,REJECT
+DOMAIN,jkjei8.cn,REJECT
 DOMAIN,jkmxy.com,REJECT
 DOMAIN,jkolp.com,REJECT
 DOMAIN,jktopia.com,REJECT
@@ -26156,6 +26154,7 @@ DOMAIN,mxcdn.net,REJECT
 DOMAIN,mxcdn1.now.sh,REJECT
 DOMAIN,mxcdn2.now.sh,REJECT
 DOMAIN,mxcount.com,REJECT
+DOMAIN,mxhbkj.cn,REJECT
 DOMAIN,mxjptfrxqaavdc.com,REJECT
 DOMAIN,mxm.plipala.com,REJECT
 DOMAIN,mxmrt.com,REJECT
@@ -35466,6 +35465,7 @@ DOMAIN,sponsortown.de,REJECT
 DOMAIN,spontaneousguarded.com,REJECT
 DOMAIN,spookyslope.com,REJECT
 DOMAIN,spoonslaxoil.com,REJECT
+DOMAIN,sporedfryhum.com,REJECT
 DOMAIN,sport205.club,REJECT
 DOMAIN,sportivki2v1cvetocher1fh.com,REJECT
 DOMAIN,sportradarserving.com,REJECT
@@ -39715,6 +39715,7 @@ DOMAIN,ubmcmm.baidustatic.com,REJECT
 DOMAIN,ubmcvideo.baidustatic.com,REJECT
 DOMAIN,ubnwujaioruel.com,REJECT
 DOMAIN,ubt.berlingskemedia.net,REJECT
+DOMAIN,ububyiw6655.xyz,REJECT
 DOMAIN,ubuntudeal.co.za,REJECT
 DOMAIN,ubxxnfcatv.com,REJECT
 DOMAIN,uc.qq.uuaoz.com,REJECT
