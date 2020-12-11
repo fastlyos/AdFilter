@@ -1,11 +1,11 @@
-# Checksum: MTYwNzcwOTg1OQo=
+# Checksum: MTYwNzcyMDY1MAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-6
-# TimeUpdated: 2020-12-11T18:04:19+00:00
+# Version: 1.6.8-20201211-7
+# TimeUpdated: 2020-12-11T21:04:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45803
+# Total: 45809
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -2063,6 +2063,7 @@ DOMAIN,aa.scw0.com,REJECT
 DOMAIN,aa.sdo.com,REJECT
 DOMAIN,aa.shgansheng.cn,REJECT
 DOMAIN,aa.voice2page.com,REJECT
+DOMAIN,aa.zldh123.com,REJECT
 DOMAIN,aa0.pub.funshion.com,REJECT
 DOMAIN,aa1.pub.funshion.com,REJECT
 DOMAIN,aa24h.com,REJECT
@@ -7408,7 +7409,6 @@ DOMAIN,bestcontentuse.top,REJECT
 DOMAIN,bestcpmnetwork.com,REJECT
 DOMAIN,bestdealfor1.life,REJECT
 DOMAIN,bestdeals.ws,REJECT
-DOMAIN,bestdevchenki.pw,REJECT
 DOMAIN,bestdisplaycontent.com,REJECT
 DOMAIN,bestdisplayformats.com,REJECT
 DOMAIN,bestdoska.ru,REJECT
@@ -7990,6 +7990,7 @@ DOMAIN,borehamwoodtimes-gb.borehamwoodtimes.co.uk,REJECT
 DOMAIN,boringbell.com,REJECT
 DOMAIN,boringberry.com,REJECT
 DOMAIN,boringcoat.com,REJECT
+DOMAIN,bornate.info,REJECT
 DOMAIN,bororango.com,REJECT
 DOMAIN,borotango.com,REJECT
 DOMAIN,borsendental.com,REJECT
@@ -8620,7 +8621,6 @@ DOMAIN,c3pool.com,REJECT
 DOMAIN,c3t-system-err.club,REJECT
 DOMAIN,c3tag.com,REJECT
 DOMAIN,c41.clicki.cn,REJECT
-DOMAIN,c4698cd6aed0dcef367.com,REJECT
 DOMAIN,c4dv.copinesdevoyage.com,REJECT
 DOMAIN,c4tracking01.com,REJECT
 DOMAIN,c4tw.net,REJECT
@@ -20614,6 +20614,7 @@ DOMAIN,ixpub.net,REJECT
 DOMAIN,ixspublic.com,REJECT
 DOMAIN,iy8yhpmgrcpwkcvh.pro,REJECT
 DOMAIN,iyaos.com,REJECT
+DOMAIN,iycdikcbgsmihg.com,REJECT
 DOMAIN,iyes.youku.com,REJECT
 DOMAIN,iyfnzgb.com,REJECT
 DOMAIN,iyfsearch.com,REJECT
@@ -30235,6 +30236,7 @@ DOMAIN,promoggaqjkd.ru,REJECT
 DOMAIN,promoheads.com,REJECT
 DOMAIN,promokrot.com,REJECT
 DOMAIN,promopassage.com,REJECT
+DOMAIN,promos.camsoda.com,REJECT
 DOMAIN,promos.fling.com,REJECT
 DOMAIN,promos.gpniches.com,REJECT
 DOMAIN,promos.meetlocals.com,REJECT
@@ -30882,6 +30884,7 @@ DOMAIN,pxlgnpgecom-a.akamaihd.net,REJECT
 DOMAIN,pxlqyrteuuh.com,REJECT
 DOMAIN,pxrbl.megafilms.me,REJECT
 DOMAIN,pxxxyhum.com,REJECT
+DOMAIN,pxyltyzjnm.com,REJECT
 DOMAIN,pxyvb.cn,REJECT
 DOMAIN,py.da.mgtv.com,REJECT
 DOMAIN,py.qlogo.cn,REJECT
@@ -30946,6 +30949,7 @@ DOMAIN,qarsza.cn,REJECT
 DOMAIN,qaykb.com,REJECT
 DOMAIN,qaz.afjlb.com,REJECT
 DOMAIN,qbczpo.cn,REJECT
+DOMAIN,qbddhjrwe.com,REJECT
 DOMAIN,qbdgame.com,REJECT
 DOMAIN,qbeoyasaiz.com,REJECT
 DOMAIN,qbhyczr5hw.ru,REJECT
@@ -37292,6 +37296,7 @@ DOMAIN,takeslobsgel.com,REJECT
 DOMAIN,takidd.site,REJECT
 DOMAIN,takmuany.com,REJECT
 DOMAIN,talaropa.com,REJECT
+DOMAIN,talazywho.pro,REJECT
 DOMAIN,talentedsteel.com,REJECT
 DOMAIN,talhundrewr.club,REJECT
 DOMAIN,talk.nz.igexin.com,REJECT
@@ -38755,6 +38760,7 @@ DOMAIN,tracker.cds-tracking.com,REJECT
 DOMAIN,tracker.convead.io,REJECT
 DOMAIN,tracker.cpapath.com,REJECT
 DOMAIN,tracker.data-vp.com,REJECT
+DOMAIN,tracker.departapp.com,REJECT
 DOMAIN,tracker.downdetector.com,REJECT
 DOMAIN,tracker.durasite.net,REJECT
 DOMAIN,tracker.euroweb.net,REJECT

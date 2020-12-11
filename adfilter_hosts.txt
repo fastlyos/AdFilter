@@ -1,11 +1,11 @@
-# Checksum: MTYwNzcwOTg1OQo=
+# Checksum: MTYwNzcyMDY1MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-6
-# TimeUpdated: 2020-12-11T18:04:19+00:00
+# Version: 1.6.8-20201211-7
+# TimeUpdated: 2020-12-11T21:04:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45803
+# Total: 45809
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4130,6 +4130,8 @@ ff02::3 ip6-allhosts
 :: aa.shgansheng.cn
 0.0.0.0 aa.voice2page.com
 :: aa.voice2page.com
+0.0.0.0 aa.zldh123.com
+:: aa.zldh123.com
 0.0.0.0 aa0.pub.funshion.com
 :: aa0.pub.funshion.com
 0.0.0.0 aa1.pub.funshion.com
@@ -14820,8 +14822,6 @@ ff02::3 ip6-allhosts
 :: bestdealfor1.life
 0.0.0.0 bestdeals.ws
 :: bestdeals.ws
-0.0.0.0 bestdevchenki.pw
-:: bestdevchenki.pw
 0.0.0.0 bestdisplaycontent.com
 :: bestdisplaycontent.com
 0.0.0.0 bestdisplayformats.com
@@ -15984,6 +15984,8 @@ ff02::3 ip6-allhosts
 :: boringberry.com
 0.0.0.0 boringcoat.com
 :: boringcoat.com
+0.0.0.0 bornate.info
+:: bornate.info
 0.0.0.0 bororango.com
 :: bororango.com
 0.0.0.0 borotango.com
@@ -17244,8 +17246,6 @@ ff02::3 ip6-allhosts
 :: c3tag.com
 0.0.0.0 c41.clicki.cn
 :: c41.clicki.cn
-0.0.0.0 c4698cd6aed0dcef367.com
-:: c4698cd6aed0dcef367.com
 0.0.0.0 c4dv.copinesdevoyage.com
 :: c4dv.copinesdevoyage.com
 0.0.0.0 c4tracking01.com
@@ -41232,6 +41232,8 @@ ff02::3 ip6-allhosts
 :: iy8yhpmgrcpwkcvh.pro
 0.0.0.0 iyaos.com
 :: iyaos.com
+0.0.0.0 iycdikcbgsmihg.com
+:: iycdikcbgsmihg.com
 0.0.0.0 iyes.youku.com
 :: iyes.youku.com
 0.0.0.0 iyfnzgb.com
@@ -60474,6 +60476,8 @@ ff02::3 ip6-allhosts
 :: promokrot.com
 0.0.0.0 promopassage.com
 :: promopassage.com
+0.0.0.0 promos.camsoda.com
+:: promos.camsoda.com
 0.0.0.0 promos.fling.com
 :: promos.fling.com
 0.0.0.0 promos.gpniches.com
@@ -61768,6 +61772,8 @@ ff02::3 ip6-allhosts
 :: pxrbl.megafilms.me
 0.0.0.0 pxxxyhum.com
 :: pxxxyhum.com
+0.0.0.0 pxyltyzjnm.com
+:: pxyltyzjnm.com
 0.0.0.0 pxyvb.cn
 :: pxyvb.cn
 0.0.0.0 py.da.mgtv.com
@@ -61896,6 +61902,8 @@ ff02::3 ip6-allhosts
 :: qaz.afjlb.com
 0.0.0.0 qbczpo.cn
 :: qbczpo.cn
+0.0.0.0 qbddhjrwe.com
+:: qbddhjrwe.com
 0.0.0.0 qbdgame.com
 :: qbdgame.com
 0.0.0.0 qbeoyasaiz.com
@@ -74588,6 +74596,8 @@ ff02::3 ip6-allhosts
 :: takmuany.com
 0.0.0.0 talaropa.com
 :: talaropa.com
+0.0.0.0 talazywho.pro
+:: talazywho.pro
 0.0.0.0 talentedsteel.com
 :: talentedsteel.com
 0.0.0.0 talhundrewr.club
@@ -77514,6 +77524,8 @@ ff02::3 ip6-allhosts
 :: tracker.cpapath.com
 0.0.0.0 tracker.data-vp.com
 :: tracker.data-vp.com
+0.0.0.0 tracker.departapp.com
+:: tracker.departapp.com
 0.0.0.0 tracker.downdetector.com
 :: tracker.downdetector.com
 0.0.0.0 tracker.durasite.net

@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzcwOTg1OQo=
+# Checksum: MTYwNzcyMDY1MAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-6
-# TimeUpdated: 2020-12-11T18:04:19+00:00
+# Version: 1.6.8-20201211-7
+# TimeUpdated: 2020-12-11T21:04:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45803
+# Total: 45809
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -2064,6 +2064,7 @@ payload:
   - DOMAIN,aa.sdo.com
   - DOMAIN,aa.shgansheng.cn
   - DOMAIN,aa.voice2page.com
+  - DOMAIN,aa.zldh123.com
   - DOMAIN,aa0.pub.funshion.com
   - DOMAIN,aa1.pub.funshion.com
   - DOMAIN,aa24h.com
@@ -7409,7 +7410,6 @@ payload:
   - DOMAIN,bestcpmnetwork.com
   - DOMAIN,bestdealfor1.life
   - DOMAIN,bestdeals.ws
-  - DOMAIN,bestdevchenki.pw
   - DOMAIN,bestdisplaycontent.com
   - DOMAIN,bestdisplayformats.com
   - DOMAIN,bestdoska.ru
@@ -7991,6 +7991,7 @@ payload:
   - DOMAIN,boringbell.com
   - DOMAIN,boringberry.com
   - DOMAIN,boringcoat.com
+  - DOMAIN,bornate.info
   - DOMAIN,bororango.com
   - DOMAIN,borotango.com
   - DOMAIN,borsendental.com
@@ -8621,7 +8622,6 @@ payload:
   - DOMAIN,c3t-system-err.club
   - DOMAIN,c3tag.com
   - DOMAIN,c41.clicki.cn
-  - DOMAIN,c4698cd6aed0dcef367.com
   - DOMAIN,c4dv.copinesdevoyage.com
   - DOMAIN,c4tracking01.com
   - DOMAIN,c4tw.net
@@ -20615,6 +20615,7 @@ payload:
   - DOMAIN,ixspublic.com
   - DOMAIN,iy8yhpmgrcpwkcvh.pro
   - DOMAIN,iyaos.com
+  - DOMAIN,iycdikcbgsmihg.com
   - DOMAIN,iyes.youku.com
   - DOMAIN,iyfnzgb.com
   - DOMAIN,iyfsearch.com
@@ -30236,6 +30237,7 @@ payload:
   - DOMAIN,promoheads.com
   - DOMAIN,promokrot.com
   - DOMAIN,promopassage.com
+  - DOMAIN,promos.camsoda.com
   - DOMAIN,promos.fling.com
   - DOMAIN,promos.gpniches.com
   - DOMAIN,promos.meetlocals.com
@@ -30883,6 +30885,7 @@ payload:
   - DOMAIN,pxlqyrteuuh.com
   - DOMAIN,pxrbl.megafilms.me
   - DOMAIN,pxxxyhum.com
+  - DOMAIN,pxyltyzjnm.com
   - DOMAIN,pxyvb.cn
   - DOMAIN,py.da.mgtv.com
   - DOMAIN,py.qlogo.cn
@@ -30947,6 +30950,7 @@ payload:
   - DOMAIN,qaykb.com
   - DOMAIN,qaz.afjlb.com
   - DOMAIN,qbczpo.cn
+  - DOMAIN,qbddhjrwe.com
   - DOMAIN,qbdgame.com
   - DOMAIN,qbeoyasaiz.com
   - DOMAIN,qbhyczr5hw.ru
@@ -37293,6 +37297,7 @@ payload:
   - DOMAIN,takidd.site
   - DOMAIN,takmuany.com
   - DOMAIN,talaropa.com
+  - DOMAIN,talazywho.pro
   - DOMAIN,talentedsteel.com
   - DOMAIN,talhundrewr.club
   - DOMAIN,talk.nz.igexin.com
@@ -38756,6 +38761,7 @@ payload:
   - DOMAIN,tracker.convead.io
   - DOMAIN,tracker.cpapath.com
   - DOMAIN,tracker.data-vp.com
+  - DOMAIN,tracker.departapp.com
   - DOMAIN,tracker.downdetector.com
   - DOMAIN,tracker.durasite.net
   - DOMAIN,tracker.euroweb.net
