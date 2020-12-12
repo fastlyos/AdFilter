@@ -1,11 +1,11 @@
-# Checksum: MTYwNzcyMDY1MAo=
+# Checksum: MTYwNzczMTc1NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-7
-# TimeUpdated: 2020-12-11T21:04:10+00:00
+# Version: 1.6.8-20201212-0
+# TimeUpdated: 2020-12-12T00:09:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45809
+# Total: 45810
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1160,6 +1160,8 @@ ff02::3 ip6-allhosts
 :: 265958.com
 0.0.0.0 268d61daa761.com
 :: 268d61daa761.com
+0.0.0.0 268mob.cn
+:: 268mob.cn
 0.0.0.0 26gg.bnq86.com
 :: 26gg.bnq86.com
 0.0.0.0 2725.dlads.cn
@@ -2426,6 +2428,8 @@ ff02::3 ip6-allhosts
 :: 66998.top
 0.0.0.0 66ce98158e4f402.com
 :: 66ce98158e4f402.com
+0.0.0.0 66san.com
+:: 66san.com
 0.0.0.0 6711.com
 :: 6711.com
 0.0.0.0 6728812.com
@@ -14776,8 +14780,6 @@ ff02::3 ip6-allhosts
 :: besc.baidustatic.com
 0.0.0.0 beserte.pro
 :: beserte.pro
-0.0.0.0 besguses.pro
-:: besguses.pro
 0.0.0.0 beshtienhr2hd8j09.com
 :: beshtienhr2hd8j09.com
 0.0.0.0 besiasmere.site
@@ -17602,8 +17604,6 @@ ff02::3 ip6-allhosts
 :: capablecows.com
 0.0.0.0 capablecup.com
 :: capablecup.com
-0.0.0.0 capacitly.com
-:: capacitly.com
 0.0.0.0 capacitygrid.com
 :: capacitygrid.com
 0.0.0.0 capacygre.top
@@ -19284,8 +19284,6 @@ ff02::3 ip6-allhosts
 :: classentedol.club
 0.0.0.0 classic.39health.com
 :: classic.39health.com
-0.0.0.0 classicgir.cn
-:: classicgir.cn
 0.0.0.0 classicseventsheadphones.com
 :: classicseventsheadphones.com
 0.0.0.0 classionreactice.info
@@ -26138,6 +26136,8 @@ ff02::3 ip6-allhosts
 :: dlfvgndsdfsn.com
 0.0.0.0 dlgriyjm.com
 :: dlgriyjm.com
+0.0.0.0 dlhhzptgsavxu.com
+:: dlhhzptgsavxu.com
 0.0.0.0 dlimg.lovfp.com
 :: dlimg.lovfp.com
 0.0.0.0 dlive.pagesjaunes.fr
@@ -69214,6 +69214,8 @@ ff02::3 ip6-allhosts
 :: simpleco.in
 0.0.0.0 simplehitcounter.com
 :: simplehitcounter.com
+0.0.0.0 simpleoneline.online
+:: simpleoneline.online
 0.0.0.0 simpleprogr.club
 :: simpleprogr.club
 0.0.0.0 simplereach.com

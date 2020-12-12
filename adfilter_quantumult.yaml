@@ -1,11 +1,11 @@
-# Checksum: MTYwNzcyMDY1MAo=
+# Checksum: MTYwNzczMTc1NAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-7
-# TimeUpdated: 2020-12-11T21:04:10+00:00
+# Version: 1.6.8-20201212-0
+# TimeUpdated: 2020-12-12T00:09:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45809
+# Total: 45810
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -578,6 +578,7 @@ DOMAIN,258zw.com,REJECT
 DOMAIN,25haich4342.ru,REJECT
 DOMAIN,265958.com,REJECT
 DOMAIN,268d61daa761.com,REJECT
+DOMAIN,268mob.cn,REJECT
 DOMAIN,26gg.bnq86.com,REJECT
 DOMAIN,2725.dlads.cn,REJECT
 DOMAIN,272829.cc,REJECT
@@ -1211,6 +1212,7 @@ DOMAIN,66996.top,REJECT
 DOMAIN,66997.top,REJECT
 DOMAIN,66998.top,REJECT
 DOMAIN,66ce98158e4f402.com,REJECT
+DOMAIN,66san.com,REJECT
 DOMAIN,6711.com,REJECT
 DOMAIN,6728812.com,REJECT
 DOMAIN,6788787.com,REJECT
@@ -7386,7 +7388,6 @@ DOMAIN,bertekoa.net,REJECT
 DOMAIN,bes-progfree.com,REJECT
 DOMAIN,besc.baidustatic.com,REJECT
 DOMAIN,beserte.pro,REJECT
-DOMAIN,besguses.pro,REJECT
 DOMAIN,beshtienhr2hd8j09.com,REJECT
 DOMAIN,besiasmere.site,REJECT
 DOMAIN,besocial.online,REJECT
@@ -8799,7 +8800,6 @@ DOMAIN,cap-cap-pop.com,REJECT
 DOMAIN,cap.touclick.com,REJECT
 DOMAIN,capablecows.com,REJECT
 DOMAIN,capablecup.com,REJECT
-DOMAIN,capacitly.com,REJECT
 DOMAIN,capacitygrid.com,REJECT
 DOMAIN,capacygre.top,REJECT
 DOMAIN,caphyon-analytics.com,REJECT
@@ -9640,7 +9640,6 @@ DOMAIN,class2deal.com,REJECT
 DOMAIN,class64deal.com,REJECT
 DOMAIN,classentedol.club,REJECT
 DOMAIN,classic.39health.com,REJECT
-DOMAIN,classicgir.cn,REJECT
 DOMAIN,classicseventsheadphones.com,REJECT
 DOMAIN,classionreactice.info,REJECT
 DOMAIN,classisingew.club,REJECT
@@ -13067,6 +13066,7 @@ DOMAIN,dlevisionexpr.site,REJECT
 DOMAIN,dlfclcey.com,REJECT
 DOMAIN,dlfvgndsdfsn.com,REJECT
 DOMAIN,dlgriyjm.com,REJECT
+DOMAIN,dlhhzptgsavxu.com,REJECT
 DOMAIN,dlimg.lovfp.com,REJECT
 DOMAIN,dlive.pagesjaunes.fr,REJECT
 DOMAIN,dlkjgjmy.com,REJECT
@@ -34605,6 +34605,7 @@ DOMAIN,simpio.com,REJECT
 DOMAIN,simpleanalytics.io,REJECT
 DOMAIN,simpleco.in,REJECT
 DOMAIN,simplehitcounter.com,REJECT
+DOMAIN,simpleoneline.online,REJECT
 DOMAIN,simpleprogr.club,REJECT
 DOMAIN,simplereach.com,REJECT
 DOMAIN,simplesharebuttons.com,REJECT

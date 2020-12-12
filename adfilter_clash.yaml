@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzcyMDY1MAo=
+# Checksum: MTYwNzczMTc1NAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201211-7
-# TimeUpdated: 2020-12-11T21:04:10+00:00
+# Version: 1.6.8-20201212-0
+# TimeUpdated: 2020-12-12T00:09:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45809
+# Total: 45810
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -579,6 +579,7 @@ payload:
   - DOMAIN,25haich4342.ru
   - DOMAIN,265958.com
   - DOMAIN,268d61daa761.com
+  - DOMAIN,268mob.cn
   - DOMAIN,26gg.bnq86.com
   - DOMAIN,2725.dlads.cn
   - DOMAIN,272829.cc
@@ -1212,6 +1213,7 @@ payload:
   - DOMAIN,66997.top
   - DOMAIN,66998.top
   - DOMAIN,66ce98158e4f402.com
+  - DOMAIN,66san.com
   - DOMAIN,6711.com
   - DOMAIN,6728812.com
   - DOMAIN,6788787.com
@@ -7387,7 +7389,6 @@ payload:
   - DOMAIN,bes-progfree.com
   - DOMAIN,besc.baidustatic.com
   - DOMAIN,beserte.pro
-  - DOMAIN,besguses.pro
   - DOMAIN,beshtienhr2hd8j09.com
   - DOMAIN,besiasmere.site
   - DOMAIN,besocial.online
@@ -8800,7 +8801,6 @@ payload:
   - DOMAIN,cap.touclick.com
   - DOMAIN,capablecows.com
   - DOMAIN,capablecup.com
-  - DOMAIN,capacitly.com
   - DOMAIN,capacitygrid.com
   - DOMAIN,capacygre.top
   - DOMAIN,caphyon-analytics.com
@@ -9641,7 +9641,6 @@ payload:
   - DOMAIN,class64deal.com
   - DOMAIN,classentedol.club
   - DOMAIN,classic.39health.com
-  - DOMAIN,classicgir.cn
   - DOMAIN,classicseventsheadphones.com
   - DOMAIN,classionreactice.info
   - DOMAIN,classisingew.club
@@ -13068,6 +13067,7 @@ payload:
   - DOMAIN,dlfclcey.com
   - DOMAIN,dlfvgndsdfsn.com
   - DOMAIN,dlgriyjm.com
+  - DOMAIN,dlhhzptgsavxu.com
   - DOMAIN,dlimg.lovfp.com
   - DOMAIN,dlive.pagesjaunes.fr
   - DOMAIN,dlkjgjmy.com
@@ -34606,6 +34606,7 @@ payload:
   - DOMAIN,simpleanalytics.io
   - DOMAIN,simpleco.in
   - DOMAIN,simplehitcounter.com
+  - DOMAIN,simpleoneline.online
   - DOMAIN,simpleprogr.club
   - DOMAIN,simplereach.com
   - DOMAIN,simplesharebuttons.com
