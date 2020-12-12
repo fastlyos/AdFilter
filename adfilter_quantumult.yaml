@@ -1,11 +1,11 @@
-# Checksum: MTYwNzc3NDcwOAo=
+# Checksum: MTYwNzc4NTQ2OAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-4
-# TimeUpdated: 2020-12-12T12:05:08+00:00
+# Version: 1.6.8-20201212-5
+# TimeUpdated: 2020-12-12T15:04:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45830
+# Total: 45819
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -108,7 +108,6 @@ DOMAIN,0ci.top,REJECT
 DOMAIN,0d20bff8143.com,REJECT
 DOMAIN,0dbcf515975d.com,REJECT
 DOMAIN,0dc3c6535c5.com,REJECT
-DOMAIN,0e6fc55ed3d4c2c2ba0.com,REJECT
 DOMAIN,0eijh8996i.com,REJECT
 DOMAIN,0f461325bf56c3e1b9.com,REJECT
 DOMAIN,0gctp5ht.top,REJECT
@@ -393,7 +392,6 @@ DOMAIN,18dusun.com,REJECT
 DOMAIN,18mad.com,REJECT
 DOMAIN,18naked.com,REJECT
 DOMAIN,18rm.com,REJECT
-DOMAIN,18tzx.com,REJECT
 DOMAIN,1933000.com,REJECT
 DOMAIN,1955dcb2fee1a13.com,REJECT
 DOMAIN,196f25ce95a.com,REJECT
@@ -609,7 +607,6 @@ DOMAIN,2bj.cn,REJECT
 DOMAIN,2c0dad36bdb9eb859f0.com,REJECT
 DOMAIN,2c3a97984f45.com,REJECT
 DOMAIN,2c6bcbbb82ce911.com,REJECT
-DOMAIN,2c95e050909.com,REJECT
 DOMAIN,2cnjuh34jb.com,REJECT
 DOMAIN,2cnjuh34jbhub.com,REJECT
 DOMAIN,2cnjuh34jbman.com,REJECT
@@ -2012,7 +2009,6 @@ DOMAIN,a3.jandan.net,REJECT
 DOMAIN,a3.ogt.jp,REJECT
 DOMAIN,a32a.com.cn,REJECT
 DOMAIN,a337b163a0bc.com,REJECT
-DOMAIN,a33bb68b84b.com,REJECT
 DOMAIN,a35c92d96766745.com,REJECT
 DOMAIN,a3761801a40c59b48.com,REJECT
 DOMAIN,a3h.de,REJECT
@@ -6295,7 +6291,6 @@ DOMAIN,atlas1.krone.at,REJECT
 DOMAIN,atlassolutions.com,REJECT
 DOMAIN,atm.yoyi.com.cn,REJECT
 DOMAIN,atmalinks.com,REJECT
-DOMAIN,ato.mx,REJECT
 DOMAIN,atomex.net,REJECT
 DOMAIN,atomikad.com,REJECT
 DOMAIN,atomisons.xyz,REJECT
@@ -7184,7 +7179,6 @@ DOMAIN,bdmjs.xywy.com,REJECT
 DOMAIN,bdmm.xywy.com,REJECT
 DOMAIN,bdp.cn,REJECT
 DOMAIN,bdplus.baidu.com,REJECT
-DOMAIN,bdpuaw.com,REJECT
 DOMAIN,bdros.com,REJECT
 DOMAIN,bds.hainan.net,REJECT
 DOMAIN,bds.snssdk.com,REJECT
@@ -7936,7 +7930,6 @@ DOMAIN,bolrookr.com,REJECT
 DOMAIN,bolshoykush.ru,REJECT
 DOMAIN,bolt.jebe.renren.com,REJECT
 DOMAIN,boneregret.com,REJECT
-DOMAIN,bonertraffic14.pro,REJECT
 DOMAIN,bonfire.spklw.com,REJECT
 DOMAIN,bong88net.com,REJECT
 DOMAIN,bong99.com,REJECT
@@ -9566,7 +9559,6 @@ DOMAIN,circuitewate.space,REJECT
 DOMAIN,circular-counters.com,REJECT
 DOMAIN,circumscribevetofurther.com,REJECT
 DOMAIN,circumstantialobtrusive.com,REJECT
-DOMAIN,cishantao.com,REJECT
 DOMAIN,citinnoiddidn.pro,REJECT
 DOMAIN,citizenshadowrequires.com,REJECT
 DOMAIN,citizenshis.com,REJECT
@@ -12038,7 +12030,6 @@ DOMAIN,d8.zedo.com,REJECT
 DOMAIN,d81mfvml8p5ml.cloudfront.net,REJECT
 DOMAIN,d830x8j3o1b2k.cloudfront.net,REJECT
 DOMAIN,d8360.com,REJECT
-DOMAIN,d84b95a7c3e.com,REJECT
 DOMAIN,d869381a42af33b.com,REJECT
 DOMAIN,d8885.com,REJECT
 DOMAIN,d9.sina.com.cn,REJECT
@@ -14001,7 +13992,6 @@ DOMAIN,e706.net,REJECT
 DOMAIN,e708.net,REJECT
 DOMAIN,e719.net,REJECT
 DOMAIN,e7393e33565ce805.com,REJECT
-DOMAIN,e739acf90a.com,REJECT
 DOMAIN,e7594ca72746.com,REJECT
 DOMAIN,e77lmzbqou0n-a.akamaihd.net,REJECT
 DOMAIN,e7e776c1a8bf677.com,REJECT
@@ -14568,6 +14558,7 @@ DOMAIN,emqeafoztotu.com,REJECT
 DOMAIN,ems.cp12.wasu.tv,REJECT
 DOMAIN,ems.youku.com,REJECT
 DOMAIN,emsecure.net,REJECT
+DOMAIN,emsmcdwfbseox.com,REJECT
 DOMAIN,emss.zjhim.com,REJECT
 DOMAIN,emuboosag.com,REJECT
 DOMAIN,emuwanflat.com,REJECT
@@ -30982,7 +30973,6 @@ DOMAIN,qdatasales.com,REJECT
 DOMAIN,qdchunyu.com,REJECT
 DOMAIN,qdcode.com,REJECT
 DOMAIN,qde.chinaqirun.cn,REJECT
-DOMAIN,qdhhdsw.cn,REJECT
 DOMAIN,qdhyy.cn,REJECT
 DOMAIN,qdiut.com,REJECT
 DOMAIN,qdmil.com,REJECT
@@ -45103,7 +45093,6 @@ DOMAIN,youmi.net,REJECT
 DOMAIN,youmw.com,REJECT
 DOMAIN,youndoo.com,REJECT
 DOMAIN,younetmedia.com,REJECT
-DOMAIN,youngalsobeautiful.com,REJECT
 DOMAIN,youngesdresp.pro,REJECT
 DOMAIN,youngmarble.com,REJECT
 DOMAIN,youngrul.pro,REJECT
