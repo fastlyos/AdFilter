@@ -1,11 +1,11 @@
-# Checksum: MTYwNzc5NjI1Ngo=
+# Checksum: MTYwNzgwNzAxNwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-6
-# TimeUpdated: 2020-12-12T18:04:16+00:00
+# Version: 1.6.8-20201212-7
+# TimeUpdated: 2020-12-12T21:03:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45827
+# Total: 45830
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -7755,7 +7755,6 @@ DOMAIN,bliink.io,REJECT
 DOMAIN,blinkadr.com,REJECT
 DOMAIN,blionicking.pro,REJECT
 DOMAIN,blip.bizrate.com,REJECT
-DOMAIN,blisldgsqk.com,REJECT
 DOMAIN,blismedia.com,REJECT
 DOMAIN,bliss-systems-api.co.uk,REJECT
 DOMAIN,blissfulonline.com,REJECT
@@ -20976,7 +20975,6 @@ DOMAIN,jixing8.net,REJECT
 DOMAIN,jiyan.net,REJECT
 DOMAIN,jiyuanzixun.com,REJECT
 DOMAIN,jizzads.com,REJECT
-DOMAIN,jj0453.com,REJECT
 DOMAIN,jj123.com.cn,REJECT
 DOMAIN,jjjj.getui.vip,REJECT
 DOMAIN,jjkllkhsaj.com,REJECT
@@ -26120,6 +26118,7 @@ DOMAIN,mvo.b5e4e6.xyz,REJECT
 DOMAIN,mvo.bnu658.xyz,REJECT
 DOMAIN,mvo.g45td.xyz,REJECT
 DOMAIN,mvo.g4rre.xyz,REJECT
+DOMAIN,mvo.h56h5r.xyz,REJECT
 DOMAIN,mvo.j6yh5.xyz,REJECT
 DOMAIN,mvo.m456d.xyz,REJECT
 DOMAIN,mvo.mftgyh.xyz,REJECT
@@ -28314,6 +28313,7 @@ DOMAIN,oxybe.com,REJECT
 DOMAIN,oxygenpurpleairtight.com,REJECT
 DOMAIN,oyeesfrencha.fun,REJECT
 DOMAIN,oyell.net,REJECT
+DOMAIN,oyfncnedrymc.com,REJECT
 DOMAIN,oyfsdpmhncobvj.com,REJECT
 DOMAIN,oyhnizdr4bxkz0.com,REJECT
 DOMAIN,oyi9f1kbaj.com,REJECT
@@ -30940,6 +30940,7 @@ DOMAIN,qadservice.com,REJECT
 DOMAIN,qai-ir.quartic.pl,REJECT
 DOMAIN,qai.quartic.pl,REJECT
 DOMAIN,qakdki.com,REJECT
+DOMAIN,qamwplzcvq.com,REJECT
 DOMAIN,qaops.jgwsmqx.com,REJECT
 DOMAIN,qapm.baidu.com,REJECT
 DOMAIN,qappcenterv6.3g.qq.com,REJECT
@@ -31166,6 +31167,7 @@ DOMAIN,qrlsx.com,REJECT
 DOMAIN,qrnpjjkwjqbl.com,REJECT
 DOMAIN,qrrl.cwj2h.cn,REJECT
 DOMAIN,qrstes.com,REJECT
+DOMAIN,qrwixhlz.com,REJECT
 DOMAIN,qrxkugriqkt.com,REJECT
 DOMAIN,qs.lindanmiaoxiang.cn,REJECT
 DOMAIN,qs.qsmdeyz.cn,REJECT
@@ -35845,6 +35847,7 @@ DOMAIN,stat.mixi.media,REJECT
 DOMAIN,stat.mobgi.com,REJECT
 DOMAIN,stat.moevideo.net,REJECT
 DOMAIN,stat.moji.com,REJECT
+DOMAIN,stat.moliplayer.com,REJECT
 DOMAIN,stat.mtv3.fi,REJECT
 DOMAIN,stat.novinky.cz,REJECT
 DOMAIN,stat.nyheter24.se,REJECT
