@@ -1,11 +1,11 @@
-# Checksum: MTYwNzc4NTQ2OAo=
+# Checksum: MTYwNzc5NjI1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-5
-# TimeUpdated: 2020-12-12T15:04:28+00:00
+# Version: 1.6.8-20201212-6
+# TimeUpdated: 2020-12-12T18:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45819
+# Total: 45827
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7814,6 +7814,8 @@ ff02::3 ip6-allhosts
 :: adshmmsg.qq.com
 0.0.0.0 adshopping.com
 :: adshopping.com
+0.0.0.0 adshost2.com
+:: adshost2.com
 0.0.0.0 adshostnet.com
 :: adshostnet.com
 0.0.0.0 adshot.de
@@ -18484,6 +18486,8 @@ ff02::3 ip6-allhosts
 :: ceeglousaud.com
 0.0.0.0 ceepq.com
 :: ceepq.com
+0.0.0.0 ceespc.biz
+:: ceespc.biz
 0.0.0.0 cef9c80977e050.com
 :: cef9c80977e050.com
 0.0.0.0 ceincreatedaughtcha.info
@@ -27732,6 +27736,8 @@ ff02::3 ip6-allhosts
 :: e.gghh493.cn
 0.0.0.0 e.gk277.cn
 :: e.gk277.cn
+0.0.0.0 e.goodgz.cn
+:: e.goodgz.cn
 0.0.0.0 e.gxjfh.com
 :: e.gxjfh.com
 0.0.0.0 e.gxkyl.com
@@ -41950,6 +41956,8 @@ ff02::3 ip6-allhosts
 :: jiyuanzixun.com
 0.0.0.0 jizzads.com
 :: jizzads.com
+0.0.0.0 jj0453.com
+:: jj0453.com
 0.0.0.0 jj123.com.cn
 :: jj123.com.cn
 0.0.0.0 jjjj.getui.vip
@@ -49670,6 +49678,8 @@ ff02::3 ip6-allhosts
 :: meepwrite.com
 0.0.0.0 meetic-partners.com
 :: meetic-partners.com
+0.0.0.0 meetingking.club
+:: meetingking.club
 0.0.0.0 meetrics.com
 :: meetrics.com
 0.0.0.0 meetrics.net
@@ -52084,6 +52094,8 @@ ff02::3 ip6-allhosts
 :: muagjoxfew.com
 0.0.0.0 muchhetont.ru
 :: muchhetont.ru
+0.0.0.0 muchritfakethen.info
+:: muchritfakethen.info
 0.0.0.0 muddledaftermath.com
 :: muddledaftermath.com
 0.0.0.0 mughaymil.site
@@ -53974,6 +53986,8 @@ ff02::3 ip6-allhosts
 :: njfsk.com
 0.0.0.0 njguluyu.cn
 :: njguluyu.cn
+0.0.0.0 njhuashidai.cn
+:: njhuashidai.cn
 0.0.0.0 njjrlf.com
 :: njjrlf.com
 0.0.0.0 njkgqdxavz.com
@@ -57568,6 +57582,8 @@ ff02::3 ip6-allhosts
 :: pbox.photobox.de
 0.0.0.0 pbterra.com
 :: pbterra.com
+0.0.0.0 pbtxt.win
+:: pbtxt.win
 0.0.0.0 pc-ads.com
 :: pc-ads.com
 0.0.0.0 pc-agency24.de
@@ -69682,8 +69698,6 @@ ff02::3 ip6-allhosts
 :: smartadv.ru
 0.0.0.0 smartaffiliate.de
 :: smartaffiliate.de
-0.0.0.0 smartasset.com
-:: smartasset.com
 0.0.0.0 smartbn.ru
 :: smartbn.ru
 0.0.0.0 smartclick.net
@@ -83150,6 +83164,8 @@ ff02::3 ip6-allhosts
 :: wbapp.mobile.sina.cn
 0.0.0.0 wbapp.uve.weibo.com
 :: wbapp.uve.weibo.com
+0.0.0.0 wbbanner.mrn-news.de
+:: wbbanner.mrn-news.de
 0.0.0.0 wbclick.mobile.sina.cn
 :: wbclick.mobile.sina.cn
 0.0.0.0 wbdcrmn.cn

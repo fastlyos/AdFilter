@@ -1,11 +1,11 @@
-# Checksum: MTYwNzc4NTQ2OAo=
+# Checksum: MTYwNzc5NjI1Ngo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-5
-# TimeUpdated: 2020-12-12T15:04:28+00:00
+# Version: 1.6.8-20201212-6
+# TimeUpdated: 2020-12-12T18:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45819
+# Total: 45827
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -3905,6 +3905,7 @@ DOMAIN,adshexa.com,REJECT
 DOMAIN,adshmct.qq.com,REJECT
 DOMAIN,adshmmsg.qq.com,REJECT
 DOMAIN,adshopping.com,REJECT
+DOMAIN,adshost2.com,REJECT
 DOMAIN,adshostnet.com,REJECT
 DOMAIN,adshot.de,REJECT
 DOMAIN,adshow.58.com,REJECT
@@ -9240,6 +9241,7 @@ DOMAIN,cee2.iteye.com,REJECT
 DOMAIN,ceeglagu.net,REJECT
 DOMAIN,ceeglousaud.com,REJECT
 DOMAIN,ceepq.com,REJECT
+DOMAIN,ceespc.biz,REJECT
 DOMAIN,cef9c80977e050.com,REJECT
 DOMAIN,ceincreatedaughtcha.info,REJECT
 DOMAIN,ceiyo.com,REJECT
@@ -13864,6 +13866,7 @@ DOMAIN,e.g71i1.cn,REJECT
 DOMAIN,e.gcaog.com,REJECT
 DOMAIN,e.gghh493.cn,REJECT
 DOMAIN,e.gk277.cn,REJECT
+DOMAIN,e.goodgz.cn,REJECT
 DOMAIN,e.gxjfh.com,REJECT
 DOMAIN,e.gxkyl.com,REJECT
 DOMAIN,e.hcenc.com,REJECT
@@ -20973,6 +20976,7 @@ DOMAIN,jixing8.net,REJECT
 DOMAIN,jiyan.net,REJECT
 DOMAIN,jiyuanzixun.com,REJECT
 DOMAIN,jizzads.com,REJECT
+DOMAIN,jj0453.com,REJECT
 DOMAIN,jj123.com.cn,REJECT
 DOMAIN,jjjj.getui.vip,REJECT
 DOMAIN,jjkllkhsaj.com,REJECT
@@ -24833,6 +24837,7 @@ DOMAIN,meendo.ru,REJECT
 DOMAIN,meendocash.com,REJECT
 DOMAIN,meepwrite.com,REJECT
 DOMAIN,meetic-partners.com,REJECT
+DOMAIN,meetingking.club,REJECT
 DOMAIN,meetrics.com,REJECT
 DOMAIN,meetrics.net,REJECT
 DOMAIN,meetsexygirls.org,REJECT
@@ -26040,6 +26045,7 @@ DOMAIN,mtzszlpypbxjm.com,REJECT
 DOMAIN,mu722.com,REJECT
 DOMAIN,muagjoxfew.com,REJECT
 DOMAIN,muchhetont.ru,REJECT
+DOMAIN,muchritfakethen.info,REJECT
 DOMAIN,muddledaftermath.com,REJECT
 DOMAIN,mughaymil.site,REJECT
 DOMAIN,mugleafly.com,REJECT
@@ -26985,6 +26991,7 @@ DOMAIN,njcyfpv.cn,REJECT
 DOMAIN,njd.tzxianghao.cn,REJECT
 DOMAIN,njfsk.com,REJECT
 DOMAIN,njguluyu.cn,REJECT
+DOMAIN,njhuashidai.cn,REJECT
 DOMAIN,njjrlf.com,REJECT
 DOMAIN,njkgqdxavz.com,REJECT
 DOMAIN,njmaq.com,REJECT
@@ -28782,6 +28789,7 @@ DOMAIN,pbfjqmwjmuxywt.com,REJECT
 DOMAIN,pbnet.ru,REJECT
 DOMAIN,pbox.photobox.de,REJECT
 DOMAIN,pbterra.com,REJECT
+DOMAIN,pbtxt.win,REJECT
 DOMAIN,pc-ads.com,REJECT
 DOMAIN,pc-agency24.de,REJECT
 DOMAIN,pc.107788.com,REJECT
@@ -34839,7 +34847,6 @@ DOMAIN,smartads.mobile.yahoo.co.jp,REJECT
 DOMAIN,smartadserver.com,REJECT
 DOMAIN,smartadv.ru,REJECT
 DOMAIN,smartaffiliate.de,REJECT
-DOMAIN,smartasset.com,REJECT
 DOMAIN,smartbn.ru,REJECT
 DOMAIN,smartclick.net,REJECT
 DOMAIN,smartclip-services.com,REJECT
@@ -41573,6 +41580,7 @@ DOMAIN,wb.brand.sogou.com,REJECT
 DOMAIN,wb.gtimg.com,REJECT
 DOMAIN,wbapp.mobile.sina.cn,REJECT
 DOMAIN,wbapp.uve.weibo.com,REJECT
+DOMAIN,wbbanner.mrn-news.de,REJECT
 DOMAIN,wbclick.mobile.sina.cn,REJECT
 DOMAIN,wbdcrmn.cn,REJECT
 DOMAIN,wbdds.allocine.fr,REJECT

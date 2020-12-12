@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzc4NTQ2OAo=
+# Checksum: MTYwNzc5NjI1Ngo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-5
-# TimeUpdated: 2020-12-12T15:04:28+00:00
+# Version: 1.6.8-20201212-6
+# TimeUpdated: 2020-12-12T18:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45819
+# Total: 45827
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -3906,6 +3906,7 @@ payload:
   - DOMAIN,adshmct.qq.com
   - DOMAIN,adshmmsg.qq.com
   - DOMAIN,adshopping.com
+  - DOMAIN,adshost2.com
   - DOMAIN,adshostnet.com
   - DOMAIN,adshot.de
   - DOMAIN,adshow.58.com
@@ -9241,6 +9242,7 @@ payload:
   - DOMAIN,ceeglagu.net
   - DOMAIN,ceeglousaud.com
   - DOMAIN,ceepq.com
+  - DOMAIN,ceespc.biz
   - DOMAIN,cef9c80977e050.com
   - DOMAIN,ceincreatedaughtcha.info
   - DOMAIN,ceiyo.com
@@ -13865,6 +13867,7 @@ payload:
   - DOMAIN,e.gcaog.com
   - DOMAIN,e.gghh493.cn
   - DOMAIN,e.gk277.cn
+  - DOMAIN,e.goodgz.cn
   - DOMAIN,e.gxjfh.com
   - DOMAIN,e.gxkyl.com
   - DOMAIN,e.hcenc.com
@@ -20974,6 +20977,7 @@ payload:
   - DOMAIN,jiyan.net
   - DOMAIN,jiyuanzixun.com
   - DOMAIN,jizzads.com
+  - DOMAIN,jj0453.com
   - DOMAIN,jj123.com.cn
   - DOMAIN,jjjj.getui.vip
   - DOMAIN,jjkllkhsaj.com
@@ -24834,6 +24838,7 @@ payload:
   - DOMAIN,meendocash.com
   - DOMAIN,meepwrite.com
   - DOMAIN,meetic-partners.com
+  - DOMAIN,meetingking.club
   - DOMAIN,meetrics.com
   - DOMAIN,meetrics.net
   - DOMAIN,meetsexygirls.org
@@ -26041,6 +26046,7 @@ payload:
   - DOMAIN,mu722.com
   - DOMAIN,muagjoxfew.com
   - DOMAIN,muchhetont.ru
+  - DOMAIN,muchritfakethen.info
   - DOMAIN,muddledaftermath.com
   - DOMAIN,mughaymil.site
   - DOMAIN,mugleafly.com
@@ -26986,6 +26992,7 @@ payload:
   - DOMAIN,njd.tzxianghao.cn
   - DOMAIN,njfsk.com
   - DOMAIN,njguluyu.cn
+  - DOMAIN,njhuashidai.cn
   - DOMAIN,njjrlf.com
   - DOMAIN,njkgqdxavz.com
   - DOMAIN,njmaq.com
@@ -28783,6 +28790,7 @@ payload:
   - DOMAIN,pbnet.ru
   - DOMAIN,pbox.photobox.de
   - DOMAIN,pbterra.com
+  - DOMAIN,pbtxt.win
   - DOMAIN,pc-ads.com
   - DOMAIN,pc-agency24.de
   - DOMAIN,pc.107788.com
@@ -34840,7 +34848,6 @@ payload:
   - DOMAIN,smartadserver.com
   - DOMAIN,smartadv.ru
   - DOMAIN,smartaffiliate.de
-  - DOMAIN,smartasset.com
   - DOMAIN,smartbn.ru
   - DOMAIN,smartclick.net
   - DOMAIN,smartclip-services.com
@@ -41574,6 +41581,7 @@ payload:
   - DOMAIN,wb.gtimg.com
   - DOMAIN,wbapp.mobile.sina.cn
   - DOMAIN,wbapp.uve.weibo.com
+  - DOMAIN,wbbanner.mrn-news.de
   - DOMAIN,wbclick.mobile.sina.cn
   - DOMAIN,wbdcrmn.cn
   - DOMAIN,wbdds.allocine.fr
