@@ -1,11 +1,11 @@
-# Checksum: MTYwNzczMTc1NAo=
+# Checksum: MTYwNzc0MjI4Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-0
-# TimeUpdated: 2020-12-12T00:09:14+00:00
+# Version: 1.6.8-20201212-1
+# TimeUpdated: 2020-12-12T03:04:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45810
+# Total: 45812
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3064,8 +3064,6 @@ ff02::3 ip6-allhosts
 :: 888poker.com
 0.0.0.0 888promos.com
 :: 888promos.com
-0.0.0.0 888zr022.com
-:: 888zr022.com
 0.0.0.0 889fb4992d4e8.com
 :: 889fb4992d4e8.com
 0.0.0.0 88android.com
@@ -16410,6 +16408,8 @@ ff02::3 ip6-allhosts
 :: bsheute.de
 0.0.0.0 bsiet.husky.sogou.com
 :: bsiet.husky.sogou.com
+0.0.0.0 bsjgqhe.cn
+:: bsjgqhe.cn
 0.0.0.0 bskeye.com
 :: bskeye.com
 0.0.0.0 bslmw.com
@@ -62070,6 +62070,8 @@ ff02::3 ip6-allhosts
 :: qianclick.baidu.com
 0.0.0.0 qianfuyin.com
 :: qianfuyin.com
+0.0.0.0 qianggou8.top
+:: qianggou8.top
 0.0.0.0 qianlong.adsame.com
 :: qianlong.adsame.com
 0.0.0.0 qianwei.wang
@@ -68518,6 +68520,8 @@ ff02::3 ip6-allhosts
 :: sgr1.com
 0.0.0.0 sgycfrrkz.com
 :: sgycfrrkz.com
+0.0.0.0 sgyebd.com
+:: sgyebd.com
 0.0.0.0 sh.adingo.jp
 :: sh.adingo.jp
 0.0.0.0 sh.hsfzexsg.com

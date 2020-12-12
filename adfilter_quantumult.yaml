@@ -1,11 +1,11 @@
-# Checksum: MTYwNzczMTc1NAo=
+# Checksum: MTYwNzc0MjI4Mgo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-0
-# TimeUpdated: 2020-12-12T00:09:14+00:00
+# Version: 1.6.8-20201212-1
+# TimeUpdated: 2020-12-12T03:04:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45810
+# Total: 45812
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -1530,7 +1530,6 @@ DOMAIN,888games.com,REJECT
 DOMAIN,888media.net,REJECT
 DOMAIN,888poker.com,REJECT
 DOMAIN,888promos.com,REJECT
-DOMAIN,888zr022.com,REJECT
 DOMAIN,889fb4992d4e8.com,REJECT
 DOMAIN,88android.com,REJECT
 DOMAIN,88cpc.com,REJECT
@@ -8203,6 +8202,7 @@ DOMAIN,bserver.gp-guia.net,REJECT
 DOMAIN,bshare.cn,REJECT
 DOMAIN,bsheute.de,REJECT
 DOMAIN,bsiet.husky.sogou.com,REJECT
+DOMAIN,bsjgqhe.cn,REJECT
 DOMAIN,bskeye.com,REJECT
 DOMAIN,bslmw.com,REJECT
 DOMAIN,bsrkt.com,REJECT
@@ -31033,6 +31033,7 @@ DOMAIN,qi-shi.top,REJECT
 DOMAIN,qi.wndlkj.com,REJECT
 DOMAIN,qianclick.baidu.com,REJECT
 DOMAIN,qianfuyin.com,REJECT
+DOMAIN,qianggou8.top,REJECT
 DOMAIN,qianlong.adsame.com,REJECT
 DOMAIN,qianwei.wang,REJECT
 DOMAIN,qianyilamian.cn,REJECT
@@ -34257,6 +34258,7 @@ DOMAIN,sgphctileh-a.akamaihd.net,REJECT
 DOMAIN,sgqqhydoovcd.com,REJECT
 DOMAIN,sgr1.com,REJECT
 DOMAIN,sgycfrrkz.com,REJECT
+DOMAIN,sgyebd.com,REJECT
 DOMAIN,sh.adingo.jp,REJECT
 DOMAIN,sh.hsfzexsg.com,REJECT
 DOMAIN,sh.qihoo.com,REJECT
