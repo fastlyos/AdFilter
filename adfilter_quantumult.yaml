@@ -1,11 +1,11 @@
-# Checksum: MTYwNzgwNzAxNwo=
+# Checksum: MTYwNzgxODE3Mwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-7
-# TimeUpdated: 2020-12-12T21:03:37+00:00
+# Version: 1.6.8-20201213-0
+# TimeUpdated: 2020-12-13T00:09:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45830
+# Total: 45834
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -444,6 +444,7 @@ DOMAIN,1pel.com,REJECT
 DOMAIN,1phads.com,REJECT
 DOMAIN,1pop.ru,REJECT
 DOMAIN,1q2w3.website,REJECT
+DOMAIN,1q8h.cn,REJECT
 DOMAIN,1r8435gsqldr.com,REJECT
 DOMAIN,1rankingad.com,REJECT
 DOMAIN,1re.re,REJECT
@@ -8423,6 +8424,7 @@ DOMAIN,byzgoso.ru,REJECT
 DOMAIN,byzoo.org,REJECT
 DOMAIN,bza.co,REJECT
 DOMAIN,bzclk.baidu.com,REJECT
+DOMAIN,bzgxqj.com,REJECT
 DOMAIN,bzidp.com,REJECT
 DOMAIN,bzlwe.com,REJECT
 DOMAIN,bzrpvk.com,REJECT
@@ -28332,6 +28334,7 @@ DOMAIN,ozone.10jqka.com.cn,REJECT
 DOMAIN,ozonemedia.com,REJECT
 DOMAIN,ozora.work,REJECT
 DOMAIN,oztpeloyj.com,REJECT
+DOMAIN,ozvxadosic.com,REJECT
 DOMAIN,ozwjhdler.com,REJECT
 DOMAIN,p-digital-server.com,REJECT
 DOMAIN,p-l.play.aiseet.atianqi.com,REJECT
@@ -31178,6 +31181,7 @@ DOMAIN,qservz.com,REJECT
 DOMAIN,qshare.ru,REJECT
 DOMAIN,qshxc.com,REJECT
 DOMAIN,qsk666.com,REJECT
+DOMAIN,qsksdpoi.com,REJECT
 DOMAIN,qsmdeyz.cn,REJECT
 DOMAIN,qss-client.qq.com,REJECT
 DOMAIN,qsstats.com,REJECT

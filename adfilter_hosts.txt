@@ -1,11 +1,11 @@
-# Checksum: MTYwNzgwNzAxNwo=
+# Checksum: MTYwNzgxODE3Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201212-7
-# TimeUpdated: 2020-12-12T21:03:37+00:00
+# Version: 1.6.8-20201213-0
+# TimeUpdated: 2020-12-13T00:09:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45830
+# Total: 45834
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -892,6 +892,8 @@ ff02::3 ip6-allhosts
 :: 1pop.ru
 0.0.0.0 1q2w3.website
 :: 1q2w3.website
+0.0.0.0 1q8h.cn
+:: 1q8h.cn
 0.0.0.0 1r8435gsqldr.com
 :: 1r8435gsqldr.com
 0.0.0.0 1rankingad.com
@@ -16850,6 +16852,8 @@ ff02::3 ip6-allhosts
 :: bza.co
 0.0.0.0 bzclk.baidu.com
 :: bzclk.baidu.com
+0.0.0.0 bzgxqj.com
+:: bzgxqj.com
 0.0.0.0 bzidp.com
 :: bzidp.com
 0.0.0.0 bzlwe.com
@@ -56668,6 +56672,8 @@ ff02::3 ip6-allhosts
 :: ozora.work
 0.0.0.0 oztpeloyj.com
 :: oztpeloyj.com
+0.0.0.0 ozvxadosic.com
+:: ozvxadosic.com
 0.0.0.0 ozwjhdler.com
 :: ozwjhdler.com
 0.0.0.0 p-digital-server.com
@@ -62360,6 +62366,8 @@ ff02::3 ip6-allhosts
 :: qshxc.com
 0.0.0.0 qsk666.com
 :: qsk666.com
+0.0.0.0 qsksdpoi.com
+:: qsksdpoi.com
 0.0.0.0 qsmdeyz.cn
 :: qsmdeyz.cn
 0.0.0.0 qss-client.qq.com
