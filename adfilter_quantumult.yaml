@@ -1,11 +1,11 @@
-# Checksum: MTYwNzgzOTQ2Ngo=
+# Checksum: MTYwNzg1MDI0OQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-2
-# TimeUpdated: 2020-12-13T06:04:26+00:00
+# Version: 1.6.8-20201213-3
+# TimeUpdated: 2020-12-13T09:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46195
+# Total: 46184
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -676,7 +676,6 @@ DOMAIN,301pk.com,REJECT
 DOMAIN,302a67cac6.com,REJECT
 DOMAIN,302br.net,REJECT
 DOMAIN,303marketplace.com,REJECT
-DOMAIN,30407799.com,REJECT
 DOMAIN,307.cc,REJECT
 DOMAIN,30ampj.com,REJECT
 DOMAIN,30b9e3a7d7e2b.com,REJECT
@@ -1785,6 +1784,7 @@ DOMAIN,a-ssl.ligatus.com,REJECT
 DOMAIN,a-sta-cn.upltv.com,REJECT
 DOMAIN,a-static.com,REJECT
 DOMAIN,a.19869.com,REJECT
+DOMAIN,a.198banjia.com,REJECT
 DOMAIN,a.20minutes.fr,REJECT
 DOMAIN,a.4aqq.com,REJECT
 DOMAIN,a.52wubi.com,REJECT
@@ -6664,7 +6664,6 @@ DOMAIN,b1fe8a95ae27823.com,REJECT
 DOMAIN,b1g1w7wic0.com,REJECT
 DOMAIN,b1img.com,REJECT
 DOMAIN,b1sync.zemanta.com,REJECT
-DOMAIN,b1wb3fjea1.com,REJECT
 DOMAIN,b2-data.ads.heytapmobi.com,REJECT
 DOMAIN,b2.0430.com,REJECT
 DOMAIN,b2.51yangsheng.com,REJECT
@@ -7685,6 +7684,7 @@ DOMAIN,bizzclick.com,REJECT
 DOMAIN,bj.imp.voiceads.cn,REJECT
 DOMAIN,bj1110.online,REJECT
 DOMAIN,bj14.9669.cn,REJECT
+DOMAIN,bjbrtc.com,REJECT
 DOMAIN,bjcathay.com,REJECT
 DOMAIN,bjdata.ads.oppomobile.com,REJECT
 DOMAIN,bjdianyue.com,REJECT
@@ -9048,7 +9048,6 @@ DOMAIN,cdn.advsmedia.net,REJECT
 DOMAIN,cdn.aiclicash.com,REJECT
 DOMAIN,cdn.aiclk.com,REJECT
 DOMAIN,cdn.amzuu.com,REJECT
-DOMAIN,cdn.app.kachapt.cn,REJECT
 DOMAIN,cdn.app.liuxingyul.cn,REJECT
 DOMAIN,cdn.appnext.com,REJECT
 DOMAIN,cdn.ark.qq.com,REJECT
@@ -9376,7 +9375,6 @@ DOMAIN,changement.pro,REJECT
 DOMAIN,changhehengqi.com,REJECT
 DOMAIN,chango.com,REJECT
 DOMAIN,changyan.sohu.com,REJECT
-DOMAIN,chanicut.com,REJECT
 DOMAIN,channel.fanxing.kugou.com,REJECT
 DOMAIN,channel.m.163.com,REJECT
 DOMAIN,channeladvisor.com,REJECT
@@ -13988,7 +13986,6 @@ DOMAIN,e3tmyc4rbs.com,REJECT
 DOMAIN,e4npw6g7c9kk.com,REJECT
 DOMAIN,e4w50tqnqk.com,REJECT
 DOMAIN,e521d17fa185a2.com,REJECT
-DOMAIN,e53ecb6bf4460898b.com,REJECT
 DOMAIN,e5d944a25e468d.com,REJECT
 DOMAIN,e5mbjzv.com,REJECT
 DOMAIN,e5yx.com,REJECT
@@ -14289,6 +14286,7 @@ DOMAIN,edxhxu.com,REJECT
 DOMAIN,edysn.cn,REJECT
 DOMAIN,ee.2l7ha.cn,REJECT
 DOMAIN,ee.hx623.cn,REJECT
+DOMAIN,ee.inchangling.com,REJECT
 DOMAIN,ee.m19ud.cn,REJECT
 DOMAIN,ee.mfufanj.cn,REJECT
 DOMAIN,ee.shixunwang.net,REJECT
@@ -14777,7 +14775,6 @@ DOMAIN,epaaab.com,REJECT
 DOMAIN,epacash.com,REJECT
 DOMAIN,epanr.com,REJECT
 DOMAIN,epartner.es,REJECT
-DOMAIN,epbathcyav.com,REJECT
 DOMAIN,epeex.com,REJECT
 DOMAIN,epeex.io,REJECT
 DOMAIN,ependerevid.club,REJECT
@@ -16822,7 +16819,6 @@ DOMAIN,gammachug.com,REJECT
 DOMAIN,gammamaximum.com,REJECT
 DOMAIN,gammaplatform.com,REJECT
 DOMAIN,gammassp.com,REJECT
-DOMAIN,gamutely.com,REJECT
 DOMAIN,gan.doubleclick.net,REJECT
 DOMAIN,gan.wavecdn.net,REJECT
 DOMAIN,ganaar.gertibaldi.com,REJECT
@@ -17941,7 +17937,6 @@ DOMAIN,guzijie.top,REJECT
 DOMAIN,gvcmiz3vze3n.com,REJECT
 DOMAIN,gvesgrun.online,REJECT
 DOMAIN,gvisit.com,REJECT
-DOMAIN,gvzphwswtv.com,REJECT
 DOMAIN,gw.365you.com,REJECT
 DOMAIN,gw.d.ywopt.com,REJECT
 DOMAIN,gw069.com,REJECT
@@ -20869,7 +20864,6 @@ DOMAIN,jghcy.com,REJECT
 DOMAIN,jgl.microad.net,REJECT
 DOMAIN,jglinks.cn,REJECT
 DOMAIN,jgmlink.cn,REJECT
-DOMAIN,jgrsqcqdfwzu.com,REJECT
 DOMAIN,jgshare.cn,REJECT
 DOMAIN,jgstny.com,REJECT
 DOMAIN,jh76fy.xyz,REJECT
@@ -22128,7 +22122,6 @@ DOMAIN,kz.mieyisi.com,REJECT
 DOMAIN,kz.zf678.com,REJECT
 DOMAIN,kz.zzkoubei.com,REJECT
 DOMAIN,kzbiz.co,REJECT
-DOMAIN,kzlmwsyftm.com,REJECT
 DOMAIN,kzsha.com,REJECT
 DOMAIN,kzws02uffs.com,REJECT
 DOMAIN,l-shop.nullrefexcep.com,REJECT
@@ -22259,7 +22252,6 @@ DOMAIN,lanetool.info,REJECT
 DOMAIN,langchars.com,REJECT
 DOMAIN,langlishmal.club,REJECT
 DOMAIN,langren85.com,REJECT
-DOMAIN,langtzet.info,REJECT
 DOMAIN,languagelake.com,REJECT
 DOMAIN,lanistaads.com,REJECT
 DOMAIN,lanistaconcepts.com,REJECT
@@ -24574,7 +24566,6 @@ DOMAIN,maxi-ad.de,REJECT
 DOMAIN,maxiad.de,REJECT
 DOMAIN,maxiadv.com,REJECT
 DOMAIN,maximgushyoga.com,REJECT
-DOMAIN,maxoi.cn,REJECT
 DOMAIN,maxonclick.com,REJECT
 DOMAIN,maxpark.com,REJECT
 DOMAIN,maxreturn.cn,REJECT
@@ -25541,7 +25532,6 @@ DOMAIN,moafoche.com,REJECT
 DOMAIN,moapteeg.net,REJECT
 DOMAIN,moapuwhe.com,REJECT
 DOMAIN,moatads.com,REJECT
-DOMAIN,moavoara.net,REJECT
 DOMAIN,mob.12365chia.com,REJECT
 DOMAIN,mob.com,REJECT
 DOMAIN,mob.huimee.net,REJECT
@@ -33409,7 +33399,6 @@ DOMAIN,sambasys.adsame.com,REJECT
 DOMAIN,same.chinadaily.com.cn,REJECT
 DOMAIN,same.eastmoney.com,REJECT
 DOMAIN,same.stockstar.com,REJECT
-DOMAIN,same03.jrj.com.cn,REJECT
 DOMAIN,samestretch.com,REJECT
 DOMAIN,samevay.com.cn,REJECT
 DOMAIN,samiana.com,REJECT

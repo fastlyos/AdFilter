@@ -1,11 +1,11 @@
-# Checksum: MTYwNzgzOTQ2Ngo=
+# Checksum: MTYwNzg1MDI0OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-2
-# TimeUpdated: 2020-12-13T06:04:26+00:00
+# Version: 1.6.8-20201213-3
+# TimeUpdated: 2020-12-13T09:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46195
+# Total: 46184
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1356,8 +1356,6 @@ ff02::3 ip6-allhosts
 :: 302br.net
 0.0.0.0 303marketplace.com
 :: 303marketplace.com
-0.0.0.0 30407799.com
-:: 30407799.com
 0.0.0.0 307.cc
 :: 307.cc
 0.0.0.0 30ampj.com
@@ -3574,6 +3572,8 @@ ff02::3 ip6-allhosts
 :: a-static.com
 0.0.0.0 a.19869.com
 :: a.19869.com
+0.0.0.0 a.198banjia.com
+:: a.198banjia.com
 0.0.0.0 a.20minutes.fr
 :: a.20minutes.fr
 0.0.0.0 a.4aqq.com
@@ -13332,8 +13332,6 @@ ff02::3 ip6-allhosts
 :: b1img.com
 0.0.0.0 b1sync.zemanta.com
 :: b1sync.zemanta.com
-0.0.0.0 b1wb3fjea1.com
-:: b1wb3fjea1.com
 0.0.0.0 b2-data.ads.heytapmobi.com
 :: b2-data.ads.heytapmobi.com
 0.0.0.0 b2.0430.com
@@ -15374,6 +15372,8 @@ ff02::3 ip6-allhosts
 :: bj1110.online
 0.0.0.0 bj14.9669.cn
 :: bj14.9669.cn
+0.0.0.0 bjbrtc.com
+:: bjbrtc.com
 0.0.0.0 bjcathay.com
 :: bjcathay.com
 0.0.0.0 bjdata.ads.oppomobile.com
@@ -18100,8 +18100,6 @@ ff02::3 ip6-allhosts
 :: cdn.aiclk.com
 0.0.0.0 cdn.amzuu.com
 :: cdn.amzuu.com
-0.0.0.0 cdn.app.kachapt.cn
-:: cdn.app.kachapt.cn
 0.0.0.0 cdn.app.liuxingyul.cn
 :: cdn.app.liuxingyul.cn
 0.0.0.0 cdn.appnext.com
@@ -18756,8 +18754,6 @@ ff02::3 ip6-allhosts
 :: chango.com
 0.0.0.0 changyan.sohu.com
 :: changyan.sohu.com
-0.0.0.0 chanicut.com
-:: chanicut.com
 0.0.0.0 channel.fanxing.kugou.com
 :: channel.fanxing.kugou.com
 0.0.0.0 channel.m.163.com
@@ -27980,8 +27976,6 @@ ff02::3 ip6-allhosts
 :: e4w50tqnqk.com
 0.0.0.0 e521d17fa185a2.com
 :: e521d17fa185a2.com
-0.0.0.0 e53ecb6bf4460898b.com
-:: e53ecb6bf4460898b.com
 0.0.0.0 e5d944a25e468d.com
 :: e5d944a25e468d.com
 0.0.0.0 e5mbjzv.com
@@ -28582,6 +28576,8 @@ ff02::3 ip6-allhosts
 :: ee.2l7ha.cn
 0.0.0.0 ee.hx623.cn
 :: ee.hx623.cn
+0.0.0.0 ee.inchangling.com
+:: ee.inchangling.com
 0.0.0.0 ee.m19ud.cn
 :: ee.m19ud.cn
 0.0.0.0 ee.mfufanj.cn
@@ -29558,8 +29554,6 @@ ff02::3 ip6-allhosts
 :: epanr.com
 0.0.0.0 epartner.es
 :: epartner.es
-0.0.0.0 epbathcyav.com
-:: epbathcyav.com
 0.0.0.0 epeex.com
 :: epeex.com
 0.0.0.0 epeex.io
@@ -33648,8 +33642,6 @@ ff02::3 ip6-allhosts
 :: gammaplatform.com
 0.0.0.0 gammassp.com
 :: gammassp.com
-0.0.0.0 gamutely.com
-:: gamutely.com
 0.0.0.0 gan.doubleclick.net
 :: gan.doubleclick.net
 0.0.0.0 gan.wavecdn.net
@@ -35886,8 +35878,6 @@ ff02::3 ip6-allhosts
 :: gvesgrun.online
 0.0.0.0 gvisit.com
 :: gvisit.com
-0.0.0.0 gvzphwswtv.com
-:: gvzphwswtv.com
 0.0.0.0 gw.365you.com
 :: gw.365you.com
 0.0.0.0 gw.d.ywopt.com
@@ -41742,8 +41732,6 @@ ff02::3 ip6-allhosts
 :: jglinks.cn
 0.0.0.0 jgmlink.cn
 :: jgmlink.cn
-0.0.0.0 jgrsqcqdfwzu.com
-:: jgrsqcqdfwzu.com
 0.0.0.0 jgshare.cn
 :: jgshare.cn
 0.0.0.0 jgstny.com
@@ -44260,8 +44248,6 @@ ff02::3 ip6-allhosts
 :: kz.zzkoubei.com
 0.0.0.0 kzbiz.co
 :: kzbiz.co
-0.0.0.0 kzlmwsyftm.com
-:: kzlmwsyftm.com
 0.0.0.0 kzsha.com
 :: kzsha.com
 0.0.0.0 kzws02uffs.com
@@ -44522,8 +44508,6 @@ ff02::3 ip6-allhosts
 :: langlishmal.club
 0.0.0.0 langren85.com
 :: langren85.com
-0.0.0.0 langtzet.info
-:: langtzet.info
 0.0.0.0 languagelake.com
 :: languagelake.com
 0.0.0.0 lanistaads.com
@@ -49152,8 +49136,6 @@ ff02::3 ip6-allhosts
 :: maxiadv.com
 0.0.0.0 maximgushyoga.com
 :: maximgushyoga.com
-0.0.0.0 maxoi.cn
-:: maxoi.cn
 0.0.0.0 maxonclick.com
 :: maxonclick.com
 0.0.0.0 maxpark.com
@@ -51086,8 +51068,6 @@ ff02::3 ip6-allhosts
 :: moapuwhe.com
 0.0.0.0 moatads.com
 :: moatads.com
-0.0.0.0 moavoara.net
-:: moavoara.net
 0.0.0.0 mob.12365chia.com
 :: mob.12365chia.com
 0.0.0.0 mob.com
@@ -66822,8 +66802,6 @@ ff02::3 ip6-allhosts
 :: same.eastmoney.com
 0.0.0.0 same.stockstar.com
 :: same.stockstar.com
-0.0.0.0 same03.jrj.com.cn
-:: same03.jrj.com.cn
 0.0.0.0 samestretch.com
 :: samestretch.com
 0.0.0.0 samevay.com.cn

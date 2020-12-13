@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzgzOTQ2Ngo=
+# Checksum: MTYwNzg1MDI0OQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-2
-# TimeUpdated: 2020-12-13T06:04:26+00:00
+# Version: 1.6.8-20201213-3
+# TimeUpdated: 2020-12-13T09:04:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46195
+# Total: 46184
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -677,7 +677,6 @@ payload:
   - DOMAIN,302a67cac6.com
   - DOMAIN,302br.net
   - DOMAIN,303marketplace.com
-  - DOMAIN,30407799.com
   - DOMAIN,307.cc
   - DOMAIN,30ampj.com
   - DOMAIN,30b9e3a7d7e2b.com
@@ -1786,6 +1785,7 @@ payload:
   - DOMAIN,a-sta-cn.upltv.com
   - DOMAIN,a-static.com
   - DOMAIN,a.19869.com
+  - DOMAIN,a.198banjia.com
   - DOMAIN,a.20minutes.fr
   - DOMAIN,a.4aqq.com
   - DOMAIN,a.52wubi.com
@@ -6665,7 +6665,6 @@ payload:
   - DOMAIN,b1g1w7wic0.com
   - DOMAIN,b1img.com
   - DOMAIN,b1sync.zemanta.com
-  - DOMAIN,b1wb3fjea1.com
   - DOMAIN,b2-data.ads.heytapmobi.com
   - DOMAIN,b2.0430.com
   - DOMAIN,b2.51yangsheng.com
@@ -7686,6 +7685,7 @@ payload:
   - DOMAIN,bj.imp.voiceads.cn
   - DOMAIN,bj1110.online
   - DOMAIN,bj14.9669.cn
+  - DOMAIN,bjbrtc.com
   - DOMAIN,bjcathay.com
   - DOMAIN,bjdata.ads.oppomobile.com
   - DOMAIN,bjdianyue.com
@@ -9049,7 +9049,6 @@ payload:
   - DOMAIN,cdn.aiclicash.com
   - DOMAIN,cdn.aiclk.com
   - DOMAIN,cdn.amzuu.com
-  - DOMAIN,cdn.app.kachapt.cn
   - DOMAIN,cdn.app.liuxingyul.cn
   - DOMAIN,cdn.appnext.com
   - DOMAIN,cdn.ark.qq.com
@@ -9377,7 +9376,6 @@ payload:
   - DOMAIN,changhehengqi.com
   - DOMAIN,chango.com
   - DOMAIN,changyan.sohu.com
-  - DOMAIN,chanicut.com
   - DOMAIN,channel.fanxing.kugou.com
   - DOMAIN,channel.m.163.com
   - DOMAIN,channeladvisor.com
@@ -13989,7 +13987,6 @@ payload:
   - DOMAIN,e4npw6g7c9kk.com
   - DOMAIN,e4w50tqnqk.com
   - DOMAIN,e521d17fa185a2.com
-  - DOMAIN,e53ecb6bf4460898b.com
   - DOMAIN,e5d944a25e468d.com
   - DOMAIN,e5mbjzv.com
   - DOMAIN,e5yx.com
@@ -14290,6 +14287,7 @@ payload:
   - DOMAIN,edysn.cn
   - DOMAIN,ee.2l7ha.cn
   - DOMAIN,ee.hx623.cn
+  - DOMAIN,ee.inchangling.com
   - DOMAIN,ee.m19ud.cn
   - DOMAIN,ee.mfufanj.cn
   - DOMAIN,ee.shixunwang.net
@@ -14778,7 +14776,6 @@ payload:
   - DOMAIN,epacash.com
   - DOMAIN,epanr.com
   - DOMAIN,epartner.es
-  - DOMAIN,epbathcyav.com
   - DOMAIN,epeex.com
   - DOMAIN,epeex.io
   - DOMAIN,ependerevid.club
@@ -16823,7 +16820,6 @@ payload:
   - DOMAIN,gammamaximum.com
   - DOMAIN,gammaplatform.com
   - DOMAIN,gammassp.com
-  - DOMAIN,gamutely.com
   - DOMAIN,gan.doubleclick.net
   - DOMAIN,gan.wavecdn.net
   - DOMAIN,ganaar.gertibaldi.com
@@ -17942,7 +17938,6 @@ payload:
   - DOMAIN,gvcmiz3vze3n.com
   - DOMAIN,gvesgrun.online
   - DOMAIN,gvisit.com
-  - DOMAIN,gvzphwswtv.com
   - DOMAIN,gw.365you.com
   - DOMAIN,gw.d.ywopt.com
   - DOMAIN,gw069.com
@@ -20870,7 +20865,6 @@ payload:
   - DOMAIN,jgl.microad.net
   - DOMAIN,jglinks.cn
   - DOMAIN,jgmlink.cn
-  - DOMAIN,jgrsqcqdfwzu.com
   - DOMAIN,jgshare.cn
   - DOMAIN,jgstny.com
   - DOMAIN,jh76fy.xyz
@@ -22129,7 +22123,6 @@ payload:
   - DOMAIN,kz.zf678.com
   - DOMAIN,kz.zzkoubei.com
   - DOMAIN,kzbiz.co
-  - DOMAIN,kzlmwsyftm.com
   - DOMAIN,kzsha.com
   - DOMAIN,kzws02uffs.com
   - DOMAIN,l-shop.nullrefexcep.com
@@ -22260,7 +22253,6 @@ payload:
   - DOMAIN,langchars.com
   - DOMAIN,langlishmal.club
   - DOMAIN,langren85.com
-  - DOMAIN,langtzet.info
   - DOMAIN,languagelake.com
   - DOMAIN,lanistaads.com
   - DOMAIN,lanistaconcepts.com
@@ -24575,7 +24567,6 @@ payload:
   - DOMAIN,maxiad.de
   - DOMAIN,maxiadv.com
   - DOMAIN,maximgushyoga.com
-  - DOMAIN,maxoi.cn
   - DOMAIN,maxonclick.com
   - DOMAIN,maxpark.com
   - DOMAIN,maxreturn.cn
@@ -25542,7 +25533,6 @@ payload:
   - DOMAIN,moapteeg.net
   - DOMAIN,moapuwhe.com
   - DOMAIN,moatads.com
-  - DOMAIN,moavoara.net
   - DOMAIN,mob.12365chia.com
   - DOMAIN,mob.com
   - DOMAIN,mob.huimee.net
@@ -33410,7 +33400,6 @@ payload:
   - DOMAIN,same.chinadaily.com.cn
   - DOMAIN,same.eastmoney.com
   - DOMAIN,same.stockstar.com
-  - DOMAIN,same03.jrj.com.cn
   - DOMAIN,samestretch.com
   - DOMAIN,samevay.com.cn
   - DOMAIN,samiana.com
