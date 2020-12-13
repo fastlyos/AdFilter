@@ -1,11 +1,11 @@
-! Checksum: MTYwNzg2MTExMQo=
+! Checksum: MTYwNzg3MTg0NQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.6.8-20201213-4
-! TimeUpdated: 2020-12-13T12:05:11+00:00
+! Version: 1.6.8-20201213-5
+! TimeUpdated: 2020-12-13T15:04:05+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 46194
+! Total: 46196
 |0.r.msn.com^
 |0.up.qingdaonews.com^
 |001.0x1f4b0.com^
@@ -80,6 +80,7 @@
 |06f09b1008ae993a5a.com^
 |07171.com^
 |073c0cec65916314a.com^
+|0755man.cn^
 |0756j.com^
 |0757kd.cn^
 |07634.com^
@@ -10313,6 +10314,7 @@
 |collector.mediator.media^
 |collector.prod.expedia.com^
 |collector.retailcrm.pro^
+|collector.rn.de^
 |collector.roistat.com^
 |collector.schibsted.io^
 |collector.shopstream.co^
@@ -13967,7 +13969,6 @@
 |e.zkwsdf.com^
 |e.zmlfk.com^
 |e0663490cca0296f7.com^
-|e079cbbe23.com^
 |e09f3e4ceda.com^
 |e0a42e1a21669b.com^
 |e0n.cn^
@@ -34445,6 +34446,7 @@
 |shesubscriptions.com^
 |shffcy.cn^
 |shforu.com^
+|shftscdisov.com^
 |shgansheng.cn^
 |shibagongfang.com^
 |shidailw.com^

@@ -1,11 +1,11 @@
-# Checksum: MTYwNzg2MTExMQo=
+# Checksum: MTYwNzg3MTg0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-4
-# TimeUpdated: 2020-12-13T12:05:11+00:00
+# Version: 1.6.8-20201213-5
+# TimeUpdated: 2020-12-13T15:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46194
+# Total: 46196
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -164,6 +164,8 @@ ff02::3 ip6-allhosts
 :: 07171.com
 0.0.0.0 073c0cec65916314a.com
 :: 073c0cec65916314a.com
+0.0.0.0 0755man.cn
+:: 0755man.cn
 0.0.0.0 0756j.com
 :: 0756j.com
 0.0.0.0 0757kd.cn
@@ -20630,6 +20632,8 @@ ff02::3 ip6-allhosts
 :: collector.prod.expedia.com
 0.0.0.0 collector.retailcrm.pro
 :: collector.retailcrm.pro
+0.0.0.0 collector.rn.de
+:: collector.rn.de
 0.0.0.0 collector.roistat.com
 :: collector.roistat.com
 0.0.0.0 collector.schibsted.io
@@ -27938,8 +27942,6 @@ ff02::3 ip6-allhosts
 :: e.zmlfk.com
 0.0.0.0 e0663490cca0296f7.com
 :: e0663490cca0296f7.com
-0.0.0.0 e079cbbe23.com
-:: e079cbbe23.com
 0.0.0.0 e09f3e4ceda.com
 :: e09f3e4ceda.com
 0.0.0.0 e0a42e1a21669b.com
@@ -68894,6 +68896,8 @@ ff02::3 ip6-allhosts
 :: shffcy.cn
 0.0.0.0 shforu.com
 :: shforu.com
+0.0.0.0 shftscdisov.com
+:: shftscdisov.com
 0.0.0.0 shgansheng.cn
 :: shgansheng.cn
 0.0.0.0 shibagongfang.com

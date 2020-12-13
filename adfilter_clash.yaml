@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzg2MTExMQo=
+# Checksum: MTYwNzg3MTg0NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-4
-# TimeUpdated: 2020-12-13T12:05:11+00:00
+# Version: 1.6.8-20201213-5
+# TimeUpdated: 2020-12-13T15:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46194
+# Total: 46196
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -81,6 +81,7 @@ payload:
   - DOMAIN,06f09b1008ae993a5a.com
   - DOMAIN,07171.com
   - DOMAIN,073c0cec65916314a.com
+  - DOMAIN,0755man.cn
   - DOMAIN,0756j.com
   - DOMAIN,0757kd.cn
   - DOMAIN,07634.com
@@ -10314,6 +10315,7 @@ payload:
   - DOMAIN,collector.mediator.media
   - DOMAIN,collector.prod.expedia.com
   - DOMAIN,collector.retailcrm.pro
+  - DOMAIN,collector.rn.de
   - DOMAIN,collector.roistat.com
   - DOMAIN,collector.schibsted.io
   - DOMAIN,collector.shopstream.co
@@ -13968,7 +13970,6 @@ payload:
   - DOMAIN,e.zkwsdf.com
   - DOMAIN,e.zmlfk.com
   - DOMAIN,e0663490cca0296f7.com
-  - DOMAIN,e079cbbe23.com
   - DOMAIN,e09f3e4ceda.com
   - DOMAIN,e0a42e1a21669b.com
   - DOMAIN,e0n.cn
@@ -34446,6 +34447,7 @@ payload:
   - DOMAIN,shesubscriptions.com
   - DOMAIN,shffcy.cn
   - DOMAIN,shforu.com
+  - DOMAIN,shftscdisov.com
   - DOMAIN,shgansheng.cn
   - DOMAIN,shibagongfang.com
   - DOMAIN,shidailw.com
