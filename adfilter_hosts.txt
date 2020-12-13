@@ -1,11 +1,11 @@
-# Checksum: MTYwNzg1MDI0OQo=
+# Checksum: MTYwNzg2MTExMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-3
-# TimeUpdated: 2020-12-13T09:04:09+00:00
+# Version: 1.6.8-20201213-4
+# TimeUpdated: 2020-12-13T12:05:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46184
+# Total: 46194
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -790,6 +790,8 @@ ff02::3 ip6-allhosts
 :: 18naked.com
 0.0.0.0 18rm.com
 :: 18rm.com
+0.0.0.0 192b1a49d57.com
+:: 192b1a49d57.com
 0.0.0.0 1933000.com
 :: 1933000.com
 0.0.0.0 1955dcb2fee1a13.com
@@ -5252,8 +5254,6 @@ ff02::3 ip6-allhosts
 :: ad.oujdacity.net
 0.0.0.0 ad.outsidehub.com
 :: ad.outsidehub.com
-0.0.0.0 ad.outstream.today
-:: ad.outstream.today
 0.0.0.0 ad.oyy.ru
 :: ad.oyy.ru
 0.0.0.0 ad.pandora.tv
@@ -13962,6 +13962,8 @@ ff02::3 ip6-allhosts
 :: baremetrics.com
 0.0.0.0 barfsmiaowpit.com
 :: barfsmiaowpit.com
+0.0.0.0 bargainingpeacock.com
+:: bargainingpeacock.com
 0.0.0.0 bargainingrip.com
 :: bargainingrip.com
 0.0.0.0 bargaret.club
@@ -17256,6 +17258,8 @@ ff02::3 ip6-allhosts
 :: c6.friok.com
 0.0.0.0 c6.lnymd.com
 :: c6.lnymd.com
+0.0.0.0 c61ec7314ee.com
+:: c61ec7314ee.com
 0.0.0.0 c63d72a4022.com
 :: c63d72a4022.com
 0.0.0.0 c753738.r38.cf2.rackcdn.com
@@ -18614,8 +18618,6 @@ ff02::3 ip6-allhosts
 :: cfcd.duckdns.org
 0.0.0.0 cfceu.duckdns.org
 :: cfceu.duckdns.org
-0.0.0.0 cfcloudcdn.com
-:: cfcloudcdn.com
 0.0.0.0 cfcs1.duckdns.org
 :: cfcs1.duckdns.org
 0.0.0.0 cfdanet.com
@@ -19120,8 +19122,6 @@ ff02::3 ip6-allhosts
 :: cinsurmours.club
 0.0.0.0 cintent.streanplay.cc
 :: cintent.streanplay.cc
-0.0.0.0 cioqyqlkimuh.com
-:: cioqyqlkimuh.com
 0.0.0.0 circle.am
 :: circle.am
 0.0.0.0 circuitewate.space
@@ -27938,6 +27938,8 @@ ff02::3 ip6-allhosts
 :: e.zmlfk.com
 0.0.0.0 e0663490cca0296f7.com
 :: e0663490cca0296f7.com
+0.0.0.0 e079cbbe23.com
+:: e079cbbe23.com
 0.0.0.0 e09f3e4ceda.com
 :: e09f3e4ceda.com
 0.0.0.0 e0a42e1a21669b.com
@@ -30660,6 +30662,8 @@ ff02::3 ip6-allhosts
 :: exusr.com
 0.0.0.0 ey88k2770u.com
 :: ey88k2770u.com
+0.0.0.0 eycrossible.fun
+:: eycrossible.fun
 0.0.0.0 eyd77s.com
 :: eyd77s.com
 0.0.0.0 eye.swfchan.com
@@ -34462,6 +34466,8 @@ ff02::3 ip6-allhosts
 :: ggx.cmvideo.cn
 0.0.0.0 ggxt.net
 :: ggxt.net
+0.0.0.0 ggzikbwrri.com
+:: ggzikbwrri.com
 0.0.0.0 ghavcb.520jr.com
 :: ghavcb.520jr.com
 0.0.0.0 ghdccdtxvnpo.com
@@ -42926,6 +42932,8 @@ ff02::3 ip6-allhosts
 :: justicejudo.com
 0.0.0.0 justickedukil.club
 :: justickedukil.club
+0.0.0.0 justinpressed.com
+:: justinpressed.com
 0.0.0.0 justookr.net
 :: justookr.net
 0.0.0.0 justorstonsmajo.info
@@ -44246,6 +44254,8 @@ ff02::3 ip6-allhosts
 :: kz.zf678.com
 0.0.0.0 kz.zzkoubei.com
 :: kz.zzkoubei.com
+0.0.0.0 kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
+:: kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 0.0.0.0 kzbiz.co
 :: kzbiz.co
 0.0.0.0 kzsha.com
@@ -62560,6 +62570,8 @@ ff02::3 ip6-allhosts
 :: questionmarket.com
 0.0.0.0 questionpro.com
 :: questionpro.com
+0.0.0.0 questionsunpleasantaborigines.com
+:: questionsunpleasantaborigines.com
 0.0.0.0 questradeaffiliates.com
 :: questradeaffiliates.com
 0.0.0.0 questus.com
@@ -63340,6 +63352,8 @@ ff02::3 ip6-allhosts
 :: reachadv.it
 0.0.0.0 reachandrich.antevenio.com
 :: reachandrich.antevenio.com
+0.0.0.0 reacheffectsp.work
+:: reacheffectsp.work
 0.0.0.0 reachforce.com
 :: reachforce.com
 0.0.0.0 reachjunction.com
@@ -64244,6 +64258,8 @@ ff02::3 ip6-allhosts
 :: resolidarisons.website
 0.0.0.0 resolutekey.com
 :: resolutekey.com
+0.0.0.0 resolutioncomplexionfinishing.com
+:: resolutioncomplexionfinishing.com
 0.0.0.0 reson8.com
 :: reson8.com
 0.0.0.0 resonance.pk
@@ -64632,6 +64648,8 @@ ff02::3 ip6-allhosts
 :: ricqo.com
 0.0.0.0 ricyeventur.club
 :: ricyeventur.club
+0.0.0.0 ridethesisfrankly.com
+:: ridethesisfrankly.com
 0.0.0.0 ridferbad.com
 :: ridferbad.com
 0.0.0.0 ridgelorridorsag.info
@@ -69658,6 +69676,8 @@ ff02::3 ip6-allhosts
 :: skoovyads.com
 0.0.0.0 skryptcookies.pl
 :: skryptcookies.pl
+0.0.0.0 sksytkvnvnmz.com
+:: sksytkvnvnmz.com
 0.0.0.0 skullimpact.com
 :: skullimpact.com
 0.0.0.0 skurki.info

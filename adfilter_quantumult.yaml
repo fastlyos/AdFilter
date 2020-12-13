@@ -1,11 +1,11 @@
-# Checksum: MTYwNzg1MDI0OQo=
+# Checksum: MTYwNzg2MTExMQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-3
-# TimeUpdated: 2020-12-13T09:04:09+00:00
+# Version: 1.6.8-20201213-4
+# TimeUpdated: 2020-12-13T12:05:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46184
+# Total: 46194
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -393,6 +393,7 @@ DOMAIN,18dusun.com,REJECT
 DOMAIN,18mad.com,REJECT
 DOMAIN,18naked.com,REJECT
 DOMAIN,18rm.com,REJECT
+DOMAIN,192b1a49d57.com,REJECT
 DOMAIN,1933000.com,REJECT
 DOMAIN,1955dcb2fee1a13.com,REJECT
 DOMAIN,196f25ce95a.com,REJECT
@@ -2624,7 +2625,6 @@ DOMAIN,ad.openmultimedia.biz,REJECT
 DOMAIN,ad.org.vn,REJECT
 DOMAIN,ad.oujdacity.net,REJECT
 DOMAIN,ad.outsidehub.com,REJECT
-DOMAIN,ad.outstream.today,REJECT
 DOMAIN,ad.oyy.ru,REJECT
 DOMAIN,ad.pandora.tv,REJECT
 DOMAIN,ad.particlenews.com,REJECT
@@ -6979,6 +6979,7 @@ DOMAIN,barbarousnerve.com,REJECT
 DOMAIN,barddfvgkhctch11.ru,REJECT
 DOMAIN,baremetrics.com,REJECT
 DOMAIN,barfsmiaowpit.com,REJECT
+DOMAIN,bargainingpeacock.com,REJECT
 DOMAIN,bargainingrip.com,REJECT
 DOMAIN,bargaret.club,REJECT
 DOMAIN,barilliance.net,REJECT
@@ -8626,6 +8627,7 @@ DOMAIN,c545d86c18d22.com,REJECT
 DOMAIN,c5b39ff13b3259df.com,REJECT
 DOMAIN,c6.friok.com,REJECT
 DOMAIN,c6.lnymd.com,REJECT
+DOMAIN,c61ec7314ee.com,REJECT
 DOMAIN,c63d72a4022.com,REJECT
 DOMAIN,c753738.r38.cf2.rackcdn.com,REJECT
 DOMAIN,c77777777.com,REJECT
@@ -9305,7 +9307,6 @@ DOMAIN,cfasync.tk,REJECT
 DOMAIN,cfboo.com,REJECT
 DOMAIN,cfcd.duckdns.org,REJECT
 DOMAIN,cfceu.duckdns.org,REJECT
-DOMAIN,cfcloudcdn.com,REJECT
 DOMAIN,cfcs1.duckdns.org,REJECT
 DOMAIN,cfdanet.com,REJECT
 DOMAIN,cfeo.bealge.sogou.com,REJECT
@@ -9558,7 +9559,6 @@ DOMAIN,cinarra.com,REJECT
 DOMAIN,cinemahd.info,REJECT
 DOMAIN,cinsurmours.club,REJECT
 DOMAIN,cintent.streanplay.cc,REJECT
-DOMAIN,cioqyqlkimuh.com,REJECT
 DOMAIN,circle.am,REJECT
 DOMAIN,circuitewate.space,REJECT
 DOMAIN,circular-counters.com,REJECT
@@ -13967,6 +13967,7 @@ DOMAIN,e.zabxb.com,REJECT
 DOMAIN,e.zkwsdf.com,REJECT
 DOMAIN,e.zmlfk.com,REJECT
 DOMAIN,e0663490cca0296f7.com,REJECT
+DOMAIN,e079cbbe23.com,REJECT
 DOMAIN,e09f3e4ceda.com,REJECT
 DOMAIN,e0a42e1a21669b.com,REJECT
 DOMAIN,e0n.cn,REJECT
@@ -15328,6 +15329,7 @@ DOMAIN,exuberanteyes.com,REJECT
 DOMAIN,exuberantsoda.com,REJECT
 DOMAIN,exusr.com,REJECT
 DOMAIN,ey88k2770u.com,REJECT
+DOMAIN,eycrossible.fun,REJECT
 DOMAIN,eyd77s.com,REJECT
 DOMAIN,eye.swfchan.com,REJECT
 DOMAIN,eyebinvex.com,REJECT
@@ -17229,6 +17231,7 @@ DOMAIN,ggwcash.com,REJECT
 DOMAIN,ggweb.net,REJECT
 DOMAIN,ggx.cmvideo.cn,REJECT
 DOMAIN,ggxt.net,REJECT
+DOMAIN,ggzikbwrri.com,REJECT
 DOMAIN,ghavcb.520jr.com,REJECT
 DOMAIN,ghdccdtxvnpo.com,REJECT
 DOMAIN,gheochecke.com,REJECT
@@ -21461,6 +21464,7 @@ DOMAIN,justgetitfaster.com,REJECT
 DOMAIN,justicehelplesswarn.com,REJECT
 DOMAIN,justicejudo.com,REJECT
 DOMAIN,justickedukil.club,REJECT
+DOMAIN,justinpressed.com,REJECT
 DOMAIN,justookr.net,REJECT
 DOMAIN,justorstonsmajo.info,REJECT
 DOMAIN,justpremium.com,REJECT
@@ -22121,6 +22125,7 @@ DOMAIN,kyunheet.cn,REJECT
 DOMAIN,kz.mieyisi.com,REJECT
 DOMAIN,kz.zf678.com,REJECT
 DOMAIN,kz.zzkoubei.com,REJECT
+DOMAIN,kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes,REJECT
 DOMAIN,kzbiz.co,REJECT
 DOMAIN,kzsha.com,REJECT
 DOMAIN,kzws02uffs.com,REJECT
@@ -31278,6 +31283,7 @@ DOMAIN,questaurah.club,REJECT
 DOMAIN,questionfly.com,REJECT
 DOMAIN,questionmarket.com,REJECT
 DOMAIN,questionpro.com,REJECT
+DOMAIN,questionsunpleasantaborigines.com,REJECT
 DOMAIN,questradeaffiliates.com,REJECT
 DOMAIN,questus.com,REJECT
 DOMAIN,queurow.pro,REJECT
@@ -31668,6 +31674,7 @@ DOMAIN,re.taotaosou.com,REJECT
 DOMAIN,re.try9.com,REJECT
 DOMAIN,reachadv.it,REJECT
 DOMAIN,reachandrich.antevenio.com,REJECT
+DOMAIN,reacheffectsp.work,REJECT
 DOMAIN,reachforce.com,REJECT
 DOMAIN,reachjunction.com,REJECT
 DOMAIN,reachlocal.com,REJECT
@@ -32120,6 +32127,7 @@ DOMAIN,resniks.pro,REJECT
 DOMAIN,resnikscdn.pro,REJECT
 DOMAIN,resolidarisons.website,REJECT
 DOMAIN,resolutekey.com,REJECT
+DOMAIN,resolutioncomplexionfinishing.com,REJECT
 DOMAIN,reson8.com,REJECT
 DOMAIN,resonance.pk,REJECT
 DOMAIN,resonantbrush.com,REJECT
@@ -32314,6 +32322,7 @@ DOMAIN,rick-rick-rob.com,REJECT
 DOMAIN,rickysblast.cn,REJECT
 DOMAIN,ricqo.com,REJECT
 DOMAIN,ricyeventur.club,REJECT
+DOMAIN,ridethesisfrankly.com,REJECT
 DOMAIN,ridferbad.com,REJECT
 DOMAIN,ridgelorridorsag.info,REJECT
 DOMAIN,ridgendqwa.club,REJECT
@@ -34827,6 +34836,7 @@ DOMAIN,skkybrought.pro,REJECT
 DOMAIN,skl.zhazhiwei.com,REJECT
 DOMAIN,skoovyads.com,REJECT
 DOMAIN,skryptcookies.pl,REJECT
+DOMAIN,sksytkvnvnmz.com,REJECT
 DOMAIN,skullimpact.com,REJECT
 DOMAIN,skurki.info,REJECT
 DOMAIN,skwstat.ru,REJECT
