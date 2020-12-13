@@ -1,11 +1,11 @@
-# Checksum: MTYwNzgxODE3Mwo=
+# Checksum: MTYwNzgyODY3OAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-0
-# TimeUpdated: 2020-12-13T00:09:33+00:00
+# Version: 1.6.8-20201213-1
+# TimeUpdated: 2020-12-13T03:04:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45834
+# Total: 45838
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -528,7 +528,6 @@ DOMAIN,2227q.com,REJECT
 DOMAIN,222im.com,REJECT
 DOMAIN,22588888.com,REJECT
 DOMAIN,22773.com,REJECT
-DOMAIN,22a12efe35e3c2f.com,REJECT
 DOMAIN,22ei7q8l12.com,REJECT
 DOMAIN,22f9ab9c23fb9073.com,REJECT
 DOMAIN,22pixx.xyz,REJECT
@@ -1176,7 +1175,6 @@ DOMAIN,63fut3uw0b.xyz,REJECT
 DOMAIN,63kc.com,REJECT
 DOMAIN,63r2vxacp0pr.com,REJECT
 DOMAIN,63voy9ciyi14.com,REJECT
-DOMAIN,640f94e47dc41c.com,REJECT
 DOMAIN,641198810fae7.com,REJECT
 DOMAIN,643226.com,REJECT
 DOMAIN,645yvcj6c8rn.com,REJECT
@@ -9218,6 +9216,7 @@ DOMAIN,cdnstats.tube8.com,REJECT
 DOMAIN,cdnstoremedia.com,REJECT
 DOMAIN,cdntrf.com,REJECT
 DOMAIN,cdnvideo.mobi,REJECT
+DOMAIN,cdouj.com,REJECT
 DOMAIN,cdp.cloud.unity3d.com,REJECT
 DOMAIN,cds.51y5.net,REJECT
 DOMAIN,cdsbnrs.com,REJECT
@@ -9393,6 +9392,7 @@ DOMAIN,charlie.noblock.pro,REJECT
 DOMAIN,charlie2.directprimal.com,REJECT
 DOMAIN,charltonmedia.com,REJECT
 DOMAIN,charmour.club,REJECT
+DOMAIN,charmstroy.info,REJECT
 DOMAIN,chart.dk,REJECT
 DOMAIN,chartaca.com,REJECT
 DOMAIN,chartaca.com.s3.amazonaws.com,REJECT
@@ -20582,6 +20582,7 @@ DOMAIN,ivoophie.net,REJECT
 DOMAIN,ivpraz.com,REJECT
 DOMAIN,ivr.com.tr,REJECT
 DOMAIN,ivwtqfbmkwen.com,REJECT
+DOMAIN,ivxjpqksoclbyc.com,REJECT
 DOMAIN,ivy.pcauto.com.cn,REJECT
 DOMAIN,ivy.pcbaby.com.cn,REJECT
 DOMAIN,ivy.pchouse.com.cn,REJECT
@@ -34122,6 +34123,7 @@ DOMAIN,service.crypto-webminer.com,REJECT
 DOMAIN,service.danmu.youku.com,REJECT
 DOMAIN,service.epro.sogou.com,REJECT
 DOMAIN,service.jiagu.360.cn,REJECT
+DOMAIN,service.signalr.net,REJECT
 DOMAIN,service.urchin.com,REJECT
 DOMAIN,servicecut.meizu.com,REJECT
 DOMAIN,servicegetbook.net,REJECT
@@ -36475,6 +36477,7 @@ DOMAIN,streamingcastle.me,REJECT
 DOMAIN,streamsearchclub.com,REJECT
 DOMAIN,streamsend.com,REJECT
 DOMAIN,streamspeedygreatlyapplication.best,REJECT
+DOMAIN,streamspread.com,REJECT
 DOMAIN,streamyourvid.com,REJECT
 DOMAIN,streem.com.au,REJECT
 DOMAIN,street-on-which.info,REJECT
@@ -44669,6 +44672,7 @@ DOMAIN,xy-log2.tagtic.cn,REJECT
 DOMAIN,xy.com,REJECT
 DOMAIN,xy.nullrefexcep.com,REJECT
 DOMAIN,xy33.smallable.com,REJECT
+DOMAIN,xyadtlyyc.vip,REJECT
 DOMAIN,xycnz.com,REJECT
 DOMAIN,xyimg.net,REJECT
 DOMAIN,xyly2016.com,REJECT

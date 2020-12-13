@@ -1,11 +1,11 @@
-# Checksum: MTYwNzgxODE3Mwo=
+# Checksum: MTYwNzgyODY3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-0
-# TimeUpdated: 2020-12-13T00:09:33+00:00
+# Version: 1.6.8-20201213-1
+# TimeUpdated: 2020-12-13T03:04:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 45834
+# Total: 45838
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1060,8 +1060,6 @@ ff02::3 ip6-allhosts
 :: 22588888.com
 0.0.0.0 22773.com
 :: 22773.com
-0.0.0.0 22a12efe35e3c2f.com
-:: 22a12efe35e3c2f.com
 0.0.0.0 22ei7q8l12.com
 :: 22ei7q8l12.com
 0.0.0.0 22f9ab9c23fb9073.com
@@ -2356,8 +2354,6 @@ ff02::3 ip6-allhosts
 :: 63r2vxacp0pr.com
 0.0.0.0 63voy9ciyi14.com
 :: 63voy9ciyi14.com
-0.0.0.0 640f94e47dc41c.com
-:: 640f94e47dc41c.com
 0.0.0.0 641198810fae7.com
 :: 641198810fae7.com
 0.0.0.0 643226.com
@@ -18440,6 +18436,8 @@ ff02::3 ip6-allhosts
 :: cdntrf.com
 0.0.0.0 cdnvideo.mobi
 :: cdnvideo.mobi
+0.0.0.0 cdouj.com
+:: cdouj.com
 0.0.0.0 cdp.cloud.unity3d.com
 :: cdp.cloud.unity3d.com
 0.0.0.0 cds.51y5.net
@@ -18790,6 +18788,8 @@ ff02::3 ip6-allhosts
 :: charltonmedia.com
 0.0.0.0 charmour.club
 :: charmour.club
+0.0.0.0 charmstroy.info
+:: charmstroy.info
 0.0.0.0 chart.dk
 :: chart.dk
 0.0.0.0 chartaca.com
@@ -41168,6 +41168,8 @@ ff02::3 ip6-allhosts
 :: ivr.com.tr
 0.0.0.0 ivwtqfbmkwen.com
 :: ivwtqfbmkwen.com
+0.0.0.0 ivxjpqksoclbyc.com
+:: ivxjpqksoclbyc.com
 0.0.0.0 ivy.pcauto.com.cn
 :: ivy.pcauto.com.cn
 0.0.0.0 ivy.pcbaby.com.cn
@@ -68248,6 +68250,8 @@ ff02::3 ip6-allhosts
 :: service.epro.sogou.com
 0.0.0.0 service.jiagu.360.cn
 :: service.jiagu.360.cn
+0.0.0.0 service.signalr.net
+:: service.signalr.net
 0.0.0.0 service.urchin.com
 :: service.urchin.com
 0.0.0.0 servicecut.meizu.com
@@ -72954,6 +72958,8 @@ ff02::3 ip6-allhosts
 :: streamsend.com
 0.0.0.0 streamspeedygreatlyapplication.best
 :: streamspeedygreatlyapplication.best
+0.0.0.0 streamspread.com
+:: streamspread.com
 0.0.0.0 streamyourvid.com
 :: streamyourvid.com
 0.0.0.0 streem.com.au
@@ -89342,6 +89348,8 @@ ff02::3 ip6-allhosts
 :: xy.nullrefexcep.com
 0.0.0.0 xy33.smallable.com
 :: xy33.smallable.com
+0.0.0.0 xyadtlyyc.vip
+:: xyadtlyyc.vip
 0.0.0.0 xycnz.com
 :: xycnz.com
 0.0.0.0 xyimg.net
