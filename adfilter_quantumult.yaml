@@ -1,11 +1,11 @@
-# Checksum: MTYwNzg3MTg0NQo=
+# Checksum: MTYwNzg4MjY0OAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-5
-# TimeUpdated: 2020-12-13T15:04:05+00:00
+# Version: 1.6.8-20201213-6
+# TimeUpdated: 2020-12-13T18:04:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46196
+# Total: 46197
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -523,6 +523,7 @@ DOMAIN,21c9a53484951.com,REJECT
 DOMAIN,21find.com,REJECT
 DOMAIN,21kk.cc,REJECT
 DOMAIN,21sexturycash.com,REJECT
+DOMAIN,21xsk.com,REJECT
 DOMAIN,22.qingsongbar.com,REJECT
 DOMAIN,220efda3143.com,REJECT
 DOMAIN,222627.com,REJECT
@@ -1755,7 +1756,6 @@ DOMAIN,9t5.me,REJECT
 DOMAIN,9tn.cc,REJECT
 DOMAIN,9ts3tpia.com,REJECT
 DOMAIN,9tumza4dp4o9.com,REJECT
-DOMAIN,9ucm.com,REJECT
 DOMAIN,9um9jq799.com,REJECT
 DOMAIN,9utwbj08.top,REJECT
 DOMAIN,9uys.co,REJECT
@@ -8416,6 +8416,7 @@ DOMAIN,bynff.com,REJECT
 DOMAIN,bypassed.ws,REJECT
 DOMAIN,bypbwm.cn,REJECT
 DOMAIN,byspot.com,REJECT
+DOMAIN,bystfied.pro,REJECT
 DOMAIN,bytde.com,REJECT
 DOMAIN,bytecoin.crypto-webminer.com,REJECT
 DOMAIN,bytemgdd.com,REJECT
