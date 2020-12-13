@@ -1,11 +1,11 @@
-# Checksum: MTYwNzg4MjY0OAo=
+# Checksum: MTYwNzg5MzQ0NQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-6
-# TimeUpdated: 2020-12-13T18:04:08+00:00
+# Version: 1.6.8-20201213-7
+# TimeUpdated: 2020-12-13T21:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46197
+# Total: 46205
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,001.0x1f4b0.com,REJECT
@@ -4451,7 +4451,6 @@ DOMAIN,aecbhedvuibuab.biduo.cc,REJECT
 DOMAIN,aeckcjy.com,REJECT
 DOMAIN,aecpm.alicdn.com,REJECT
 DOMAIN,aeesy.com,REJECT
-DOMAIN,aeghae5y.com,REJECT
 DOMAIN,aegis.qq.com,REJECT
 DOMAIN,aelphotog.pro,REJECT
 DOMAIN,aem-collector.daumkakao.io,REJECT
@@ -7372,6 +7371,7 @@ DOMAIN,bentonow.com,REJECT
 DOMAIN,beonixom.com,REJECT
 DOMAIN,beopinion.com,REJECT
 DOMAIN,bepolite.eu,REJECT
+DOMAIN,beqkxrcgjfnc.com,REJECT
 DOMAIN,berateveng.ru,REJECT
 DOMAIN,berg-6-82.com,REJECT
 DOMAIN,bergfi.com,REJECT
@@ -7582,6 +7582,7 @@ DOMAIN,bigtracker.com,REJECT
 DOMAIN,bigyapan.hamropatro.com,REJECT
 DOMAIN,bihaipack.com,REJECT
 DOMAIN,bihyteqy.xyz,REJECT
+DOMAIN,bikeacasqaxbs.com,REJECT
 DOMAIN,bikepasture.com,REJECT
 DOMAIN,bildirnet.com,REJECT
 DOMAIN,bildirt.com,REJECT
@@ -8750,6 +8751,7 @@ DOMAIN,calotag.com,REJECT
 DOMAIN,caltat.com,REJECT
 DOMAIN,cam-lolita.net,REJECT
 DOMAIN,cam4flat.com,REJECT
+DOMAIN,camadmin.ru,REJECT
 DOMAIN,camakaroda.com,REJECT
 DOMAIN,cambrianter.club,REJECT
 DOMAIN,camcrush.com,REJECT
@@ -13902,6 +13904,7 @@ DOMAIN,e.kuaishou.com,REJECT
 DOMAIN,e.kuwoyy.com,REJECT
 DOMAIN,e.kyyqhpi.cn,REJECT
 DOMAIN,e.kzwsh.cn,REJECT
+DOMAIN,e.lfdydk.com,REJECT
 DOMAIN,e.ljuer.com,REJECT
 DOMAIN,e.lndjj.com,REJECT
 DOMAIN,e.lovezhishou.com,REJECT
@@ -18293,6 +18296,7 @@ DOMAIN,hbstty.com,REJECT
 DOMAIN,hbttcc.com,REJECT
 DOMAIN,hbuvh.com,REJECT
 DOMAIN,hbx.df-srv.de,REJECT
+DOMAIN,hbyingchang.cn,REJECT
 DOMAIN,hbyyzm.com,REJECT
 DOMAIN,hbzjht.com,REJECT
 DOMAIN,hc-analytics.idp.clogin.att.com,REJECT
@@ -18406,6 +18410,7 @@ DOMAIN,helloreverb.com,REJECT
 DOMAIN,hellosherpa.com,REJECT
 DOMAIN,helltraffic.com,REJECT
 DOMAIN,helove.xyz,REJECT
+DOMAIN,heloymydva.com,REJECT
 DOMAIN,help.cnzz.com,REJECT
 DOMAIN,help.yunaq.com,REJECT
 DOMAIN,helpful-web.com,REJECT
@@ -21145,6 +21150,7 @@ DOMAIN,jrlt.beacon.qq.com,REJECT
 DOMAIN,jroqvbvw.info,REJECT
 DOMAIN,jrpt.jrptweb.org,REJECT
 DOMAIN,jrsrshjlzdvsk.com,REJECT
+DOMAIN,jrvcwxubg.com,REJECT
 DOMAIN,jrvdga.com,REJECT
 DOMAIN,jrvtmfxkkl.com,REJECT
 DOMAIN,js-1.pchome.net,REJECT
@@ -31234,6 +31240,7 @@ DOMAIN,qtbb6.com,REJECT
 DOMAIN,qtiyntsp.com,REJECT
 DOMAIN,qtpb.12jf3.cn,REJECT
 DOMAIN,qtpmvoqqzrn.com,REJECT
+DOMAIN,qttbfdygj.com,REJECT
 DOMAIN,qttmjwno.com,REJECT
 DOMAIN,qtymi.com,REJECT
 DOMAIN,quacksquirrel.com,REJECT
@@ -40401,6 +40408,7 @@ DOMAIN,urltraf.com,REJECT
 DOMAIN,urmilan.info,REJECT
 DOMAIN,urnawareflan.com,REJECT
 DOMAIN,urnkawsxxh.com,REJECT
+DOMAIN,uroidgcc.com,REJECT
 DOMAIN,uropersag.club,REJECT
 DOMAIN,urs.metacritic.com,REJECT
 DOMAIN,urs.zdnet.com,REJECT
