@@ -1,11 +1,11 @@
-# Checksum: MTYwNzk2OTA3Mwo=
+# Checksum: MTYwNzk3OTg0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-6
-# TimeUpdated: 2020-12-14T18:04:33+00:00
+# Version: 1.6.9-20201214-7
+# TimeUpdated: 2020-12-14T21:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51500
+# Total: 51508
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1564,8 +1564,6 @@ ff02::3 ip6-allhosts
 :: 3585656d9351553f.com
 0.0.0.0 35baba.cn
 :: 35baba.cn
-0.0.0.0 35d59588f15966.com
-:: 35d59588f15966.com
 0.0.0.0 35jd5gql9m.monster
 :: 35jd5gql9m.monster
 0.0.0.0 3600.com
@@ -2640,6 +2638,8 @@ ff02::3 ip6-allhosts
 :: 6huu.com
 0.0.0.0 6i4uibyg0c82.com
 :: 6i4uibyg0c82.com
+0.0.0.0 6jfvnf69jx.ru
+:: 6jfvnf69jx.ru
 0.0.0.0 6kr4ccy1.com
 :: 6kr4ccy1.com
 0.0.0.0 6kup12tgxx.com
@@ -4312,6 +4312,8 @@ ff02::3 ip6-allhosts
 :: aa.shgansheng.cn
 0.0.0.0 aa.voice2page.com
 :: aa.voice2page.com
+0.0.0.0 aa.zldh123.com
+:: aa.zldh123.com
 0.0.0.0 aa0.pub.funshion.com
 :: aa0.pub.funshion.com
 0.0.0.0 aa1.pub.funshion.com
@@ -10514,6 +10516,8 @@ ff02::3 ip6-allhosts
 :: adstonesik.club
 0.0.0.0 adstream.cardboardfish.com
 :: adstream.cardboardfish.com
+0.0.0.0 adstudio.cloud
+:: adstudio.cloud
 0.0.0.0 adstuna.com
 :: adstuna.com
 0.0.0.0 adsubon.com
@@ -14168,6 +14172,8 @@ ff02::3 ip6-allhosts
 :: api.atdmt.com
 0.0.0.0 api.bailingjiankang.com
 :: api.bailingjiankang.com
+0.0.0.0 api.bd-gl.com
+:: api.bd-gl.com
 0.0.0.0 api.bitp.it
 :: api.bitp.it
 0.0.0.0 api.bonusberry.ru
@@ -15618,8 +15624,6 @@ ff02::3 ip6-allhosts
 :: atsptp.com
 0.0.0.0 att.stargame.com
 :: att.stargame.com
-0.0.0.0 attach.s8bbs.com
-:: attach.s8bbs.com
 0.0.0.0 attacketslovern.info
 :: attacketslovern.info
 0.0.0.0 attacketsun.space
@@ -16784,8 +16788,6 @@ ff02::3 ip6-allhosts
 :: banery.onet.pl
 0.0.0.0 banesnorttat.cam
 :: banesnorttat.cam
-0.0.0.0 bang-hotties.com
-:: bang-hotties.com
 0.0.0.0 bang5mai.com
 :: bang5mai.com
 0.0.0.0 bangbang521.com
@@ -23176,6 +23178,8 @@ ff02::3 ip6-allhosts
 :: clarivoy.com
 0.0.0.0 clarizonsimp.top
 :: clarizonsimp.top
+0.0.0.0 clarm.ru
+:: clarm.ru
 0.0.0.0 clash-media.com
 :: clash-media.com
 0.0.0.0 clasphs.xyz
@@ -33060,6 +33064,8 @@ ff02::3 ip6-allhosts
 :: eco.3q4td5.xyz
 0.0.0.0 eco.875tf.xyz
 :: eco.875tf.xyz
+0.0.0.0 eco.qasdw3.xyz
+:: eco.qasdw3.xyz
 0.0.0.0 eco.qwger.xyz
 :: eco.qwger.xyz
 0.0.0.0 eco.taobao.com
@@ -35032,6 +35038,8 @@ ff02::3 ip6-allhosts
 :: events.artirix.com
 0.0.0.0 events.attentivemobile.com
 :: events.attentivemobile.com
+0.0.0.0 events.audiate.me
+:: events.audiate.me
 0.0.0.0 events.avantisvideo.com
 :: events.avantisvideo.com
 0.0.0.0 events.brightline.tv
@@ -43952,6 +43960,8 @@ ff02::3 ip6-allhosts
 :: hyperion.adtech.us
 0.0.0.0 hyperlinksecure.com
 :: hyperlinksecure.com
+0.0.0.0 hyperoi.com
+:: hyperoi.com
 0.0.0.0 hyperpromote.com
 :: hyperpromote.com
 0.0.0.0 hypers.com
@@ -56660,6 +56670,8 @@ ff02::3 ip6-allhosts
 :: metrics.lhj.com
 0.0.0.0 metrics.macys.net
 :: metrics.macys.net
+0.0.0.0 metrics.makemytrip.com
+:: metrics.makemytrip.com
 0.0.0.0 metrics.mlive.com
 :: metrics.mlive.com
 0.0.0.0 metrics.mysanantonio.com
@@ -59130,6 +59142,8 @@ ff02::3 ip6-allhosts
 :: mvo.h56h5r.xyz
 0.0.0.0 mvo.j6yh5.xyz
 :: mvo.j6yh5.xyz
+0.0.0.0 mvo.lki6hy.xyz
+:: mvo.lki6hy.xyz
 0.0.0.0 mvo.m456d.xyz
 :: mvo.m456d.xyz
 0.0.0.0 mvo.mftgyh.xyz
@@ -72980,6 +72994,8 @@ ff02::3 ip6-allhosts
 :: rmpad.imtt.qq.com
 0.0.0.0 rmqygg2zv24y.com
 :: rmqygg2zv24y.com
+0.0.0.0 rmraos.com
+:: rmraos.com
 0.0.0.0 rmtwnrwnhu.com
 :: rmtwnrwnhu.com
 0.0.0.0 rmtx.ra.icast.cn

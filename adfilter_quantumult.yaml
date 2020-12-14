@@ -1,11 +1,11 @@
-# Checksum: MTYwNzk2OTA3Mwo=
+# Checksum: MTYwNzk3OTg0Ngo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-6
-# TimeUpdated: 2020-12-14T18:04:33+00:00
+# Version: 1.6.9-20201214-7
+# TimeUpdated: 2020-12-14T21:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51500
+# Total: 51508
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -780,7 +780,6 @@ DOMAIN,34pavouhj7.com,REJECT
 DOMAIN,350media.com,REJECT
 DOMAIN,3585656d9351553f.com,REJECT
 DOMAIN,35baba.cn,REJECT
-DOMAIN,35d59588f15966.com,REJECT
 DOMAIN,35jd5gql9m.monster,REJECT
 DOMAIN,3600.com,REJECT
 DOMAIN,360366.net,REJECT
@@ -1318,6 +1317,7 @@ DOMAIN,6fxtpu64lxyt.com,REJECT
 DOMAIN,6gijbgjyzc14.com,REJECT
 DOMAIN,6huu.com,REJECT
 DOMAIN,6i4uibyg0c82.com,REJECT
+DOMAIN,6jfvnf69jx.ru,REJECT
 DOMAIN,6kr4ccy1.com,REJECT
 DOMAIN,6kup12tgxx.com,REJECT
 DOMAIN,6kwan.com,REJECT
@@ -2154,6 +2154,7 @@ DOMAIN,aa.scw0.com,REJECT
 DOMAIN,aa.sdo.com,REJECT
 DOMAIN,aa.shgansheng.cn,REJECT
 DOMAIN,aa.voice2page.com,REJECT
+DOMAIN,aa.zldh123.com,REJECT
 DOMAIN,aa0.pub.funshion.com,REJECT
 DOMAIN,aa1.pub.funshion.com,REJECT
 DOMAIN,aa24h.com,REJECT
@@ -5255,6 +5256,7 @@ DOMAIN,adstogo.com,REJECT
 DOMAIN,adstome.com,REJECT
 DOMAIN,adstonesik.club,REJECT
 DOMAIN,adstream.cardboardfish.com,REJECT
+DOMAIN,adstudio.cloud,REJECT
 DOMAIN,adstuna.com,REJECT
 DOMAIN,adsubon.com,REJECT
 DOMAIN,adsunflower.cn,REJECT
@@ -7082,6 +7084,7 @@ DOMAIN,api.appsflyer.com,REJECT
 DOMAIN,api.apptentive.com,REJECT
 DOMAIN,api.atdmt.com,REJECT
 DOMAIN,api.bailingjiankang.com,REJECT
+DOMAIN,api.bd-gl.com,REJECT
 DOMAIN,api.bitp.it,REJECT
 DOMAIN,api.bonusberry.ru,REJECT
 DOMAIN,api.browsermine.com,REJECT
@@ -7807,7 +7810,6 @@ DOMAIN,ats.otto.de,REJECT
 DOMAIN,atsfi.de,REJECT
 DOMAIN,atsptp.com,REJECT
 DOMAIN,att.stargame.com,REJECT
-DOMAIN,attach.s8bbs.com,REJECT
 DOMAIN,attacketslovern.info,REJECT
 DOMAIN,attacketsun.space,REJECT
 DOMAIN,attackscabbagevengeance.com,REJECT
@@ -8390,7 +8392,6 @@ DOMAIN,banery.acr.pl,REJECT
 DOMAIN,banery.netart.pl,REJECT
 DOMAIN,banery.onet.pl,REJECT
 DOMAIN,banesnorttat.cam,REJECT
-DOMAIN,bang-hotties.com,REJECT
 DOMAIN,bang5mai.com,REJECT
 DOMAIN,bangbang521.com,REJECT
 DOMAIN,bangdom.com,REJECT
@@ -11586,6 +11587,7 @@ DOMAIN,claritytag.com,REJECT
 DOMAIN,clarium.global.ssl.fastly.net,REJECT
 DOMAIN,clarivoy.com,REJECT
 DOMAIN,clarizonsimp.top,REJECT
+DOMAIN,clarm.ru,REJECT
 DOMAIN,clash-media.com,REJECT
 DOMAIN,clasphs.xyz,REJECT
 DOMAIN,class2deal.com,REJECT
@@ -16528,6 +16530,7 @@ DOMAIN,ecn5.com,REJECT
 DOMAIN,eco.2t4fe.xyz,REJECT
 DOMAIN,eco.3q4td5.xyz,REJECT
 DOMAIN,eco.875tf.xyz,REJECT
+DOMAIN,eco.qasdw3.xyz,REJECT
 DOMAIN,eco.qwger.xyz,REJECT
 DOMAIN,eco.taobao.com,REJECT
 DOMAIN,eco.vcbn65.xyz,REJECT
@@ -17514,6 +17517,7 @@ DOMAIN,events.api.godaddy.com,REJECT
 DOMAIN,events.appsflyer.com,REJECT
 DOMAIN,events.artirix.com,REJECT
 DOMAIN,events.attentivemobile.com,REJECT
+DOMAIN,events.audiate.me,REJECT
 DOMAIN,events.avantisvideo.com,REJECT
 DOMAIN,events.brightline.tv,REJECT
 DOMAIN,events.browsiprod.com,REJECT
@@ -21974,6 +21978,7 @@ DOMAIN,hyperboardupil.info,REJECT
 DOMAIN,hyperion.adtech.fr,REJECT
 DOMAIN,hyperion.adtech.us,REJECT
 DOMAIN,hyperlinksecure.com,REJECT
+DOMAIN,hyperoi.com,REJECT
 DOMAIN,hyperpromote.com,REJECT
 DOMAIN,hypers.com,REJECT
 DOMAIN,hypertracker.com,REJECT
@@ -28328,6 +28333,7 @@ DOMAIN,metrics.ktvb.com,REJECT
 DOMAIN,metrics.landolakes.com,REJECT
 DOMAIN,metrics.lhj.com,REJECT
 DOMAIN,metrics.macys.net,REJECT
+DOMAIN,metrics.makemytrip.com,REJECT
 DOMAIN,metrics.mlive.com,REJECT
 DOMAIN,metrics.mysanantonio.com,REJECT
 DOMAIN,metrics.n-tv.de,REJECT
@@ -29563,6 +29569,7 @@ DOMAIN,mvo.g45td.xyz,REJECT
 DOMAIN,mvo.g4rre.xyz,REJECT
 DOMAIN,mvo.h56h5r.xyz,REJECT
 DOMAIN,mvo.j6yh5.xyz,REJECT
+DOMAIN,mvo.lki6hy.xyz,REJECT
 DOMAIN,mvo.m456d.xyz,REJECT
 DOMAIN,mvo.mftgyh.xyz,REJECT
 DOMAIN,mvo.myt7th.xyz,REJECT
@@ -36488,6 +36495,7 @@ DOMAIN,rmoeu.mercury.sogou.com,REJECT
 DOMAIN,rmoreagricula.info,REJECT
 DOMAIN,rmpad.imtt.qq.com,REJECT
 DOMAIN,rmqygg2zv24y.com,REJECT
+DOMAIN,rmraos.com,REJECT
 DOMAIN,rmtwnrwnhu.com,REJECT
 DOMAIN,rmtx.ra.icast.cn,REJECT
 DOMAIN,rmvjk.com,REJECT

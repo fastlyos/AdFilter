@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzk2OTA3Mwo=
+# Checksum: MTYwNzk3OTg0Ngo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-6
-# TimeUpdated: 2020-12-14T18:04:33+00:00
+# Version: 1.6.9-20201214-7
+# TimeUpdated: 2020-12-14T21:04:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51500
+# Total: 51508
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -781,7 +781,6 @@ payload:
   - DOMAIN,350media.com
   - DOMAIN,3585656d9351553f.com
   - DOMAIN,35baba.cn
-  - DOMAIN,35d59588f15966.com
   - DOMAIN,35jd5gql9m.monster
   - DOMAIN,3600.com
   - DOMAIN,360366.net
@@ -1319,6 +1318,7 @@ payload:
   - DOMAIN,6gijbgjyzc14.com
   - DOMAIN,6huu.com
   - DOMAIN,6i4uibyg0c82.com
+  - DOMAIN,6jfvnf69jx.ru
   - DOMAIN,6kr4ccy1.com
   - DOMAIN,6kup12tgxx.com
   - DOMAIN,6kwan.com
@@ -2155,6 +2155,7 @@ payload:
   - DOMAIN,aa.sdo.com
   - DOMAIN,aa.shgansheng.cn
   - DOMAIN,aa.voice2page.com
+  - DOMAIN,aa.zldh123.com
   - DOMAIN,aa0.pub.funshion.com
   - DOMAIN,aa1.pub.funshion.com
   - DOMAIN,aa24h.com
@@ -5256,6 +5257,7 @@ payload:
   - DOMAIN,adstome.com
   - DOMAIN,adstonesik.club
   - DOMAIN,adstream.cardboardfish.com
+  - DOMAIN,adstudio.cloud
   - DOMAIN,adstuna.com
   - DOMAIN,adsubon.com
   - DOMAIN,adsunflower.cn
@@ -7083,6 +7085,7 @@ payload:
   - DOMAIN,api.apptentive.com
   - DOMAIN,api.atdmt.com
   - DOMAIN,api.bailingjiankang.com
+  - DOMAIN,api.bd-gl.com
   - DOMAIN,api.bitp.it
   - DOMAIN,api.bonusberry.ru
   - DOMAIN,api.browsermine.com
@@ -7808,7 +7811,6 @@ payload:
   - DOMAIN,atsfi.de
   - DOMAIN,atsptp.com
   - DOMAIN,att.stargame.com
-  - DOMAIN,attach.s8bbs.com
   - DOMAIN,attacketslovern.info
   - DOMAIN,attacketsun.space
   - DOMAIN,attackscabbagevengeance.com
@@ -8391,7 +8393,6 @@ payload:
   - DOMAIN,banery.netart.pl
   - DOMAIN,banery.onet.pl
   - DOMAIN,banesnorttat.cam
-  - DOMAIN,bang-hotties.com
   - DOMAIN,bang5mai.com
   - DOMAIN,bangbang521.com
   - DOMAIN,bangdom.com
@@ -11587,6 +11588,7 @@ payload:
   - DOMAIN,clarium.global.ssl.fastly.net
   - DOMAIN,clarivoy.com
   - DOMAIN,clarizonsimp.top
+  - DOMAIN,clarm.ru
   - DOMAIN,clash-media.com
   - DOMAIN,clasphs.xyz
   - DOMAIN,class2deal.com
@@ -16529,6 +16531,7 @@ payload:
   - DOMAIN,eco.2t4fe.xyz
   - DOMAIN,eco.3q4td5.xyz
   - DOMAIN,eco.875tf.xyz
+  - DOMAIN,eco.qasdw3.xyz
   - DOMAIN,eco.qwger.xyz
   - DOMAIN,eco.taobao.com
   - DOMAIN,eco.vcbn65.xyz
@@ -17515,6 +17518,7 @@ payload:
   - DOMAIN,events.appsflyer.com
   - DOMAIN,events.artirix.com
   - DOMAIN,events.attentivemobile.com
+  - DOMAIN,events.audiate.me
   - DOMAIN,events.avantisvideo.com
   - DOMAIN,events.brightline.tv
   - DOMAIN,events.browsiprod.com
@@ -21975,6 +21979,7 @@ payload:
   - DOMAIN,hyperion.adtech.fr
   - DOMAIN,hyperion.adtech.us
   - DOMAIN,hyperlinksecure.com
+  - DOMAIN,hyperoi.com
   - DOMAIN,hyperpromote.com
   - DOMAIN,hypers.com
   - DOMAIN,hypertracker.com
@@ -28329,6 +28334,7 @@ payload:
   - DOMAIN,metrics.landolakes.com
   - DOMAIN,metrics.lhj.com
   - DOMAIN,metrics.macys.net
+  - DOMAIN,metrics.makemytrip.com
   - DOMAIN,metrics.mlive.com
   - DOMAIN,metrics.mysanantonio.com
   - DOMAIN,metrics.n-tv.de
@@ -29564,6 +29570,7 @@ payload:
   - DOMAIN,mvo.g4rre.xyz
   - DOMAIN,mvo.h56h5r.xyz
   - DOMAIN,mvo.j6yh5.xyz
+  - DOMAIN,mvo.lki6hy.xyz
   - DOMAIN,mvo.m456d.xyz
   - DOMAIN,mvo.mftgyh.xyz
   - DOMAIN,mvo.myt7th.xyz
@@ -36489,6 +36496,7 @@ payload:
   - DOMAIN,rmoreagricula.info
   - DOMAIN,rmpad.imtt.qq.com
   - DOMAIN,rmqygg2zv24y.com
+  - DOMAIN,rmraos.com
   - DOMAIN,rmtwnrwnhu.com
   - DOMAIN,rmtx.ra.icast.cn
   - DOMAIN,rmvjk.com
