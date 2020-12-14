@@ -1,11 +1,11 @@
-# Checksum: MTYwNzk0NzU1NQo=
+# Checksum: MTYwNzk1ODI2Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-4
-# TimeUpdated: 2020-12-14T12:05:55+00:00
+# Version: 1.6.9-20201214-5
+# TimeUpdated: 2020-12-14T15:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51501
+# Total: 51500
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -4312,8 +4312,6 @@ ff02::3 ip6-allhosts
 :: aa.shgansheng.cn
 0.0.0.0 aa.voice2page.com
 :: aa.voice2page.com
-0.0.0.0 aa.zldh123.com
-:: aa.zldh123.com
 0.0.0.0 aa0.pub.funshion.com
 :: aa0.pub.funshion.com
 0.0.0.0 aa1.pub.funshion.com
@@ -6800,8 +6798,6 @@ ff02::3 ip6-allhosts
 :: adhaus.de
 0.0.0.0 adhaven.com
 :: adhaven.com
-0.0.0.0 adhdsb.cn
-:: adhdsb.cn
 0.0.0.0 adhealers.com
 :: adhealers.com
 0.0.0.0 adhearus.com
@@ -20576,8 +20572,6 @@ ff02::3 ip6-allhosts
 :: c.fi.msn.com
 0.0.0.0 c.fr.msn.com
 :: c.fr.msn.com
-0.0.0.0 c.future888.net
-:: c.future888.net
 0.0.0.0 c.gazetevatan.com
 :: c.gazetevatan.com
 0.0.0.0 c.gdt.qq.com
@@ -34962,6 +34956,8 @@ ff02::3 ip6-allhosts
 :: evantage.club
 0.0.0.0 evantative.top
 :: evantative.top
+0.0.0.0 evasiondemandedlearning.com
+:: evasiondemandedlearning.com
 0.0.0.0 evatelyenu.club
 :: evatelyenu.club
 0.0.0.0 evefashion.cn
@@ -58864,6 +58860,8 @@ ff02::3 ip6-allhosts
 :: mta.qq.com
 0.0.0.0 mtag.mman.kr
 :: mtag.mman.kr
+0.0.0.0 mtav1.com
+:: mtav1.com
 0.0.0.0 mtburn.com
 :: mtburn.com
 0.0.0.0 mtburn.jp
@@ -70172,8 +70170,6 @@ ff02::3 ip6-allhosts
 :: qkrcmiwa289z.com
 0.0.0.0 qkvklknzycrgo.com
 :: qkvklknzycrgo.com
-0.0.0.0 qkykxrm.cn
-:: qkykxrm.cn
 0.0.0.0 qkzwxhcleqj.com
 :: qkzwxhcleqj.com
 0.0.0.0 ql.uzuzuz.com
@@ -100328,6 +100324,8 @@ ff02::3 ip6-allhosts
 :: xue.zbyw.cn
 0.0.0.0 xuehelei.com
 :: xuehelei.com
+0.0.0.0 xuenengyoujiaoyu.com
+:: xuenengyoujiaoyu.com
 0.0.0.0 xuexi.hydcd.com
 :: xuexi.hydcd.com
 0.0.0.0 xuexingkeji.cn

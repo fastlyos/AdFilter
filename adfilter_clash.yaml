@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzk0NzU1NQo=
+# Checksum: MTYwNzk1ODI2Nwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-4
-# TimeUpdated: 2020-12-14T12:05:55+00:00
+# Version: 1.6.9-20201214-5
+# TimeUpdated: 2020-12-14T15:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51501
+# Total: 51500
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2155,7 +2155,6 @@ payload:
   - DOMAIN,aa.sdo.com
   - DOMAIN,aa.shgansheng.cn
   - DOMAIN,aa.voice2page.com
-  - DOMAIN,aa.zldh123.com
   - DOMAIN,aa0.pub.funshion.com
   - DOMAIN,aa1.pub.funshion.com
   - DOMAIN,aa24h.com
@@ -3399,7 +3398,6 @@ payload:
   - DOMAIN,adhands.ru
   - DOMAIN,adhaus.de
   - DOMAIN,adhaven.com
-  - DOMAIN,adhdsb.cn
   - DOMAIN,adhealers.com
   - DOMAIN,adhearus.com
   - DOMAIN,adhese.be
@@ -10287,7 +10285,6 @@ payload:
   - DOMAIN,c.fedsdq.com
   - DOMAIN,c.fi.msn.com
   - DOMAIN,c.fr.msn.com
-  - DOMAIN,c.future888.net
   - DOMAIN,c.gazetevatan.com
   - DOMAIN,c.gdt.qq.com
   - DOMAIN,c.gr.msn.com
@@ -17480,6 +17477,7 @@ payload:
   - DOMAIN,evania.de
   - DOMAIN,evantage.club
   - DOMAIN,evantative.top
+  - DOMAIN,evasiondemandedlearning.com
   - DOMAIN,evatelyenu.club
   - DOMAIN,evefashion.cn
   - DOMAIN,evemasoil.com
@@ -29431,6 +29429,7 @@ payload:
   - DOMAIN,mt.sellingrealestatemalta.com
   - DOMAIN,mta.qq.com
   - DOMAIN,mtag.mman.kr
+  - DOMAIN,mtav1.com
   - DOMAIN,mtburn.com
   - DOMAIN,mtburn.jp
   - DOMAIN,mtc.nhk.or.jp
@@ -35085,7 +35084,6 @@ payload:
   - DOMAIN,qkptx.com
   - DOMAIN,qkrcmiwa289z.com
   - DOMAIN,qkvklknzycrgo.com
-  - DOMAIN,qkykxrm.cn
   - DOMAIN,qkzwxhcleqj.com
   - DOMAIN,ql.uzuzuz.com
   - DOMAIN,qlaot.com
@@ -50163,6 +50161,7 @@ payload:
   - DOMAIN,xuanmeiguoji.com
   - DOMAIN,xue.zbyw.cn
   - DOMAIN,xuehelei.com
+  - DOMAIN,xuenengyoujiaoyu.com
   - DOMAIN,xuexi.hydcd.com
   - DOMAIN,xuexingkeji.cn
   - DOMAIN,xueyanshan.com

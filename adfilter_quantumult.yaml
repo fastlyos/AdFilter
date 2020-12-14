@@ -1,11 +1,11 @@
-# Checksum: MTYwNzk0NzU1NQo=
+# Checksum: MTYwNzk1ODI2Nwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-4
-# TimeUpdated: 2020-12-14T12:05:55+00:00
+# Version: 1.6.9-20201214-5
+# TimeUpdated: 2020-12-14T15:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51501
+# Total: 51500
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -2154,7 +2154,6 @@ DOMAIN,aa.scw0.com,REJECT
 DOMAIN,aa.sdo.com,REJECT
 DOMAIN,aa.shgansheng.cn,REJECT
 DOMAIN,aa.voice2page.com,REJECT
-DOMAIN,aa.zldh123.com,REJECT
 DOMAIN,aa0.pub.funshion.com,REJECT
 DOMAIN,aa1.pub.funshion.com,REJECT
 DOMAIN,aa24h.com,REJECT
@@ -3398,7 +3397,6 @@ DOMAIN,adguanggao.eee114.com,REJECT
 DOMAIN,adhands.ru,REJECT
 DOMAIN,adhaus.de,REJECT
 DOMAIN,adhaven.com,REJECT
-DOMAIN,adhdsb.cn,REJECT
 DOMAIN,adhealers.com,REJECT
 DOMAIN,adhearus.com,REJECT
 DOMAIN,adhese.be,REJECT
@@ -10286,7 +10284,6 @@ DOMAIN,c.f1zd.com,REJECT
 DOMAIN,c.fedsdq.com,REJECT
 DOMAIN,c.fi.msn.com,REJECT
 DOMAIN,c.fr.msn.com,REJECT
-DOMAIN,c.future888.net,REJECT
 DOMAIN,c.gazetevatan.com,REJECT
 DOMAIN,c.gdt.qq.com,REJECT
 DOMAIN,c.gr.msn.com,REJECT
@@ -17479,6 +17476,7 @@ DOMAIN,evangelineang.com,REJECT
 DOMAIN,evania.de,REJECT
 DOMAIN,evantage.club,REJECT
 DOMAIN,evantative.top,REJECT
+DOMAIN,evasiondemandedlearning.com,REJECT
 DOMAIN,evatelyenu.club,REJECT
 DOMAIN,evefashion.cn,REJECT
 DOMAIN,evemasoil.com,REJECT
@@ -29430,6 +29428,7 @@ DOMAIN,mt.59wz.com,REJECT
 DOMAIN,mt.sellingrealestatemalta.com,REJECT
 DOMAIN,mta.qq.com,REJECT
 DOMAIN,mtag.mman.kr,REJECT
+DOMAIN,mtav1.com,REJECT
 DOMAIN,mtburn.com,REJECT
 DOMAIN,mtburn.jp,REJECT
 DOMAIN,mtc.nhk.or.jp,REJECT
@@ -35084,7 +35083,6 @@ DOMAIN,qkkjd.com,REJECT
 DOMAIN,qkptx.com,REJECT
 DOMAIN,qkrcmiwa289z.com,REJECT
 DOMAIN,qkvklknzycrgo.com,REJECT
-DOMAIN,qkykxrm.cn,REJECT
 DOMAIN,qkzwxhcleqj.com,REJECT
 DOMAIN,ql.uzuzuz.com,REJECT
 DOMAIN,qlaot.com,REJECT
@@ -50162,6 +50160,7 @@ DOMAIN,xuanlimin.top,REJECT
 DOMAIN,xuanmeiguoji.com,REJECT
 DOMAIN,xue.zbyw.cn,REJECT
 DOMAIN,xuehelei.com,REJECT
+DOMAIN,xuenengyoujiaoyu.com,REJECT
 DOMAIN,xuexi.hydcd.com,REJECT
 DOMAIN,xuexingkeji.cn,REJECT
 DOMAIN,xueyanshan.com,REJECT
