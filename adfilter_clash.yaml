@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzg5MzQ0NQo=
+# Checksum: MTYwNzkwNDU3OAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-7
-# TimeUpdated: 2020-12-13T21:04:05+00:00
+# Version: 1.6.8-20201214-0
+# TimeUpdated: 2020-12-14T00:09:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46205
+# Total: 46231
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -39,6 +39,7 @@ payload:
   - DOMAIN,0127538a552.com
   - DOMAIN,018520.com
   - DOMAIN,019103.com
+  - DOMAIN,01counter.com
   - DOMAIN,01daa.lutci.com
   - DOMAIN,01dbf3a452b6.com
   - DOMAIN,01fen.com
@@ -374,7 +375,6 @@ payload:
   - DOMAIN,1797wan.com
   - DOMAIN,17chezhan.com
   - DOMAIN,17gouwuba.com
-  - DOMAIN,17youzi.com
   - DOMAIN,17ys.top
   - DOMAIN,17zheng.cn
   - DOMAIN,18-plus.net
@@ -805,6 +805,7 @@ payload:
   - DOMAIN,3d0da2373af57.com
   - DOMAIN,3d1a1e7f6db3.com
   - DOMAIN,3d643f542787c62a7.com
+  - DOMAIN,3dfrsdwde.com
   - DOMAIN,3djd3.xyz
   - DOMAIN,3dlivestats.com
   - DOMAIN,3dm.huya.com
@@ -2376,6 +2377,7 @@ payload:
   - DOMAIN,actuallysheep.com
   - DOMAIN,actuallysnake.com
   - DOMAIN,actualtrade.eu
+  - DOMAIN,actuanius.com
   - DOMAIN,acuityplatform.com
   - DOMAIN,ad-admin.vnay.vn
   - DOMAIN,ad-analysis.pconline.com.cn
@@ -4709,14 +4711,12 @@ payload:
   - DOMAIN,ahoff.ru
   - DOMAIN,ahojer.com
   - DOMAIN,ahoypiratebaai.eu
-  - DOMAIN,ahrcwekji.com
   - DOMAIN,ahscdn.com
   - DOMAIN,ahstrelgnh.com
   - DOMAIN,ahszgog.com
   - DOMAIN,ahuac.com
   - DOMAIN,ahumourned.club
   - DOMAIN,ahwrin88tl.com
-  - DOMAIN,ahwzvnqc.com
   - DOMAIN,ahxhny.cn
   - DOMAIN,ahyau.com
   - DOMAIN,ahyuns.com
@@ -4964,6 +4964,7 @@ payload:
   - DOMAIN,alleliteads.com
   - DOMAIN,allergiya-na.ru
   - DOMAIN,allfontshere.press
+  - DOMAIN,allfreecounter.com
   - DOMAIN,alli-tcod.com
   - DOMAIN,allibestru.ru
   - DOMAIN,alllget.com
@@ -6552,7 +6553,6 @@ payload:
   - DOMAIN,ayc0zsm69431gfebd.info
   - DOMAIN,ayc0zsm69431gfebd.xyz
   - DOMAIN,aycksenkb.com
-  - DOMAIN,ayclinical.com
   - DOMAIN,ayeboagnu.com
   - DOMAIN,ayrovalcontain.info
   - DOMAIN,ayswrotesre.club
@@ -6711,7 +6711,6 @@ payload:
   - DOMAIN,ba.journaldesfemmes.com
   - DOMAIN,ba.kioskea.net
   - DOMAIN,ba5ed55a0d56f15.com
-  - DOMAIN,ba6af3a0099c6cb9eb5.com
   - DOMAIN,baa2e174884c9c0460e.com
   - DOMAIN,baaeobgdaxdvsa.com
   - DOMAIN,bab.frb.io
@@ -7056,6 +7055,7 @@ payload:
   - DOMAIN,bbom2b434493.com
   - DOMAIN,bbs.search.nkwwnx.com
   - DOMAIN,bbthat.com
+  - DOMAIN,bbtyup.com
   - DOMAIN,bbuni.com
   - DOMAIN,bbvdd.com
   - DOMAIN,bbvever.com
@@ -7412,6 +7412,7 @@ payload:
   - DOMAIN,bestdisplayformats.com
   - DOMAIN,bestdoska.ru
   - DOMAIN,bestforexplmdb.com
+  - DOMAIN,bestfreecounterstat.com
   - DOMAIN,bestgameads.com
   - DOMAIN,bestgretchingever.com
   - DOMAIN,besthitsnow.com
@@ -9327,6 +9328,7 @@ payload:
   - DOMAIN,cfg.imtt.qq.com
   - DOMAIN,cfgr1.com
   - DOMAIN,cfhijdsb.cn
+  - DOMAIN,cfhrk.com
   - DOMAIN,cfknxewzz.com
   - DOMAIN,cfps.cw.china-netwave.com
   - DOMAIN,cfpushsdevpw.com
@@ -9572,6 +9574,7 @@ payload:
   - DOMAIN,citinnoiddidn.pro
   - DOMAIN,citizenshadowrequires.com
   - DOMAIN,citizenshis.com
+  - DOMAIN,citof.xyz
   - DOMAIN,city-ads.de
   - DOMAIN,city009.com
   - DOMAIN,cityads.com
@@ -10223,6 +10226,7 @@ payload:
   - DOMAIN,coedmediagroup.com
   - DOMAIN,coefficy.com
   - DOMAIN,coenr.com
+  - DOMAIN,coepitta.com
   - DOMAIN,cogleapad.com
   - DOMAIN,cognativex.com
   - DOMAIN,cognitivematch.com
@@ -11344,6 +11348,7 @@ payload:
   - DOMAIN,curiyo.com
   - DOMAIN,curmaphow.club
   - DOMAIN,currentlyobsessed.me
+  - DOMAIN,currepush.com
   - DOMAIN,curriculture.com
   - DOMAIN,cursors-4u.net
   - DOMAIN,curtaincows.com
@@ -12565,6 +12570,7 @@ payload:
   - DOMAIN,delosnetwork.it
   - DOMAIN,deloton.com
   - DOMAIN,delta.mediafort.ru
+  - DOMAIN,deltaction.com
   - DOMAIN,deltago.com
   - DOMAIN,deludesobbingdeliberately.com
   - DOMAIN,demand.bidgear.com
@@ -13307,6 +13313,7 @@ payload:
   - DOMAIN,dorectertnerow.info
   - DOMAIN,dormitysature.info
   - DOMAIN,dormyawape.com
+  - DOMAIN,dornpush.com
   - DOMAIN,dorsetecho-gb.dorsetecho.co.uk
   - DOMAIN,dorthuredwardles.info
   - DOMAIN,dortoolr.com
@@ -15502,6 +15509,7 @@ payload:
   - DOMAIN,failoglo.com
   - DOMAIN,faindianship.club
   - DOMAIN,fair.sogou.com
+  - DOMAIN,fairad.co
   - DOMAIN,fairadsnetwork.com
   - DOMAIN,fairfaxmedia.sharedcount.com
   - DOMAIN,fairieflame.com
@@ -16086,6 +16094,7 @@ payload:
   - DOMAIN,fmebili.info
   - DOMAIN,fmg.aty.sohu.com
   - DOMAIN,fmgdzqpcaliqs.com
+  - DOMAIN,fmkys.com
   - DOMAIN,fmnetwork.nl
   - DOMAIN,fmpevnvced.com
   - DOMAIN,fmpub.net
@@ -16312,6 +16321,7 @@ payload:
   - DOMAIN,freecounter.ovh
   - DOMAIN,freecountercode.com
   - DOMAIN,freecounterstat.com
+  - DOMAIN,freecounterstat.ovh
   - DOMAIN,freecouponbiz.com
   - DOMAIN,freedrive.cn
   - DOMAIN,freeevpn.info
@@ -16538,6 +16548,7 @@ payload:
   - DOMAIN,fuzzyweather.com
   - DOMAIN,fvbaffiliate.com
   - DOMAIN,fvbeyduylvgy.com
+  - DOMAIN,fvbrp.com
   - DOMAIN,fvenxjtzuaxu.com
   - DOMAIN,fvflgigyryacgp.com
   - DOMAIN,fvkdatbzswo.bid
@@ -17861,6 +17872,7 @@ payload:
   - DOMAIN,gsimedia.net
   - DOMAIN,gsincentlyse.club
   - DOMAIN,gsjdzx.com
+  - DOMAIN,gsjlfs.com
   - DOMAIN,gsmonitor.ru
   - DOMAIN,gsmtop.net
   - DOMAIN,gsp.cnzz.kld666.com
@@ -27705,6 +27717,7 @@ payload:
   - DOMAIN,oipcqenejq.com
   - DOMAIN,oix.com
   - DOMAIN,oix.phorm.com
+  - DOMAIN,oixlg.com
   - DOMAIN,oiya.ru
   - DOMAIN,oiycak.com
   - DOMAIN,ojaulrop.com
@@ -30725,6 +30738,7 @@ payload:
   - DOMAIN,pushify.com
   - DOMAIN,pushiki.ru
   - DOMAIN,pushimer.com
+  - DOMAIN,pushinkaa.com
   - DOMAIN,pushinstruments.com
   - DOMAIN,pushisback.com
   - DOMAIN,pushisbest.com
@@ -31299,6 +31313,7 @@ payload:
   - DOMAIN,queurow.pro
   - DOMAIN,quick-counter.net
   - DOMAIN,quickads.net
+  - DOMAIN,quickmoneyanswers.org
   - DOMAIN,quickorange.com
   - DOMAIN,quicksandear.com
   - DOMAIN,quicksense.net
@@ -31933,6 +31948,7 @@ payload:
   - DOMAIN,regularplants.com
   - DOMAIN,regurgical.com
   - DOMAIN,rehomesit.info
+  - DOMAIN,rehtsacdr.com
   - DOMAIN,rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
   - DOMAIN,reichelcormier.bid
   - DOMAIN,reidancis.com
@@ -32126,9 +32142,11 @@ payload:
   - DOMAIN,reseau-pub.com
   - DOMAIN,resencejuy.club
   - DOMAIN,resentaticexhaus.info
+  - DOMAIN,resentervice.com
   - DOMAIN,reservedoffers.club
   - DOMAIN,reservices.info
   - DOMAIN,reservoircourthouse.com
+  - DOMAIN,resetetron.com
   - DOMAIN,reshin.de
   - DOMAIN,residenish.club
   - DOMAIN,residuestream.club
@@ -32643,6 +32661,7 @@ payload:
   - DOMAIN,rsdescriptsrem.info
   - DOMAIN,rselffreedsc.top
   - DOMAIN,rselfresolated.club
+  - DOMAIN,rsepv.com
   - DOMAIN,rsesmalikes.top
   - DOMAIN,rsjehandse.club
   - DOMAIN,rsl2dd0twlym.com
@@ -34987,6 +35006,8 @@ payload:
   - DOMAIN,smartoffer.site
   - DOMAIN,smartology.co
   - DOMAIN,smartpixel.auditorius.ru
+  - DOMAIN,smartpush0.info
+  - DOMAIN,smartpush1.info
   - DOMAIN,smartracker.net
   - DOMAIN,smarttargetting.net
   - DOMAIN,smarttopchain.nl
@@ -35617,6 +35638,7 @@ payload:
   - DOMAIN,spr.welt.de
   - DOMAIN,spreadable.com.cn
   - DOMAIN,spredomk.club
+  - DOMAIN,spreement.com
   - DOMAIN,sprincipal.com
   - DOMAIN,spring-tns.net
   - DOMAIN,spring.de
@@ -35986,6 +36008,7 @@ payload:
   - DOMAIN,stat.novinky.cz
   - DOMAIN,stat.nyheter24.se
   - DOMAIN,stat.ouedkniss.com
+  - DOMAIN,stat.ovh
   - DOMAIN,stat.pchome.net
   - DOMAIN,stat.pl
   - DOMAIN,stat.pladform.ru
@@ -39268,6 +39291,7 @@ payload:
   - DOMAIN,trafficwave.net
   - DOMAIN,trafficz.com
   - DOMAIN,trafficzap.com
+  - DOMAIN,traffikw.com
   - DOMAIN,traffikx.info
   - DOMAIN,traffim.com
   - DOMAIN,trafforsrv.com
@@ -41216,6 +41240,7 @@ payload:
   - DOMAIN,viraladnetwork.net
   - DOMAIN,viralbeat.com
   - DOMAIN,viralcpm.com
+  - DOMAIN,viralfix.net
   - DOMAIN,viralltopics.com
   - DOMAIN,viralmails.de
   - DOMAIN,viralmediatech.com
@@ -45816,6 +45841,7 @@ payload:
   - DOMAIN,zeotap.com
   - DOMAIN,zeqad.com
   - DOMAIN,zeqqvubxtrh.com
+  - DOMAIN,zercenius.com
   - DOMAIN,zerezas.com
   - DOMAIN,zergnet.com
   - DOMAIN,zero.kz

@@ -1,11 +1,11 @@
-# Checksum: MTYwNzg5MzQ0NQo=
+# Checksum: MTYwNzkwNDU3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.8-20201213-7
-# TimeUpdated: 2020-12-13T21:04:05+00:00
+# Version: 1.6.8-20201214-0
+# TimeUpdated: 2020-12-14T00:09:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 46205
+# Total: 46231
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -80,6 +80,8 @@ ff02::3 ip6-allhosts
 :: 018520.com
 0.0.0.0 019103.com
 :: 019103.com
+0.0.0.0 01counter.com
+:: 01counter.com
 0.0.0.0 01daa.lutci.com
 :: 01daa.lutci.com
 0.0.0.0 01dbf3a452b6.com
@@ -750,8 +752,6 @@ ff02::3 ip6-allhosts
 :: 17chezhan.com
 0.0.0.0 17gouwuba.com
 :: 17gouwuba.com
-0.0.0.0 17youzi.com
-:: 17youzi.com
 0.0.0.0 17ys.top
 :: 17ys.top
 0.0.0.0 17zheng.cn
@@ -1612,6 +1612,8 @@ ff02::3 ip6-allhosts
 :: 3d1a1e7f6db3.com
 0.0.0.0 3d643f542787c62a7.com
 :: 3d643f542787c62a7.com
+0.0.0.0 3dfrsdwde.com
+:: 3dfrsdwde.com
 0.0.0.0 3djd3.xyz
 :: 3djd3.xyz
 0.0.0.0 3dlivestats.com
@@ -4754,6 +4756,8 @@ ff02::3 ip6-allhosts
 :: actuallysnake.com
 0.0.0.0 actualtrade.eu
 :: actualtrade.eu
+0.0.0.0 actuanius.com
+:: actuanius.com
 0.0.0.0 acuityplatform.com
 :: acuityplatform.com
 0.0.0.0 ad-admin.vnay.vn
@@ -9420,8 +9424,6 @@ ff02::3 ip6-allhosts
 :: ahojer.com
 0.0.0.0 ahoypiratebaai.eu
 :: ahoypiratebaai.eu
-0.0.0.0 ahrcwekji.com
-:: ahrcwekji.com
 0.0.0.0 ahscdn.com
 :: ahscdn.com
 0.0.0.0 ahstrelgnh.com
@@ -9434,8 +9436,6 @@ ff02::3 ip6-allhosts
 :: ahumourned.club
 0.0.0.0 ahwrin88tl.com
 :: ahwrin88tl.com
-0.0.0.0 ahwzvnqc.com
-:: ahwzvnqc.com
 0.0.0.0 ahxhny.cn
 :: ahxhny.cn
 0.0.0.0 ahyau.com
@@ -9930,6 +9930,8 @@ ff02::3 ip6-allhosts
 :: allergiya-na.ru
 0.0.0.0 allfontshere.press
 :: allfontshere.press
+0.0.0.0 allfreecounter.com
+:: allfreecounter.com
 0.0.0.0 alli-tcod.com
 :: alli-tcod.com
 0.0.0.0 allibestru.ru
@@ -13106,8 +13108,6 @@ ff02::3 ip6-allhosts
 :: ayc0zsm69431gfebd.xyz
 0.0.0.0 aycksenkb.com
 :: aycksenkb.com
-0.0.0.0 ayclinical.com
-:: ayclinical.com
 0.0.0.0 ayeboagnu.com
 :: ayeboagnu.com
 0.0.0.0 ayrovalcontain.info
@@ -13424,8 +13424,6 @@ ff02::3 ip6-allhosts
 :: ba.kioskea.net
 0.0.0.0 ba5ed55a0d56f15.com
 :: ba5ed55a0d56f15.com
-0.0.0.0 ba6af3a0099c6cb9eb5.com
-:: ba6af3a0099c6cb9eb5.com
 0.0.0.0 baa2e174884c9c0460e.com
 :: baa2e174884c9c0460e.com
 0.0.0.0 baaeobgdaxdvsa.com
@@ -14114,6 +14112,8 @@ ff02::3 ip6-allhosts
 :: bbs.search.nkwwnx.com
 0.0.0.0 bbthat.com
 :: bbthat.com
+0.0.0.0 bbtyup.com
+:: bbtyup.com
 0.0.0.0 bbuni.com
 :: bbuni.com
 0.0.0.0 bbvdd.com
@@ -14826,6 +14826,8 @@ ff02::3 ip6-allhosts
 :: bestdoska.ru
 0.0.0.0 bestforexplmdb.com
 :: bestforexplmdb.com
+0.0.0.0 bestfreecounterstat.com
+:: bestfreecounterstat.com
 0.0.0.0 bestgameads.com
 :: bestgameads.com
 0.0.0.0 bestgretchingever.com
@@ -18656,6 +18658,8 @@ ff02::3 ip6-allhosts
 :: cfgr1.com
 0.0.0.0 cfhijdsb.cn
 :: cfhijdsb.cn
+0.0.0.0 cfhrk.com
+:: cfhrk.com
 0.0.0.0 cfknxewzz.com
 :: cfknxewzz.com
 0.0.0.0 cfps.cw.china-netwave.com
@@ -19146,6 +19150,8 @@ ff02::3 ip6-allhosts
 :: citizenshadowrequires.com
 0.0.0.0 citizenshis.com
 :: citizenshis.com
+0.0.0.0 citof.xyz
+:: citof.xyz
 0.0.0.0 city-ads.de
 :: city-ads.de
 0.0.0.0 city009.com
@@ -20448,6 +20454,8 @@ ff02::3 ip6-allhosts
 :: coefficy.com
 0.0.0.0 coenr.com
 :: coenr.com
+0.0.0.0 coepitta.com
+:: coepitta.com
 0.0.0.0 cogleapad.com
 :: cogleapad.com
 0.0.0.0 cognativex.com
@@ -22690,6 +22698,8 @@ ff02::3 ip6-allhosts
 :: curmaphow.club
 0.0.0.0 currentlyobsessed.me
 :: currentlyobsessed.me
+0.0.0.0 currepush.com
+:: currepush.com
 0.0.0.0 curriculture.com
 :: curriculture.com
 0.0.0.0 cursors-4u.net
@@ -25132,6 +25142,8 @@ ff02::3 ip6-allhosts
 :: deloton.com
 0.0.0.0 delta.mediafort.ru
 :: delta.mediafort.ru
+0.0.0.0 deltaction.com
+:: deltaction.com
 0.0.0.0 deltago.com
 :: deltago.com
 0.0.0.0 deludesobbingdeliberately.com
@@ -26616,6 +26628,8 @@ ff02::3 ip6-allhosts
 :: dormitysature.info
 0.0.0.0 dormyawape.com
 :: dormyawape.com
+0.0.0.0 dornpush.com
+:: dornpush.com
 0.0.0.0 dorsetecho-gb.dorsetecho.co.uk
 :: dorsetecho-gb.dorsetecho.co.uk
 0.0.0.0 dorthuredwardles.info
@@ -31006,6 +31020,8 @@ ff02::3 ip6-allhosts
 :: faindianship.club
 0.0.0.0 fair.sogou.com
 :: fair.sogou.com
+0.0.0.0 fairad.co
+:: fairad.co
 0.0.0.0 fairadsnetwork.com
 :: fairadsnetwork.com
 0.0.0.0 fairfaxmedia.sharedcount.com
@@ -32174,6 +32190,8 @@ ff02::3 ip6-allhosts
 :: fmg.aty.sohu.com
 0.0.0.0 fmgdzqpcaliqs.com
 :: fmgdzqpcaliqs.com
+0.0.0.0 fmkys.com
+:: fmkys.com
 0.0.0.0 fmnetwork.nl
 :: fmnetwork.nl
 0.0.0.0 fmpevnvced.com
@@ -32626,6 +32644,8 @@ ff02::3 ip6-allhosts
 :: freecountercode.com
 0.0.0.0 freecounterstat.com
 :: freecounterstat.com
+0.0.0.0 freecounterstat.ovh
+:: freecounterstat.ovh
 0.0.0.0 freecouponbiz.com
 :: freecouponbiz.com
 0.0.0.0 freedrive.cn
@@ -33078,6 +33098,8 @@ ff02::3 ip6-allhosts
 :: fvbaffiliate.com
 0.0.0.0 fvbeyduylvgy.com
 :: fvbeyduylvgy.com
+0.0.0.0 fvbrp.com
+:: fvbrp.com
 0.0.0.0 fvenxjtzuaxu.com
 :: fvenxjtzuaxu.com
 0.0.0.0 fvflgigyryacgp.com
@@ -35724,6 +35746,8 @@ ff02::3 ip6-allhosts
 :: gsincentlyse.club
 0.0.0.0 gsjdzx.com
 :: gsjdzx.com
+0.0.0.0 gsjlfs.com
+:: gsjlfs.com
 0.0.0.0 gsmonitor.ru
 :: gsmonitor.ru
 0.0.0.0 gsmtop.net
@@ -55412,6 +55436,8 @@ ff02::3 ip6-allhosts
 :: oix.com
 0.0.0.0 oix.phorm.com
 :: oix.phorm.com
+0.0.0.0 oixlg.com
+:: oixlg.com
 0.0.0.0 oiya.ru
 :: oiya.ru
 0.0.0.0 oiycak.com
@@ -61452,6 +61478,8 @@ ff02::3 ip6-allhosts
 :: pushiki.ru
 0.0.0.0 pushimer.com
 :: pushimer.com
+0.0.0.0 pushinkaa.com
+:: pushinkaa.com
 0.0.0.0 pushinstruments.com
 :: pushinstruments.com
 0.0.0.0 pushisback.com
@@ -62600,6 +62628,8 @@ ff02::3 ip6-allhosts
 :: quick-counter.net
 0.0.0.0 quickads.net
 :: quickads.net
+0.0.0.0 quickmoneyanswers.org
+:: quickmoneyanswers.org
 0.0.0.0 quickorange.com
 :: quickorange.com
 0.0.0.0 quicksandear.com
@@ -63868,6 +63898,8 @@ ff02::3 ip6-allhosts
 :: regurgical.com
 0.0.0.0 rehomesit.info
 :: rehomesit.info
+0.0.0.0 rehtsacdr.com
+:: rehtsacdr.com
 0.0.0.0 rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 :: rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes
 0.0.0.0 reichelcormier.bid
@@ -64254,12 +64286,16 @@ ff02::3 ip6-allhosts
 :: resencejuy.club
 0.0.0.0 resentaticexhaus.info
 :: resentaticexhaus.info
+0.0.0.0 resentervice.com
+:: resentervice.com
 0.0.0.0 reservedoffers.club
 :: reservedoffers.club
 0.0.0.0 reservices.info
 :: reservices.info
 0.0.0.0 reservoircourthouse.com
 :: reservoircourthouse.com
+0.0.0.0 resetetron.com
+:: resetetron.com
 0.0.0.0 reshin.de
 :: reshin.de
 0.0.0.0 residenish.club
@@ -65288,6 +65324,8 @@ ff02::3 ip6-allhosts
 :: rselffreedsc.top
 0.0.0.0 rselfresolated.club
 :: rselfresolated.club
+0.0.0.0 rsepv.com
+:: rsepv.com
 0.0.0.0 rsesmalikes.top
 :: rsesmalikes.top
 0.0.0.0 rsjehandse.club
@@ -69976,6 +70014,10 @@ ff02::3 ip6-allhosts
 :: smartology.co
 0.0.0.0 smartpixel.auditorius.ru
 :: smartpixel.auditorius.ru
+0.0.0.0 smartpush0.info
+:: smartpush0.info
+0.0.0.0 smartpush1.info
+:: smartpush1.info
 0.0.0.0 smartracker.net
 :: smartracker.net
 0.0.0.0 smarttargetting.net
@@ -71236,6 +71278,8 @@ ff02::3 ip6-allhosts
 :: spreadable.com.cn
 0.0.0.0 spredomk.club
 :: spredomk.club
+0.0.0.0 spreement.com
+:: spreement.com
 0.0.0.0 sprincipal.com
 :: sprincipal.com
 0.0.0.0 spring-tns.net
@@ -71974,6 +72018,8 @@ ff02::3 ip6-allhosts
 :: stat.nyheter24.se
 0.0.0.0 stat.ouedkniss.com
 :: stat.ouedkniss.com
+0.0.0.0 stat.ovh
+:: stat.ovh
 0.0.0.0 stat.pchome.net
 :: stat.pchome.net
 0.0.0.0 stat.pl
@@ -78538,6 +78584,8 @@ ff02::3 ip6-allhosts
 :: trafficz.com
 0.0.0.0 trafficzap.com
 :: trafficzap.com
+0.0.0.0 traffikw.com
+:: traffikw.com
 0.0.0.0 traffikx.info
 :: traffikx.info
 0.0.0.0 traffim.com
@@ -82434,6 +82482,8 @@ ff02::3 ip6-allhosts
 :: viralbeat.com
 0.0.0.0 viralcpm.com
 :: viralcpm.com
+0.0.0.0 viralfix.net
+:: viralfix.net
 0.0.0.0 viralltopics.com
 :: viralltopics.com
 0.0.0.0 viralmails.de
@@ -91634,6 +91684,8 @@ ff02::3 ip6-allhosts
 :: zeqad.com
 0.0.0.0 zeqqvubxtrh.com
 :: zeqqvubxtrh.com
+0.0.0.0 zercenius.com
+:: zercenius.com
 0.0.0.0 zerezas.com
 :: zerezas.com
 0.0.0.0 zergnet.com
