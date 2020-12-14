@@ -1,9 +1,9 @@
 payload:
-# Checksum: MTYwNzk1ODI2Nwo=
+# Checksum: MTYwNzk2OTA3Mwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-5
-# TimeUpdated: 2020-12-14T15:04:27+00:00
+# Version: 1.6.9-20201214-6
+# TimeUpdated: 2020-12-14T18:04:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 51500
@@ -2413,10 +2413,8 @@ payload:
   - DOMAIN,acount.alley.ws
   - DOMAIN,acousinguy.club
   - DOMAIN,acousticairplane.com
-  - DOMAIN,acoxcv.cn
   - DOMAIN,acquireattention.com
   - DOMAIN,acrabakasaka.com
-  - DOMAIN,acrididae.com
   - DOMAIN,acridtwist.com
   - DOMAIN,acrmbjkk6qc5utby.pro
   - DOMAIN,acronym.com
@@ -14021,6 +14019,7 @@ payload:
   - DOMAIN,d2rnkf2kqy5m6h.cloudfront.net
   - DOMAIN,d2ry9vue95px0b.cloudfront.net
   - DOMAIN,d2san7t27xb2pn.cloudfront.net
+  - DOMAIN,d2sbzwmcg5amr3.cloudfront.net
   - DOMAIN,d2ship.com
   - DOMAIN,d2skqnrxz11esv.cloudfront.net
   - DOMAIN,d2srh5nls758p0.cloudfront.net
@@ -31402,6 +31401,7 @@ payload:
   - DOMAIN,omgmta1.qq.com
   - DOMAIN,omiki.com
   - DOMAIN,omine.org
+  - DOMAIN,omisingcur.fun
   - DOMAIN,omitbailey.com
   - DOMAIN,omkt.co
   - DOMAIN,ommodatesjoin.info
@@ -43743,6 +43743,7 @@ payload:
   - DOMAIN,tracking.scenepass.com
   - DOMAIN,tracking.searchmarketing.com
   - DOMAIN,tracking.sembox.it
+  - DOMAIN,tracking.shopback.com
   - DOMAIN,tracking.shopstyle.com
   - DOMAIN,tracking.shoptogether.buy.com
   - DOMAIN,tracking.skyword.com
@@ -50161,7 +50162,6 @@ payload:
   - DOMAIN,xuanmeiguoji.com
   - DOMAIN,xue.zbyw.cn
   - DOMAIN,xuehelei.com
-  - DOMAIN,xuenengyoujiaoyu.com
   - DOMAIN,xuexi.hydcd.com
   - DOMAIN,xuexingkeji.cn
   - DOMAIN,xueyanshan.com

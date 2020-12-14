@@ -1,8 +1,8 @@
-# Checksum: MTYwNzk1ODI2Nwo=
+# Checksum: MTYwNzk2OTA3Mwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-5
-# TimeUpdated: 2020-12-14T15:04:27+00:00
+# Version: 1.6.9-20201214-6
+# TimeUpdated: 2020-12-14T18:04:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 51500
@@ -2412,10 +2412,8 @@ DOMAIN,acootaul.net,REJECT
 DOMAIN,acount.alley.ws,REJECT
 DOMAIN,acousinguy.club,REJECT
 DOMAIN,acousticairplane.com,REJECT
-DOMAIN,acoxcv.cn,REJECT
 DOMAIN,acquireattention.com,REJECT
 DOMAIN,acrabakasaka.com,REJECT
-DOMAIN,acrididae.com,REJECT
 DOMAIN,acridtwist.com,REJECT
 DOMAIN,acrmbjkk6qc5utby.pro,REJECT
 DOMAIN,acronym.com,REJECT
@@ -14020,6 +14018,7 @@ DOMAIN,d2r3rw91i5z1w9.cloudfront.net,REJECT
 DOMAIN,d2rnkf2kqy5m6h.cloudfront.net,REJECT
 DOMAIN,d2ry9vue95px0b.cloudfront.net,REJECT
 DOMAIN,d2san7t27xb2pn.cloudfront.net,REJECT
+DOMAIN,d2sbzwmcg5amr3.cloudfront.net,REJECT
 DOMAIN,d2ship.com,REJECT
 DOMAIN,d2skqnrxz11esv.cloudfront.net,REJECT
 DOMAIN,d2srh5nls758p0.cloudfront.net,REJECT
@@ -31401,6 +31400,7 @@ DOMAIN,omgmta.qq.com,REJECT
 DOMAIN,omgmta1.qq.com,REJECT
 DOMAIN,omiki.com,REJECT
 DOMAIN,omine.org,REJECT
+DOMAIN,omisingcur.fun,REJECT
 DOMAIN,omitbailey.com,REJECT
 DOMAIN,omkt.co,REJECT
 DOMAIN,ommodatesjoin.info,REJECT
@@ -43742,6 +43742,7 @@ DOMAIN,tracking.s24.com,REJECT
 DOMAIN,tracking.scenepass.com,REJECT
 DOMAIN,tracking.searchmarketing.com,REJECT
 DOMAIN,tracking.sembox.it,REJECT
+DOMAIN,tracking.shopback.com,REJECT
 DOMAIN,tracking.shopstyle.com,REJECT
 DOMAIN,tracking.shoptogether.buy.com,REJECT
 DOMAIN,tracking.skyword.com,REJECT
@@ -50160,7 +50161,6 @@ DOMAIN,xuanlimin.top,REJECT
 DOMAIN,xuanmeiguoji.com,REJECT
 DOMAIN,xue.zbyw.cn,REJECT
 DOMAIN,xuehelei.com,REJECT
-DOMAIN,xuenengyoujiaoyu.com,REJECT
 DOMAIN,xuexi.hydcd.com,REJECT
 DOMAIN,xuexingkeji.cn,REJECT
 DOMAIN,xueyanshan.com,REJECT
