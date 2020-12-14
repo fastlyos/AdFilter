@@ -1,11 +1,11 @@
-# Checksum: MTYwNzkzNjY2Mgo=
+# Checksum: MTYwNzk0NzU1NQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-3
-# TimeUpdated: 2020-12-14T09:04:22+00:00
+# Version: 1.6.9-20201214-4
+# TimeUpdated: 2020-12-14T12:05:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51494
+# Total: 51501
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -1358,7 +1358,6 @@ DOMAIN,70ee6484605f.com,REJECT
 DOMAIN,70fa9b55f717e1eee.com,REJECT
 DOMAIN,70yst.com,REJECT
 DOMAIN,7116966.com,REJECT
-DOMAIN,711983.com,REJECT
 DOMAIN,711kk.com,REJECT
 DOMAIN,716703.com,REJECT
 DOMAIN,71a30cae934e.com,REJECT
@@ -7549,6 +7548,7 @@ DOMAIN,armedgroin.com,REJECT
 DOMAIN,armhutspa.com,REJECT
 DOMAIN,armi.media,REJECT
 DOMAIN,armiesgiddinesscanes.com,REJECT
+DOMAIN,armlyemoan.com,REJECT
 DOMAIN,arms.livedoor.net,REJECT
 DOMAIN,arnessaudie.site,REJECT
 DOMAIN,arningexpos.top,REJECT
@@ -8116,6 +8116,7 @@ DOMAIN,b-1st.com,REJECT
 DOMAIN,b-click.net,REJECT
 DOMAIN,b-gi.getui.com,REJECT
 DOMAIN,b-gtc.getui.com,REJECT
+DOMAIN,b-m.xyz,REJECT
 DOMAIN,b.19869.com,REJECT
 DOMAIN,b.77shw.com,REJECT
 DOMAIN,b.77vcd.com,REJECT
@@ -10733,7 +10734,6 @@ DOMAIN,cash4popup.de,REJECT
 DOMAIN,cashabstract.com,REJECT
 DOMAIN,cashandfavor.ru,REJECT
 DOMAIN,cashback.co.uk,REJECT
-DOMAIN,cashbeet.com,REJECT
 DOMAIN,cashbigo.com,REJECT
 DOMAIN,cashburners.com,REJECT
 DOMAIN,cashcave.net,REJECT
@@ -19423,6 +19423,7 @@ DOMAIN,gateway.fortunelounge.com,REJECT
 DOMAIN,gateway.ttpsdk.info,REJECT
 DOMAIN,gateways.s3.amazonaws.com,REJECT
 DOMAIN,gatewey.net,REJECT
+DOMAIN,gather.donga.com,REJECT
 DOMAIN,gator.com,REJECT
 DOMAIN,gatorleads.co.uk,REJECT
 DOMAIN,gaudiessept.space,REJECT
@@ -24991,6 +24992,7 @@ DOMAIN,kpremium.com,REJECT
 DOMAIN,kpshx.douguo.com,REJECT
 DOMAIN,kpstaticbj.wx.ckjr001.com,REJECT
 DOMAIN,kpu.samsungelectronics.com,REJECT
+DOMAIN,kpzsyqhje.com,REJECT
 DOMAIN,kr.phorm.com,REJECT
 DOMAIN,kr3vinsx.com,REJECT
 DOMAIN,kr8gqjtnos3y.com,REJECT
@@ -26301,6 +26303,7 @@ DOMAIN,logfrochi.site,REJECT
 DOMAIN,logg.kiwi.com,REJECT
 DOMAIN,logg4u.cnnd.vn,REJECT
 DOMAIN,logger.applovefrom.com,REJECT
+DOMAIN,logger.cbs.co.kr,REJECT
 DOMAIN,logger.cloudmobi.net,REJECT
 DOMAIN,logger.co.kr,REJECT
 DOMAIN,logger.ivi.ru,REJECT
@@ -28498,6 +28501,7 @@ DOMAIN,midas.rong360.com,REJECT
 DOMAIN,middleimpetuous.com,REJECT
 DOMAIN,midinfo.baofeng.com,REJECT
 DOMAIN,midootib.net,REJECT
+DOMAIN,midpopedge.com,REJECT
 DOMAIN,miduoke.net,REJECT
 DOMAIN,miercuri.gq,REJECT
 DOMAIN,mieru-ca.com,REJECT
@@ -33803,6 +33807,7 @@ DOMAIN,ppcwebspy.com,REJECT
 DOMAIN,ppdb.pl,REJECT
 DOMAIN,ppfrlfe.com,REJECT
 DOMAIN,pphqq.com,REJECT
+DOMAIN,pphwrevr.com,REJECT
 DOMAIN,ppiespresen.club,REJECT
 DOMAIN,ppinstall.com,REJECT
 DOMAIN,ppoi.org,REJECT
@@ -35079,6 +35084,7 @@ DOMAIN,qkkjd.com,REJECT
 DOMAIN,qkptx.com,REJECT
 DOMAIN,qkrcmiwa289z.com,REJECT
 DOMAIN,qkvklknzycrgo.com,REJECT
+DOMAIN,qkykxrm.cn,REJECT
 DOMAIN,qkzwxhcleqj.com,REJECT
 DOMAIN,ql.uzuzuz.com,REJECT
 DOMAIN,qlaot.com,REJECT
@@ -50751,6 +50757,7 @@ DOMAIN,yqezqofkb1nnmz.com,REJECT
 DOMAIN,yqhlty.com,REJECT
 DOMAIN,yqjxzw.com,REJECT
 DOMAIN,yqkxutfjzbdbml.com,REJECT
+DOMAIN,yqorexok.xyz,REJECT
 DOMAIN,yqrta.xyz,REJECT
 DOMAIN,yqw88.com,REJECT
 DOMAIN,yr023.com,REJECT

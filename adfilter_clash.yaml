@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwNzkzNjY2Mgo=
+# Checksum: MTYwNzk0NzU1NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-3
-# TimeUpdated: 2020-12-14T09:04:22+00:00
+# Version: 1.6.9-20201214-4
+# TimeUpdated: 2020-12-14T12:05:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51494
+# Total: 51501
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1359,7 +1359,6 @@ payload:
   - DOMAIN,70fa9b55f717e1eee.com
   - DOMAIN,70yst.com
   - DOMAIN,7116966.com
-  - DOMAIN,711983.com
   - DOMAIN,711kk.com
   - DOMAIN,716703.com
   - DOMAIN,71a30cae934e.com
@@ -7550,6 +7549,7 @@ payload:
   - DOMAIN,armhutspa.com
   - DOMAIN,armi.media
   - DOMAIN,armiesgiddinesscanes.com
+  - DOMAIN,armlyemoan.com
   - DOMAIN,arms.livedoor.net
   - DOMAIN,arnessaudie.site
   - DOMAIN,arningexpos.top
@@ -8117,6 +8117,7 @@ payload:
   - DOMAIN,b-click.net
   - DOMAIN,b-gi.getui.com
   - DOMAIN,b-gtc.getui.com
+  - DOMAIN,b-m.xyz
   - DOMAIN,b.19869.com
   - DOMAIN,b.77shw.com
   - DOMAIN,b.77vcd.com
@@ -10734,7 +10735,6 @@ payload:
   - DOMAIN,cashabstract.com
   - DOMAIN,cashandfavor.ru
   - DOMAIN,cashback.co.uk
-  - DOMAIN,cashbeet.com
   - DOMAIN,cashbigo.com
   - DOMAIN,cashburners.com
   - DOMAIN,cashcave.net
@@ -19424,6 +19424,7 @@ payload:
   - DOMAIN,gateway.ttpsdk.info
   - DOMAIN,gateways.s3.amazonaws.com
   - DOMAIN,gatewey.net
+  - DOMAIN,gather.donga.com
   - DOMAIN,gator.com
   - DOMAIN,gatorleads.co.uk
   - DOMAIN,gaudiessept.space
@@ -24992,6 +24993,7 @@ payload:
   - DOMAIN,kpshx.douguo.com
   - DOMAIN,kpstaticbj.wx.ckjr001.com
   - DOMAIN,kpu.samsungelectronics.com
+  - DOMAIN,kpzsyqhje.com
   - DOMAIN,kr.phorm.com
   - DOMAIN,kr3vinsx.com
   - DOMAIN,kr8gqjtnos3y.com
@@ -26302,6 +26304,7 @@ payload:
   - DOMAIN,logg.kiwi.com
   - DOMAIN,logg4u.cnnd.vn
   - DOMAIN,logger.applovefrom.com
+  - DOMAIN,logger.cbs.co.kr
   - DOMAIN,logger.cloudmobi.net
   - DOMAIN,logger.co.kr
   - DOMAIN,logger.ivi.ru
@@ -28499,6 +28502,7 @@ payload:
   - DOMAIN,middleimpetuous.com
   - DOMAIN,midinfo.baofeng.com
   - DOMAIN,midootib.net
+  - DOMAIN,midpopedge.com
   - DOMAIN,miduoke.net
   - DOMAIN,miercuri.gq
   - DOMAIN,mieru-ca.com
@@ -33804,6 +33808,7 @@ payload:
   - DOMAIN,ppdb.pl
   - DOMAIN,ppfrlfe.com
   - DOMAIN,pphqq.com
+  - DOMAIN,pphwrevr.com
   - DOMAIN,ppiespresen.club
   - DOMAIN,ppinstall.com
   - DOMAIN,ppoi.org
@@ -35080,6 +35085,7 @@ payload:
   - DOMAIN,qkptx.com
   - DOMAIN,qkrcmiwa289z.com
   - DOMAIN,qkvklknzycrgo.com
+  - DOMAIN,qkykxrm.cn
   - DOMAIN,qkzwxhcleqj.com
   - DOMAIN,ql.uzuzuz.com
   - DOMAIN,qlaot.com
@@ -50752,6 +50758,7 @@ payload:
   - DOMAIN,yqhlty.com
   - DOMAIN,yqjxzw.com
   - DOMAIN,yqkxutfjzbdbml.com
+  - DOMAIN,yqorexok.xyz
   - DOMAIN,yqrta.xyz
   - DOMAIN,yqw88.com
   - DOMAIN,yr023.com
