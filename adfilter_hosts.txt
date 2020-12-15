@@ -1,11 +1,11 @@
-# Checksum: MTYwNzk3OTg0Ngo=
+# Checksum: MTYwNzk5MDk1OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-7
-# TimeUpdated: 2020-12-14T21:04:06+00:00
+# Version: 1.6.9-20201215-0
+# TimeUpdated: 2020-12-15T00:09:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51508
+# Total: 51514
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -504,6 +504,8 @@ ff02::3 ip6-allhosts
 :: 10desires.com
 0.0.0.0 10fbb07a4b0.se
 :: 10fbb07a4b0.se
+0.0.0.0 10tide.com
+:: 10tide.com
 0.0.0.0 10up.com
 :: 10up.com
 0.0.0.0 11.96131.com.cn
@@ -982,6 +984,8 @@ ff02::3 ip6-allhosts
 :: 1ts18.top
 0.0.0.0 1txt.ru
 :: 1txt.ru
+0.0.0.0 1uandun.com
+:: 1uandun.com
 0.0.0.0 1uejo00npy.buzz
 :: 1uejo00npy.buzz
 0.0.0.0 1ulebzhsv7.buzz
@@ -9518,8 +9522,6 @@ ff02::3 ip6-allhosts
 :: ads3.virtual-nights.com
 0.0.0.0 ads30.adcolony.com
 :: ads30.adcolony.com
-0.0.0.0 ads360.cn
-:: ads360.cn
 0.0.0.0 ads360.com
 :: ads360.com
 0.0.0.0 ads4.clearchannel.com
@@ -32402,6 +32404,8 @@ ff02::3 ip6-allhosts
 :: e.gk277.cn
 0.0.0.0 e.goodgz.cn
 :: e.goodgz.cn
+0.0.0.0 e.gsycdb.com
+:: e.gsycdb.com
 0.0.0.0 e.gxjfh.com
 :: e.gxjfh.com
 0.0.0.0 e.gxkyl.com
@@ -43960,8 +43964,6 @@ ff02::3 ip6-allhosts
 :: hyperion.adtech.us
 0.0.0.0 hyperlinksecure.com
 :: hyperlinksecure.com
-0.0.0.0 hyperoi.com
-:: hyperoi.com
 0.0.0.0 hyperpromote.com
 :: hyperpromote.com
 0.0.0.0 hypers.com
@@ -48692,6 +48694,8 @@ ff02::3 ip6-allhosts
 :: jtdxz.top
 0.0.0.0 jti.husky.sogou.com
 :: jti.husky.sogou.com
+0.0.0.0 jtikwyeper.com
+:: jtikwyeper.com
 0.0.0.0 jtneoqbd.com
 :: jtneoqbd.com
 0.0.0.0 jtpc2pa9o2n7.com
@@ -52172,6 +52176,8 @@ ff02::3 ip6-allhosts
 :: lnkfast.com
 0.0.0.0 lnkrdr.com
 :: lnkrdr.com
+0.0.0.0 lnks.gd
+:: lnks.gd
 0.0.0.0 lnr1.com
 :: lnr1.com
 0.0.0.0 lnsbhzy.cn
@@ -52716,6 +52722,8 @@ ff02::3 ip6-allhosts
 :: logs.hotstar.com
 0.0.0.0 logs.juspay.in
 :: logs.juspay.in
+0.0.0.0 logs.naukri.com
+:: logs.naukri.com
 0.0.0.0 logs.newapi.com
 :: logs.newapi.com
 0.0.0.0 logs.ntvplus.tv
@@ -72504,6 +72512,8 @@ ff02::3 ip6-allhosts
 :: revenuedirect.com
 0.0.0.0 revenueenslave.com
 :: revenueenslave.com
+0.0.0.0 revenueflex.com
+:: revenueflex.com
 0.0.0.0 revenuegiants.com
 :: revenuegiants.com
 0.0.0.0 revenuehits.com
@@ -79142,6 +79152,8 @@ ff02::3 ip6-allhosts
 :: souid.com
 0.0.0.0 soujoobafoo.com
 :: soujoobafoo.com
+0.0.0.0 soundcloud-pax.pandora.com
+:: soundcloud-pax.pandora.com
 0.0.0.0 soundingexpulsioninspector.com
 :: soundingexpulsioninspector.com
 0.0.0.0 soup.v.qq.com

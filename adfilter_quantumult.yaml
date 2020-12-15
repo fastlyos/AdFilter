@@ -1,11 +1,11 @@
-# Checksum: MTYwNzk3OTg0Ngo=
+# Checksum: MTYwNzk5MDk1OAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201214-7
-# TimeUpdated: 2020-12-14T21:04:06+00:00
+# Version: 1.6.9-20201215-0
+# TimeUpdated: 2020-12-15T00:09:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51508
+# Total: 51514
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -250,6 +250,7 @@ DOMAIN,1097834592.rsc.cdn77.org,REJECT
 DOMAIN,10cd.ru,REJECT
 DOMAIN,10desires.com,REJECT
 DOMAIN,10fbb07a4b0.se,REJECT
+DOMAIN,10tide.com,REJECT
 DOMAIN,10up.com,REJECT
 DOMAIN,11.96131.com.cn,REJECT
 DOMAIN,11.yiqig.com,REJECT
@@ -489,6 +490,7 @@ DOMAIN,1traf.ru,REJECT
 DOMAIN,1traff.ru,REJECT
 DOMAIN,1ts18.top,REJECT
 DOMAIN,1txt.ru,REJECT
+DOMAIN,1uandun.com,REJECT
 DOMAIN,1uejo00npy.buzz,REJECT
 DOMAIN,1ulebzhsv7.buzz,REJECT
 DOMAIN,1under.ru,REJECT
@@ -4757,7 +4759,6 @@ DOMAIN,ads3.haber3.com,REJECT
 DOMAIN,ads3.realcities.com,REJECT
 DOMAIN,ads3.virtual-nights.com,REJECT
 DOMAIN,ads30.adcolony.com,REJECT
-DOMAIN,ads360.cn,REJECT
 DOMAIN,ads360.com,REJECT
 DOMAIN,ads4.clearchannel.com,REJECT
 DOMAIN,ads4.gamecity.net,REJECT
@@ -16199,6 +16200,7 @@ DOMAIN,e.gcaog.com,REJECT
 DOMAIN,e.gghh493.cn,REJECT
 DOMAIN,e.gk277.cn,REJECT
 DOMAIN,e.goodgz.cn,REJECT
+DOMAIN,e.gsycdb.com,REJECT
 DOMAIN,e.gxjfh.com,REJECT
 DOMAIN,e.gxkyl.com,REJECT
 DOMAIN,e.hcenc.com,REJECT
@@ -21978,7 +21980,6 @@ DOMAIN,hyperboardupil.info,REJECT
 DOMAIN,hyperion.adtech.fr,REJECT
 DOMAIN,hyperion.adtech.us,REJECT
 DOMAIN,hyperlinksecure.com,REJECT
-DOMAIN,hyperoi.com,REJECT
 DOMAIN,hyperpromote.com,REJECT
 DOMAIN,hypers.com,REJECT
 DOMAIN,hypertracker.com,REJECT
@@ -24344,6 +24345,7 @@ DOMAIN,jsyzw132.com,REJECT
 DOMAIN,jtbdzlpuojqln.com,REJECT
 DOMAIN,jtdxz.top,REJECT
 DOMAIN,jti.husky.sogou.com,REJECT
+DOMAIN,jtikwyeper.com,REJECT
 DOMAIN,jtneoqbd.com,REJECT
 DOMAIN,jtpc2pa9o2n7.com,REJECT
 DOMAIN,jtrackern.joins.com,REJECT
@@ -26084,6 +26086,7 @@ DOMAIN,lnk0.com,REJECT
 DOMAIN,lnk8z.com,REJECT
 DOMAIN,lnkfast.com,REJECT
 DOMAIN,lnkrdr.com,REJECT
+DOMAIN,lnks.gd,REJECT
 DOMAIN,lnr1.com,REJECT
 DOMAIN,lnsbhzy.cn,REJECT
 DOMAIN,lnvnzrqdajau.com,REJECT
@@ -26356,6 +26359,7 @@ DOMAIN,logs.ggweb.nl,REJECT
 DOMAIN,logs.giaoducthoidai.vn,REJECT
 DOMAIN,logs.hotstar.com,REJECT
 DOMAIN,logs.juspay.in,REJECT
+DOMAIN,logs.naukri.com,REJECT
 DOMAIN,logs.newapi.com,REJECT
 DOMAIN,logs.ntvplus.tv,REJECT
 DOMAIN,logs.psm.wmcdp.io,REJECT
@@ -36250,6 +36254,7 @@ DOMAIN,revenue.com,REJECT
 DOMAIN,revenue.net,REJECT
 DOMAIN,revenuedirect.com,REJECT
 DOMAIN,revenueenslave.com,REJECT
+DOMAIN,revenueflex.com,REJECT
 DOMAIN,revenuegiants.com,REJECT
 DOMAIN,revenuehits.com,REJECT
 DOMAIN,revenuemantra.com,REJECT
@@ -39569,6 +39574,7 @@ DOMAIN,soua.com,REJECT
 DOMAIN,souacode.com,REJECT
 DOMAIN,souid.com,REJECT
 DOMAIN,soujoobafoo.com,REJECT
+DOMAIN,soundcloud-pax.pandora.com,REJECT
 DOMAIN,soundingexpulsioninspector.com,REJECT
 DOMAIN,soup.v.qq.com,REJECT
 DOMAIN,source.youxiaoad.com,REJECT
