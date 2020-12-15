@@ -1,11 +1,11 @@
-# Checksum: MTYwODAyMzA2Mwo=
+# Checksum: MTYwODAzMzkzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201215-3
-# TimeUpdated: 2020-12-15T09:04:23+00:00
+# Version: 1.6.9-20201215-4
+# TimeUpdated: 2020-12-15T12:05:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51498
+# Total: 51520
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1468,6 +1468,8 @@ ff02::3 ip6-allhosts
 :: 30ampj.com
 0.0.0.0 30b9e3a7d7e2b.com
 :: 30b9e3a7d7e2b.com
+0.0.0.0 30daychange.co
+:: 30daychange.co
 0.0.0.0 30pan.com
 :: 30pan.com
 0.0.0.0 30yo.xyz
@@ -3470,6 +3472,8 @@ ff02::3 ip6-allhosts
 :: 9377os.com
 0.0.0.0 93aihbjs7bv4.com
 :: 93aihbjs7bv4.com
+0.0.0.0 93c8c9a28e1db445.com
+:: 93c8c9a28e1db445.com
 0.0.0.0 93ta.cn
 :: 93ta.cn
 0.0.0.0 941adu.com
@@ -4480,8 +4484,6 @@ ff02::3 ip6-allhosts
 :: abcj.dooccn.com
 0.0.0.0 abckj123.com
 :: abckj123.com
-0.0.0.0 abckzo.cn
-:: abckzo.cn
 0.0.0.0 abclnks.com
 :: abclnks.com
 0.0.0.0 abcnewspro.com
@@ -14000,6 +14002,8 @@ ff02::3 ip6-allhosts
 :: aobde.com
 0.0.0.0 aocular.com
 :: aocular.com
+0.0.0.0 aodepuo.cn
+:: aodepuo.cn
 0.0.0.0 aol.spb.su
 :: aol.spb.su
 0.0.0.0 aomde.com
@@ -15336,6 +15340,8 @@ ff02::3 ip6-allhosts
 :: asimgs.pplive.cn
 0.0.0.0 asing.ru
 :: asing.ru
+0.0.0.0 asingsprxxebsx.com
+:: asingsprxxebsx.com
 0.0.0.0 ask-coder.com
 :: ask-coder.com
 0.0.0.0 ask-gps.ru
@@ -18032,6 +18038,8 @@ ff02::3 ip6-allhosts
 :: benchit.com
 0.0.0.0 benchtag2.co
 :: benchtag2.co
+0.0.0.0 beneathdangerously.com
+:: beneathdangerously.com
 0.0.0.0 benedictene.com
 :: benedictene.com
 0.0.0.0 beneficialbeef.com
@@ -18262,6 +18270,8 @@ ff02::3 ip6-allhosts
 :: betway787.com
 0.0.0.0 betweendigital.com
 :: betweendigital.com
+0.0.0.0 betweenstep.online
+:: betweenstep.online
 0.0.0.0 betwinnerpromo.com
 :: betwinnerpromo.com
 0.0.0.0 beusable.net
@@ -22504,8 +22514,6 @@ ff02::3 ip6-allhosts
 :: cfhijdsb.cn
 0.0.0.0 cfhrk.com
 :: cfhrk.com
-0.0.0.0 cfknxewzz.com
-:: cfknxewzz.com
 0.0.0.0 cfps.cw.china-netwave.com
 :: cfps.cw.china-netwave.com
 0.0.0.0 cfpushsdevpw.com
@@ -24420,6 +24428,8 @@ ff02::3 ip6-allhosts
 :: coachquartz.com
 0.0.0.0 coads.akipress.org
 :: coads.akipress.org
+0.0.0.0 coaphauk.net
+:: coaphauk.net
 0.0.0.0 coastsoak.com
 :: coastsoak.com
 0.0.0.0 coatfood.com
@@ -24798,6 +24808,8 @@ ff02::3 ip6-allhosts
 :: colpory.com
 0.0.0.0 coltagainst.pro
 :: coltagainst.pro
+0.0.0.0 colupoqy.xyz
+:: colupoqy.xyz
 0.0.0.0 com-directory.co
 :: com-directory.co
 0.0.0.0 com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
@@ -32914,6 +32926,8 @@ ff02::3 ip6-allhosts
 :: easyinformer.com
 0.0.0.0 easyinline.com
 :: easyinline.com
+0.0.0.0 easyjetset.online
+:: easyjetset.online
 0.0.0.0 easykits.org
 :: easykits.org
 0.0.0.0 easyliao.com
@@ -36700,6 +36714,8 @@ ff02::3 ip6-allhosts
 :: financyregistse.info
 0.0.0.0 finative.eu
 :: finative.eu
+0.0.0.0 finchtechs.com
+:: finchtechs.com
 0.0.0.0 find-a.jp
 :: find-a.jp
 0.0.0.0 find-ip-address.org
@@ -40896,6 +40912,8 @@ ff02::3 ip6-allhosts
 :: greetingscompassbough.com
 0.0.0.0 greetpanda.info
 :: greetpanda.info
+0.0.0.0 greetpanda.org
+:: greetpanda.org
 0.0.0.0 greetzebra.com
 :: greetzebra.com
 0.0.0.0 gregnobs.com
@@ -41244,6 +41262,8 @@ ff02::3 ip6-allhosts
 :: gururevenue.com
 0.0.0.0 gushifanyi.com
 :: gushifanyi.com
+0.0.0.0 gutfdaizu.com
+:: gutfdaizu.com
 0.0.0.0 gutouwang.net
 :: gutouwang.net
 0.0.0.0 gutsfidelity.com
@@ -42476,6 +42496,8 @@ ff02::3 ip6-allhosts
 :: hhbekxxw5d9e.pflexads.com
 0.0.0.0 hhcskj.com
 :: hhcskj.com
+0.0.0.0 hhhyyd.top
+:: hhhyyd.top
 0.0.0.0 hhit.xyz
 :: hhit.xyz
 0.0.0.0 hhjkl.cc
@@ -43144,6 +43166,8 @@ ff02::3 ip6-allhosts
 :: homad-global-configs.schneevonmorgen.com
 0.0.0.0 home-soon.com
 :: home-soon.com
+0.0.0.0 home4loans.info
+:: home4loans.info
 0.0.0.0 home520.com
 :: home520.com
 0.0.0.0 homeads.de
@@ -43692,6 +43716,8 @@ ff02::3 ip6-allhosts
 :: hubrus.com
 0.0.0.0 hubtraffic.com
 :: hubtraffic.com
+0.0.0.0 hubturn.info
+:: hubturn.info
 0.0.0.0 hubvisor.io
 :: hubvisor.io
 0.0.0.0 hubvotrpjios.com
@@ -51002,6 +51028,8 @@ ff02::3 ip6-allhosts
 :: leftliquid.com
 0.0.0.0 leftnetarenning.pro
 :: leftnetarenning.pro
+0.0.0.0 leftoverdense.com
+:: leftoverdense.com
 0.0.0.0 legalledgtjuj.club
 :: legalledgtjuj.club
 0.0.0.0 legandruk.com
@@ -55326,6 +55354,8 @@ ff02::3 ip6-allhosts
 :: markswebcams.com
 0.0.0.0 marktest.pt
 :: marktest.pt
+0.0.0.0 maro30.com
+:: maro30.com
 0.0.0.0 marphezis.com
 :: marphezis.com
 0.0.0.0 mars.jd.com
@@ -56340,6 +56370,8 @@ ff02::3 ip6-allhosts
 :: meme.smhlmao.com
 0.0.0.0 memecounter.com
 :: memecounter.com
+0.0.0.0 memesoupedyea.com
+:: memesoupedyea.com
 0.0.0.0 memo.co
 :: memo.co
 0.0.0.0 memodiketryout.com
@@ -61054,6 +61086,8 @@ ff02::3 ip6-allhosts
 :: niulail.top
 0.0.0.0 niurenw.com
 :: niurenw.com
+0.0.0.0 niutaizong.cn
+:: niutaizong.cn
 0.0.0.0 niux88.com
 :: niux88.com
 0.0.0.0 niwota.com
@@ -64038,6 +64072,8 @@ ff02::3 ip6-allhosts
 :: overreare.co
 0.0.0.0 overribleintena.info
 :: overribleintena.info
+0.0.0.0 oversightbullet.com
+:: oversightbullet.com
 0.0.0.0 overstat.com
 :: overstat.com
 0.0.0.0 overturs.com
@@ -64092,6 +64128,8 @@ ff02::3 ip6-allhosts
 :: owodtmyd.com
 0.0.0.0 owowoaty.com
 :: owowoaty.com
+0.0.0.0 owsvolksk.space
+:: owsvolksk.space
 0.0.0.0 ox-bio.com
 :: ox-bio.com
 0.0.0.0 ox-i.cordillera.tv
@@ -71714,6 +71752,8 @@ ff02::3 ip6-allhosts
 :: rechaptalisent.xyz
 0.0.0.0 recheriend.top
 :: recheriend.top
+0.0.0.0 recipetocook.recipes
+:: recipetocook.recipes
 0.0.0.0 reciteme.com
 :: reciteme.com
 0.0.0.0 reckedmane.club
@@ -72250,6 +72290,8 @@ ff02::3 ip6-allhosts
 :: renaissanto.com
 0.0.0.0 rencai56.com
 :: rencai56.com
+0.0.0.0 renceriskie.fun
+:: renceriskie.fun
 0.0.0.0 rencontreavenue.com
 :: rencontreavenue.com
 0.0.0.0 renewads.com
@@ -72276,6 +72318,8 @@ ff02::3 ip6-allhosts
 :: reojou.com
 0.0.0.0 reon.club
 :: reon.club
+0.0.0.0 reopenmetresubstance.com
+:: reopenmetresubstance.com
 0.0.0.0 reople.co.kr
 :: reople.co.kr
 0.0.0.0 reorganizewallet.com

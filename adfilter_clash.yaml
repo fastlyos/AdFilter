@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwODAyMzA2Mwo=
+# Checksum: MTYwODAzMzkzMQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201215-3
-# TimeUpdated: 2020-12-15T09:04:23+00:00
+# Version: 1.6.9-20201215-4
+# TimeUpdated: 2020-12-15T12:05:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51498
+# Total: 51520
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -733,6 +733,7 @@ payload:
   - DOMAIN,307.cc
   - DOMAIN,30ampj.com
   - DOMAIN,30b9e3a7d7e2b.com
+  - DOMAIN,30daychange.co
   - DOMAIN,30pan.com
   - DOMAIN,30yo.xyz
   - DOMAIN,31.media.tumblr.com
@@ -1734,6 +1735,7 @@ payload:
   - DOMAIN,9377or.com
   - DOMAIN,9377os.com
   - DOMAIN,93aihbjs7bv4.com
+  - DOMAIN,93c8c9a28e1db445.com
   - DOMAIN,93ta.cn
   - DOMAIN,941adu.com
   - DOMAIN,944e66f8683ac43c.com
@@ -2239,7 +2241,6 @@ payload:
   - DOMAIN,abcdcfasda.gushiwen.cn
   - DOMAIN,abcj.dooccn.com
   - DOMAIN,abckj123.com
-  - DOMAIN,abckzo.cn
   - DOMAIN,abclnks.com
   - DOMAIN,abcnewspro.com
   - DOMAIN,abcompteur.com
@@ -6999,6 +7000,7 @@ payload:
   - DOMAIN,ao-freegeoip.herokuapp.com
   - DOMAIN,aobde.com
   - DOMAIN,aocular.com
+  - DOMAIN,aodepuo.cn
   - DOMAIN,aol.spb.su
   - DOMAIN,aomde.com
   - DOMAIN,aomeng.net
@@ -7667,6 +7669,7 @@ payload:
   - DOMAIN,asiantraffic.net
   - DOMAIN,asimgs.pplive.cn
   - DOMAIN,asing.ru
+  - DOMAIN,asingsprxxebsx.com
   - DOMAIN,ask-coder.com
   - DOMAIN,ask-gps.ru
   - DOMAIN,ask.webatall.com
@@ -9015,6 +9018,7 @@ payload:
   - DOMAIN,benchemail.bmetrack.com
   - DOMAIN,benchit.com
   - DOMAIN,benchtag2.co
+  - DOMAIN,beneathdangerously.com
   - DOMAIN,benedictene.com
   - DOMAIN,beneficialbeef.com
   - DOMAIN,benefits.sovendus.com
@@ -9130,6 +9134,7 @@ payload:
   - DOMAIN,betvisa.com
   - DOMAIN,betway787.com
   - DOMAIN,betweendigital.com
+  - DOMAIN,betweenstep.online
   - DOMAIN,betwinnerpromo.com
   - DOMAIN,beusable.net
   - DOMAIN,bewaslac.com
@@ -11251,7 +11256,6 @@ payload:
   - DOMAIN,cfgr1.com
   - DOMAIN,cfhijdsb.cn
   - DOMAIN,cfhrk.com
-  - DOMAIN,cfknxewzz.com
   - DOMAIN,cfps.cw.china-netwave.com
   - DOMAIN,cfpushsdevpw.com
   - DOMAIN,cfredh.cn
@@ -12209,6 +12213,7 @@ payload:
   - DOMAIN,coachingminceur.go2cloud.org
   - DOMAIN,coachquartz.com
   - DOMAIN,coads.akipress.org
+  - DOMAIN,coaphauk.net
   - DOMAIN,coastsoak.com
   - DOMAIN,coatfood.com
   - DOMAIN,coatobpljh.com
@@ -12398,6 +12403,7 @@ payload:
   - DOMAIN,colossusssp.com
   - DOMAIN,colpory.com
   - DOMAIN,coltagainst.pro
+  - DOMAIN,colupoqy.xyz
   - DOMAIN,com-directory.co
   - DOMAIN,com-eonsun-owl-user.oss-cn-hangzhou.aliyuncs.com
   - DOMAIN,com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
@@ -16456,6 +16462,7 @@ payload:
   - DOMAIN,easyhits4u.com
   - DOMAIN,easyinformer.com
   - DOMAIN,easyinline.com
+  - DOMAIN,easyjetset.online
   - DOMAIN,easykits.org
   - DOMAIN,easyliao.com
   - DOMAIN,easylist-to.xyz
@@ -18349,6 +18356,7 @@ payload:
   - DOMAIN,financial-agent.headlines.pw
   - DOMAIN,financyregistse.info
   - DOMAIN,finative.eu
+  - DOMAIN,finchtechs.com
   - DOMAIN,find-a.jp
   - DOMAIN,find-ip-address.org
   - DOMAIN,find-my-great-life.com
@@ -20447,6 +20455,7 @@ payload:
   - DOMAIN,greetham.net
   - DOMAIN,greetingscompassbough.com
   - DOMAIN,greetpanda.info
+  - DOMAIN,greetpanda.org
   - DOMAIN,greetzebra.com
   - DOMAIN,gregnobs.com
   - DOMAIN,grementessenti.info
@@ -20621,6 +20630,7 @@ payload:
   - DOMAIN,gurun.cc
   - DOMAIN,gururevenue.com
   - DOMAIN,gushifanyi.com
+  - DOMAIN,gutfdaizu.com
   - DOMAIN,gutouwang.net
   - DOMAIN,gutsfidelity.com
   - DOMAIN,guxiaom.cn
@@ -21237,6 +21247,7 @@ payload:
   - DOMAIN,hhb123.tk
   - DOMAIN,hhbekxxw5d9e.pflexads.com
   - DOMAIN,hhcskj.com
+  - DOMAIN,hhhyyd.top
   - DOMAIN,hhit.xyz
   - DOMAIN,hhjkl.cc
   - DOMAIN,hhlian.com
@@ -21571,6 +21582,7 @@ payload:
   - DOMAIN,holm.ru
   - DOMAIN,homad-global-configs.schneevonmorgen.com
   - DOMAIN,home-soon.com
+  - DOMAIN,home4loans.info
   - DOMAIN,home520.com
   - DOMAIN,homeads.de
   - DOMAIN,homehre.bravehost.com
@@ -21845,6 +21857,7 @@ payload:
   - DOMAIN,hubojd.com
   - DOMAIN,hubrus.com
   - DOMAIN,hubtraffic.com
+  - DOMAIN,hubturn.info
   - DOMAIN,hubvisor.io
   - DOMAIN,hubvotrpjios.com
   - DOMAIN,huckauhy.com
@@ -25500,6 +25513,7 @@ payload:
   - DOMAIN,leftenvoy.com
   - DOMAIN,leftliquid.com
   - DOMAIN,leftnetarenning.pro
+  - DOMAIN,leftoverdense.com
   - DOMAIN,legalledgtjuj.club
   - DOMAIN,legandruk.com
   - DOMAIN,legedlunchar.top
@@ -27662,6 +27676,7 @@ payload:
   - DOMAIN,marketshot.fr
   - DOMAIN,markswebcams.com
   - DOMAIN,marktest.pt
+  - DOMAIN,maro30.com
   - DOMAIN,marphezis.com
   - DOMAIN,mars.jd.com
   - DOMAIN,marsads.com
@@ -28169,6 +28184,7 @@ payload:
   - DOMAIN,members2.hookup.com
   - DOMAIN,meme.smhlmao.com
   - DOMAIN,memecounter.com
+  - DOMAIN,memesoupedyea.com
   - DOMAIN,memo.co
   - DOMAIN,memodiketryout.com
   - DOMAIN,memopilot.com
@@ -30526,6 +30542,7 @@ payload:
   - DOMAIN,niuguwang.net.cn
   - DOMAIN,niulail.top
   - DOMAIN,niurenw.com
+  - DOMAIN,niutaizong.cn
   - DOMAIN,niux88.com
   - DOMAIN,niwota.com
   - DOMAIN,niwztgetlytxv.com
@@ -32018,6 +32035,7 @@ payload:
   - DOMAIN,overratedchalk.com
   - DOMAIN,overreare.co
   - DOMAIN,overribleintena.info
+  - DOMAIN,oversightbullet.com
   - DOMAIN,overstat.com
   - DOMAIN,overturs.com
   - DOMAIN,oviwtvswp.com
@@ -32045,6 +32063,7 @@ payload:
   - DOMAIN,ownpage.fr
   - DOMAIN,owodtmyd.com
   - DOMAIN,owowoaty.com
+  - DOMAIN,owsvolksk.space
   - DOMAIN,ox-bio.com
   - DOMAIN,ox-i.cordillera.tv
   - DOMAIN,ox.gassi-tv.de
@@ -35856,6 +35875,7 @@ payload:
   - DOMAIN,rechampouinerai.website
   - DOMAIN,rechaptalisent.xyz
   - DOMAIN,recheriend.top
+  - DOMAIN,recipetocook.recipes
   - DOMAIN,reciteme.com
   - DOMAIN,reckedmane.club
   - DOMAIN,reckinbuttiten.pro
@@ -36124,6 +36144,7 @@ payload:
   - DOMAIN,remultiesbee.fun
   - DOMAIN,renaissanto.com
   - DOMAIN,rencai56.com
+  - DOMAIN,renceriskie.fun
   - DOMAIN,rencontreavenue.com
   - DOMAIN,renewads.com
   - DOMAIN,renewnewss.net
@@ -36137,6 +36158,7 @@ payload:
   - DOMAIN,renvahirions.xyz
   - DOMAIN,reojou.com
   - DOMAIN,reon.club
+  - DOMAIN,reopenmetresubstance.com
   - DOMAIN,reople.co.kr
   - DOMAIN,reorganizewallet.com
   - DOMAIN,reotherebyfery.club
