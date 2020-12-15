@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwODA1NTQ1NQo=
+# Checksum: MTYwODA2NjIyNgo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201215-6
-# TimeUpdated: 2020-12-15T18:04:15+00:00
+# Version: 1.6.9-20201215-7
+# TimeUpdated: 2020-12-15T21:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51526
+# Total: 51530
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -411,6 +411,7 @@ payload:
   - DOMAIN,18mad.com
   - DOMAIN,18naked.com
   - DOMAIN,18rm.com
+  - DOMAIN,1904fa460e12a2.com
   - DOMAIN,192b1a49d57.com
   - DOMAIN,1933000.com
   - DOMAIN,1955dcb2fee1a13.com
@@ -3416,6 +3417,7 @@ payload:
   - DOMAIN,adhits.cf
   - DOMAIN,adhitzads.com
   - DOMAIN,adhoc4.net
+  - DOMAIN,adhome.biz
   - DOMAIN,adhood.com
   - DOMAIN,adhost.in
   - DOMAIN,adhostingsolutions.com
@@ -3534,7 +3536,6 @@ payload:
   - DOMAIN,adjust.io
   - DOMAIN,adjustnetwork.com
   - DOMAIN,adjusts.info
-  - DOMAIN,adjwl.com
   - DOMAIN,adk.funshion.com
   - DOMAIN,adk2.com
   - DOMAIN,adkeeker.com
@@ -5834,7 +5835,6 @@ payload:
   - DOMAIN,aff3.gittigidiyor.com
   - DOMAIN,affairswaved.com
   - DOMAIN,affbot3.com
-  - DOMAIN,affbuzzads.com
   - DOMAIN,affec.tv
   - DOMAIN,affectiondifferentlysway.com
   - DOMAIN,affex.org
@@ -5929,6 +5929,7 @@ payload:
   - DOMAIN,affiliation.fotovista.com
   - DOMAIN,affiliation.planethoster.info
   - DOMAIN,affiliation.porn.fr
+  - DOMAIN,affiliation.software
   - DOMAIN,affiliationcash.com
   - DOMAIN,affiliationjs.s3.amazonaws.com
   - DOMAIN,affiliationpartner.it
@@ -6841,7 +6842,6 @@ payload:
   - DOMAIN,analytics.zhihu.com
   - DOMAIN,analytics.ziftsolutions.com
   - DOMAIN,analytics00.meride.tv
-  - DOMAIN,analytics2.socialblade.com
   - DOMAIN,analytics3.dopool.com
   - DOMAIN,analytics3.starschina.com
   - DOMAIN,analyticsapi.happypancake.net
@@ -8351,7 +8351,6 @@ payload:
   - DOMAIN,baihuiad.com
   - DOMAIN,baike.biz
   - DOMAIN,baikebcs.bdimg.com
-  - DOMAIN,bailequan.net.cn
   - DOMAIN,baileycommaserum.com
   - DOMAIN,bainushe.com
   - DOMAIN,baipagid.com
@@ -9854,7 +9853,6 @@ payload:
   - DOMAIN,brentwoodlive-gb.brentwoodlive.co.uk
   - DOMAIN,brevandolius.com
   - DOMAIN,brfiles.com
-  - DOMAIN,brgzqubngqbioh.com
   - DOMAIN,bricksdrumdaughterinlaw.com
   - DOMAIN,bridgevine.com
   - DOMAIN,bridgwatermercury-gb.bridgwatermercury.co.uk
@@ -10367,7 +10365,6 @@ payload:
   - DOMAIN,c.sibnet.ru
   - DOMAIN,c.silvinst.com
   - DOMAIN,c.ssp.qq.com
-  - DOMAIN,c.sssgao999.com
   - DOMAIN,c.sssgbw.cn
   - DOMAIN,c.statcounter.com
   - DOMAIN,c.statstat888.com
@@ -11691,6 +11688,7 @@ payload:
   - DOMAIN,click.hd.sohu.com.cn
   - DOMAIN,click.hm.baidu.com
   - DOMAIN,click.hnol.net
+  - DOMAIN,click.hooligapps.com
   - DOMAIN,click.jasmin.com
   - DOMAIN,click.jebe.renren.com
   - DOMAIN,click.jve.net
@@ -12912,6 +12910,7 @@ payload:
   - DOMAIN,counter.1i.kz
   - DOMAIN,counter.24log.es
   - DOMAIN,counter.24smi.info
+  - DOMAIN,counter.adguard.com
   - DOMAIN,counter.adultrevenueservice.com
   - DOMAIN,counter.advancewebhosting.com
   - DOMAIN,counter.all.biz
@@ -14589,6 +14588,7 @@ payload:
   - DOMAIN,dbios.org
   - DOMAIN,dblmove.com
   - DOMAIN,dblpmp.com
+  - DOMAIN,dbmdoldiqf.com
   - DOMAIN,dbnw.jyzmsy.com.cn
   - DOMAIN,dbojetp.cn
   - DOMAIN,dbooksbysecon.info
@@ -25152,6 +25152,7 @@ payload:
   - DOMAIN,l.popin.cc
   - DOMAIN,l.sharethis.com
   - DOMAIN,l.ujian.cc
+  - DOMAIN,l.www.naver.com
   - DOMAIN,l.yidianzixun.com
   - DOMAIN,l.ykimg.com
   - DOMAIN,l0-secure.videohub.tv
@@ -32768,6 +32769,7 @@ payload:
   - DOMAIN,pepper.com
   - DOMAIN,pepperjam.com
   - DOMAIN,pepperjamnetwork.com
+  - DOMAIN,peppy2lon1g1stalk.com
   - DOMAIN,pepsgolfsintake.com
   - DOMAIN,pepsico.com.cn
   - DOMAIN,pepsmooleak.com
@@ -36819,6 +36821,7 @@ payload:
   - DOMAIN,rselfresolated.club
   - DOMAIN,rsepv.com
   - DOMAIN,rsesmalikes.top
+  - DOMAIN,rseyebrown.fun
   - DOMAIN,rsjehandse.club
   - DOMAIN,rsl2dd0twlym.com
   - DOMAIN,rsleaderingmu.info
@@ -37653,6 +37656,7 @@ payload:
   - DOMAIN,sappropsprov.club
   - DOMAIN,sapsixysho.pro
   - DOMAIN,sapsuaveover.com
+  - DOMAIN,saqthneauq.com
   - DOMAIN,sar.66.ru
   - DOMAIN,sarapbeh.com
   - DOMAIN,sarcasticlinezomby.com
@@ -43066,7 +43070,6 @@ payload:
   - DOMAIN,tools.vpscash.nl
   - DOMAIN,toolset.vip
   - DOMAIN,toolspro.indecentes-voisines.com
-  - DOMAIN,toonget.net
   - DOMAIN,toonikab.com
   - DOMAIN,toonoaho.net
   - DOMAIN,tooshoab.com
@@ -45851,6 +45854,7 @@ payload:
   - DOMAIN,vgo.vegaoo.pt
   - DOMAIN,vgo.vegaooparty.com
   - DOMAIN,vgo.vegaoopro.com
+  - DOMAIN,vgszcaszzef.com
   - DOMAIN,vgvzvqbzhh.com
   - DOMAIN,vgw35hwr4w6x.com
   - DOMAIN,vhajaja.pro

@@ -1,11 +1,11 @@
-# Checksum: MTYwODA1NTQ1NQo=
+# Checksum: MTYwODA2NjIyNgo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201215-6
-# TimeUpdated: 2020-12-15T18:04:15+00:00
+# Version: 1.6.9-20201215-7
+# TimeUpdated: 2020-12-15T21:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51526
+# Total: 51530
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -410,6 +410,7 @@ DOMAIN,18dusun.com,REJECT
 DOMAIN,18mad.com,REJECT
 DOMAIN,18naked.com,REJECT
 DOMAIN,18rm.com,REJECT
+DOMAIN,1904fa460e12a2.com,REJECT
 DOMAIN,192b1a49d57.com,REJECT
 DOMAIN,1933000.com,REJECT
 DOMAIN,1955dcb2fee1a13.com,REJECT
@@ -3415,6 +3416,7 @@ DOMAIN,adhigh.net,REJECT
 DOMAIN,adhits.cf,REJECT
 DOMAIN,adhitzads.com,REJECT
 DOMAIN,adhoc4.net,REJECT
+DOMAIN,adhome.biz,REJECT
 DOMAIN,adhood.com,REJECT
 DOMAIN,adhost.in,REJECT
 DOMAIN,adhostingsolutions.com,REJECT
@@ -3533,7 +3535,6 @@ DOMAIN,adjust.com,REJECT
 DOMAIN,adjust.io,REJECT
 DOMAIN,adjustnetwork.com,REJECT
 DOMAIN,adjusts.info,REJECT
-DOMAIN,adjwl.com,REJECT
 DOMAIN,adk.funshion.com,REJECT
 DOMAIN,adk2.com,REJECT
 DOMAIN,adkeeker.com,REJECT
@@ -5833,7 +5834,6 @@ DOMAIN,aff1xstavka.com,REJECT
 DOMAIN,aff3.gittigidiyor.com,REJECT
 DOMAIN,affairswaved.com,REJECT
 DOMAIN,affbot3.com,REJECT
-DOMAIN,affbuzzads.com,REJECT
 DOMAIN,affec.tv,REJECT
 DOMAIN,affectiondifferentlysway.com,REJECT
 DOMAIN,affex.org,REJECT
@@ -5928,6 +5928,7 @@ DOMAIN,affiliation.filestube.com,REJECT
 DOMAIN,affiliation.fotovista.com,REJECT
 DOMAIN,affiliation.planethoster.info,REJECT
 DOMAIN,affiliation.porn.fr,REJECT
+DOMAIN,affiliation.software,REJECT
 DOMAIN,affiliationcash.com,REJECT
 DOMAIN,affiliationjs.s3.amazonaws.com,REJECT
 DOMAIN,affiliationpartner.it,REJECT
@@ -6840,7 +6841,6 @@ DOMAIN,analytics.zg-api.com,REJECT
 DOMAIN,analytics.zhihu.com,REJECT
 DOMAIN,analytics.ziftsolutions.com,REJECT
 DOMAIN,analytics00.meride.tv,REJECT
-DOMAIN,analytics2.socialblade.com,REJECT
 DOMAIN,analytics3.dopool.com,REJECT
 DOMAIN,analytics3.starschina.com,REJECT
 DOMAIN,analyticsapi.happypancake.net,REJECT
@@ -8350,7 +8350,6 @@ DOMAIN,baifendian.com,REJECT
 DOMAIN,baihuiad.com,REJECT
 DOMAIN,baike.biz,REJECT
 DOMAIN,baikebcs.bdimg.com,REJECT
-DOMAIN,bailequan.net.cn,REJECT
 DOMAIN,baileycommaserum.com,REJECT
 DOMAIN,bainushe.com,REJECT
 DOMAIN,baipagid.com,REJECT
@@ -9853,7 +9852,6 @@ DOMAIN,brekdok.com,REJECT
 DOMAIN,brentwoodlive-gb.brentwoodlive.co.uk,REJECT
 DOMAIN,brevandolius.com,REJECT
 DOMAIN,brfiles.com,REJECT
-DOMAIN,brgzqubngqbioh.com,REJECT
 DOMAIN,bricksdrumdaughterinlaw.com,REJECT
 DOMAIN,bridgevine.com,REJECT
 DOMAIN,bridgwatermercury-gb.bridgwatermercury.co.uk,REJECT
@@ -10366,7 +10364,6 @@ DOMAIN,c.sg.msn.com,REJECT
 DOMAIN,c.sibnet.ru,REJECT
 DOMAIN,c.silvinst.com,REJECT
 DOMAIN,c.ssp.qq.com,REJECT
-DOMAIN,c.sssgao999.com,REJECT
 DOMAIN,c.sssgbw.cn,REJECT
 DOMAIN,c.statcounter.com,REJECT
 DOMAIN,c.statstat888.com,REJECT
@@ -11690,6 +11687,7 @@ DOMAIN,click.hd.sohu.com,REJECT
 DOMAIN,click.hd.sohu.com.cn,REJECT
 DOMAIN,click.hm.baidu.com,REJECT
 DOMAIN,click.hnol.net,REJECT
+DOMAIN,click.hooligapps.com,REJECT
 DOMAIN,click.jasmin.com,REJECT
 DOMAIN,click.jebe.renren.com,REJECT
 DOMAIN,click.jve.net,REJECT
@@ -12911,6 +12909,7 @@ DOMAIN,counter.1gb.ru,REJECT
 DOMAIN,counter.1i.kz,REJECT
 DOMAIN,counter.24log.es,REJECT
 DOMAIN,counter.24smi.info,REJECT
+DOMAIN,counter.adguard.com,REJECT
 DOMAIN,counter.adultrevenueservice.com,REJECT
 DOMAIN,counter.advancewebhosting.com,REJECT
 DOMAIN,counter.all.biz,REJECT
@@ -14588,6 +14587,7 @@ DOMAIN,dbiej.com,REJECT
 DOMAIN,dbios.org,REJECT
 DOMAIN,dblmove.com,REJECT
 DOMAIN,dblpmp.com,REJECT
+DOMAIN,dbmdoldiqf.com,REJECT
 DOMAIN,dbnw.jyzmsy.com.cn,REJECT
 DOMAIN,dbojetp.cn,REJECT
 DOMAIN,dbooksbysecon.info,REJECT
@@ -25151,6 +25151,7 @@ DOMAIN,l.player.ooyala.com,REJECT
 DOMAIN,l.popin.cc,REJECT
 DOMAIN,l.sharethis.com,REJECT
 DOMAIN,l.ujian.cc,REJECT
+DOMAIN,l.www.naver.com,REJECT
 DOMAIN,l.yidianzixun.com,REJECT
 DOMAIN,l.ykimg.com,REJECT
 DOMAIN,l0-secure.videohub.tv,REJECT
@@ -32767,6 +32768,7 @@ DOMAIN,pepnerdmime.cam,REJECT
 DOMAIN,pepper.com,REJECT
 DOMAIN,pepperjam.com,REJECT
 DOMAIN,pepperjamnetwork.com,REJECT
+DOMAIN,peppy2lon1g1stalk.com,REJECT
 DOMAIN,pepsgolfsintake.com,REJECT
 DOMAIN,pepsico.com.cn,REJECT
 DOMAIN,pepsmooleak.com,REJECT
@@ -36818,6 +36820,7 @@ DOMAIN,rselffreedsc.top,REJECT
 DOMAIN,rselfresolated.club,REJECT
 DOMAIN,rsepv.com,REJECT
 DOMAIN,rsesmalikes.top,REJECT
+DOMAIN,rseyebrown.fun,REJECT
 DOMAIN,rsjehandse.club,REJECT
 DOMAIN,rsl2dd0twlym.com,REJECT
 DOMAIN,rsleaderingmu.info,REJECT
@@ -37652,6 +37655,7 @@ DOMAIN,sappropsi.club,REJECT
 DOMAIN,sappropsprov.club,REJECT
 DOMAIN,sapsixysho.pro,REJECT
 DOMAIN,sapsuaveover.com,REJECT
+DOMAIN,saqthneauq.com,REJECT
 DOMAIN,sar.66.ru,REJECT
 DOMAIN,sarapbeh.com,REJECT
 DOMAIN,sarcasticlinezomby.com,REJECT
@@ -43065,7 +43069,6 @@ DOMAIN,tools.sexedenfer.com,REJECT
 DOMAIN,tools.vpscash.nl,REJECT
 DOMAIN,toolset.vip,REJECT
 DOMAIN,toolspro.indecentes-voisines.com,REJECT
-DOMAIN,toonget.net,REJECT
 DOMAIN,toonikab.com,REJECT
 DOMAIN,toonoaho.net,REJECT
 DOMAIN,tooshoab.com,REJECT
@@ -45850,6 +45853,7 @@ DOMAIN,vgo.vegaoo.nl,REJECT
 DOMAIN,vgo.vegaoo.pt,REJECT
 DOMAIN,vgo.vegaooparty.com,REJECT
 DOMAIN,vgo.vegaoopro.com,REJECT
+DOMAIN,vgszcaszzef.com,REJECT
 DOMAIN,vgvzvqbzhh.com,REJECT
 DOMAIN,vgw35hwr4w6x.com,REJECT
 DOMAIN,vhajaja.pro,REJECT

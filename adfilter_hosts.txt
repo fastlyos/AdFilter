@@ -1,11 +1,11 @@
-# Checksum: MTYwODA1NTQ1NQo=
+# Checksum: MTYwODA2NjIyNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201215-6
-# TimeUpdated: 2020-12-15T18:04:15+00:00
+# Version: 1.6.9-20201215-7
+# TimeUpdated: 2020-12-15T21:03:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51526
+# Total: 51530
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -824,6 +824,8 @@ ff02::3 ip6-allhosts
 :: 18naked.com
 0.0.0.0 18rm.com
 :: 18rm.com
+0.0.0.0 1904fa460e12a2.com
+:: 1904fa460e12a2.com
 0.0.0.0 192b1a49d57.com
 :: 192b1a49d57.com
 0.0.0.0 1933000.com
@@ -6834,6 +6836,8 @@ ff02::3 ip6-allhosts
 :: adhitzads.com
 0.0.0.0 adhoc4.net
 :: adhoc4.net
+0.0.0.0 adhome.biz
+:: adhome.biz
 0.0.0.0 adhood.com
 :: adhood.com
 0.0.0.0 adhost.in
@@ -7070,8 +7074,6 @@ ff02::3 ip6-allhosts
 :: adjustnetwork.com
 0.0.0.0 adjusts.info
 :: adjusts.info
-0.0.0.0 adjwl.com
-:: adjwl.com
 0.0.0.0 adk.funshion.com
 :: adk.funshion.com
 0.0.0.0 adk2.com
@@ -11670,8 +11672,6 @@ ff02::3 ip6-allhosts
 :: affairswaved.com
 0.0.0.0 affbot3.com
 :: affbot3.com
-0.0.0.0 affbuzzads.com
-:: affbuzzads.com
 0.0.0.0 affec.tv
 :: affec.tv
 0.0.0.0 affectiondifferentlysway.com
@@ -11860,6 +11860,8 @@ ff02::3 ip6-allhosts
 :: affiliation.planethoster.info
 0.0.0.0 affiliation.porn.fr
 :: affiliation.porn.fr
+0.0.0.0 affiliation.software
+:: affiliation.software
 0.0.0.0 affiliationcash.com
 :: affiliationcash.com
 0.0.0.0 affiliationjs.s3.amazonaws.com
@@ -13684,8 +13686,6 @@ ff02::3 ip6-allhosts
 :: analytics.ziftsolutions.com
 0.0.0.0 analytics00.meride.tv
 :: analytics00.meride.tv
-0.0.0.0 analytics2.socialblade.com
-:: analytics2.socialblade.com
 0.0.0.0 analytics3.dopool.com
 :: analytics3.dopool.com
 0.0.0.0 analytics3.starschina.com
@@ -16704,8 +16704,6 @@ ff02::3 ip6-allhosts
 :: baike.biz
 0.0.0.0 baikebcs.bdimg.com
 :: baikebcs.bdimg.com
-0.0.0.0 bailequan.net.cn
-:: bailequan.net.cn
 0.0.0.0 baileycommaserum.com
 :: baileycommaserum.com
 0.0.0.0 bainushe.com
@@ -19710,8 +19708,6 @@ ff02::3 ip6-allhosts
 :: brevandolius.com
 0.0.0.0 brfiles.com
 :: brfiles.com
-0.0.0.0 brgzqubngqbioh.com
-:: brgzqubngqbioh.com
 0.0.0.0 bricksdrumdaughterinlaw.com
 :: bricksdrumdaughterinlaw.com
 0.0.0.0 bridgevine.com
@@ -20736,8 +20732,6 @@ ff02::3 ip6-allhosts
 :: c.silvinst.com
 0.0.0.0 c.ssp.qq.com
 :: c.ssp.qq.com
-0.0.0.0 c.sssgao999.com
-:: c.sssgao999.com
 0.0.0.0 c.sssgbw.cn
 :: c.sssgbw.cn
 0.0.0.0 c.statcounter.com
@@ -23384,6 +23378,8 @@ ff02::3 ip6-allhosts
 :: click.hm.baidu.com
 0.0.0.0 click.hnol.net
 :: click.hnol.net
+0.0.0.0 click.hooligapps.com
+:: click.hooligapps.com
 0.0.0.0 click.jasmin.com
 :: click.jasmin.com
 0.0.0.0 click.jebe.renren.com
@@ -25826,6 +25822,8 @@ ff02::3 ip6-allhosts
 :: counter.24log.es
 0.0.0.0 counter.24smi.info
 :: counter.24smi.info
+0.0.0.0 counter.adguard.com
+:: counter.adguard.com
 0.0.0.0 counter.adultrevenueservice.com
 :: counter.adultrevenueservice.com
 0.0.0.0 counter.advancewebhosting.com
@@ -29180,6 +29178,8 @@ ff02::3 ip6-allhosts
 :: dblmove.com
 0.0.0.0 dblpmp.com
 :: dblpmp.com
+0.0.0.0 dbmdoldiqf.com
+:: dbmdoldiqf.com
 0.0.0.0 dbnw.jyzmsy.com.cn
 :: dbnw.jyzmsy.com.cn
 0.0.0.0 dbojetp.cn
@@ -50306,6 +50306,8 @@ ff02::3 ip6-allhosts
 :: l.sharethis.com
 0.0.0.0 l.ujian.cc
 :: l.ujian.cc
+0.0.0.0 l.www.naver.com
+:: l.www.naver.com
 0.0.0.0 l.yidianzixun.com
 :: l.yidianzixun.com
 0.0.0.0 l.ykimg.com
@@ -65538,6 +65540,8 @@ ff02::3 ip6-allhosts
 :: pepperjam.com
 0.0.0.0 pepperjamnetwork.com
 :: pepperjamnetwork.com
+0.0.0.0 peppy2lon1g1stalk.com
+:: peppy2lon1g1stalk.com
 0.0.0.0 pepsgolfsintake.com
 :: pepsgolfsintake.com
 0.0.0.0 pepsico.com.cn
@@ -73640,6 +73644,8 @@ ff02::3 ip6-allhosts
 :: rsepv.com
 0.0.0.0 rsesmalikes.top
 :: rsesmalikes.top
+0.0.0.0 rseyebrown.fun
+:: rseyebrown.fun
 0.0.0.0 rsjehandse.club
 :: rsjehandse.club
 0.0.0.0 rsl2dd0twlym.com
@@ -75308,6 +75314,8 @@ ff02::3 ip6-allhosts
 :: sapsixysho.pro
 0.0.0.0 sapsuaveover.com
 :: sapsuaveover.com
+0.0.0.0 saqthneauq.com
+:: saqthneauq.com
 0.0.0.0 sar.66.ru
 :: sar.66.ru
 0.0.0.0 sarapbeh.com
@@ -86134,8 +86142,6 @@ ff02::3 ip6-allhosts
 :: toolset.vip
 0.0.0.0 toolspro.indecentes-voisines.com
 :: toolspro.indecentes-voisines.com
-0.0.0.0 toonget.net
-:: toonget.net
 0.0.0.0 toonikab.com
 :: toonikab.com
 0.0.0.0 toonoaho.net
@@ -91704,6 +91710,8 @@ ff02::3 ip6-allhosts
 :: vgo.vegaooparty.com
 0.0.0.0 vgo.vegaoopro.com
 :: vgo.vegaoopro.com
+0.0.0.0 vgszcaszzef.com
+:: vgszcaszzef.com
 0.0.0.0 vgvzvqbzhh.com
 :: vgvzvqbzhh.com
 0.0.0.0 vgw35hwr4w6x.com
