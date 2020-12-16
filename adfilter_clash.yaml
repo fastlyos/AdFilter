@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwODE0MTg3Nwo=
+# Checksum: MTYwODE1MjY2Mgo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-6
-# TimeUpdated: 2020-12-16T18:04:37+00:00
+# Version: 1.6.9-20201216-7
+# TimeUpdated: 2020-12-16T21:04:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51506
+# Total: 51516
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1077,7 +1077,6 @@ payload:
   - DOMAIN,51network.com
   - DOMAIN,51posuiji.org.cn
   - DOMAIN,51roadway.com
-  - DOMAIN,51showmy.com
   - DOMAIN,51sxzz.com
   - DOMAIN,51taifu.com
   - DOMAIN,51vipedu.com
@@ -1786,6 +1785,7 @@ payload:
   - DOMAIN,996f3d.cn
   - DOMAIN,99818fb574.com
   - DOMAIN,9989be8064c80b.com
+  - DOMAIN,9997494f4d4b694d4f6702.online
   - DOMAIN,999d.com
   - DOMAIN,99counters.com
   - DOMAIN,99dqw.com
@@ -3023,6 +3023,7 @@ payload:
   - DOMAIN,ad2adnetwork.biz
   - DOMAIN,ad2games.com
   - DOMAIN,ad2goal.com
+  - DOMAIN,ad2load.net
   - DOMAIN,ad2net.de
   - DOMAIN,ad2play.ftv-publicite.fr
   - DOMAIN,ad2up.com
@@ -11410,6 +11411,7 @@ payload:
   - DOMAIN,chgilks.com
   - DOMAIN,chiasephim.xyz
   - DOMAIN,chicaudo.com
+  - DOMAIN,chicken18.com
   - DOMAIN,chickensstation.com
   - DOMAIN,chidir.com
   - DOMAIN,chidsimp.com
@@ -15456,6 +15458,7 @@ payload:
   - DOMAIN,dmanalytics1.com
   - DOMAIN,dmapp.youku.com
   - DOMAIN,dmastescaugh.info
+  - DOMAIN,dmcdn.yieldbird.com
   - DOMAIN,dmclick.cn
   - DOMAIN,dmdamedia.hu
   - DOMAIN,dmdi.pl
@@ -21789,6 +21792,7 @@ payload:
   - DOMAIN,hq-films.ws
   - DOMAIN,hq.appsflyer.com
   - DOMAIN,hq3x.com
+  - DOMAIN,hqgjcm.com
   - DOMAIN,hqpass.com
   - DOMAIN,hqr9q6f30371.com
   - DOMAIN,hqrsuxsjqycv.info
@@ -24125,6 +24129,7 @@ payload:
   - DOMAIN,jrlt.beacon.qq.com
   - DOMAIN,jroqvbvw.info
   - DOMAIN,jrpt.jrptweb.org
+  - DOMAIN,jrs2igoimq.ru
   - DOMAIN,jrsrshjlzdvsk.com
   - DOMAIN,jrvcwxubg.com
   - DOMAIN,jrvdga.com
@@ -24473,6 +24478,7 @@ payload:
   - DOMAIN,juxiao.mediav.com
   - DOMAIN,juxilm.com
   - DOMAIN,juxupsasu.pro
+  - DOMAIN,juyiqiche.com.cn
   - DOMAIN,juyoufan.net
   - DOMAIN,juzi.cn
   - DOMAIN,juzilm.com
@@ -24969,6 +24975,7 @@ payload:
   - DOMAIN,kodicdn.com
   - DOMAIN,koertf.com
   - DOMAIN,koesvqwwpmvb.com
+  - DOMAIN,kofcq5.cn
   - DOMAIN,kofpag.com
   - DOMAIN,koimplishing.club
   - DOMAIN,koindut.com
@@ -27969,6 +27976,7 @@ payload:
   - DOMAIN,me.com.x9wj2.cn
   - DOMAIN,me.cpatrk.net
   - DOMAIN,me.xdrig.com
+  - DOMAIN,me0715.top
   - DOMAIN,meadigital.com
   - DOMAIN,meaningevidentlygo.com
   - DOMAIN,meapk.com
@@ -31277,6 +31285,7 @@ payload:
   - DOMAIN,od0gddq27wkk.com
   - DOMAIN,oda.markitondemand.com
   - DOMAIN,odb.outbrain.com
+  - DOMAIN,odbierz-bony.ovp.pl
   - DOMAIN,odc.starwave.com
   - DOMAIN,odd-onead.cdn.hinet.net
   - DOMAIN,oddertabrhino.com
@@ -33221,8 +33230,8 @@ payload:
   - DOMAIN,pinresentag.info
   - DOMAIN,pintour.com
   - DOMAIN,pinttalewag.com
-  - DOMAIN,pinyoux.com
   - DOMAIN,pinzhitmall.com
+  - DOMAIN,pion.loveserials.net
   - DOMAIN,piou.kirkir.xyz
   - DOMAIN,pip-pip-pop.com
   - DOMAIN,pipe-collect.ebu.io
@@ -47143,6 +47152,7 @@ payload:
   - DOMAIN,whcrdz.com
   - DOMAIN,whdafei.com
   - DOMAIN,whdzxabhqsdnlc.com
+  - DOMAIN,wheelwheel.space
   - DOMAIN,wheessoo.com
   - DOMAIN,whefungu.com
   - DOMAIN,whegadry.com
@@ -50777,6 +50787,7 @@ payload:
   - DOMAIN,ypuxlzxa.com
   - DOMAIN,yqbyzekybmswii.com
   - DOMAIN,yqezqofkb1nnmz.com
+  - DOMAIN,yqg0rv8p35.ru
   - DOMAIN,yqhlty.com
   - DOMAIN,yqjxzw.com
   - DOMAIN,yqkxutfjzbdbml.com
@@ -51456,7 +51467,6 @@ payload:
   - DOMAIN,zxh.bzshzx.com
   - DOMAIN,zxhymh.com
   - DOMAIN,zxl.qzbxfs.com
-  - DOMAIN,zxlmnet.com
   - DOMAIN,zxr.fzxrjx.com
   - DOMAIN,zxryytzesvn.com
   - DOMAIN,zxsddfs.pro

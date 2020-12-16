@@ -1,11 +1,11 @@
-# Checksum: MTYwODE0MTg3Nwo=
+# Checksum: MTYwODE1MjY2Mgo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-6
-# TimeUpdated: 2020-12-16T18:04:37+00:00
+# Version: 1.6.9-20201216-7
+# TimeUpdated: 2020-12-16T21:04:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51506
+# Total: 51516
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -1076,7 +1076,6 @@ DOMAIN,51mypc.cn,REJECT
 DOMAIN,51network.com,REJECT
 DOMAIN,51posuiji.org.cn,REJECT
 DOMAIN,51roadway.com,REJECT
-DOMAIN,51showmy.com,REJECT
 DOMAIN,51sxzz.com,REJECT
 DOMAIN,51taifu.com,REJECT
 DOMAIN,51vipedu.com,REJECT
@@ -1785,6 +1784,7 @@ DOMAIN,994ot5rkpch2.com,REJECT
 DOMAIN,996f3d.cn,REJECT
 DOMAIN,99818fb574.com,REJECT
 DOMAIN,9989be8064c80b.com,REJECT
+DOMAIN,9997494f4d4b694d4f6702.online,REJECT
 DOMAIN,999d.com,REJECT
 DOMAIN,99counters.com,REJECT
 DOMAIN,99dqw.com,REJECT
@@ -3022,6 +3022,7 @@ DOMAIN,ad2017.meo4.info,REJECT
 DOMAIN,ad2adnetwork.biz,REJECT
 DOMAIN,ad2games.com,REJECT
 DOMAIN,ad2goal.com,REJECT
+DOMAIN,ad2load.net,REJECT
 DOMAIN,ad2net.de,REJECT
 DOMAIN,ad2play.ftv-publicite.fr,REJECT
 DOMAIN,ad2up.com,REJECT
@@ -11409,6 +11410,7 @@ DOMAIN,chgdf.cn,REJECT
 DOMAIN,chgilks.com,REJECT
 DOMAIN,chiasephim.xyz,REJECT
 DOMAIN,chicaudo.com,REJECT
+DOMAIN,chicken18.com,REJECT
 DOMAIN,chickensstation.com,REJECT
 DOMAIN,chidir.com,REJECT
 DOMAIN,chidsimp.com,REJECT
@@ -15455,6 +15457,7 @@ DOMAIN,dmacore.kejet.net,REJECT
 DOMAIN,dmanalytics1.com,REJECT
 DOMAIN,dmapp.youku.com,REJECT
 DOMAIN,dmastescaugh.info,REJECT
+DOMAIN,dmcdn.yieldbird.com,REJECT
 DOMAIN,dmclick.cn,REJECT
 DOMAIN,dmdamedia.hu,REJECT
 DOMAIN,dmdi.pl,REJECT
@@ -21788,6 +21791,7 @@ DOMAIN,hpyue.com,REJECT
 DOMAIN,hq-films.ws,REJECT
 DOMAIN,hq.appsflyer.com,REJECT
 DOMAIN,hq3x.com,REJECT
+DOMAIN,hqgjcm.com,REJECT
 DOMAIN,hqpass.com,REJECT
 DOMAIN,hqr9q6f30371.com,REJECT
 DOMAIN,hqrsuxsjqycv.info,REJECT
@@ -24124,6 +24128,7 @@ DOMAIN,jrj.adsame.com,REJECT
 DOMAIN,jrlt.beacon.qq.com,REJECT
 DOMAIN,jroqvbvw.info,REJECT
 DOMAIN,jrpt.jrptweb.org,REJECT
+DOMAIN,jrs2igoimq.ru,REJECT
 DOMAIN,jrsrshjlzdvsk.com,REJECT
 DOMAIN,jrvcwxubg.com,REJECT
 DOMAIN,jrvdga.com,REJECT
@@ -24472,6 +24477,7 @@ DOMAIN,juxiao.adsmogo.net,REJECT
 DOMAIN,juxiao.mediav.com,REJECT
 DOMAIN,juxilm.com,REJECT
 DOMAIN,juxupsasu.pro,REJECT
+DOMAIN,juyiqiche.com.cn,REJECT
 DOMAIN,juyoufan.net,REJECT
 DOMAIN,juzi.cn,REJECT
 DOMAIN,juzilm.com,REJECT
@@ -24968,6 +24974,7 @@ DOMAIN,koddi.com,REJECT
 DOMAIN,kodicdn.com,REJECT
 DOMAIN,koertf.com,REJECT
 DOMAIN,koesvqwwpmvb.com,REJECT
+DOMAIN,kofcq5.cn,REJECT
 DOMAIN,kofpag.com,REJECT
 DOMAIN,koimplishing.club,REJECT
 DOMAIN,koindut.com,REJECT
@@ -27968,6 +27975,7 @@ DOMAIN,me.afp.chinanews.com,REJECT
 DOMAIN,me.com.x9wj2.cn,REJECT
 DOMAIN,me.cpatrk.net,REJECT
 DOMAIN,me.xdrig.com,REJECT
+DOMAIN,me0715.top,REJECT
 DOMAIN,meadigital.com,REJECT
 DOMAIN,meaningevidentlygo.com,REJECT
 DOMAIN,meapk.com,REJECT
@@ -31276,6 +31284,7 @@ DOMAIN,ocyhiome.com,REJECT
 DOMAIN,od0gddq27wkk.com,REJECT
 DOMAIN,oda.markitondemand.com,REJECT
 DOMAIN,odb.outbrain.com,REJECT
+DOMAIN,odbierz-bony.ovp.pl,REJECT
 DOMAIN,odc.starwave.com,REJECT
 DOMAIN,odd-onead.cdn.hinet.net,REJECT
 DOMAIN,oddertabrhino.com,REJECT
@@ -33220,8 +33229,8 @@ DOMAIN,pinpoll.com,REJECT
 DOMAIN,pinresentag.info,REJECT
 DOMAIN,pintour.com,REJECT
 DOMAIN,pinttalewag.com,REJECT
-DOMAIN,pinyoux.com,REJECT
 DOMAIN,pinzhitmall.com,REJECT
+DOMAIN,pion.loveserials.net,REJECT
 DOMAIN,piou.kirkir.xyz,REJECT
 DOMAIN,pip-pip-pop.com,REJECT
 DOMAIN,pipe-collect.ebu.io,REJECT
@@ -47142,6 +47151,7 @@ DOMAIN,whchsvlxch.site,REJECT
 DOMAIN,whcrdz.com,REJECT
 DOMAIN,whdafei.com,REJECT
 DOMAIN,whdzxabhqsdnlc.com,REJECT
+DOMAIN,wheelwheel.space,REJECT
 DOMAIN,wheessoo.com,REJECT
 DOMAIN,whefungu.com,REJECT
 DOMAIN,whegadry.com,REJECT
@@ -50776,6 +50786,7 @@ DOMAIN,ypu.samsungelectronics.com,REJECT
 DOMAIN,ypuxlzxa.com,REJECT
 DOMAIN,yqbyzekybmswii.com,REJECT
 DOMAIN,yqezqofkb1nnmz.com,REJECT
+DOMAIN,yqg0rv8p35.ru,REJECT
 DOMAIN,yqhlty.com,REJECT
 DOMAIN,yqjxzw.com,REJECT
 DOMAIN,yqkxutfjzbdbml.com,REJECT
@@ -51455,7 +51466,6 @@ DOMAIN,zxdvs.cn,REJECT
 DOMAIN,zxh.bzshzx.com,REJECT
 DOMAIN,zxhymh.com,REJECT
 DOMAIN,zxl.qzbxfs.com,REJECT
-DOMAIN,zxlmnet.com,REJECT
 DOMAIN,zxr.fzxrjx.com,REJECT
 DOMAIN,zxryytzesvn.com,REJECT
 DOMAIN,zxsddfs.pro,REJECT

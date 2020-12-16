@@ -1,11 +1,11 @@
-# Checksum: MTYwODE0MTg3Nwo=
+# Checksum: MTYwODE1MjY2Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-6
-# TimeUpdated: 2020-12-16T18:04:37+00:00
+# Version: 1.6.9-20201216-7
+# TimeUpdated: 2020-12-16T21:04:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51506
+# Total: 51516
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2156,8 +2156,6 @@ ff02::3 ip6-allhosts
 :: 51posuiji.org.cn
 0.0.0.0 51roadway.com
 :: 51roadway.com
-0.0.0.0 51showmy.com
-:: 51showmy.com
 0.0.0.0 51sxzz.com
 :: 51sxzz.com
 0.0.0.0 51taifu.com
@@ -3574,6 +3572,8 @@ ff02::3 ip6-allhosts
 :: 99818fb574.com
 0.0.0.0 9989be8064c80b.com
 :: 9989be8064c80b.com
+0.0.0.0 9997494f4d4b694d4f6702.online
+:: 9997494f4d4b694d4f6702.online
 0.0.0.0 999d.com
 :: 999d.com
 0.0.0.0 99counters.com
@@ -6048,6 +6048,8 @@ ff02::3 ip6-allhosts
 :: ad2games.com
 0.0.0.0 ad2goal.com
 :: ad2goal.com
+0.0.0.0 ad2load.net
+:: ad2load.net
 0.0.0.0 ad2net.de
 :: ad2net.de
 0.0.0.0 ad2play.ftv-publicite.fr
@@ -22822,6 +22824,8 @@ ff02::3 ip6-allhosts
 :: chiasephim.xyz
 0.0.0.0 chicaudo.com
 :: chicaudo.com
+0.0.0.0 chicken18.com
+:: chicken18.com
 0.0.0.0 chickensstation.com
 :: chickensstation.com
 0.0.0.0 chidir.com
@@ -30914,6 +30918,8 @@ ff02::3 ip6-allhosts
 :: dmapp.youku.com
 0.0.0.0 dmastescaugh.info
 :: dmastescaugh.info
+0.0.0.0 dmcdn.yieldbird.com
+:: dmcdn.yieldbird.com
 0.0.0.0 dmclick.cn
 :: dmclick.cn
 0.0.0.0 dmdamedia.hu
@@ -43580,6 +43586,8 @@ ff02::3 ip6-allhosts
 :: hq.appsflyer.com
 0.0.0.0 hq3x.com
 :: hq3x.com
+0.0.0.0 hqgjcm.com
+:: hqgjcm.com
 0.0.0.0 hqpass.com
 :: hqpass.com
 0.0.0.0 hqr9q6f30371.com
@@ -48252,6 +48260,8 @@ ff02::3 ip6-allhosts
 :: jroqvbvw.info
 0.0.0.0 jrpt.jrptweb.org
 :: jrpt.jrptweb.org
+0.0.0.0 jrs2igoimq.ru
+:: jrs2igoimq.ru
 0.0.0.0 jrsrshjlzdvsk.com
 :: jrsrshjlzdvsk.com
 0.0.0.0 jrvcwxubg.com
@@ -48948,6 +48958,8 @@ ff02::3 ip6-allhosts
 :: juxilm.com
 0.0.0.0 juxupsasu.pro
 :: juxupsasu.pro
+0.0.0.0 juyiqiche.com.cn
+:: juyiqiche.com.cn
 0.0.0.0 juyoufan.net
 :: juyoufan.net
 0.0.0.0 juzi.cn
@@ -49940,6 +49952,8 @@ ff02::3 ip6-allhosts
 :: koertf.com
 0.0.0.0 koesvqwwpmvb.com
 :: koesvqwwpmvb.com
+0.0.0.0 kofcq5.cn
+:: kofcq5.cn
 0.0.0.0 kofpag.com
 :: kofpag.com
 0.0.0.0 koimplishing.club
@@ -55940,6 +55954,8 @@ ff02::3 ip6-allhosts
 :: me.cpatrk.net
 0.0.0.0 me.xdrig.com
 :: me.xdrig.com
+0.0.0.0 me0715.top
+:: me0715.top
 0.0.0.0 meadigital.com
 :: meadigital.com
 0.0.0.0 meaningevidentlygo.com
@@ -62556,6 +62572,8 @@ ff02::3 ip6-allhosts
 :: oda.markitondemand.com
 0.0.0.0 odb.outbrain.com
 :: odb.outbrain.com
+0.0.0.0 odbierz-bony.ovp.pl
+:: odbierz-bony.ovp.pl
 0.0.0.0 odc.starwave.com
 :: odc.starwave.com
 0.0.0.0 odd-onead.cdn.hinet.net
@@ -66444,10 +66462,10 @@ ff02::3 ip6-allhosts
 :: pintour.com
 0.0.0.0 pinttalewag.com
 :: pinttalewag.com
-0.0.0.0 pinyoux.com
-:: pinyoux.com
 0.0.0.0 pinzhitmall.com
 :: pinzhitmall.com
+0.0.0.0 pion.loveserials.net
+:: pion.loveserials.net
 0.0.0.0 piou.kirkir.xyz
 :: piou.kirkir.xyz
 0.0.0.0 pip-pip-pop.com
@@ -94288,6 +94306,8 @@ ff02::3 ip6-allhosts
 :: whdafei.com
 0.0.0.0 whdzxabhqsdnlc.com
 :: whdzxabhqsdnlc.com
+0.0.0.0 wheelwheel.space
+:: wheelwheel.space
 0.0.0.0 wheessoo.com
 :: wheessoo.com
 0.0.0.0 whefungu.com
@@ -101556,6 +101576,8 @@ ff02::3 ip6-allhosts
 :: yqbyzekybmswii.com
 0.0.0.0 yqezqofkb1nnmz.com
 :: yqezqofkb1nnmz.com
+0.0.0.0 yqg0rv8p35.ru
+:: yqg0rv8p35.ru
 0.0.0.0 yqhlty.com
 :: yqhlty.com
 0.0.0.0 yqjxzw.com
@@ -102914,8 +102936,6 @@ ff02::3 ip6-allhosts
 :: zxhymh.com
 0.0.0.0 zxl.qzbxfs.com
 :: zxl.qzbxfs.com
-0.0.0.0 zxlmnet.com
-:: zxlmnet.com
 0.0.0.0 zxr.fzxrjx.com
 :: zxr.fzxrjx.com
 0.0.0.0 zxryytzesvn.com
