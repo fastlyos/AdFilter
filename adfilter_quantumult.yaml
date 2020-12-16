@@ -1,11 +1,11 @@
-# Checksum: MTYwODEzMTA2Nwo=
+# Checksum: MTYwODE0MTg3Nwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-5
-# TimeUpdated: 2020-12-16T15:04:27+00:00
+# Version: 1.6.9-20201216-6
+# TimeUpdated: 2020-12-16T18:04:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51503
+# Total: 51506
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -1076,6 +1076,7 @@ DOMAIN,51mypc.cn,REJECT
 DOMAIN,51network.com,REJECT
 DOMAIN,51posuiji.org.cn,REJECT
 DOMAIN,51roadway.com,REJECT
+DOMAIN,51showmy.com,REJECT
 DOMAIN,51sxzz.com,REJECT
 DOMAIN,51taifu.com,REJECT
 DOMAIN,51vipedu.com,REJECT
@@ -5825,7 +5826,6 @@ DOMAIN,afa9bdfa63bf7.com,REJECT
 DOMAIN,afairweb.com,REJECT
 DOMAIN,afbcashidr.com,REJECT
 DOMAIN,afcontent.net,REJECT
-DOMAIN,afcxojqr.com,REJECT
 DOMAIN,afd.baidu.com,REJECT
 DOMAIN,afefw.com,REJECT
 DOMAIN,afeuvqrsswz.com,REJECT
@@ -7516,7 +7516,6 @@ DOMAIN,area.baomihua.com,REJECT
 DOMAIN,areabet.net,REJECT
 DOMAIN,areallair.club,REJECT
 DOMAIN,areandarm.com,REJECT
-DOMAIN,areasins.com,REJECT
 DOMAIN,areasnap.com,REJECT
 DOMAIN,areasons.club,REJECT
 DOMAIN,areasonsimon.club,REJECT
@@ -11526,6 +11525,7 @@ DOMAIN,circuitewate.space,REJECT
 DOMAIN,circular-counters.com,REJECT
 DOMAIN,circumscribevetofurther.com,REJECT
 DOMAIN,circumstantialobtrusive.com,REJECT
+DOMAIN,cishantao.com,REJECT
 DOMAIN,cision.com,REJECT
 DOMAIN,citinnoiddidn.pro,REJECT
 DOMAIN,citizenshadowrequires.com,REJECT
@@ -23491,6 +23491,7 @@ DOMAIN,italy-lottery.com,REJECT
 DOMAIN,itaoxiaoshuo.com,REJECT
 DOMAIN,itcfnfi.com,REJECT
 DOMAIN,itcgin.net,REJECT
+DOMAIN,itchenjian.com,REJECT
 DOMAIN,itdise.info,REJECT
 DOMAIN,itechwall.com,REJECT
 DOMAIN,itefgucwwytfc.com,REJECT
@@ -33219,6 +33220,7 @@ DOMAIN,pinpoll.com,REJECT
 DOMAIN,pinresentag.info,REJECT
 DOMAIN,pintour.com,REJECT
 DOMAIN,pinttalewag.com,REJECT
+DOMAIN,pinyoux.com,REJECT
 DOMAIN,pinzhitmall.com,REJECT
 DOMAIN,piou.kirkir.xyz,REJECT
 DOMAIN,pip-pip-pop.com,REJECT
@@ -39224,6 +39226,7 @@ DOMAIN,sleeper-sofa.dreamhoster.com,REJECT
 DOMAIN,sleepwereexplanation.com,REJECT
 DOMAIN,slfpu.com,REJECT
 DOMAIN,slfsmf.com,REJECT
+DOMAIN,slgynezaygkjqi.com,REJECT
 DOMAIN,slhnj.com,REJECT
 DOMAIN,slib.tvmao.cn,REJECT
 DOMAIN,slickdeals.meritline.com,REJECT
@@ -46451,7 +46454,6 @@ DOMAIN,vxsnk.com,REJECT
 DOMAIN,vy4e3jw46l.com,REJECT
 DOMAIN,vyborexperta.ru,REJECT
 DOMAIN,vyg.mobi,REJECT
-DOMAIN,vyhezucha.pro,REJECT
 DOMAIN,vyk.admaster.com.cn,REJECT
 DOMAIN,vyule.com,REJECT
 DOMAIN,vz-cdn.contentabc.com,REJECT
@@ -51453,6 +51455,7 @@ DOMAIN,zxdvs.cn,REJECT
 DOMAIN,zxh.bzshzx.com,REJECT
 DOMAIN,zxhymh.com,REJECT
 DOMAIN,zxl.qzbxfs.com,REJECT
+DOMAIN,zxlmnet.com,REJECT
 DOMAIN,zxr.fzxrjx.com,REJECT
 DOMAIN,zxryytzesvn.com,REJECT
 DOMAIN,zxsddfs.pro,REJECT

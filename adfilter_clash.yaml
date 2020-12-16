@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwODEzMTA2Nwo=
+# Checksum: MTYwODE0MTg3Nwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-5
-# TimeUpdated: 2020-12-16T15:04:27+00:00
+# Version: 1.6.9-20201216-6
+# TimeUpdated: 2020-12-16T18:04:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51503
+# Total: 51506
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1077,6 +1077,7 @@ payload:
   - DOMAIN,51network.com
   - DOMAIN,51posuiji.org.cn
   - DOMAIN,51roadway.com
+  - DOMAIN,51showmy.com
   - DOMAIN,51sxzz.com
   - DOMAIN,51taifu.com
   - DOMAIN,51vipedu.com
@@ -5826,7 +5827,6 @@ payload:
   - DOMAIN,afairweb.com
   - DOMAIN,afbcashidr.com
   - DOMAIN,afcontent.net
-  - DOMAIN,afcxojqr.com
   - DOMAIN,afd.baidu.com
   - DOMAIN,afefw.com
   - DOMAIN,afeuvqrsswz.com
@@ -7517,7 +7517,6 @@ payload:
   - DOMAIN,areabet.net
   - DOMAIN,areallair.club
   - DOMAIN,areandarm.com
-  - DOMAIN,areasins.com
   - DOMAIN,areasnap.com
   - DOMAIN,areasons.club
   - DOMAIN,areasonsimon.club
@@ -11527,6 +11526,7 @@ payload:
   - DOMAIN,circular-counters.com
   - DOMAIN,circumscribevetofurther.com
   - DOMAIN,circumstantialobtrusive.com
+  - DOMAIN,cishantao.com
   - DOMAIN,cision.com
   - DOMAIN,citinnoiddidn.pro
   - DOMAIN,citizenshadowrequires.com
@@ -23492,6 +23492,7 @@ payload:
   - DOMAIN,itaoxiaoshuo.com
   - DOMAIN,itcfnfi.com
   - DOMAIN,itcgin.net
+  - DOMAIN,itchenjian.com
   - DOMAIN,itdise.info
   - DOMAIN,itechwall.com
   - DOMAIN,itefgucwwytfc.com
@@ -33220,6 +33221,7 @@ payload:
   - DOMAIN,pinresentag.info
   - DOMAIN,pintour.com
   - DOMAIN,pinttalewag.com
+  - DOMAIN,pinyoux.com
   - DOMAIN,pinzhitmall.com
   - DOMAIN,piou.kirkir.xyz
   - DOMAIN,pip-pip-pop.com
@@ -39225,6 +39227,7 @@ payload:
   - DOMAIN,sleepwereexplanation.com
   - DOMAIN,slfpu.com
   - DOMAIN,slfsmf.com
+  - DOMAIN,slgynezaygkjqi.com
   - DOMAIN,slhnj.com
   - DOMAIN,slib.tvmao.cn
   - DOMAIN,slickdeals.meritline.com
@@ -46452,7 +46455,6 @@ payload:
   - DOMAIN,vy4e3jw46l.com
   - DOMAIN,vyborexperta.ru
   - DOMAIN,vyg.mobi
-  - DOMAIN,vyhezucha.pro
   - DOMAIN,vyk.admaster.com.cn
   - DOMAIN,vyule.com
   - DOMAIN,vz-cdn.contentabc.com
@@ -51454,6 +51456,7 @@ payload:
   - DOMAIN,zxh.bzshzx.com
   - DOMAIN,zxhymh.com
   - DOMAIN,zxl.qzbxfs.com
+  - DOMAIN,zxlmnet.com
   - DOMAIN,zxr.fzxrjx.com
   - DOMAIN,zxryytzesvn.com
   - DOMAIN,zxsddfs.pro

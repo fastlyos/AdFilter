@@ -1,11 +1,11 @@
-# Checksum: MTYwODEzMTA2Nwo=
+# Checksum: MTYwODE0MTg3Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-5
-# TimeUpdated: 2020-12-16T15:04:27+00:00
+# Version: 1.6.9-20201216-6
+# TimeUpdated: 2020-12-16T18:04:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51503
+# Total: 51506
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2156,6 +2156,8 @@ ff02::3 ip6-allhosts
 :: 51posuiji.org.cn
 0.0.0.0 51roadway.com
 :: 51roadway.com
+0.0.0.0 51showmy.com
+:: 51showmy.com
 0.0.0.0 51sxzz.com
 :: 51sxzz.com
 0.0.0.0 51taifu.com
@@ -11654,8 +11656,6 @@ ff02::3 ip6-allhosts
 :: afbcashidr.com
 0.0.0.0 afcontent.net
 :: afcontent.net
-0.0.0.0 afcxojqr.com
-:: afcxojqr.com
 0.0.0.0 afd.baidu.com
 :: afd.baidu.com
 0.0.0.0 afefw.com
@@ -15036,8 +15036,6 @@ ff02::3 ip6-allhosts
 :: areallair.club
 0.0.0.0 areandarm.com
 :: areandarm.com
-0.0.0.0 areasins.com
-:: areasins.com
 0.0.0.0 areasnap.com
 :: areasnap.com
 0.0.0.0 areasons.club
@@ -23056,6 +23054,8 @@ ff02::3 ip6-allhosts
 :: circumscribevetofurther.com
 0.0.0.0 circumstantialobtrusive.com
 :: circumstantialobtrusive.com
+0.0.0.0 cishantao.com
+:: cishantao.com
 0.0.0.0 cision.com
 :: cision.com
 0.0.0.0 citinnoiddidn.pro
@@ -46986,6 +46986,8 @@ ff02::3 ip6-allhosts
 :: itcfnfi.com
 0.0.0.0 itcgin.net
 :: itcgin.net
+0.0.0.0 itchenjian.com
+:: itchenjian.com
 0.0.0.0 itdise.info
 :: itdise.info
 0.0.0.0 itechwall.com
@@ -66442,6 +66444,8 @@ ff02::3 ip6-allhosts
 :: pintour.com
 0.0.0.0 pinttalewag.com
 :: pinttalewag.com
+0.0.0.0 pinyoux.com
+:: pinyoux.com
 0.0.0.0 pinzhitmall.com
 :: pinzhitmall.com
 0.0.0.0 piou.kirkir.xyz
@@ -78452,6 +78456,8 @@ ff02::3 ip6-allhosts
 :: slfpu.com
 0.0.0.0 slfsmf.com
 :: slfsmf.com
+0.0.0.0 slgynezaygkjqi.com
+:: slgynezaygkjqi.com
 0.0.0.0 slhnj.com
 :: slhnj.com
 0.0.0.0 slib.tvmao.cn
@@ -92906,8 +92912,6 @@ ff02::3 ip6-allhosts
 :: vyborexperta.ru
 0.0.0.0 vyg.mobi
 :: vyg.mobi
-0.0.0.0 vyhezucha.pro
-:: vyhezucha.pro
 0.0.0.0 vyk.admaster.com.cn
 :: vyk.admaster.com.cn
 0.0.0.0 vyule.com
@@ -102910,6 +102914,8 @@ ff02::3 ip6-allhosts
 :: zxhymh.com
 0.0.0.0 zxl.qzbxfs.com
 :: zxl.qzbxfs.com
+0.0.0.0 zxlmnet.com
+:: zxlmnet.com
 0.0.0.0 zxr.fzxrjx.com
 :: zxr.fzxrjx.com
 0.0.0.0 zxryytzesvn.com
