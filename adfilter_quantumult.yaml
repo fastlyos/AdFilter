@@ -1,11 +1,11 @@
-# Checksum: MTYwODEyMDM2Ngo=
+# Checksum: MTYwODEzMTA2Nwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-4
-# TimeUpdated: 2020-12-16T12:06:06+00:00
+# Version: 1.6.9-20201216-5
+# TimeUpdated: 2020-12-16T15:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51504
+# Total: 51503
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -643,6 +643,7 @@ DOMAIN,29ae58661b9c7178.com,REJECT
 DOMAIN,29d65cebb82ef9f.com,REJECT
 DOMAIN,2a.com.cn,REJECT
 DOMAIN,2a12be6140880286.com,REJECT
+DOMAIN,2am0yc33wt2e.ru,REJECT
 DOMAIN,2b43cb6a34a.com,REJECT
 DOMAIN,2b815136jjjv.com,REJECT
 DOMAIN,2bbb379103988619ef.com,REJECT
@@ -9148,7 +9149,6 @@ DOMAIN,bewaslac.com,REJECT
 DOMAIN,bewaycare.com,REJECT
 DOMAIN,bewilderedbattle.com,REJECT
 DOMAIN,bewilderedblade.com,REJECT
-DOMAIN,bexrnrxbgh.com,REJECT
 DOMAIN,bextra-store.shengen.ru,REJECT
 DOMAIN,bf-tools.net,REJECT
 DOMAIN,bf3c1229dc6f28b2.com,REJECT
@@ -22034,7 +22034,6 @@ DOMAIN,hystericalhelp.com,REJECT
 DOMAIN,hystq.com,REJECT
 DOMAIN,hytcsh.cn,REJECT
 DOMAIN,hytgj.com,REJECT
-DOMAIN,hyuanprint.com,REJECT
 DOMAIN,hyunke.com,REJECT
 DOMAIN,hyxca.top,REJECT
 DOMAIN,hz-sllace.com,REJECT
@@ -23553,6 +23552,7 @@ DOMAIN,ivanie.com,REJECT
 DOMAIN,ivcbrasil.org.br,REJECT
 DOMAIN,ivfihumeajjmbc.com,REJECT
 DOMAIN,ivhnnw.com,REJECT
+DOMAIN,ivjtgtjcizwh.com,REJECT
 DOMAIN,ivnakaa.pro,REJECT
 DOMAIN,ivnsssc.pro,REJECT
 DOMAIN,ivoophie.net,REJECT
@@ -24470,6 +24470,7 @@ DOMAIN,juxiangyou.com,REJECT
 DOMAIN,juxiao.adsmogo.net,REJECT
 DOMAIN,juxiao.mediav.com,REJECT
 DOMAIN,juxilm.com,REJECT
+DOMAIN,juxupsasu.pro,REJECT
 DOMAIN,juyoufan.net,REJECT
 DOMAIN,juzi.cn,REJECT
 DOMAIN,juzilm.com,REJECT
@@ -31596,7 +31597,6 @@ DOMAIN,onetag-sys.com,REJECT
 DOMAIN,onetag.io,REJECT
 DOMAIN,onetag.mgr.consensu.org,REJECT
 DOMAIN,onetouch4.com,REJECT
-DOMAIN,onetrust.com,REJECT
 DOMAIN,oneund.com,REJECT
 DOMAIN,onevimnit.com,REJECT
 DOMAIN,onewhee.com,REJECT
@@ -34130,7 +34130,6 @@ DOMAIN,pritesol.com,REJECT
 DOMAIN,privacy.claytonhomes.com,REJECT
 DOMAIN,privacy.clion.agency,REJECT
 DOMAIN,privacy.selbst.de,REJECT
-DOMAIN,privacymanager.io,REJECT
 DOMAIN,privacypolicy.trgr.be,REJECT
 DOMAIN,privacyportal.fatergroup.com,REJECT
 DOMAIN,privacysearching.com,REJECT
@@ -36979,7 +36978,6 @@ DOMAIN,rum.minutemediaservices.com,REJECT
 DOMAIN,rum.nccgroup-webperf.com,REJECT
 DOMAIN,rum.uptime.com,REJECT
 DOMAIN,rumanalytics.com,REJECT
-DOMAIN,rumble.com,REJECT
 DOMAIN,rummyaffiliates.com,REJECT
 DOMAIN,rumpelstiltskinhead.com,REJECT
 DOMAIN,run-syndicate.com,REJECT
@@ -46453,6 +46451,7 @@ DOMAIN,vxsnk.com,REJECT
 DOMAIN,vy4e3jw46l.com,REJECT
 DOMAIN,vyborexperta.ru,REJECT
 DOMAIN,vyg.mobi,REJECT
+DOMAIN,vyhezucha.pro,REJECT
 DOMAIN,vyk.admaster.com.cn,REJECT
 DOMAIN,vyule.com,REJECT
 DOMAIN,vz-cdn.contentabc.com,REJECT

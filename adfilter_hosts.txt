@@ -1,11 +1,11 @@
-# Checksum: MTYwODEyMDM2Ngo=
+# Checksum: MTYwODEzMTA2Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-4
-# TimeUpdated: 2020-12-16T12:06:06+00:00
+# Version: 1.6.9-20201216-5
+# TimeUpdated: 2020-12-16T15:04:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51504
+# Total: 51503
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1290,6 +1290,8 @@ ff02::3 ip6-allhosts
 :: 2a.com.cn
 0.0.0.0 2a12be6140880286.com
 :: 2a12be6140880286.com
+0.0.0.0 2am0yc33wt2e.ru
+:: 2am0yc33wt2e.ru
 0.0.0.0 2b43cb6a34a.com
 :: 2b43cb6a34a.com
 0.0.0.0 2b815136jjjv.com
@@ -18300,8 +18302,6 @@ ff02::3 ip6-allhosts
 :: bewilderedbattle.com
 0.0.0.0 bewilderedblade.com
 :: bewilderedblade.com
-0.0.0.0 bexrnrxbgh.com
-:: bexrnrxbgh.com
 0.0.0.0 bextra-store.shengen.ru
 :: bextra-store.shengen.ru
 0.0.0.0 bf-tools.net
@@ -44072,8 +44072,6 @@ ff02::3 ip6-allhosts
 :: hytcsh.cn
 0.0.0.0 hytgj.com
 :: hytgj.com
-0.0.0.0 hyuanprint.com
-:: hyuanprint.com
 0.0.0.0 hyunke.com
 :: hyunke.com
 0.0.0.0 hyxca.top
@@ -47110,6 +47108,8 @@ ff02::3 ip6-allhosts
 :: ivfihumeajjmbc.com
 0.0.0.0 ivhnnw.com
 :: ivhnnw.com
+0.0.0.0 ivjtgtjcizwh.com
+:: ivjtgtjcizwh.com
 0.0.0.0 ivnakaa.pro
 :: ivnakaa.pro
 0.0.0.0 ivnsssc.pro
@@ -48944,6 +48944,8 @@ ff02::3 ip6-allhosts
 :: juxiao.mediav.com
 0.0.0.0 juxilm.com
 :: juxilm.com
+0.0.0.0 juxupsasu.pro
+:: juxupsasu.pro
 0.0.0.0 juyoufan.net
 :: juyoufan.net
 0.0.0.0 juzi.cn
@@ -63196,8 +63198,6 @@ ff02::3 ip6-allhosts
 :: onetag.mgr.consensu.org
 0.0.0.0 onetouch4.com
 :: onetouch4.com
-0.0.0.0 onetrust.com
-:: onetrust.com
 0.0.0.0 oneund.com
 :: oneund.com
 0.0.0.0 onevimnit.com
@@ -68264,8 +68264,6 @@ ff02::3 ip6-allhosts
 :: privacy.clion.agency
 0.0.0.0 privacy.selbst.de
 :: privacy.selbst.de
-0.0.0.0 privacymanager.io
-:: privacymanager.io
 0.0.0.0 privacypolicy.trgr.be
 :: privacypolicy.trgr.be
 0.0.0.0 privacyportal.fatergroup.com
@@ -73962,8 +73960,6 @@ ff02::3 ip6-allhosts
 :: rum.uptime.com
 0.0.0.0 rumanalytics.com
 :: rumanalytics.com
-0.0.0.0 rumble.com
-:: rumble.com
 0.0.0.0 rummyaffiliates.com
 :: rummyaffiliates.com
 0.0.0.0 rumpelstiltskinhead.com
@@ -92910,6 +92906,8 @@ ff02::3 ip6-allhosts
 :: vyborexperta.ru
 0.0.0.0 vyg.mobi
 :: vyg.mobi
+0.0.0.0 vyhezucha.pro
+:: vyhezucha.pro
 0.0.0.0 vyk.admaster.com.cn
 :: vyk.admaster.com.cn
 0.0.0.0 vyule.com
