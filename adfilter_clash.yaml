@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwODA2NjIyNgo=
+# Checksum: MTYwODA3NzM3Ngo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201215-7
-# TimeUpdated: 2020-12-15T21:03:46+00:00
+# Version: 1.6.9-20201216-0
+# TimeUpdated: 2020-12-16T00:09:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51530
+# Total: 51555
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -708,6 +708,7 @@ payload:
   - DOMAIN,2shoushi.com
   - DOMAIN,2site.com
   - DOMAIN,2smt6mfgo.de
+  - DOMAIN,2solo.biz
   - DOMAIN,2te.com
   - DOMAIN,2tpwcqot22mb.com
   - DOMAIN,2track.info
@@ -1385,6 +1386,7 @@ payload:
   - DOMAIN,7419fec8ce83.com
   - DOMAIN,746bdf1ce3.com
   - DOMAIN,746fyw2v.com
+  - DOMAIN,747c749303.com
   - DOMAIN,749558.com
   - DOMAIN,74d382def7b08.com
   - DOMAIN,7500.com
@@ -7637,6 +7639,7 @@ payload:
   - DOMAIN,asd2.projectfreetv.so
   - DOMAIN,asdasdad.net
   - DOMAIN,asdhit.com
+  - DOMAIN,asdnn1331.xyz
   - DOMAIN,asdorka.com
   - DOMAIN,asdpoi.com
   - DOMAIN,asdqweq.com
@@ -7822,6 +7825,7 @@ payload:
   - DOMAIN,attacketslovern.info
   - DOMAIN,attacketsun.space
   - DOMAIN,attackscabbagevengeance.com
+  - DOMAIN,attenuatecripple.com
   - DOMAIN,atterrounesh.info
   - DOMAIN,atticwicket.com
   - DOMAIN,attirerpage.com
@@ -9080,6 +9084,7 @@ payload:
   - DOMAIN,besthuaxia.com
   - DOMAIN,besti.ga
   - DOMAIN,bestmmo2018.com
+  - DOMAIN,bestmoneysites.com
   - DOMAIN,bestnews.biz
   - DOMAIN,bestofferdirect.com
   - DOMAIN,bestonlinecoupons.com
@@ -11932,6 +11937,7 @@ payload:
   - DOMAIN,clineddivoryr.site
   - DOMAIN,clipbongda.info
   - DOMAIN,cliquemidia.com
+  - DOMAIN,cliquesteria.net
   - DOMAIN,clixco.in
   - DOMAIN,clixcount.com
   - DOMAIN,clixgalore.com
@@ -14351,6 +14357,7 @@ payload:
   - DOMAIN,dailydeals.onlineathens.com
   - DOMAIN,dailydeals.savannahnow.com
   - DOMAIN,dailyecho-gb.dailyecho.co.uk
+  - DOMAIN,dailyinterventioncongestion.com
   - DOMAIN,dailylog.storm.baofeng.com
   - DOMAIN,dailynews.support
   - DOMAIN,dailynewstonight.com
@@ -15022,6 +15029,7 @@ payload:
   - DOMAIN,dgmatix.com
   - DOMAIN,dgmaustralia.com
   - DOMAIN,dgmaxinteractive.com
+  - DOMAIN,dgpcdn.org
   - DOMAIN,dgpp7fq3iorb.cloudfront.net
   - DOMAIN,dgstatic.jd.com
   - DOMAIN,dgw7ae5vrovs7.cloudfront.net
@@ -15533,6 +15541,7 @@ payload:
   - DOMAIN,doesok.top
   - DOMAIN,doflygonan.com
   - DOMAIN,dogconcurrencesauce.com
+  - DOMAIN,dogemate.com
   - DOMAIN,doghauky.net
   - DOMAIN,doghoust.net
   - DOMAIN,doglobal.com
@@ -17084,6 +17093,7 @@ payload:
   - DOMAIN,enumerfavo.club
   - DOMAIN,enviousshape.com
   - DOMAIN,enviousthread.com
+  - DOMAIN,environymsc.info
   - DOMAIN,envyemerged.com
   - DOMAIN,enw.nwpuis.top
   - DOMAIN,enyayinxiang.com
@@ -17642,7 +17652,6 @@ payload:
   - DOMAIN,exclusiveclicks.com
   - DOMAIN,exclusivegiftcards.com
   - DOMAIN,exclusivepussy.com
-  - DOMAIN,excluzive.net
   - DOMAIN,excpm.com
   - DOMAIN,excuseearthquake.com
   - DOMAIN,exd4.destinia.com.au
@@ -19855,6 +19864,7 @@ payload:
   - DOMAIN,ggdydz.com
   - DOMAIN,ggg.zj.com
   - DOMAIN,ggic.cmvideo.cn
+  - DOMAIN,ggjcswb4rln4.com
   - DOMAIN,ggjs.d17.cc
   - DOMAIN,ggle.lywf.me
   - DOMAIN,gglscr.online
@@ -25379,6 +25389,7 @@ payload:
   - DOMAIN,lcprd1.samsungcloudsolution.net
   - DOMAIN,lcprd2.samsungcloudsolution.net
   - DOMAIN,lcrmm.top
+  - DOMAIN,lcryooiliokm.com
   - DOMAIN,lcs.comico.jp
   - DOMAIN,lcs.dev.surepush.cn
   - DOMAIN,lcs.livedoor.net
@@ -26384,6 +26395,7 @@ payload:
   - DOMAIN,lojapremio.com.br
   - DOMAIN,lokeriklan.com
   - DOMAIN,loki.maximonline.ru
+  - DOMAIN,loktrk.com
   - DOMAIN,lokuai.com
   - DOMAIN,lokvel.ru
   - DOMAIN,lol.pnhfc.com
@@ -26685,6 +26697,7 @@ payload:
   - DOMAIN,lwhsdfc.cn
   - DOMAIN,lwmwrsfzm.com
   - DOMAIN,lwsxrphion.com
+  - DOMAIN,lwt940302.cn
   - DOMAIN,lwxjg.com
   - DOMAIN,lwxlsj.wap.xsbiquge.com
   - DOMAIN,lwz.ffhre.com
@@ -30293,6 +30306,7 @@ payload:
   - DOMAIN,news.newinform.com
   - DOMAIN,news.poxi5.com
   - DOMAIN,news.push.126.net
+  - DOMAIN,news.pustgovorjat.ru
   - DOMAIN,news.qhstatic.com
   - DOMAIN,news.retire.ly
   - DOMAIN,news.smi2.ru
@@ -30715,6 +30729,7 @@ payload:
   - DOMAIN,northmay.com
   - DOMAIN,northtariffgallon.com
   - DOMAIN,northwichguardian-gb.northwichguardian.co.uk
+  - DOMAIN,northyap.com
   - DOMAIN,northyatters.site
   - DOMAIN,norvalur.xyz
   - DOMAIN,nosaurpro.fun
@@ -30724,6 +30739,7 @@ payload:
   - DOMAIN,nostalgicknot.com
   - DOMAIN,nostalgicneed.com
   - DOMAIN,nostrilsgovernmentclaw.com
+  - DOMAIN,nostrilsterrifying.com
   - DOMAIN,not-only.info
   - DOMAIN,notbad-ads.com
   - DOMAIN,notchchatterboxdoor.com
@@ -32880,6 +32896,7 @@ payload:
   - DOMAIN,pge.unityads.unity3d.com
   - DOMAIN,pgepkagfndl.com
   - DOMAIN,pgmediaserve.com
+  - DOMAIN,pgmrko89prom.com
   - DOMAIN,pgold.pro
   - DOMAIN,pgonews.pro
   - DOMAIN,pgpartner.com
@@ -33283,6 +33300,7 @@ payload:
   - DOMAIN,pixel.s3xified.com
   - DOMAIN,pixel.safe-installation.com
   - DOMAIN,pixel.sitescout.com
+  - DOMAIN,pixel.smartmedia.tj
   - DOMAIN,pixel.sojern.com
   - DOMAIN,pixel.solvemedia.com
   - DOMAIN,pixel.spotify.com
@@ -33872,6 +33890,7 @@ payload:
   - DOMAIN,pouluwie.net
   - DOMAIN,pouncewhineheadquarter.com
   - DOMAIN,poupheeg.com
+  - DOMAIN,pourdear.com
   - DOMAIN,pourmajeurs.com
   - DOMAIN,powderprofit.com
   - DOMAIN,power.adhacker.online
@@ -38748,6 +38767,7 @@ payload:
   - DOMAIN,shence.hupu.com
   - DOMAIN,shengchaopiao.cn
   - DOMAIN,shenglonghg.net
+  - DOMAIN,shengushi.cn
   - DOMAIN,shenhao258.top
   - DOMAIN,shenleyuni.com
   - DOMAIN,shenouth.com
@@ -41310,6 +41330,7 @@ payload:
   - DOMAIN,superwidget-assets.gowatchit.com
   - DOMAIN,supfast.net
   - DOMAIN,supletcedintand.pro
+  - DOMAIN,supperopeningturnstile.com
   - DOMAIN,supplegrassgrapes.com
   - DOMAIN,supplements.1.p2l.info
   - DOMAIN,supply.upjers.com
@@ -43778,6 +43799,7 @@ payload:
   - DOMAIN,tracking.internetstores.de
   - DOMAIN,tracking.interweave.com
   - DOMAIN,tracking.intl.miui.com
+  - DOMAIN,tracking.jiffyworld.com
   - DOMAIN,tracking.joker.com
   - DOMAIN,tracking.jotform.com
   - DOMAIN,tracking.kdata.fr
@@ -44514,6 +44536,7 @@ payload:
   - DOMAIN,tuxi.com.cn
   - DOMAIN,tuygdfsydexdeb.com
   - DOMAIN,tv.code.jjyx.com
+  - DOMAIN,tv1s4d6klh4n.com
   - DOMAIN,tveszimawy.com
   - DOMAIN,tveta.naver.net
   - DOMAIN,tvjkilgfanpt.com
@@ -50029,6 +50052,7 @@ payload:
   - DOMAIN,xml.revrtb.net
   - DOMAIN,xml.yepmedia.com
   - DOMAIN,xmlads.bid
+  - DOMAIN,xmlgrab.com
   - DOMAIN,xmljx.cn
   - DOMAIN,xmlmonetize.com
   - DOMAIN,xmlppcbuzz.com
@@ -51246,6 +51270,7 @@ payload:
   - DOMAIN,zhuahu.com
   - DOMAIN,zhuanshenghuo1.kuaizhan.com
   - DOMAIN,zhuba8.com
+  - DOMAIN,zhulik2ne1voruy1d.com
   - DOMAIN,zhululm.com
   - DOMAIN,zhushicm.com
   - DOMAIN,zhuwawa.net
