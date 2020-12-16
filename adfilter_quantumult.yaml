@@ -1,11 +1,11 @@
-# Checksum: MTYwODA3NzM3Ngo=
+# Checksum: MTYwODA4Nzg1Ngo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-0
-# TimeUpdated: 2020-12-16T00:09:36+00:00
+# Version: 1.6.9-20201216-1
+# TimeUpdated: 2020-12-16T03:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51555
+# Total: 51561
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -3265,7 +3265,6 @@ DOMAIN,addesigner.com,REJECT
 DOMAIN,addfreestats.com,REJECT
 DOMAIN,addie.verticalnetwork.de,REJECT
 DOMAIN,addinto.com,REJECT
-DOMAIN,addiply.com,REJECT
 DOMAIN,addirector.vindicosuite.com,REJECT
 DOMAIN,additionalmedia.com,REJECT
 DOMAIN,additionant.com,REJECT
@@ -12323,6 +12322,7 @@ DOMAIN,coins.now.sh,REJECT
 DOMAIN,coinstash1.now.sh,REJECT
 DOMAIN,coinsup.com,REJECT
 DOMAIN,cointent.com,REJECT
+DOMAIN,cointiply.com,REJECT
 DOMAIN,coinverti.com,REJECT
 DOMAIN,coinwebmining.com,REJECT
 DOMAIN,coinwire.eu,REJECT
@@ -18454,6 +18454,7 @@ DOMAIN,fjrkn.com,REJECT
 DOMAIN,fjsjsj.com,REJECT
 DOMAIN,fjtzjy.com,REJECT
 DOMAIN,fjxyo.com,REJECT
+DOMAIN,fjylcy.com,REJECT
 DOMAIN,fjzimaoqu.cn,REJECT
 DOMAIN,fkart.xyz,REJECT
 DOMAIN,fkbwtoopwg.com,REJECT
@@ -19262,6 +19263,7 @@ DOMAIN,g5150192710.co,REJECT
 DOMAIN,g52bl.cn,REJECT
 DOMAIN,g52bxi1v1w.com,REJECT
 DOMAIN,g5348277045.co,REJECT
+DOMAIN,g5546361380.co,REJECT
 DOMAIN,g5fzq2l.com,REJECT
 DOMAIN,g60gzundjgel.com,REJECT
 DOMAIN,g6zkzy0g2g.com,REJECT
@@ -20411,6 +20413,7 @@ DOMAIN,gratis-counter-gratis.de,REJECT
 DOMAIN,gratisnetwork.com,REJECT
 DOMAIN,graucoay.net,REJECT
 DOMAIN,graunada.com,REJECT
+DOMAIN,gravellocus.com,REJECT
 DOMAIN,gravitec.net,REJECT
 DOMAIN,gravitron.chron.com,REJECT
 DOMAIN,graxarosi.pro,REJECT
@@ -20507,6 +20510,7 @@ DOMAIN,groniwepa.pro,REJECT
 DOMAIN,groobsoo.com,REJECT
 DOMAIN,groogleh.net,REJECT
 DOMAIN,grooksom.com,REJECT
+DOMAIN,groomaffections.com,REJECT
 DOMAIN,grooptie.com,REJECT
 DOMAIN,groorgex.net,REJECT
 DOMAIN,groovinads.com,REJECT
@@ -23523,6 +23527,7 @@ DOMAIN,iu1xoe7o.com,REJECT
 DOMAIN,iu33dq2.wang,REJECT
 DOMAIN,iulftx.com,REJECT
 DOMAIN,iulianus-mon.com,REJECT
+DOMAIN,iupgxu.com,REJECT
 DOMAIN,iupot.com,REJECT
 DOMAIN,iutkryvnixptlg.com,REJECT
 DOMAIN,iutr.uozwys.top,REJECT
@@ -40102,6 +40107,7 @@ DOMAIN,sresumablye.club,REJECT
 DOMAIN,srezrzsyqrikab.com,REJECT
 DOMAIN,srhuafeng.com,REJECT
 DOMAIN,srigbxxv.com,REJECT
+DOMAIN,srirockers.fun,REJECT
 DOMAIN,srkft.com,REJECT
 DOMAIN,srocvhaeaz.com,REJECT
 DOMAIN,srodicham.com,REJECT

@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYwODA3NzM3Ngo=
+# Checksum: MTYwODA4Nzg1Ngo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201216-0
-# TimeUpdated: 2020-12-16T00:09:36+00:00
+# Version: 1.6.9-20201216-1
+# TimeUpdated: 2020-12-16T03:04:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51555
+# Total: 51561
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -3266,7 +3266,6 @@ payload:
   - DOMAIN,addfreestats.com
   - DOMAIN,addie.verticalnetwork.de
   - DOMAIN,addinto.com
-  - DOMAIN,addiply.com
   - DOMAIN,addirector.vindicosuite.com
   - DOMAIN,additionalmedia.com
   - DOMAIN,additionant.com
@@ -12324,6 +12323,7 @@ payload:
   - DOMAIN,coinstash1.now.sh
   - DOMAIN,coinsup.com
   - DOMAIN,cointent.com
+  - DOMAIN,cointiply.com
   - DOMAIN,coinverti.com
   - DOMAIN,coinwebmining.com
   - DOMAIN,coinwire.eu
@@ -18455,6 +18455,7 @@ payload:
   - DOMAIN,fjsjsj.com
   - DOMAIN,fjtzjy.com
   - DOMAIN,fjxyo.com
+  - DOMAIN,fjylcy.com
   - DOMAIN,fjzimaoqu.cn
   - DOMAIN,fkart.xyz
   - DOMAIN,fkbwtoopwg.com
@@ -19263,6 +19264,7 @@ payload:
   - DOMAIN,g52bl.cn
   - DOMAIN,g52bxi1v1w.com
   - DOMAIN,g5348277045.co
+  - DOMAIN,g5546361380.co
   - DOMAIN,g5fzq2l.com
   - DOMAIN,g60gzundjgel.com
   - DOMAIN,g6zkzy0g2g.com
@@ -20412,6 +20414,7 @@ payload:
   - DOMAIN,gratisnetwork.com
   - DOMAIN,graucoay.net
   - DOMAIN,graunada.com
+  - DOMAIN,gravellocus.com
   - DOMAIN,gravitec.net
   - DOMAIN,gravitron.chron.com
   - DOMAIN,graxarosi.pro
@@ -20508,6 +20511,7 @@ payload:
   - DOMAIN,groobsoo.com
   - DOMAIN,groogleh.net
   - DOMAIN,grooksom.com
+  - DOMAIN,groomaffections.com
   - DOMAIN,grooptie.com
   - DOMAIN,groorgex.net
   - DOMAIN,groovinads.com
@@ -23524,6 +23528,7 @@ payload:
   - DOMAIN,iu33dq2.wang
   - DOMAIN,iulftx.com
   - DOMAIN,iulianus-mon.com
+  - DOMAIN,iupgxu.com
   - DOMAIN,iupot.com
   - DOMAIN,iutkryvnixptlg.com
   - DOMAIN,iutr.uozwys.top
@@ -40103,6 +40108,7 @@ payload:
   - DOMAIN,srezrzsyqrikab.com
   - DOMAIN,srhuafeng.com
   - DOMAIN,srigbxxv.com
+  - DOMAIN,srirockers.fun
   - DOMAIN,srkft.com
   - DOMAIN,srocvhaeaz.com
   - DOMAIN,srodicham.com
