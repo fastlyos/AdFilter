@@ -1,11 +1,11 @@
-# Checksum: MTYwODE2Mzg2Mwo=
+# Checksum: MTYwODE3NDI4Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.6.9-20201217-0
-# TimeUpdated: 2020-12-17T00:11:03+00:00
+# Version: 1.6.9-20201217-1
+# TimeUpdated: 2020-12-17T03:04:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 51516
+# Total: 51531
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1272,6 +1272,8 @@ ff02::3 ip6-allhosts
 :: 283.laobanfa.com
 0.0.0.0 285680.com
 :: 285680.com
+0.0.0.0 28570a644a.com
+:: 28570a644a.com
 0.0.0.0 2894c9d5b32.com
 :: 2894c9d5b32.com
 0.0.0.0 2898.com
@@ -1578,6 +1580,8 @@ ff02::3 ip6-allhosts
 :: 3585656d9351553f.com
 0.0.0.0 35baba.cn
 :: 35baba.cn
+0.0.0.0 35d59588f15966.com
+:: 35d59588f15966.com
 0.0.0.0 35jd5gql9m.monster
 :: 35jd5gql9m.monster
 0.0.0.0 3600.com
@@ -2198,6 +2202,8 @@ ff02::3 ip6-allhosts
 :: 52kmh.com
 0.0.0.0 52kmk.com
 :: 52kmk.com
+0.0.0.0 52linglei.com
+:: 52linglei.com
 0.0.0.0 52m.xde6.net
 :: 52m.xde6.net
 0.0.0.0 52shouyou.com.cn
@@ -2640,6 +2646,8 @@ ff02::3 ip6-allhosts
 :: 6eez7ouig7gwguf6.pro
 0.0.0.0 6esfc37938pur4.com
 :: 6esfc37938pur4.com
+0.0.0.0 6f1dba68f65.com
+:: 6f1dba68f65.com
 0.0.0.0 6f2bdffd6587d.com
 :: 6f2bdffd6587d.com
 0.0.0.0 6f2tjr26.top
@@ -16472,6 +16480,8 @@ ff02::3 ip6-allhosts
 :: b4xuj.zzhhts.com
 0.0.0.0 b56f9c50130def4d.com
 :: b56f9c50130def4d.com
+0.0.0.0 b57acfcd767.com
+:: b57acfcd767.com
 0.0.0.0 b59812ee54afcabd.com
 :: b59812ee54afcabd.com
 0.0.0.0 b5ae848728034caddca.com
@@ -17740,6 +17750,8 @@ ff02::3 ip6-allhosts
 :: beacon.errorception.com
 0.0.0.0 beacon.examiner.com
 :: beacon.examiner.com
+0.0.0.0 beacon.flow.io
+:: beacon.flow.io
 0.0.0.0 beacon.gcion.com
 :: beacon.gcion.com
 0.0.0.0 beacon.gu-web.net
@@ -25296,6 +25308,8 @@ ff02::3 ip6-allhosts
 :: contenture.com
 0.0.0.0 contentwidgets.net
 :: contentwidgets.net
+0.0.0.0 contestdestiny.com
+:: contestdestiny.com
 0.0.0.0 context-art.ru
 :: context-art.ru
 0.0.0.0 context.hotline.ua
@@ -38450,8 +38464,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g.zx-jsp.com
 :: g.zx-jsp.com
 0.0.0.0 g0b2rzzyu87s.com
@@ -51416,6 +51428,8 @@ ff02::3 ip6-allhosts
 :: lgr.visilabs.net
 0.0.0.0 lgse.com
 :: lgse.com
+0.0.0.0 lgwdtfmd.com
+:: lgwdtfmd.com
 0.0.0.0 lh.secure.yahoo.com
 :: lh.secure.yahoo.com
 0.0.0.0 lhafy.com
@@ -53768,6 +53782,8 @@ ff02::3 ip6-allhosts
 :: m.ayues.com
 0.0.0.0 m.b2bchinese.cn
 :: m.b2bchinese.cn
+0.0.0.0 m.baidu.com.yiqisee.cn
+:: m.baidu.com.yiqisee.cn
 0.0.0.0 m.baidu.com.zhiduo.org
 :: m.baidu.com.zhiduo.org
 0.0.0.0 m.bailingjiankang.com
@@ -55234,6 +55250,8 @@ ff02::3 ip6-allhosts
 :: manageadv.cblogs.eu
 0.0.0.0 manager.browsermine.com
 :: manager.browsermine.com
+0.0.0.0 managesdancing.com
+:: managesdancing.com
 0.0.0.0 managewp.org
 :: managewp.org
 0.0.0.0 managining.club
@@ -63716,6 +63734,8 @@ ff02::3 ip6-allhosts
 :: oqhrlphoecl.com
 0.0.0.0 oqn2ujcvgki0fgqy.pro
 :: oqn2ujcvgki0fgqy.pro
+0.0.0.0 oqogtkqquflpf.com
+:: oqogtkqquflpf.com
 0.0.0.0 oqrjbnriumr.com
 :: oqrjbnriumr.com
 0.0.0.0 oqwrba.com
@@ -67526,6 +67546,8 @@ ff02::3 ip6-allhosts
 :: popmyad.com
 0.0.0.0 popmyads.com
 :: popmyads.com
+0.0.0.0 popmycash.com
+:: popmycash.com
 0.0.0.0 popnc.com
 :: popnc.com
 0.0.0.0 poponclick.com
@@ -73092,6 +73114,8 @@ ff02::3 ip6-allhosts
 :: rightstaredstun.com
 0.0.0.0 rightstats.com
 :: rightstats.com
+0.0.0.0 rigourcrispblaspheme.com
+:: rigourcrispblaspheme.com
 0.0.0.0 rilelogicbuy.com
 :: rilelogicbuy.com
 0.0.0.0 riluaneth.com
@@ -74102,6 +74126,8 @@ ff02::3 ip6-allhosts
 :: rvbxnnwdsi.com
 0.0.0.0 rviceschoolr.club
 :: rviceschoolr.club
+0.0.0.0 rvkfiomrjn.com
+:: rvkfiomrjn.com
 0.0.0.0 rvnc72k.com
 :: rvnc72k.com
 0.0.0.0 rvt2687sqo9o.ru
@@ -79792,6 +79818,8 @@ ff02::3 ip6-allhosts
 :: speciativepickedly.info
 0.0.0.0 speciesdecency.com
 :: speciesdecency.com
+0.0.0.0 specificallydoubtless.com
+:: specificallydoubtless.com
 0.0.0.0 specifican.club
 :: specifican.club
 0.0.0.0 specificmedia.co.uk
@@ -94214,6 +94242,8 @@ ff02::3 ip6-allhosts
 :: wffengtai.com.cn
 0.0.0.0 wfhaabydba.com
 :: wfhaabydba.com
+0.0.0.0 wfhucstzrdpvmi.com
+:: wfhucstzrdpvmi.com
 0.0.0.0 wfhxssg.com
 :: wfhxssg.com
 0.0.0.0 wfmarlexic.com
